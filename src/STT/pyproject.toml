@@ -1,0 +1,20 @@
+[project]
+name = "medical-stt"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "whisperx",
+    "pydantic-settings",
+    "typer",
+    "python-dotenv",
+]
+
+[project.scripts]
+medical-stt = "medical_stt.cli:app"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
