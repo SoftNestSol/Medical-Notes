@@ -1,0 +1,816 @@
+ID,section_header,section_text,dialogue
+0,Istoric general,"Pacienta este o femeie de 26 de ani, trimisă la fizioterapie pentru durere lombară. Are antecedente de traumatism la nivel lombar. Relatează că leziunea inițială s-a produs acum opt ani, când a căzut într-un magazin. A făcut una-două ședințe de fizioterapie, cu tratament prin electrostimulare și aplicații calde, conform amintirilor pacientei. De atunci a avut durere lombară continuă, cu intensitate variabilă. A născut în august 2008 și de la naștere a avut durere lombară. Mai relatează o cădere în urmă cu patru-cinci zile, în timp ce spăla podeaua, când a aterizat pe coccis, iar simptomele s-au accentuat. Prima evaluare medicală a fost la 10.01.2009, cu control programat la 10.02.2009.","DOCTOR: Când a început durerea?
+PACIENT: Am durere lombară cam de opt ani.
+DOCTOR: A existat vreo accidentare?
+PACIENT: Da, a început când am căzut într-un magazin.
+DOCTOR: Câți ani aveți acum?
+PACIENT: Douăzeci și șase.
+DOCTOR: Ce tratamente ați făcut pentru durerea aceasta de spate?
+PACIENT: Am fost trimisă la fizioterapie și am mers o dată sau de două ori. Din câte îmi amintesc, mi-au făcut doar electrostimulare și căldură.
+DOCTOR: Înțeleg. Cum a evoluat durerea în ultimii opt ani?
+PACIENT: A fost destul de continuă, dar cu intensitate diferită, uneori mai bine, alteori mai rău.
+DOCTOR: Aveți copii?
+PACIENT: Da, am născut în august 2008 și de atunci mă doare spatele.
+DOCTOR: Ați mai căzut după incidentul inițial?
+PACIENT: Da, acum patru sau cinci zile, în timp ce spălam podeaua.
+DOCTOR: Ați căzut din nou pe zona lombară?
+PACIENT: Da, direct pe coccis.
+DOCTOR: V-a agravat durerea lombară?
+PACIENT: Da.
+DOCTOR: Ați mai fost consultată pentru această problemă?
+PACIENT: Da, am fost văzută pe 10 ianuarie 2009 și am control pe 10 februarie 2009."
+1,Revizuirea sistemelor,"După cum s-a menționat, neagă edem orofaringian. Nu prezintă umflare a buzelor sau limbii. Nu are wheezing sau dispnee. Nu are cefalee și nu are greață. Prezintă erupție pruriginoasă, mai ales pe trunchi și pe partea superioară a brațelor.","DOCTOR: Bună, ce te aduce astăzi?
+PACIENT: O erupție pe brațe și pe trunchi.
+DOCTOR: Când a început?
+PACIENT: Cam acum o zi sau două.
+DOCTOR: Te mănâncă zona?
+PACIENT: Da, destul de tare.
+DOCTOR: Ai avut lipsă de aer sau respirație șuierătoare?
+PACIENT: Nu.
+DOCTOR: Umflarea buzelor, limbii sau gâtului?
+PACIENT: Nu.
+DOCTOR: Fără greață sau dureri de cap?
+PACIENT: Nu.
+DOCTOR: Ai aplicat ceva pe erupție?
+PACIENT: Nu, am crezut că trece singură."
+2,Antecedente personale patologice,"Antecedentele sunt practic neschimbate față de vizita din 15.04.2005.","DOCTOR: S-a schimbat ceva în istoricul dumneavoastră medical de la ultima vizită din 15 aprilie 2005?
+PACIENT: Ce vreți să spuneți?
+DOCTOR: Ați primit vreun diagnostic nou sau aveți simptome noi?
+PACIENT: Nu, nimic de genul acesta."
+3,Medicație,Accutane.,"DOCTOR: Cum v-ați tratat acneea?
+PACIENT: Dermatologul mi-a început Accutane.
+DOCTOR: De cât timp luați Accutane?
+PACIENT: De aproximativ trei luni.
+DOCTOR: Ați observat vreo îmbunătățire de când îl luați?
+PACIENT: Da, oarecum."
+4,Motivul prezentării,Confuzie și halucinații.,"DOCTOR: Ați avut dificultăți psihice sau episoade de confuzie?
+PACIENT: Nu.
+DOCTOR: Halucinații? Vedeți sau auziți lucruri care nu sunt reale?
+PACIENT: Nu."
+5,Istoric general,"Născut la 32 de săptămâni de gestație, din a patra sarcină a mamei, cu greutatea de 4 livre și 11 uncii. A stat în incubator timp de 3 săptămâni. A avut icter, dar nu s-a raportat necesitatea unui tratament.","DOCTOR: Cum a fost istoricul nașterii lui? S-a născut la termen sau au fost probleme?
+FAMILIE: S-a născut la 32 de săptămâni. Era a patra mea sarcină și avea cam 4 livre și 11 uncii.
+DOCTOR: A stat în incubator?
+FAMILIE: Da, a stat trei săptămâni. A avut icter, dar nu i-au dat tratament pentru asta."
+6,Antecedente chirurgicale,Nu a avut intervenții chirurgicale anterioare.,"DOCTOR: Ați avut operații în trecut?
+PACIENT: Nu, nu am avut.
+DOCTOR: Niciuna?
+PACIENT: Nu."
+7,Istoric general,Durere de spate după o cădere.,"DOCTOR: Bună ziua. Cum vă simțiți astăzi?
+PACIENT: Nu prea bine. Mă doare foarte tare spatele.
+DOCTOR: Ce s-a întâmplat?
+PACIENT: Am căzut pe spate.
+DOCTOR: Înțeleg. Vom face câteva teste ca să vedem dacă s-a produs vreo leziune."
+8,Antecedente familiale și sociale,"Pacienta are antecedente de consum inhalator și intravenos de droguri. Este în prezent pe tratament de întreținere cu metadonă. Este urmărită la psihiatrie pentru depresie și probleme legate de consumul de substanțe. Locuiește cu o colegă de apartament.","DOCTOR: Când intenționați să renunțați la drogurile administrate intravenos și inhalator?
+PACIENT: Sunt în tratament acum. Mă urmăresc și pentru problemele de depresie.
+DOCTOR: Da, sunteți pe tratament de întreținere cu metadonă.
+PACIENT: Da.
+DOCTOR: Cu cine locuiți?
+PACIENT: Am o colegă de apartament."
+9,Istoric general,"Pacienta este o femeie de 57 de ani, evaluată astăzi pentru durere și simptome asociate unei deformări recurente de tip mont bilateral, mai accentuată la piciorul drept. Relatează creșterea durerii și disconfortului prin recurența montului la piciorul drept, precum și durere localizată la degetul al doilea și la articulația metatarsofalangiană dreaptă. A avut o intervenție chirurgicală în urmă cu aproximativ 13 ani. De la operația inițială, deformarea a revenit lent, cu progresia deformărilor la degetele doi și trei ale piciorului stâng și la degetul doi al piciorului drept. Lucrează în spital, stând mult în picioare, și poartă orteze funcționale care ameliorează parțial durerea antepiciorului, dar nu complet.","DOCTOR: Bună ziua, doamnă.
+PACIENT: Bună ziua, domnule doctor.
+DOCTOR: Înainte să începem, câți ani aveți?
+PACIENT: Am 57 de ani.
+DOCTOR: Bun. Care este problema astăzi?
+PACIENT: Am avut operație la picioare acum cam 13 ani, pentru monturi, dar au reapărut.
+DOCTOR: Sunt prezente la ambele picioare?
+PACIENT: Da.
+DOCTOR: Un picior este mai rău decât celălalt?
+PACIENT: Da, dreptul este mai rău decât stângul.
+DOCTOR: Durerea se agravează?
+PACIENT: Da, și am mult disconfort.
+DOCTOR: La piciorul drept mai aveți altă durere sau este doar de la mont?
+PACIENT: Mă doare aici și aici.
+DOCTOR: Aici sunt degetul al doilea și articulația metatarsofalangiană. Acolo simțiți durerea, corect?
+PACIENT: Da, acolo doare foarte tare.
+DOCTOR: Există și o deformare la degetul al doilea.
+PACIENT: Da, văd ce spuneți.
+DOCTOR: După operația de acum 13 ani, v-ați vindecat bine?
+PACIENT: De la operație, montul a revenit încet.
+DOCTOR: Înțeleg.
+PACIENT: Uitați-vă și la piciorul stâng, vi se par ciudate degetele?
+DOCTOR: Da, există deformare și la degetele doi și trei ale piciorului stâng.
+PACIENT: Ce înseamnă asta?
+DOCTOR: Înseamnă că există modificări artrozice la aceste degete. Cu ce vă ocupați?
+PACIENT: Lucrez în spital.
+DOCTOR: Presupun că stați mult în picioare la serviciu?
+PACIENT: Da, stau în picioare toată ziua.
+DOCTOR: Purtați susținători sau orteze?
+PACIENT: Da, port orteze.
+DOCTOR: Vă ajută?
+PACIENT: Îmi ameliorează durerea, dar încă mă doare mult."
+10,Istoric general,"S-a născut prin naștere vaginală spontană normală la maternitate, cu greutatea de 7 livre și 3 uncii. Nu au existat complicații. A trecut screeningul auditiv la naștere.","DOCTOR: Bună, vă voi întreba câteva lucruri despre nașterea copilului, bine?
+FAMILIE: Da, sigur.
+DOCTOR: S-a născut natural sau prin cezariană?
+FAMILIE: Nu cezariană, a fost naștere normală și spontană.
+DOCTOR: Unde s-a născut?
+FAMILIE: La maternitate.
+DOCTOR: Ce greutate a avut la naștere?
+FAMILIE: A cântărit 7 livre și 3 uncii.
+DOCTOR: Au fost complicații?
+FAMILIE: Nu.
+DOCTOR: S-a făcut vreun test de auz?
+FAMILIE: Da, a trecut toate testele de screening."
+11,Antecedente familiale și sociale,"Neagă consumul de tutun sau alcool. Are aparent un loc de muncă la calculator, de tip introducere de date.","DOCTOR: Unde lucrați?
+PACIENT: Sunt operator de date la o firmă IT.
+DOCTOR: În regulă.
+DOCTOR: Fumați sau consumați alcool?
+PACIENT: Nu, deloc."
+12,Dispoziție,La domiciliu împreună cu fiul său.,"DOCTOR: Cu cine veți sta?
+PACIENT: Merg acasă cu fiul meu. Voi sta cu el."
+13,Antecedente familiale și sociale,"A imigrat în această țară în 1984, deși afirmă că are încă permis de ședere. Spune că locuiește singur. Este bărbat necăsătorit, fără istoric de căsătorie sau copii, și are studii liceale. În fișă apare istoric de consum recreațional de metamfetamine, pe care pacientul îl neagă în prezent. Neagă și consumul actual de alcool. Fumează. Nu poate indica un medic de familie. Este în consiliere, cu manager de caz desemnat.","DOCTOR: Când v-ați mutat aici din Filipine?
+PACIENT: Cred că prin 1984.
+DOCTOR: A trecut ceva timp. Aveți carte verde?
+PACIENT: Da, am. Apartamentul meu nu este departe.
+DOCTOR: Locuiți singur sau sunteți căsătorit?
+PACIENT: Locuiesc singur. Nu am fost căsătorit, nu sunt văduv și nu am copii.
+DOCTOR: Ce studii aveți?
+PACIENT: Am terminat liceul, dar lucrez.
+DOCTOR: Consumați alcool sau fumați?
+PACIENT: Fumez, dar nu consum alcool.
+DOCTOR: Dar droguri?
+PACIENT: Înainte da, acum nu.
+DOCTOR: Ce anume?
+PACIENT: Metamfetamină.
+DOCTOR: Aveți medic de familie?
+PACIENT: Nu. Dar am un manager de caz, domnul X Y Z. El mă trimite la consiliere.
+DOCTOR: În regulă. Putem primi notele?
+PACIENT: Da, pot să-i rog să vi le trimită.
+DOCTOR: Ar fi bine.
+PACIENT: Perfect."
+14,Istoric general,"Pacientul este un bărbat afro-american de 62 de ani, cu antecedente importante de diabet zaharat, hipertensiune arterială, accident vascular cerebral în 2002 cu slăbiciune reziduală minimă pe partea dreaptă și două infarcte miocardice, status post implantare de pacemaker. S-a prezentat inițial în 2001 cu amorțeală la membrele inferioare. De atunci simptomele au progresat, cu afectarea picioarelor deasupra genunchilor și a mâinilor. Mai recent descrie senzație de arsură asociată cu amorțeală. Durerea este problema principală. În ultimele șase luni a observat că nu simte obiectele fierbinți în mâini și că scapă obiecte. Neagă slăbiciune propriu-zisă, descriind mai degrabă neîndemânare și sensibilitate scăzută. Acuză și mioclonii scurte la ambele mâini și umeri, simptom vechi dar mai evident recent. Nu are tremor și neagă cervicalgie. Merge cu cadru din cauza instabilității mersului. Gabapentina nu a fost eficientă pentru durere; oxicodona ajută parțial, aproximativ trei ore. Durerea îi fragmentează semnificativ somnul. După infarctul și implantarea pacemakerului de acum aproximativ șase luni, a fost transferat într-o unitate de îngrijire, unde i s-a oprit insulina; de atunci ia doar medicație orală pentru diabet. Neagă durere lombară, durere cervicală, modificări ale tranzitului intestinal sau urinar și traumatism anterior debutului simptomelor.","DOCTOR: Câți ani aveți?
+PACIENT: Am 62 de ani, sunt afro-american.
+DOCTOR: Aveți antecedente medicale importante?
+PACIENT: Am diabet, tensiune mare și am avut un accident vascular în 2002. După aceea am rămas cu slăbiciune pe partea dreaptă. Am avut și două infarcte.
+DOCTOR: Intervenții chirurgicale?
+PACIENT: Am pacemaker.
+DOCTOR: Aici apare că ați venit în 2001 pentru slăbiciune și amorțeală în picioare. Cum este acum?
+PACIENT: Nu a dispărut niciodată. S-a extins și la mâini și deasupra genunchilor.
+DOCTOR: Ce simptome aveți acum?
+PACIENT: Mai ales arsură și amorțeală.
+DOCTOR: Aceasta este problema principală?
+PACIENT: Da, asta mă deranjează cel mai mult. Am durere, dar nu numai asta.
+PACIENT: În ultimele șase luni nu mai simt obiectele fierbinți în mâini. Îmi scapă lucrurile. Nu am slăbiciune propriu-zisă, doar neîndemânare și sensibilitate scăzută.
+PACIENT: Uneori simt smucituri în corp, mai ales în umeri și în ambele mâini.
+DOCTOR: Se întâmplă de mult?
+PACIENT: De foarte mult timp, dar acum le observ mai mult.
+DOCTOR: Aveți tremor?
+PACIENT: Nu.
+DOCTOR: Durere de gât?
+PACIENT: Nu, dar după cum vedeți folosesc cadrul pentru că nu mă simt sigur la mers.
+DOCTOR: Ați luat ceva pentru durere?
+PACIENT: Au încercat mai multe medicamente, dar doar oxicodona ajută puțin, cam trei ore. Gabapentina nu a mers deloc.
+DOCTOR: Cum dormiți?
+PACIENT: Nu pot dormi bine din cauza durerii. Așa este de mulți ani.
+DOCTOR: Când vi s-a pus pacemakerul?
+PACIENT: Acum aproximativ șase luni, după infarct. După pacemaker m-au transferat într-un cămin, unde mi-au oprit insulina. De atunci iau pastile pentru diabet.
+DOCTOR: Aveți durere de spate?
+PACIENT: Nu.
+DOCTOR: S-au schimbat scaunele sau urinarea?
+PACIENT: Nu.
+DOCTOR: Ați avut vreun accident sau vreo leziune înainte să înceapă toate acestea?
+PACIENT: Nu, nimic de genul acesta."
+15,Motivul prezentării,Pacientul nu are nicio acuză principală.,"DOCTOR: Bună ziua, cu ce vă pot ajuta?
+PACIENT: Am venit doar la control.
+DOCTOR: Deci astăzi doar urmărire. Fără plângeri?
+PACIENT: Nu, nimic.
+DOCTOR: Foarte bine."
+16,Revizuirea sistemelor,"Pacienta are hipoacuzie și probleme de vedere. Neagă cefalee. În prezent neagă durere toracică sau dispnee. Neagă durere abdominală. Are durere la șoldul stâng și la umărul stâng. Fără polakiurie sau disurie. Fără leziuni cutanate. Are edeme la ambele membre inferioare de câteva săptămâni. Neagă tulburări endocrine. Psihiatric, prezintă depresie cronică.","DOCTOR: Ca să trecem prin câteva lucruri, aveți dureri?
+PACIENT: Acum am doar durere la șoldul stâng și la umăr.
+DOCTOR: Cât de intensă este?
+PACIENT: Destul de mare.
+DOCTOR: Ce altceva se întâmplă?
+PACIENT: Am picioarele umflate de câteva săptămâni.
+DOCTOR: Au apărut leziuni noi pe piele la nivelul picioarelor?
+PACIENT: Nu.
+DOCTOR: Probleme la urinare sau durere abdominală?
+PACIENT: Nu am probleme la urinare.
+DOCTOR: Durere în piept, lipsă de aer sau dezechilibre hormonale?
+PACIENT: Nu am astfel de probleme, doar că am probleme de vedere și auz.
+DOCTOR: Aveți depresie cronică, corect?
+PACIENT: Da, așa este.
+DOCTOR: Dureri de cap?
+PACIENT: Nu.
+DOCTOR: Dar disfuncție tiroidiană?"
+17,Antecedente familiale și sociale,Locuiește cu părinții și urmează cursurile obișnuite de clasa a V-a.,"DOCTOR: Bună, sunt doctorul Frankland.
+PACIENT: Bună. Îmi pare bine.
+DOCTOR: Cum te simți astăzi?
+PACIENT: Bine.
+DOCTOR: Locuiești acasă cu ambii părinți?
+PACIENT: Da.
+DOCTOR: În ce clasă ești?
+PACIENT: Clasa a cincea.
+DOCTOR: Doamnă, este la școală publică?
+FAMILIE: Da.
+DOCTOR: Este înscris la clase speciale?
+FAMILIE: Nu. Este doar la clase obișnuite.
+DOCTOR: Foarte bine."
+18,Istoric general,"Pacientul se prezintă pentru senzație de amețeală și dificultăți de menținere a echilibrului. Neagă senzația de rotire pe care a avut-o anterior în episoadele de vertij; descrie mai degrabă lipotimie/amețeală intensă. Apare de obicei la schimbarea poziției, când se ridică din șezut sau din decubit. Se ameliorează când se așază, dar nu dispare complet decât după 15-30 de minute, perioadă în care se simte tremurat și slăbit generalizat. Lorazepamul nu a ajutat. Tensiunea arterială a fost crescută recent, iar doza de metoprolol a fost mărită; simptomele par să se fi agravat după creșterea dozei.","DOCTOR: Ce vă aduce astăzi?
+PACIENT: Mă simt foarte amețit și nu-mi pot ține echilibrul. Îmi pierd echilibrul tot timpul.
+DOCTOR: Aveți senzație că se învârte camera?
+PACIENT: Nu, am avut asta înainte, când am avut vertij. Acum doar mă simt amețit.
+DOCTOR: Se întâmplă după ceva anume? Ce simptome observați?
+PACIENT: Când îmi schimb poziția, de exemplu când mă ridic de pe scaun sau din pat. De obicei ajută dacă mă așez la loc, dar nu trece complet timp de 15-30 de minute. Mă simt foarte tremurat și slăbit.
+DOCTOR: Luați vreun medicament pentru asta?
+PACIENT: Da, am luat lorazepam, dar nu a ajutat.
+DOCTOR: Mai este ceva?
+PACIENT: Tensiunea era mare, așa că mi-au crescut doza de metoprolol. Ei cred că simptomele sunt de la doza crescută. Am vrut să verific și cu dumneavoastră."
+19,Medicație,Nu ia alte medicamente în afară de amoxicilina recentă.,"DOCTOR: Luați vreun medicament?
+FAMILIE: Da, iau antibioticul acela.
+DOCTOR: Da.
+FAMILIE: Da.
+DOCTOR: Luați amoxicilină.
+FAMILIE: Așa este."
+20,Diagnostic,"1. Tulburare bipolară. 2. Anemie feriprivă. 3. Tulburare anxioasă. 4. Antecedente de ligatură tubară.","CLINICIAN: Văd că pacienta a fost aici ieri.
+DOCTOR: Da, vine frecvent.
+CLINICIAN: Care este istoricul ei medical?
+DOCTOR: Suferă de tulburare bipolară și anxietate. Este și anemică și nu ia suplimente cu fier. Ca intervenții, a avut ligatură tubară."
+21,Antecedente familiale și sociale,"Nu fumează și nu consumă alcool. Este necăsătorit și nu are copii. Lucrează ca reprezentant de salarizare, iar anterior a lucrat mult în domeniul bijuteriilor, cu expunere la substanțe chimice.","DOCTOR: Fumați?
+PACIENT: Nu, nu fumez.
+DOCTOR: Dar alcool?
+PACIENT: Nu, nu beau alcool.
+DOCTOR: Sunteți căsătorit sau aveți copii?
+PACIENT: Nu, sunt singur, deci nu am copii.
+DOCTOR: Unde lucrați?
+PACIENT: Lucrez ca reprezentant de salarizare. Înainte am lucrat mult în domeniul bijuteriilor, cu substanțe chimice.
+DOCTOR: Interesant.
+PACIENT: Da."
+22,Evoluție în urgență,"Pacienta a fost văzută și examinată la urgență. În acest moment, fotofobia și greața fac migrena foarte probabilă. Are aspect clinic bun; se va încerca Tylenol cu codeină pentru durere. Se recomandă o zi liberă de la școală și urmărire la medicul de familie.","DOCTOR: Am revăzut raportul de la urgență.
+PACIENT: Nu au făcut mare lucru, doar mi-au spus să vin la dumneavoastră.
+DOCTOR: Pentru că aveți sensibilitate la lumină și greață, cred că migrena este foarte probabilă.
+PACIENT: Pot să iau ceva?
+DOCTOR: Vă prescriu Tylenol cu codeină pentru durere.
+PACIENT: Pot primi și o adeverință?
+DOCTOR: Da. De fapt, aș vrea să stați o zi acasă de la școală și să vă odihniți până începeți să vă simțiți mai bine.
+PACIENT: Bine, mulțumesc."
+23,Medicație,Include Cipro și Flagyl.,"DOCTOR: Vă voi scrie rețetă pentru Cipro și Flagyl.
+PACIENT: Bine."
+24,Istoric general,"Pacienta este o femeie de 51 de ani, dreptace, cu istoric îndelungat de durere și senzație de blocare la policele drept. Poate declanșa spontan blocarea degetului. A fost diagnosticată cu tendinoză stenozantă și dorește intervenție de eliberare a scripetelui A1. Riscurile și beneficiile intervenției au fost discutate pe larg, iar pacienta este de acord cu planul terapeutic.","DOCTOR: Bună ziua, doamnă. Cum vă simțiți astăzi?
+PACIENT: Mă doare mâna dreaptă.
+DOCTOR: Este mâna dominantă?
+PACIENT: Da.
+DOCTOR: Înțeleg. Care este problema?
+PACIENT: Simt că policele drept se blochează și nu îl mai pot mișca.
+DOCTOR: Rămâne blocat?
+PACIENT: Nu, se deblochează brusc. Uite, chiar acum.
+DOCTOR: Văd. Ați mai fost văzută pentru police?
+PACIENT: Da. Acestea sunt notele de la vizita aceea.
+DOCTOR: Mulțumesc. Se pare că ați fost diagnosticată cu tendinoză stenozantă, adică deget în resort.
+PACIENT: Este ceva obișnuit la o femeie de 51 de ani?
+DOCTOR: Da. Putem merge mai departe cu eliberarea scripetelui A1.
+PACIENT: Îmi puteți explica ce înseamnă și riscurile și beneficiile operației?
+DOCTOR: Sigur. Vă explic și vă dau informațiile în scris.
+PACIENT: Mulțumesc. Cel mai probabil sunt de acord. Trebuie să repar policele acesta."
+25,Istoric general,"Pacienta ține un jurnal alimentar pe care l-a adus. Numără punctele calorice, între 26 și 30 pe zi. Face exerciții destul de regulat. Participă la Overeaters Anonymous, iar sponsorul o ajută și i-a sugerat să caute idei pentru gustări care să prevină hipoglicemia. Pacienta solicită informații despre schimburile alimentare pentru diabet. Spune că se simte mai bine de când a slăbit.","DOCTOR: Continuați jurnalul alimentar?
+PACIENT: Da, și îl am cu mine astăzi.
+DOCTOR: Bine. Folosiți puncte calorice, corect?
+PACIENT: Da, sunt între 26 și 30.
+DOCTOR: Faceți mișcare regulat?
+PACIENT: Da. Merg și la Overeaters Anonymous.
+DOCTOR: Cum merge?
+PACIENT: Bine, sponsorul mă ajută și mi-a spus să mă gândesc la gustări care să ajute cu glicemia. Despre asta am vorbit ultima dată.
+DOCTOR: Foarte bine.
+PACIENT: Mă simt mult mai bine și am slăbit, dar aveți informații despre schimburile alimentare pentru diabet?"
+26,Antecedente familiale și sociale,Fără contribuție semnificativă.,"CLINICIAN: Există istoric familial semnificativ de boală?
+DOCTOR: Nu, conform evidențelor mele."
+27,Antecedente chirurgicale,"Rezecție parțială de colon pentru carcinom de colon în 1961, fără recurență; colecistectomie în urmă cu 10 ani; apendicectomie; intervenție pentru glaucom.","DOCTOR: Ați avut operații?
+PACIENT: Prea multe.
+DOCTOR: Care anume?
+PACIENT: Mi-au scos apendicele și am avut operație de glaucom destul de recent. Mi-au scos și vezica biliară acum zece ani și am avut rezecție parțială de colon pentru cancer de colon în 1961.
+DOCTOR: A revenit cancerul de colon?
+PACIENT: Nu, din fericire."
+28,Antecedente chirurgicale,"Singurele intervenții chirurgicale ale pacientei sunt artroplastia de genunchi stâng menționată anterior și operația bilaterală de cataractă; în rest negativ.","DOCTOR: Care este istoricul dumneavoastră chirurgical?
+PACIENT: Am avut operație de cataractă la ambii ochi. Am avut și proteză de genunchi la genunchiul stâng."
+29,Antecedente familiale și sociale,"Istoricul familial este remarcabil pentru boală cardiacă, boală cerebrovasculară, diabet și hipertensiune arterială.","DOCTOR: Bună, cum vă simțiți?
+PACIENT: Cred că am o afecțiune.
+DOCTOR: De ce spuneți asta?
+PACIENT: Corpul meu se simte ciudat în ultima vreme.
+DOCTOR: Înțeleg. Există boli care apar în familie?
+PACIENT: Știu că mulți din familie au probleme cu inima. Avem tensiune mare și glicemie mare. Mai este ceva, începe cu C, ceva cu creierul.
+DOCTOR: Boală cerebrovasculară?
+PACIENT: Exact. Cum ați ghicit atât de repede?
+DOCTOR: Probabil pentru că asta fac."
+30,Istoric general,"Pacientul este un bărbat de 52 de ani, cu istoric îndelungat de abuz de heroină și recăderi repetate, care se prezintă din nou încercând să renunțe la heroină. Ultimul consum a fost cu puțin timp înainte de sosire și a inclus și cocaină. Are antecedente de abuz de alcool, dar principala preocupare actuală este consumul de heroină.","DOCTOR: Bună, domnule Jones. Vă amintiți de mine de data trecută? Câți ani aveți acum?
+PACIENT: Am 52. Da, doctore, vă țin minte.
+DOCTOR: Ce ați consumat cel mai recent? Trebuie să știm cu ce substanțe avem de-a face.
+PACIENT: Trebuie să scap de heroină. De data asta mă omoară. Vă rog să mă ajutați. Mă doare tot corpul și îmi este foarte frig.
+DOCTOR: Bine. Ați mai consumat ceva recent? Alcool? Pastile?
+PACIENT: Am luat și cocaină. Dar heroina mă distruge. Obișnuiam să abuzez de alcool, dar acum am trecut la droguri."
+31,Antecedente familiale și sociale,Fără contribuție semnificativă.,"DOCTOR: Este cineva bolnav în familie?
+PACIENT: Nimeni.
+DOCTOR: În regulă.
+PACIENT: Toată lumea este sănătoasă."
+32,Antecedente familiale și sociale,"Tatăl a decedat de cancer de colon și cancer tiroidian la 52 de ani. Un frate a decedat de cancer gastric la 53 de ani, iar un alt frate s-a sinucis. Ceilalți cinci frați sunt sănătoși. Istoricul este negativ pentru boală coronariană, hipertensiune, diabet sau boală renală.","DOCTOR: Spuneți-mi mai multe despre familie. Au avut părinții sau frații afecțiuni importante?
+PACIENT: Tatăl meu a murit acum câțiva ani. A avut cancer de colon și cancer tiroidian.
+DOCTOR: Îmi pare rău. Câți ani avea?
+PACIENT: Mulțumesc, avea doar 52.
+DOCTOR: Îmi pare rău. Dar frații?
+PACIENT: Am șapte în total. Un frate a murit de cancer la stomac la 53 de ani și alt frate s-a sinucis.
+DOCTOR: Îmi pare foarte rău. Ceilalți frați sunt sănătoși?
+PACIENT: Da, sunt foarte bine.
+DOCTOR: Aveți alte afecțiuni, cum ar fi boală de inimă, tensiune mare, diabet sau boală renală?
+PACIENT: Nu, sunt destul de sănătos."
+33,Plan,"1. Să ia medicația regulat. 2. Evaluare și tratament prin fizioterapie, terapie ocupațională și logopedie la Siskin Rehab Hospital. 3. Să continue Cipro încă două zile pentru infecția urinară.","DOCTOR: Am trimis trimiterea pentru fizioterapie, terapie ocupațională și logopedie. Coordonatorul de la Siskin Rehab Hospital vă va suna în două zile pentru programări. Este important să luați medicamentele regulat. Trebuie să continuați Cipro doar încă două zile, pentru infecția urinară. Aveți întrebări?
+PACIENT: Nu."
+34,Antecedente familiale și sociale,Mama a decedat la 59 de ani din cauza cancerului gastric, iar tatăl a decedat la 91 de ani.,"DOCTOR: Îmi puteți spune despre cancer în familie?
+PACIENT: Da, mama a avut cancer la stomac și a murit la 59 de ani.
+DOCTOR: Iar tatăl?
+PACIENT: Tata a murit la 91 de ani.
+DOCTOR: În regulă."
+35,Antecedente personale patologice,Negativ. În general foarte sănătoasă.,"DOCTOR: Are antecedente medicale sau probleme de sănătate?
+FAMILIE: Nu. Este un copil sănătos."
+36,Analize,"Toate analizele sunt în limite normale, cu excepția sodiului 133, creatininei 0,2, TSH 0,004 și T4 liber 19,3. EKG-ul a arătat tahicardie sinusală cu frecvență de 122/minut. Testul de sarcină urinar a fost negativ.","DOCTOR: Am revăzut analizele. În mare parte arată normal. Aveți valori anormale ale sodiului și creatininei, legate de rinichi, iar valorile tiroidiene nu sunt normale.
+PACIENT: Dar EKG-ul? Testul de sarcină a fost negativ.
+DOCTOR: Da, EKG-ul a arătat frecvență cardiacă crescută, 122 pe minut. Vom evalua totul mai departe."
+37,Istoric general,"Pacienta revine astăzi la control. A fost recent internată și s-a constatat sepsis secundar nefrolitiazei, tratat. A necesitat montarea unui stent în ureterul stâng, gestionat de medicul curant. Calculul a fost tratat prin litotriție. Revine acum pentru urmărire. Medicația, dozele și programul au fost notate anterior pe o foaie de evoluție, împreună cu instrucțiuni de control aici și la alt medic, însă foaia a fost pierdută între spital și domiciliu. Nu are programare de control. După externare, nepotul a sunat spunând că prescripțiile și instrucțiunile s-au pierdut; ulterior pacienta a găsit rețetele și le-a ridicat. Spune că ia antibioticul, probabil Levaquin, și mai are o doză. Nu știa că trebuie să revină la medicul care a intervenit și nu înțelegea că are încă stent ureteral. Aceste aspecte au fost explicate din nou pacientei și soțului.","DOCTOR: Bună dimineața. Sunteți aici pentru control.
+PACIENT: Da.
+DOCTOR: Spuneți-mi ce s-a întâmplat, de ce ați fost în spital?
+PACIENT: Aveam multă durere de spate și urinam puțin. Mă ustura când mergeam la baie. Mi-au spus că sunt pietre la rinichi. Apoi am făcut febră și la spital au spus că era infecție de la pietre.
+DOCTOR: Cum vă simțiți acum?
+PACIENT: Mai bine. Usturimea a trecut și durerea s-a redus.
+DOCTOR: Scrie că v-au pus un stent în ureter. Vă deranjează? Cine v-a tratat acolo?
+PACIENT: Nu mă deranjează, am venit doar la control. Doctorul X Y Z m-a operat să scoată pietrele. A avut grijă de mine.
+DOCTOR: Mă bucur că sunteți mai bine. Vă amintiți că v-am scris toate medicamentele cu dozele pe o foaie de evoluție? Nepotul m-a sunat și a spus că s-au pierdut rețeta și instrucțiunile.
+PACIENT: Nu știu ce s-a întâmplat. Știu că mi-ați dat o hârtie cu toate medicamentele și tot ce trebuia să fac, dar între spital și casă am pierdut-o.
+DOCTOR: Acolo erau instrucțiuni de control aici și la doctorul F. Aveți programare la doctorul F?
+PACIENT: Din păcate nu. Nici nu știam că trebuie, probabil era doar pe hârtia aceea. Am găsit totuși rețeta și am ridicat medicamentele, inclusiv antibioticele.
+DOCTOR: Cred că era Levaquin. Mai aveți de luat?
+PACIENT: Mai am una.
+DOCTOR: Când îl vedeți pe doctorul X Y Z?
+PACIENT: Trebuie să îl văd? Nu am programat nimic.
+DOCTOR: Da, trebuie. Alte probleme?
+PACIENT: Încă nu mă simt foarte bine, parcă sunt bolnavă. Nu știam că am stent. Nu simt că am unul.
+DOCTOR: Dumneavoastră sunteți soțul?
+FAMILIE: Da, am vrut să fiu cu ea astăzi.
+DOCTOR: Bine. Vă explic din nou amândurora. Are un stent ureteral, adică medicii au creat o cale pentru ca urina să se scurgă pe lângă piatră fără blocaj. Trebuie să-și ia medicamentele și să facă programarea la doctorul F. De asemenea, sunați la doctorul X Y Z pentru a vedea dacă este necesar control. În rest pare în regulă.
+PACIENT: Voi face programările. Mulțumesc pentru îndrumare.
+DOCTOR: Aveți grijă."
+38,Antecedente familiale și sociale,"Tatăl a decedat la 85 de ani de „bătrânețe”, mama la 89 de ani de „bătrânețe”. Un frate a decedat la 92 de ani de bătrânețe, iar doi frați au decedat în jurul vârstei de 70 de ani din cauza bolii Parkinson. Fiul are 58 de ani și are istoric de hipertensiune, hipercolesterolemie, artrită reumatoidă și glaucom.","DOCTOR: Aș vrea să aflu mai multe despre istoricul medical al familiei.
+PACIENT: E mult de povestit. Fiul meu are 58 de ani și are glaucom, colesterol mare, tensiune mare și artrită reumatoidă. Fratele cel mare a murit la 92 de ani de bătrânețe, iar doi frați mai mici au murit pe la 70 de ani după o luptă lungă cu Parkinson.
+DOCTOR: Îmi pare foarte rău.
+PACIENT: E în regulă. Și mama, și tata au murit la vârste înaintate. Tata avea 85 și mama 89."
+39,Istoric general,"Aceasta este o leziune de tip accident de muncă. Pacientul, bărbat de 41 de ani, se afla la cafeneaua unde lucrează ca bucătar când ulei fierbinte i-a sărit pe braț, producând o arsură de la cot până la încheietură pe fața medială. Zona a fost răcită, iar pacientul se prezintă împreună cu un prieten la departamentul de urgență pentru îngrijiri.","DOCTOR: Care este relația dumneavoastră cu pacientul?
+FAMILIE: Sunt prietenul lui; lucrăm împreună într-o cafenea. El este bucătar acolo.
+DOCTOR: Câți ani aveți?
+PACIENT: Am 41.
+DOCTOR: Îmi puteți spune exact ce s-a întâmplat?
+FAMILIE: Gătea și i-a sărit ulei fierbinte pe braț.
+DOCTOR: S-a întâmplat în bucătăria cafenelei?
+PACIENT: Da. Nu știu cum a sărit uleiul, dar mi-a ars mâna. Am încercat să o răcesc, dar durerea era insuportabilă, așa că l-am rugat pe prietenul meu să mă aducă la urgență.
+DOCTOR: Deci va fi accident de muncă.
+PACIENT: Presupun că da.
+DOCTOR: Bine, să vă văd mâna.
+PACIENT: Bine.
+DOCTOR: Arsura este de la cot până la încheietură, mai ales pe partea medială.
+DOCTOR: Nu vă faceți griji, ne ocupăm de dumneavoastră."
+40,Dispoziție,La domiciliu.,"DOCTOR: Sunteți pregătit să mergeți acasă?
+PACIENT: Da.
+DOCTOR: Cine vă va ajuta acasă?
+PACIENT: Familia mea.
+DOCTOR: Foarte bine.
+PACIENT: Mulțumesc."
+41,Evaluare,"1. Probleme multiple, inclusiv edem la membrul inferior stâng. 2. Istoric de leucocitoză. 3. Durere articulară la umărul stâng, probabil sindrom de impingement. 4. Durere lombară cronică asociată cu obezitate. 5. Obezitate. 6. Micțiuni frecvente. 7. Abuz de tutun.","DOCTOR: Conform celor mai recente analize, numărul de globule albe este normal, dar vreau să îl urmărim având în vedere istoricul de leucocitoză.
+PACIENT: Mă bucur să aud că a revenit la normal.
+PACIENT: Totuși, în ultimele zile am avut multă durere.
+DOCTOR: Unde este durerea?
+PACIENT: Mai ales la umărul stâng și în zona lombară.
+DOCTOR: Înțeleg. Ați luat ceva pentru durere? Îmi amintesc că aveați probleme cu spatele data trecută. Ați ajuns la ortoped? Cred că durerea de umăr stâng poate fi de la sindrom de impingement.
+PACIENT: Nu am luat nimic și am uitat să fac programarea. Am fumat țigări ca să mă ajute cu durerea.
+DOCTOR: V-aș recomanda să încercați să reduceți fumatul și să luați în calcul plasturi cu nicotină. Voi vedea ce putem face pentru durere și pentru programarea la ortoped.
+PACIENT: Mulțumesc. Mi-a fost greu să renunț la țigări. Și am mâncat destul de prost. Trebuie să fac mai bine.
+DOCTOR: Va dura, dar cu dietă și un regim potrivit veți merge spre o greutate și un stil de viață mai sănătos.
+PACIENT: Și înainte să uit...
+DOCTOR: Da?
+PACIENT: Urinez mult mai des în ultima vreme.
+DOCTOR: Aveți alte simptome urinare?
+PACIENT: Nu, nimic altceva.
+DOCTOR: Voi cere o probă de urină astăzi ca să verificăm dacă există infecție.
+PACIENT: Mulțumesc. Și înainte să scrieți ordinul, știți de ce un picior este mai umflat decât celălalt?
+DOCTOR: Haideți să mă uit."
+42,Plan,Activitate după toleranță. Dietă după toleranță.,"DOCTOR: Cum vă simțiți?
+PACIENT: Mă simt bine. Parcă devin mai puternic în fiecare zi.
+DOCTOR: Foarte bine. Aș vrea să continuați exercițiile acasă, dar încet. Încercați să respectați dieta discutată pentru următoarea lună. Aveți întrebări?
+PACIENT: Nu."
+43,Istoric general,"Pacientul este un bărbat alb de 29 de ani, pacient al medicului curant, care se prezintă pentru înțepătură de viespe galbenă survenită ieri, cu edem important al mâinii și brațului drept. A mai fost înțepat de viespi și a avut reacții similare. A venit devreme pentru a preveni o reacție severă ca în trecut. A avut edem important, dar fără reacții de tip anafilactic, fără dispnee, fără senzație de închidere a gâtului, fără palpitații sau anxietate, doar edem local marcat la locul înțepăturii.","DOCTOR: Bună ziua. Ce vă aduce astăzi?
+PACIENT: Nu vedeți umflătura de pe mâna și brațul drept? Sunt alb, ar trebui să se vadă.
+DOCTOR: Da, într-adevăr. Cum s-a întâmplat?
+PACIENT: M-a înțepat ieri o viespe galbenă mare. De obicei merg la doctorul X Y Z, dar nu era disponibil.
+DOCTOR: Ați mai fost înțepat de viespe?
+PACIENT: Da, de multe ori. Am 29 de ani și mă tot înțeapă de când eram pe la începutul vârstei de 20. De obicei mă umflu ca acum.
+DOCTOR: Bine că știți. Ați avut vreodată reacții severe?
+PACIENT: Am avut o dată, de aceea am venit devreme să verific.
+DOCTOR: Deci în principal umflare. Reacții de tip anafilactic?
+PACIENT: Ce fel de reacție? Nu știu ce înseamnă, dar da, umflarea e problema.
+DOCTOR: Este o reacție care poate duce corpul în șoc și scade tensiunea.
+PACIENT: Am înțeles. Nu, nu am pățit asta.
+DOCTOR: Ați avut vreodată lipsă de aer sau senzație că se închide gâtul?
+PACIENT: Nu. Ar fi foarte înfricoșător.
+DOCTOR: Palpitații sau anxietate după înțepături?
+PACIENT: Nu. Doar umflare în zonele înțepate."
+44,Evoluție în urgență,Pacienta a solicitat o injecție pentru durere și a primit Dilaudid 4 mg intramuscular, fără reacții adverse.,"DOCTOR: Aveți durere?
+PACIENT: Da, vreau ceva puternic.
+DOCTOR: Vă putem da o injecție.
+PACIENT: Da, vă rog.
+DOCTOR: Asistentă, administrați Dilaudid 4 mg intramuscular.
+PACIENT: Mulțumesc.
+DOCTOR: Cum vă simțiți acum? Efecte adverse?
+PACIENT: Nu, mă simt mult mai bine."
+45,Antecedente familiale și sociale,Pacienta neagă fumatul de țigări. Consumă alcool și folosește droguri ilicite.,"DOCTOR: Fumați țigări?
+PACIENT: Nu, țigări nu.
+DOCTOR: Consumați alcool sau droguri recreaționale?
+PACIENT: Beau alcool și mai fumez marijuana din când în când."
+46,Antecedente familiale și sociale,"Pacientul fumează de la vârsta de 10 ani. Fuma 2-3 pachete pe zi. De când a început Chantix, spune că a redus la jumătate de pachet pe zi. Nu abuzează de alcool.","DOCTOR: Sunteți fumător?
+PACIENT: Da. Nu beau alcool, dacă asta ajută.
+DOCTOR: Cât fumați pe zi?
+PACIENT: Tocmai am început Chantix și acum am ajuns la jumătate de pachet pe zi.
+DOCTOR: Cât fumați înainte de Chantix?
+PACIENT: Cam două-trei pachete pe zi. Fumez de când aveam zece ani."
+47,Medicație,Include medicația de la internare, împreună cu Flagyl intravenos 500 mg la fiecare 8 ore și Levaquin 500 mg zilnic.,"DOCTOR: Voi adăuga Flagyl intravenos, 500 mg la fiecare opt ore, și Levaquin 500 mg zilnic.
+PACIENT: Bine."
+48,Revizuirea sistemelor,"Fără cefalee. Fără tulburări de vedere, auz sau înghițire. Fără modificări ale tranzitului intestinal sau ale obiceiurilor urinare.","DOCTOR: Aveți dificultăți de auz?
+PACIENT: Nu.
+DOCTOR: Dificultăți la înghițire?
+PACIENT: Nu.
+DOCTOR: Vedere dublă, vedere încețoșată sau dificultăți de vedere?
+PACIENT: Nu, nicio problemă.
+DOCTOR: Bine.
+DOCTOR: Dureri de cap sau migrene?
+PACIENT: Nu am dureri de cap.
+DOCTOR: Ați observat vreo schimbare a tranzitului intestinal?
+PACIENT: Nu, este la fel.
+DOCTOR: Durere la urinare sau schimbare a frecvenței?
+PACIENT: Nu.
+DOCTOR: În regulă."
+49,Revizuirea sistemelor,Restul revizuirii sistemelor este fără particularități.,"CLINICIAN: Am făcut revizuirea sistemelor și totul pare normal în afară de ce s-a menționat mai devreme.
+DOCTOR: Bine, mulțumesc pentru ajutor.
+CLINICIAN: Cu plăcere."
+50,Plan,"Aplicare zilnică de Acticoat, reducerea presiunii, cu ridicarea din scaun cel puțin jumătate din timp, minimum opt ore în afara scaunului, și reevaluare peste o săptămână.","DOCTOR: Să reluăm planul. Vreau să aplicați zilnic pansament Acticoat și să petreceți cel puțin opt ore în afara scaunului pentru reducerea presiunii. Aveți întrebări?
+PACIENT: Pare realizabil. Voi încerca. Nu am întrebări despre plan.
+DOCTOR: Vreau să reveniți peste o săptămână pentru reevaluare.
+PACIENT: Pot face programarea astăzi?
+DOCTOR: Da, recepția vă poate programa pentru săptămâna viitoare.
+PACIENT: Perfect."
+51,Evaluare,Abuz de substanțe.,"DOCTOR: Când intenționați să renunțați?
+PACIENT: Mereu îmi propun.
+DOCTOR: Vă voi trimite la o clinică pentru abuz de substanțe, pentru că aveți nevoie.
+PACIENT: Bine, mă voi interesa.
+DOCTOR: Sigur. Dar vă rog să încercați să opriți consumul. Este un obicei dăunător.
+PACIENT: Da."
+52,Antecedente familiale și sociale,Neagă istoric de consum de tutun, alcool sau droguri ilicite.,"DOCTOR: Aveți istoric de consum de tutun, alcool sau droguri recreaționale?
+PACIENT: Nu."
+53,Istoric general,"Pacienta este o femeie de 49 de ani, cu istoric de dermatită atopică, care se prezintă cu otalgie stângă și cefalee. Simptomele au început acum aproximativ trei săptămâni și a avut dificultăți de auz, mult ameliorate. Are presiune sinusală stângă și a mers chiar la dentist din cauza durerii dentare, însă dinții erau în regulă. Continuă să aibă durere mandibulară stângă. Neagă cefalee actuală, febră, tuse sau durere în gât. A folosit anterior cremă Cutivate pentru dermatita atopică, cu rezultat bun, și solicită reînnoirea rețetei. A avut și sinuzite în trecut și cefalee cronică pe partea stângă.","DOCTOR: Cum sunteți, doamnă G?
+PACIENT: Sunt bine, domnule doctor, mulțumesc.
+DOCTOR: Spuneți-mi ce se întâmplă.
+PACIENT: Am durere de ureche și durere de cap de ceva timp. E mai bine decât înainte, dar vreau să verific.
+DOCTOR: Când a început exact?
+PACIENT: Aproape acum trei săptămâni. Aud mai greu. Simt și presiune pe partea stângă a sinusurilor, cu durere de dinți. Am fost ieri la dentist, dar dinții sunt în regulă.
+DOCTOR: Aveți durere de cap acum?
+PACIENT: Nu, doar durere de ureche și durere de maxilar pe stânga.
+DOCTOR: Febră, tuse, durere în gât sau simptome de răceală?
+PACIENT: Nu, dar am probleme cu sinusurile și cefalee cronică pe partea stângă.
+DOCTOR: Câți ani aveți?
+PACIENT: Am 49.
+DOCTOR: Luați ceva pentru durere?
+PACIENT: Nu, acum folosesc doar Cutivate pentru eczemă. M-a ajutat mult și am nevoie de rețetă nouă.
+DOCTOR: Bine, o voi trimite la farmacie."
+54,Revizuirea sistemelor,Psihiatric: vezi evaluarea psihiatrică.,"DOCTOR: Am raportul de evaluare de la psihiatrul dumneavoastră.
+PACIENT: Bine, și ce spune?
+DOCTOR: Consideră că evoluați foarte bine.
+PACIENT: Mă bucur."
+55,Istoric general,Cefalee zilnică de 6 luni la un pacient de 57 de ani.,"DOCTOR: Cum vă simțiți astăzi?
+PACIENT: Sunt bine.
+DOCTOR: Ca să confirm, aveți 57 de ani?
+PACIENT: Da.
+DOCTOR: Ce vă aduce astăzi?
+PACIENT: Am dureri de cap în fiecare zi de șase luni.
+DOCTOR: Este mult timp. Îmi pare rău că treceți prin asta.
+PACIENT: Sper să le puteți opri.
+DOCTOR: Voi face tot ce pot să vă ajut."
+56,Antecedente familiale și sociale,"Doamna A a avut dificultăți în a oferi informații despre istoricul familial. A raportat că mama a murit acum trei-patru ani de cancer pulmonar. Tatăl are gută și cheaguri de sânge. Frații ar fi fost tratați pentru astm și tumori gastrointestinale. Nu este sigură în privința altor afecțiuni familiale, cum ar fi hipertensiune, colesterol crescut sau accident vascular cerebral.","DOCTOR: Bine ați venit, doamnă A. Sunt doctorul Luna.
+PACIENT: Mulțumesc. Îmi pare bine.
+DOCTOR: Care este istoricul medical al familiei?
+PACIENT: Mama a murit acum trei sau poate patru ani.
+DOCTOR: Îmi pare rău. Din ce cauză?
+PACIENT: A avut cancer pulmonar. Mama nu vorbea mult despre problemele ei de sănătate.
+DOCTOR: Dar tatăl?
+PACIENT: Tata are gută. Cred că a avut și cheaguri de sânge. Asta îmi amintesc că a spus.
+DOCTOR: Aveți frați?
+PACIENT: Da. Fratele meu are astm și folosește inhalator. Sora mea a avut niște tumori scoase din stomac sau ceva asemănător. Cred că mama spunea și de tensiune mare, colesterol mare și cineva cu accident vascular în familie, dar nu sunt sigură.
+DOCTOR: În regulă."
+57,Medicație,Niciuna.,"DOCTOR: Luați vreun medicament?
+PACIENT: Nu.
+DOCTOR: Medicamente fără rețetă sau altceva?
+PACIENT: Nimic.
+DOCTOR: Bine."
+58,Antecedente familiale și sociale,Fără contribuție semnificativă.,"DOCTOR: Știți vreo boală în familie?
+PACIENT: Adică tensiune, zahăr mare?
+DOCTOR: Da.
+PACIENT: Nu, nimeni din familie nu are așa ceva.
+DOCTOR: Foarte bine."
+59,Istoric general,"Pacientul este un bărbat de 53 de ani, prezentat la urgență cu multiple acuze, inclusiv durere de la hernie, posibil sânge în scaun, greață și vărsături, precum și durere la membrul inferior stâng. La momentul examinării, durerea de membru inferior stâng s-a ameliorat considerabil. A avut parestezii mai importante anterior, acum mult ameliorate. Are istoric de multiple probleme medicale, inclusiv fibrilație atrială pentru care ia Coumadin, în prezent subterapeutic, accidente vasculare cerebrale multiple în trecut, boală vasculară periferică și insuficiență cardiacă congestivă. Are și istoric cronic de episoade anterioare de ischemie a colonului.","DOCTOR: Bună ziua, să începem cu vârsta.
+FAMILIE: Are 53 de ani.
+DOCTOR: Spuneți-mi ce se întâmplă.
+FAMILIE: Se plânge de multe lucruri, dar...
+PACIENT: Am multă durere de la hernie, asta e principala problemă, dar mă dor și picioarele.
+FAMILIE: Are multe probleme, de aceea l-am adus la urgență.
+PACIENT: Soția mea se sperie ușor.
+DOCTOR: Nu vă îngrijorați, să vedem. Aveți greață sau vărsături?
+PACIENT: Da, ambele. Și nu sunt sigur, dar cred că am văzut sânge în scaun.
+DOCTOR: Deci nu sunteți sigur?
+PACIENT: E posibil.
+DOCTOR: Pe o scară de la unu la zece, cât de mare este durerea la membrele inferioare?
+PACIENT: De fapt, durerea de picior s-a ameliorat mult. Înainte aveam furnicături și amorțeală mai importante, dar acum e mult mai bine.
+DOCTOR: Înțeleg.
+FAMILIE: Are multe probleme medicale. Am adus rapoartele, le puteți vedea.
+DOCTOR: Mulțumesc, le parcurg rapid. Văd istoric de multiple...
+FAMILIE: Accidente vasculare?
+DOCTOR: Da, AVC-uri. Și boală vasculară periferică. Și insuficiență cardiacă.
+FAMILIE: Da.
+PACIENT: Da.
+DOCTOR: Aveți și istoric de episoade de ischemie intestinală.
+PACIENT: Da.
+DOCTOR: Soția are motive să fie îngrijorată. Luați medicamente acum?
+FAMILIE: Ia Coumadin pentru fibrilația atrială. Au spus că nu este la nivel optim.
+DOCTOR: Da, este subterapeutic.
+PACIENT: Da, dar încă îl iau."
+60,Antecedente chirurgicale,Operație la spate, operație la umăr și apendicectomie.,"DOCTOR: Aveți antecedente de intervenții chirurgicale?
+PACIENT: Am avut operație la spate și la umăr după un accident grav la schi.
+DOCTOR: Cu cât timp în urmă au fost operațiile?
+PACIENT: Acum aproximativ trei-patru ani. Și mi-au scos apendicele când eram adolescent."
+61,Alergii,"Pacienta are rinită alergică sezonieră, eczemă, probleme sinusale și urticarie. Nu are melanom, cancere cutanate sau psoriazis. Mama a avut cancer oral. Pacienta este nefumătoare. Nu are teste de sânge disponibile. A avut arsuri solare în trecut. Ia peroxid de benzoil și Daypro.","DOCTOR: Ce vă aduce astăzi la consultație?
+PACIENT: Mai multe lucruri: am febra fânului, eczemă, probleme cu sinusurile și urticarie.
+DOCTOR: Sunt destule. Aveți istoric de melanom sau cancer de piele?
+PACIENT: Nu, doar eczema.
+DOCTOR: Psoriazis?
+PACIENT: Nu, nu îmi spune nimic.
+DOCTOR: Există istoric familial de cancer?
+PACIENT: Da, mama mea a avut cancer la gură.
+DOCTOR: Înțeleg. Fumați?
+PACIENT: Nu, nu m-a atras niciodată, mai ales cu istoricul de cancer.
+DOCTOR: Presupun că ați avut arsuri solare în trecut?
+PACIENT: Da, se întâmplă când merg la plajă.
+DOCTOR: Ce medicamente luați acum?
+PACIENT: Peroxid de benzoil și Daypro. Îmi pare rău, am uitat să aduc analizele de sânge."
+62,Istoric general,"Doamna ABC revine pentru urmărirea stenozei cervicale spinale. A fost văzută ultima dată la 19.06.2007. Simptomele de durere, slăbiciune și parestezii la membrele superioare, mai accentuate pe dreapta, s-au agravat după un incident din 04.06.2007, când crede că și-a exacerbat afecțiunea ridicând mai multe obiecte. A fost trimisă pentru RMN cervical. Revine afirmând că are în continuare durere, parestezii și slăbiciune la membrul superior drept, pe care le consideră irradiate din gât. Fizioterapia a ajutat durerea cervicală, dar slăbiciunea mâinii drepte persistă. Are dificultăți la deschiderea borcanelor și ușilor și scapă frecvent obiecte, mai ales cu dreapta. Noaptea a avut episoade de durere radiculară ascuțită și slăbiciune pe membrul superior stâng, simptome care o sperie. Managementul nonoperator ajută durerea cervicală, dar nu simptomele de la membrele superioare. Neagă disfuncție intestinală sau urinară, durere lombară, durere la membrele inferioare și instabilitate la mers.","DOCTOR: Bună ziua, aceasta este asistenta mea și va lucra cu mine astăzi. Puteți prezenta cazul?
+CLINICIAN: Aceasta este doamna A B C. Este aici la control pentru stenoza cervicală spinală. A fost văzută pe 19 iunie. A avut un incident pe 4 iunie, când a ridicat multe obiecte și simptomele s-au agravat. De atunci are parestezii, slăbiciune și durere la membrele superioare, mai mult pe dreapta decât pe stânga. A fost trimisă pentru RMN cervical.
+DOCTOR: Cum vă simțiți astăzi?
+PACIENT: Încă am durere și slăbiciune și cred că totul pornește din gât.
+DOCTOR: Ați făcut fizioterapie? A ajutat?
+PACIENT: Am făcut puțin. M-a ajutat cu durerea de gât, dar mâna dreaptă este încă slabă. Îmi este greu să deschid borcane și uși și scap obiecte.
+DOCTOR: Se întâmplă la ambele mâini sau una este mai afectată?
+PACIENT: Dreapta îmi face mai multe probleme decât stânga.
+DOCTOR: Ați mai observat ceva?
+PACIENT: Da, uneori noaptea, când dorm, simt o durere ascuțită ca un fulger și slăbiciune care coboară pe tot brațul stâng. Mă sperie.
+DOCTOR: Vă vede cineva pentru asta?
+PACIENT: Da, doctorul X încearcă să mă ajute fără operație. Metodele lui m-au ajutat la durerea de gât, dar nu la mână.
+DOCTOR: Aveți probleme cu scaunul?
+PACIENT: Nu.
+DOCTOR: Durere lombară sau la picioare?
+PACIENT: Nu.
+DOCTOR: Probleme de mers sau stabilitate?
+PACIENT: Nu."
+63,Revizuirea sistemelor,"Durere focală laterală și posterioară de umăr, fără sugestie de radiculopatie cervicală. Neagă anomalii cronice cardiace, pulmonare, gastrointestinale, genitourinare, neurologice, musculoscheletale sau endocrine.","DOCTOR: În rest, cum este?
+PACIENT: Bine.
+DOCTOR: Alte simptome din cap până în picioare?
+PACIENT: Am o problemă la umăr. Puteți verifica?
+DOCTOR: Sigur. Doar ca să confirm: nu aveți probleme cardiace, pulmonare, gastrice sau hormonale?
+PACIENT: Nu.
+DOCTOR: Alte probleme musculare sau osoase?
+PACIENT: Nu.
+DOCTOR: Bine. Pare o durere focală pe partea laterală și posterioară a umărului, fără semne clare de radiculopatie cervicală.
+PACIENT: Bine."
+64,Antecedente chirurgicale,Semnificativ pentru intervenția chirurgicală posttraumatică.,"DOCTOR: Ați avut operații în trecut?
+PACIENT: Da, am avut o intervenție majoră după un traumatism."
+65,Istoric general,"Pacientul este un bărbat de 19 ani implicat într-o altercație cu aproximativ o oră înainte de prezentarea la urgență. A lovit de câteva ori un bărbat în față, posibil la nivelul gurii, apoi a lovit un pahar, pe care l-a spart, producându-și lacerații la mâna dreaptă. Are trei lacerații la mâna dreaptă. Rana a fost spălată temeinic cu apă de la robinet, iar un sanitar militar a încercat să o închidă cu superglue și tifon, însă sângerarea a continuat, motiv pentru care se prezintă pentru evaluare.","DOCTOR: Câți ani ai?
+PACIENT: Am 19.
+DOCTOR: Ce s-a întâmplat? Cum te-ai rănit?
+PACIENT: Am fost într-o bătaie. Unii oameni sunt nepoliticoși.
+DOCTOR: Cum ți-ai rănit mâna dreaptă?
+PACIENT: L-am lovit pe celălalt în față sau poate în gură, nu-mi amintesc exact. Apoi, de nervi, am lovit un pahar. S-a spart și cred că m-am tăiat, pentru că sângera mult.
+DOCTOR: Văd trei tăieturi la mâna dreaptă.
+DOCTOR: Când ai ajuns la urgență, rana era curată și părea că cineva încercase să o repare. Îți amintești?
+PACIENT: Da, era un sanitar militar. A fost de ajutor, mi-a curățat tăietura cu apă de la robinet. A încercat să o închidă cu tifon și superglue. A spus că va opri sângerarea, dar nu a ajutat. Au chemat ajutor și am ajuns aici."
+66,Alergii,"Pacienta are rinită alergică sezonieră, eczemă, probleme sinusale și urticarie. Nu are melanom, cancere cutanate sau psoriazis. Mama a avut cancer oral. Pacienta este nefumătoare. Nu are teste de sânge disponibile. A avut arsuri solare în trecut. Ia peroxid de benzoil și Daypro.","DOCTOR: Bună ziua. Cum vă simțiți astăzi?
+PACIENT: Pielea mea a luat-o razna.
+DOCTOR: Îmi puteți descrie ce se întâmplă?
+PACIENT: Nu prea pot, dar vă pot arăta. Am aici raportul de la medicul local.
+DOCTOR: Văd. Scrie că aveți febra fânului, eczemă, probleme cu sinusurile și urticarie, corect?
+PACIENT: Da, cred că da.
+DOCTOR: Există în familie?
+PACIENT: Nu cred. Știu că mama are un tip de cancer la gură.
+DOCTOR: Ați fost evaluată pentru cancer?
+PACIENT: Da, raportul are toate informațiile.
+DOCTOR: Arată bine. Scrie că nu aveți melanom, cancere de piele sau psoriazis.
+PACIENT: Sună bine. Atunci ce sunt toate acestea pe piele?
+DOCTOR: Să mă uit. Ați avut arsuri solare?
+PACIENT: Da, am avut și au ars destul de tare.
+DOCTOR: Luați medicamente în prezent?
+PACIENT: Sunt în raportul de la medicul local.
+DOCTOR: Se pare că luați peroxid de benzoil și Daypro. Nu fumați cu aceste medicamente, corect?
+PACIENT: Arăt ca și cum aș fuma? Nu am fumat niciodată."
+67,Antecedente chirurgicale,Necunoscut.,"DOCTOR: A avut operații în trecut?
+FAMILIE: Nu aș putea să vă spun nici dacă aș vrea. Nu știu, îmi pare rău.
+DOCTOR: Există cineva pe care am putea să-l sunăm și care ar ști?
+FAMILIE: Nu îmi vine nimeni în minte. Poate fiica ei, dar este plecată din oraș acum."
+68,Antecedente chirurgicale,Colecistectomie fără complicații.,"DOCTOR: Aveți istoric de intervenții chirurgicale?
+PACIENT: Mi-a fost scoasă vezica biliară.
+DOCTOR: Au fost complicații?
+PACIENT: Nu."
+69,Revizuirea sistemelor,"Pacientul neagă febră, frisoane, transpirații, durere de ureche, simptome de infecție respiratorie superioară, tuse, dispnee, durere toracică, vărsături, diaree, durere abdominală, melenă, hematochezie, simptome urinare, cefalee, durere cervicală, durere lombară, slăbiciune sau parestezii la extremități.","DOCTOR: Febră sau frisoane?
+PACIENT: Nu.
+DOCTOR: Tuse sau simptome de răceală?
+PACIENT: Nu, nimic de genul acesta.
+DOCTOR: Durere în piept sau lipsă de aer?
+PACIENT: Nu, nu am probleme toracice.
+DOCTOR: Probleme cu scaunul sau urinatul?
+PACIENT: Nu.
+DOCTOR: Durere la gât, cap, mâini, picioare sau altundeva?
+PACIENT: Nu, totul este în regulă."
+70,Alergii,Niciuna.,"DOCTOR: Sunteți alergic la ceva, alimente sau medicamente?
+PACIENT: Nu am alergii de care să știu."
+71,Revizuirea sistemelor,"HEENT: Are cefalee și unele amețeli. Neagă modificări de vedere. CARDIAC: Neagă durere toracică sau palpitații. RESPIRATOR: Neagă dispnee. GI: A avut greață și vărsături persistente. Neagă diaree, melenă sau hematemeză. NEUROLOGIC: Neagă deficite neurologice. Toate celelalte sisteme au fost revizuite și sunt negative dacă nu sunt menționate în istoricul bolii actuale.","DOCTOR: De câte zile au început durerile de cap?
+PACIENT: De aproximativ două zile.
+DOCTOR: Cât durează de obicei?
+PACIENT: Câteva ore.
+DOCTOR: Greață sau vărsături cu durerile de cap? Modificări de vedere?
+PACIENT: Da, greața și vărsăturile au fost constante. Fără modificări de vedere.
+DOCTOR: Ați încercat să luați ceva?
+PACIENT: Nu, nimic. Și am și amețeală cu durerile de cap.
+DOCTOR: Cum descrieți amețeala? Se învârte camera?
+PACIENT: Cam așa.
+DOCTOR: Este ceva nou pentru dumneavoastră?
+PACIENT: Da. Nu am mai avut dureri de cap așa.
+DOCTOR: Aveți durere în piept sau bătăi neregulate ale inimii?
+PACIENT: Nu.
+DOCTOR: Amorțeală sau furnicături undeva?
+PACIENT: Nu.
+DOCTOR: Cum sunt urina și scaunul? Sânge? Diaree?
+PACIENT: Nimic, din fericire."
+72,Antecedente personale patologice,Hipertensiune arterială, depresie și osteoporoză.,"DOCTOR: Aveți afecțiuni medicale despre care ar trebui să știu?
+PACIENT: Da, am tensiune mare și depresie.
+DOCTOR: E bine de știut, mulțumesc. Dar oasele?
+PACIENT: Da, am și osteoporoză."
+73,Antecedente familiale și sociale,"Locuiește cu soțul. Este nefumătoare și nu are istoric de abuz de droguri sau alcool. Consumă totuși două-trei băuturi zilnic. A terminat clasa a XII-a.","DOCTOR: Vă voi pune câteva întrebări de bază, bine?
+PACIENT: Bine.
+DOCTOR: Locuiți singură sau cu familia?
+PACIENT: Cu soțul meu.
+DOCTOR: Care este nivelul de educație?
+PACIENT: Am terminat clasa a XII-a, dar nu am mers la facultate.
+DOCTOR: Ați consumat vreodată droguri ilicite?
+PACIENT: Nu.
+DOCTOR: Obicei de consum cronic de alcool sau fumat?
+PACIENT: Nu am fumat niciodată. Beau două-trei băuturi pe zi, dar nu ca alcoolism."
+74,Istoric ginecologic,"Nu sângerează. Are ambele ovare, uterul și colul uterin. Nu este pe terapie hormonală.","DOCTOR: Bună ziua. Ce vă aduce astăzi?
+PACIENT: Îmi lipsesc multe menstruații și nu sunt activă sexual. Nu sângerez. Este ceva în neregulă?
+DOCTOR: Care este istoricul organelor reproductive? Ați avut operații?
+PACIENT: Le am pe toate. Am ambele ovare, am uter și încă am col.
+DOCTOR: Luați terapie hormonală?
+PACIENT: Nu iau nimic. Este prima dată când aduc asta în discuție cu medicul."
+75,Evaluare,"1. Otită seroasă. 2. Dermatită atopică.","DOCTOR: De cât timp aveți durerea de ureche?
+PACIENT: De trei sau patru zile.
+DOCTOR: Bine, să verific urechile. Care parte doare?
+PACIENT: Stânga.
+DOCTOR: Voi verifica ambele. Aveți mult lichid acumulat în urechea stângă, ceea ce a dus la inflamație în urechea medie. Se numește otită seroasă.
+PACIENT: Este ceva grav?
+DOCTOR: Vă prescriu antibiotice și ar trebui să se rezolve.
+PACIENT: Mulțumesc.
+DOCTOR: Altceva?
+PACIENT: Da, și eczema s-a agravat.
+DOCTOR: Aveți istoric de dermatită atopică, adică eczemă.
+PACIENT: Da, o am din copilărie."
+76,Antecedente familiale și sociale,"Nu există istoric de hipertensiune, boală coronariană, accident vascular cerebral, cancer sau diabet.","DOCTOR: Când ați fost diagnosticat cu diabet de tip 2?
+PACIENT: Acum doi ani.
+DOCTOR: Diabetul apare în familie?
+PACIENT: Nu. Cred că sunt singurul care îl are.
+DOCTOR: Dar boală de inimă, accident vascular, cancer sau tensiune mare?
+PACIENT: Nu. Familia mea este în mare parte sănătoasă."
+77,Antecedente familiale și sociale,Nu se poate obține.,"DOCTOR: Îmi puteți spune ce boli apar în familie?
+PACIENT: Nu știu.
+DOCTOR: Sunteți sigur?
+PACIENT: Da."
+78,Antecedente familiale și sociale,"Abuz de alcool, oprit în 1992; istoric de fumat de aproximativ 30 pachet-ani, oprit în 1992.","DOCTOR: Consumați alcool, fumați sau luați alte droguri?
+PACIENT: Obișnuiam să fumez și să beau, dar m-am lăsat acum mulți ani, cred că prin 1992.
+DOCTOR: Cât fumați atunci?
+PACIENT: E greu de ținut minte. Cam 30 pachet-ani."
+79,Medicație,"Loratadină, beclometazonă nazală, fluticazonă/salmeterol inhalator, montelukast, cefalexină, hidrocodonă.","CLINICIAN: A luat ceva pentru simptome?
+DOCTOR: A încercat loratadină, beclometazonă nazală, fluticazonă și salmeterol inhalator, montelukast, cefalexină și hidrocodonă.
+CLINICIAN: A observat vreo ameliorare cu aceste medicamente?
+DOCTOR: O oarecare ameliorare."
+80,Antecedente chirurgicale,Niciuna.,"DOCTOR: Ați avut operații în trecut?
+PACIENT: Nu."
+81,Istoric general,"Pacienta este o femeie albă de 58 de ani, cu durere progresivă la genunchiul drept de mai mulți ani înaintea intervenției chirurgicale. A fost complet refractară la tratamentul conservator ambulator. A avut două artroscopii de genunchi în anii anteriori, efectuate de același medic. În final tratamentul a eșuat și a dezvoltat osteoartrită degenerativă valgă cu colaps, cu prăbușire completă și uzură a compartimentului lateral și modificări degenerative ale șanțului femural. Compartimentul medial avea modificări minore. Nu exista contractură a ligamentului colateral lateral, ci laxitate ușoară bilaterală. Nu exista contractură semnificativă în flexie preoperator.","DOCTOR: Am auzit că a fost ziua cuiva. Câți ani aveți acum?
+PACIENT: Bună ziua, doctore. Tocmai am împlinit 58.
+DOCTOR: Minunat. Vă identificați ca femeie albă, corect?
+PACIENT: Da, corect.
+DOCTOR: Genunchiul drept încă vă supără?
+PACIENT: Da, de ani de zile.
+DOCTOR: Am făcut două artroscopii la acest genunchi, nu?
+PACIENT: Da.
+DOCTOR: Cum a mers tratamentul conservator?
+PACIENT: Ce înseamnă asta?
+DOCTOR: Antiinflamatoare, repaus și modificări ale activității.
+PACIENT: Sincer, nu s-a îmbunătățit.
+DOCTOR: Pe imagini se vede osteoartrită degenerativă valgă cu colaps, cu prăbușire și uzură completă a compartimentului lateral și modificări degenerative la șanțul femural.
+PACIENT: Trebuie să-mi explicați asta.
+DOCTOR: Pe scurt, aveți artrită semnificativă în acest genunchi.
+PACIENT: Compartimentul lateral este partea din exterior a genunchiului, nu?
+DOCTOR: Da. Partea medială, interioară, arată mai bine comparativ, dar există totuși ceva artrită.
+PACIENT: Mulțumesc.
+DOCTOR: Puteți flexa și întinde complet genunchiul?
+PACIENT: Da, uitați.
+DOCTOR: Pot testa stabilitatea? Da, există ceva laxitate pe ambele părți."
+82,Revizuirea sistemelor,În rest negativ.,"DOCTOR: Am revizuit toate sistemele și totul pare în regulă.
+PACIENT: Bine."
+83,Evoluție în urgență,"Pacienta a primit intravenos Norflex 60 mg, Zofran 4 mg și sulfat de morfină 4 mg, cu ameliorare semnificativă a disconfortului.","DOCTOR: Vă voi administra medicamente prin perfuzie.
+PACIENT: Vă rog, vreau să treacă. Mi-e foarte rău, simt că vomit.
+DOCTOR: Sigur. Asistentă, administrați Norflex 60 mg, Zofran 4 mg și sulfat de morfină 4 mg.
+PACIENT: O să mă simt mai bine după aceea?
+DOCTOR: Da.
+PACIENT: După câteva ore mă simt mai bine."
+84,Motivul prezentării,Diaree, vărsături și durere abdominală.,"DOCTOR: Pare că nu vă simțiți prea bine astăzi.
+PACIENT: Da. Am avut diaree și durere de stomac.
+DOCTOR: Ați avut vărsături?
+PACIENT: Da, am vomitat în această dimineață."
+85,Antecedente familiale și sociale,Necunoscut.,"DOCTOR: Știți de probleme medicale care apar în familie?
+PACIENT: Nu, nu știu nimic. Nu am fost niciodată apropiat de familie."
+86,Revizuirea sistemelor,"A se vedea istoricul bolii actuale. Psihiatric: a avut unele gânduri suicidare, dar fără plan. Neagă suicidabilitate în prezent. Cardiopulmonar: nu a avut durere toracică sau dispnee. Gastrointestinal: neagă greață sau vărsături. Neurologic: fără amorțeală, slăbiciune sau furnicături.","DOCTOR: Ați avut gânduri de a vă face rău dumneavoastră sau altora?
+PACIENT: Am avut gânduri că nu mai vreau să fiu în viață, dar nu planuri să-mi fac rău. Și nu vreau absolut deloc să fac rău altora.
+DOCTOR: Vă simțiți suicidal acum?
+PACIENT: Nu, nu acum.
+DOCTOR: Vă vede un terapeut sau psihiatru pentru asta?
+PACIENT: Nu.
+DOCTOR: Aveți alte simptome, cum ar fi durere în piept sau lipsă de aer?
+PACIENT: Nu.
+DOCTOR: Greață sau vărsături?
+PACIENT: Nu.
+DOCTOR: Amorțeală, slăbiciune sau furnicături?
+PACIENT: Nu.
+DOCTOR: Bine, să vedem cum vă putem ajuta astăzi. Ați vorbit cu altcineva despre aceste gânduri? Și ce credeți că declanșează aceste emoții?"
+87,Motivul prezentării,Plagă chirurgicală nevindecată pe fața posterioară a coapsei stângi.,"DOCTOR: Spuneți-mi ce se întâmplă.
+PACIENT: Am această rană pe coapsă de la operație și nu se vindecă. Sincer, sunt puțin îngrijorat.
+DOCTOR: Bine, să mă uit. Pe ce parte?
+PACIENT: Pe spatele coapsei stângi."
+88,Alergii,Nu există intoleranțe medicamentoase cunoscute în trecut.,"DOCTOR: Intoleranțe la medicamente?
+PACIENT: Nu."
+89,Istoric general,"Pacientul este un băiat de 17 ani care s-a bătut cu alți tineri în centrul de detenție juvenilă, moment în care a simțit durere bruscă la cotul stâng. Are și durere la glezna stângă, dar poate merge normal. A avut durere anterioară la genunchiul stâng. Neagă pierderea stării de conștiență și durere cervicală în prezent, deși a fost lovit la cap. Nu are durere toracică sau abdominală. Aparent nu au fost implicate cuțite sau arme de foc.","DOCTOR: Bună dimineața.
+PACIENT: Bună ziua, doctore.
+DOCTOR: Înainte să începem, câți ani ai?
+PACIENT: Am 17 ani.
+DOCTOR: Mulțumesc. Ce s-a întâmplat?
+PACIENT: M-am bătut la centru și mi-am rănit cotul stâng.
+DOCTOR: Mai ai și alte dureri?
+PACIENT: Da, puțin la glezna stângă.
+DOCTOR: Durerea îți afectează mersul?
+PACIENT: Nu, pot merge normal. Aveam durere de genunchi înainte, dar asta a fost în trecut.
+DOCTOR: Ai fost inconștient în timpul bătăii?
+PACIENT: Nu, m-am ținut bine, dar am fost lovit în cap.
+DOCTOR: Te doare gâtul după bătaie?
+PACIENT: Nu, doar cotul și glezna.
+DOCTOR: Au fost folosite arme, cuțite sau pistoale?
+PACIENT: Nu, doar pumni.
+DOCTOR: Ai durere în piept sau abdomen?
+PACIENT: Nu."
+90,Antecedente familiale și sociale,Neagă consumul de alcool sau tutun.,"DOCTOR: Consumați alcool sau fumați țigări?
+PACIENT: Nu.
+DOCTOR: Sunteți sigur?
+PACIENT: Da."
+91,Examen obiectiv,torace: Examenul toracic este fără particularități.,"DOCTOR: Voi face câteva examinări. Vă verific toracele și vă spun pe parcurs ce fac, bine?
+PACIENT: Este în regulă.
+DOCTOR: Să vedem. Da, arată bine. Nu găsesc nimic anormal."
+92,Antecedente personale patologice,Istoric de migrenă.,"DOCTOR: Ați menționat că aveți istoric de migrenă?
+PACIENT: Da, corect."
+93,Medicație,Singurele medicamente sunt Ziac și Remeron.,"DOCTOR: Ce medicamente luați în prezent?
+PACIENT: Iau Remeron pentru depresie și Ziac pentru tensiune mare."
+94,Alte antecedente,Revizuit. Nu există alte modificări.,"CLINICIAN: Ați apucat să revizuiți fișa pacientului?
+DOCTOR: Da, am revizuit antecedentele medicale, familiale și sociale.
+DOCTOR: Nu sunt modificări, corect, domnule Jay?
+PACIENT: Da, nimic nu s-a schimbat.
+CLINICIAN: Bine."
+95,Proceduri,Montare de pacemaker permanent după pacemaker intern temporar.,"DOCTOR: Cum vă simțiți?
+PACIENT: Bine.
+DOCTOR: Am montat un pacemaker permanent și am îndepărtat pacemakerul intern temporar.
+PACIENT: Da."
+96,Revizuirea sistemelor,"Pacientul a fost foarte bine până astăzi, fără semne sau simptome de boală virală, dar ieri a început să prezinte greață și a avut un episod de vărsătură aseară. Are apetit scăzut. Nu au existat febră, frisoane sau stare generală alterată. Fără cefalee. Fără congestie sau răceală. Fără tuse. Fără durere în gât. Fără durere toracică sau dificultăți respiratorii. A avut simptome abdominale după cum s-a descris, dar fără durere abdominală. Fără simptome urinare. Fără închiderea culorii pielii sau ochilor. Fără îngălbenire sau urină închisă la culoare. Fără erupții cutanate. Fără infecție locală la locul înțepăturii. Toate celelalte sisteme sunt negative.","DOCTOR: Cum s-a simțit cel mic?
+FAMILIE: Până astăzi a fost bine, dar ieri seară a vomitat și a avut greață. Nu s-a plâns înainte de stomac. Nici nu mănâncă.
+DOCTOR: Cum este apetitul?
+FAMILIE: Scăzut. Nu are febră, frisoane sau slăbiciune.
+DOCTOR: Tuse sau durere în gât?
+FAMILIE: Nu.
+DOCTOR: Durere în piept sau probleme de respirație?
+FAMILIE: Nu.
+DOCTOR: Modificări la urinare, poate culoarea?
+FAMILIE: Nu.
+DOCTOR: Modificări ale culorii pielii?
+FAMILIE: Nu. Nici erupție sau altceva."
+97,Imagistică,EKG-ul arată tahicardie sinusală, fără modificări ST acute.,"DOCTOR: Am raportul EKG. Arată tahicardie sinusală, adică inima bate mai repede decât normal prin nodul sinusal.
+PACIENT: Bine.
+DOCTOR: Nu există modificări ST.
+PACIENT: Înțeleg."
+98,Imunizări,La zi.,"DOCTOR: Vești bune, nu are nevoie de vaccinuri astăzi. Imunizările sunt la zi.
+FAMILIE: Bine. Nu îi plac injecțiile."
+99,Evaluare,"Fibrilație atrială cronică; pacientul a fost repornit pe aspirină 81 mg la externare. Aspirina trebuie continuată împreună cu Nexium 40 mg o dată pe zi pentru prevenirea unei noi sângerări digestive superioare. Dacă apare sângerare digestivă superioară, cum ar fi vărsături cu aspect de zaț de cafea sau melenă, aspirina trebuie oprită.","DOCTOR: Mă bucur că fibrilația atrială este sub control. Aș vrea să reîncepeți aspirina de doză mică.
+PACIENT: Să continui Nexium?
+DOCTOR: Da, luați și Nexium 40 mg o dată pe zi pentru a reduce riscul de sângerare digestivă superioară.
+PACIENT: Bine.
+DOCTOR: Vă rog să mă sunați imediat dacă observați vărsături cu aspect de zaț de cafea sau scaun cu sânge.
+PACIENT: Bine.
+DOCTOR: Dacă apare oricare dintre aceste simptome, va trebui să oprim aspirina."
