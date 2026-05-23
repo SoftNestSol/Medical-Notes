@@ -1,0 +1,286 @@
+[
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Sărutmana Stefania."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Bună ziua."
+  },
+  {
+    "speaker": "SPEAKER_01", 
+    "text": "Cu ce probleme ne întâlnim?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Fac echitație și în ultimele două săptămâni am căzut de pe cal de vreo patru ori și simt că mă doare spatele."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Înțeles."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Știu că nu se întreabă o femeie, dar ce vârsta e?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "24."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Multi inainte."
+  },
+   {
+    "speaker": "SPEAKER_00",
+    "text": "Multumesc."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "În ce zonă aș doare spatele?"
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "În partea de jos, în partea de toracal, de mijloc?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Am căzut în mai multe moduri, dar în principiu în partea de jos."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "În partea de jos."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Durerea aceasta este o durere locală sau se lasă și pe picior în jos, pe fesă?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Pe fesă în partea stângă, doar că nu știu dacă mă doare osul sau nu știu."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Pe fesă în partea stângă."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Mai jos de fesă se lasă?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Nu."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Nu."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Alergii avem?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Nu."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Știi să-mi spui pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Pe unde ne-am situat cu durerea aceasta?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "În momentul impactului 10 după 6."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "După 6."
+  },
+  {
+    "speaker": "SPEAKER_01", 
+    "text": "Și de două săptămâni se menține în 6 durerea?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Variază în funcție de cum mă mișc."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Am înțeles."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Alte afecțiuni cum ar fi tensiune, diabet, epilepsie scolioză."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Un pic de scolioză."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Un pic de scolioză."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Ce înseamnă un pic?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Pe la baza coloanei este un pic curbată așa."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Am înțeles."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Sunt trimis și mie să verific, da?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Da."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Bun, hai să renunțăm la tricou."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Și voi avea nevoie să îmi spui dacă doare în zona asta."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Voi apăsa acum pe mușchil pirifon, aici la fesă."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Doare?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Da."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "La 0 la 10, cât de tare doare?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "7."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "7."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Mai sus aici în pătratul lombar doare?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Nu știu ce este pătratul lombar."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Se prespune cât te apăs."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Ai sus aici în pătratul lombar doare?"
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Nu."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Dacă apăs chiar aici pe coloană în zona lombară doare?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Da."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Da."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Pe picior în jos aici doare?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Nu."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Nu."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Bun."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Ai mai făcut terapie până acum?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Nu."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Boli cu transmitere cutanată?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Nu."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Implanturi?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Nu."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Iei vreo substanță medicamentoasă?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Nu."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Vreo forme de tratament?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Nu."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Eu zic că putem să trecem la treabă."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Vom începe cu partea de fizioterapie, ulterior cu partea de terapie manuală."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Și hai să vedem cum decurg primele 2-3 ședințe, ca să ne dăm seama neavând un RMN."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Dacă ar fi cazul să facem și un RMN pe viitor."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "text": "Ok."
+  }
+]

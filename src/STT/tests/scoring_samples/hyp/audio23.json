@@ -1,0 +1,187 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio23.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 2.366,
+      "end": 4.948,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, doamna Simona Peleș."
+    },
+    {
+      "start": 5.108,
+      "end": 5.508,
+      "speaker": "SPEAKER_00",
+      "text": "Să rămânam."
+    },
+    {
+      "start": 7.589,
+      "end": 11.112,
+      "speaker": "SPEAKER_01",
+      "text": "Spuneți-mi și mie, vă rog, cu ce problemă ne vedem?"
+    },
+    {
+      "start": 11.132,
+      "end": 22.059,
+      "speaker": "SPEAKER_00",
+      "text": "Am o problemă, mă doare spatele foarte rău, de la sarcină nu mai pot, putem să rezolvăm ceva, dar am și o oare care teamă, vă dați seama, cu copilul și așa."
+    },
+    {
+      "start": 22.739,
+      "end": 24.06,
+      "speaker": "SPEAKER_01",
+      "text": "Înțeles, în ce luna sunteți?"
+    },
+    {
+      "start": 24.24,
+      "end": 26.682,
+      "speaker": "SPEAKER_00",
+      "text": "Suntem în luna cincea."
+    },
+    {
+      "start": 26.702,
+      "end": 28.023,
+      "speaker": "SPEAKER_00",
+      "text": "În luna cincea, deci deja..."
+    },
+    {
+      "start": 28.92,
+      "end": 30.2,
+      "speaker": "SPEAKER_00",
+      "text": "Suntem peste jumătate din termen."
+    },
+    {
+      "start": 30.661,
+      "end": 39.324,
+      "speaker": "SPEAKER_00",
+      "text": "Da, eu am vorbit cu domnul doctor, cu Laurențiu și mi-a spus că este în regulă și că putem să găsim o procedură care să fie... De cât timp vă doar?"
+    },
+    {
+      "start": 39.384,
+      "end": 49.027,
+      "speaker": "SPEAKER_00",
+      "text": "Păi a început toată treaba asta acum o lună, de când a început să-mi crească și burtea și așa, vă dați seama, toată greutatea e pe față și nu mai pot, adică mă doare spatele de..."
+    },
+    {
+      "start": 49.067,
+      "end": 53.088,
+      "speaker": "SPEAKER_01",
+      "text": "Vă doare spatele în partea lombară și doracală sau ce pe dură aia și cervical?"
+    },
+    {
+      "start": 53.829,
+      "end": 53.949,
+      "speaker": "SPEAKER_01",
+      "text": "La"
+    },
+    {
+      "start": 54.029,
+      "end": 54.669,
+      "speaker": "SPEAKER_00",
+      "text": "umeri?"
+    },
+    {
+      "start": 56.684,
+      "end": 63.49,
+      "speaker": "SPEAKER_00",
+      "text": "Da, o simt per total peste tot, dar lombarul ma rupe foarte drău Am inteles, pesele dor?"
+    },
+    {
+      "start": 63.51,
+      "end": 68.935,
+      "speaker": "SPEAKER_00",
+      "text": "Da"
+    },
+    {
+      "start": 69.255,
+      "end": 73.739,
+      "speaker": "SPEAKER_01",
+      "text": "Ce varsta aveți dumneavoastră?"
+    },
+    {
+      "start": 73.759,
+      "end": 75.981,
+      "speaker": "SPEAKER_01",
+      "text": "26 de ani Nu sunt înainte Tinerica?"
+    },
+    {
+      "start": 76.001,
+      "end": 78.623,
+      "speaker": "SPEAKER_01",
+      "text": "Hai ca nu mai încerc la asta"
+    },
+    {
+      "start": 83.577,
+      "end": 84.017,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 84.877,
+      "end": 88.498,
+      "speaker": "SPEAKER_01",
+      "text": "Pe o scară de la 0 la 10 în momentul în care apăs aici chiar pe coloană."
+    },
+    {
+      "start": 89.138,
+      "end": 90.719,
+      "speaker": "SPEAKER_01",
+      "text": "Unde ne-am situat?"
+    },
+    {
+      "start": 90.799,
+      "end": 93.079,
+      "speaker": "SPEAKER_01",
+      "text": "Ne situăm pe o nopte."
+    },
+    {
+      "start": 93.119,
+      "end": 95.44,
+      "speaker": "SPEAKER_01",
+      "text": "Doare mai tare când stăm în picioare sau când stăm relaxată?"
+    },
+    {
+      "start": 96.36,
+      "end": 100.141,
+      "speaker": "SPEAKER_01",
+      "text": "În picioare."
+    },
+    {
+      "start": 100.221,
+      "end": 100.401,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 100.761,
+      "end": 105.682,
+      "speaker": "SPEAKER_01",
+      "text": "Fiind și însărșinată, vom lucra mai delicat."
+    },
+    {
+      "start": 105.722,
+      "end": 107.382,
+      "speaker": "SPEAKER_01",
+      "text": "Nu mai bine fac cu ea?"
+    },
+    {
+      "start": 107.442,
+      "end": 108.322,
+      "speaker": "SPEAKER_01",
+      "text": "Ca să fie voce de femeie?"
+    },
+    {
+      "start": 109.183,
+      "end": 110.363,
+      "speaker": "SPEAKER_01",
+      "text": "Nu avem prea."
+    },
+    {
+      "start": 110.383,
+      "end": 111.403,
+      "speaker": "SPEAKER_01",
+      "text": "Ia-o de la capăt."
+    }
+  ]
+}

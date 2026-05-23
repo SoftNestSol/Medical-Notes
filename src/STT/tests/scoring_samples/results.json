@@ -1,0 +1,72 @@
+[
+  {
+    "name": "audio23",
+    "ref_path": "tests/scoring_samples/audio23_manual.json",
+    "hyp_path": "tests/scoring_samples/hyp/audio23.json",
+    "wer": 0.1799163179916318,
+    "cpwer": 0.39330543933054396,
+    "ref_speakers": 2,
+    "hyp_speakers": 2,
+    "missed_speaker": 0,
+    "falarm_speaker": 0,
+    "scored_speaker": 2,
+    "ref_words": 239,
+    "hyp_words": 259
+  },
+  {
+    "name": "audio24",
+    "ref_path": "tests/scoring_samples/audio24_manual.json",
+    "hyp_path": "tests/scoring_samples/hyp/audio24.json",
+    "wer": 0.052083333333333336,
+    "cpwer": 0.10416666666666667,
+    "ref_speakers": 2,
+    "hyp_speakers": 3,
+    "missed_speaker": 0,
+    "falarm_speaker": 1,
+    "scored_speaker": 2,
+    "ref_words": 384,
+    "hyp_words": 387
+  },
+  {
+    "name": "audio_11",
+    "ref_path": "tests/scoring_samples/audio_11_manual.json",
+    "hyp_path": "tests/scoring_samples/hyp/audio_11.json",
+    "wer": 0.0,
+    "cpwer": 0.027906976744186046,
+    "ref_speakers": 2,
+    "hyp_speakers": 2,
+    "missed_speaker": 0,
+    "falarm_speaker": 0,
+    "scored_speaker": 2,
+    "ref_words": 215,
+    "hyp_words": 215
+  },
+  {
+    "name": "audio_2",
+    "ref_path": "tests/scoring_samples/audio_2_manual.json",
+    "hyp_path": "tests/scoring_samples/hyp/audio_2.json",
+    "wer": 0.17026378896882494,
+    "cpwer": 0.3405275779376499,
+    "ref_speakers": 2,
+    "hyp_speakers": 2,
+    "missed_speaker": 0,
+    "falarm_speaker": 0,
+    "scored_speaker": 2,
+    "ref_words": 417,
+    "hyp_words": 409
+  },
+  {
+    "name": "audio_7",
+    "ref_path": "tests/scoring_samples/audio_7_manual.json",
+    "hyp_path": "tests/scoring_samples/hyp/audio_7.json",
+    "wer": 0.21011673151750973,
+    "cpwer": 0.4046692607003891,
+    "ref_speakers": 3,
+    "hyp_speakers": 3,
+    "missed_speaker": 0,
+    "falarm_speaker": 0,
+    "scored_speaker": 3,
+    "ref_words": 257,
+    "hyp_words": 221
+  }
+]

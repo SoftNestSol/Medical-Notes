@@ -1,0 +1,235 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio_11.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 1.185,
+      "end": 1.766,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 2.567,
+      "end": 6.715,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, mă numesc Ene Cosmin și doresc să mă fac bine."
+    },
+    {
+      "start": 6.755,
+      "end": 9.72,
+      "speaker": "SPEAKER_00",
+      "text": "O foarte bună inițiativa, domnule Cosmin."
+    },
+    {
+      "start": 9.76,
+      "end": 11.182,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi și mie ce vă deranjează?"
+    },
+    {
+      "start": 11.923,
+      "end": 12.785,
+      "speaker": "SPEAKER_00",
+      "text": "Genunchiul."
+    },
+    {
+      "start": 13.522,
+      "end": 21.244,
+      "speaker": "SPEAKER_00",
+      "text": "În momentul în care urc scări sau când fac o fandare, simți o durere sub rotulă."
+    },
+    {
+      "start": 21.284,
+      "end": 23.364,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles, durerea asta este de fiecare dată?"
+    },
+    {
+      "start": 24.184,
+      "end": 26.825,
+      "speaker": "SPEAKER_01",
+      "text": "Da, e persistă de ceva timp."
+    },
+    {
+      "start": 26.845,
+      "end": 32.746,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă încălzim înainte articulațiile, doare genunchiul, la fel pe urcarea scărilor?"
+    },
+    {
+      "start": 32.926,
+      "end": 34.706,
+      "speaker": "SPEAKER_01",
+      "text": "N-am încercat."
+    },
+    {
+      "start": 34.726,
+      "end": 36.446,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 36.647,
+      "end": 38.687,
+      "speaker": "SPEAKER_01",
+      "text": "Lăsați-mă și primul să vă palpez puțin."
+    },
+    {
+      "start": 38.727,
+      "end": 39.107,
+      "speaker": "SPEAKER_01",
+      "text": "Vă rog."
+    },
+    {
+      "start": 40.266,
+      "end": 41.687,
+      "speaker": "SPEAKER_01",
+      "text": "Doare aici?"
+    },
+    {
+      "start": 42.047,
+      "end": 42.147,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 42.207,
+      "end": 43.688,
+      "speaker": "SPEAKER_01",
+      "text": "Deci pe zona de menis e dureros."
+    },
+    {
+      "start": 43.908,
+      "end": 44.648,
+      "speaker": "SPEAKER_01",
+      "text": "Exact."
+    },
+    {
+      "start": 44.708,
+      "end": 48.971,
+      "speaker": "SPEAKER_01",
+      "text": "Pe zona asta de aici din lateral, din ligamentul lateral lateral, doare?"
+    },
+    {
+      "start": 48.991,
+      "end": 58.095,
+      "speaker": "SPEAKER_01",
+      "text": "Așa, așa."
+    },
+    {
+      "start": 58.115,
+      "end": 60.777,
+      "speaker": "SPEAKER_01",
+      "text": "Aici, pe partea interioară?"
+    },
+    {
+      "start": 60.877,
+      "end": 61.477,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 61.997,
+      "end": 66.96,
+      "speaker": "SPEAKER_01",
+      "text": "În momentul în care apăs aici, radiază și sub rotulă?"
+    },
+    {
+      "start": 67.04,
+      "end": 67.44,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 68.866,
+      "end": 72.689,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles, avem cumva și o radiografie făcută?"
+    },
+    {
+      "start": 72.709,
+      "end": 72.849,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, nu"
+    },
+    {
+      "start": 73.169,
+      "end": 75.171,
+      "speaker": "SPEAKER_01",
+      "text": "am făcut."
+    },
+    {
+      "start": 75.191,
+      "end": 77.752,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles, o facem și o trimitere atunci."
+    },
+    {
+      "start": 77.933,
+      "end": 79.294,
+      "speaker": "SPEAKER_01",
+      "text": "E bine."
+    },
+    {
+      "start": 79.314,
+      "end": 85.098,
+      "speaker": "SPEAKER_01",
+      "text": "Sunt șanse să fie o problemă la meniscul intern și totodată la ligamentul cu lateral medial."
+    },
+    {
+      "start": 85.198,
+      "end": 89.441,
+      "speaker": "SPEAKER_01",
+      "text": "Asta e doar o presupunere, neavând o radiografie, pentru a testa acest lucru."
+    },
+    {
+      "start": 90.181,
+      "end": 90.822,
+      "speaker": "SPEAKER_01",
+      "text": "Și asta e grav?"
+    },
+    {
+      "start": 92.383,
+      "end": 95.585,
+      "speaker": "SPEAKER_01",
+      "text": "Nu pare a fi ceva foarte grav, nu."
+    },
+    {
+      "start": 95.605,
+      "end": 96.806,
+      "speaker": "SPEAKER_01",
+      "text": "Alte dureri mai avem."
+    },
+    {
+      "start": 98.084,
+      "end": 99.306,
+      "speaker": "SPEAKER_00",
+      "text": "Nu în zona"
+    },
+    {
+      "start": 99.787,
+      "end": 100.789,
+      "speaker": "SPEAKER_01",
+      "text": "genunchiului."
+    },
+    {
+      "start": 100.809,
+      "end": 102.833,
+      "speaker": "SPEAKER_01",
+      "text": "Nu în zona genunchiului."
+    },
+    {
+      "start": 102.853,
+      "end": 105.578,
+      "speaker": "SPEAKER_01",
+      "text": "Atunci haideți să ne revedem în momentul în care aveți și o radiografie."
+    },
+    {
+      "start": 105.598,
+      "end": 108.163,
+      "speaker": "SPEAKER_01",
+      "text": "În regulă."
+    }
+  ]
+}

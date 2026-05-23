@@ -101,6 +101,22 @@ def batch(
         raise typer.Exit(1)
 
 
+@app.command(name="eval")
+def eval_cmd(
+    manual_dir: Path = typer.Argument(..., exists=True, file_okay=False, help="Dir with <name>_manual.json files"),
+    hyp_dir: Path = typer.Argument(..., exists=True, file_okay=False, help="Dir with pipeline <name>.json outputs"),
+    json_out: Optional[Path] = typer.Option(None, "--json-out", help="Also write per-file results to JSON"),
+    ascii_fold: bool = typer.Option(False, "--ascii-fold", help="Strip Romanian diacritics before scoring"),
+):
+    """Score pipeline outputs against hand-corrected references (WER + cpWER)."""
+    from .eval.runner import evaluate, render, dump_json
+    results = evaluate(manual_dir, hyp_dir, ascii_fold=ascii_fold)
+    render(results)
+    if json_out:
+        dump_json(results, json_out)
+        typer.echo(f"wrote {json_out}", err=True)
+
+
 @app.command()
 def config():
     """Print resolved settings (sans secrets)."""

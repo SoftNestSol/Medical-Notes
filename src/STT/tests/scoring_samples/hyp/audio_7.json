@@ -1,0 +1,319 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio_7.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 15.36,
+      "end": 18.741,
+      "speaker": "SPEAKER_01",
+      "text": "C-5, C-6, C-6, C-7."
+    },
+    {
+      "start": 19.162,
+      "end": 20.302,
+      "speaker": "SPEAKER_00",
+      "text": "Încert este că"
+    },
+    {
+      "start": 22.083,
+      "end": 24.783,
+      "speaker": "SPEAKER_01",
+      "text": "mă dore și capul mai nou, amețesc."
+    },
+    {
+      "start": 24.823,
+      "end": 25.764,
+      "speaker": "SPEAKER_01",
+      "text": "Sezație de greasă?"
+    },
+    {
+      "start": 26.044,
+      "end": 29.885,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și s-a ieșit inflamat pe aici, îmi dore foarte rău."
+    },
+    {
+      "start": 30.005,
+      "end": 30.245,
+      "speaker": "SPEAKER_01",
+      "text": "Ce?"
+    },
+    {
+      "start": 30.445,
+      "end": 32.166,
+      "speaker": "SPEAKER_01",
+      "text": "Până la ureche aici?"
+    },
+    {
+      "start": 32.186,
+      "end": 33.446,
+      "speaker": "SPEAKER_01",
+      "text": "În maxilarul?"
+    },
+    {
+      "start": 33.466,
+      "end": 34.507,
+      "speaker": "SPEAKER_01",
+      "text": "Și ce până la ochi"
+    },
+    {
+      "start": 34.627,
+      "end": 35.887,
+      "speaker": "SPEAKER_00",
+      "text": "drept?"
+    },
+    {
+      "start": 38.607,
+      "end": 44.329,
+      "speaker": "SPEAKER_00",
+      "text": "soluții pentru asta, ca să putem reduce oarecum rapid."
+    },
+    {
+      "start": 44.409,
+      "end": 46.43,
+      "speaker": "SPEAKER_00",
+      "text": "Pentru asta ar trebui să-ți fac o infiltrație."
+    },
+    {
+      "start": 47.35,
+      "end": 49.671,
+      "speaker": "SPEAKER_00",
+      "text": "Nu m-aș hazarda, vreau să văd cum e fără."
+    },
+    {
+      "start": 50.311,
+      "end": 52.332,
+      "speaker": "SPEAKER_01",
+      "text": "Păi asta, n-aș vrea să fac..."
+    },
+    {
+      "start": 52.352,
+      "end": 59.955,
+      "speaker": "SPEAKER_00",
+      "text": "Vreau să văd cum e fără și dacă vrem să vedem cum e fără, nu ne închipuim cu o ședință la ta."
+    },
+    {
+      "start": 60.055,
+      "end": 61.496,
+      "speaker": "SPEAKER_01",
+      "text": "Păi e subcoștientă?"
+    },
+    {
+      "start": 61.636,
+      "end": 62.776,
+      "speaker": "SPEAKER_01",
+      "text": "Păi eu am mai"
+    },
+    {
+      "start": 62.796,
+      "end": 63.416,
+      "speaker": "SPEAKER_00",
+      "text": "făcut multe"
+    },
+    {
+      "start": 63.456,
+      "end": 64.137,
+      "speaker": "SPEAKER_01",
+      "text": "peste tot."
+    },
+    {
+      "start": 64.177,
+      "end": 65.317,
+      "speaker": "SPEAKER_00",
+      "text": "Ideea e următoarea."
+    },
+    {
+      "start": 66.106,
+      "end": 69.707,
+      "speaker": "SPEAKER_00",
+      "text": "Dar aș vrea și elongație vertebrală aici, să știi."
+    },
+    {
+      "start": 69.967,
+      "end": 80.77,
+      "speaker": "SPEAKER_00",
+      "text": "Dă-mi mie ca să pot completa."
+    },
+    {
+      "start": 80.83,
+      "end": 83.711,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să facem testările, să vedem unde ce și cum."
+    },
+    {
+      "start": 117.623,
+      "end": 118.083,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 126.51,
+      "end": 129.452,
+      "speaker": "SPEAKER_00",
+      "text": "Trapez bilateral?"
+    },
+    {
+      "start": 129.532,
+      "end": 131.914,
+      "speaker": "SPEAKER_00",
+      "text": "Ia vezi romboidii cum sunt."
+    },
+    {
+      "start": 132.235,
+      "end": 133.696,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțește vreun deget, mâna?"
+    },
+    {
+      "start": 134.116,
+      "end": 134.897,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, doar umeri"
+    },
+    {
+      "start": 134.917,
+      "end": 135.457,
+      "speaker": "SPEAKER_00",
+      "text": "aici."
+    },
+    {
+      "start": 135.517,
+      "end": 138.019,
+      "speaker": "SPEAKER_00",
+      "text": "Dar la nivelul degetelor mâinii nu?"
+    },
+    {
+      "start": 138.039,
+      "end": 138.96,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, perfect."
+    },
+    {
+      "start": 139.79,
+      "end": 140.59,
+      "speaker": "SPEAKER_00",
+      "text": "Acolo nu."
+    },
+    {
+      "start": 140.71,
+      "end": 147.671,
+      "speaker": "SPEAKER_01",
+      "text": "Acolo da."
+    },
+    {
+      "start": 148.312,
+      "end": 149.792,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 150.032,
+      "end": 156.933,
+      "speaker": "SPEAKER_00",
+      "text": "Și toracul cervical după aceea?"
+    },
+    {
+      "start": 157.053,
+      "end": 157.393,
+      "speaker": "SPEAKER_00",
+      "text": "Și acolo."
+    },
+    {
+      "start": 157.413,
+      "end": 159.834,
+      "speaker": "SPEAKER_00",
+      "text": "Păi vreau după aceea să te uiți subclavicular."
+    },
+    {
+      "start": 159.874,
+      "end": 160.994,
+      "speaker": "SPEAKER_00",
+      "text": "Mi-am dat seama."
+    },
+    {
+      "start": 161.534,
+      "end": 165.055,
+      "speaker": "SPEAKER_00",
+      "text": "Subclavicular."
+    },
+    {
+      "start": 165.095,
+      "end": 167.715,
+      "speaker": null,
+      "text": "Nu."
+    },
+    {
+      "start": 173.817,
+      "end": 175.138,
+      "speaker": "SPEAKER_01",
+      "text": "Toată zona."
+    },
+    {
+      "start": 175.238,
+      "end": 176.179,
+      "speaker": "SPEAKER_01",
+      "text": "Spune-mi, te"
+    },
+    {
+      "start": 176.219,
+      "end": 177.519,
+      "speaker": "SPEAKER_00",
+      "text": "rog."
+    },
+    {
+      "start": 177.639,
+      "end": 178.54,
+      "speaker": "SPEAKER_01",
+      "text": "A dorut și pe zona"
+    },
+    {
+      "start": 178.64,
+      "end": 179.04,
+      "speaker": "SPEAKER_00",
+      "text": "asta?"
+    },
+    {
+      "start": 179.2,
+      "end": 179.5,
+      "speaker": "SPEAKER_00",
+      "text": "Da?"
+    },
+    {
+      "start": 179.541,
+      "end": 179.681,
+      "speaker": "SPEAKER_00",
+      "text": "Totul"
+    },
+    {
+      "start": 179.761,
+      "end": 180.041,
+      "speaker": "SPEAKER_01",
+      "text": "doare."
+    },
+    {
+      "start": 180.241,
+      "end": 180.981,
+      "speaker": "SPEAKER_00",
+      "text": "Și aici?"
+    },
+    {
+      "start": 181.121,
+      "end": 187.625,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 187.945,
+      "end": 189.706,
+      "speaker": "SPEAKER_00",
+      "text": "Și este și un sindrom armăut."
+    },
+    {
+      "start": 213.425,
+      "end": 214.413,
+      "speaker": "SPEAKER_00",
+      "text": "Încât suntem noi astăzi?"
+    }
+  ]
+}
