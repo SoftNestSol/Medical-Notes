@@ -128,7 +128,7 @@ Knobs exposed as `--vad-onset` / `--vad-offset`.
 
 ---
 
-## Measured impact (audio_2.mp4, ~1 min sample)
+## Measured impact (audio2.mp4, ~1 min sample)
 
 | | v1 (raw) | v2 (preprocess + cond=False) | v3 (+ VAD onset/offset lowered) |
 |---|---|---|---|

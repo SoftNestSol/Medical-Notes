@@ -4,11 +4,11 @@
     "text": "Bună ziua."
   },
   {
-    "speaker": "SPEAKER_00",
+    "speaker": "SPEAKER_01",
     "text": "Bună ziua, mă numesc Ene Cosmin și doresc să mă fac bine."
   },
   {
-    "speaker": "SPEAKER_00",
+    "speaker": "SPEAKER_01",
     "text": "O foarte bună inițiativa, domnule Cosmin."
   },
   {
@@ -16,11 +16,11 @@
     "text": "Spuneți-mi și mie ce vă deranjează?"
   },
   {
-    "speaker": "SPEAKER_00",
+    "speaker": "SPEAKER_01",
     "text": "Genunchiul."
   },
   {
-    "speaker": "SPEAKER_00",
+    "speaker": "SPEAKER_01",
     "text": "În momentul în care urc scări sau când fac o fandare, simți o durere sub rotulă."
   },
   {
@@ -32,7 +32,7 @@
     "text": "Da, e persistă de ceva timp."
   },
   {
-    "speaker": "SPEAKER_01",
+    "speaker": "SPEAKER_00",
     "text": "Dacă încălzim înainte articulațiile, doare genunchiul, la fel pe urcarea scărilor?"
   },
   {
@@ -40,11 +40,11 @@
     "text": "N-am încercat."
   },
   {
-    "speaker": "SPEAKER_01",
+    "speaker": "SPEAKER_00",
     "text": "Am înțeles."
   },
   {
-    "speaker": "SPEAKER_01",
+    "speaker": "SPEAKER_00",
     "text": "Lăsați-mă și primul să vă palpez puțin."
   },
   {
@@ -52,7 +52,7 @@
     "text": "Vă rog."
   },
   {
-    "speaker": "SPEAKER_01",
+    "speaker": "SPEAKER_00",
     "text": "Doare aici?"
   },
   {
@@ -68,7 +68,7 @@
     "text": "Exact."
   },
   {
-    "speaker": "SPEAKER_01",
+    "speaker": "SPEAKER_00",
     "text": "Pe zona asta de aici din lateral, din ligamentul lateral lateral, doare?"
   },
   {
@@ -80,11 +80,11 @@
     "text": "Aici, pe partea interioară?"
   },
   {
-    "speaker": "SPEAKER_00",
+    "speaker": "SPEAKER_01",
     "text": "Da."
   },
   {
-    "speaker": "SPEAKER_01",
+    "speaker": "SPEAKER_00",
     "text": "În momentul în care apăs aici, radiază și sub rotulă?"
   },
   {
@@ -92,27 +92,27 @@
     "text": "Da."
   },
   {
-    "speaker": "SPEAKER_01",
+    "speaker": "SPEAKER_00",
     "text": "Am înțeles, avem cumva și o radiografie făcută?"
   },
   {
     "speaker": "SPEAKER_01",
-    "text": "Nu, nu am făcut."
+    "text": "Nu, nu am apucat."
   },
   {
-    "speaker": "SPEAKER_01",
+    "speaker": "SPEAKER_00",
     "text": "Am înțeles, o facem și o trimitere atunci."
   },
   {
     "speaker": "SPEAKER_01",
-    "text": "E bine."
+    "text": "Ar fi bine."
   },
   {
-    "speaker": "SPEAKER_01",
+    "speaker": "SPEAKER_00",
     "text": "Sunt șanse să fie o problemă la meniscul intern și totodată la ligamentul cu lateral medial."
   },
   {
-    "speaker": "SPEAKER_01",
+    "speaker": "SPEAKER_00",
     "text": "Asta e doar o presupunere, neavând o radiografie, pentru a testa acest lucru."
   },
   {
@@ -120,12 +120,12 @@
     "text": "Și asta e grav?"
   },
   {
-    "speaker": "SPEAKER_01",
+    "speaker": "SPEAKER_00",
     "text": "Nu pare a fi ceva foarte grav, nu."
   },
   {
-    "speaker": "SPEAKER_01",
-    "text": "Alte dureri mai avem."
+    "speaker": "SPEAKER_00",
+    "text": "Alte dureri mai avem?"
   },
   {
     "speaker": "SPEAKER_00",
@@ -136,7 +136,7 @@
     "text": "Nu în zona genunchiului."
   },
   {
-    "speaker": "SPEAKER_01",
+    "speaker": "SPEAKER_00",
     "text": "Atunci haideți să ne revedem în momentul în care aveți și o radiografie."
   },
   {
