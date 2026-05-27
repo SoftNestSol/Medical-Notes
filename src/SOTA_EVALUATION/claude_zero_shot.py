@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Condition 2: big-model zero-shot extraction of Romanian chiro dialogues
-into structured JSON matching the Osteopath Concept v1 schema.
+Condition 2: zero-shot extraction cu Claude Opus 4.7 (expensive ceiling).
 
 Usage:
     python claude.py <path/to/transcribe.txt>
@@ -15,23 +14,13 @@ from pathlib import Path
 import anthropic
 from dotenv import load_dotenv
 
+from json_schema import ANTECEDENTE_ENUM, LOCALIZARE_ENUM
+from parser import ParseError, SchemaError, parse_note
+
 load_dotenv(Path(__file__).parent.parent.parent / ".env")
 
-MODEL = "claude-sonnet-4-6"  # swap to "claude-opus-4-7" for the absolute ceiling
-
-LOCALIZARE_ENUM = [
-    "cervical", "toracal", "lombar", "sacral_coccis",
-    "umar_dr", "umar_stg", "cot_dr", "cot_stg",
-    "pumn_dr", "pumn_stg", "sold_dr", "sold_stg",
-    "genunchi_dr", "genunchi_stg", "glezna_dr", "glezna_stg",
-    "cap_ceafa", "abdomen", "torace",
-]
-
-ANTECEDENTE_ENUM = [
-    "hipertensiune_arteriala", "diabet_zaharat", "boli_cardiovasculare",
-    "osteoporoza", "artrita_artroza", "hernia_disc", "scolioza_cifoza",
-    "epilepsie", "cancer_neoplasm", "boli_autoimune",
-]
+MODEL = "claude-opus-4-7"
+MAX_TOKENS = 2048
 
 SYSTEM_PROMPT = f"""Ești un sistem de extragere de informații clinice din transcrierile consultațiilor unui cabinet de chiropractică din România.
 
@@ -70,7 +59,6 @@ Returnează EXACT acest obiect, fără text înainte sau după, fără markdown 
 ### evaluarea_durerii_vas (int 0-10 sau null)
 - Doar dacă pacientul rostește un NUMĂR explicit pe scala 0-10.
 - "Doare rău", "doare tare", "insuportabil" → null.
-- Interval ("4-5", "între 6 și 8") → null (lasă gol până clarificăm regula).
 - Număr în afara scalei ("15 din 10") → null.
 
 ### localizarea_durerii (multi-select din enum)
@@ -87,7 +75,6 @@ Slug-uri permise: {LOCALIZARE_ENUM}
 Slug-uri permise: {ANTECEDENTE_ENUM}
 - Doar afecțiuni confirmate de pacient (sau confirmate la întrebarea terapeutului).
 - Antecedente familiale ("mama are diabet") → NU intră aici.
-- "Am avut hernie" vs "am hernie" → ambele intră (până clarificăm regula trecut/prezent).
 
 ### antecedente_altele (text liber sau null)
 - Pentru afecțiuni rostite dar care nu se potrivesc enum-ului.
@@ -113,7 +100,7 @@ Slug-uri permise: {ANTECEDENTE_ENUM}
 
 
 def extract_note(transcription: str) -> dict:
-    """Call Claude API and return the parsed JSON note."""
+    """Call Claude API and return the parsed + schema-validated JSON note."""
     api_key = os.getenv("ANTHROPIC_KEY")
     if not api_key:
         raise RuntimeError("ANTHROPIC_KEY not found in environment / .env file")
@@ -124,7 +111,7 @@ def extract_note(transcription: str) -> dict:
 
     response = client.messages.create(
         model=MODEL,
-        max_tokens=2048,
+        max_tokens=MAX_TOKENS,
         system=[
             {
                 "type": "text",
@@ -144,57 +131,8 @@ def extract_note(transcription: str) -> dict:
         file=sys.stderr,
     )
 
-    raw = response.content[0].text.strip()
-
-    # Defensive: strip code fences if model adds them despite instructions
-    if raw.startswith("```"):
-        raw = raw.split("\n", 1)[1] if "\n" in raw else raw
-        if raw.endswith("```"):
-            raw = raw.rsplit("```", 1)[0]
-        raw = raw.strip()
-
-    try:
-        parsed = json.loads(raw)
-    except json.JSONDecodeError as e:
-        print(f"[error] model returned invalid JSON:\n{raw}", file=sys.stderr)
-        raise RuntimeError(f"JSON parse failed: {e}")
-
-    return parsed
-
-
-def validate_schema(note: dict) -> list[str]:
-    """Light schema check. Returns list of issues (empty = clean)."""
-    issues = []
-    expected_keys = {
-        "motivul_prezentarii", "evaluarea_durerii_vas",
-        "localizarea_durerii", "localizarea_durerii_alta",
-        "antecedente", "antecedente_altele",
-        "medicatie_actuala", "evaluare_functionala_initiala",
-    }
-    missing = expected_keys - note.keys()
-    extra = note.keys() - expected_keys
-    if missing:
-        issues.append(f"missing keys: {missing}")
-    if extra:
-        issues.append(f"unexpected keys: {extra}")
-
-    vas = note.get("evaluarea_durerii_vas")
-    if vas is not None and not (isinstance(vas, int) and 0 <= vas <= 10):
-        issues.append(f"VAS not int 0-10 or null: {vas!r}")
-
-    loc = note.get("localizarea_durerii", [])
-    if isinstance(loc, list):
-        bad = [v for v in loc if v not in LOCALIZARE_ENUM]
-        if bad:
-            issues.append(f"localizarea_durerii has out-of-enum values: {bad}")
-
-    ant = note.get("antecedente", [])
-    if isinstance(ant, list):
-        bad = [v for v in ant if v not in ANTECEDENTE_ENUM]
-        if bad:
-            issues.append(f"antecedente has out-of-enum values: {bad}")
-
-    return issues
+    raw = response.content[0].text
+    return parse_note(raw)
 
 
 def main() -> None:
@@ -208,13 +146,15 @@ def main() -> None:
         sys.exit(1)
 
     transcription = input_path.read_text(encoding="utf-8")
-    note = extract_note(transcription)
 
-    issues = validate_schema(note)
-    if issues:
-        print("[schema warnings]", file=sys.stderr)
-        for i in issues:
-            print(f"  - {i}", file=sys.stderr)
+    try:
+        note = extract_note(transcription)
+    except ParseError as e:
+        print(f"[parse error] {e}", file=sys.stderr)
+        sys.exit(2)
+    except SchemaError as e:
+        print(f"[schema error] {e}", file=sys.stderr)
+        sys.exit(3)
 
     output_json = json.dumps(note, ensure_ascii=False, indent=2)
     print(output_json)
