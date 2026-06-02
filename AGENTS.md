@@ -39,7 +39,7 @@ The lead user prefers:
 | Field | Type | Source |
 |-------|------|--------|
 | `motivul_prezentarii` | free text | summarization of patient's main complaint |
-| `evaluarea_durerii_vas` | int 0-10 or null | extraction of verbalized pain number |
+| `evaluarea_durerii_vas` | int 0-10, list[int 0-10], or null | extraction of verbalized pain number(s); list when multiple distinct scores are spoken (different regions/postures/moments) |
 | `localizarea_durerii` | multi-select from ~20 regions | extraction (cervical, toracal, lombar, sacral, umar_dr, umar_stg, ...) |
 | `antecedente` | multi-select from ~10 conditions + free text | extraction (hipertensiune, diabet, hernia_disc, scolioza, ...) |
 | `medicatie_actuala` | list of {nume, doza} | extraction of medications mentioned |
@@ -146,7 +146,7 @@ Per-field metrics, not a single aggregate:
 
 | Field | Metric |
 |-------|--------|
-| `evaluarea_durerii_vas` | Exact match (treat null vs number correctly) |
+| `evaluarea_durerii_vas` | Exact match on canonical form (single int and `[int]` of length 1 compare equal; lists compared as multisets; null vs number distinct) |
 | `localizarea_durerii` | Multi-label F1 with empty-set handling |
 | `antecedente` | Multi-label F1 with empty-set handling |
 | `medicatie_actuala` | TBD — exact match vs normalized name match |

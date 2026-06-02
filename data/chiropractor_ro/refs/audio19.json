@@ -1,0 +1,10 @@
+{
+  "motivul_prezentarii": "durere lombara",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": ["lombar","sold_stg"],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie piriform, fesier mijlociu, patrat lombar;\n- posibila protruzie L4-L5; L5-S1\nObiective terapeutice:\n-Reducerea procesului inflamator"
+}

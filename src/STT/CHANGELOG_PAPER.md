@@ -289,6 +289,37 @@ Verification:
 
 ---
 
+---
+
+## Schema change — `evaluarea_durerii_vas` (2026-05-24)
+
+Expanded from `int | null` to `int | array[int] | null`.
+
+**Why:** real consultations produce more than one VAS value per session
+(different regions, different postures, before/after a manoeuvre, progression
+across visits). Existing hand-annotated references already used both forms;
+the previous `int|null` schema rejected the array case (e.g. `[5,6,7]`).
+
+**How to apply:**
+- Single spoken score → integer (`7`).
+- Multiple distinct scores spoken → array in spoken order (`[8, 5]` for
+  "lombar 8, cervical 5"; `[9, 6]` for "la început 9, acum 6").
+- No number verbalized → `null`.
+- Do not promote a single int into a one-element list.
+
+**Eval metric implication:** exact-match must canonicalize. Treat a bare
+`n` and `[n]` as equal; treat list-vs-list as multiset equality; treat `null`
+as a distinct class.
+
+Updated in:
+- `src/SOTA_EVALUATION/json_schema.py` (NOTE_SCHEMA → `oneOf` block)
+- `src/SOTA_EVALUATION/claude_zero_shot.py` (SYSTEM_PROMPT field rule)
+- root `AGENTS.md` (schema table + metric table)
+
+Verified: all 12 current refs in `data/chiropractor_ro/refs/` validate clean.
+
+---
+
 ## Known remaining quality issues
 - Speaker labels are run-local; pyannote does not assign roles. A
   post-processing step (e.g. "first speaker = doctor" heuristic, or voiceprint

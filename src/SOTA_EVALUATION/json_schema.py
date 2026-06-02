@@ -43,10 +43,21 @@ NOTE_SCHEMA = {
             "type": ["string", "null"],
         },
         "evaluarea_durerii_vas": {
-            "description": "Pain score 0-10. Only if a number is explicitly spoken. Null otherwise.",
-            "type": ["integer", "null"],
-            "minimum": 0,
-            "maximum": 10,
+            "description": (
+                "Pain score(s) on 0-10 scale. Use an integer when one value is "
+                "spoken. Use an array of integers when multiple distinct values "
+                "are stated (e.g. different regions, postures, or moments). "
+                "Null if no numeric score is verbalized."
+            ),
+            "oneOf": [
+                {"type": "null"},
+                {"type": "integer", "minimum": 0, "maximum": 10},
+                {
+                    "type": "array",
+                    "minItems": 1,
+                    "items": {"type": "integer", "minimum": 0, "maximum": 10},
+                },
+            ],
         },
         "localizarea_durerii": {
             "description": "Multi-select of anatomical regions explicitly named or confirmed.",

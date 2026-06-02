@@ -1,0 +1,15 @@
+{
+  "motivul_prezentarii": "dureri umar drept",
+  "evaluarea_durerii_vas": 8,
+  "localizarea_durerii": ["umar_dr"],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": "accident ghips mana dreapta",
+  "medicatie_actuala": [
+    {
+      "denumire": "Hepatofin",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\ntendinita calcifianta a m. supraspinos.\n-inflamatie coafa rotatori\nObiective terapeutice:\n- reducerea procesului inflamator;\n-cresterea amplitudinii de miscare"
+}

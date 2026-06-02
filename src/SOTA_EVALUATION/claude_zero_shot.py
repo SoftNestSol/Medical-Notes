@@ -41,7 +41,7 @@ Returnează EXACT acest obiect, fără text înainte sau după, fără markdown 
 
 {{
   "motivul_prezentarii": <string sau null>,
-  "evaluarea_durerii_vas": <int 0-10 sau null>,
+  "evaluarea_durerii_vas": <int 0-10, sau listă de int 0-10, sau null>,
   "localizarea_durerii": <listă de slug-uri din enum, poate fi goală>,
   "localizarea_durerii_alta": <string sau null>,
   "antecedente": <listă de slug-uri din enum, poate fi goală>,
@@ -56,10 +56,13 @@ Returnează EXACT acest obiect, fără text înainte sau după, fără markdown 
 - Rezumat al acuzei principale a pacientului, în cuvintele lui (nu în jargon clinic).
 - Null dacă nu este verbalizat un motiv clar.
 
-### evaluarea_durerii_vas (int 0-10 sau null)
+### evaluarea_durerii_vas (int 0-10, listă de int 0-10, sau null)
 - Doar dacă pacientul rostește un NUMĂR explicit pe scala 0-10.
+- Un singur scor rostit → int (ex: "8" → 8).
+- Mai multe scoruri distincte rostite (zone diferite, posturi diferite, momente diferite, evoluție în timp) → listă în ordinea în care apar (ex: "lombar 8, cervical 5" → [8, 5]; "la început 9, acum 6" → [9, 6]).
 - "Doare rău", "doare tare", "insuportabil" → null.
 - Număr în afara scalei ("15 din 10") → null.
+- Nu inventa o listă dintr-un singur scor. Lista se folosește doar când pacientul rostește mai multe valori.
 
 ### localizarea_durerii (multi-select din enum)
 Slug-uri permise: {LOCALIZARE_ENUM}

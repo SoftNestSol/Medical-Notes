@@ -1,0 +1,14 @@
+{
+  "motivul_prezentarii": "Dureri coloana lombara",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "lombar",
+    "sold_dr",
+    "sold_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic: Lombalgie\nObiective terapeutice: - Reducerea inflamatiei;\n-refacerea mobilitatii articulare"
+}
