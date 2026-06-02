@@ -1,0 +1,397 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio32.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 1.705,
+      "end": 2.125,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 2.165,
+      "end": 3.106,
+      "speaker": "SPEAKER_01",
+      "text": "Șvarț Emanuel este"
+    },
+    {
+      "start": 3.166,
+      "end": 5.107,
+      "speaker": "SPEAKER_00",
+      "text": "numele meu, spuneți-mi și mie numele dumneavoastră."
+    },
+    {
+      "start": 5.167,
+      "end": 6.547,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 6.567,
+      "end": 6.887,
+      "speaker": "SPEAKER_00",
+      "text": "Ionut"
+    },
+    {
+      "start": 6.907,
+      "end": 8.528,
+      "speaker": "SPEAKER_01",
+      "text": "Andrei."
+    },
+    {
+      "start": 8.628,
+      "end": 11.31,
+      "speaker": "SPEAKER_01",
+      "text": "Domnule Ionut."
+    },
+    {
+      "start": 11.33,
+      "end": 13.07,
+      "speaker": "SPEAKER_01",
+      "text": "Spuneți-mi vârsta,"
+    },
+    {
+      "start": 13.17,
+      "end": 13.511,
+      "speaker": "SPEAKER_00",
+      "text": "domnule."
+    },
+    {
+      "start": 13.531,
+      "end": 14.151,
+      "speaker": "SPEAKER_00",
+      "text": "27 de ani."
+    },
+    {
+      "start": 14.951,
+      "end": 15.572,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, înainte."
+    },
+    {
+      "start": 15.732,
+      "end": 17.613,
+      "speaker": "SPEAKER_01",
+      "text": "Toți tineri ești, toți tineri."
+    },
+    {
+      "start": 18.233,
+      "end": 21.054,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem?"
+    },
+    {
+      "start": 21.114,
+      "end": 25.076,
+      "speaker": "SPEAKER_00",
+      "text": "Păi, eu mă doare foarte tare mușchiul din talcă."
+    },
+    {
+      "start": 25.096,
+      "end": 25.876,
+      "speaker": "SPEAKER_01",
+      "text": "Mușchiul din talcă?"
+    },
+    {
+      "start": 26.237,
+      "end": 26.717,
+      "speaker": "SPEAKER_01",
+      "text": "Doar pe..."
+    },
+    {
+      "start": 28.247,
+      "end": 28.647,
+      "speaker": "SPEAKER_01",
+      "text": "Pe o parte sau"
+    },
+    {
+      "start": 28.728,
+      "end": 29.148,
+      "speaker": "SPEAKER_00",
+      "text": "și pe cealaltă?"
+    },
+    {
+      "start": 29.168,
+      "end": 29.508,
+      "speaker": "SPEAKER_00",
+      "text": "Pe dreapta."
+    },
+    {
+      "start": 29.768,
+      "end": 30.388,
+      "speaker": "SPEAKER_00",
+      "text": "Pe piciorului."
+    },
+    {
+      "start": 30.428,
+      "end": 31.309,
+      "speaker": "SPEAKER_00",
+      "text": "Doar tanpa dreapta."
+    },
+    {
+      "start": 31.449,
+      "end": 32.769,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 33.029,
+      "end": 35.23,
+      "speaker": "SPEAKER_01",
+      "text": "De cât timpă"
+    },
+    {
+      "start": 35.31,
+      "end": 35.49,
+      "speaker": "SPEAKER_00",
+      "text": "doar?"
+    },
+    {
+      "start": 35.51,
+      "end": 36.471,
+      "speaker": "SPEAKER_00",
+      "text": "De vreo 3-4 zile."
+    },
+    {
+      "start": 37.391,
+      "end": 40.932,
+      "speaker": "SPEAKER_00",
+      "text": "Mai ales când strâng piciorul așa, mă iau un cârcel foarte"
+    },
+    {
+      "start": 41.053,
+      "end": 41.833,
+      "speaker": "SPEAKER_01",
+      "text": "mare."
+    },
+    {
+      "start": 41.893,
+      "end": 42.533,
+      "speaker": "SPEAKER_01",
+      "text": "De 3-4 zile."
+    },
+    {
+      "start": 43.333,
+      "end": 47.235,
+      "speaker": "SPEAKER_01",
+      "text": "Ce lucrează bine astea?"
+    },
+    {
+      "start": 47.295,
+      "end": 49.416,
+      "speaker": "SPEAKER_00",
+      "text": "Merg foarte mult pe jos, sunt agent de vânzări."
+    },
+    {
+      "start": 50.834,
+      "end": 53.275,
+      "speaker": "SPEAKER_01",
+      "text": "Deci, agent de vânzări."
+    },
+    {
+      "start": 53.575,
+      "end": 54.595,
+      "speaker": "SPEAKER_01",
+      "text": "Ce încălțăminte aveți?"
+    },
+    {
+      "start": 55.456,
+      "end": 57.296,
+      "speaker": "SPEAKER_01",
+      "text": "Adidas, ceva comod sau pantofi?"
+    },
+    {
+      "start": 57.416,
+      "end": 58.697,
+      "speaker": "SPEAKER_00",
+      "text": "Pantofi, pantofi."
+    },
+    {
+      "start": 59.297,
+      "end": 59.877,
+      "speaker": "SPEAKER_01",
+      "text": "Pantofi."
+    },
+    {
+      "start": 61.177,
+      "end": 64.078,
+      "speaker": "SPEAKER_01",
+      "text": "Simțiți că strânge pantofi cu piciorul în momentul în care mergeți?"
+    },
+    {
+      "start": 66.139,
+      "end": 66.379,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 66.819,
+      "end": 71.001,
+      "speaker": "SPEAKER_01",
+      "text": "A întâlcat pe ceva suțit sau ne-am lovit la piciorul în ultima perioadă?"
+    },
+    {
+      "start": 71.041,
+      "end": 73.281,
+      "speaker": "SPEAKER_00",
+      "text": "E posibil."
+    },
+    {
+      "start": 73.421,
+      "end": 75.122,
+      "speaker": "SPEAKER_01",
+      "text": "Eu vreau să știu dacă s-a întâmplat sau nu."
+    },
+    {
+      "start": 76.848,
+      "end": 78.289,
+      "speaker": "SPEAKER_00",
+      "text": "Nimic foarte..."
+    },
+    {
+      "start": 78.329,
+      "end": 80.971,
+      "speaker": "SPEAKER_01",
+      "text": "S-a întâmplat să cărcăm pe o piatră, să cărcăm pe"
+    },
+    {
+      "start": 80.991,
+      "end": 81.311,
+      "speaker": "SPEAKER_00",
+      "text": "ceva."
+    },
+    {
+      "start": 81.371,
+      "end": 85.253,
+      "speaker": "SPEAKER_00",
+      "text": "Da, da, da."
+    },
+    {
+      "start": 85.273,
+      "end": 92.378,
+      "speaker": "SPEAKER_01",
+      "text": "Această durere este o durere acută, o durere sub formă de arsură, o durere ușoară, ușoară doar constantă."
+    },
+    {
+      "start": 93.058,
+      "end": 94.94,
+      "speaker": "SPEAKER_00",
+      "text": "E acută în sensul că atunci când"
+    },
+    {
+      "start": 95.92,
+      "end": 98.381,
+      "speaker": "SPEAKER_00",
+      "text": "Intră, e vreau de tot."
+    },
+    {
+      "start": 99.061,
+      "end": 105.764,
+      "speaker": "SPEAKER_01",
+      "text": "Ce vreau să știu este dacă este acută în momentul în care mergeți și în momentul în care vă relaxați începe să fie ca o arsură pe zona respectivă."
+    },
+    {
+      "start": 105.865,
+      "end": 113.868,
+      "speaker": "SPEAKER_00",
+      "text": "Când mă relaxez, doare... dacă stau, de exemplu, în pat, doare până când ușor, ușor nu mai simt dorerea."
+    },
+    {
+      "start": 114.648,
+      "end": 116.749,
+      "speaker": "SPEAKER_00",
+      "text": "Nu înțeles, doare și pe... E ca un cărcel constant."
+    },
+    {
+      "start": 117.27,
+      "end": 120.931,
+      "speaker": "SPEAKER_01",
+      "text": "Doare și pe zona călcâiului?"
+    },
+    {
+      "start": 120.971,
+      "end": 121.171,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 121.912,
+      "end": 123.412,
+      "speaker": "SPEAKER_00",
+      "text": "Mai mult între călcâi și degete."
+    },
+    {
+      "start": 123.432,
+      "end": 124.633,
+      "speaker": "SPEAKER_01",
+      "text": "Între călcâi și degete."
+    },
+    {
+      "start": 126.463,
+      "end": 133.95,
+      "speaker": "SPEAKER_01",
+      "text": "Ceea ce se întâmplă mult de la încălzimite și de la statul mult în picioare."
+    },
+    {
+      "start": 134.89,
+      "end": 135.311,
+      "speaker": "SPEAKER_00",
+      "text": "În regulă."
+    },
+    {
+      "start": 135.351,
+      "end": 136.051,
+      "speaker": "SPEAKER_00",
+      "text": "Și ce este de făcut?"
+    },
+    {
+      "start": 136.572,
+      "end": 138.954,
+      "speaker": "SPEAKER_01",
+      "text": "Va trebui să facem procedurile anti-inflamatorii."
+    },
+    {
+      "start": 140.015,
+      "end": 141.896,
+      "speaker": "SPEAKER_01",
+      "text": "Haideți să și începem, ca să scăpăm revința"
+    },
+    {
+      "start": 141.916,
+      "end": 142.136,
+      "speaker": "SPEAKER_00",
+      "text": "aceasta."
+    },
+    {
+      "start": 142.157,
+      "end": 142.817,
+      "speaker": "SPEAKER_00",
+      "text": "Da, cum facem?"
+    },
+    {
+      "start": 142.857,
+      "end": 149.683,
+      "speaker": "SPEAKER_00",
+      "text": "Că eu mă gândesc foarte tare în talpă și nu știu dacă putem să facem procedurile așa."
+    },
+    {
+      "start": 149.723,
+      "end": 152.105,
+      "speaker": "SPEAKER_01",
+      "text": "Domnule, plăcați-vă pe mâna noastră."
+    },
+    {
+      "start": 152.503,
+      "end": 158.017,
+      "speaker": "SPEAKER_01",
+      "text": "Cu siguranță reușim să nu pogătirem în talpă și totulată veți fi bine."
+    },
+    {
+      "start": 158.237,
+      "end": 159.26,
+      "speaker": "SPEAKER_01",
+      "text": "Haideți pe masă!"
+    }
+  ]
+}

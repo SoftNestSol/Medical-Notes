@@ -1,0 +1,343 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio3.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 0.746,
+      "end": 1.587,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bine ați venit."
+    },
+    {
+      "start": 1.607,
+      "end": 4.691,
+      "speaker": "SPEAKER_01",
+      "text": "Spuneți-mi cu cea lume ne confruntăm."
+    },
+    {
+      "start": 4.751,
+      "end": 8.415,
+      "speaker": "SPEAKER_00",
+      "text": "Dumnezeu, am o durere în partea aceasta, mai ales în partea roturii."
+    },
+    {
+      "start": 8.435,
+      "end": 11.739,
+      "speaker": "SPEAKER_00",
+      "text": "Dreapta a faptului reizei, nu mai pot."
+    },
+    {
+      "start": 13.023,
+      "end": 13.403,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, am"
+    },
+    {
+      "start": 13.443,
+      "end": 15.244,
+      "speaker": "SPEAKER_01",
+      "text": "înțeles."
+    },
+    {
+      "start": 15.324,
+      "end": 21.285,
+      "speaker": "SPEAKER_01",
+      "text": "Deci, problema dumneavoastră se rezumă la nivelul articulației genunchiului drept."
+    },
+    {
+      "start": 21.626,
+      "end": 21.906,
+      "speaker": "SPEAKER_01",
+      "text": "Da?"
+    },
+    {
+      "start": 22.026,
+      "end": 24.046,
+      "speaker": "SPEAKER_01",
+      "text": "Și în același timp am o problemă de urmăr."
+    },
+    {
+      "start": 24.546,
+      "end": 25.527,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 25.647,
+      "end": 28.188,
+      "speaker": "SPEAKER_01",
+      "text": "Haideți să ne rezumăm la genunchi."
+    },
+    {
+      "start": 28.588,
+      "end": 30.288,
+      "speaker": "SPEAKER_01",
+      "text": "Doare în jurul rotulei?"
+    },
+    {
+      "start": 30.428,
+      "end": 30.748,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 31.508,
+      "end": 32.629,
+      "speaker": "SPEAKER_01",
+      "text": "Sub rotulă doare?"
+    },
+    {
+      "start": 32.929,
+      "end": 33.149,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 33.489,
+      "end": 36.21,
+      "speaker": "SPEAKER_01",
+      "text": "Și sub rotulă și deasupra și stânga și drept."
+    },
+    {
+      "start": 36.79,
+      "end": 39.971,
+      "speaker": "SPEAKER_01",
+      "text": "Nu e. Pare a fi o contromalacie rotuliană."
+    },
+    {
+      "start": 41.702,
+      "end": 49.047,
+      "speaker": "SPEAKER_01",
+      "text": "Haideți să stabilim care este intensitatea durerii și să vedem care este gradul de afectare."
+    },
+    {
+      "start": 49.067,
+      "end": 57.493,
+      "speaker": "SPEAKER_00",
+      "text": "În momentul în care calc în picior și merg de aleg am o intensitate de durere mare."
+    },
+    {
+      "start": 57.654,
+      "end": 61.156,
+      "speaker": "SPEAKER_00",
+      "text": "În sensul în care de la 1 la 10 mă ajdece chiar spre 8."
+    },
+    {
+      "start": 61.616,
+      "end": 67.921,
+      "speaker": "SPEAKER_01",
+      "text": "În momentul în care lăsăm presiunea pe picior sau în momentul în care ridicăm piciorul și degrebăm piciorul de presiune?"
+    },
+    {
+      "start": 67.981,
+      "end": 70.683,
+      "speaker": "SPEAKER_01",
+      "text": "Când lăsăm presiunea pe picior."
+    },
+    {
+      "start": 71.4,
+      "end": 74.782,
+      "speaker": "SPEAKER_01",
+      "text": "Durerea este în jurul rotulei, intrăm din nou, sau sub rotulă?"
+    },
+    {
+      "start": 75.182,
+      "end": 75.983,
+      "speaker": "SPEAKER_01",
+      "text": "Sub rotulă mai mult."
+    },
+    {
+      "start": 76.263,
+      "end": 77.244,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult sub rotulă."
+    },
+    {
+      "start": 77.824,
+      "end": 85.889,
+      "speaker": "SPEAKER_01",
+      "text": "Ceea ce înseamnă că include mai mult decât în romanacia rotuliană o leziune de menisc."
+    },
+    {
+      "start": 85.929,
+      "end": 88.93,
+      "speaker": "SPEAKER_01",
+      "text": "Putem să facem flexia genunchiului?"
+    },
+    {
+      "start": 89.571,
+      "end": 89.811,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 90.231,
+      "end": 91.092,
+      "speaker": "SPEAKER_01",
+      "text": "E limitată flexia."
+    },
+    {
+      "start": 91.132,
+      "end": 91.712,
+      "speaker": "SPEAKER_01",
+      "text": "E limitată."
+    },
+    {
+      "start": 92.433,
+      "end": 93.713,
+      "speaker": "SPEAKER_01",
+      "text": "Ok. Și dureroasă."
+    },
+    {
+      "start": 94.774,
+      "end": 96.915,
+      "speaker": "SPEAKER_01",
+      "text": "Atunci clar este o leziune de menisc."
+    },
+    {
+      "start": 96.975,
+      "end": 99.877,
+      "speaker": "SPEAKER_01",
+      "text": "Haideți să vedem dacă este menis intern sau menis extern."
+    },
+    {
+      "start": 100.892,
+      "end": 105.475,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă duc piciorul în lateral către exterior, doare?"
+    },
+    {
+      "start": 105.535,
+      "end": 106.276,
+      "speaker": "SPEAKER_01",
+      "text": "Da, doar."
+    },
+    {
+      "start": 106.856,
+      "end": 111.82,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă duc piciorul din exterior către interior, doare?"
+    },
+    {
+      "start": 111.84,
+      "end": 112.26,
+      "speaker": "SPEAKER_01",
+      "text": "Nu doare."
+    },
+    {
+      "start": 112.861,
+      "end": 125.29,
+      "speaker": "SPEAKER_01",
+      "text": "Ok. Este clar că este afectat pe lângă menisc și ligamentul colateral median al genunchiului și că este clar afectat meniscul intern."
+    },
+    {
+      "start": 127.301,
+      "end": 127.441,
+      "speaker": "SPEAKER_01",
+      "text": "Am"
+    },
+    {
+      "start": 127.501,
+      "end": 128.922,
+      "speaker": "SPEAKER_00",
+      "text": "înțeles."
+    },
+    {
+      "start": 129.002,
+      "end": 130.222,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți și vă despre umăr."
+    },
+    {
+      "start": 130.842,
+      "end": 131.122,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 131.322,
+      "end": 138.524,
+      "speaker": "SPEAKER_00",
+      "text": "Am o dorere de umăr în sensul în care nu pot să ridic cotul mai sus de nivelul umărului în sine."
+    },
+    {
+      "start": 138.544,
+      "end": 139.124,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 139.144,
+      "end": 144.066,
+      "speaker": "SPEAKER_01",
+      "text": "În momentul în care apăs deasupra, la nivelul tendonului supraspirului,"
+    },
+    {
+      "start": 149.453,
+      "end": 159.518,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă vă susțin brațul și îl ridic mai mult de 90 de grade, depășesc eu pragul acesta, bariera aceasta de la 90 de grade în sus."
+    },
+    {
+      "start": 159.918,
+      "end": 161.459,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles, dar acum."
+    },
+    {
+      "start": 161.499,
+      "end": 167.942,
+      "speaker": "SPEAKER_01",
+      "text": "Deci acum puteți ridica mâna până la nivelul corect."
+    },
+    {
+      "start": 168.763,
+      "end": 168.923,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 171.074,
+      "end": 195.367,
+      "speaker": "SPEAKER_01",
+      "text": "Există o testare specifică în momentul în care ridic, pacientul ridică mâna până aproape de 90 de grade, undeva până în 90 de grade se limitează mișcarea, intervine durerea, ca ulterior ajutat fiind să depăcească pragul loros, poate ridica mâna până sus și această testare se rezumă strict la periatrii pe scapul ocumeral."
+    },
+    {
+      "start": 196.007,
+      "end": 199.329,
+      "speaker": "SPEAKER_01",
+      "text": "Deci diagnosticul nostru acum este un diagnostic"
+    },
+    {
+      "start": 200.77,
+      "end": 206.654,
+      "speaker": "SPEAKER_01",
+      "text": "prezuntiv, un diagnostic pe testare clinică, este de periatrită scapului cum era."
+    },
+    {
+      "start": 207.375,
+      "end": 216.823,
+      "speaker": "SPEAKER_01",
+      "text": "Este o suspiciune, nu este un diagnostic cert până când nu facem investigațiile necesare stabilirea acestui diagnostic."
+    },
+    {
+      "start": 218.424,
+      "end": 220.385,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă, în schimb, nu ar fi durut"
+    },
+    {
+      "start": 221.727,
+      "end": 233.198,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă, în schimb, nu s-ar fi putut mișca, ar fi trebuit să testăm odată deltoidul median, cât și tenorul supraspinosului."
+    },
+    {
+      "start": 234.059,
+      "end": 238.443,
+      "speaker": "SPEAKER_01",
+      "text": "Pentru că exista posibilitatea să fie o tendinită de supraspinos."
+    }
+  ]
+}

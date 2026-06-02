@@ -1,0 +1,523 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio21.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 1.552,
+      "end": 2.633,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua domnule Lăutaru."
+    },
+    {
+      "start": 2.993,
+      "end": 3.754,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 4.354,
+      "end": 7.337,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi vă rog și prenumere."
+    },
+    {
+      "start": 7.357,
+      "end": 8.678,
+      "speaker": "SPEAKER_00",
+      "text": "Cişmigiul."
+    },
+    {
+      "start": 8.738,
+      "end": 9.238,
+      "speaker": "SPEAKER_00",
+      "text": "Cişmigiul."
+    },
+    {
+      "start": 9.398,
+      "end": 11.44,
+      "speaker": "SPEAKER_00",
+      "text": "Și vârsta dacă se poate."
+    },
+    {
+      "start": 11.46,
+      "end": 11.84,
+      "speaker": "SPEAKER_00",
+      "text": "42 de ani."
+    },
+    {
+      "start": 12.581,
+      "end": 13.361,
+      "speaker": "SPEAKER_00",
+      "text": "Mulțumesc domnul."
+    },
+    {
+      "start": 13.381,
+      "end": 15.063,
+      "speaker": "SPEAKER_00",
+      "text": "Vă mulțumesc domnul."
+    },
+    {
+      "start": 15.103,
+      "end": 16.624,
+      "speaker": "SPEAKER_00",
+      "text": "Sunteți de aici din Dâmbăhița?"
+    },
+    {
+      "start": 16.904,
+      "end": 20.027,
+      "speaker": "SPEAKER_00",
+      "text": "Da, de aici."
+    },
+    {
+      "start": 20.547,
+      "end": 22.128,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi și mie ce zonă doare vă rog."
+    },
+    {
+      "start": 22.989,
+      "end": 26.271,
+      "speaker": "SPEAKER_00",
+      "text": "Mă doare tată foarte rău cotul și antebrațul aici."
+    },
+    {
+      "start": 26.351,
+      "end": 26.772,
+      "speaker": "SPEAKER_00",
+      "text": "Nu mai pot."
+    },
+    {
+      "start": 27.392,
+      "end": 30.575,
+      "speaker": "SPEAKER_00",
+      "text": "Cotul și antebrațul pe partea interioară a mâinii, da?"
+    },
+    {
+      "start": 30.635,
+      "end": 30.875,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 31.733,
+      "end": 34.196,
+      "speaker": "SPEAKER_00",
+      "text": "De asta presupunem că ar fi afectat nervul radial."
+    },
+    {
+      "start": 35.037,
+      "end": 38.54,
+      "speaker": "SPEAKER_00",
+      "text": "Nu știu toată ce i-a afectat, dar nu mai pot să moriu."
+    },
+    {
+      "start": 38.621,
+      "end": 40.062,
+      "speaker": "SPEAKER_00",
+      "text": "Vă rog frumos să păstrâng un limbaj."
+    },
+    {
+      "start": 40.082,
+      "end": 40.923,
+      "speaker": "SPEAKER_00",
+      "text": "Nici o problemă."
+    },
+    {
+      "start": 42.742,
+      "end": 44.003,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să facem câteva teste."
+    },
+    {
+      "start": 44.503,
+      "end": 45.304,
+      "speaker": "SPEAKER_00",
+      "text": "Hai."
+    },
+    {
+      "start": 45.344,
+      "end": 52.93,
+      "speaker": "SPEAKER_00",
+      "text": "Deci, pe o scară de la 0, unde 0 nu doare deloc, la 10, unde doare foarte rău, spuneți-mi cât de tare doare pe iar presiunile respective."
+    },
+    {
+      "start": 53.87,
+      "end": 56.072,
+      "speaker": "SPEAKER_00",
+      "text": "Vă voi apăsa în primă fază aici, în zona condilului."
+    },
+    {
+      "start": 57.073,
+      "end": 60.035,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi cât de tare doare și dacă amorsește ante brațul în momentul în"
+    },
+    {
+      "start": 60.115,
+      "end": 61.996,
+      "speaker": "SPEAKER_01",
+      "text": "care a fost."
+    },
+    {
+      "start": 64.698,
+      "end": 68.441,
+      "speaker": "SPEAKER_00",
+      "text": "Aici, pe zona de articulație, a mâinii."
+    },
+    {
+      "start": 68.501,
+      "end": 69.542,
+      "speaker": "SPEAKER_00",
+      "text": "Doare mai puțin aici."
+    },
+    {
+      "start": 69.762,
+      "end": 70.363,
+      "speaker": "SPEAKER_00",
+      "text": "Doare mai puțin."
+    },
+    {
+      "start": 70.383,
+      "end": 70.443,
+      "speaker": "SPEAKER_00",
+      "text": "5."
+    },
+    {
+      "start": 71.307,
+      "end": 72.488,
+      "speaker": "SPEAKER_00",
+      "text": "Și nici nu amorțește, da?"
+    },
+    {
+      "start": 72.648,
+      "end": 73.168,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu."
+    },
+    {
+      "start": 73.568,
+      "end": 74.529,
+      "speaker": "SPEAKER_01",
+      "text": "Mai rău era sus."
+    },
+    {
+      "start": 75.049,
+      "end": 75.95,
+      "speaker": "SPEAKER_00",
+      "text": "Mai rău era sus."
+    },
+    {
+      "start": 75.99,
+      "end": 76.79,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 76.81,
+      "end": 81.133,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, domnul Loutaro, unde sau ce lucrați?"
+    },
+    {
+      "start": 81.193,
+      "end": 81.833,
+      "speaker": "SPEAKER_00",
+      "text": "Mai bine spus."
+    },
+    {
+      "start": 81.853,
+      "end": 82.773,
+      "speaker": "SPEAKER_00",
+      "text": "Sunt șofer de tir."
+    },
+    {
+      "start": 84.074,
+      "end": 84.695,
+      "speaker": "SPEAKER_00",
+      "text": "Șofer de tir."
+    },
+    {
+      "start": 84.715,
+      "end": 85.875,
+      "speaker": "SPEAKER_00",
+      "text": "Deci mult pe drumuri, mult pe drumuri."
+    },
+    {
+      "start": 86.095,
+      "end": 87.716,
+      "speaker": "SPEAKER_00",
+      "text": "Da, da, vă dați."
+    },
+    {
+      "start": 87.736,
+      "end": 89.077,
+      "speaker": "SPEAKER_00",
+      "text": "Abia mi-am făcut timp să ajung."
+    },
+    {
+      "start": 93.396,
+      "end": 94.597,
+      "speaker": "SPEAKER_00",
+      "text": "Și zona de lombar nu doare?"
+    },
+    {
+      "start": 94.737,
+      "end": 97.739,
+      "speaker": "SPEAKER_00",
+      "text": "Fiind șofer de tir, majoritară și priorita de tir vin cu o durere în zona lombară."
+    },
+    {
+      "start": 98.259,
+      "end": 101.322,
+      "speaker": "SPEAKER_01",
+      "text": "Ba da, mă mai doare și aia, dar mă doare foarte rău antebrațe."
+    },
+    {
+      "start": 101.342,
+      "end": 102.763,
+      "speaker": "SPEAKER_00",
+      "text": "Priorita ar fi partea de antebraț."
+    },
+    {
+      "start": 102.823,
+      "end": 102.883,
+      "speaker": "SPEAKER_00",
+      "text": "Da,"
+    },
+    {
+      "start": 102.903,
+      "end": 105.004,
+      "speaker": "SPEAKER_01",
+      "text": "dacă putem să facem ceva și la lombar ar fi perfect."
+    },
+    {
+      "start": 105.024,
+      "end": 106.205,
+      "speaker": "SPEAKER_01",
+      "text": "Eu port un brâu."
+    },
+    {
+      "start": 106.511,
+      "end": 109.834,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles, ar fi util în timp ce conduceți dacă îl purtați să îl dați jos."
+    },
+    {
+      "start": 110.194,
+      "end": 111.395,
+      "speaker": "SPEAKER_00",
+      "text": "Să nu conduceți cu el pus."
+    },
+    {
+      "start": 112.095,
+      "end": 112.376,
+      "speaker": "SPEAKER_00",
+      "text": "De ce?"
+    },
+    {
+      "start": 112.856,
+      "end": 114.918,
+      "speaker": "SPEAKER_00",
+      "text": "Pentru că blochează articulația."
+    },
+    {
+      "start": 115.258,
+      "end": 121.643,
+      "speaker": "SPEAKER_00",
+      "text": "Și măcar să-l folosim doar atunci când ridicăm sau și dacă conducem să nu-l folosim mai mult de o oră."
+    },
+    {
+      "start": 122.223,
+      "end": 124.445,
+      "speaker": "SPEAKER_00",
+      "text": "Și atunci putem să lucrăm și ceva la lomba?"
+    },
+    {
+      "start": 124.525,
+      "end": 125.706,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să verificăm lombarul."
+    },
+    {
+      "start": 125.726,
+      "end": 128.568,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi dacă doare aici în zona de periform."
+    },
+    {
+      "start": 128.608,
+      "end": 130.41,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 130.51,
+      "end": 132.211,
+      "speaker": "SPEAKER_00",
+      "text": "Doare și se lasă pe picior, acut?"
+    },
+    {
+      "start": 133.292,
+      "end": 133.953,
+      "speaker": "SPEAKER_00",
+      "text": "Câteodată, da."
+    },
+    {
+      "start": 135.762,
+      "end": 138.384,
+      "speaker": "SPEAKER_00",
+      "text": "Aici, în zona de coloara lombară, în momentul în care apăs doare?"
+    },
+    {
+      "start": 138.444,
+      "end": 139.364,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 139.944,
+      "end": 142.926,
+      "speaker": "SPEAKER_00",
+      "text": "Cât de tare, de la 0 la 10?"
+    },
+    {
+      "start": 142.946,
+      "end": 143.306,
+      "speaker": "SPEAKER_00",
+      "text": "Un 4."
+    },
+    {
+      "start": 143.386,
+      "end": 146.248,
+      "speaker": "SPEAKER_00",
+      "text": "Un 4, deci nu e o durere foarte mare."
+    },
+    {
+      "start": 146.268,
+      "end": 147.749,
+      "speaker": "SPEAKER_00",
+      "text": "Ați făcut sport?"
+    },
+    {
+      "start": 148.129,
+      "end": 153.011,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, și mai fac un camion acolo, că vă dați seama, fiind șofer, trebuie să mă mișc."
+    },
+    {
+      "start": 154.912,
+      "end": 155.693,
+      "speaker": "SPEAKER_01",
+      "text": "Ce sport ați făcut?"
+    },
+    {
+      "start": 156.393,
+      "end": 159.375,
+      "speaker": "SPEAKER_01",
+      "text": "Păi am făcut fotbal când eram mic, dar nu a mers treaba asta."
+    },
+    {
+      "start": 159.555,
+      "end": 160.956,
+      "speaker": "SPEAKER_01",
+      "text": "Vă dați seama cum e la noi cu fotbalul și"
+    },
+    {
+      "start": 161.036,
+      "end": 161.256,
+      "speaker": "SPEAKER_00",
+      "text": "așa."
+    },
+    {
+      "start": 161.276,
+      "end": 161.596,
+      "speaker": "SPEAKER_00",
+      "text": "Da, da, da."
+    },
+    {
+      "start": 161.656,
+      "end": 164.358,
+      "speaker": "SPEAKER_00",
+      "text": "Și ca fotbaliști ai să ajung șoferul pe tricul ăla."
+    },
+    {
+      "start": 164.418,
+      "end": 164.998,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 168.463,
+      "end": 168.984,
+      "speaker": "SPEAKER_00",
+      "text": "Tensiune?"
+    },
+    {
+      "start": 169.004,
+      "end": 169.625,
+      "speaker": "SPEAKER_00",
+      "text": "Diabet?"
+    },
+    {
+      "start": 169.645,
+      "end": 169.705,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 169.725,
+      "end": 171.669,
+      "speaker": "SPEAKER_00",
+      "text": "Păi, haideți în primul fata să lucrăm pe zona de epicondilită."
+    },
+    {
+      "start": 171.689,
+      "end": 171.99,
+      "speaker": null,
+      "text": "De la hot."
+    },
+    {
+      "start": 172.01,
+      "end": 173.853,
+      "speaker": null,
+      "text": "Și în ședința aceasta, eu zic că reușim să lucrăm și pe zona lombară."
+    },
+    {
+      "start": 173.873,
+      "end": 174.715,
+      "speaker": "SPEAKER_00",
+      "text": "Să luce inflamația musculară, cel puțin."
+    },
+    {
+      "start": 174.735,
+      "end": 176.478,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți în primul fata să lucrăm pe zona de epicondilită."
+    },
+    {
+      "start": 176.518,
+      "end": 178.141,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți în primul fata să lucrăm pe zona de epicondilită."
+    },
+    {
+      "start": 178.842,
+      "end": 179.443,
+      "speaker": "SPEAKER_00",
+      "text": "De la hot."
+    },
+    {
+      "start": 179.463,
+      "end": 184.573,
+      "speaker": "SPEAKER_00",
+      "text": "Și în ședința aceasta, eu zic că reușim să lucrăm și pe zona lombară, să luce inflamația musculară, cel puțin."
+    },
+    {
+      "start": 185.174,
+      "end": 187.478,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți în primul fata să lucrăm la treabă."
+    }
+  ]
+}

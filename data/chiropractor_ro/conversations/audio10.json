@@ -1,0 +1,3193 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio10.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 6.126,
+      "end": 8.728,
+      "speaker": "SPEAKER_01",
+      "text": "Stati sa iau si eu o fiche de pacienti."
+    },
+    {
+      "start": 8.748,
+      "end": 9.509,
+      "speaker": "SPEAKER_00",
+      "text": "Da, sigur."
+    },
+    {
+      "start": 9.569,
+      "end": 9.649,
+      "speaker": "SPEAKER_00",
+      "text": "Ia"
+    },
+    {
+      "start": 9.729,
+      "end": 10.009,
+      "speaker": "SPEAKER_01",
+      "text": "sa am vrut"
+    },
+    {
+      "start": 10.029,
+      "end": 10.129,
+      "speaker": "SPEAKER_00",
+      "text": "si-am"
+    },
+    {
+      "start": 10.209,
+      "end": 10.329,
+      "speaker": "SPEAKER_01",
+      "text": "vrut"
+    },
+    {
+      "start": 10.47,
+      "end": 11.991,
+      "speaker": "SPEAKER_00",
+      "text": "si-am vrut si-am vrut si-am vrut si-am vrut"
+    },
+    {
+      "start": 12.011,
+      "end": 15.774,
+      "speaker": "SPEAKER_01",
+      "text": "si-am vrut si-am vrut si-am vrut si-am vrut si-am vrut si-am vrut si-am"
+    },
+    {
+      "start": 15.854,
+      "end": 16.114,
+      "speaker": "SPEAKER_00",
+      "text": "vrut."
+    },
+    {
+      "start": 33.638,
+      "end": 34.379,
+      "speaker": "SPEAKER_00",
+      "text": "Nu Numărul de telefon?"
+    },
+    {
+      "start": 34.399,
+      "end": 35.079,
+      "speaker": "SPEAKER_00",
+      "text": "0727 460905 Bun Vârsta?"
+    },
+    {
+      "start": 35.119,
+      "end": 36.42,
+      "speaker": "SPEAKER_00",
+      "text": "43 anul ăsta Mulți înainte domnului"
+    },
+    {
+      "start": 61.178,
+      "end": 62.399,
+      "speaker": "SPEAKER_01",
+      "text": "Și ocupație?"
+    },
+    {
+      "start": 62.419,
+      "end": 63.299,
+      "speaker": "SPEAKER_01",
+      "text": "O ducăiesc pe șantier."
+    },
+    {
+      "start": 63.939,
+      "end": 65.74,
+      "speaker": "SPEAKER_01",
+      "text": "Durgier, cum ar fi, dar constructor."
+    },
+    {
+      "start": 65.921,
+      "end": 67.361,
+      "speaker": "SPEAKER_01",
+      "text": "Cum vreți să vezi că eți avut?"
+    },
+    {
+      "start": 68.482,
+      "end": 69.582,
+      "speaker": "SPEAKER_01",
+      "text": "Păi ești un constructor."
+    },
+    {
+      "start": 69.783,
+      "end": 75.626,
+      "speaker": "SPEAKER_01",
+      "text": "Mă gândesc că fii și de la... Și de la meserie."
+    },
+    {
+      "start": 75.706,
+      "end": 77.547,
+      "speaker": "SPEAKER_01",
+      "text": "Păi nu ai adică"
+    },
+    {
+      "start": 77.627,
+      "end": 79.908,
+      "speaker": "SPEAKER_00",
+      "text": "de la meserie, în cadrul meseriei."
+    },
+    {
+      "start": 80.368,
+      "end": 83.59,
+      "speaker": "SPEAKER_00",
+      "text": "Da, mai arde ca niște, pa nu, niște areași."
+    },
+    {
+      "start": 83.63,
+      "end": 86.511,
+      "speaker": "SPEAKER_00",
+      "text": "Bon cu transmitere cutanată?"
+    },
+    {
+      "start": 86.531,
+      "end": 87.792,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 87.812,
+      "end": 88.773,
+      "speaker": "SPEAKER_00",
+      "text": "Alergii la medicamente?"
+    },
+    {
+      "start": 88.813,
+      "end": 89.533,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 90.464,
+      "end": 93.565,
+      "speaker": "SPEAKER_00",
+      "text": "Ați aflat dumneavoastră de pe internet sau pe recomandare?"
+    },
+    {
+      "start": 93.705,
+      "end": 94.445,
+      "speaker": "SPEAKER_01",
+      "text": "Aici după internet."
+    },
+    {
+      "start": 94.606,
+      "end": 95.226,
+      "speaker": "SPEAKER_00",
+      "text": "De pe internet?"
+    },
+    {
+      "start": 95.286,
+      "end": 95.786,
+      "speaker": "SPEAKER_00",
+      "text": "Da, da, da."
+    },
+    {
+      "start": 96.066,
+      "end": 98.847,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, mulțumesc de răspuns."
+    },
+    {
+      "start": 98.867,
+      "end": 101.488,
+      "speaker": "SPEAKER_00",
+      "text": "Așa, deci spuneați pe noastră că e o durere în zona asta de aici,"
+    },
+    {
+      "start": 102.148,
+      "end": 104.569,
+      "speaker": "SPEAKER_01",
+      "text": "din spate."
+    },
+    {
+      "start": 104.909,
+      "end": 106.19,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe spunea și pe dreapta la aceeași"
+    },
+    {
+      "start": 106.21,
+      "end": 109.831,
+      "speaker": "SPEAKER_01",
+      "text": "intensitate?"
+    },
+    {
+      "start": 109.871,
+      "end": 110.451,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, chiar."
+    },
+    {
+      "start": 110.491,
+      "end": 110.732,
+      "speaker": "SPEAKER_01",
+      "text": "Doare"
+    },
+    {
+      "start": 110.792,
+      "end": 112.052,
+      "speaker": "SPEAKER_00",
+      "text": "mereu, constant, toată ziua?"
+    },
+    {
+      "start": 112.152,
+      "end": 112.712,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu,"
+    },
+    {
+      "start": 112.752,
+      "end": 112.932,
+      "speaker": "SPEAKER_00",
+      "text": "nu."
+    },
+    {
+      "start": 113.453,
+      "end": 116.034,
+      "speaker": "SPEAKER_00",
+      "text": "Când începe să doară?"
+    },
+    {
+      "start": 116.134,
+      "end": 116.234,
+      "speaker": "SPEAKER_00",
+      "text": "Când"
+    },
+    {
+      "start": 116.254,
+      "end": 117.114,
+      "speaker": "SPEAKER_01",
+      "text": "stai degeaba"
+    },
+    {
+      "start": 117.134,
+      "end": 117.954,
+      "speaker": "SPEAKER_00",
+      "text": "mult, intens."
+    },
+    {
+      "start": 118.394,
+      "end": 118.895,
+      "speaker": "SPEAKER_00",
+      "text": "Când stai relaxat?"
+    },
+    {
+      "start": 118.915,
+      "end": 119.195,
+      "speaker": "SPEAKER_00",
+      "text": "Da, da,"
+    },
+    {
+      "start": 119.515,
+      "end": 119.975,
+      "speaker": "SPEAKER_01",
+      "text": "da."
+    },
+    {
+      "start": 120.227,
+      "end": 121.368,
+      "speaker": "SPEAKER_00",
+      "text": "Dacă lucrăm, nu-i nicio durere."
+    },
+    {
+      "start": 121.709,
+      "end": 124.212,
+      "speaker": "SPEAKER_01",
+      "text": "Nu mai am așa centură, nu mai așa, nu mai am treabă."
+    },
+    {
+      "start": 124.732,
+      "end": 125.453,
+      "speaker": "SPEAKER_01",
+      "text": "Poate că nu mai vă"
+    },
+    {
+      "start": 125.553,
+      "end": 126.034,
+      "speaker": "SPEAKER_00",
+      "text": "doare."
+    },
+    {
+      "start": 126.054,
+      "end": 134.183,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, pe o scară de la 1 la 10, unde... Nu, de la 0 la 10 mai bine, unde 0 nu doare deloc și 10 doare foarte, foarte rău."
+    },
+    {
+      "start": 134.203,
+      "end": 135.084,
+      "speaker": "SPEAKER_01",
+      "text": "Nu doare foarte... Cât de"
+    },
+    {
+      "start": 135.125,
+      "end": 139.77,
+      "speaker": "SPEAKER_00",
+      "text": "mare intensitatea între... Aproximativ, cum aproximați dumneavoastră."
+    },
+    {
+      "start": 142.565,
+      "end": 143.506,
+      "speaker": "SPEAKER_01",
+      "text": "6-6, acolo."
+    },
+    {
+      "start": 143.946,
+      "end": 147.408,
+      "speaker": "SPEAKER_01",
+      "text": "Nu chiar mare, mare dură, dar nu pot să merg sau ceva deja."
+    },
+    {
+      "start": 147.608,
+      "end": 153.551,
+      "speaker": "SPEAKER_01",
+      "text": "Nu chiar mare."
+    },
+    {
+      "start": 153.611,
+      "end": 156.832,
+      "speaker": "SPEAKER_00",
+      "text": "Durea respectivă se lasă și pe fese?"
+    },
+    {
+      "start": 156.872,
+      "end": 159.954,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, o singură dată mi se aza pe piciorul stâng, parcă."
+    },
+    {
+      "start": 160.394,
+      "end": 162.295,
+      "speaker": "SPEAKER_01",
+      "text": "Am ridicat ceva de rotate, dar după aceea... Și se lăsa"
+    },
+    {
+      "start": 162.355,
+      "end": 163.236,
+      "speaker": "SPEAKER_00",
+      "text": "după piciorul stâng?"
+    },
+    {
+      "start": 163.716,
+      "end": 165.697,
+      "speaker": "SPEAKER_01",
+      "text": "Puțin, nu tot, după aceea mi-a trecut."
+    },
+    {
+      "start": 165.757,
+      "end": 166.877,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeles vreodată picioarele?"
+    },
+    {
+      "start": 171.925,
+      "end": 174.887,
+      "speaker": "SPEAKER_01",
+      "text": "Poate când stau pe vine a plecat să stau mai mult, din urmă, nu."
+    },
+    {
+      "start": 175.507,
+      "end": 180.73,
+      "speaker": "SPEAKER_00",
+      "text": "Deci când stați pe vine mai mult, apoi cea de morțeală, dacă mergem, lucrăm, nu e nicio durere, da?"
+    },
+    {
+      "start": 180.77,
+      "end": 181.37,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, nu."
+    },
+    {
+      "start": 181.47,
+      "end": 183.351,
+      "speaker": "SPEAKER_00",
+      "text": "Nici o morțeală."
+    },
+    {
+      "start": 183.451,
+      "end": 185.492,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 185.532,
+      "end": 189.414,
+      "speaker": "SPEAKER_00",
+      "text": "Alte dureri în afară de cea de aici mai sunt?"
+    },
+    {
+      "start": 189.434,
+      "end": 195.798,
+      "speaker": "SPEAKER_01",
+      "text": "Asta cu vremenea ce am făcut la județean, aveam niște amețări și"
+    },
+    {
+      "start": 197.799,
+      "end": 204.545,
+      "speaker": "SPEAKER_01",
+      "text": "O doră de cervicală și o șlaca și la cervicală."
+    },
+    {
+      "start": 204.585,
+      "end": 205.767,
+      "speaker": "SPEAKER_01",
+      "text": "Mi-a găsit cervicala de"
+    },
+    {
+      "start": 205.787,
+      "end": 206.487,
+      "speaker": "SPEAKER_00",
+      "text": "la amețești."
+    },
+    {
+      "start": 206.507,
+      "end": 207.268,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți și vertigi?"
+    },
+    {
+      "start": 207.368,
+      "end": 211.152,
+      "speaker": "SPEAKER_00",
+      "text": "Adică să vă ridicați în picioare, să simțiți că se mișcă camera?"
+    },
+    {
+      "start": 213.159,
+      "end": 213.819,
+      "speaker": "SPEAKER_00",
+      "text": "Gen"
+    },
+    {
+      "start": 213.839,
+      "end": 220.003,
+      "speaker": "SPEAKER_01",
+      "text": "dacă stau în mașină și a fost până și marina s-a mișcat, atunci mi se face... Atunci se împărte"
+    },
+    {
+      "start": 220.043,
+      "end": 220.323,
+      "speaker": "SPEAKER_00",
+      "text": "camere."
+    },
+    {
+      "start": 221.024,
+      "end": 222.144,
+      "speaker": "SPEAKER_00",
+      "text": "Dureri de cap, migrene?"
+    },
+    {
+      "start": 222.505,
+      "end": 222.685,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 223.305,
+      "end": 225.486,
+      "speaker": "SPEAKER_01",
+      "text": "Dureri de cap, așa poate."
+    },
+    {
+      "start": 225.607,
+      "end": 226.647,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori, rar,"
+    },
+    {
+      "start": 227.127,
+      "end": 228.508,
+      "speaker": "SPEAKER_00",
+      "text": "pierderea de echilibru."
+    },
+    {
+      "start": 228.648,
+      "end": 230.63,
+      "speaker": "SPEAKER_00",
+      "text": "Doar atunci când amețesc."
+    },
+    {
+      "start": 230.65,
+      "end": 232.891,
+      "speaker": "SPEAKER_00",
+      "text": "Atunci când amețesc ți vine și pierderea de echilibru."
+    },
+    {
+      "start": 233.071,
+      "end": 235.433,
+      "speaker": "SPEAKER_00",
+      "text": "Adică nu ne ridicăm din pat și simțim că ne dă înapoi."
+    },
+    {
+      "start": 235.453,
+      "end": 235.693,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, nu, nu."
+    },
+    {
+      "start": 235.713,
+      "end": 236.433,
+      "speaker": "SPEAKER_00",
+      "text": "N-avem problemul ăsta, da?"
+    },
+    {
+      "start": 236.453,
+      "end": 237.354,
+      "speaker": "SPEAKER_00",
+      "text": "Așteptameni doctorul,"
+    },
+    {
+      "start": 237.474,
+      "end": 240.716,
+      "speaker": "SPEAKER_01",
+      "text": "domnul meu, doctor neurolog."
+    },
+    {
+      "start": 241.232,
+      "end": 242.253,
+      "speaker": "SPEAKER_00",
+      "text": "Ceva de C4-C5 mă gândesc."
+    },
+    {
+      "start": 242.293,
+      "end": 242.853,
+      "speaker": "SPEAKER_00",
+      "text": "Și tot așa."
+    },
+    {
+      "start": 243.153,
+      "end": 243.273,
+      "speaker": "SPEAKER_01",
+      "text": "Nu?"
+    },
+    {
+      "start": 243.313,
+      "end": 244.054,
+      "speaker": "SPEAKER_01",
+      "text": "Nu este imposibil."
+    },
+    {
+      "start": 244.274,
+      "end": 249.536,
+      "speaker": "SPEAKER_01",
+      "text": "Cred că un pic cam rău sau dificil mai."
+    },
+    {
+      "start": 249.977,
+      "end": 254.179,
+      "speaker": "SPEAKER_00",
+      "text": "Că sunt niște hernii de discus aici, la cel mai probabil v-ați zis."
+    },
+    {
+      "start": 254.839,
+      "end": 257.141,
+      "speaker": "SPEAKER_00",
+      "text": "Și e posibil să fie și o problemă de arteră vertebrală."
+    },
+    {
+      "start": 257.721,
+      "end": 259.702,
+      "speaker": "SPEAKER_00",
+      "text": "Mă gândesc că v-ați zis dumneavoastră."
+    },
+    {
+      "start": 260.222,
+      "end": 260.382,
+      "speaker": "SPEAKER_00",
+      "text": "Nu știu."
+    },
+    {
+      "start": 260.402,
+      "end": 260.502,
+      "speaker": "SPEAKER_00",
+      "text": "Ce"
+    },
+    {
+      "start": 260.542,
+      "end": 261.363,
+      "speaker": "SPEAKER_01",
+      "text": "v-ați zis?"
+    },
+    {
+      "start": 261.463,
+      "end": 263.364,
+      "speaker": "SPEAKER_01",
+      "text": "Mă gândesc și la relic cu spatele."
+    },
+    {
+      "start": 263.404,
+      "end": 265.725,
+      "speaker": "SPEAKER_01",
+      "text": "Mă instau așa un pic, nu se blochează."
+    },
+    {
+      "start": 265.785,
+      "end": 267.226,
+      "speaker": "SPEAKER_00",
+      "text": "Se blochează musculatura pe lateral."
+    },
+    {
+      "start": 267.266,
+      "end": 267.526,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 267.926,
+      "end": 268.647,
+      "speaker": "SPEAKER_00",
+      "text": "Mai mult pe dreapta?"
+    },
+    {
+      "start": 271.394,
+      "end": 273.675,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 274.675,
+      "end": 282.659,
+      "speaker": "SPEAKER_00",
+      "text": "Simțim vreodată nevoia să tragem aer în piept, să simțim că nu tragem destul aer și să oftăm?"
+    },
+    {
+      "start": 282.739,
+      "end": 290.143,
+      "speaker": "SPEAKER_01",
+      "text": "Câteodată că mai trag, dar nu mereu, mai mă"
+    },
+    {
+      "start": 290.183,
+      "end": 290.983,
+      "speaker": "SPEAKER_00",
+      "text": "țin, dar nu mereu."
+    },
+    {
+      "start": 291.083,
+      "end": 291.863,
+      "speaker": "SPEAKER_01",
+      "text": "Nu mereu, dar se întâmplă."
+    },
+    {
+      "start": 291.924,
+      "end": 292.944,
+      "speaker": "SPEAKER_01",
+      "text": "Mâinile amorțesc?"
+    },
+    {
+      "start": 295.311,
+      "end": 298.614,
+      "speaker": "SPEAKER_01",
+      "text": "Tot genul cu telefonul mai mult susțin așa totodată, nu mereu."
+    },
+    {
+      "start": 298.895,
+      "end": 300.176,
+      "speaker": "SPEAKER_01",
+      "text": "Deci cu telefonul, când"
+    },
+    {
+      "start": 300.196,
+      "end": 302.759,
+      "speaker": "SPEAKER_00",
+      "text": "stăm cu mâna sus, când stăm așa,"
+    },
+    {
+      "start": 302.799,
+      "end": 303.52,
+      "speaker": "SPEAKER_01",
+      "text": "în"
+    },
+    {
+      "start": 304.001,
+      "end": 306.323,
+      "speaker": "SPEAKER_00",
+      "text": "rest când lucrăm nu amortesc."
+    },
+    {
+      "start": 307.959,
+      "end": 312.062,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, cât suntem pe telefon amortesc amândouă cu oricare am stat sau mai mult?"
+    },
+    {
+      "start": 312.102,
+      "end": 312.262,
+      "speaker": "SPEAKER_00",
+      "text": "Nu,"
+    },
+    {
+      "start": 312.282,
+      "end": 313.603,
+      "speaker": "SPEAKER_01",
+      "text": "oricare stau cu"
+    },
+    {
+      "start": 313.663,
+      "end": 314.424,
+      "speaker": "SPEAKER_00",
+      "text": "telefon."
+    },
+    {
+      "start": 315.805,
+      "end": 320.248,
+      "speaker": "SPEAKER_00",
+      "text": "Păi asta zic, dacă staci cu stânga mâine cu dreapta, amortesc și dreapta și stânga?"
+    },
+    {
+      "start": 320.828,
+      "end": 322.65,
+      "speaker": "SPEAKER_00",
+      "text": "N-am deapăgat de seamțat, dar"
+    },
+    {
+      "start": 323.27,
+      "end": 323.91,
+      "speaker": "SPEAKER_01",
+      "text": "nu știu sigur."
+    },
+    {
+      "start": 323.95,
+      "end": 327.093,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, ok, ok, dar una sigur."
+    },
+    {
+      "start": 327.113,
+      "end": 327.713,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 327.853,
+      "end": 329.514,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, te rău rău, dar"
+    },
+    {
+      "start": 329.534,
+      "end": 329.635,
+      "speaker": "SPEAKER_00",
+      "text": "nu."
+    },
+    {
+      "start": 329.655,
+      "end": 332.937,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai făcut terapie până acum?"
+    },
+    {
+      "start": 332.957,
+      "end": 333.077,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 333.097,
+      "end": 334.558,
+      "speaker": "SPEAKER_00",
+      "text": "N-ați mai făcut nicio de terapie?"
+    },
+    {
+      "start": 335.404,
+      "end": 338.086,
+      "speaker": "SPEAKER_01",
+      "text": "Păi mers să nu fac."
+    },
+    {
+      "start": 339.167,
+      "end": 340.527,
+      "speaker": "SPEAKER_01",
+      "text": "Pentru ce să văd?"
+    },
+    {
+      "start": 340.588,
+      "end": 342.209,
+      "speaker": "SPEAKER_01",
+      "text": "Terapie, ne-ntotrapești, tot evităția."
+    },
+    {
+      "start": 343.029,
+      "end": 344.79,
+      "speaker": "SPEAKER_01",
+      "text": "M-am mai zis și neva tot așa de la situația."
+    },
+    {
+      "start": 344.83,
+      "end": 346.511,
+      "speaker": "SPEAKER_01",
+      "text": "Deocamdată nu e..."
+    },
+    {
+      "start": 348.172,
+      "end": 348.393,
+      "speaker": "SPEAKER_00",
+      "text": "Nu e"
+    },
+    {
+      "start": 348.453,
+      "end": 349.994,
+      "speaker": "SPEAKER_01",
+      "text": "cazul de nu știu ce."
+    },
+    {
+      "start": 350.034,
+      "end": 355.037,
+      "speaker": "SPEAKER_01",
+      "text": "Și doamnă a fost văzut să-mi e cam... Ok, ok. Nu am găsit CD-ul."
+    },
+    {
+      "start": 355.137,
+      "end": 356.478,
+      "speaker": "SPEAKER_01",
+      "text": "Era bun că vedeam"
+    },
+    {
+      "start": 356.578,
+      "end": 358.799,
+      "speaker": "SPEAKER_00",
+      "text": "exact ce se află acolo."
+    },
+    {
+      "start": 359.059,
+      "end": 359.5,
+      "speaker": "SPEAKER_01",
+      "text": "Ții uite"
+    },
+    {
+      "start": 359.54,
+      "end": 361.301,
+      "speaker": "SPEAKER_00",
+      "text": "în oreche vreoată?"
+    },
+    {
+      "start": 361.661,
+      "end": 361.861,
+      "speaker": "SPEAKER_00",
+      "text": "Ba,"
+    },
+    {
+      "start": 361.881,
+      "end": 362.341,
+      "speaker": "SPEAKER_01",
+      "text": "da, mai"
+    },
+    {
+      "start": 362.542,
+      "end": 362.602,
+      "speaker": "SPEAKER_00",
+      "text": "nu"
+    },
+    {
+      "start": 362.662,
+      "end": 362.782,
+      "speaker": "SPEAKER_01",
+      "text": "se"
+    },
+    {
+      "start": 362.802,
+      "end": 363.142,
+      "speaker": "SPEAKER_00",
+      "text": "întâmplă."
+    },
+    {
+      "start": 363.282,
+      "end": 364.663,
+      "speaker": "SPEAKER_00",
+      "text": "Se mai întâmplă să ții uitele?"
+    },
+    {
+      "start": 366.051,
+      "end": 366.471,
+      "speaker": "SPEAKER_01",
+      "text": "Să se"
+    },
+    {
+      "start": 366.491,
+      "end": 367.892,
+      "speaker": "SPEAKER_00",
+      "text": "audă ceva în interior."
+    },
+    {
+      "start": 368.592,
+      "end": 369.352,
+      "speaker": "SPEAKER_00",
+      "text": "Ceva deranjant."
+    },
+    {
+      "start": 369.593,
+      "end": 371.273,
+      "speaker": "SPEAKER_01",
+      "text": "Deranjant?"
+    },
+    {
+      "start": 371.393,
+      "end": 371.853,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 372.474,
+      "end": 376.055,
+      "speaker": "SPEAKER_01",
+      "text": "Un fujit."
+    },
+    {
+      "start": 376.115,
+      "end": 376.395,
+      "speaker": "SPEAKER_01",
+      "text": "Când ne"
+    },
+    {
+      "start": 376.435,
+      "end": 378.276,
+      "speaker": "SPEAKER_00",
+      "text": "trezim, ne trezim blocat?"
+    },
+    {
+      "start": 378.736,
+      "end": 378.896,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 378.996,
+      "end": 380.517,
+      "speaker": "SPEAKER_00",
+      "text": "Adică ne ridicăm din pat normal?"
+    },
+    {
+      "start": 380.537,
+      "end": 382.498,
+      "speaker": "SPEAKER_01",
+      "text": "Mă ține un pic."
+    },
+    {
+      "start": 385.381,
+      "end": 386.082,
+      "speaker": "SPEAKER_01",
+      "text": "Până mă încălzesc."
+    },
+    {
+      "start": 386.462,
+      "end": 387.684,
+      "speaker": "SPEAKER_01",
+      "text": "Până mă încălzesc și după aia..."
+    },
+    {
+      "start": 388.184,
+      "end": 389.725,
+      "speaker": "SPEAKER_00",
+      "text": "Deci ne ține un pic, totuși."
+    },
+    {
+      "start": 390.166,
+      "end": 390.266,
+      "speaker": "SPEAKER_01",
+      "text": "Și"
+    },
+    {
+      "start": 390.306,
+      "end": 391.307,
+      "speaker": "SPEAKER_00",
+      "text": "tot zona de jos ne ține."
+    },
+    {
+      "start": 391.547,
+      "end": 393.309,
+      "speaker": "SPEAKER_01",
+      "text": "Da, tot asta aici."
+    },
+    {
+      "start": 393.329,
+      "end": 397.533,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și jos doare ca o bară, nu doare punctat."
+    },
+    {
+      "start": 397.633,
+      "end": 400.395,
+      "speaker": "SPEAKER_00",
+      "text": "Adică doare... Pe jumatea nu."
+    },
+    {
+      "start": 400.415,
+      "end": 400.516,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 400.956,
+      "end": 402.637,
+      "speaker": "SPEAKER_00",
+      "text": "Dacă doare ca o bară lateral, așa."
+    },
+    {
+      "start": 403.258,
+      "end": 404.399,
+      "speaker": "SPEAKER_01",
+      "text": "Eu cred că de aici"
+    },
+    {
+      "start": 404.479,
+      "end": 405.7,
+      "speaker": "SPEAKER_00",
+      "text": "nu mai doar asta așa."
+    },
+    {
+      "start": 405.72,
+      "end": 407.502,
+      "speaker": "SPEAKER_00",
+      "text": "Hai să vă dați bine astea ce putea jos, șapca jos."
+    },
+    {
+      "start": 407.522,
+      "end": 409.584,
+      "speaker": "SPEAKER_00",
+      "text": "Nu știu, acum."
+    },
+    {
+      "start": 413.3,
+      "end": 413.98,
+      "speaker": "SPEAKER_01",
+      "text": "Mai bine pe stămoși."
+    },
+    {
+      "start": 414.0,
+      "end": 414.3,
+      "speaker": "SPEAKER_01",
+      "text": "De atâta așa."
+    },
+    {
+      "start": 414.38,
+      "end": 419.183,
+      "speaker": "SPEAKER_01",
+      "text": "Vă dați și tricouă."
+    },
+    {
+      "start": 419.203,
+      "end": 422.165,
+      "speaker": "SPEAKER_01",
+      "text": "O fiți de la greutate, să nu spui de la linice."
+    },
+    {
+      "start": 422.185,
+      "end": 423.026,
+      "speaker": "SPEAKER_01",
+      "text": "Așa zona asta, așa."
+    },
+    {
+      "start": 423.646,
+      "end": 428.109,
+      "speaker": "SPEAKER_00",
+      "text": "Zona asta mă întrebam, doare așa sau doare aici strict un punct?"
+    },
+    {
+      "start": 428.429,
+      "end": 430.091,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, aici nu."
+    },
+    {
+      "start": 430.211,
+      "end": 430.911,
+      "speaker": "SPEAKER_00",
+      "text": "De atâta așa."
+    },
+    {
+      "start": 431.111,
+      "end": 432.332,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles asta."
+    },
+    {
+      "start": 432.983,
+      "end": 434.144,
+      "speaker": "SPEAKER_00",
+      "text": "Deci doare îmbara, așa."
+    },
+    {
+      "start": 434.624,
+      "end": 436.506,
+      "speaker": "SPEAKER_00",
+      "text": "Doare toată zona, nu doare doar un punct."
+    },
+    {
+      "start": 436.646,
+      "end": 437.947,
+      "speaker": "SPEAKER_00",
+      "text": "Aici, aici, aici, aici."
+    },
+    {
+      "start": 437.987,
+      "end": 441.93,
+      "speaker": "SPEAKER_00",
+      "text": "Nu e doar un punct care doare, e o durere care se răsprânge peste tot,"
+    },
+    {
+      "start": 441.97,
+      "end": 442.15,
+      "speaker": "SPEAKER_01",
+      "text": "da?"
+    },
+    {
+      "start": 442.17,
+      "end": 442.971,
+      "speaker": "SPEAKER_01",
+      "text": "Asta vă întrebam."
+    },
+    {
+      "start": 443.071,
+      "end": 446.153,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă se răsprânge,"
+    },
+    {
+      "start": 446.674,
+      "end": 450.637,
+      "speaker": "SPEAKER_00",
+      "text": "dacă e numai într-un punct, dacă e... A, înțeles."
+    },
+    {
+      "start": 450.717,
+      "end": 453.159,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți cu spatele la mine aici și cu fața la urmă."
+    },
+    {
+      "start": 453.179,
+      "end": 455.1,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, pe aici, dar... Așa."
+    },
+    {
+      "start": 455.14,
+      "end": 457.702,
+      "speaker": "SPEAKER_00",
+      "text": "Stăm relaxat cu mine pe lângă corp."
+    },
+    {
+      "start": 463.573,
+      "end": 465.434,
+      "speaker": "SPEAKER_00",
+      "text": "Hai să stăm cu picioarele drepte."
+    },
+    {
+      "start": 465.494,
+      "end": 468.457,
+      "speaker": "SPEAKER_00",
+      "text": "Și puțin depărtate."
+    },
+    {
+      "start": 469.137,
+      "end": 474.842,
+      "speaker": "SPEAKER_00",
+      "text": "Umerii lăsați, relaxați, bun."
+    },
+    {
+      "start": 474.862,
+      "end": 476.022,
+      "speaker": "SPEAKER_00",
+      "text": "E și o derotare de bazin."
+    },
+    {
+      "start": 476.583,
+      "end": 478.424,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți bazinul puțin dus aici?"
+    },
+    {
+      "start": 478.444,
+      "end": 481.226,
+      "speaker": "SPEAKER_00",
+      "text": "Vă intrăzeleți din șcarea ca să înțelegeți."
+    },
+    {
+      "start": 481.567,
+      "end": 484.129,
+      "speaker": "SPEAKER_00",
+      "text": "Adică aveți piciorul așa dus."
+    },
+    {
+      "start": 484.209,
+      "end": 487.911,
+      "speaker": "SPEAKER_00",
+      "text": "Puneți mâinile la ceapă."
+    },
+    {
+      "start": 487.931,
+      "end": 488.892,
+      "speaker": "SPEAKER_00",
+      "text": "Vă lăsați pune să vă mișc."
+    },
+    {
+      "start": 489.573,
+      "end": 491.414,
+      "speaker": "SPEAKER_00",
+      "text": "Îmi spuneți dacă doare cum fac asta."
+    },
+    {
+      "start": 493.935,
+      "end": 495.136,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 495.176,
+      "end": 495.556,
+      "speaker": "SPEAKER_00",
+      "text": "Acum nu."
+    },
+    {
+      "start": 495.936,
+      "end": 497.257,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 497.357,
+      "end": 498.397,
+      "speaker": "SPEAKER_00",
+      "text": "Hai să vedem în partea asta."
+    },
+    {
+      "start": 498.457,
+      "end": 500.839,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 500.979,
+      "end": 501.379,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 501.699,
+      "end": 502.68,
+      "speaker": "SPEAKER_00",
+      "text": "Nu doare."
+    },
+    {
+      "start": 502.82,
+      "end": 502.92,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 502.94,
+      "end": 504.04,
+      "speaker": "SPEAKER_00",
+      "text": "Lăsați-vă pe spate."
+    },
+    {
+      "start": 504.42,
+      "end": 505.041,
+      "speaker": "SPEAKER_00",
+      "text": "Spate sau?"
+    },
+    {
+      "start": 505.161,
+      "end": 507.122,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 507.222,
+      "end": 507.422,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 507.442,
+      "end": 507.502,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 507.582,
+      "end": 507.802,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 508.162,
+      "end": 508.463,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 508.683,
+      "end": 514.446,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, bun,"
+    },
+    {
+      "start": 514.466,
+      "end": 514.786,
+      "speaker": "SPEAKER_01",
+      "text": "bun, bun."
+    },
+    {
+      "start": 515.226,
+      "end": 516.327,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, putea să stați la asta acum."
+    },
+    {
+      "start": 516.347,
+      "end": 517.607,
+      "speaker": "SPEAKER_00",
+      "text": "Ei nu vreau să știu dacă doare cum îl duc aici."
+    },
+    {
+      "start": 517.627,
+      "end": 520.209,
+      "speaker": "SPEAKER_00",
+      "text": "Mai mult decât presiunea."
+    },
+    {
+      "start": 520.229,
+      "end": 521.329,
+      "speaker": "SPEAKER_00",
+      "text": "Nu e o drepe mai mare."
+    },
+    {
+      "start": 521.349,
+      "end": 522.95,
+      "speaker": "SPEAKER_00",
+      "text": "Nu știu ce zice doamnă."
+    },
+    {
+      "start": 523.966,
+      "end": 526.668,
+      "speaker": "SPEAKER_00",
+      "text": "Aici?"
+    },
+    {
+      "start": 526.748,
+      "end": 526.828,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 526.888,
+      "end": 527.028,
+      "speaker": "SPEAKER_00",
+      "text": "Aici?"
+    },
+    {
+      "start": 527.088,
+      "end": 527.228,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 529.39,
+      "end": 529.97,
+      "speaker": "SPEAKER_00",
+      "text": "Mai jos aici?"
+    },
+    {
+      "start": 529.99,
+      "end": 530.05,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 530.151,
+      "end": 535.055,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 535.095,
+      "end": 535.275,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 536.055,
+      "end": 541.22,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 541.28,
+      "end": 541.9,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 541.96,
+      "end": 542.881,
+      "speaker": "SPEAKER_00",
+      "text": "E aceleași ca pe dracă, da?"
+    },
+    {
+      "start": 542.941,
+      "end": 543.281,
+      "speaker": "SPEAKER_00",
+      "text": "Da, da, da."
+    },
+    {
+      "start": 545.043,
+      "end": 545.843,
+      "speaker": "SPEAKER_00",
+      "text": "Ok."
+    },
+    {
+      "start": 545.903,
+      "end": 546.624,
+      "speaker": "SPEAKER_01",
+      "text": "Nu,"
+    },
+    {
+      "start": 546.824,
+      "end": 547.405,
+      "speaker": "SPEAKER_00",
+      "text": "nu, nu."
+    },
+    {
+      "start": 548.145,
+      "end": 550.747,
+      "speaker": "SPEAKER_00",
+      "text": "Doar atunci când e momentul ăla."
+    },
+    {
+      "start": 550.827,
+      "end": 551.688,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 554.985,
+      "end": 557.247,
+      "speaker": "SPEAKER_00",
+      "text": "Stati din si cu roac sa cu mana, vreau eu sa vad mușchiestea."
+    },
+    {
+      "start": 557.267,
+      "end": 558.969,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 559.749,
+      "end": 560.37,
+      "speaker": "SPEAKER_00",
+      "text": "La ver ca aici?"
+    },
+    {
+      "start": 560.47,
+      "end": 560.77,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 560.93,
+      "end": 561.211,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 563.372,
+      "end": 563.733,
+      "speaker": "SPEAKER_01",
+      "text": "Doare?"
+    },
+    {
+      "start": 563.913,
+      "end": 565.394,
+      "speaker": "SPEAKER_01",
+      "text": "Putin."
+    },
+    {
+      "start": 567.155,
+      "end": 570.478,
+      "speaker": "SPEAKER_01",
+      "text": "Si acolo, exact la fel."
+    },
+    {
+      "start": 570.498,
+      "end": 572.159,
+      "speaker": "SPEAKER_01",
+      "text": "Si aici si aici, da?"
+    },
+    {
+      "start": 572.219,
+      "end": 572.8,
+      "speaker": "SPEAKER_01",
+      "text": "Tot asa."
+    },
+    {
+      "start": 572.82,
+      "end": 575.422,
+      "speaker": "SPEAKER_01",
+      "text": "La blocari."
+    },
+    {
+      "start": 575.742,
+      "end": 576.663,
+      "speaker": "SPEAKER_01",
+      "text": "La blocari?"
+    },
+    {
+      "start": 577.304,
+      "end": 580.266,
+      "speaker": "SPEAKER_01",
+      "text": "Se blocheaza zona asta, musculatora."
+    },
+    {
+      "start": 583.996,
+      "end": 588.28,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să punem mâna asta la ceapă."
+    },
+    {
+      "start": 588.3,
+      "end": 588.46,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 588.48,
+      "end": 590.502,
+      "speaker": "SPEAKER_00",
+      "text": "Și o ducem, ducem codul aici în față."
+    },
+    {
+      "start": 590.582,
+      "end": 590.942,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 591.162,
+      "end": 593.724,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe aici."
+    },
+    {
+      "start": 593.745,
+      "end": 598.068,
+      "speaker": "SPEAKER_00",
+      "text": "Stai în rălață?"
+    },
+    {
+      "start": 598.529,
+      "end": 599.329,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 599.349,
+      "end": 600.23,
+      "speaker": "SPEAKER_01",
+      "text": "Stai în rălață?"
+    },
+    {
+      "start": 600.27,
+      "end": 600.65,
+      "speaker": "SPEAKER_01",
+      "text": "Așa, așa, așa."
+    },
+    {
+      "start": 600.67,
+      "end": 601.011,
+      "speaker": "SPEAKER_01",
+      "text": "Dori?"
+    },
+    {
+      "start": 601.031,
+      "end": 601.171,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 601.231,
+      "end": 601.831,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic asta,"
+    },
+    {
+      "start": 601.891,
+      "end": 602.112,
+      "speaker": "SPEAKER_00",
+      "text": "dar nu."
+    },
+    {
+      "start": 602.132,
+      "end": 602.652,
+      "speaker": "SPEAKER_00",
+      "text": "Nu e o durere?"
+    },
+    {
+      "start": 602.672,
+      "end": 602.752,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 602.772,
+      "end": 602.852,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 602.932,
+      "end": 603.012,
+      "speaker": "SPEAKER_00",
+      "text": "La"
+    },
+    {
+      "start": 603.653,
+      "end": 604.514,
+      "speaker": "SPEAKER_01",
+      "text": "fel și"
+    },
+    {
+      "start": 604.534,
+      "end": 606.195,
+      "speaker": "SPEAKER_00",
+      "text": "aici."
+    },
+    {
+      "start": 612.501,
+      "end": 612.941,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 613.001,
+      "end": 613.101,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 613.181,
+      "end": 614.062,
+      "speaker": "SPEAKER_00",
+      "text": "E aceeași senzațe, da?"
+    },
+    {
+      "start": 614.142,
+      "end": 616.583,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 616.703,
+      "end": 619.825,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 619.926,
+      "end": 623.908,
+      "speaker": "SPEAKER_00",
+      "text": "Puneți mâinile la șapă."
+    },
+    {
+      "start": 623.928,
+      "end": 626.51,
+      "speaker": "SPEAKER_00",
+      "text": "Răsăm mâinile noi."
+    },
+    {
+      "start": 626.59,
+      "end": 629.291,
+      "speaker": "SPEAKER_00",
+      "text": "Tragem aer în piept."
+    },
+    {
+      "start": 629.352,
+      "end": 634.255,
+      "speaker": "SPEAKER_00",
+      "text": "Dăm afară."
+    },
+    {
+      "start": 634.275,
+      "end": 634.575,
+      "speaker": "SPEAKER_00",
+      "text": "A durut?"
+    },
+    {
+      "start": 634.595,
+      "end": 634.655,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 634.755,
+      "end": 634.975,
+      "speaker": "SPEAKER_00",
+      "text": "Nu?"
+    },
+    {
+      "start": 635.275,
+      "end": 637.016,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, nu."
+    },
+    {
+      "start": 637.056,
+      "end": 637.937,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 639.073,
+      "end": 640.355,
+      "speaker": "SPEAKER_00",
+      "text": "Vreau sa facem un test."
+    },
+    {
+      "start": 640.775,
+      "end": 642.076,
+      "speaker": "SPEAKER_00",
+      "text": "Stam cu capul lui aici 15 secunde."
+    },
+    {
+      "start": 642.176,
+      "end": 644.118,
+      "speaker": "SPEAKER_00",
+      "text": "6, 7, 8, 9, 10, 11, 12, 13, 14, 15."
+    },
+    {
+      "start": 644.238,
+      "end": 649.924,
+      "speaker": "SPEAKER_00",
+      "text": "Am ameții?"
+    },
+    {
+      "start": 650.024,
+      "end": 654.368,
+      "speaker": "SPEAKER_00",
+      "text": "Acum da, un pic."
+    },
+    {
+      "start": 654.528,
+      "end": 658.452,
+      "speaker": "SPEAKER_00",
+      "text": "Deci suntem putin ameții."
+    },
+    {
+      "start": 663.556,
+      "end": 666.038,
+      "speaker": "SPEAKER_00",
+      "text": "Ăsta e un test pentru arteră, aceea de copul nu steam de ea."
+    },
+    {
+      "start": 666.578,
+      "end": 670.121,
+      "speaker": "SPEAKER_00",
+      "text": "E o arteră care pleacă de aici, de sub claviculă, vine pe ei și ajunge occipital."
+    },
+    {
+      "start": 670.161,
+      "end": 671.603,
+      "speaker": "SPEAKER_00",
+      "text": "Ea oxigena de 60% din creier."
+    },
+    {
+      "start": 671.623,
+      "end": 678.889,
+      "speaker": "SPEAKER_00",
+      "text": "În momentul în care noi avem postura cu gâtul în față, chit că ridicăm ceva sau stăm pe telefon orice am face, ea se obturează."
+    },
+    {
+      "start": 679.469,
+      "end": 688.937,
+      "speaker": "SPEAKER_00",
+      "text": "Se inflamează și ne dă starea de amețeală, de vertigi, de greață."
+    },
+    {
+      "start": 688.957,
+      "end": 689.858,
+      "speaker": "SPEAKER_01",
+      "text": "Doare?"
+    },
+    {
+      "start": 692.75,
+      "end": 693.67,
+      "speaker": "SPEAKER_01",
+      "text": "Doare, da."
+    },
+    {
+      "start": 693.69,
+      "end": 694.19,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, deci"
+    },
+    {
+      "start": 694.25,
+      "end": 695.011,
+      "speaker": "SPEAKER_00",
+      "text": "doare la fel."
+    },
+    {
+      "start": 695.031,
+      "end": 695.831,
+      "speaker": "SPEAKER_00",
+      "text": "Da, da."
+    },
+    {
+      "start": 695.951,
+      "end": 696.911,
+      "speaker": "SPEAKER_00",
+      "text": "E aceeași durere, da?"
+    },
+    {
+      "start": 696.931,
+      "end": 697.511,
+      "speaker": "SPEAKER_00",
+      "text": "Da, da."
+    },
+    {
+      "start": 697.591,
+      "end": 698.671,
+      "speaker": "SPEAKER_00",
+      "text": "Nu e mai puțin aici ca aici?"
+    },
+    {
+      "start": 698.691,
+      "end": 700.572,
+      "speaker": "SPEAKER_00",
+      "text": "Nu este."
+    },
+    {
+      "start": 700.692,
+      "end": 701.712,
+      "speaker": "SPEAKER_00",
+      "text": "Un pic, dar tot."
+    },
+    {
+      "start": 701.932,
+      "end": 703.912,
+      "speaker": "SPEAKER_00",
+      "text": "Doare mai puțin un pic."
+    },
+    {
+      "start": 703.992,
+      "end": 705.413,
+      "speaker": "SPEAKER_00",
+      "text": "E mai puțin pe stânga?"
+    },
+    {
+      "start": 705.473,
+      "end": 705.673,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 705.793,
+      "end": 712.034,
+      "speaker": "SPEAKER_00",
+      "text": "Apăsarea e la fel."
+    },
+    {
+      "start": 712.074,
+      "end": 712.614,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi ce"
+    },
+    {
+      "start": 712.654,
+      "end": 714.214,
+      "speaker": "SPEAKER_01",
+      "text": "vreau să-mi spuneți."
+    },
+    {
+      "start": 714.234,
+      "end": 716.015,
+      "speaker": "SPEAKER_01",
+      "text": "Eu asta am drept, știți?"
+    },
+    {
+      "start": 716.115,
+      "end": 716.835,
+      "speaker": "SPEAKER_01",
+      "text": "Cunar e sus."
+    },
+    {
+      "start": 720.266,
+      "end": 721.187,
+      "speaker": "SPEAKER_01",
+      "text": "Nu avem vărbură la aia."
+    },
+    {
+      "start": 721.347,
+      "end": 721.867,
+      "speaker": "SPEAKER_01",
+      "text": "Normal e așa."
+    },
+    {
+      "start": 721.927,
+      "end": 723.248,
+      "speaker": "SPEAKER_01",
+      "text": "Nu aveai zis doamna doctora."
+    },
+    {
+      "start": 723.308,
+      "end": 725.91,
+      "speaker": "SPEAKER_01",
+      "text": "Da, trebuie să ai pe o numă de 20 de grade și atunci te-ai creat."
+    },
+    {
+      "start": 726.05,
+      "end": 729.313,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, da, nu știu începează."
+    },
+    {
+      "start": 729.353,
+      "end": 729.593,
+      "speaker": "SPEAKER_01",
+      "text": "Acum doar."
+    },
+    {
+      "start": 729.613,
+      "end": 734.896,
+      "speaker": "SPEAKER_01",
+      "text": "Nu mă doar, dacă te-ai ce măneze, sau cum doar."
+    },
+    {
+      "start": 735.077,
+      "end": 739.199,
+      "speaker": "SPEAKER_01",
+      "text": "Ei,"
+    },
+    {
+      "start": 739.279,
+      "end": 741.061,
+      "speaker": "SPEAKER_00",
+      "text": "desfuzim cu fața în jos."
+    },
+    {
+      "start": 741.121,
+      "end": 742.882,
+      "speaker": "SPEAKER_00",
+      "text": "Da, cu fața în jos, capul aici."
+    },
+    {
+      "start": 751.61,
+      "end": 753.872,
+      "speaker": "SPEAKER_00",
+      "text": "Doară?"
+    },
+    {
+      "start": 753.972,
+      "end": 754.192,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 754.332,
+      "end": 754.472,
+      "speaker": "SPEAKER_00",
+      "text": "Doară?"
+    },
+    {
+      "start": 754.572,
+      "end": 756.133,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 756.153,
+      "end": 757.314,
+      "speaker": "SPEAKER_00",
+      "text": "Doară?"
+    },
+    {
+      "start": 757.635,
+      "end": 759.476,
+      "speaker": "SPEAKER_00",
+      "text": "Doară?"
+    },
+    {
+      "start": 759.536,
+      "end": 761.898,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 762.038,
+      "end": 762.538,
+      "speaker": "SPEAKER_00",
+      "text": "Doară?"
+    },
+    {
+      "start": 762.598,
+      "end": 765.16,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 767.742,
+      "end": 768.202,
+      "speaker": "SPEAKER_00",
+      "text": "Doară?"
+    },
+    {
+      "start": 768.343,
+      "end": 770.544,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 770.604,
+      "end": 771.305,
+      "speaker": "SPEAKER_00",
+      "text": "Nici aici, da?"
+    },
+    {
+      "start": 771.465,
+      "end": 772.025,
+      "speaker": "SPEAKER_00",
+      "text": "Ok."
+    },
+    {
+      "start": 775.779,
+      "end": 777.56,
+      "speaker": "SPEAKER_00",
+      "text": "Inghinat doare?"
+    },
+    {
+      "start": 777.741,
+      "end": 778.321,
+      "speaker": "SPEAKER_00",
+      "text": "Nu mai doar."
+    },
+    {
+      "start": 778.801,
+      "end": 780.342,
+      "speaker": "SPEAKER_00",
+      "text": "Dar mai doare inghinat, da?"
+    },
+    {
+      "start": 780.402,
+      "end": 787.627,
+      "speaker": "SPEAKER_00",
+      "text": "N-ar fost, dar acum vreau."
+    },
+    {
+      "start": 787.667,
+      "end": 790.629,
+      "speaker": "SPEAKER_00",
+      "text": "Vreau sa ridicati picerul asta sus."
+    },
+    {
+      "start": 791.25,
+      "end": 791.61,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 793.631,
+      "end": 793.791,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 793.871,
+      "end": 794.632,
+      "speaker": "SPEAKER_00",
+      "text": "Se pun carcee."
+    },
+    {
+      "start": 794.772,
+      "end": 795.472,
+      "speaker": "SPEAKER_00",
+      "text": "Se pun carcee."
+    },
+    {
+      "start": 795.572,
+      "end": 795.673,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 795.733,
+      "end": 796.233,
+      "speaker": "SPEAKER_00",
+      "text": "Si asta."
+    },
+    {
+      "start": 796.273,
+      "end": 797.954,
+      "speaker": "SPEAKER_00",
+      "text": "La grampe, da."
+    },
+    {
+      "start": 798.454,
+      "end": 798.595,
+      "speaker": "SPEAKER_00",
+      "text": "Sus."
+    },
+    {
+      "start": 798.655,
+      "end": 801.256,
+      "speaker": "SPEAKER_00",
+      "text": "Lasa-mi mar."
+    },
+    {
+      "start": 801.496,
+      "end": 803.818,
+      "speaker": "SPEAKER_00",
+      "text": "Carcee poate sa vedea o lipse de magneze."
+    },
+    {
+      "start": 815.623,
+      "end": 816.044,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 816.084,
+      "end": 818.948,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 819.028,
+      "end": 822.412,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 822.472,
+      "end": 822.552,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 822.572,
+      "end": 824.294,
+      "speaker": "SPEAKER_00",
+      "text": "Să-mi schimb că sunt blocate toate zonele."
+    },
+    {
+      "start": 824.435,
+      "end": 825.796,
+      "speaker": "SPEAKER_00",
+      "text": "Adică nu-mi permit să mă duc, vezi?"
+    },
+    {
+      "start": 825.836,
+      "end": 827.038,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 841.807,
+      "end": 844.528,
+      "speaker": "SPEAKER_00",
+      "text": "Puteți să vă îmbrăcați?"
+    },
+    {
+      "start": 845.209,
+      "end": 847.67,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu."
+    },
+    {
+      "start": 847.93,
+      "end": 848.13,
+      "speaker": "SPEAKER_01",
+      "text": "Cum?"
+    },
+    {
+      "start": 848.17,
+      "end": 851.552,
+      "speaker": "SPEAKER_01",
+      "text": "S-a mă durmări atât și... Dar ăstia nu mă doresc bună."
+    },
+    {
+      "start": 852.513,
+      "end": 853.353,
+      "speaker": "SPEAKER_00",
+      "text": "Acum nu doare acolo?"
+    },
+    {
+      "start": 853.693,
+      "end": 854.193,
+      "speaker": "SPEAKER_00",
+      "text": "Asta ați spus."
+    },
+    {
+      "start": 854.414,
+      "end": 855.034,
+      "speaker": "SPEAKER_01",
+      "text": "Nu doare, nu."
+    },
+    {
+      "start": 855.494,
+      "end": 856.174,
+      "speaker": "SPEAKER_00",
+      "text": "Doare doar la cât?"
+    },
+    {
+      "start": 856.194,
+      "end": 857.675,
+      "speaker": "SPEAKER_01",
+      "text": "Aici, atât."
+    },
+    {
+      "start": 858.015,
+      "end": 858.736,
+      "speaker": "SPEAKER_00",
+      "text": "Unde am apăsat."
+    },
+    {
+      "start": 859.056,
+      "end": 860.857,
+      "speaker": "SPEAKER_00",
+      "text": "Dar nu trebuie să fie neapărat constantă durerea."
+    },
+    {
+      "start": 861.717,
+      "end": 865.999,
+      "speaker": "SPEAKER_00",
+      "text": "Dar pare a fi mai mult o deshidratare discară ce aveți dumneavoastră."
+    },
+    {
+      "start": 866.099,
+      "end": 866.82,
+      "speaker": "SPEAKER_00",
+      "text": "Adică pare..."
+    },
+    {
+      "start": 869.865,
+      "end": 873.328,
+      "speaker": "SPEAKER_00",
+      "text": "E coloana care conține vertebrele și discul."
+    },
+    {
+      "start": 874.249,
+      "end": 874.509,
+      "speaker": "SPEAKER_00",
+      "text": "Asta."
+    },
+    {
+      "start": 874.89,
+      "end": 877.272,
+      "speaker": "SPEAKER_00",
+      "text": "Vertebrele și discul."
+    },
+    {
+      "start": 877.312,
+      "end": 878.753,
+      "speaker": "SPEAKER_00",
+      "text": "Discul are rol de presiune."
+    },
+    {
+      "start": 879.433,
+      "end": 880.314,
+      "speaker": "SPEAKER_00",
+      "text": "De prelarea presiunii."
+    },
+    {
+      "start": 880.334,
+      "end": 883.177,
+      "speaker": "SPEAKER_00",
+      "text": "Adică în momentul în care platoul vertebral, el se ridică înapoi."
+    },
+    {
+      "start": 883.217,
+      "end": 883.717,
+      "speaker": "SPEAKER_00",
+      "text": "Asta-i spartă."
+    },
+    {
+      "start": 884.518,
+      "end": 887.1,
+      "speaker": "SPEAKER_00",
+      "text": "Dar el ar trebui să ridice platoul înapoi."
+    },
+    {
+      "start": 887.16,
+      "end": 889.582,
+      "speaker": "SPEAKER_00",
+      "text": "Pare că la dumneavoastră suferă coloana de o lipsă de mișcare."
+    },
+    {
+      "start": 889.982,
+      "end": 891.244,
+      "speaker": "SPEAKER_00",
+      "text": "Chit că faceți treabă continuă."
+    },
+    {
+      "start": 893.791,
+      "end": 896.932,
+      "speaker": "SPEAKER_00",
+      "text": "Chid că faceți mereu treabă în zona pe care o aveți."
+    },
+    {
+      "start": 897.312,
+      "end": 899.673,
+      "speaker": "SPEAKER_00",
+      "text": "Nu faceți mișcări specifice pentru acele zone."
+    },
+    {
+      "start": 899.773,
+      "end": 907.015,
+      "speaker": "SPEAKER_00",
+      "text": "Două secunde vă deranjez."
+    },
+    {
+      "start": 907.035,
+      "end": 909.196,
+      "speaker": "SPEAKER_00",
+      "text": "Vă aplecați, dădăm să platoarele din profunzimele nelucrat."
+    },
+    {
+      "start": 909.856,
+      "end": 914.278,
+      "speaker": "SPEAKER_00",
+      "text": "Ceea ce dă și blocajele respective și lipsa de mobilitate pe zonele despre care vorbeam."
+    },
+    {
+      "start": 916.478,
+      "end": 921.382,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea aceea poate să apară și din prisma faptului dumneavoastră muncind."
+    },
+    {
+      "start": 922.043,
+      "end": 926.006,
+      "speaker": "SPEAKER_00",
+      "text": "Inflamează musculatura, cărând, dacă creați răutăți mult prea mari."
+    },
+    {
+      "start": 926.046,
+      "end": 927.927,
+      "speaker": "SPEAKER_00",
+      "text": "Peste 20 de chile."
+    },
+    {
+      "start": 928.027,
+      "end": 935.873,
+      "speaker": "SPEAKER_00",
+      "text": "Le ridicați, musculatura în interior se tensionează și ulterior se inflamează în jur."
+    },
+    {
+      "start": 935.893,
+      "end": 940.096,
+      "speaker": "SPEAKER_00",
+      "text": "Nu se simte în timp ce încă lucrăm, se simte ulterior seara în momentul în care ne relaxăm chestia"
+    },
+    {
+      "start": 940.116,
+      "end": 940.877,
+      "speaker": "SPEAKER_01",
+      "text": "asta."
+    },
+    {
+      "start": 942.62,
+      "end": 953.13,
+      "speaker": "SPEAKER_01",
+      "text": "Din Olanda am pățit-o așa eu, am îndecat niște panouă și n-am putut să merg o săptămână la hospitalul de Amsterdam."
+    },
+    {
+      "start": 953.15,
+      "end": 958.554,
+      "speaker": "SPEAKER_01",
+      "text": "M-a băiat tot așa cum a se urmă la însă și aia niște pastile, după cinci zile mi-a trecut."
+    },
+    {
+      "start": 958.574,
+      "end": 959.015,
+      "speaker": "SPEAKER_01",
+      "text": "După"
+    },
+    {
+      "start": 959.055,
+      "end": 960.656,
+      "speaker": "SPEAKER_00",
+      "text": "cinci zile mi-a trecut."
+    },
+    {
+      "start": 960.676,
+      "end": 968.163,
+      "speaker": "SPEAKER_00",
+      "text": "E că, cel mai probabil, există taseri, adică să se apese pe disc, din cauza meserie, pentru că rămși toate greutatea vine pe coloanul lombar."
+    },
+    {
+      "start": 969.128,
+      "end": 975.727,
+      "speaker": "SPEAKER_00",
+      "text": "Dar e mai mult din inflamația din timpul zile și din cauza că sunt desigratate discuri, adică ar trebui să lucrăm pe mișcare."
+    },
+    {
+      "start": 976.541,
+      "end": 981.184,
+      "speaker": "SPEAKER_01",
+      "text": "În șarcul când mai ridic, sunt două persoane, m-ar zice oameni vreau."
+    },
+    {
+      "start": 981.204,
+      "end": 982.825,
+      "speaker": "SPEAKER_01",
+      "text": "Se simte acolo, se pune un cărcel."
+    },
+    {
+      "start": 982.945,
+      "end": 984.807,
+      "speaker": "SPEAKER_01",
+      "text": "În jung, un cărcel."
+    },
+    {
+      "start": 985.107,
+      "end": 985.607,
+      "speaker": "SPEAKER_01",
+      "text": "În jung?"
+    },
+    {
+      "start": 985.747,
+      "end": 987.048,
+      "speaker": "SPEAKER_01",
+      "text": "Da, peste tot."
+    },
+    {
+      "start": 987.108,
+      "end": 987.268,
+      "speaker": "SPEAKER_01",
+      "text": "Și"
+    },
+    {
+      "start": 987.368,
+      "end": 990.53,
+      "speaker": "SPEAKER_00",
+      "text": "la fel, nu se lasă pe picior, e doar acolo, în zona respectivă."
+    },
+    {
+      "start": 990.59,
+      "end": 991.011,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde,"
+    },
+    {
+      "start": 991.031,
+      "end": 993.512,
+      "speaker": "SPEAKER_01",
+      "text": "de vreau să o lasă puțin, puțin de tot."
+    },
+    {
+      "start": 993.552,
+      "end": 995.253,
+      "speaker": "SPEAKER_01",
+      "text": "Nu se lasă pe un zor."
+    },
+    {
+      "start": 995.414,
+      "end": 996.954,
+      "speaker": "SPEAKER_01",
+      "text": "Nu mă înțeles."
+    },
+    {
+      "start": 997.175,
+      "end": 998.215,
+      "speaker": "SPEAKER_01",
+      "text": "Lăsa, lăsa, lăsa, lăsa."
+    },
+    {
+      "start": 998.395,
+      "end": 1002.058,
+      "speaker": "SPEAKER_01",
+      "text": "Pe stând, după cum s-a lăsat, nu mai ținut."
+    },
+    {
+      "start": 1002.098,
+      "end": 1005.46,
+      "speaker": "SPEAKER_01",
+      "text": "Dar până așa, până..."
+    },
+    {
+      "start": 1006.52,
+      "end": 1008.861,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu ce, mai lăsă nu fie de rinichii, probleme cu rinichii?"
+    },
+    {
+      "start": 1008.921,
+      "end": 1011.022,
+      "speaker": "SPEAKER_00",
+      "text": "N-ar zice că sunt rinichii, dacă vă doare așa."
+    },
+    {
+      "start": 1011.082,
+      "end": 1016.164,
+      "speaker": "SPEAKER_00",
+      "text": "Dacă dureau rinichii, dureau în zona aia și atât."
+    },
+    {
+      "start": 1016.224,
+      "end": 1018.585,
+      "speaker": "SPEAKER_00",
+      "text": "Simțeați că vă înțeapă, nu că vă doare neapărat."
+    },
+    {
+      "start": 1018.645,
+      "end": 1019.846,
+      "speaker": "SPEAKER_00",
+      "text": "În spate?"
+    },
+    {
+      "start": 1020.386,
+      "end": 1022.687,
+      "speaker": "SPEAKER_00",
+      "text": "Și vă înțepa undeva pe lateral, mai mult."
+    },
+    {
+      "start": 1022.727,
+      "end": 1023.888,
+      "speaker": "SPEAKER_01",
+      "text": "Aici, o zice zona unde e."
+    },
+    {
+      "start": 1024.908,
+      "end": 1029.41,
+      "speaker": "SPEAKER_00",
+      "text": "Dar nu doare, înțeapă, adică dă niște junglii puternice."
+    },
+    {
+      "start": 1029.45,
+      "end": 1032.611,
+      "speaker": "SPEAKER_00",
+      "text": "Și nu le dă doar atunci când ridicați, le dă constant."
+    },
+    {
+      "start": 1032.631,
+      "end": 1034.752,
+      "speaker": "SPEAKER_00",
+      "text": "Nu le dă constant, rinichii nu."
+    },
+    {
+      "start": 1035.613,
+      "end": 1038.236,
+      "speaker": "SPEAKER_00",
+      "text": "Dacă ar fi renii, ar trebui să le dea des."
+    },
+    {
+      "start": 1038.476,
+      "end": 1039.016,
+      "speaker": "SPEAKER_00",
+      "text": "Mai des."
+    },
+    {
+      "start": 1040.077,
+      "end": 1042.699,
+      "speaker": "SPEAKER_00",
+      "text": "Nu doar în momentul în care ridicăm ceva."
+    },
+    {
+      "start": 1042.96,
+      "end": 1044.241,
+      "speaker": "SPEAKER_00",
+      "text": "Mergeți des la"
+    },
+    {
+      "start": 1044.321,
+      "end": 1044.761,
+      "speaker": "SPEAKER_01",
+      "text": "baie?"
+    },
+    {
+      "start": 1045.922,
+      "end": 1052.127,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă v-au mutată..."
+    },
+    {
+      "start": 1052.287,
+      "end": 1055.19,
+      "speaker": "SPEAKER_00",
+      "text": "Urinați mai mult decât bețapă?"
+    },
+    {
+      "start": 1055.25,
+      "end": 1056.791,
+      "speaker": "SPEAKER_00",
+      "text": "Sau proporțional egal?"
+    },
+    {
+      "start": 1057.677,
+      "end": 1062.659,
+      "speaker": "SPEAKER_01",
+      "text": "De exemplu, de dimineață până la ora 12, dacă beau vreo de apă."
+    },
+    {
+      "start": 1062.739,
+      "end": 1063.479,
+      "speaker": "SPEAKER_01",
+      "text": "Și mergeți la baie?"
+    },
+    {
+      "start": 1063.979,
+      "end": 1065.18,
+      "speaker": "SPEAKER_01",
+      "text": "O dată, o dată."
+    },
+    {
+      "start": 1065.2,
+      "end": 1065.56,
+      "speaker": "SPEAKER_01",
+      "text": "O dată."
+    },
+    {
+      "start": 1065.6,
+      "end": 1067.66,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă nu da, nu."
+    },
+    {
+      "start": 1067.741,
+      "end": 1068.761,
+      "speaker": "SPEAKER_01",
+      "text": "Deci e proporțional."
+    },
+    {
+      "start": 1068.961,
+      "end": 1070.341,
+      "speaker": "SPEAKER_01",
+      "text": "Cu cât apă beți, apă dați afară."
+    },
+    {
+      "start": 1070.481,
+      "end": 1071.682,
+      "speaker": "SPEAKER_01",
+      "text": "Nu dați mai multă decât beți."
+    },
+    {
+      "start": 1072.442,
+      "end": 1075.283,
+      "speaker": "SPEAKER_01",
+      "text": "În weekend, când mai beau bere, e fac mai dis."
+    },
+    {
+      "start": 1075.723,
+      "end": 1076.263,
+      "speaker": "SPEAKER_01",
+      "text": "De la bere."
+    },
+    {
+      "start": 1076.904,
+      "end": 1083.006,
+      "speaker": "SPEAKER_01",
+      "text": "Ok. Seara dau un litru jumate de ori din apă, tot asta dau afară."
+    },
+    {
+      "start": 1083.046,
+      "end": 1084.966,
+      "speaker": "SPEAKER_01",
+      "text": "De 3-4 ori, de 3-4 ori e să"
+    },
+    {
+      "start": 1084.986,
+      "end": 1086.947,
+      "speaker": "SPEAKER_00",
+      "text": "apare."
+    },
+    {
+      "start": 1087.74,
+      "end": 1087.8,
+      "speaker": "SPEAKER_00",
+      "text": "Eu"
+    },
+    {
+      "start": 1087.82,
+      "end": 1088.0,
+      "speaker": "SPEAKER_01",
+      "text": "n-ai"
+    },
+    {
+      "start": 1088.02,
+      "end": 1088.88,
+      "speaker": "SPEAKER_00",
+      "text": "zice că sunt frâni."
+    },
+    {
+      "start": 1088.94,
+      "end": 1099.082,
+      "speaker": "SPEAKER_00",
+      "text": "Himanista zice că e musculatura pur și simplu... Nu știu ce ar trebui, am mai luat pastele, dar tot... Noi ar trebui să lucrăm musculatura de aici, de dintre coloană, care nu se lucrează prin cărat."
+    },
+    {
+      "start": 1100.043,
+      "end": 1104.904,
+      "speaker": "SPEAKER_00",
+      "text": "Se lucrează prin anumite exerciții pe care o să le facem și să vi le arătăm, în cazul în care doriți să continuăm."
+    },
+    {
+      "start": 1105.564,
+      "end": 1114.906,
+      "speaker": "SPEAKER_00",
+      "text": "Și să lucrăm discul acesta să-și preia din nou proprietățile de colagen, de apă, să trimitem mai mult raport de sânge în zona respectivă, cu diferite proceduri, de acupunctură,"
+    },
+    {
+      "start": 1115.553,
+      "end": 1119.074,
+      "speaker": "SPEAKER_00",
+      "text": "Fizioterapie, de masaj, de mobilizare, de elongații vertebrale."
+    },
+    {
+      "start": 1119.654,
+      "end": 1123.496,
+      "speaker": "SPEAKER_00",
+      "text": "Să tragem puțin de coloană, din cauza meseriei am zis că se întâmplă tasări."
+    },
+    {
+      "start": 1123.536,
+      "end": 1129.138,
+      "speaker": "SPEAKER_00",
+      "text": "Cu elongația tragem de coloană ca să se păstreze distanța în platoul vertebral."
+    },
+    {
+      "start": 1129.158,
+      "end": 1131.539,
+      "speaker": "SPEAKER_00",
+      "text": "Cam asta am putea să facem noi, ca să mă lăsim stilul de viață."
+    },
+    {
+      "start": 1131.579,
+      "end": 1134.72,
+      "speaker": "SPEAKER_00",
+      "text": "Totodată ar trebui mai degrabă sus aici să lucrăm."
+    },
+    {
+      "start": 1135.188,
+      "end": 1139.63,
+      "speaker": "SPEAKER_00",
+      "text": "cu amețeala aceea, banii, că e din alteraia vertebranului, de care vă ziceam mai devreme."
+    },
+    {
+      "start": 1140.15,
+      "end": 1144.432,
+      "speaker": "SPEAKER_00",
+      "text": "Și la așa la fel, trebuie să mișcăm gâtul în anumite poziții, să tragem puțin de cap."
+    },
+    {
+      "start": 1144.452,
+      "end": 1147.994,
+      "speaker": "SPEAKER_01",
+      "text": "Așa e, când fac așa, să mă uit tot timpul mai așa, băi amețeala."
+    },
+    {
+      "start": 1148.054,
+      "end": 1148.254,
+      "speaker": "SPEAKER_01",
+      "text": "Băi"
+    },
+    {
+      "start": 1148.274,
+      "end": 1148.834,
+      "speaker": "SPEAKER_00",
+      "text": "amețeala."
+    },
+    {
+      "start": 1148.954,
+      "end": 1150.535,
+      "speaker": "SPEAKER_00",
+      "text": "Noi trebuie să facem astfel încât să nu vă moia."
+    },
+    {
+      "start": 1150.815,
+      "end": 1152.615,
+      "speaker": "SPEAKER_00",
+      "text": "Și asta o să o facem prin anumite mișcări."
+    },
+    {
+      "start": 1152.655,
+      "end": 1155.757,
+      "speaker": "SPEAKER_00",
+      "text": "Și prin anumite proceduri, de elongație, de la fel."
+    },
+    {
+      "start": 1155.837,
+      "end": 1157.598,
+      "speaker": "SPEAKER_00",
+      "text": "Am văzut că de elongație scrie pe..."
+    },
+    {
+      "start": 1157.638,
+      "end": 1163.36,
+      "speaker": "SPEAKER_01",
+      "text": "Da, dar am dat să... Scam la soccer..."
+    },
+    {
+      "start": 1163.969,
+      "end": 1167.132,
+      "speaker": "SPEAKER_01",
+      "text": "La cât timp stau la București, la București, în București și..."
+    },
+    {
+      "start": 1167.552,
+      "end": 1168.333,
+      "speaker": "SPEAKER_00",
+      "text": "Noi suntem din București."
+    },
+    {
+      "start": 1168.533,
+      "end": 1169.234,
+      "speaker": "SPEAKER_01",
+      "text": "Din București, nu?"
+    },
+    {
+      "start": 1169.254,
+      "end": 1171.816,
+      "speaker": "SPEAKER_00",
+      "text": "Da, am venit dimineață din București."
+    },
+    {
+      "start": 1171.836,
+      "end": 1176.861,
+      "speaker": "SPEAKER_00",
+      "text": "Adică putem să ne vedem în București, Târgoviști sau Fulești, unde vreți bunul nostru."
+    },
+    {
+      "start": 1176.901,
+      "end": 1177.862,
+      "speaker": "SPEAKER_00",
+      "text": "Dacă doriți să vă spun."
+    },
+    {
+      "start": 1179.617,
+      "end": 1182.398,
+      "speaker": "SPEAKER_01",
+      "text": "S-au făcut de la servici, ca numai"
+    },
+    {
+      "start": 1182.498,
+      "end": 1183.218,
+      "speaker": "SPEAKER_00",
+      "text": "așa, n-așa."
+    },
+    {
+      "start": 1183.258,
+      "end": 1184.239,
+      "speaker": "SPEAKER_00",
+      "text": "Unde lucrați, pe ce doamnă?"
+    },
+    {
+      "start": 1184.579,
+      "end": 1186.119,
+      "speaker": "SPEAKER_01",
+      "text": "Prin Pipera."
+    },
+    {
+      "start": 1186.74,
+      "end": 1189.461,
+      "speaker": "SPEAKER_00",
+      "text": "Și noi suntem pe Mihalace."
+    },
+    {
+      "start": 1189.481,
+      "end": 1189.881,
+      "speaker": "SPEAKER_00",
+      "text": "În Numai?"
+    },
+    {
+      "start": 1189.901,
+      "end": 1189.961,
+      "speaker": "SPEAKER_00",
+      "text": "În"
+    },
+    {
+      "start": 1190.041,
+      "end": 1190.361,
+      "speaker": "SPEAKER_01",
+      "text": "Numai."
+    },
+    {
+      "start": 1190.841,
+      "end": 1190.981,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 1191.041,
+      "end": 1192.642,
+      "speaker": "SPEAKER_01",
+      "text": "Un e departe."
+    },
+    {
+      "start": 1192.662,
+      "end": 1194.503,
+      "speaker": "SPEAKER_01",
+      "text": "Eu lucrez aici, la faptul ăsta, de la 3."
+    },
+    {
+      "start": 1194.543,
+      "end": 1194.863,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da,"
+    },
+    {
+      "start": 1195.223,
+      "end": 1195.363,
+      "speaker": "SPEAKER_00",
+      "text": "da,"
+    },
+    {
+      "start": 1195.383,
+      "end": 1195.923,
+      "speaker": "SPEAKER_01",
+      "text": "nu înțeles."
+    },
+    {
+      "start": 1197.824,
+      "end": 1199.384,
+      "speaker": "SPEAKER_01",
+      "text": "În departe, Numai."
+    },
+    {
+      "start": 1199.464,
+      "end": 1201.625,
+      "speaker": "SPEAKER_01",
+      "text": "Dar tot aici o să fie bine."
+    },
+    {
+      "start": 1202.306,
+      "end": 1202.806,
+      "speaker": "SPEAKER_00",
+      "text": "Cum considerați?"
+    },
+    {
+      "start": 1202.826,
+      "end": 1203.546,
+      "speaker": "SPEAKER_00",
+      "text": "Din asta avem de făcut."
+    },
+    {
+      "start": 1203.586,
+      "end": 1208.868,
+      "speaker": "SPEAKER_00",
+      "text": "Trebuie să creștem aporturile de genizare respectivă, să hitratăm discul și totdată să lucrăm musculatură."
+    },
+    {
+      "start": 1209.66,
+      "end": 1213.221,
+      "speaker": "SPEAKER_00",
+      "text": "Și să tragem de coloanele puțin, să păstrăm nivelul plateau-ului vertebral."
+    },
+    {
+      "start": 1213.241,
+      "end": 1217.121,
+      "speaker": "SPEAKER_00",
+      "text": "Automat dacă venim și cu CD-ul, vedem exact și..."
+    },
+    {
+      "start": 1217.161,
+      "end": 1221.162,
+      "speaker": "SPEAKER_01",
+      "text": "Mi-a dat niște răumar gel pentru așa."
+    },
+    {
+      "start": 1221.682,
+      "end": 1223.863,
+      "speaker": "SPEAKER_01",
+      "text": "Pentru gel egal?"
+    },
+    {
+      "start": 1224.083,
+      "end": 1224.223,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 1224.243,
+      "end": 1226.083,
+      "speaker": "SPEAKER_01",
+      "text": "Răumar gel și mai am încă una."
+    },
+    {
+      "start": 1226.283,
+      "end": 1226.503,
+      "speaker": "SPEAKER_01",
+      "text": "Tot"
+    },
+    {
+      "start": 1226.803,
+      "end": 1229.323,
+      "speaker": "SPEAKER_00",
+      "text": "gel."
+    },
+    {
+      "start": 1229.423,
+      "end": 1230.444,
+      "speaker": "SPEAKER_01",
+      "text": "De... Mă văd pe fiecare seară."
+    },
+    {
+      "start": 1230.484,
+      "end": 1232.184,
+      "speaker": "SPEAKER_00",
+      "text": "Deci s-au venit că e o problemă răumatică."
+    },
+    {
+      "start": 1232.704,
+      "end": 1233.084,
+      "speaker": "SPEAKER_00",
+      "text": "Mai"
+    },
+    {
+      "start": 1233.744,
+      "end": 1234.404,
+      "speaker": "SPEAKER_01",
+      "text": "mult."
+    },
+    {
+      "start": 1234.424,
+      "end": 1234.804,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu."
+    },
+    {
+      "start": 1234.844,
+      "end": 1236.625,
+      "speaker": "SPEAKER_01",
+      "text": "Și niște pasine de a-mi să nu o mai amețesc."
+    },
+    {
+      "start": 1236.645,
+      "end": 1238.045,
+      "speaker": "SPEAKER_00",
+      "text": "Analize aveți făcute?"
+    },
+    {
+      "start": 1239.69,
+      "end": 1242.611,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu ce e decât ăla atâta."
+    },
+    {
+      "start": 1242.631,
+      "end": 1245.392,
+      "speaker": "SPEAKER_01",
+      "text": "CD-ul... Ok, am înțeles."
+    },
+    {
+      "start": 1245.432,
+      "end": 1247.873,
+      "speaker": "SPEAKER_01",
+      "text": "Trebuie să mă uit să-mi caută așa."
+    },
+    {
+      "start": 1247.893,
+      "end": 1254.455,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă data viitoare vă vin, poate să facem programare, să vă aduc CD-ul."
+    },
+    {
+      "start": 1254.475,
+      "end": 1254.575,
+      "speaker": "SPEAKER_01",
+      "text": "Să"
+    },
+    {
+      "start": 1254.595,
+      "end": 1257.556,
+      "speaker": "SPEAKER_00",
+      "text": "aducem și CD-ul ca să-l vedem, să putem începe cu totul."
+    },
+    {
+      "start": 1257.596,
+      "end": 1258.597,
+      "speaker": "SPEAKER_00",
+      "text": "Nu"
+    },
+    {
+      "start": 1258.757,
+      "end": 1262.858,
+      "speaker": "SPEAKER_01",
+      "text": "știu câțiva ani de când l-am făcut."
+    },
+    {
+      "start": 1263.198,
+      "end": 1264.239,
+      "speaker": "SPEAKER_00",
+      "text": "Ceva acolo tot vedem."
+    },
+    {
+      "start": 1264.679,
+      "end": 1268.04,
+      "speaker": "SPEAKER_00",
+      "text": "Adică măcar mai bine sigur nu era, nu e acum față de acolo."
+    },
+    {
+      "start": 1269.394,
+      "end": 1270.575,
+      "speaker": "SPEAKER_01",
+      "text": "Tot așa dintr-o prăstie."
+    },
+    {
+      "start": 1270.635,
+      "end": 1275.938,
+      "speaker": "SPEAKER_01",
+      "text": "Să deam mașină, puteam și simțeam că vine toate alea."
+    },
+    {
+      "start": 1275.978,
+      "end": 1277.439,
+      "speaker": "SPEAKER_01",
+      "text": "Dar nu știu ce e."
+    },
+    {
+      "start": 1277.479,
+      "end": 1280.341,
+      "speaker": "SPEAKER_00",
+      "text": "Vreți să începem și acum să facem ceva?"
+    },
+    {
+      "start": 1280.561,
+      "end": 1282.582,
+      "speaker": "SPEAKER_01",
+      "text": "Acum nu, păi de mult, atunci adică."
+    },
+    {
+      "start": 1282.642,
+      "end": 1282.843,
+      "speaker": "SPEAKER_01",
+      "text": "Nu"
+    },
+    {
+      "start": 1282.863,
+      "end": 1287.606,
+      "speaker": "SPEAKER_00",
+      "text": "zi, dacă vreți să începem terapia, să facem ceva."
+    },
+    {
+      "start": 1287.626,
+      "end": 1288.466,
+      "speaker": "SPEAKER_00",
+      "text": "Nu știu, vrează?"
+    },
+    {
+      "start": 1289.527,
+      "end": 1290.307,
+      "speaker": "SPEAKER_00",
+      "text": "Încă 40.000, până la fix."
+    },
+    {
+      "start": 1294.596,
+      "end": 1294.976,
+      "speaker": "SPEAKER_00",
+      "text": "Nu știu"
+    },
+    {
+      "start": 1295.056,
+      "end": 1296.399,
+      "speaker": "SPEAKER_01",
+      "text": "ce să zic."
+    },
+    {
+      "start": 1296.419,
+      "end": 1297.56,
+      "speaker": "SPEAKER_01",
+      "text": "Sau trebuie da viitoare."
+    },
+    {
+      "start": 1297.601,
+      "end": 1302.528,
+      "speaker": "SPEAKER_01",
+      "text": "Sau data viitoare mai bine astăzi."
+    }
+  ]
+}

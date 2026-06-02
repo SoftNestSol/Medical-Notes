@@ -1,0 +1,757 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio16.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 0.847,
+      "end": 2.667,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua!"
+    },
+    {
+      "start": 2.747,
+      "end": 2.867,
+      "speaker": "SPEAKER_01",
+      "text": "Bună"
+    },
+    {
+      "start": 2.947,
+      "end": 3.268,
+      "speaker": "SPEAKER_00",
+      "text": "ziua!"
+    },
+    {
+      "start": 3.468,
+      "end": 5.128,
+      "speaker": "SPEAKER_00",
+      "text": "Șvarță Manuel?"
+    },
+    {
+      "start": 5.168,
+      "end": 6.908,
+      "speaker": "SPEAKER_00",
+      "text": "Cosmin, încântat."
+    },
+    {
+      "start": 6.988,
+      "end": 8.469,
+      "speaker": "SPEAKER_00",
+      "text": "Ce vârstă aveți, domnule Cosmin?"
+    },
+    {
+      "start": 8.529,
+      "end": 8.869,
+      "speaker": "SPEAKER_00",
+      "text": "23."
+    },
+    {
+      "start": 8.909,
+      "end": 11.209,
+      "speaker": "SPEAKER_00",
+      "text": "23 de ani."
+    },
+    {
+      "start": 14.21,
+      "end": 15.81,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi și mie numărul de telefon, vă rog."
+    },
+    {
+      "start": 15.83,
+      "end": 17.971,
+      "speaker": "SPEAKER_01",
+      "text": "0720846002 Adresa de e-mail?"
+    },
+    {
+      "start": 17.991,
+      "end": 19.211,
+      "speaker": "SPEAKER_01",
+      "text": "supercozerongmail.com"
+    },
+    {
+      "start": 30.044,
+      "end": 34.328,
+      "speaker": "SPEAKER_00",
+      "text": "O adresă de e-mail care nu vă identifică vârsta."
+    },
+    {
+      "start": 34.368,
+      "end": 36.27,
+      "speaker": "SPEAKER_00",
+      "text": "De-aia fel."
+    },
+    {
+      "start": 36.31,
+      "end": 38.772,
+      "speaker": "SPEAKER_00",
+      "text": "Aș fi, sunt de la 11 ani."
+    },
+    {
+      "start": 38.832,
+      "end": 39.753,
+      "speaker": "SPEAKER_00",
+      "text": "Localitatea, județul?"
+    },
+    {
+      "start": 40.874,
+      "end": 41.354,
+      "speaker": "SPEAKER_00",
+      "text": "Onesti."
+    },
+    {
+      "start": 47.179,
+      "end": 48.24,
+      "speaker": "SPEAKER_01",
+      "text": "Cum ați afluat de mine?"
+    },
+    {
+      "start": 49.396,
+      "end": 50.317,
+      "speaker": "SPEAKER_01",
+      "text": "Din mediul online."
+    },
+    {
+      "start": 50.637,
+      "end": 54.399,
+      "speaker": "SPEAKER_01",
+      "text": "Am văzut că aveți niște băieți la marketing, de fapt, rămă super mega bună."
+    },
+    {
+      "start": 54.9,
+      "end": 59.563,
+      "speaker": "SPEAKER_00",
+      "text": "Bine, spuneți-mi și mie din ce cauza ne vedem azi."
+    },
+    {
+      "start": 60.263,
+      "end": 78.935,
+      "speaker": "SPEAKER_01",
+      "text": "M-am văzut de dimineață cu o restricție foarte mare la gât, în momentul în care mă întorc gâtul spre dreapta, mă doare mai tare, nu pot să învărt capul prea mult în dreapta și se întinde durerea și pe toracal."
+    },
+    {
+      "start": 79.175,
+      "end": 79.775,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg."
+    },
+    {
+      "start": 79.795,
+      "end": 91.241,
+      "speaker": "SPEAKER_00",
+      "text": "De la 0 la 10 e cam cât de deranjant ar fi această problemă."
+    },
+    {
+      "start": 91.321,
+      "end": 91.401,
+      "speaker": "SPEAKER_00",
+      "text": "7."
+    },
+    {
+      "start": 91.441,
+      "end": 93.422,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 93.442,
+      "end": 95.223,
+      "speaker": "SPEAKER_01",
+      "text": "Spuneți că nu puteți să întoarce scapul spre dreapta."
+    },
+    {
+      "start": 95.543,
+      "end": 96.584,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, foarte mult."
+    },
+    {
+      "start": 96.604,
+      "end": 96.824,
+      "speaker": "SPEAKER_01",
+      "text": "Ați mai"
+    },
+    {
+      "start": 96.844,
+      "end": 99.105,
+      "speaker": "SPEAKER_00",
+      "text": "avut problema aceasta?"
+    },
+    {
+      "start": 99.165,
+      "end": 101.446,
+      "speaker": "SPEAKER_01",
+      "text": "Tot așa că n-am dormit prost."
+    },
+    {
+      "start": 101.486,
+      "end": 102.527,
+      "speaker": "SPEAKER_01",
+      "text": "De-ați dormit prost."
+    },
+    {
+      "start": 105.445,
+      "end": 106.926,
+      "speaker": "SPEAKER_01",
+      "text": "Și se duce durea de apătura caldă."
+    },
+    {
+      "start": 107.647,
+      "end": 108.968,
+      "speaker": "SPEAKER_00",
+      "text": "Doar pe partea dreaptă se duce și durea?"
+    },
+    {
+      "start": 109.888,
+      "end": 110.289,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 110.309,
+      "end": 112.27,
+      "speaker": "SPEAKER_00",
+      "text": "Când se duce înspre durea cald sau doare și în stânga?"
+    },
+    {
+      "start": 113.031,
+      "end": 114.832,
+      "speaker": "SPEAKER_01",
+      "text": "Se duce, nu știu, pe mijloc, așa."
+    },
+    {
+      "start": 115.172,
+      "end": 120.356,
+      "speaker": "SPEAKER_01",
+      "text": "Dar cred că mai mult pe partea stângă, pe fâșia aia în"
+    },
+    {
+      "start": 120.396,
+      "end": 120.536,
+      "speaker": "SPEAKER_00",
+      "text": "stânga."
+    },
+    {
+      "start": 120.556,
+      "end": 122.197,
+      "speaker": "SPEAKER_00",
+      "text": "Deci pe stânga, nu pe dreapta, da?"
+    },
+    {
+      "start": 122.237,
+      "end": 122.938,
+      "speaker": "SPEAKER_00",
+      "text": "Da, când mă uit"
+    },
+    {
+      "start": 122.958,
+      "end": 123.498,
+      "speaker": "SPEAKER_01",
+      "text": "spre dreapta,"
+    },
+    {
+      "start": 123.518,
+      "end": 123.879,
+      "speaker": "SPEAKER_00",
+      "text": "se duce"
+    },
+    {
+      "start": 123.939,
+      "end": 124.859,
+      "speaker": "SPEAKER_01",
+      "text": "pe durea cald stânga."
+    },
+    {
+      "start": 125.44,
+      "end": 126.1,
+      "speaker": "SPEAKER_01",
+      "text": "Am serios."
+    },
+    {
+      "start": 126.2,
+      "end": 127.942,
+      "speaker": "SPEAKER_01",
+      "text": "Cred."
+    },
+    {
+      "start": 128.402,
+      "end": 129.323,
+      "speaker": "SPEAKER_00",
+      "text": "Hai să vedem, domnule."
+    },
+    {
+      "start": 131.162,
+      "end": 137.366,
+      "speaker": "SPEAKER_00",
+      "text": "Alte probleme, cum ar fi tensiune, diabete, epilepsie?"
+    },
+    {
+      "start": 137.506,
+      "end": 140.207,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 140.227,
+      "end": 141.288,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale?"
+    },
+    {
+      "start": 141.788,
+      "end": 141.948,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 142.328,
+      "end": 145.49,
+      "speaker": "SPEAKER_00",
+      "text": "Traumatisme, fracturi, accidente, implanturi?"
+    },
+    {
+      "start": 146.531,
+      "end": 148.052,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 148.112,
+      "end": 149.593,
+      "speaker": "SPEAKER_00",
+      "text": "Bol cu transmitere prin sânge?"
+    },
+    {
+      "start": 151.033,
+      "end": 151.214,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 151.374,
+      "end": 153.975,
+      "speaker": "SPEAKER_00",
+      "text": "Stimulator cardiac?"
+    },
+    {
+      "start": 153.995,
+      "end": 154.155,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 154.175,
+      "end": 154.876,
+      "speaker": "SPEAKER_00",
+      "text": "Luați medicamente?"
+    },
+    {
+      "start": 154.936,
+      "end": 155.076,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 160.37,
+      "end": 161.15,
+      "speaker": "SPEAKER_00",
+      "text": "Alergii aveți?"
+    },
+    {
+      "start": 161.791,
+      "end": 163.112,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 163.152,
+      "end": 164.953,
+      "speaker": "SPEAKER_00",
+      "text": "La ce aveți alergii?"
+    },
+    {
+      "start": 165.033,
+      "end": 167.954,
+      "speaker": "SPEAKER_01",
+      "text": "La puf."
+    },
+    {
+      "start": 167.975,
+      "end": 171.156,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți alergia la puf?"
+    },
+    {
+      "start": 171.196,
+      "end": 172.617,
+      "speaker": "SPEAKER_00",
+      "text": "Sau la praf?"
+    },
+    {
+      "start": 172.657,
+      "end": 174.558,
+      "speaker": "SPEAKER_01",
+      "text": "Sau la praf?"
+    },
+    {
+      "start": 174.598,
+      "end": 176.179,
+      "speaker": "SPEAKER_00",
+      "text": "Păi ia vă întreb, la puf sau la praf?"
+    },
+    {
+      "start": 176.439,
+      "end": 178.241,
+      "speaker": "SPEAKER_01",
+      "text": "Cred că la ambele."
+    },
+    {
+      "start": 182.183,
+      "end": 182.463,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 182.723,
+      "end": 183.664,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți în picioare."
+    },
+    {
+      "start": 184.544,
+      "end": 187.526,
+      "speaker": "SPEAKER_00",
+      "text": "Spatele la mine."
+    },
+    {
+      "start": 188.953,
+      "end": 191.495,
+      "speaker": "SPEAKER_00",
+      "text": "Voi apăsa aici, pe zona trapezului, în partea dreaptă."
+    },
+    {
+      "start": 191.535,
+      "end": 192.135,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 192.395,
+      "end": 192.716,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 193.216,
+      "end": 194.317,
+      "speaker": "SPEAKER_00",
+      "text": "Doare la fel și în stânga?"
+    },
+    {
+      "start": 194.457,
+      "end": 196.138,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 196.178,
+      "end": 198.639,
+      "speaker": "SPEAKER_00",
+      "text": "Aici, pe zona de supra-spinos, doare în dreapta?"
+    },
+    {
+      "start": 198.82,
+      "end": 199.98,
+      "speaker": "SPEAKER_00",
+      "text": "Un pic."
+    },
+    {
+      "start": 200.02,
+      "end": 200.781,
+      "speaker": "SPEAKER_00",
+      "text": "Pe stânga?"
+    },
+    {
+      "start": 201.541,
+      "end": 201.862,
+      "speaker": "SPEAKER_00",
+      "text": "Un pic."
+    },
+    {
+      "start": 201.982,
+      "end": 202.422,
+      "speaker": "SPEAKER_00",
+      "text": "Mai deloc."
+    },
+    {
+      "start": 202.442,
+      "end": 204.663,
+      "speaker": "SPEAKER_00",
+      "text": "Stați cu spatea cu la mine."
+    },
+    {
+      "start": 204.924,
+      "end": 208.186,
+      "speaker": "SPEAKER_00",
+      "text": "Vreau să întoarceți scapul în partea dreaptă."
+    },
+    {
+      "start": 208.206,
+      "end": 211.348,
+      "speaker": "SPEAKER_00",
+      "text": "Îmi vedeți umărul?"
+    },
+    {
+      "start": 211.628,
+      "end": 211.968,
+      "speaker": "SPEAKER_00",
+      "text": "Un pic."
+    },
+    {
+      "start": 212.008,
+      "end": 212.669,
+      "speaker": "SPEAKER_00",
+      "text": "Fața mea vedeți?"
+    },
+    {
+      "start": 212.709,
+      "end": 212.769,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 212.789,
+      "end": 216.011,
+      "speaker": "SPEAKER_00",
+      "text": "În partea stângă."
+    },
+    {
+      "start": 223.54,
+      "end": 226.543,
+      "speaker": "SPEAKER_00",
+      "text": "În zona asta de aici de romboiți doare?"
+    },
+    {
+      "start": 226.683,
+      "end": 227.603,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 227.864,
+      "end": 229.785,
+      "speaker": "SPEAKER_00",
+      "text": "Pe partea stângă doare?"
+    },
+    {
+      "start": 230.046,
+      "end": 230.486,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 231.026,
+      "end": 231.747,
+      "speaker": "SPEAKER_00",
+      "text": "Și aici mai jos?"
+    },
+    {
+      "start": 231.787,
+      "end": 232.047,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 232.468,
+      "end": 234.329,
+      "speaker": "SPEAKER_01",
+      "text": "Bun."
+    },
+    {
+      "start": 234.409,
+      "end": 236.171,
+      "speaker": "SPEAKER_00",
+      "text": "În față, în pectoralul mic, pe dreapta."
+    },
+    {
+      "start": 236.211,
+      "end": 236.971,
+      "speaker": "SPEAKER_00",
+      "text": "Pe stângă doare?"
+    },
+    {
+      "start": 237.051,
+      "end": 237.172,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 237.192,
+      "end": 238.032,
+      "speaker": "SPEAKER_00",
+      "text": "Pe dreapta, la"
+    },
+    {
+      "start": 238.072,
+      "end": 239.614,
+      "speaker": "SPEAKER_01",
+      "text": "fel?"
+    },
+    {
+      "start": 239.714,
+      "end": 242.276,
+      "speaker": "SPEAKER_01",
+      "text": "Mai"
+    },
+    {
+      "start": 242.376,
+      "end": 242.496,
+      "speaker": "SPEAKER_00",
+      "text": "puțin."
+    },
+    {
+      "start": 242.556,
+      "end": 242.916,
+      "speaker": "SPEAKER_00",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 242.956,
+      "end": 245.358,
+      "speaker": "SPEAKER_00",
+      "text": "Sterno, crede-mă, asta e diametul pe partea stângă doare?"
+    },
+    {
+      "start": 245.398,
+      "end": 246.84,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 246.92,
+      "end": 248.041,
+      "speaker": "SPEAKER_00",
+      "text": "Cominte, dom'le."
+    },
+    {
+      "start": 248.161,
+      "end": 249.542,
+      "speaker": "SPEAKER_00",
+      "text": "Pe partea dreapta doare."
+    },
+    {
+      "start": 254.92,
+      "end": 258.223,
+      "speaker": "SPEAKER_00",
+      "text": "Să spici că acesta ar fi un torticolis Da?"
+    },
+    {
+      "start": 258.703,
+      "end": 267.89,
+      "speaker": "SPEAKER_00",
+      "text": "Da, se întâmplă de obicei dacă dormim prost"
+    },
+    {
+      "start": 267.99,
+      "end": 273.615,
+      "speaker": "SPEAKER_01",
+      "text": "Am dormit prost Cum fac să mai dorm prost?"
+    },
+    {
+      "start": 273.655,
+      "end": 275.356,
+      "speaker": "SPEAKER_00",
+      "text": "Vă culcați târziu, dormiți destul Așa și"
+    },
+    {
+      "start": 275.856,
+      "end": 276.277,
+      "speaker": "SPEAKER_01",
+      "text": "așa"
+    },
+    {
+      "start": 285.475,
+      "end": 286.215,
+      "speaker": "SPEAKER_00",
+      "text": "Când dormiți pe"
+    },
+    {
+      "start": 287.756,
+      "end": 289.637,
+      "speaker": "SPEAKER_01",
+      "text": "burtă."
+    },
+    {
+      "start": 289.657,
+      "end": 290.678,
+      "speaker": "SPEAKER_01",
+      "text": "N-am treabă."
+    },
+    {
+      "start": 290.738,
+      "end": 292.519,
+      "speaker": "SPEAKER_01",
+      "text": "Atunci am treabă, atunci mai doare."
+    },
+    {
+      "start": 292.559,
+      "end": 296.001,
+      "speaker": "SPEAKER_01",
+      "text": "Când dormiți pe burtă, dormiți cu o pernă sub glezne,"
+    },
+    {
+      "start": 296.021,
+      "end": 296.061,
+      "speaker": "SPEAKER_00",
+      "text": "cu"
+    },
+    {
+      "start": 296.341,
+      "end": 296.821,
+      "speaker": "SPEAKER_01",
+      "text": "o pernă sub"
+    },
+    {
+      "start": 296.881,
+      "end": 298.682,
+      "speaker": "SPEAKER_00",
+      "text": "burtă sau dormiți pur și simplu lemn?"
+    },
+    {
+      "start": 299.383,
+      "end": 300.523,
+      "speaker": "SPEAKER_00",
+      "text": "Lemn."
+    },
+    {
+      "start": 300.844,
+      "end": 309.949,
+      "speaker": "SPEAKER_00",
+      "text": "O pernă sub cap."
+    },
+    {
+      "start": 310.029,
+      "end": 310.629,
+      "speaker": "SPEAKER_00",
+      "text": "Bună."
+    },
+    {
+      "start": 311.595,
+      "end": 318.246,
+      "speaker": "SPEAKER_00",
+      "text": "Va trebui să reducem tensiunea musculară din partea de experiența al capului, din partea de trapez de coafa rotatorie,"
+    },
+    {
+      "start": 318.266,
+      "end": 320.95,
+      "speaker": "SPEAKER_01",
+      "text": "ca ulterior să putem lucra pe partea de mobilitate."
+    },
+    {
+      "start": 321.992,
+      "end": 323.394,
+      "speaker": "SPEAKER_01",
+      "text": "Haideți pe masa să trecem la treabă."
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio14.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 0.712,
+      "end": 2.033,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, domnul Căpșună."
+    },
+    {
+      "start": 2.513,
+      "end": 2.873,
+      "speaker": "SPEAKER_00",
+      "text": "Eu sunt."
+    },
+    {
+      "start": 3.233,
+      "end": 5.535,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți cu mine la domnul doctor să începem consultația."
+    },
+    {
+      "start": 5.555,
+      "end": 5.956,
+      "speaker": "SPEAKER_00",
+      "text": "Sigur,"
+    },
+    {
+      "start": 6.076,
+      "end": 7.977,
+      "speaker": "SPEAKER_01",
+      "text": "sigur, sigur."
+    },
+    {
+      "start": 7.997,
+      "end": 8.878,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 8.918,
+      "end": 11.019,
+      "speaker": "SPEAKER_01",
+      "text": "Să trăiți."
+    },
+    {
+      "start": 11.079,
+      "end": 11.78,
+      "speaker": "SPEAKER_01",
+      "text": "Căpșună, Robert."
+    },
+    {
+      "start": 11.94,
+      "end": 17.724,
+      "speaker": "SPEAKER_01",
+      "text": "Căpșună, Robert, încântat de cunoștință, doctor Paul."
+    },
+    {
+      "start": 19.286,
+      "end": 20.266,
+      "speaker": "SPEAKER_00",
+      "text": "Încântat domnule Paul."
+    },
+    {
+      "start": 21.498,
+      "end": 23.199,
+      "speaker": "SPEAKER_00",
+      "text": "Deci eu cam"
+    },
+    {
+      "start": 23.239,
+      "end": 23.939,
+      "speaker": "SPEAKER_01",
+      "text": "cum să vă spun."
+    },
+    {
+      "start": 23.979,
+      "end": 25.28,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, da."
+    },
+    {
+      "start": 25.38,
+      "end": 28.842,
+      "speaker": "SPEAKER_00",
+      "text": "Îmi mă doare când stau mult în picioare și când merg."
+    },
+    {
+      "start": 29.302,
+      "end": 32.664,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă ridic ceva și rămân într-un loc obiecturile"
+    },
+    {
+      "start": 41.323,
+      "end": 41.744,
+      "speaker": "SPEAKER_01",
+      "text": "Paul."
+    },
+    {
+      "start": 42.044,
+      "end": 43.106,
+      "speaker": "SPEAKER_00",
+      "text": "Paul."
+    },
+    {
+      "start": 43.166,
+      "end": 44.708,
+      "speaker": "SPEAKER_00",
+      "text": "Domnule, Paul, seara, când mă pun în"
+    },
+    {
+      "start": 45.029,
+      "end": 45.369,
+      "speaker": "SPEAKER_01",
+      "text": "pat,"
+    },
+    {
+      "start": 45.389,
+      "end": 48.033,
+      "speaker": "SPEAKER_00",
+      "text": "mă arde toată talpa cu tot cu"
+    },
+    {
+      "start": 48.193,
+      "end": 48.634,
+      "speaker": "SPEAKER_01",
+      "text": "călcâi."
+    },
+    {
+      "start": 48.654,
+      "end": 50.296,
+      "speaker": "SPEAKER_01",
+      "text": "Și dacă nu stăm în picior așa, doare, nu?"
+    },
+    {
+      "start": 50.857,
+      "end": 51.318,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 51.919,
+      "end": 53.12,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă nu stăm în picioare, doare."
+    },
+    {
+      "start": 53.501,
+      "end": 56.205,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, doar când mă pun după o zi de muncă în pat,"
+    },
+    {
+      "start": 56.825,
+      "end": 57.486,
+      "speaker": "SPEAKER_01",
+      "text": "Mântul are o jumată"
+    },
+    {
+      "start": 57.506,
+      "end": 59.126,
+      "speaker": "SPEAKER_00",
+      "text": "de-o oră, după aceea îmi trece."
+    },
+    {
+      "start": 59.166,
+      "end": 59.947,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 60.007,
+      "end": 60.107,
+      "speaker": "SPEAKER_00",
+      "text": "Eu"
+    },
+    {
+      "start": 60.167,
+      "end": 66.47,
+      "speaker": "SPEAKER_01",
+      "text": "să lăsa asta pulsativ, adică simțiți că e... Adică pulsează ceva acolo?"
+    },
+    {
+      "start": 66.51,
+      "end": 66.89,
+      "speaker": "SPEAKER_01",
+      "text": "Pulsează."
+    },
+    {
+      "start": 66.97,
+      "end": 67.09,
+      "speaker": "SPEAKER_01",
+      "text": "Da?"
+    },
+    {
+      "start": 67.11,
+      "end": 68.211,
+      "speaker": "SPEAKER_01",
+      "text": "Bun."
+    },
+    {
+      "start": 68.271,
+      "end": 70.932,
+      "speaker": "SPEAKER_01",
+      "text": "Vreau să-mi spune și mie, cam câți ani aveți dumneavoastră?"
+    },
+    {
+      "start": 72.756,
+      "end": 73.097,
+      "speaker": "SPEAKER_01",
+      "text": "48."
+    },
+    {
+      "start": 73.217,
+      "end": 76.621,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 76.661,
+      "end": 80.405,
+      "speaker": "SPEAKER_01",
+      "text": "Cam pe o scară de la 1 la 10, cam cât de tare doare, așa, când stăți în picioare?"
+    },
+    {
+      "start": 80.625,
+      "end": 82.267,
+      "speaker": "SPEAKER_00",
+      "text": "În picioare mă doare, dă un 8,"
+    },
+    {
+      "start": 82.287,
+      "end": 82.968,
+      "speaker": "SPEAKER_01",
+      "text": "9."
+    },
+    {
+      "start": 83.008,
+      "end": 85.651,
+      "speaker": "SPEAKER_01",
+      "text": "8, 9, ok. Deci ne afectează calitatea vieții, e clar."
+    },
+    {
+      "start": 85.671,
+      "end": 86.271,
+      "speaker": "SPEAKER_00",
+      "text": "Afectează."
+    },
+    {
+      "start": 86.712,
+      "end": 88.434,
+      "speaker": "SPEAKER_00",
+      "text": "Nu pot să-mi fac treaba cum trebuie, nu?"
+    },
+    {
+      "start": 88.694,
+      "end": 89.295,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 89.375,
+      "end": 90.156,
+      "speaker": "SPEAKER_01",
+      "text": "Bolii cronice."
+    },
+    {
+      "start": 90.756,
+      "end": 93.299,
+      "speaker": "SPEAKER_00",
+      "text": "Bolii cronice, ce înseamnă buntul ăsta cronici?"
+    },
+    {
+      "start": 94.738,
+      "end": 96.179,
+      "speaker": "SPEAKER_01",
+      "text": "Intervenții chirurgicale ceva aveam?"
+    },
+    {
+      "start": 96.259,
+      "end": 98.42,
+      "speaker": "SPEAKER_00",
+      "text": "N-am intervenții chirurgicale."
+    },
+    {
+      "start": 98.52,
+      "end": 101.002,
+      "speaker": "SPEAKER_01",
+      "text": "Și medicamentații o luăm?"
+    },
+    {
+      "start": 101.082,
+      "end": 101.522,
+      "speaker": "SPEAKER_01",
+      "text": "Nu iau"
+    },
+    {
+      "start": 101.562,
+      "end": 103.884,
+      "speaker": "SPEAKER_00",
+      "text": "absolut nicio pastire, nu-mi plac pastirele astea."
+    },
+    {
+      "start": 103.964,
+      "end": 104.304,
+      "speaker": "SPEAKER_01",
+      "text": "Vă plac"
+    },
+    {
+      "start": 104.324,
+      "end": 105.865,
+      "speaker": "SPEAKER_00",
+      "text": "prafurile."
+    },
+    {
+      "start": 105.885,
+      "end": 107.145,
+      "speaker": "SPEAKER_00",
+      "text": "Să știți că prafur mai iau."
+    },
+    {
+      "start": 107.626,
+      "end": 108.186,
+      "speaker": "SPEAKER_00",
+      "text": "Ce le luați?"
+    },
+    {
+      "start": 108.706,
+      "end": 112.629,
+      "speaker": "SPEAKER_00",
+      "text": "Vitamina C. Mai iau ginseng."
+    },
+    {
+      "start": 114.723,
+      "end": 115.364,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, am înțeles."
+    },
+    {
+      "start": 115.944,
+      "end": 117.745,
+      "speaker": "SPEAKER_01",
+      "text": "Le bag sub lingual."
+    },
+    {
+      "start": 117.765,
+      "end": 118.166,
+      "speaker": "SPEAKER_01",
+      "text": "A, lingual."
+    },
+    {
+      "start": 118.246,
+      "end": 119.667,
+      "speaker": "SPEAKER_01",
+      "text": "Da, sub lingual."
+    },
+    {
+      "start": 120.087,
+      "end": 122.969,
+      "speaker": "SPEAKER_01",
+      "text": "Bun, vreau să văd și eu dacă aici când am pus eu doare."
+    },
+    {
+      "start": 123.03,
+      "end": 124.511,
+      "speaker": "SPEAKER_01",
+      "text": "Doare, doamnă doctor, doare."
+    },
+    {
+      "start": 124.831,
+      "end": 126.212,
+      "speaker": "SPEAKER_01",
+      "text": "Bun, am înțeles."
+    },
+    {
+      "start": 126.252,
+      "end": 127.753,
+      "speaker": "SPEAKER_00",
+      "text": "Am mai făcut ceva, fizioterapie înainte?"
+    },
+    {
+      "start": 128.153,
+      "end": 132.077,
+      "speaker": "SPEAKER_00",
+      "text": "Fizioterapie n-am făcut niciodată, dar la un moment dat am văzut la cineva și m-a frecat așa pe tal."
+    },
+    {
+      "start": 132.117,
+      "end": 133.498,
+      "speaker": "SPEAKER_00",
+      "text": "Și a luat dorerea sau?"
+    },
+    {
+      "start": 133.518,
+      "end": 136.8,
+      "speaker": "SPEAKER_00",
+      "text": "N-a luat dorerea, m-a dorit și mai rău, dar nu am mai dus la el după că am văzut să"
+    },
+    {
+      "start": 136.84,
+      "end": 136.98,
+      "speaker": "SPEAKER_01",
+      "text": "doare."
+    },
+    {
+      "start": 137.241,
+      "end": 138.181,
+      "speaker": "SPEAKER_00",
+      "text": "Radiografie avem pe el?"
+    },
+    {
+      "start": 138.542,
+      "end": 140.163,
+      "speaker": "SPEAKER_00",
+      "text": "N-a luat și la radiografie, că nu mi-a zis nimeni."
+    },
+    {
+      "start": 140.403,
+      "end": 140.583,
+      "speaker": "SPEAKER_01",
+      "text": "Nu,"
+    },
+    {
+      "start": 140.683,
+      "end": 140.883,
+      "speaker": "SPEAKER_00",
+      "text": "nu v-a"
+    },
+    {
+      "start": 140.943,
+      "end": 141.264,
+      "speaker": "SPEAKER_01",
+      "text": "zis nimeni."
+    },
+    {
+      "start": 141.304,
+      "end": 141.404,
+      "speaker": "SPEAKER_01",
+      "text": "Nu"
+    },
+    {
+      "start": 141.444,
+      "end": 142.565,
+      "speaker": "SPEAKER_00",
+      "text": "mi-a zis nimeni să fac radiograf"
+    },
+    {
+      "start": 144.934,
+      "end": 147.875,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles, amulțește partea asta de călcăi, doar partea asta de călcăi?"
+    },
+    {
+      "start": 147.895,
+      "end": 147.976,
+      "speaker": "SPEAKER_01",
+      "text": "Nu"
+    },
+    {
+      "start": 147.996,
+      "end": 150.557,
+      "speaker": "SPEAKER_00",
+      "text": "amulțește nimic, domnule doctor, mă doare, mă doare rău de tot."
+    },
+    {
+      "start": 150.577,
+      "end": 152.278,
+      "speaker": "SPEAKER_00",
+      "text": "Hai să facem ceva, să-ți vorbim durerea asta."
+    },
+    {
+      "start": 152.298,
+      "end": 152.358,
+      "speaker": "SPEAKER_00",
+      "text": "Am"
+    },
+    {
+      "start": 152.378,
+      "end": 153.059,
+      "speaker": "SPEAKER_01",
+      "text": "înțeles, am înțeles."
+    },
+    {
+      "start": 153.079,
+      "end": 154.94,
+      "speaker": "SPEAKER_01",
+      "text": "Lăsați-mă pe mine să vorbesc, da, puțin până rămulez."
+    },
+    {
+      "start": 154.98,
+      "end": 155.36,
+      "speaker": "SPEAKER_01",
+      "text": "Sigur."
+    },
+    {
+      "start": 157.869,
+      "end": 162.51,
+      "speaker": "SPEAKER_01",
+      "text": "Când doare, dacă apăs aici, în bolta plantară doare, doare și aici."
+    },
+    {
+      "start": 162.57,
+      "end": 163.431,
+      "speaker": "SPEAKER_01",
+      "text": "Doare și atunci."
+    },
+    {
+      "start": 163.471,
+      "end": 165.291,
+      "speaker": "SPEAKER_01",
+      "text": "Deci ești și o mică faștită plantară, da?"
+    },
+    {
+      "start": 165.451,
+      "end": 167.332,
+      "speaker": "SPEAKER_01",
+      "text": "Poate fi, nu știu ce e aia, Domnul Dumnezeu."
+    },
+    {
+      "start": 167.372,
+      "end": 174.954,
+      "speaker": "SPEAKER_01",
+      "text": "Faștită plantare atunci când bolta plantară îi se strânge, practic, din cauza unui calcaneu, unui pitel calcanear."
+    },
+    {
+      "start": 175.234,
+      "end": 177.995,
+      "speaker": "SPEAKER_01",
+      "text": "Ce aveți dumneavoastră aici este un pintel calcanear aici."
+    },
+    {
+      "start": 178.215,
+      "end": 178.575,
+      "speaker": "SPEAKER_01",
+      "text": "Așa."
+    },
+    {
+      "start": 178.875,
+      "end": 179.375,
+      "speaker": "SPEAKER_01",
+      "text": "Ați înțeles?"
+    },
+    {
+      "start": 180.115,
+      "end": 186.097,
+      "speaker": "SPEAKER_01",
+      "text": "Ideea e că eu palpându-l nu prea pot să-l simt așa la mână, am nevoie de o radiografie sau un RMN."
+    },
+    {
+      "start": 187.317,
+      "end": 188.717,
+      "speaker": "SPEAKER_01",
+      "text": "Vreau să-mi dau și mie așa, eventual."
+    },
+    {
+      "start": 188.737,
+      "end": 189.017,
+      "speaker": "SPEAKER_01",
+      "text": "Am"
+    },
+    {
+      "start": 189.317,
+      "end": 189.777,
+      "speaker": "SPEAKER_00",
+      "text": "înțeles."
+    },
+    {
+      "start": 190.638,
+      "end": 192.238,
+      "speaker": "SPEAKER_00",
+      "text": "Păi facem o radiografie, domnule doctor."
+    },
+    {
+      "start": 192.338,
+      "end": 194.638,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți unde să mă duc să par radiografia."
+    },
+    {
+      "start": 195.379,
+      "end": 196.959,
+      "speaker": "SPEAKER_00",
+      "text": "La Medima, la noi."
+    },
+    {
+      "start": 197.654,
+      "end": 199.356,
+      "speaker": "SPEAKER_00",
+      "text": "Amindimă mă duc, da, țin că mă duc acum."
+    },
+    {
+      "start": 199.396,
+      "end": 200.176,
+      "speaker": "SPEAKER_00",
+      "text": "De ce asta aveți, domnule?"
+    },
+    {
+      "start": 200.356,
+      "end": 201.938,
+      "speaker": "SPEAKER_00",
+      "text": "Gata, așa facem."
+    },
+    {
+      "start": 201.958,
+      "end": 204.84,
+      "speaker": "SPEAKER_00",
+      "text": "Așa facem și vin după, după ce am aerografia, vin la dumneavoastră, da?"
+    },
+    {
+      "start": 204.86,
+      "end": 206.642,
+      "speaker": "SPEAKER_00",
+      "text": "Facem fizioterapie, facem absolut tot acesta."
+    },
+    {
+      "start": 206.682,
+      "end": 207.943,
+      "speaker": "SPEAKER_00",
+      "text": "Bine, bine, așa facem."
+    },
+    {
+      "start": 208.003,
+      "end": 210.125,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți că mă duc acum repede și vin înapoi."
+    }
+  ]
+}

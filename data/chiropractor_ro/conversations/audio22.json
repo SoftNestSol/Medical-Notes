@@ -1,0 +1,463 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio22.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 2.107,
+      "end": 3.429,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, domnul Lunca și Marian."
+    },
+    {
+      "start": 3.89,
+      "end": 7.135,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, domnule Jvarț."
+    },
+    {
+      "start": 7.416,
+      "end": 11.702,
+      "speaker": "SPEAKER_00",
+      "text": "Pentru începutul să vreau să vă întreb cu ce problemă ați venit la noi."
+    },
+    {
+      "start": 12.965,
+      "end": 34.692,
+      "speaker": "SPEAKER_01",
+      "text": "Băi, Șvarț, mă doare foarte tare umărul, deci nu mai pot de umăr, am ridicat acum două zile o etajeră acasă când m-a pus sevastă mea, nu mai pot și băi, am simțit că mi-a sărit umărul de aici, mi-a sărit, l-am ajustat eu cum am reușit să-l pun la loc, dar de atunci mă doare, nici nu pot să dorm pe partea asta stângă, unde mă doare umărul."
+    },
+    {
+      "start": 34.752,
+      "end": 35.572,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles și"
+    },
+    {
+      "start": 35.632,
+      "end": 35.972,
+      "speaker": "SPEAKER_00",
+      "text": "priority."
+    },
+    {
+      "start": 35.992,
+      "end": 37.312,
+      "speaker": "SPEAKER_00",
+      "text": "dar problema ar fi femeia"
+    },
+    {
+      "start": 37.512,
+      "end": 37.973,
+      "speaker": "SPEAKER_01",
+      "text": "sau omorul?"
+    },
+    {
+      "start": 38.453,
+      "end": 41.394,
+      "speaker": "SPEAKER_01",
+      "text": "Eu zic să rezolvăm omorul, că cu femeia n-avem ce să rezolvăm."
+    },
+    {
+      "start": 41.414,
+      "end": 42.574,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles, că am orice reați."
+    },
+    {
+      "start": 42.714,
+      "end": 43.054,
+      "speaker": "SPEAKER_01",
+      "text": "Boală grea"
+    },
+    {
+      "start": 43.074,
+      "end": 43.774,
+      "speaker": "SPEAKER_00",
+      "text": "acolo, da."
+    },
+    {
+      "start": 43.794,
+      "end": 45.495,
+      "speaker": "SPEAKER_00",
+      "text": "Da, da, da."
+    },
+    {
+      "start": 45.515,
+      "end": 49.016,
+      "speaker": "SPEAKER_00",
+      "text": "Vă doamne omorul, hai să vedem o scară de la 0 la 10, spuneți-mi."
+    },
+    {
+      "start": 49.036,
+      "end": 51.537,
+      "speaker": "SPEAKER_00",
+      "text": "În momentul în care facem mișcarea asta, doare?"
+    },
+    {
+      "start": 52.514,
+      "end": 54.256,
+      "speaker": "SPEAKER_00",
+      "text": "Da, da, doare."
+    },
+    {
+      "start": 54.316,
+      "end": 56.398,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult de 90 de grade nu pot să ridic."
+    },
+    {
+      "start": 56.418,
+      "end": 63.286,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles, dar dacă trecem de 90 de grade forțat până în 120, și după ce trecem de 120 mai doare?"
+    },
+    {
+      "start": 63.666,
+      "end": 64.007,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu."
+    },
+    {
+      "start": 64.287,
+      "end": 65.168,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă trecem acolo, nu."
+    },
+    {
+      "start": 65.448,
+      "end": 67.23,
+      "speaker": "SPEAKER_00",
+      "text": "Deci peste 120 nu mai doare."
+    },
+    {
+      "start": 67.571,
+      "end": 71.395,
+      "speaker": "SPEAKER_00",
+      "text": "Asta însemna că intră și mușchiul, telonul mușchului supraspinos în mișcare."
+    },
+    {
+      "start": 72.576,
+      "end": 73.897,
+      "speaker": "SPEAKER_00",
+      "text": "Vreau să știu în față dacă doare."
+    },
+    {
+      "start": 74.457,
+      "end": 75.318,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, în față nu."
+    },
+    {
+      "start": 75.338,
+      "end": 75.378,
+      "speaker": "SPEAKER_01",
+      "text": "În"
+    },
+    {
+      "start": 75.818,
+      "end": 76.259,
+      "speaker": "SPEAKER_00",
+      "text": "față nu."
+    },
+    {
+      "start": 76.359,
+      "end": 76.919,
+      "speaker": "SPEAKER_00",
+      "text": "În spate?"
+    },
+    {
+      "start": 77.219,
+      "end": 77.84,
+      "speaker": "SPEAKER_01",
+      "text": "Nici în spate."
+    },
+    {
+      "start": 78.38,
+      "end": 79.561,
+      "speaker": "SPEAKER_00",
+      "text": "Deci doar pe lateral, da?"
+    },
+    {
+      "start": 79.621,
+      "end": 79.821,
+      "speaker": "SPEAKER_00",
+      "text": "Da,"
+    },
+    {
+      "start": 80.481,
+      "end": 81.402,
+      "speaker": "SPEAKER_01",
+      "text": "doare dar nu mai pot."
+    },
+    {
+      "start": 81.522,
+      "end": 83.023,
+      "speaker": "SPEAKER_00",
+      "text": "Aici în față la presiune doare?"
+    },
+    {
+      "start": 83.623,
+      "end": 84.804,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, se simte."
+    },
+    {
+      "start": 85.284,
+      "end": 86.565,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10?"
+    },
+    {
+      "start": 87.306,
+      "end": 88.166,
+      "speaker": "SPEAKER_01",
+      "text": "Aici la presiune?"
+    },
+    {
+      "start": 88.727,
+      "end": 91.508,
+      "speaker": "SPEAKER_01",
+      "text": "Da, să zicem 4-5 așa."
+    },
+    {
+      "start": 93.5,
+      "end": 95.281,
+      "speaker": "SPEAKER_01",
+      "text": "Dar durerea mare o am în lateral."
+    },
+    {
+      "start": 95.301,
+      "end": 96.242,
+      "speaker": "SPEAKER_01",
+      "text": "Durerea mare ar"
+    },
+    {
+      "start": 96.302,
+      "end": 96.382,
+      "speaker": "SPEAKER_00",
+      "text": "fi"
+    },
+    {
+      "start": 96.402,
+      "end": 96.442,
+      "speaker": "SPEAKER_01",
+      "text": "în"
+    },
+    {
+      "start": 96.462,
+      "end": 96.842,
+      "speaker": "SPEAKER_00",
+      "text": "lateral?"
+    },
+    {
+      "start": 96.923,
+      "end": 100.765,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo pot să zic că mă duc spre 8, 9, adică e rău de tot, nu pot să ții mâna"
+    },
+    {
+      "start": 101.346,
+      "end": 101.746,
+      "speaker": "SPEAKER_00",
+      "text": "acolo."
+    },
+    {
+      "start": 101.786,
+      "end": 106.95,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, ok, ok, ok. Ăsta din față ar fi tendonul Croacobra fial."
+    },
+    {
+      "start": 106.97,
+      "end": 109.512,
+      "speaker": "SPEAKER_00",
+      "text": "Și aici, în deltoidul posterior, doare și aici, da?"
+    },
+    {
+      "start": 109.792,
+      "end": 109.912,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 110.873,
+      "end": 111.113,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 111.413,
+      "end": 114.495,
+      "speaker": "SPEAKER_00",
+      "text": "Hai să vizim că am și mușul spraspinos de care vorbeam."
+    },
+    {
+      "start": 114.535,
+      "end": 114.795,
+      "speaker": "SPEAKER_00",
+      "text": "Doare"
+    },
+    {
+      "start": 114.815,
+      "end": 115.056,
+      "speaker": "SPEAKER_01",
+      "text": "rău?"
+    },
+    {
+      "start": 115.676,
+      "end": 116.797,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, da, nu mai pot."
+    },
+    {
+      "start": 117.097,
+      "end": 118.338,
+      "speaker": "SPEAKER_00",
+      "text": "Ar dorea mai rău aici?"
+    },
+    {
+      "start": 119.041,
+      "end": 120.002,
+      "speaker": "SPEAKER_00",
+      "text": "Ca aici, da?"
+    },
+    {
+      "start": 120.022,
+      "end": 121.983,
+      "speaker": "SPEAKER_00",
+      "text": "Da, doare rău de tot."
+    },
+    {
+      "start": 122.003,
+      "end": 124.404,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 124.424,
+      "end": 127.506,
+      "speaker": "SPEAKER_00",
+      "text": "Bun domnule."
+    },
+    {
+      "start": 127.526,
+      "end": 132.669,
+      "speaker": "SPEAKER_00",
+      "text": "Eu zic că putem să începem deja să lucrăm pe reducerea inflamației pe toată centura scapulohumerală."
+    },
+    {
+      "start": 132.709,
+      "end": 137.071,
+      "speaker": "SPEAKER_00",
+      "text": "Vă mai trebuie întâi să verific doi mușchi, infraspinosul și rotundul."
+    },
+    {
+      "start": 137.111,
+      "end": 140.073,
+      "speaker": "SPEAKER_00",
+      "text": "Îți spunem dacă doare în infraspinos."
+    },
+    {
+      "start": 140.173,
+      "end": 142.194,
+      "speaker": "SPEAKER_00",
+      "text": "Da, da, se simte ceva, da."
+    },
+    {
+      "start": 142.214,
+      "end": 144.175,
+      "speaker": "SPEAKER_00",
+      "text": "Aici rotund ar trebui să doară destul de tare."
+    },
+    {
+      "start": 144.235,
+      "end": 144.555,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 145.135,
+      "end": 146.396,
+      "speaker": "SPEAKER_00",
+      "text": "Da, da."
+    },
+    {
+      "start": 147.137,
+      "end": 147.937,
+      "speaker": "SPEAKER_00",
+      "text": "În regulă."
+    },
+    {
+      "start": 150.016,
+      "end": 157.98,
+      "speaker": "SPEAKER_00",
+      "text": "Atunci să trecem la treabă, o să începem cu partea de fizioterapie, ulterior să lucrăm pe terapie manuală, ca să putem să dăm drumul articulației, da?"
+    },
+    {
+      "start": 158.521,
+      "end": 159.041,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 159.081,
+      "end": 161.322,
+      "speaker": "SPEAKER_01",
+      "text": "Și în cât timp credeți că reușim să rezolvăm problema?"
+    },
+    {
+      "start": 161.823,
+      "end": 165.865,
+      "speaker": "SPEAKER_00",
+      "text": "Eu zic că chiar și după prima ședință vă veți simți mai bine, dar n-ai să dăm undeva la 4-5 ședințe."
+    },
+    {
+      "start": 166.245,
+      "end": 169.867,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles, pentru că vreau să rezolv problema asta că vă dați seama am nevoie de umar."
+    },
+    {
+      "start": 171.688,
+      "end": 175.21,
+      "speaker": "SPEAKER_00",
+      "text": "Bineînțeles, și automat dacă aveți nevoie de umar..."
+    },
+    {
+      "start": 175.743,
+      "end": 179.086,
+      "speaker": "SPEAKER_00",
+      "text": "Ar fi ideal să nu vă străziți soția în viitoarea perioadă."
+    },
+    {
+      "start": 179.706,
+      "end": 179.926,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 179.966,
+      "end": 180.747,
+      "speaker": "SPEAKER_00",
+      "text": "Stânga e mâna mea"
+    },
+    {
+      "start": 180.887,
+      "end": 181.788,
+      "speaker": "SPEAKER_01",
+      "text": "bună și mai pleacă."
+    },
+    {
+      "start": 182.188,
+      "end": 183.87,
+      "speaker": "SPEAKER_00",
+      "text": "Păi nu, că o să vă ajute soția cu mâna."
+    },
+    {
+      "start": 186.432,
+      "end": 186.972,
+      "speaker": "SPEAKER_00",
+      "text": "Bine."
+    }
+  ]
+}

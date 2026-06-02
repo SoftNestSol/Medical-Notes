@@ -1,0 +1,421 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio35.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 1.778,
+      "end": 2.639,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua domnule."
+    },
+    {
+      "start": 2.659,
+      "end": 3.699,
+      "speaker": "SPEAKER_01",
+      "text": "Spuneți-mi și mie vă rog mâna."
+    },
+    {
+      "start": 4.06,
+      "end": 4.8,
+      "speaker": "SPEAKER_00",
+      "text": "Angel Marian."
+    },
+    {
+      "start": 5.321,
+      "end": 5.861,
+      "speaker": "SPEAKER_01",
+      "text": "Angel Marian."
+    },
+    {
+      "start": 6.581,
+      "end": 7.902,
+      "speaker": "SPEAKER_01",
+      "text": "În numele meu este și frate Emanuel."
+    },
+    {
+      "start": 8.183,
+      "end": 10.124,
+      "speaker": "SPEAKER_01",
+      "text": "Vă rog să-mi spuneți vă rog cu ce problemă ne vedem"
+    },
+    {
+      "start": 10.284,
+      "end": 10.824,
+      "speaker": "SPEAKER_00",
+      "text": "astăzi."
+    },
+    {
+      "start": 10.844,
+      "end": 11.985,
+      "speaker": "SPEAKER_00",
+      "text": "Tatăl sunt foarte bătrân."
+    },
+    {
+      "start": 12.025,
+      "end": 13.246,
+      "speaker": "SPEAKER_00",
+      "text": "Am 73 de ani."
+    },
+    {
+      "start": 14.627,
+      "end": 16.388,
+      "speaker": "SPEAKER_00",
+      "text": "Și îți dai să mă doar toate alea."
+    },
+    {
+      "start": 16.428,
+      "end": 18.23,
+      "speaker": "SPEAKER_00",
+      "text": "Vreau venit aici să mă simt mai bine."
+    },
+    {
+      "start": 18.27,
+      "end": 21.452,
+      "speaker": "SPEAKER_00",
+      "text": "Și nu mai pot de spate, de picioare."
+    },
+    {
+      "start": 21.532,
+      "end": 22.352,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles domnule."
+    },
+    {
+      "start": 22.372,
+      "end": 25.054,
+      "speaker": "SPEAKER_01",
+      "text": "Avem și imagistică, RMM."
+    },
+    {
+      "start": 25.234,
+      "end": 25.375,
+      "speaker": "SPEAKER_01",
+      "text": "Da,"
+    },
+    {
+      "start": 25.455,
+      "end": 25.935,
+      "speaker": "SPEAKER_00",
+      "text": "uite."
+    },
+    {
+      "start": 25.995,
+      "end": 27.756,
+      "speaker": "SPEAKER_00",
+      "text": "Ți-am adus, ți-am adus."
+    },
+    {
+      "start": 27.776,
+      "end": 29.778,
+      "speaker": "SPEAKER_01",
+      "text": "Avem și un text de exa."
+    },
+    {
+      "start": 29.858,
+      "end": 30.318,
+      "speaker": "SPEAKER_00",
+      "text": "Da, uite."
+    },
+    {
+      "start": 32.361,
+      "end": 34.162,
+      "speaker": "SPEAKER_01",
+      "text": "V-a vazut si un neurolog, un ortoped?"
+    },
+    {
+      "start": 34.182,
+      "end": 35.423,
+      "speaker": "SPEAKER_00",
+      "text": "Am fost prin toti medicii."
+    },
+    {
+      "start": 36.184,
+      "end": 40.909,
+      "speaker": "SPEAKER_00",
+      "text": "Mai mi s-a recomandat de la domnul Dr. Angel Salini sa ajung aici."
+    },
+    {
+      "start": 41.569,
+      "end": 42.57,
+      "speaker": "SPEAKER_00",
+      "text": "Domnul Dr. Neurolog."
+    },
+    {
+      "start": 42.631,
+      "end": 43.672,
+      "speaker": "SPEAKER_00",
+      "text": "Deci trebuie recomandarea."
+    },
+    {
+      "start": 43.952,
+      "end": 46.694,
+      "speaker": "SPEAKER_00",
+      "text": "Da, de la un Dr. Neurolog."
+    },
+    {
+      "start": 47.916,
+      "end": 50.959,
+      "speaker": "SPEAKER_01",
+      "text": "Vat ca rezultate de aici data ca avea si eu stiu poros."
+    },
+    {
+      "start": 51.059,
+      "end": 54.122,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 54.142,
+      "end": 56.424,
+      "speaker": "SPEAKER_01",
+      "text": "Spune-ti-mi vreo de cat timp au inceput durerea?"
+    },
+    {
+      "start": 57.687,
+      "end": 61.691,
+      "speaker": "SPEAKER_00",
+      "text": "Îți bătrân, îți dai seama și cu vârsta, în caut să mă mențin."
+    },
+    {
+      "start": 61.771,
+      "end": 67.316,
+      "speaker": "SPEAKER_00",
+      "text": "Dar a început, așa să zic, de vreo trei luni de zile, patru luni de zile, mă rupe."
+    },
+    {
+      "start": 67.336,
+      "end": 69.878,
+      "speaker": "SPEAKER_00",
+      "text": "Înainte era mai suportabil, acum a început să se agraveze."
+    },
+    {
+      "start": 69.898,
+      "end": 71.199,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg."
+    },
+    {
+      "start": 74.542,
+      "end": 77.945,
+      "speaker": "SPEAKER_01",
+      "text": "Cum vă doare?"
+    },
+    {
+      "start": 77.965,
+      "end": 78.225,
+      "speaker": "SPEAKER_00",
+      "text": "Mult."
+    },
+    {
+      "start": 79.166,
+      "end": 81.368,
+      "speaker": "SPEAKER_01",
+      "text": "Mult vă doare, dar în ce zonă vă doare mai mult?"
+    },
+    {
+      "start": 82.144,
+      "end": 86.047,
+      "speaker": "SPEAKER_00",
+      "text": "Spatele nu mai pot, de spate si de picioare, adica simt calectarei dupa mine"
+    },
+    {
+      "start": 86.468,
+      "end": 92.952,
+      "speaker": "SPEAKER_01",
+      "text": "Asta vreau sa o stiu, in zona de jos, in zona de toraci, in zona de ceruri, in zona de jos Cum ti-ar spune, shalele, da?"
+    },
+    {
+      "start": 92.992,
+      "end": 93.473,
+      "speaker": "SPEAKER_01",
+      "text": "Shalele"
+    },
+    {
+      "start": 93.533,
+      "end": 93.613,
+      "speaker": "SPEAKER_00",
+      "text": "Si"
+    },
+    {
+      "start": 94.954,
+      "end": 96.715,
+      "speaker": "SPEAKER_01",
+      "text": "spuneti ca se lasa si pe picioare"
+    },
+    {
+      "start": 97.296,
+      "end": 98.216,
+      "speaker": "SPEAKER_00",
+      "text": "Pe picioare, da"
+    },
+    {
+      "start": 98.296,
+      "end": 102.079,
+      "speaker": "SPEAKER_01",
+      "text": "Pe picioare, le simtim slapite, simtim ca nu avem force in ele"
+    },
+    {
+      "start": 102.3,
+      "end": 105.002,
+      "speaker": "SPEAKER_00",
+      "text": "Da, exact, si le trag dupa mine asa"
+    },
+    {
+      "start": 106.022,
+      "end": 107.904,
+      "speaker": "SPEAKER_01",
+      "text": "Da"
+    },
+    {
+      "start": 108.244,
+      "end": 108.884,
+      "speaker": "SPEAKER_00",
+      "text": "Merg mai greu Vad"
+    },
+    {
+      "start": 109.125,
+      "end": 110.286,
+      "speaker": "SPEAKER_01",
+      "text": "pe mine ca aveti si"
+    },
+    {
+      "start": 113.759,
+      "end": 120.962,
+      "speaker": "SPEAKER_01",
+      "text": "Am făcut ceva pentru acestea?"
+    },
+    {
+      "start": 121.402,
+      "end": 123.943,
+      "speaker": "SPEAKER_01",
+      "text": "Aceasta este pretabilă operație."
+    },
+    {
+      "start": 124.023,
+      "end": 124.763,
+      "speaker": "SPEAKER_00",
+      "text": "Am făcut, da."
+    },
+    {
+      "start": 124.903,
+      "end": 127.705,
+      "speaker": "SPEAKER_00",
+      "text": "Sunt operat la două dintre ele."
+    },
+    {
+      "start": 127.785,
+      "end": 128.325,
+      "speaker": "SPEAKER_00",
+      "text": "Adică am fost."
+    },
+    {
+      "start": 128.605,
+      "end": 130.826,
+      "speaker": "SPEAKER_01",
+      "text": "Și remenelul acesta e post operator?"
+    },
+    {
+      "start": 136.089,
+      "end": 140.691,
+      "speaker": "SPEAKER_01",
+      "text": "A fost o perioadă când n-a mai durut, după a început să doară iar rău."
+    },
+    {
+      "start": 162.582,
+      "end": 166.665,
+      "speaker": "SPEAKER_00",
+      "text": "Am făcut, nu prea mi-a plăcut, dar am făcut de-astea exerciții."
+    },
+    {
+      "start": 166.725,
+      "end": 166.965,
+      "speaker": "SPEAKER_00",
+      "text": "Cât timp"
+    },
+    {
+      "start": 167.025,
+      "end": 169.627,
+      "speaker": "SPEAKER_01",
+      "text": "v-ați făcut exerciții?"
+    },
+    {
+      "start": 169.647,
+      "end": 170.888,
+      "speaker": "SPEAKER_01",
+      "text": "Trebuia să le faceți din trei"
+    },
+    {
+      "start": 171.248,
+      "end": 171.348,
+      "speaker": "SPEAKER_00",
+      "text": "luni."
+    },
+    {
+      "start": 171.368,
+      "end": 177.973,
+      "speaker": "SPEAKER_00",
+      "text": "Am făcut o lună jumătate, dar nu îmi plăcea, mi se părea, nu îți vedea interesul, stăteau pe telefon."
+    },
+    {
+      "start": 178.774,
+      "end": 179.354,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 180.415,
+      "end": 181.215,
+      "speaker": "SPEAKER_01",
+      "text": "Cumva"
+    },
+    {
+      "start": 181.616,
+      "end": 181.976,
+      "speaker": "SPEAKER_00",
+      "text": "la valeriana?"
+    },
+    {
+      "start": 181.996,
+      "end": 182.817,
+      "speaker": "SPEAKER_00",
+      "text": "Da, exact."
+    },
+    {
+      "start": 183.297,
+      "end": 191.863,
+      "speaker": "SPEAKER_00",
+      "text": "Și am înțeles că aici sunt, cum să vă zic, eu nu am așa încredere, dar dacă am venit de la domnul doctor am înțeles că aici treaba să facem serios."
+    },
+    {
+      "start": 193.12,
+      "end": 194.801,
+      "speaker": "SPEAKER_01",
+      "text": "Îmi mulțumim foarte mult, domnulele, pe recomandare."
+    },
+    {
+      "start": 195.461,
+      "end": 202.505,
+      "speaker": "SPEAKER_01",
+      "text": "Spuneți-mi și dacă ați mai făcut vreodată ce facem noi aici pe elongații vertebrale, cu mobilizare articulare."
+    },
+    {
+      "start": 202.565,
+      "end": 210.169,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, tată, mi-a zis domnul doctor că am nevoie de elongații vertebrale și n-am mai făcut, nici nu știu ce înseamn."
+    },
+    {
+      "start": 210.629,
+      "end": 214.331,
+      "speaker": "SPEAKER_01",
+      "text": "Haideți cu mine în cerul la cabinet ca să vă pot arăta, după care începem și terapie."
+    },
+    {
+      "start": 214.811,
+      "end": 221.715,
+      "speaker": "SPEAKER_01",
+      "text": "După a trebui să lucrăm mult cu aceste elongații vertebrale pentru a putea reduce hernia de disc."
+    }
+  ]
+}

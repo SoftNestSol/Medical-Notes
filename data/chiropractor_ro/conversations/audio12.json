@@ -1,0 +1,427 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio12.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 0.583,
+      "end": 0.943,
+      "speaker": "SPEAKER_00",
+      "text": "Bună"
+    },
+    {
+      "start": 1.103,
+      "end": 1.423,
+      "speaker": "SPEAKER_01",
+      "text": "ziua."
+    },
+    {
+      "start": 1.443,
+      "end": 3.064,
+      "speaker": "SPEAKER_00",
+      "text": "Numele meu este Angel Marian."
+    },
+    {
+      "start": 3.464,
+      "end": 4.564,
+      "speaker": "SPEAKER_00",
+      "text": "Foarte mai domnule, încântat."
+    },
+    {
+      "start": 4.584,
+      "end": 4.964,
+      "speaker": "SPEAKER_00",
+      "text": "Încântat."
+    },
+    {
+      "start": 6.044,
+      "end": 9.765,
+      "speaker": "SPEAKER_01",
+      "text": "Spuneți-mi, domnule Angel, cu ce problemă ne vedem?"
+    },
+    {
+      "start": 9.785,
+      "end": 17.127,
+      "speaker": "SPEAKER_00",
+      "text": "Păi am o problemă la genunchi, mă doare aici sub genunchi foarte tare, nu știu."
+    },
+    {
+      "start": 17.267,
+      "end": 19.768,
+      "speaker": "SPEAKER_01",
+      "text": "Deci durerea este localizată sub genunchi?"
+    },
+    {
+      "start": 19.988,
+      "end": 20.068,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 20.088,
+      "end": 22.469,
+      "speaker": "SPEAKER_01",
+      "text": "În lateral îmi doare, în spatele genunchiul nu îmi doare."
+    },
+    {
+      "start": 22.529,
+      "end": 23.589,
+      "speaker": "SPEAKER_01",
+      "text": "Da, decât sub genunchi doare."
+    },
+    {
+      "start": 24.069,
+      "end": 27.99,
+      "speaker": "SPEAKER_01",
+      "text": "Cum doare mai tare în momentul în care urcăm scările, în care coborăm scările, când ne trezim?"
+    },
+    {
+      "start": 28.423,
+      "end": 32.165,
+      "speaker": "SPEAKER_00",
+      "text": "În general, când mă trezesc și când urc scările, așa, când îl întind."
+    },
+    {
+      "start": 32.905,
+      "end": 35.226,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 35.246,
+      "end": 37.548,
+      "speaker": "SPEAKER_01",
+      "text": "Spuneți-mi dumneavoastră și vârsta, vă"
+    },
+    {
+      "start": 37.568,
+      "end": 39.629,
+      "speaker": "SPEAKER_00",
+      "text": "rog."
+    },
+    {
+      "start": 40.089,
+      "end": 40.809,
+      "speaker": "SPEAKER_00",
+      "text": "Am 48 de ani."
+    },
+    {
+      "start": 41.83,
+      "end": 43.35,
+      "speaker": "SPEAKER_01",
+      "text": "Mulți înainte, domnule."
+    },
+    {
+      "start": 44.011,
+      "end": 50.754,
+      "speaker": "SPEAKER_01",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde ne-am situat cu trăirea din zona respectivă."
+    },
+    {
+      "start": 51.795,
+      "end": 54.196,
+      "speaker": "SPEAKER_00",
+      "text": "Mă doare cam de un 7 așa, 8."
+    },
+    {
+      "start": 55.136,
+      "end": 56.616,
+      "speaker": "SPEAKER_01",
+      "text": "Cam de un 7, 8 de 10 de rău."
+    },
+    {
+      "start": 56.976,
+      "end": 57.416,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da."
+    },
+    {
+      "start": 57.436,
+      "end": 59.877,
+      "speaker": "SPEAKER_01",
+      "text": "Adică calitatea vieții e stricată din cauza acestei dureri, da?"
+    },
+    {
+      "start": 59.897,
+      "end": 61.177,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 61.557,
+      "end": 64.357,
+      "speaker": "SPEAKER_01",
+      "text": "Bun, ați mai făcut terapie în altă parte până acum pentru problema asta?"
+    },
+    {
+      "start": 64.377,
+      "end": 64.558,
+      "speaker": "SPEAKER_01",
+      "text": "Nu,"
+    },
+    {
+      "start": 64.598,
+      "end": 64.738,
+      "speaker": "SPEAKER_00",
+      "text": "nu, nu."
+    },
+    {
+      "start": 65.678,
+      "end": 66.138,
+      "speaker": "SPEAKER_01",
+      "text": "E prima oară când"
+    },
+    {
+      "start": 66.158,
+      "end": 66.838,
+      "speaker": "SPEAKER_00",
+      "text": "faceți terapie?"
+    },
+    {
+      "start": 67.058,
+      "end": 68.358,
+      "speaker": "SPEAKER_00",
+      "text": "E prima oară când fac terapie, da."
+    },
+    {
+      "start": 69.038,
+      "end": 72.639,
+      "speaker": "SPEAKER_01",
+      "text": "Ia, mai spuneți nici mie dacă aveți și alte probleme, de exemplu tensiune mare, diabet?"
+    },
+    {
+      "start": 74.079,
+      "end": 77.4,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, am o mică tensiune, dar în rest sunt ok."
+    },
+    {
+      "start": 78.336,
+      "end": 80.717,
+      "speaker": "SPEAKER_01",
+      "text": "O tensiune care e menționată cu pastire sau nu luați nimic?"
+    },
+    {
+      "start": 81.137,
+      "end": 81.817,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, iau nimic,"
+    },
+    {
+      "start": 81.917,
+      "end": 82.057,
+      "speaker": "SPEAKER_01",
+      "text": "nu."
+    },
+    {
+      "start": 82.877,
+      "end": 83.537,
+      "speaker": "SPEAKER_01",
+      "text": "Alergii avem?"
+    },
+    {
+      "start": 84.698,
+      "end": 85.418,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 85.438,
+      "end": 87.018,
+      "speaker": "SPEAKER_01",
+      "text": "Implanturi?"
+    },
+    {
+      "start": 87.058,
+      "end": 87.758,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, nu, nu."
+    },
+    {
+      "start": 88.298,
+      "end": 89.059,
+      "speaker": "SPEAKER_01",
+      "text": "Nici operații, da?"
+    },
+    {
+      "start": 89.079,
+      "end": 90.739,
+      "speaker": "SPEAKER_01",
+      "text": "Nici operații, nu."
+    },
+    {
+      "start": 90.779,
+      "end": 92.279,
+      "speaker": "SPEAKER_01",
+      "text": "Bun, haideți să și verificăm, vă"
+    },
+    {
+      "start": 92.319,
+      "end": 92.84,
+      "speaker": "SPEAKER_00",
+      "text": "rog."
+    },
+    {
+      "start": 93.34,
+      "end": 96.92,
+      "speaker": "SPEAKER_00",
+      "text": "V-așezați pe masă cu fața în sus."
+    },
+    {
+      "start": 97.101,
+      "end": 99.201,
+      "speaker": "SPEAKER_01",
+      "text": "Și îmi spuneți dacă doare în zona asta."
+    },
+    {
+      "start": 99.341,
+      "end": 100.601,
+      "speaker": "SPEAKER_01",
+      "text": "Voi apăsați zona de menisc."
+    },
+    {
+      "start": 101.282,
+      "end": 101.602,
+      "speaker": "SPEAKER_01",
+      "text": "Doare?"
+    },
+    {
+      "start": 102.082,
+      "end": 103.202,
+      "speaker": "SPEAKER_01",
+      "text": "Doare puțin, da."
+    },
+    {
+      "start": 105.341,
+      "end": 105.901,
+      "speaker": "SPEAKER_01",
+      "text": "Doare puțin."
+    },
+    {
+      "start": 105.961,
+      "end": 108.103,
+      "speaker": "SPEAKER_01",
+      "text": "Când mă duc în ligamentul colateral-lateral, doare?"
+    },
+    {
+      "start": 108.303,
+      "end": 108.983,
+      "speaker": "SPEAKER_01",
+      "text": "Doare puțin, doare."
+    },
+    {
+      "start": 109.204,
+      "end": 110.865,
+      "speaker": "SPEAKER_01",
+      "text": "Doare mai tare aici decât în față?"
+    },
+    {
+      "start": 110.985,
+      "end": 111.085,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 112.366,
+      "end": 113.867,
+      "speaker": "SPEAKER_01",
+      "text": "Când mă duc în cel medial, doare?"
+    },
+    {
+      "start": 114.087,
+      "end": 114.247,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 114.888,
+      "end": 115.068,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 116.349,
+      "end": 122.453,
+      "speaker": "SPEAKER_01",
+      "text": "Deci doar în momentul în care m-am dus pe lateral și aici e mai mult o durere radiantă decât să fie acolo problema în sine."
+    },
+    {
+      "start": 122.733,
+      "end": 123.554,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 123.694,
+      "end": 123.854,
+      "speaker": "SPEAKER_01",
+      "text": "Bun."
+    },
+    {
+      "start": 124.194,
+      "end": 131.72,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu e neapărat o problemă în zonele respective, o problemă pe ligamentul colateral-lateral care radiază în față."
+    },
+    {
+      "start": 132.485,
+      "end": 140.188,
+      "speaker": "SPEAKER_01",
+      "text": "Ce vom avea noi de făcut e să facem în primă fază procedurile anti-inflamatorii, cum ar fi tecarterapie sau ultrasunet, curenți."
+    },
+    {
+      "start": 140.749,
+      "end": 143.13,
+      "speaker": "SPEAKER_01",
+      "text": "Vedem, bineînțeles, și cum răspunde organismul dumneavoastră."
+    },
+    {
+      "start": 143.91,
+      "end": 147.751,
+      "speaker": "SPEAKER_01",
+      "text": "Și ulterior vom trece și la partea de terapie manuală, de neobilizare, articular."
+    },
+    {
+      "start": 147.791,
+      "end": 149.992,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă ați mai făcut, ați spus că nu ați mai făcut terapie, deci nu a făcut"
+    },
+    {
+      "start": 150.012,
+      "end": 151.093,
+      "speaker": "SPEAKER_00",
+      "text": "aduna."
+    },
+    {
+      "start": 151.153,
+      "end": 153.214,
+      "speaker": "SPEAKER_01",
+      "text": "Sport ați făcut până acum?"
+    },
+    {
+      "start": 153.274,
+      "end": 154.934,
+      "speaker": "SPEAKER_00",
+      "text": "Am făcut când era mai mic, că acum nu a"
+    },
+    {
+      "start": 155.615,
+      "end": 155.735,
+      "speaker": "SPEAKER_01",
+      "text": "făcut."
+    },
+    {
+      "start": 155.755,
+      "end": 157.175,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles, deci va fi ceva de lucru."
+    },
+    {
+      "start": 157.496,
+      "end": 158.636,
+      "speaker": "SPEAKER_01",
+      "text": "Haideți să trecem la treabă."
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio34.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 1.742,
+      "end": 2.082,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 2.102,
+      "end": 3.683,
+      "speaker": "SPEAKER_00",
+      "text": "Șvarță Manu este numele meu."
+    },
+    {
+      "start": 3.743,
+      "end": 4.284,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 4.344,
+      "end": 6.305,
+      "speaker": "SPEAKER_00",
+      "text": "Andrei Bucur mă numesc."
+    },
+    {
+      "start": 6.625,
+      "end": 7.626,
+      "speaker": "SPEAKER_00",
+      "text": "Încânta domnule Bucur."
+    },
+    {
+      "start": 7.686,
+      "end": 10.447,
+      "speaker": "SPEAKER_00",
+      "text": "Vârsta dumneavoastră?"
+    },
+    {
+      "start": 11.088,
+      "end": 11.428,
+      "speaker": "SPEAKER_00",
+      "text": "24 de ani."
+    },
+    {
+      "start": 11.488,
+      "end": 12.088,
+      "speaker": "SPEAKER_00",
+      "text": "24 de ani."
+    },
+    {
+      "start": 12.829,
+      "end": 13.309,
+      "speaker": "SPEAKER_00",
+      "text": "Tinere."
+    },
+    {
+      "start": 13.869,
+      "end": 14.25,
+      "speaker": "SPEAKER_00",
+      "text": "Mulțumesc."
+    },
+    {
+      "start": 14.27,
+      "end": 17.612,
+      "speaker": "SPEAKER_00",
+      "text": "În ce problemă ne vedem?"
+    },
+    {
+      "start": 17.632,
+      "end": 23.755,
+      "speaker": "SPEAKER_00",
+      "text": "Am o problemă cu... cu mandibul ăla, presupun, nu știu, dar nu mai pot să deschid gura foarte mult."
+    },
+    {
+      "start": 24.055,
+      "end": 25.536,
+      "speaker": "SPEAKER_00",
+      "text": "Ne-am îndată, nu pot să o ridic."
+    },
+    {
+      "start": 25.596,
+      "end": 26.117,
+      "speaker": "SPEAKER_00",
+      "text": "Să o deschid."
+    },
+    {
+      "start": 26.557,
+      "end": 28.378,
+      "speaker": "SPEAKER_01",
+      "text": "Dar când dați-mi gura pe care ar fi gradul?"
+    },
+    {
+      "start": 29.429,
+      "end": 30.069,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 30.129,
+      "end": 31.931,
+      "speaker": "SPEAKER_01",
+      "text": "V-a văzut și un stomatolog sau un ortodont?"
+    },
+    {
+      "start": 31.971,
+      "end": 32.251,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu."
+    },
+    {
+      "start": 33.271,
+      "end": 34.292,
+      "speaker": "SPEAKER_01",
+      "text": "Am venit direct la tine."
+    },
+    {
+      "start": 34.832,
+      "end": 35.353,
+      "speaker": "SPEAKER_00",
+      "text": "Direct la mine."
+    },
+    {
+      "start": 35.553,
+      "end": 36.814,
+      "speaker": "SPEAKER_01",
+      "text": "Și avești o radiografie făcută?"
+    },
+    {
+      "start": 36.834,
+      "end": 36.954,
+      "speaker": "SPEAKER_01",
+      "text": "Ar fi"
+    },
+    {
+      "start": 37.034,
+      "end": 40.356,
+      "speaker": "SPEAKER_00",
+      "text": "foarte utile ca să vedem exact coiția continuă."
+    },
+    {
+      "start": 40.376,
+      "end": 49.281,
+      "speaker": "SPEAKER_00",
+      "text": "E mai mult am fost la o petrecere și am consumat anumite chestii și am mestecat multă gumă și acum am așa ca o febră."
+    },
+    {
+      "start": 49.922,
+      "end": 51.462,
+      "speaker": "SPEAKER_00",
+      "text": "Avem o febră în zona respectivă, da?"
+    },
+    {
+      "start": 51.482,
+      "end": 52.323,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 58.109,
+      "end": 59.19,
+      "speaker": "SPEAKER_01",
+      "text": "Voi hidratați?"
+    },
+    {
+      "start": 59.31,
+      "end": 61.813,
+      "speaker": "SPEAKER_01",
+      "text": "Mai încet în pula mea."
+    },
+    {
+      "start": 61.873,
+      "end": 63.634,
+      "speaker": "SPEAKER_01",
+      "text": "Voi hidratați?"
+    },
+    {
+      "start": 63.714,
+      "end": 65.075,
+      "speaker": "SPEAKER_00",
+      "text": "M-am hidratat mult la putrecerea"
+    },
+    {
+      "start": 65.095,
+      "end": 65.456,
+      "speaker": "SPEAKER_01",
+      "text": "asta, da."
+    },
+    {
+      "start": 65.516,
+      "end": 66.216,
+      "speaker": "SPEAKER_01",
+      "text": "Aia aveam să știu."
+    },
+    {
+      "start": 66.717,
+      "end": 68.899,
+      "speaker": "SPEAKER_01",
+      "text": "Antecedente medicale avem?"
+    },
+    {
+      "start": 68.919,
+      "end": 69.68,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 70.06,
+      "end": 70.881,
+      "speaker": "SPEAKER_01",
+      "text": "Alergii avem?"
+    },
+    {
+      "start": 71.721,
+      "end": 73.843,
+      "speaker": "SPEAKER_01",
+      "text": "La puf."
+    },
+    {
+      "start": 74.003,
+      "end": 74.644,
+      "speaker": "SPEAKER_01",
+      "text": "La puf."
+    },
+    {
+      "start": 74.664,
+      "end": 75.164,
+      "speaker": "SPEAKER_01",
+      "text": "La puf, da."
+    },
+    {
+      "start": 75.525,
+      "end": 77.086,
+      "speaker": "SPEAKER_01",
+      "text": "Și la acarie."
+    },
+    {
+      "start": 77.106,
+      "end": 78.007,
+      "speaker": "SPEAKER_01",
+      "text": "Înțeleză."
+    },
+    {
+      "start": 78.767,
+      "end": 80.608,
+      "speaker": "SPEAKER_01",
+      "text": "La medicamente sau pastire nu avem."
+    },
+    {
+      "start": 81.388,
+      "end": 83.629,
+      "speaker": "SPEAKER_01",
+      "text": "Anestezic ați mai făcut?"
+    },
+    {
+      "start": 83.649,
+      "end": 84.749,
+      "speaker": "SPEAKER_01",
+      "text": "Anestezic ați mai făcut?"
+    },
+    {
+      "start": 84.829,
+      "end": 85.549,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 87.07,
+      "end": 93.852,
+      "speaker": "SPEAKER_01",
+      "text": "Vreau să vă uitați la mine, să deschideți gura lari cât puteți dumneavoastră."
+    },
+    {
+      "start": 96.713,
+      "end": 102.735,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, să închidem ușor și facem mișcarea de câteva ori."
+    },
+    {
+      "start": 102.935,
+      "end": 106.256,
+      "speaker": "SPEAKER_01",
+      "text": "Vreau să puneți limba pe cerul gurii și să înghițiți."
+    },
+    {
+      "start": 125.783,
+      "end": 128.204,
+      "speaker": "SPEAKER_01",
+      "text": "Pe partea strângă, la fel, mai puțin."
+    },
+    {
+      "start": 129.905,
+      "end": 133.847,
+      "speaker": "SPEAKER_01",
+      "text": "Vreau să știu aici, dacă vreau."
+    },
+    {
+      "start": 133.867,
+      "end": 133.968,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 134.028,
+      "end": 137.249,
+      "speaker": "SPEAKER_01",
+      "text": "Deci maseterul este inflamat pe partea dreapta."
+    },
+    {
+      "start": 137.69,
+      "end": 144.473,
+      "speaker": "SPEAKER_01",
+      "text": "Cum pot observa și dumneavoastră, tinde să închideți gura și să o deschideți înclinată spre partea dreapta."
+    },
+    {
+      "start": 144.593,
+      "end": 145.954,
+      "speaker": "SPEAKER_01",
+      "text": "Moare."
+    },
+    {
+      "start": 146.034,
+      "end": 146.274,
+      "speaker": "SPEAKER_01",
+      "text": "Moare."
+    },
+    {
+      "start": 147.255,
+      "end": 149.856,
+      "speaker": "SPEAKER_01",
+      "text": "Vreau să deschideți gura."
+    },
+    {
+      "start": 149.896,
+      "end": 151.597,
+      "speaker": "SPEAKER_01",
+      "text": "Deja merge puțin mai mult, da?"
+    },
+    {
+      "start": 152.038,
+      "end": 152.898,
+      "speaker": "SPEAKER_01",
+      "text": "Închidem ușor."
+    },
+    {
+      "start": 155.179,
+      "end": 156.52,
+      "speaker": "SPEAKER_01",
+      "text": "A vă rog?"
+    },
+    {
+      "start": 156.76,
+      "end": 157.521,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 157.941,
+      "end": 158.761,
+      "speaker": "SPEAKER_01",
+      "text": "Nu prea."
+    },
+    {
+      "start": 159.282,
+      "end": 160.862,
+      "speaker": "SPEAKER_01",
+      "text": "Nu prea."
+    },
+    {
+      "start": 160.963,
+      "end": 170.368,
+      "speaker": "SPEAKER_01",
+      "text": "Vreau să deschideți gura ușor cât puteți, scoateți limba afară, o mușcați ușor și înghițiți."
+    },
+    {
+      "start": 170.568,
+      "end": 173.55,
+      "speaker": "SPEAKER_01",
+      "text": "Reușim, da?"
+    },
+    {
+      "start": 173.57,
+      "end": 174.53,
+      "speaker": "SPEAKER_01",
+      "text": "Ați reușit să înghiți?"
+    },
+    {
+      "start": 174.911,
+      "end": 178.072,
+      "speaker": "SPEAKER_01",
+      "text": "O scoatem puțin mai mult."
+    },
+    {
+      "start": 178.092,
+      "end": 178.973,
+      "speaker": "SPEAKER_01",
+      "text": "Mușcam ușor și înghițim."
+    },
+    {
+      "start": 181.399,
+      "end": 183.08,
+      "speaker": "SPEAKER_01",
+      "text": "Nu reușim?"
+    },
+    {
+      "start": 183.301,
+      "end": 187.084,
+      "speaker": "SPEAKER_01",
+      "text": "Ok. Asta e un test pentru a verifica musculatura anterioră a gâtului, da?"
+    },
+    {
+      "start": 187.344,
+      "end": 189.606,
+      "speaker": "SPEAKER_01",
+      "text": "Putem să ne oprim din a încerca să ne mușcăm limba și să înghițim."
+    },
+    {
+      "start": 189.666,
+      "end": 190.807,
+      "speaker": "SPEAKER_01",
+      "text": "Văd că nu reușiți."
+    },
+    {
+      "start": 191.567,
+      "end": 194.13,
+      "speaker": "SPEAKER_01",
+      "text": "Vreau să știu dacă doare aici."
+    },
+    {
+      "start": 194.15,
+      "end": 194.77,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 194.79,
+      "end": 195.851,
+      "speaker": "SPEAKER_01",
+      "text": "Doar mă ginează."
+    },
+    {
+      "start": 195.891,
+      "end": 197.552,
+      "speaker": "SPEAKER_01",
+      "text": "Vreau să știu dacă doare aici."
+    },
+    {
+      "start": 198.353,
+      "end": 198.513,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 198.893,
+      "end": 199.474,
+      "speaker": "SPEAKER_01",
+      "text": "Aici deloc, da?"
+    },
+    {
+      "start": 199.514,
+      "end": 201.616,
+      "speaker": "SPEAKER_01",
+      "text": "Bun."
+    },
+    {
+      "start": 201.896,
+      "end": 204.418,
+      "speaker": "SPEAKER_01",
+      "text": "Reușim să facem și o radiografie ca să putem să începe întreabă?"
+    },
+    {
+      "start": 205.704,
+      "end": 212.097,
+      "speaker": "SPEAKER_01",
+      "text": "Vreau neapărat să văd poziția congirului și cât de mult s-a comprimat tigamentul pe acesta."
+    },
+    {
+      "start": 214.001,
+      "end": 215.845,
+      "speaker": "SPEAKER_01",
+      "text": "Ne vedem, vezi, o săptămână când aveți teografic."
+    }
+  ]
+}

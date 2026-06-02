@@ -1,0 +1,751 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio28.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 3.003,
+      "end": 4.224,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, doamna Preotesu!"
+    },
+    {
+      "start": 4.244,
+      "end": 4.484,
+      "speaker": "SPEAKER_00",
+      "text": "Bună"
+    },
+    {
+      "start": 4.524,
+      "end": 7.046,
+      "speaker": "SPEAKER_01",
+      "text": "ziua!"
+    },
+    {
+      "start": 7.066,
+      "end": 10.069,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 10.449,
+      "end": 17.395,
+      "speaker": "SPEAKER_01",
+      "text": "Am migrene ocazional și am avut una foarte, foarte puternică acum vreo câteva zile."
+    },
+    {
+      "start": 18.106,
+      "end": 22.63,
+      "speaker": "SPEAKER_01",
+      "text": "Și m-am speriat un pic și am zis să vin la dumneavoastră să vedem despre ce este vorba."
+    },
+    {
+      "start": 22.65,
+      "end": 23.831,
+      "speaker": "SPEAKER_00",
+      "text": "Acum câteva zile ați spus."
+    },
+    {
+      "start": 24.832,
+      "end": 27.755,
+      "speaker": "SPEAKER_00",
+      "text": "Știți să-mi spuneți dacă a mai fost în ultima săptămână această stație de"
+    },
+    {
+      "start": 27.775,
+      "end": 29.296,
+      "speaker": "SPEAKER_01",
+      "text": "migrenă?"
+    },
+    {
+      "start": 29.356,
+      "end": 33.52,
+      "speaker": "SPEAKER_01",
+      "text": "După aceea nu, a fost acum vreo 5 zile, așa săptămâna trecută, bineri."
+    },
+    {
+      "start": 33.901,
+      "end": 36.923,
+      "speaker": "SPEAKER_00",
+      "text": "Pe parcursul unele luni, cât de frecventă e starea asta de"
+    },
+    {
+      "start": 36.943,
+      "end": 39.806,
+      "speaker": "SPEAKER_01",
+      "text": "migrenă?"
+    },
+    {
+      "start": 39.846,
+      "end": 42.268,
+      "speaker": "SPEAKER_01",
+      "text": "Se întâmplă cam o dată pe lună, de două ori."
+    },
+    {
+      "start": 42.869,
+      "end": 44.21,
+      "speaker": "SPEAKER_00",
+      "text": "O dată de două ori pe lună?"
+    },
+    {
+      "start": 45.593,
+      "end": 47.434,
+      "speaker": "SPEAKER_00",
+      "text": "Puteți să-mi spuneți vă rog și mi-e vârsta dumneavoastră?"
+    },
+    {
+      "start": 48.315,
+      "end": 48.495,
+      "speaker": "SPEAKER_01",
+      "text": "22."
+    },
+    {
+      "start": 49.255,
+      "end": 53.778,
+      "speaker": "SPEAKER_00",
+      "text": "Mulțumesc."
+    },
+    {
+      "start": 53.798,
+      "end": 60.041,
+      "speaker": "SPEAKER_00",
+      "text": "Senzația asta de migrene e doar pe o parte a capului sau se răsânge pe anul în două, în frunte, apare și tensiune oculară?"
+    },
+    {
+      "start": 60.721,
+      "end": 63.663,
+      "speaker": "SPEAKER_01",
+      "text": "Este... pornește cumva de la ceafă."
+    },
+    {
+      "start": 64.32,
+      "end": 65.621,
+      "speaker": "SPEAKER_00",
+      "text": "Chiar aici, la baza craniului?"
+    },
+    {
+      "start": 66.581,
+      "end": 66.661,
+      "speaker": null,
+      "text": "Da."
+    },
+    {
+      "start": 66.901,
+      "end": 68.202,
+      "speaker": "SPEAKER_00",
+      "text": "Și se duce în sus, pe cranii?"
+    },
+    {
+      "start": 68.222,
+      "end": 68.602,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 69.362,
+      "end": 69.862,
+      "speaker": "SPEAKER_00",
+      "text": "Pe ce parte?"
+    },
+    {
+      "start": 70.643,
+      "end": 71.323,
+      "speaker": "SPEAKER_00",
+      "text": "Sau pe amândouă?"
+    },
+    {
+      "start": 71.503,
+      "end": 74.164,
+      "speaker": "SPEAKER_01",
+      "text": "Lateral, așa, spre tâmple."
+    },
+    {
+      "start": 74.184,
+      "end": 74.945,
+      "speaker": "SPEAKER_00",
+      "text": "Lateral, spre tâmple."
+    },
+    {
+      "start": 75.265,
+      "end": 77.746,
+      "speaker": "SPEAKER_00",
+      "text": "Pe amândouă, în egală măsură, sunt mai mult pe unul dintre ele."
+    },
+    {
+      "start": 77.866,
+      "end": 79.527,
+      "speaker": "SPEAKER_01",
+      "text": "Cred că depinde."
+    },
+    {
+      "start": 80.007,
+      "end": 81.848,
+      "speaker": "SPEAKER_01",
+      "text": "N-am observat o continuitate."
+    },
+    {
+      "start": 82.388,
+      "end": 84.649,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde, n-am observat o continuitate."
+    },
+    {
+      "start": 84.669,
+      "end": 86.89,
+      "speaker": "SPEAKER_00",
+      "text": "Nici uneori pe dreapta, uneori pe stâng."
+    },
+    {
+      "start": 88.031,
+      "end": 88.091,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 88.131,
+      "end": 93.633,
+      "speaker": "SPEAKER_00",
+      "text": "În momentul acut, pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 înseamnă că e insuportabil,"
+    },
+    {
+      "start": 94.358,
+      "end": 96.06,
+      "speaker": "SPEAKER_00",
+      "text": "Cât de rău e?"
+    },
+    {
+      "start": 96.08,
+      "end": 99.063,
+      "speaker": "SPEAKER_01",
+      "text": "Ultim episod a fost rău, a fost 10."
+    },
+    {
+      "start": 99.844,
+      "end": 101.946,
+      "speaker": "SPEAKER_01",
+      "text": "În general este un 8."
+    },
+    {
+      "start": 102.086,
+      "end": 104.769,
+      "speaker": "SPEAKER_00",
+      "text": "În general este un 8."
+    },
+    {
+      "start": 104.789,
+      "end": 110.115,
+      "speaker": "SPEAKER_00",
+      "text": "Această migrenă vine la pachet și cu o stare de vomă, de greață, pierdând echilibru."
+    },
+    {
+      "start": 110.635,
+      "end": 115.861,
+      "speaker": "SPEAKER_01",
+      "text": "Ultima dată da, m-am culcat, m-am trezit plângând de la durerea de cap."
+    },
+    {
+      "start": 116.402,
+      "end": 122.528,
+      "speaker": "SPEAKER_01",
+      "text": "Și atunci da, veneți și cu o stare de cald frig și cu o stare de greață."
+    },
+    {
+      "start": 122.748,
+      "end": 123.509,
+      "speaker": "SPEAKER_00",
+      "text": "Să alergii avem?"
+    },
+    {
+      "start": 123.529,
+      "end": 124.289,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 124.89,
+      "end": 125.831,
+      "speaker": "SPEAKER_00",
+      "text": "Antecedente medicale?"
+    },
+    {
+      "start": 125.851,
+      "end": 128.473,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 128.513,
+      "end": 129.074,
+      "speaker": "SPEAKER_00",
+      "text": "Accidente?"
+    },
+    {
+      "start": 129.094,
+      "end": 130.455,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 130.915,
+      "end": 141.499,
+      "speaker": "SPEAKER_00",
+      "text": "accidente, ca un accident de mașină, o căzătură, dacă a încărat ceva și ne-a durut în momentul respectiv, ceva să pună presiune pe coloană?"
+    },
+    {
+      "start": 141.539,
+      "end": 147.682,
+      "speaker": "SPEAKER_01",
+      "text": "În ultima vreme nu, dar acum câteva luni am avut o căzătură."
+    },
+    {
+      "start": 147.702,
+      "end": 148.822,
+      "speaker": "SPEAKER_00",
+      "text": "Ați avut o căzătură."
+    },
+    {
+      "start": 149.563,
+      "end": 154.285,
+      "speaker": "SPEAKER_00",
+      "text": "În momentul în care ați avut căzătura s-a activat și migrenele sau nu ar fi corelate neacurat?"
+    },
+    {
+      "start": 154.485,
+      "end": 159.147,
+      "speaker": "SPEAKER_01",
+      "text": "Nu ar fi corelate, doar că după acea căzătură a venit episodul cel mai rău, să spun, deci"
+    },
+    {
+      "start": 161.06,
+      "end": 163.921,
+      "speaker": "SPEAKER_01",
+      "text": "Cum am căzut?"
+    },
+    {
+      "start": 163.941,
+      "end": 165.482,
+      "speaker": "SPEAKER_01",
+      "text": "De pe cal, direct pe noadă."
+    },
+    {
+      "start": 165.542,
+      "end": 165.902,
+      "speaker": "SPEAKER_01",
+      "text": "De"
+    },
+    {
+      "start": 166.722,
+      "end": 167.763,
+      "speaker": "SPEAKER_00",
+      "text": "pe cal, direct pe noadă?"
+    },
+    {
+      "start": 167.943,
+      "end": 169.884,
+      "speaker": "SPEAKER_01",
+      "text": "De la anulțimea de vreo 1,80-1,90."
+    },
+    {
+      "start": 169.924,
+      "end": 172.084,
+      "speaker": "SPEAKER_01",
+      "text": "Nu înțeles."
+    },
+    {
+      "start": 172.725,
+      "end": 175.886,
+      "speaker": "SPEAKER_01",
+      "text": "Plus aruncătura în sine, să zicem, 2 metri."
+    },
+    {
+      "start": 175.926,
+      "end": 178.387,
+      "speaker": "SPEAKER_00",
+      "text": "Simțim vreodată un disconfort la înrivertura calm?"
+    },
+    {
+      "start": 178.527,
+      "end": 180.428,
+      "speaker": "SPEAKER_00",
+      "text": "Sau un piept?"
+    },
+    {
+      "start": 180.448,
+      "end": 181.688,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 182.168,
+      "end": 185.29,
+      "speaker": "SPEAKER_00",
+      "text": "La baza gâtului jos, în fața anterior?"
+    },
+    {
+      "start": 185.35,
+      "end": 185.47,
+      "speaker": null,
+      "text": "Nu."
+    },
+    {
+      "start": 186.01,
+      "end": 186.55,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 190.625,
+      "end": 192.426,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să ne ridicăm picioare și să facem un test."
+    },
+    {
+      "start": 193.106,
+      "end": 194.747,
+      "speaker": "SPEAKER_00",
+      "text": "Hai pe bună, migrează și așa înțeleg."
+    },
+    {
+      "start": 194.807,
+      "end": 195.807,
+      "speaker": "SPEAKER_01",
+      "text": "L-am avut,"
+    },
+    {
+      "start": 195.907,
+      "end": 196.187,
+      "speaker": "SPEAKER_00",
+      "text": "dar."
+    },
+    {
+      "start": 196.207,
+      "end": 198.288,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Hai să ne ridicăm picioare și să facem un test."
+    },
+    {
+      "start": 198.548,
+      "end": 199.948,
+      "speaker": "SPEAKER_01",
+      "text": "Așa."
+    },
+    {
+      "start": 200.208,
+      "end": 208.671,
+      "speaker": "SPEAKER_00",
+      "text": "Voi avea nevoie de la dumneavoastră să dăm capul pe spate, să stăm în poziția asta, 15 secunde."
+    },
+    {
+      "start": 209.372,
+      "end": 217.915,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. 6, 7, 8, 9, 10, 11, 12, 13, 14, 15."
+    },
+    {
+      "start": 217.955,
+      "end": 218.475,
+      "speaker": "SPEAKER_00",
+      "text": "Revenim."
+    },
+    {
+      "start": 218.993,
+      "end": 221.896,
+      "speaker": "SPEAKER_00",
+      "text": "Vreau să știu dacă ne simțim amențită sau dacă avem cărtări de echilibru."
+    },
+    {
+      "start": 222.236,
+      "end": 223.277,
+      "speaker": "SPEAKER_01",
+      "text": "Amențită un pic."
+    },
+    {
+      "start": 223.297,
+      "end": 223.777,
+      "speaker": "SPEAKER_00",
+      "text": "Amențită un"
+    },
+    {
+      "start": 223.817,
+      "end": 225.139,
+      "speaker": "SPEAKER_01",
+      "text": "pic."
+    },
+    {
+      "start": 225.559,
+      "end": 227.14,
+      "speaker": "SPEAKER_00",
+      "text": "Vreau să știu dacă doare când aposești."
+    },
+    {
+      "start": 227.2,
+      "end": 227.921,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 228.301,
+      "end": 230.684,
+      "speaker": "SPEAKER_00",
+      "text": "Vreau să știu dacă doare la fel când aposești."
+    },
+    {
+      "start": 230.744,
+      "end": 231.004,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 231.384,
+      "end": 232.045,
+      "speaker": "SPEAKER_00",
+      "text": "Aici ești doare."
+    },
+    {
+      "start": 232.085,
+      "end": 233.706,
+      "speaker": "SPEAKER_01",
+      "text": "Pare că deranjează mai tare pe dreapta."
+    },
+    {
+      "start": 233.806,
+      "end": 235.388,
+      "speaker": "SPEAKER_00",
+      "text": "Mai tare pe dreapta."
+    },
+    {
+      "start": 235.448,
+      "end": 235.868,
+      "speaker": "SPEAKER_00",
+      "text": "Doare aici?"
+    },
+    {
+      "start": 235.928,
+      "end": 236.309,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 236.469,
+      "end": 237.93,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 238.05,
+      "end": 239.411,
+      "speaker": "SPEAKER_00",
+      "text": "Aplicăm capul în față."
+    },
+    {
+      "start": 247.75,
+      "end": 252.313,
+      "speaker": "SPEAKER_00",
+      "text": "În momentul în care mă duc în paravertebral, aici doare, da?"
+    },
+    {
+      "start": 252.373,
+      "end": 253.413,
+      "speaker": "SPEAKER_00",
+      "text": "Pe partea dreaptă."
+    },
+    {
+      "start": 253.513,
+      "end": 254.894,
+      "speaker": "SPEAKER_00",
+      "text": "Pe partea stângă, la fel."
+    },
+    {
+      "start": 254.914,
+      "end": 256.215,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, mai puțin pe stângă."
+    },
+    {
+      "start": 256.335,
+      "end": 257.335,
+      "speaker": null,
+      "text": "Mai puțin pe stângă."
+    },
+    {
+      "start": 257.475,
+      "end": 257.956,
+      "speaker": "SPEAKER_01",
+      "text": "Haideți cu"
+    },
+    {
+      "start": 257.996,
+      "end": 258.516,
+      "speaker": "SPEAKER_00",
+      "text": "fața la mine, vă"
+    },
+    {
+      "start": 258.576,
+      "end": 260.537,
+      "speaker": "SPEAKER_01",
+      "text": "rog."
+    },
+    {
+      "start": 260.677,
+      "end": 264.479,
+      "speaker": "SPEAKER_00",
+      "text": "Vreau să știu dacă doare în momentul în care apăsa aici pe dreapta."
+    },
+    {
+      "start": 264.539,
+      "end": 264.859,
+      "speaker": "SPEAKER_00",
+      "text": "Aici?"
+    },
+    {
+      "start": 266.841,
+      "end": 267.041,
+      "speaker": null,
+      "text": "Da."
+    },
+    {
+      "start": 267.141,
+      "end": 267.601,
+      "speaker": "SPEAKER_00",
+      "text": "La fel?"
+    },
+    {
+      "start": 267.621,
+      "end": 268.301,
+      "speaker": "SPEAKER_01",
+      "text": "Aici mai tare."
+    },
+    {
+      "start": 268.321,
+      "end": 271.243,
+      "speaker": "SPEAKER_01",
+      "text": "Acolo ce mai tare."
+    },
+    {
+      "start": 271.93,
+      "end": 276.553,
+      "speaker": "SPEAKER_00",
+      "text": "Deci pe dreapta doare mai tare ca pe stânga în zona de pectoral minor, da?"
+    },
+    {
+      "start": 276.653,
+      "end": 283.517,
+      "speaker": "SPEAKER_00",
+      "text": "Vreau să știu eu aici, când mă duc în sternocleidomasteria, pe partea sângă, dacă doare, apare și o tensiune la nivelul tâmplei?"
+    },
+    {
+      "start": 284.298,
+      "end": 284.898,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 284.958,
+      "end": 286.92,
+      "speaker": "SPEAKER_00",
+      "text": "Nici dacă mă duc aici mai sus, da?"
+    },
+    {
+      "start": 288.781,
+      "end": 291.282,
+      "speaker": "SPEAKER_00",
+      "text": "Pe partea dreapta, în schimb."
+    },
+    {
+      "start": 291.382,
+      "end": 292.043,
+      "speaker": "SPEAKER_01",
+      "text": "Doare mai tare."
+    },
+    {
+      "start": 292.343,
+      "end": 296.105,
+      "speaker": "SPEAKER_00",
+      "text": "Doare mai tare, dar apare și tensiunea aceea la nivelul tâmplei."
+    },
+    {
+      "start": 296.165,
+      "end": 296.826,
+      "speaker": "SPEAKER_00",
+      "text": "Deci apare aici, da?"
+    },
+    {
+      "start": 296.866,
+      "end": 297.947,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 300.019,
+      "end": 305.78,
+      "speaker": "SPEAKER_00",
+      "text": "O să știu dacă doar e momentul în care apăți eu aici, pe zona de vertez."
+    },
+    {
+      "start": 305.9,
+      "end": 306.02,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 306.04,
+      "end": 310.201,
+      "speaker": "SPEAKER_00",
+      "text": "Luați locul."
+    },
+    {
+      "start": 310.221,
+      "end": 313.902,
+      "speaker": "SPEAKER_00",
+      "text": "Ce aveți vână asta se numește sindrom de arteră vertebrală."
+    },
+    {
+      "start": 313.942,
+      "end": 324.684,
+      "speaker": "SPEAKER_00",
+      "text": "E o arteră care în momentul în care e obturat, atât din postură cât și dintr-un șoc apărut la nivelul coloanei, nu mai oxigenează la capacitatea maximă creierului."
+    },
+    {
+      "start": 324.704,
+      "end": 328.905,
+      "speaker": "SPEAKER_00",
+      "text": "Va trebui să lucrăm atât pe partea de mobilitate, cât și pe partea de reducerea inflamației pe toată zonă."
+    },
+    {
+      "start": 329.646,
+      "end": 338.889,
+      "speaker": "SPEAKER_00",
+      "text": "Cel mai probabil vom intrecrea și masajul craniosacral, pe lângă elongațiile vertebrale, partele de cal-terapie, dacă ați mai făcut, dacă nu ați mai făcut, vă explicăm cu tot dragul ce face fiecare terapie în parte."
+    },
+    {
+      "start": 341.609,
+      "end": 344.75,
+      "speaker": "SPEAKER_00",
+      "text": "Va fi necesar pe parcurs să vă hidratați și puțin mai mult."
+    },
+    {
+      "start": 344.79,
+      "end": 345.67,
+      "speaker": "SPEAKER_00",
+      "text": "Pare că nu beți destul la"
+    },
+    {
+      "start": 345.69,
+      "end": 350.292,
+      "speaker": "SPEAKER_01",
+      "text": "apă."
+    },
+    {
+      "start": 350.312,
+      "end": 351.732,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să începem treaba, vă rog."
+    },
+    {
+      "start": 352.532,
+      "end": 354.993,
+      "speaker": "SPEAKER_00",
+      "text": "Vă rog să vă cizați cu fața în sus, pe masă."
+    }
+  ]
+}

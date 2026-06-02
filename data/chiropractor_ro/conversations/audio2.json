@@ -1,0 +1,427 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio2.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 4.091,
+      "end": 4.832,
+      "speaker": "SPEAKER_01",
+      "text": "Pe ce?"
+    },
+    {
+      "start": 4.872,
+      "end": 7.653,
+      "speaker": "SPEAKER_01",
+      "text": "Pe cervical."
+    },
+    {
+      "start": 7.793,
+      "end": 8.614,
+      "speaker": "SPEAKER_01",
+      "text": "Bun."
+    },
+    {
+      "start": 8.854,
+      "end": 10.595,
+      "speaker": "SPEAKER_01",
+      "text": "Ce dovede avem în altul cervical?"
+    },
+    {
+      "start": 10.635,
+      "end": 12.596,
+      "speaker": "SPEAKER_01",
+      "text": "Adică cum se resimt și când se resimt?"
+    },
+    {
+      "start": 12.936,
+      "end": 14.577,
+      "speaker": "SPEAKER_01",
+      "text": "Hai să facem pe lumbară, pe cervical."
+    },
+    {
+      "start": 14.977,
+      "end": 17.038,
+      "speaker": "SPEAKER_00",
+      "text": "Că ne-ai zis că vreau ceeași."
+    },
+    {
+      "start": 17.118,
+      "end": 17.719,
+      "speaker": "SPEAKER_00",
+      "text": "Lumbară."
+    },
+    {
+      "start": 18.199,
+      "end": 18.379,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 18.439,
+      "end": 18.919,
+      "speaker": "SPEAKER_00",
+      "text": "Încercăm acum."
+    },
+    {
+      "start": 18.939,
+      "end": 28.225,
+      "speaker": "SPEAKER_00",
+      "text": "Bine, nu știu cum să mă uitate pe o căsătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătătăt"
+    },
+    {
+      "start": 30.543,
+      "end": 30.823,
+      "speaker": "SPEAKER_01",
+      "text": "Bun."
+    },
+    {
+      "start": 30.923,
+      "end": 32.624,
+      "speaker": "SPEAKER_01",
+      "text": "Ce durere avem la nivel la un bar?"
+    },
+    {
+      "start": 32.684,
+      "end": 35.085,
+      "speaker": "SPEAKER_01",
+      "text": "Adică, când le simțim și cum le simțim?"
+    },
+    {
+      "start": 35.826,
+      "end": 37.186,
+      "speaker": "SPEAKER_01",
+      "text": "Simțim o durere radiantă."
+    },
+    {
+      "start": 37.866,
+      "end": 39.787,
+      "speaker": "SPEAKER_01",
+      "text": "Radiantă pe care picioră?"
+    },
+    {
+      "start": 39.867,
+      "end": 40.708,
+      "speaker": "SPEAKER_01",
+      "text": "Stângul, dreptul?"
+    },
+    {
+      "start": 41.048,
+      "end": 42.108,
+      "speaker": "SPEAKER_01",
+      "text": "Pe dreptul."
+    },
+    {
+      "start": 42.689,
+      "end": 42.869,
+      "speaker": "SPEAKER_01",
+      "text": "Bun."
+    },
+    {
+      "start": 42.889,
+      "end": 48.451,
+      "speaker": "SPEAKER_01",
+      "text": "Acea durere mai vine și cu o durere locală, în jurul... Da, e o durere"
+    },
+    {
+      "start": 48.491,
+      "end": 53.133,
+      "speaker": "SPEAKER_00",
+      "text": "care se lasă pe picior și mă imobilizează mai posimere."
+    },
+    {
+      "start": 56.779,
+      "end": 59.621,
+      "speaker": "SPEAKER_01",
+      "text": "Această durere, de obicei, vă dă și pe indinal."
+    },
+    {
+      "start": 60.321,
+      "end": 62.663,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 63.204,
+      "end": 64.905,
+      "speaker": "SPEAKER_01",
+      "text": "Ok. Am mai făcut alte proceduri de"
+    },
+    {
+      "start": 64.985,
+      "end": 66.606,
+      "speaker": "SPEAKER_00",
+      "text": "fizioterapie până acum?"
+    },
+    {
+      "start": 67.227,
+      "end": 68.027,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, e prima dată."
+    },
+    {
+      "start": 68.147,
+      "end": 73.972,
+      "speaker": "SPEAKER_00",
+      "text": "Am mai încercat masaj, să mă maseze și-o acasă, dar e prima dată când vin într-o clinică specializată."
+    },
+    {
+      "start": 74.072,
+      "end": 76.594,
+      "speaker": "SPEAKER_00",
+      "text": "Și după masajul acela nu s-a lăsat sau?"
+    },
+    {
+      "start": 76.914,
+      "end": 78.515,
+      "speaker": "SPEAKER_00",
+      "text": "S-a lăsat ușor, dar tot rămine."
+    },
+    {
+      "start": 78.555,
+      "end": 82.158,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Ok. Ok."
+    },
+    {
+      "start": 85.007,
+      "end": 97.034,
+      "speaker": "SPEAKER_01",
+      "text": "Fizioterapia a fost până acum un medic neurolog ca să ne stabilească un anumit diagnostic?"
+    },
+    {
+      "start": 97.054,
+      "end": 97.995,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 98.075,
+      "end": 100.516,
+      "speaker": "SPEAKER_00",
+      "text": "Pe prima dată am venit aici, indirect."
+    },
+    {
+      "start": 101.117,
+      "end": 103.038,
+      "speaker": "SPEAKER_00",
+      "text": "Mi s-a mai fost masaj de o mătoșă acasă."
+    },
+    {
+      "start": 103.418,
+      "end": 103.958,
+      "speaker": "SPEAKER_00",
+      "text": "Ok,"
+    },
+    {
+      "start": 103.998,
+      "end": 104.238,
+      "speaker": "SPEAKER_01",
+      "text": "bun."
+    },
+    {
+      "start": 104.318,
+      "end": 109.221,
+      "speaker": "SPEAKER_01",
+      "text": "Și bănuiesc că nici nu avem niciun remene, nu avem absolut nimic la noi care să ateze de fapt că nu avem o vernie."
+    },
+    {
+      "start": 109.241,
+      "end": 110.542,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, bun."
+    },
+    {
+      "start": 112.401,
+      "end": 113.441,
+      "speaker": "SPEAKER_01",
+      "text": "O să fac anumite teste."
+    },
+    {
+      "start": 113.602,
+      "end": 113.802,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 113.822,
+      "end": 115.863,
+      "speaker": "SPEAKER_01",
+      "text": "Ca să văd dacă e clar este o rinie sau nu."
+    },
+    {
+      "start": 115.883,
+      "end": 122.187,
+      "speaker": "SPEAKER_01",
+      "text": "Și cu period, pe baza ce îți spuneți, eu o să-mi fac un de-aia jos."
+    },
+    {
+      "start": 122.227,
+      "end": 122.368,
+      "speaker": "SPEAKER_01",
+      "text": "Da?"
+    },
+    {
+      "start": 122.468,
+      "end": 122.608,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 122.668,
+      "end": 123.909,
+      "speaker": "SPEAKER_01",
+      "text": "Și apăs L4, L5."
+    },
+    {
+      "start": 124.009,
+      "end": 127.131,
+      "speaker": "SPEAKER_01",
+      "text": "Doare?"
+    },
+    {
+      "start": 127.211,
+      "end": 128.832,
+      "speaker": "SPEAKER_01",
+      "text": "Doare."
+    },
+    {
+      "start": 129.112,
+      "end": 129.292,
+      "speaker": "SPEAKER_01",
+      "text": "Bun."
+    },
+    {
+      "start": 129.352,
+      "end": 129.913,
+      "speaker": "SPEAKER_01",
+      "text": "Mă duc mai sus."
+    },
+    {
+      "start": 130.313,
+      "end": 130.773,
+      "speaker": "SPEAKER_01",
+      "text": "L3, L4."
+    },
+    {
+      "start": 130.833,
+      "end": 132.334,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 132.354,
+      "end": 133.475,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 134.075,
+      "end": 138.238,
+      "speaker": "SPEAKER_01",
+      "text": "Pe stânga doar l-a trăcat pe dreapta rând apăs?"
+    },
+    {
+      "start": 138.378,
+      "end": 139.539,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 139.899,
+      "end": 140.38,
+      "speaker": "SPEAKER_01",
+      "text": "Mă duc mai sus."
+    },
+    {
+      "start": 140.4,
+      "end": 140.92,
+      "speaker": "SPEAKER_01",
+      "text": "L4, L5."
+    },
+    {
+      "start": 146.185,
+      "end": 149.007,
+      "speaker": "SPEAKER_01",
+      "text": "pe stânga doare la fel ca pe dreapta, aici doare, da?"
+    },
+    {
+      "start": 149.227,
+      "end": 149.568,
+      "speaker": "SPEAKER_01",
+      "text": "Bun."
+    },
+    {
+      "start": 149.588,
+      "end": 151.99,
+      "speaker": "SPEAKER_01",
+      "text": "Deci doare ambele părți."
+    },
+    {
+      "start": 153.911,
+      "end": 155.713,
+      "speaker": "SPEAKER_01",
+      "text": "Dar pe stânga nu aveți sintomatologie."
+    },
+    {
+      "start": 155.753,
+      "end": 156.914,
+      "speaker": "SPEAKER_01",
+      "text": "Asta este ideea."
+    },
+    {
+      "start": 157.154,
+      "end": 157.314,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 157.554,
+      "end": 161.237,
+      "speaker": "SPEAKER_01",
+      "text": "De obicei se vede și până în călcâi, până îndești la picioare, de amicătorul ăla."
+    },
+    {
+      "start": 161.357,
+      "end": 162.078,
+      "speaker": "SPEAKER_01",
+      "text": "Bun."
+    },
+    {
+      "start": 163.02,
+      "end": 164.801,
+      "speaker": "SPEAKER_01",
+      "text": "Ideea este că s-ar putea să avem o hernie."
+    },
+    {
+      "start": 165.541,
+      "end": 179.765,
+      "speaker": "SPEAKER_01",
+      "text": "N-am ideea ce grad este, n-am ideea cât de mare este, n-am ideea nici dacă îmi lezează orice structură din jurul articulației, numai că noi putem să facem mai multe chestii."
+    },
+    {
+      "start": 180.886,
+      "end": 186.327,
+      "speaker": "SPEAKER_01",
+      "text": "Spuneți că ne-a scopit niciodată fizioterapie sau orice înseamnă terapie manuală, elongații vertebrale și așa."
+    },
+    {
+      "start": 186.347,
+      "end": 187.388,
+      "speaker": "SPEAKER_01",
+      "text": "Da, nu am făcut."
+    },
+    {
+      "start": 192.308,
+      "end": 192.712,
+      "speaker": "SPEAKER_00",
+      "text": "Ubi dași."
+    },
+    {
+      "start": 192.732,
+      "end": 192.873,
+      "speaker": "SPEAKER_00",
+      "text": "Pepe."
+    }
+  ]
+}

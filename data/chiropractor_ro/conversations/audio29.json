@@ -1,0 +1,499 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio29.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 2.473,
+      "end": 2.613,
+      "speaker": "SPEAKER_00",
+      "text": "Bună"
+    },
+    {
+      "start": 2.673,
+      "end": 3.814,
+      "speaker": "SPEAKER_01",
+      "text": "ziua."
+    },
+    {
+      "start": 3.834,
+      "end": 4.595,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi numele,"
+    },
+    {
+      "start": 4.635,
+      "end": 6.337,
+      "speaker": "SPEAKER_01",
+      "text": "vă rog."
+    },
+    {
+      "start": 6.357,
+      "end": 6.997,
+      "speaker": "SPEAKER_00",
+      "text": "Alexandra."
+    },
+    {
+      "start": 7.017,
+      "end": 7.378,
+      "speaker": "SPEAKER_00",
+      "text": "Alexandra și"
+    },
+    {
+      "start": 7.418,
+      "end": 9.8,
+      "speaker": "SPEAKER_01",
+      "text": "Maicon."
+    },
+    {
+      "start": 9.82,
+      "end": 9.96,
+      "speaker": null,
+      "text": "Anton."
+    },
+    {
+      "start": 10.14,
+      "end": 12.842,
+      "speaker": "SPEAKER_00",
+      "text": "Doamna Anton, spuneți-mi și vârsta."
+    },
+    {
+      "start": 14.264,
+      "end": 14.344,
+      "speaker": "SPEAKER_00",
+      "text": "23."
+    },
+    {
+      "start": 14.404,
+      "end": 14.644,
+      "speaker": "SPEAKER_00",
+      "text": "Mulți"
+    },
+    {
+      "start": 14.664,
+      "end": 17.807,
+      "speaker": "SPEAKER_01",
+      "text": "înainte."
+    },
+    {
+      "start": 17.867,
+      "end": 20.109,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem la vârsta asta, doamna Anton?"
+    },
+    {
+      "start": 20.77,
+      "end": 26.194,
+      "speaker": "SPEAKER_01",
+      "text": "Sunt însărcinată și, după cum puteți vedea, sunt destul de slabă."
+    },
+    {
+      "start": 26.254,
+      "end": 32.118,
+      "speaker": "SPEAKER_01",
+      "text": "Am vreo 45 de kilograme și mă dore foarte tare"
+    },
+    {
+      "start": 34.08,
+      "end": 35.061,
+      "speaker": "SPEAKER_00",
+      "text": "spatele de la necauza sărții, cred."
+    },
+    {
+      "start": 35.081,
+      "end": 40.324,
+      "speaker": "SPEAKER_00",
+      "text": "Înainte să începem sărții, n-am avut dureri pe zona de spate, de lombar."
+    },
+    {
+      "start": 40.404,
+      "end": 44.928,
+      "speaker": "SPEAKER_00",
+      "text": "Doare doar zona de lombar sau doare și zona din față de platou pelvin?"
+    },
+    {
+      "start": 46.169,
+      "end": 47.37,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult zona de lombar."
+    },
+    {
+      "start": 47.41,
+      "end": 50.572,
+      "speaker": "SPEAKER_01",
+      "text": "E doar un disconfort în zona peldică."
+    },
+    {
+      "start": 51.623,
+      "end": 54.805,
+      "speaker": "SPEAKER_00",
+      "text": "doare și partea de inghinal."
+    },
+    {
+      "start": 54.825,
+      "end": 58.367,
+      "speaker": "SPEAKER_01",
+      "text": "E tot așa o presiune, n-aș spunea durere."
+    },
+    {
+      "start": 58.427,
+      "end": 62.149,
+      "speaker": "SPEAKER_00",
+      "text": "Presiunea aceasta e mai mult pe o parte decât pe cealaltă?"
+    },
+    {
+      "start": 62.209,
+      "end": 64.211,
+      "speaker": "SPEAKER_01",
+      "text": "Da, pe partea dreaptă."
+    },
+    {
+      "start": 64.251,
+      "end": 66.032,
+      "speaker": "SPEAKER_00",
+      "text": "Pe partea dreaptă."
+    },
+    {
+      "start": 66.072,
+      "end": 76.958,
+      "speaker": "SPEAKER_00",
+      "text": "Dacă ar fi să punem această durere, slești, presiune, pe o scară de la 0 la 10, unde 0 nu doare deloc 0, ce doare foarte tare, unde am situa-o?"
+    },
+    {
+      "start": 76.978,
+      "end": 78.479,
+      "speaker": "SPEAKER_01",
+      "text": "În zona de lombar 10."
+    },
+    {
+      "start": 79.12,
+      "end": 81.281,
+      "speaker": "SPEAKER_00",
+      "text": "În zona de lombar 10 și pe partea de inghinal."
+    },
+    {
+      "start": 85.218,
+      "end": 92.924,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, dacă avem alergii."
+    },
+    {
+      "start": 93.185,
+      "end": 93.925,
+      "speaker": "SPEAKER_01",
+      "text": "La albine."
+    },
+    {
+      "start": 94.766,
+      "end": 96.988,
+      "speaker": "SPEAKER_00",
+      "text": "La albine."
+    },
+    {
+      "start": 97.088,
+      "end": 98.109,
+      "speaker": "SPEAKER_00",
+      "text": "Deci nu vă place să fiți în S4?"
+    },
+    {
+      "start": 98.169,
+      "end": 103.414,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 103.934,
+      "end": 106.096,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp ați spus că e sarcină?"
+    },
+    {
+      "start": 106.216,
+      "end": 107.177,
+      "speaker": "SPEAKER_01",
+      "text": "Cinci luni."
+    },
+    {
+      "start": 107.497,
+      "end": 108.618,
+      "speaker": "SPEAKER_00",
+      "text": "Cinci luni."
+    },
+    {
+      "start": 111.418,
+      "end": 116.081,
+      "speaker": "SPEAKER_00",
+      "text": "Fiind pe perioadă sărcină, va trebui să lucrăm mult mai delicat și nu vom avea voie să facem parte de fizioterapie."
+    },
+    {
+      "start": 116.101,
+      "end": 117.822,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 118.483,
+      "end": 122.125,
+      "speaker": "SPEAKER_00",
+      "text": "Dar cu siguranță reușim să reducem durerea."
+    },
+    {
+      "start": 122.145,
+      "end": 127.509,
+      "speaker": "SPEAKER_00",
+      "text": "Lăsați-mă să fac câteva teste pentru a vedea exact durerea."
+    },
+    {
+      "start": 128.31,
+      "end": 129.51,
+      "speaker": "SPEAKER_00",
+      "text": "Vreau să puneți picior peste picior."
+    },
+    {
+      "start": 129.53,
+      "end": 131.472,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 131.552,
+      "end": 136.915,
+      "speaker": "SPEAKER_00",
+      "text": "Și în momentul ăsta să mă lăsați pe mine să apăs de genunchi în jos."
+    },
+    {
+      "start": 138.016,
+      "end": 140.698,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Partea dreaptă vreau să știu dacă apare vreo durere în zona inghinală."
+    },
+    {
+      "start": 142.791,
+      "end": 143.232,
+      "speaker": "SPEAKER_00",
+      "text": "Da, apare un pic."
+    },
+    {
+      "start": 143.252,
+      "end": 143.672,
+      "speaker": "SPEAKER_00",
+      "text": "Apare un pic."
+    },
+    {
+      "start": 143.692,
+      "end": 145.394,
+      "speaker": "SPEAKER_00",
+      "text": "Face la fel și pe partea stângă, îmi spuneți."
+    },
+    {
+      "start": 146.095,
+      "end": 146.815,
+      "speaker": "SPEAKER_00",
+      "text": "Dacă apare la fel"
+    },
+    {
+      "start": 148.056,
+      "end": 148.297,
+      "speaker": "SPEAKER_01",
+      "text": "durere."
+    },
+    {
+      "start": 148.337,
+      "end": 150.459,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, dar tot timp confortabil."
+    },
+    {
+      "start": 150.479,
+      "end": 152.641,
+      "speaker": "SPEAKER_00",
+      "text": "Mai puțin pe partea stângă."
+    },
+    {
+      "start": 152.721,
+      "end": 153.081,
+      "speaker": "SPEAKER_00",
+      "text": "Fesele"
+    },
+    {
+      "start": 153.121,
+      "end": 155.223,
+      "speaker": "SPEAKER_01",
+      "text": "dorm?"
+    },
+    {
+      "start": 155.303,
+      "end": 155.504,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 155.824,
+      "end": 158.166,
+      "speaker": "SPEAKER_00",
+      "text": "La fel, mai mult dreapta decât stânga sau în mod echilibrat?"
+    },
+    {
+      "start": 158.727,
+      "end": 159.748,
+      "speaker": "SPEAKER_01",
+      "text": "Cumva în mod echilibrat."
+    },
+    {
+      "start": 159.888,
+      "end": 164.172,
+      "speaker": "SPEAKER_01",
+      "text": "În general, sau dreapta pe scaunul sau picioase de picior."
+    },
+    {
+      "start": 164.192,
+      "end": 165.133,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 166.212,
+      "end": 167.213,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai făcut masaj până"
+    },
+    {
+      "start": 167.233,
+      "end": 169.335,
+      "speaker": "SPEAKER_01",
+      "text": "acum?"
+    },
+    {
+      "start": 169.375,
+      "end": 171.497,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cumva de relaxare."
+    },
+    {
+      "start": 171.577,
+      "end": 172.477,
+      "speaker": "SPEAKER_00",
+      "text": "Cumva de relaxare."
+    },
+    {
+      "start": 172.497,
+      "end": 174.399,
+      "speaker": "SPEAKER_00",
+      "text": "Altceva ați mai făcut înainte de sarcin?"
+    },
+    {
+      "start": 175.28,
+      "end": 175.8,
+      "speaker": null,
+      "text": "Nu."
+    },
+    {
+      "start": 175.86,
+      "end": 176.701,
+      "speaker": "SPEAKER_00",
+      "text": "Pe timpul sarcin?"
+    },
+    {
+      "start": 177.282,
+      "end": 179.744,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 179.784,
+      "end": 182.346,
+      "speaker": "SPEAKER_00",
+      "text": "Chiropractic ați mai făcut vreodată?"
+    },
+    {
+      "start": 182.386,
+      "end": 182.486,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 182.566,
+      "end": 186.99,
+      "speaker": "SPEAKER_00",
+      "text": "În zona de sus de cervical, ieși acolo durere din cauza pusturii?"
+    },
+    {
+      "start": 187.05,
+      "end": 191.694,
+      "speaker": "SPEAKER_01",
+      "text": "Da, iau și un pic de scolioză și stau un pic cocoșată prin prisma meseriei."
+    },
+    {
+      "start": 192.405,
+      "end": 194.006,
+      "speaker": "SPEAKER_01",
+      "text": "Și"
+    },
+    {
+      "start": 194.046,
+      "end": 196.066,
+      "speaker": "SPEAKER_00",
+      "text": "mă doare, domnul."
+    },
+    {
+      "start": 196.086,
+      "end": 196.486,
+      "speaker": "SPEAKER_00",
+      "text": "Nu înțeles."
+    },
+    {
+      "start": 196.506,
+      "end": 204.709,
+      "speaker": "SPEAKER_00",
+      "text": "Vă întreb deoarece, cum vă ziceam, partea de jos e mai delicată și din cauza asta și, în schimb, în partea de jos putem lucra mai mult."
+    },
+    {
+      "start": 205.009,
+      "end": 212.952,
+      "speaker": "SPEAKER_00",
+      "text": "Putem să facem și partea de chiropractică, putem să facem mai multe terapii."
+    },
+    {
+      "start": 212.972,
+      "end": 214.713,
+      "speaker": "SPEAKER_00",
+      "text": "Eu zic să începem și treaba."
+    },
+    {
+      "start": 217.515,
+      "end": 224.782,
+      "speaker": "SPEAKER_00",
+      "text": "Va trebui să relaxăm toată partea din zona lombară, din originea mușchilor lui Obsoas, care se lasă și pe partea inghinală."
+    },
+    {
+      "start": 224.802,
+      "end": 232.149,
+      "speaker": "SPEAKER_00",
+      "text": "E un mușc care pleacă din L1-T12 și se duce până în zona de inghinal unde vă doare pe dumneavoastră."
+    },
+    {
+      "start": 233.009,
+      "end": 239.656,
+      "speaker": "SPEAKER_00",
+      "text": "Și totodată să relaxăm și zona de pătrat, lombar, paravertebral, multifizi, pirifor, fesier mare, fesier mijlociu, fesier mic."
+    },
+    {
+      "start": 242.713,
+      "end": 244.636,
+      "speaker": "SPEAKER_00",
+      "text": "Și să vedem cum se resimte."
+    },
+    {
+      "start": 244.817,
+      "end": 248.804,
+      "speaker": "SPEAKER_00",
+      "text": "Să știți că pentru început puteți să faceți o ușoară febră musculară, să nu vă speriați de aceasta."
+    },
+    {
+      "start": 250.787,
+      "end": 252.751,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe o parte pe masă, vă rog."
+    }
+  ]
+}

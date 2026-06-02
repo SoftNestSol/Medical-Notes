@@ -1,0 +1,715 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio15.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 0.952,
+      "end": 2.333,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, domnule Berlusconi."
+    },
+    {
+      "start": 2.893,
+      "end": 4.155,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 4.175,
+      "end": 5.516,
+      "speaker": "SPEAKER_00",
+      "text": "Berlusconi Antonio văd aici."
+    },
+    {
+      "start": 6.076,
+      "end": 7.858,
+      "speaker": "SPEAKER_00",
+      "text": "Corect."
+    },
+    {
+      "start": 7.978,
+      "end": 10.02,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi și mie vârsta vă rog."
+    },
+    {
+      "start": 10.06,
+      "end": 10.4,
+      "speaker": "SPEAKER_00",
+      "text": "26."
+    },
+    {
+      "start": 10.8,
+      "end": 14.984,
+      "speaker": "SPEAKER_00",
+      "text": "Și cu ce problemă ne vedem?"
+    },
+    {
+      "start": 15.024,
+      "end": 18.967,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare... tâmpla, așa."
+    },
+    {
+      "start": 19.848,
+      "end": 20.709,
+      "speaker": "SPEAKER_00",
+      "text": "Avem și migrene?"
+    },
+    {
+      "start": 21.089,
+      "end": 21.85,
+      "speaker": "SPEAKER_00",
+      "text": "Da, da."
+    },
+    {
+      "start": 24.412,
+      "end": 25.873,
+      "speaker": "SPEAKER_00",
+      "text": "Sunt constante aceste migrene?"
+    },
+    {
+      "start": 26.794,
+      "end": 27.635,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 28.211,
+      "end": 29.731,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori chiar mai tare, alții ori"
+    },
+    {
+      "start": 30.051,
+      "end": 31.212,
+      "speaker": "SPEAKER_00",
+      "text": "ok. Dar le avem zi de zi."
+    },
+    {
+      "start": 31.432,
+      "end": 32.952,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 32.972,
+      "end": 37.773,
+      "speaker": "SPEAKER_00",
+      "text": "Un domnule Berlusconi, pe o scară de la 0 la 10, cât de deranjante ar fi un?"
+    },
+    {
+      "start": 37.813,
+      "end": 43.475,
+      "speaker": "SPEAKER_00",
+      "text": "De 0 înseamnă că nu sunt deloc deranjante și 10 înseamnă că sunt insuportabile."
+    },
+    {
+      "start": 43.495,
+      "end": 44.855,
+      "speaker": "SPEAKER_01",
+      "text": "Undeva la 7."
+    },
+    {
+      "start": 45.175,
+      "end": 46.836,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori 5, uneori 7."
+    },
+    {
+      "start": 49.276,
+      "end": 50.416,
+      "speaker": "SPEAKER_01",
+      "text": "Deci între 5 și 7, da?"
+    },
+    {
+      "start": 50.496,
+      "end": 50.716,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 50.776,
+      "end": 50.937,
+      "speaker": "SPEAKER_01",
+      "text": "Bun."
+    },
+    {
+      "start": 55.832,
+      "end": 61.115,
+      "speaker": "SPEAKER_00",
+      "text": "Migrelele acestea se resimt doar pe partea capului sau pe amandoua?"
+    },
+    {
+      "start": 62.395,
+      "end": 64.056,
+      "speaker": "SPEAKER_01",
+      "text": "Pe dreapta."
+    },
+    {
+      "start": 64.116,
+      "end": 64.937,
+      "speaker": "SPEAKER_00",
+      "text": "Doar pe dreapta."
+    },
+    {
+      "start": 65.157,
+      "end": 69.739,
+      "speaker": "SPEAKER_00",
+      "text": "Si sunt deranjante in partea de tambla si chiar si in partea de ochi, nu?"
+    },
+    {
+      "start": 69.759,
+      "end": 70.479,
+      "speaker": "SPEAKER_00",
+      "text": "Exact, da."
+    },
+    {
+      "start": 71.04,
+      "end": 71.32,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 71.5,
+      "end": 73.921,
+      "speaker": "SPEAKER_00",
+      "text": "Doare si ceafa in partea asta de occipital?"
+    },
+    {
+      "start": 74.601,
+      "end": 75.202,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da."
+    },
+    {
+      "start": 75.822,
+      "end": 78.783,
+      "speaker": "SPEAKER_00",
+      "text": "Avem stari de ameteala, de greata, de stari de voma?"
+    },
+    {
+      "start": 79.224,
+      "end": 80.184,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da."
+    },
+    {
+      "start": 82.55,
+      "end": 83.551,
+      "speaker": "SPEAKER_00",
+      "text": "Să strângeți din maxilar."
+    },
+    {
+      "start": 84.111,
+      "end": 87.853,
+      "speaker": "SPEAKER_00",
+      "text": "Și în momentul în care strâneți din maxilar se mai lasă din stare?"
+    },
+    {
+      "start": 87.893,
+      "end": 88.213,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 88.853,
+      "end": 90.834,
+      "speaker": "SPEAKER_00",
+      "text": "Se răudăzește?"
+    },
+    {
+      "start": 91.274,
+      "end": 92.015,
+      "speaker": "SPEAKER_01",
+      "text": "Tot cam așa e. Tot"
+    },
+    {
+      "start": 92.055,
+      "end": 92.475,
+      "speaker": "SPEAKER_00",
+      "text": "cam așa e."
+    },
+    {
+      "start": 92.555,
+      "end": 93.855,
+      "speaker": "SPEAKER_01",
+      "text": "Doar am senzația"
+    },
+    {
+      "start": 94.456,
+      "end": 94.676,
+      "speaker": "SPEAKER_00",
+      "text": "asta."
+    },
+    {
+      "start": 94.696,
+      "end": 100.559,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, se întâmplă să fie migrenele, sau nu migrenele neapărat, starea de amerseară mai urată dimineața?"
+    },
+    {
+      "start": 101.379,
+      "end": 101.479,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 102.439,
+      "end": 105.781,
+      "speaker": "SPEAKER_00",
+      "text": "Când ne ridicăm din pat și după ce mergem puțin, ne mișcăm, începe să se ducă?"
+    },
+    {
+      "start": 106.121,
+      "end": 107.102,
+      "speaker": "SPEAKER_00",
+      "text": "Senzația respectivă?"
+    },
+    {
+      "start": 107.162,
+      "end": 109.623,
+      "speaker": "SPEAKER_01",
+      "text": "După duși, de regulă, da."
+    },
+    {
+      "start": 109.663,
+      "end": 110.323,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, cum dormim?"
+    },
+    {
+      "start": 113.451,
+      "end": 115.693,
+      "speaker": "SPEAKER_00",
+      "text": "Dormim pe o parte, pe spate?"
+    },
+    {
+      "start": 115.733,
+      "end": 117.154,
+      "speaker": "SPEAKER_01",
+      "text": "Pe"
+    },
+    {
+      "start": 117.174,
+      "end": 121.617,
+      "speaker": "SPEAKER_00",
+      "text": "o parte Dormim cu pernă?"
+    },
+    {
+      "start": 121.677,
+      "end": 122.238,
+      "speaker": "SPEAKER_00",
+      "text": "Fără pernă?"
+    },
+    {
+      "start": 122.258,
+      "end": 122.818,
+      "speaker": "SPEAKER_00",
+      "text": "Ai zis cu pernă?"
+    },
+    {
+      "start": 122.858,
+      "end": 123.579,
+      "speaker": "SPEAKER_01",
+      "text": "Cu pernă, da"
+    },
+    {
+      "start": 124.259,
+      "end": 127.522,
+      "speaker": "SPEAKER_00",
+      "text": "Avem o pernă și sub șol, între picioare sau doar o pernă la cap?"
+    },
+    {
+      "start": 127.562,
+      "end": 127.982,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, doar la"
+    },
+    {
+      "start": 128.042,
+      "end": 128.763,
+      "speaker": "SPEAKER_01",
+      "text": "cap ca bărbații"
+    },
+    {
+      "start": 129.323,
+      "end": 132.946,
+      "speaker": "SPEAKER_00",
+      "text": "Doar o pernă la cap ca bărbații Am înțeles, avem cumva o remene făcut, o radiografie?"
+    },
+    {
+      "start": 132.966,
+      "end": 133.086,
+      "speaker": "SPEAKER_00",
+      "text": "Nu"
+    },
+    {
+      "start": 133.586,
+      "end": 134.367,
+      "speaker": "SPEAKER_01",
+      "text": "Nu"
+    },
+    {
+      "start": 135.077,
+      "end": 137.139,
+      "speaker": "SPEAKER_00",
+      "text": "Bine, haideți puțin în picioare, vreau să facem un test."
+    },
+    {
+      "start": 137.74,
+      "end": 142.065,
+      "speaker": "SPEAKER_00",
+      "text": "O să vă dau capul pe spate cât se poate de mult și o să stăm aici cam 15 secunde."
+    },
+    {
+      "start": 142.425,
+      "end": 149.773,
+      "speaker": "SPEAKER_00",
+      "text": "După cele 15 secunde vreau să-mi spuneți dacă ați amețit sau aveți pierdere de echilibru."
+    },
+    {
+      "start": 149.793,
+      "end": 149.813,
+      "speaker": null,
+      "text": "8"
+    },
+    {
+      "start": 151.715,
+      "end": 158.517,
+      "speaker": "SPEAKER_00",
+      "text": "9, 10, 11, 12, 13, 14, 15 și revenim."
+    },
+    {
+      "start": 158.537,
+      "end": 161.318,
+      "speaker": "SPEAKER_00",
+      "text": "Făcă deja v-ați pierdut echilibru, ieși starea de avețeală acum?"
+    },
+    {
+      "start": 161.578,
+      "end": 162.399,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, da."
+    },
+    {
+      "start": 163.179,
+      "end": 163.439,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 163.639,
+      "end": 168.02,
+      "speaker": "SPEAKER_00",
+      "text": "Asta ar putea să ne ducă către un sindrom de arteră vertebrală."
+    },
+    {
+      "start": 168.62,
+      "end": 177.063,
+      "speaker": "SPEAKER_00",
+      "text": "Sindromul acesta de arteră vertebrală apare în momentul în care avem ori o problemă a coloanei cervicale,"
+    },
+    {
+      "start": 180.994,
+      "end": 185.738,
+      "speaker": "SPEAKER_00",
+      "text": "Ori stres, stări de... Sunt destul de stresat în ultimul timp, da."
+    },
+    {
+      "start": 185.898,
+      "end": 191.262,
+      "speaker": "SPEAKER_00",
+      "text": "Suntem destul de stresat în ultimul timp, ceea ce poate să ne inflameze zona de mușchi occipitali."
+    },
+    {
+      "start": 191.282,
+      "end": 199.247,
+      "speaker": "SPEAKER_00",
+      "text": "Artera aceasta vertebrală e o arteră care pleacă de subclaviculă, merge în sus, pe găt, până un occipital și oxigeniază aproximativ 60% din creier."
+    },
+    {
+      "start": 199.928,
+      "end": 203.31,
+      "speaker": "SPEAKER_00",
+      "text": "Cum spuneam, e subclaviculă, vreau să știu dacă doare în zona asta."
+    },
+    {
+      "start": 203.33,
+      "end": 204.131,
+      "speaker": "SPEAKER_01",
+      "text": "Da, au."
+    },
+    {
+      "start": 205.322,
+      "end": 212.225,
+      "speaker": "SPEAKER_00",
+      "text": "Totodată vreau să știu dacă doar în zona asta de sternocletomastoidian și în zona asta de maseter."
+    },
+    {
+      "start": 212.245,
+      "end": 213.086,
+      "speaker": "SPEAKER_01",
+      "text": "Mai nu prea."
+    },
+    {
+      "start": 213.546,
+      "end": 215.006,
+      "speaker": "SPEAKER_00",
+      "text": "Nu prea."
+    },
+    {
+      "start": 215.066,
+      "end": 215.587,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 215.807,
+      "end": 219.188,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai făcut terapie până acum, domnule Berlusconi?"
+    },
+    {
+      "start": 219.228,
+      "end": 219.929,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 219.949,
+      "end": 220.149,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 221.189,
+      "end": 222.05,
+      "speaker": "SPEAKER_01",
+      "text": "Dar am făcut altora."
+    },
+    {
+      "start": 222.85,
+      "end": 223.03,
+      "speaker": "SPEAKER_00",
+      "text": "Eu,"
+    },
+    {
+      "start": 223.13,
+      "end": 223.53,
+      "speaker": "SPEAKER_01",
+      "text": "terapie."
+    },
+    {
+      "start": 223.89,
+      "end": 224.551,
+      "speaker": "SPEAKER_00",
+      "text": "Sunteți terapeut?"
+    },
+    {
+      "start": 224.571,
+      "end": 224.631,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 224.931,
+      "end": 226.952,
+      "speaker": "SPEAKER_01",
+      "text": "Păi"
+    },
+    {
+      "start": 227.012,
+      "end": 230.293,
+      "speaker": "SPEAKER_00",
+      "text": "și cum ați făcut terapie, domnule Berlusconi?"
+    },
+    {
+      "start": 230.313,
+      "end": 230.914,
+      "speaker": "SPEAKER_00",
+      "text": "Nu e problema mea."
+    },
+    {
+      "start": 230.934,
+      "end": 232.354,
+      "speaker": "SPEAKER_00",
+      "text": "Problema e să o fac bine, da?"
+    },
+    {
+      "start": 232.394,
+      "end": 232.914,
+      "speaker": "SPEAKER_00",
+      "text": "Exact."
+    },
+    {
+      "start": 233.055,
+      "end": 233.315,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 233.415,
+      "end": 234.135,
+      "speaker": "SPEAKER_00",
+      "text": "Ce lucrăm?"
+    },
+    {
+      "start": 234.505,
+      "end": 235.105,
+      "speaker": "SPEAKER_00",
+      "text": "Nu e problemă."
+    },
+    {
+      "start": 235.185,
+      "end": 236.446,
+      "speaker": "SPEAKER_00",
+      "text": "Problema mă e să vă fac gâni."
+    },
+    {
+      "start": 239.788,
+      "end": 240.729,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să trecem la treabă."
+    },
+    {
+      "start": 240.769,
+      "end": 247.273,
+      "speaker": "SPEAKER_00",
+      "text": "Va trebui să reducem inflamația din musculatura gâtului, splențul capului, sternocidomastoidian, scaleni."
+    },
+    {
+      "start": 247.833,
+      "end": 252.916,
+      "speaker": "SPEAKER_00",
+      "text": "Înainte de toate vreau să vă întreb dacă aveți probleme de tensiune arterială, diabetes, epilepsie."
+    },
+    {
+      "start": 253.737,
+      "end": 254.257,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 254.337,
+      "end": 254.737,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 255.498,
+      "end": 261.101,
+      "speaker": "SPEAKER_00",
+      "text": "La vârsta pe care spuneați 26 de ani, nu cred că e cazul de osteoporoză."
+    },
+    {
+      "start": 264.182,
+      "end": 264.782,
+      "speaker": "SPEAKER_00",
+      "text": "Totodată."
+    },
+    {
+      "start": 265.102,
+      "end": 267.203,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți boli cu transmitere cutanată?"
+    },
+    {
+      "start": 267.263,
+      "end": 268.483,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 268.563,
+      "end": 270.204,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 270.224,
+      "end": 273.265,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți proteze sau implanturi?"
+    },
+    {
+      "start": 273.305,
+      "end": 275.066,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 275.086,
+      "end": 276.126,
+      "speaker": "SPEAKER_00",
+      "text": "Stimulator cardiac?"
+    },
+    {
+      "start": 276.186,
+      "end": 276.406,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 276.446,
+      "end": 279.227,
+      "speaker": "SPEAKER_00",
+      "text": "Însărcinat sigur nu sunteți."
+    },
+    {
+      "start": 279.287,
+      "end": 281.748,
+      "speaker": "SPEAKER_00",
+      "text": "Medicamente luați?"
+    },
+    {
+      "start": 281.788,
+      "end": 281.948,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 282.148,
+      "end": 283.768,
+      "speaker": "SPEAKER_00",
+      "text": "În prezent nu."
+    },
+    {
+      "start": 283.788,
+      "end": 284.269,
+      "speaker": "SPEAKER_00",
+      "text": "Alergii?"
+    },
+    {
+      "start": 285.309,
+      "end": 286.649,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 286.709,
+      "end": 286.929,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 287.67,
+      "end": 288.79,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 289.19,
+      "end": 289.87,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă."
+    },
+    {
+      "start": 290.491,
+      "end": 291.611,
+      "speaker": "SPEAKER_00",
+      "text": "Cu fața în jos vă rog."
+    }
+  ]
+}

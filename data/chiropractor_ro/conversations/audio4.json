@@ -1,0 +1,289 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio4.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 0.472,
+      "end": 0.953,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles"
+    },
+    {
+      "start": 0.993,
+      "end": 2.877,
+      "speaker": "SPEAKER_01",
+      "text": "că veniți la mine cu o durere lombară."
+    },
+    {
+      "start": 3.138,
+      "end": 4.862,
+      "speaker": "SPEAKER_01",
+      "text": "Spuneți-mi, vă rog,"
+    },
+    {
+      "start": 5.122,
+      "end": 6.305,
+      "speaker": "SPEAKER_00",
+      "text": "care e durerea asta lombară?"
+    },
+    {
+      "start": 6.666,
+      "end": 8.79,
+      "speaker": "SPEAKER_00",
+      "text": "Toți care are de la 1 la 10, unde o situați?"
+    },
+    {
+      "start": 8.81,
+      "end": 9.953,
+      "speaker": "SPEAKER_00",
+      "text": "Am un subiect."
+    },
+    {
+      "start": 10.9,
+      "end": 18.922,
+      "speaker": "SPEAKER_00",
+      "text": "O situiez în jur de, ar vă zic sincer, adică nu aș exagera, mă aș duce spre nouă, nu mai pot, deci când stau jos și când sunt în picioare."
+    },
+    {
+      "start": 19.102,
+      "end": 20.962,
+      "speaker": "SPEAKER_00",
+      "text": "Deci este o criză acută"
+    },
+    {
+      "start": 21.102,
+      "end": 22.903,
+      "speaker": "SPEAKER_01",
+      "text": "lombar."
+    },
+    {
+      "start": 23.003,
+      "end": 23.203,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 23.503,
+      "end": 32.604,
+      "speaker": "SPEAKER_01",
+      "text": "Văd, în schimb, că modifică structura în ortostatism, că vă strâmbă puțin, asta înseamnă că vă pune în poziția antargică."
+    },
+    {
+      "start": 32.705,
+      "end": 35.145,
+      "speaker": "SPEAKER_01",
+      "text": "Și văd că vă, asta înseamnă că,"
+    },
+    {
+      "start": 35.765,
+      "end": 43.45,
+      "speaker": "SPEAKER_01",
+      "text": "Corpul își alege singur poziția cât să nu există presiune mai mare la nivelul rădăcinii nervoase."
+    },
+    {
+      "start": 43.55,
+      "end": 48.793,
+      "speaker": "SPEAKER_01",
+      "text": "Și da, se strâmbă pe partea opusă rădăcinii nervoase afectate."
+    },
+    {
+      "start": 49.594,
+      "end": 56.238,
+      "speaker": "SPEAKER_01",
+      "text": "Adică dacă eu am o problemă la nivelul rădăcinii nervoase a discului aferent,"
+    },
+    {
+      "start": 57.311,
+      "end": 66.575,
+      "speaker": "SPEAKER_01",
+      "text": "Pe partea dreaptă, unul 5-1, automat noi ne vom strâmba către stânga ca să se deschidă rădăcina și să meriți de presure pe dreapta mai mare."
+    },
+    {
+      "start": 68.036,
+      "end": 77.339,
+      "speaker": "SPEAKER_01",
+      "text": "Deci suntem în poziție antalgică, cu limitarea mișcării, deci este o criză acută."
+    },
+    {
+      "start": 77.819,
+      "end": 84.082,
+      "speaker": "SPEAKER_01",
+      "text": "Totodată vreau să vă spuneți, dacă ridic piciorul drept,"
+    },
+    {
+      "start": 84.647,
+      "end": 86.39,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult de 30 de grade doare?"
+    },
+    {
+      "start": 86.932,
+      "end": 88.275,
+      "speaker": "SPEAKER_01",
+      "text": "Da, doare, doare foarte mult."
+    },
+    {
+      "start": 88.816,
+      "end": 93.567,
+      "speaker": "SPEAKER_01",
+      "text": "Deci avem și un test la seg pozitiv la peste 30 de grade."
+    },
+    {
+      "start": 95.677,
+      "end": 99.28,
+      "speaker": "SPEAKER_01",
+      "text": "La segul poate fi pozitiv și la 10 grade și la 15 grade."
+    },
+    {
+      "start": 100.181,
+      "end": 106.427,
+      "speaker": "SPEAKER_01",
+      "text": "Piciorul doare pe tot traseul nervului sciatic, dar se acutizează și durerea din zona lombară."
+    },
+    {
+      "start": 107.088,
+      "end": 116.077,
+      "speaker": "SPEAKER_01",
+      "text": "Deci doar testul la seg este pozitiv când în momentul ridicării membrului inferior se acutizează zona lombară."
+    },
+    {
+      "start": 116.688,
+      "end": 119.169,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, povestiți-mi despre durerea asta lombară."
+    },
+    {
+      "start": 119.309,
+      "end": 130.635,
+      "speaker": "SPEAKER_01",
+      "text": "Se lasești mai jos de mijloc, este o durere țintuită, locală, o durere în bară, adică locală, dar cuprinzătoare, pe toată zona lombară."
+    },
+    {
+      "start": 131.255,
+      "end": 133.176,
+      "speaker": "SPEAKER_01",
+      "text": "Este o durere iradiantă."
+    },
+    {
+      "start": 133.536,
+      "end": 135.217,
+      "speaker": "SPEAKER_01",
+      "text": "Este exact cum este în bară."
+    },
+    {
+      "start": 135.497,
+      "end": 138.418,
+      "speaker": "SPEAKER_01",
+      "text": "Îmbara și taia unde tot."
+    },
+    {
+      "start": 138.918,
+      "end": 140.139,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 140.159,
+      "end": 155.443,
+      "speaker": "SPEAKER_01",
+      "text": "Înțeleg că inflamația este locală, rătirea nervoasă nu e neapărat afectată, doar că sistemul nostru de autoapărare a intrat în protecție și a inflamat, a blocat toată musculatura ca să nu se ajungă la ceva și mai mult."
+    },
+    {
+      "start": 155.563,
+      "end": 160.705,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă în schimb durerea era iradiant, aș fi vrut să știu dacă"
+    },
+    {
+      "start": 161.939,
+      "end": 177.367,
+      "speaker": "SPEAKER_01",
+      "text": "Cobora mai jos de fesă, dacă se limita la nivelul fesei, dacă cobora până la nivelul genunchiului pe partea posterioră, deci la nivel retro-pliteal, sau cobora până la nivelul căcriului, inclusiv degetele piciorului."
+    },
+    {
+      "start": 177.807,
+      "end": 183.153,
+      "speaker": "SPEAKER_01",
+      "text": "Pentru că dacă se întâmpla, asta înseamnă că aveam o afectare la nivelul rădăcinii nervoase."
+    },
+    {
+      "start": 183.173,
+      "end": 193.244,
+      "speaker": "SPEAKER_01",
+      "text": "Și dacă erau afectate la nivel de radiculopatie, degetul 1 și 2 ar fi fost afectat rădăcina nervoasă L5-S1."
+    },
+    {
+      "start": 194.678,
+      "end": 199.101,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă în schimb era 3 și 4, era afectată rădăcina nervoasă în 4 și 5."
+    },
+    {
+      "start": 200.181,
+      "end": 200.522,
+      "speaker": "SPEAKER_01",
+      "text": "Da?"
+    },
+    {
+      "start": 201.162,
+      "end": 209.367,
+      "speaker": "SPEAKER_01",
+      "text": "Vreau să știu dacă a simțit vreodată senzație ciudată la nivelul mușcului tibial, pe fața anterioară a tibiei."
+    },
+    {
+      "start": 210.387,
+      "end": 210.568,
+      "speaker": "SPEAKER_01",
+      "text": "Da?"
+    },
+    {
+      "start": 210.648,
+      "end": 210.988,
+      "speaker": "SPEAKER_01",
+      "text": "Da?"
+    },
+    {
+      "start": 211.328,
+      "end": 223.115,
+      "speaker": "SPEAKER_01",
+      "text": "Deci, clar, din când în când mai elita rădăcina nervoasă și automat dădea o radiculopatie cu o manifestare la nivel de șpia de copritel extern."
+    },
+    {
+      "start": 224.012,
+      "end": 235.363,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă, în schimb, ar fi fost manifestarea pe partea internă a gambei, a tibiei, atunci ar fi fost un și-a tipopitălui intern afectat."
+    },
+    {
+      "start": 236.144,
+      "end": 245.933,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă, în schimb, s-ar fi resimțit o presiune la nivelul gleznei, ca o gheară care strânge glezna, ar fi fost o compresie radiculară de L5-1."
+    },
+    {
+      "start": 246.433,
+      "end": 253.936,
+      "speaker": "SPEAKER_01",
+      "text": "Totodată, L4, L5 și L5-S1 poate da de împotrivă și durerea iradiantă surdă la nivelul genunchiului."
+    },
+    {
+      "start": 255.477,
+      "end": 272.863,
+      "speaker": "SPEAKER_01",
+      "text": "Deci, nu ne confruntăm cu toate aceste simptomatologii, dar, în schimb, suntem într-o criză acută de L5-S1 lombară cu partea de afectarea, sau mai bine zis, de poziția talgică."
+    },
+    {
+      "start": 274.171,
+      "end": 277.596,
+      "speaker": "SPEAKER_01",
+      "text": "Ok. Fă mulțumesc."
+    },
+    {
+      "start": 277.697,
+      "end": 278.865,
+      "speaker": "SPEAKER_01",
+      "text": "Basta trebuie să știe datele."
+    }
+  ]
+}

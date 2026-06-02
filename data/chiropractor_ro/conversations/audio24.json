@@ -1,0 +1,457 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio24.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 1.09,
+      "end": 1.991,
+      "speaker": "SPEAKER_01",
+      "text": "Să rămân aștept în ea."
+    },
+    {
+      "start": 2.871,
+      "end": 2.991,
+      "speaker": "SPEAKER_00",
+      "text": "Bună"
+    },
+    {
+      "start": 3.011,
+      "end": 4.872,
+      "speaker": "SPEAKER_01",
+      "text": "ziua."
+    },
+    {
+      "start": 4.892,
+      "end": 7.974,
+      "speaker": "SPEAKER_01",
+      "text": "Cu ce probleme ne întâlnim?"
+    },
+    {
+      "start": 8.055,
+      "end": 16.4,
+      "speaker": "SPEAKER_00",
+      "text": "Par echitație și în ultimele două săptămâni am căzut de pe cal de vreo patru ori și simt că mă doresc spatele."
+    },
+    {
+      "start": 16.42,
+      "end": 18.021,
+      "speaker": "SPEAKER_01",
+      "text": "Înțeles."
+    },
+    {
+      "start": 18.101,
+      "end": 19.802,
+      "speaker": "SPEAKER_01",
+      "text": "Știu că nu se întreabă o femeie, dar ce vârsta"
+    },
+    {
+      "start": 19.842,
+      "end": 20.603,
+      "speaker": "SPEAKER_00",
+      "text": "e?"
+    },
+    {
+      "start": 20.623,
+      "end": 20.703,
+      "speaker": "SPEAKER_00",
+      "text": "24."
+    },
+    {
+      "start": 20.723,
+      "end": 23.845,
+      "speaker": "SPEAKER_00",
+      "text": "Nu țin ainte."
+    },
+    {
+      "start": 23.865,
+      "end": 24.945,
+      "speaker": "SPEAKER_01",
+      "text": "În ce zonă aș doresc spatele?"
+    },
+    {
+      "start": 24.965,
+      "end": 27.127,
+      "speaker": "SPEAKER_01",
+      "text": "În partea de jos, în partea de turacal, de mijloc?"
+    },
+    {
+      "start": 29.283,
+      "end": 33.027,
+      "speaker": "SPEAKER_00",
+      "text": "Am căzut în mai multe moduri, dar în principiu în partea de jos."
+    },
+    {
+      "start": 33.787,
+      "end": 35.389,
+      "speaker": "SPEAKER_01",
+      "text": "În partea de jos."
+    },
+    {
+      "start": 35.429,
+      "end": 40.753,
+      "speaker": "SPEAKER_01",
+      "text": "Durerea aceasta este o durere locală sau se lasă și pe picior în jos, pe fesă?"
+    },
+    {
+      "start": 40.813,
+      "end": 44.136,
+      "speaker": "SPEAKER_00",
+      "text": "Pe fesă în partea stângă, doar că nu știu dacă mă doar osul sau nu știu."
+    },
+    {
+      "start": 45.197,
+      "end": 46.318,
+      "speaker": "SPEAKER_01",
+      "text": "Pe fesă în partea stângă."
+    },
+    {
+      "start": 46.478,
+      "end": 47.879,
+      "speaker": "SPEAKER_01",
+      "text": "Mai jos de fesă se lasă?"
+    },
+    {
+      "start": 47.899,
+      "end": 47.959,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 47.979,
+      "end": 50.722,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 50.742,
+      "end": 51.342,
+      "speaker": "SPEAKER_01",
+      "text": "Alergii avem?"
+    },
+    {
+      "start": 51.362,
+      "end": 52.323,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 53.841,
+      "end": 58.126,
+      "speaker": "SPEAKER_01",
+      "text": "Știi să-mi spui pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău."
+    },
+    {
+      "start": 58.386,
+      "end": 59.828,
+      "speaker": "SPEAKER_01",
+      "text": "Pe unde ne-am situat cu durerea aceasta?"
+    },
+    {
+      "start": 60.569,
+      "end": 64.173,
+      "speaker": "SPEAKER_00",
+      "text": "În momentul impactului 10 după 6."
+    },
+    {
+      "start": 64.213,
+      "end": 66.076,
+      "speaker": "SPEAKER_00",
+      "text": "După"
+    },
+    {
+      "start": 66.176,
+      "end": 66.576,
+      "speaker": "SPEAKER_01",
+      "text": "6."
+    },
+    {
+      "start": 66.836,
+      "end": 68.378,
+      "speaker": "SPEAKER_01",
+      "text": "Și de două săptămâni se menține în 6"
+    },
+    {
+      "start": 68.398,
+      "end": 69.74,
+      "speaker": "SPEAKER_00",
+      "text": "durerea?"
+    },
+    {
+      "start": 69.78,
+      "end": 72.263,
+      "speaker": "SPEAKER_00",
+      "text": "Variază în funcție de cum mă mișc."
+    },
+    {
+      "start": 72.303,
+      "end": 73.164,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 73.912,
+      "end": 79.679,
+      "speaker": "SPEAKER_01",
+      "text": "Alte afecțiuni cum ar fi tensiune, diabet, epilepsie scolioză."
+    },
+    {
+      "start": 79.879,
+      "end": 81.381,
+      "speaker": "SPEAKER_00",
+      "text": "Un pic de scolioză."
+    },
+    {
+      "start": 81.701,
+      "end": 82.762,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic de scolioză."
+    },
+    {
+      "start": 82.782,
+      "end": 84.464,
+      "speaker": "SPEAKER_01",
+      "text": "Ce înseamnă un pic?"
+    },
+    {
+      "start": 84.704,
+      "end": 87.167,
+      "speaker": "SPEAKER_00",
+      "text": "Pe la baza coloanei este un pic curbată așa."
+    },
+    {
+      "start": 88.649,
+      "end": 89.109,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 89.129,
+      "end": 90.351,
+      "speaker": "SPEAKER_01",
+      "text": "Sunt trimis și mie să verific,"
+    },
+    {
+      "start": 90.411,
+      "end": 90.711,
+      "speaker": "SPEAKER_00",
+      "text": "da?"
+    },
+    {
+      "start": 90.751,
+      "end": 92.393,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 92.754,
+      "end": 94.055,
+      "speaker": "SPEAKER_01",
+      "text": "Bun, hai să renunțăm la tripou."
+    },
+    {
+      "start": 96.354,
+      "end": 100.698,
+      "speaker": "SPEAKER_01",
+      "text": "Și voi avea nevoie să îmi spui dacă doare în zona asta."
+    },
+    {
+      "start": 100.798,
+      "end": 103.961,
+      "speaker": "SPEAKER_01",
+      "text": "Voi apăsa acum pe mușchil pirifon, aici la fesă."
+    },
+    {
+      "start": 104.742,
+      "end": 105.082,
+      "speaker": "SPEAKER_01",
+      "text": "Doare?"
+    },
+    {
+      "start": 107.124,
+      "end": 107.304,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 107.344,
+      "end": 108.726,
+      "speaker": "SPEAKER_01",
+      "text": "La 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 110.067,
+      "end": 110.107,
+      "speaker": null,
+      "text": "7."
+    },
+    {
+      "start": 111.308,
+      "end": 111.408,
+      "speaker": "SPEAKER_01",
+      "text": "7."
+    },
+    {
+      "start": 111.428,
+      "end": 113.009,
+      "speaker": "SPEAKER_01",
+      "text": "Mai sus aici în pătratul lombar doare?"
+    },
+    {
+      "start": 113.789,
+      "end": 115.811,
+      "speaker": "SPEAKER_00",
+      "text": "Nu știu ce este pătratul lombar."
+    },
+    {
+      "start": 115.891,
+      "end": 116.952,
+      "speaker": "SPEAKER_01",
+      "text": "Se prespune cât te apăs."
+    },
+    {
+      "start": 116.972,
+      "end": 118.894,
+      "speaker": "SPEAKER_01",
+      "text": "Ai sus aici în pătratul lombar doare?"
+    },
+    {
+      "start": 119.274,
+      "end": 119.474,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 120.014,
+      "end": 123.097,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă apăs chiar aici pe coloană în zona lombară doare?"
+    },
+    {
+      "start": 123.217,
+      "end": 124.298,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 124.338,
+      "end": 124.758,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 124.898,
+      "end": 126.88,
+      "speaker": "SPEAKER_01",
+      "text": "Pe picior în jos aici doare?"
+    },
+    {
+      "start": 126.98,
+      "end": 127.06,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 127.08,
+      "end": 128.701,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 128.781,
+      "end": 129.202,
+      "speaker": "SPEAKER_01",
+      "text": "Bun."
+    },
+    {
+      "start": 129.442,
+      "end": 130.603,
+      "speaker": "SPEAKER_01",
+      "text": "Ai mai făcut terapie până acum?"
+    },
+    {
+      "start": 130.943,
+      "end": 133.205,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 133.685,
+      "end": 135.026,
+      "speaker": "SPEAKER_01",
+      "text": "Boli cu transmitere cutanată?"
+    },
+    {
+      "start": 135.367,
+      "end": 135.467,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 135.907,
+      "end": 136.427,
+      "speaker": "SPEAKER_01",
+      "text": "Implanturi?"
+    },
+    {
+      "start": 136.748,
+      "end": 137.188,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 139.1,
+      "end": 140.84,
+      "speaker": "SPEAKER_01",
+      "text": "Ei vreo substanță medicamentoasă?"
+    },
+    {
+      "start": 141.24,
+      "end": 141.34,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 141.4,
+      "end": 153.823,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo forme de tratament?"
+    },
+    {
+      "start": 153.883,
+      "end": 153.963,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 154.003,
+      "end": 155.283,
+      "speaker": "SPEAKER_01",
+      "text": "Eu zic că putem să trecem la treabă."
+    },
+    {
+      "start": 155.303,
+      "end": 158.944,
+      "speaker": "SPEAKER_01",
+      "text": "Vom începe cu partea de fizioterapie, ulterior cu partea de terapie manuală."
+    },
+    {
+      "start": 159.804,
+      "end": 166.305,
+      "speaker": "SPEAKER_01",
+      "text": "Și hai să vedem cum decur primele 2-3 ședințe, ca să ne dăm seama neavându-i remene."
+    },
+    {
+      "start": 168.138,
+      "end": 170.581,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă ar fi cazul să facem și un remen pe viitor."
+    },
+    {
+      "start": 170.601,
+      "end": 171.903,
+      "speaker": "SPEAKER_00",
+      "text": "Ok."
+    }
+  ]
+}

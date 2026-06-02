@@ -1,0 +1,559 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio20.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 1.132,
+      "end": 1.492,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 1.652,
+      "end": 4.274,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi și mie, vă rog, numele și prenumele dumneavoastră."
+    },
+    {
+      "start": 4.834,
+      "end": 7.676,
+      "speaker": "SPEAKER_00",
+      "text": "Valentin Baciu."
+    },
+    {
+      "start": 7.716,
+      "end": 8.197,
+      "speaker": "SPEAKER_00",
+      "text": "Vârsta?"
+    },
+    {
+      "start": 8.977,
+      "end": 9.318,
+      "speaker": "SPEAKER_00",
+      "text": "38 de ani."
+    },
+    {
+      "start": 9.338,
+      "end": 12.78,
+      "speaker": "SPEAKER_00",
+      "text": "Mulți înainte."
+    },
+    {
+      "start": 12.82,
+      "end": 13.28,
+      "speaker": "SPEAKER_00",
+      "text": "Județul?"
+    },
+    {
+      "start": 14.201,
+      "end": 15.142,
+      "speaker": "SPEAKER_00",
+      "text": "Teleorman."
+    },
+    {
+      "start": 17.343,
+      "end": 17.423,
+      "speaker": "SPEAKER_00",
+      "text": "Cum"
+    },
+    {
+      "start": 17.443,
+      "end": 19.105,
+      "speaker": "SPEAKER_01",
+      "text": "ați auzit de noi, domnule Baciu?"
+    },
+    {
+      "start": 19.625,
+      "end": 24.969,
+      "speaker": "SPEAKER_01",
+      "text": "Pe social media băieții de la marketing fac o echipă foarte bună."
+    },
+    {
+      "start": 24.989,
+      "end": 26.35,
+      "speaker": "SPEAKER_00",
+      "text": "O să-i fericităm prin acest..."
+    },
+    {
+      "start": 28.697,
+      "end": 29.078,
+      "speaker": "SPEAKER_00",
+      "text": "Lucru."
+    },
+    {
+      "start": 29.098,
+      "end": 29.981,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi și mie cu ce"
+    },
+    {
+      "start": 30.001,
+      "end": 31.064,
+      "speaker": "SPEAKER_01",
+      "text": "problemă ne vedem."
+    },
+    {
+      "start": 31.565,
+      "end": 40.811,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare foarte tare spatele, mă simt așa încrâncenat, ca și cum sunt, îmi simt mușchii foarte tensionați."
+    },
+    {
+      "start": 40.831,
+      "end": 41.952,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp senzația asta?"
+    },
+    {
+      "start": 42.813,
+      "end": 43.613,
+      "speaker": "SPEAKER_00",
+      "text": "De vreo 5 zile."
+    },
+    {
+      "start": 44.594,
+      "end": 45.334,
+      "speaker": "SPEAKER_00",
+      "text": "De vreo 5 zile."
+    },
+    {
+      "start": 45.354,
+      "end": 49.657,
+      "speaker": "SPEAKER_00",
+      "text": "Ați luat un tratament medicamentos sau ați mai făcut terapie în aceste 5 zile?"
+    },
+    {
+      "start": 50.378,
+      "end": 58.683,
+      "speaker": "SPEAKER_01",
+      "text": "N-am făcut terapie, am muncit în continuu, eu muncesc pământul foarte mult și de asta am muncit doare spatele, doar am luat aspirinul."
+    },
+    {
+      "start": 59.524,
+      "end": 60.204,
+      "speaker": "SPEAKER_00",
+      "text": "În regulă."
+    },
+    {
+      "start": 62.512,
+      "end": 69.798,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de durere, de la 0 unde 0 înseamnă că nu te doare deloc și 10 înseamnă că doare foarte rău, cam unde ne-am situat."
+    },
+    {
+      "start": 70.298,
+      "end": 72.04,
+      "speaker": "SPEAKER_00",
+      "text": "Aș zice că ne aducem spre un 7."
+    },
+    {
+      "start": 72.06,
+      "end": 75.442,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles, deci doare destul de tare."
+    },
+    {
+      "start": 75.763,
+      "end": 75.983,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 77.944,
+      "end": 80.987,
+      "speaker": "SPEAKER_00",
+      "text": "Care zonă e interesată cel mai mult din spate?"
+    },
+    {
+      "start": 81.267,
+      "end": 82.488,
+      "speaker": "SPEAKER_00",
+      "text": "Doare partea asta de sus."
+    },
+    {
+      "start": 83.189,
+      "end": 83.809,
+      "speaker": "SPEAKER_00",
+      "text": "Partea de sus."
+    },
+    {
+      "start": 84.67,
+      "end": 86.351,
+      "speaker": "SPEAKER_00",
+      "text": "Și între omoplas, da?"
+    },
+    {
+      "start": 86.551,
+      "end": 88.112,
+      "speaker": "SPEAKER_00",
+      "text": "Da, da, acolo."
+    },
+    {
+      "start": 88.132,
+      "end": 88.773,
+      "speaker": "SPEAKER_00",
+      "text": "Acolo."
+    },
+    {
+      "start": 91.391,
+      "end": 92.252,
+      "speaker": "SPEAKER_00",
+      "text": "Alte afecțiuni avem?"
+    },
+    {
+      "start": 92.392,
+      "end": 93.152,
+      "speaker": "SPEAKER_00",
+      "text": "Hipertensiune?"
+    },
+    {
+      "start": 93.372,
+      "end": 93.853,
+      "speaker": "SPEAKER_00",
+      "text": "Diabet?"
+    },
+    {
+      "start": 94.333,
+      "end": 95.194,
+      "speaker": "SPEAKER_00",
+      "text": "Da, am diabet."
+    },
+    {
+      "start": 95.914,
+      "end": 99.056,
+      "speaker": "SPEAKER_00",
+      "text": "De ce tip e diabetul?"
+    },
+    {
+      "start": 99.136,
+      "end": 104.139,
+      "speaker": "SPEAKER_00",
+      "text": "Doi."
+    },
+    {
+      "start": 104.179,
+      "end": 105.3,
+      "speaker": "SPEAKER_00",
+      "text": "Boli cu transmitere cutanată?"
+    },
+    {
+      "start": 105.34,
+      "end": 106.941,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 106.961,
+      "end": 108.422,
+      "speaker": "SPEAKER_00",
+      "text": "Implanturi, proteze metalice?"
+    },
+    {
+      "start": 108.662,
+      "end": 110.344,
+      "speaker": "SPEAKER_00",
+      "text": "Am un implant."
+    },
+    {
+      "start": 110.404,
+      "end": 111.424,
+      "speaker": "SPEAKER_00",
+      "text": "Unde este implantul?"
+    },
+    {
+      "start": 111.444,
+      "end": 119.109,
+      "speaker": "SPEAKER_00",
+      "text": "În gură."
+    },
+    {
+      "start": 119.65,
+      "end": 120.11,
+      "speaker": "SPEAKER_01",
+      "text": "Mhm."
+    },
+    {
+      "start": 122.022,
+      "end": 123.603,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să facem și câteva teste."
+    },
+    {
+      "start": 123.903,
+      "end": 124.863,
+      "speaker": "SPEAKER_00",
+      "text": "Hai."
+    },
+    {
+      "start": 125.403,
+      "end": 128.224,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi dacă doare când apăs aici, pe mijlocul spatele."
+    },
+    {
+      "start": 128.264,
+      "end": 128.664,
+      "speaker": "SPEAKER_00",
+      "text": "Da, doare."
+    },
+    {
+      "start": 128.965,
+      "end": 130.985,
+      "speaker": "SPEAKER_00",
+      "text": "În momentul în care apăs, doare și în față?"
+    },
+    {
+      "start": 131.706,
+      "end": 132.186,
+      "speaker": "SPEAKER_01",
+      "text": "În față nu."
+    },
+    {
+      "start": 132.786,
+      "end": 137.228,
+      "speaker": "SPEAKER_00",
+      "text": "Simțim vreodată că ar trebui să tragem mai mult aer în diafragmă, că nu respirăm suficient de profund?"
+    },
+    {
+      "start": 137.288,
+      "end": 138.888,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 138.908,
+      "end": 140.589,
+      "speaker": "SPEAKER_00",
+      "text": "Avem și stare de amerteară, de vertigi?"
+    },
+    {
+      "start": 141.029,
+      "end": 141.989,
+      "speaker": "SPEAKER_01",
+      "text": "Da, câteodată avem."
+    },
+    {
+      "start": 142.43,
+      "end": 143.55,
+      "speaker": "SPEAKER_00",
+      "text": "Câteodată avem."
+    },
+    {
+      "start": 145.013,
+      "end": 148.376,
+      "speaker": "SPEAKER_00",
+      "text": "Când ne doare cel mai tare, dimineața când ne trezim sau seara când ne punem în pat?"
+    },
+    {
+      "start": 148.456,
+      "end": 150.298,
+      "speaker": "SPEAKER_01",
+      "text": "Seara când ne punem în pat doare foarte tare."
+    },
+    {
+      "start": 150.438,
+      "end": 151.979,
+      "speaker": "SPEAKER_01",
+      "text": "Mai ales să vă dați seama și după zi de muncă."
+    },
+    {
+      "start": 152.4,
+      "end": 153.681,
+      "speaker": "SPEAKER_01",
+      "text": "Și după zi de muncă doare cel mai"
+    },
+    {
+      "start": 153.721,
+      "end": 157.484,
+      "speaker": "SPEAKER_00",
+      "text": "tare."
+    },
+    {
+      "start": 157.504,
+      "end": 159.526,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți cumva și un CD, un RMN, o radiografie?"
+    },
+    {
+      "start": 159.967,
+      "end": 160.988,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, trebuie să fac."
+    },
+    {
+      "start": 161.708,
+      "end": 165.912,
+      "speaker": "SPEAKER_00",
+      "text": "Ar fi util să facem ca să vedem exact ce se află acolo, dacă dumneavoastră lucrați mult..."
+    },
+    {
+      "start": 166.593,
+      "end": 167.874,
+      "speaker": "SPEAKER_00",
+      "text": "Terenul, cum a spus."
+    },
+    {
+      "start": 168.654,
+      "end": 172.097,
+      "speaker": "SPEAKER_00",
+      "text": "Înseamnă că pot să apare și câteva protuzii discare sau traumatisme la nivelul coloanei."
+    },
+    {
+      "start": 172.117,
+      "end": 173.497,
+      "speaker": "SPEAKER_00",
+      "text": "Trebuie să ne asigurăm că nu există așa ceva."
+    },
+    {
+      "start": 174.318,
+      "end": 174.398,
+      "speaker": "SPEAKER_01",
+      "text": "În"
+    },
+    {
+      "start": 174.418,
+      "end": 180.102,
+      "speaker": "SPEAKER_00",
+      "text": "regulă."
+    },
+    {
+      "start": 180.122,
+      "end": 181.803,
+      "speaker": "SPEAKER_00",
+      "text": "Aici doare?"
+    },
+    {
+      "start": 181.883,
+      "end": 183.624,
+      "speaker": "SPEAKER_01",
+      "text": "Da, doare, da."
+    },
+    {
+      "start": 183.644,
+      "end": 186.486,
+      "speaker": "SPEAKER_00",
+      "text": "În momentul în care apăs, amorțește mâna?"
+    },
+    {
+      "start": 186.526,
+      "end": 187.386,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 187.827,
+      "end": 189.668,
+      "speaker": "SPEAKER_00",
+      "text": "Toată mâna sau doar partea de sus de omor?"
+    },
+    {
+      "start": 190.208,
+      "end": 191.489,
+      "speaker": "SPEAKER_01",
+      "text": "Simt toată mâna că amorțește."
+    },
+    {
+      "start": 191.709,
+      "end": 192.83,
+      "speaker": "SPEAKER_00",
+      "text": "Deci până în degete, da?"
+    },
+    {
+      "start": 192.91,
+      "end": 193.23,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 194.575,
+      "end": 196.936,
+      "speaker": "SPEAKER_00",
+      "text": "În momentul în care apăs aici, în zona cervicală, doare?"
+    },
+    {
+      "start": 197.496,
+      "end": 198.717,
+      "speaker": "SPEAKER_01",
+      "text": "Da, doare și aici."
+    },
+    {
+      "start": 199.417,
+      "end": 201.718,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, dar când mă duc în partea opusă, pe lombar, doare?"
+    },
+    {
+      "start": 202.139,
+      "end": 209.942,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 210.022,
+      "end": 210.583,
+      "speaker": "SPEAKER_01",
+      "text": "Diagnostic?"
+    },
+    {
+      "start": 210.863,
+      "end": 212.924,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu."
+    },
+    {
+      "start": 213.224,
+      "end": 221.088,
+      "speaker": "SPEAKER_00",
+      "text": "Pe lângă faptul că aveți partea de rombois tensionată, pare că ați făcut și a inflamații la nivelul scalenilor și trapezului."
+    },
+    {
+      "start": 223.208,
+      "end": 228.613,
+      "speaker": "SPEAKER_00",
+      "text": "Ar fi util remenelor despre care vorbim, ca să vedem dacă este și o produsie discărală la nivel turacal."
+    },
+    {
+      "start": 229.054,
+      "end": 230.535,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 230.635,
+      "end": 241.266,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să vedem cum mergi începând în reducerea inflamației în zona turacală și cervicală."
+    },
+    {
+      "start": 241.366,
+      "end": 241.886,
+      "speaker": "SPEAKER_01",
+      "text": "În regulă."
+    },
+    {
+      "start": 241.926,
+      "end": 243.408,
+      "speaker": "SPEAKER_01",
+      "text": "Deci intrăm în terapie acum,"
+    },
+    {
+      "start": 243.448,
+      "end": 243.628,
+      "speaker": "SPEAKER_00",
+      "text": "da?"
+    },
+    {
+      "start": 243.648,
+      "end": 244.929,
+      "speaker": "SPEAKER_00",
+      "text": "Deci haideți să intrăm în terapie."
+    },
+    {
+      "start": 245.51,
+      "end": 245.61,
+      "speaker": null,
+      "text": "Ok."
+    }
+  ]
+}

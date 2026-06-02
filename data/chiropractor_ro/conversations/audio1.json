@@ -1,0 +1,439 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio1.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 0.491,
+      "end": 1.052,
+      "speaker": "SPEAKER_00",
+      "text": "Registrare"
+    },
+    {
+      "start": 1.332,
+      "end": 1.452,
+      "speaker": "SPEAKER_01",
+      "text": "1."
+    },
+    {
+      "start": 1.853,
+      "end": 1.953,
+      "speaker": "SPEAKER_01",
+      "text": "Să"
+    },
+    {
+      "start": 1.973,
+      "end": 2.933,
+      "speaker": "SPEAKER_00",
+      "text": "vedem."
+    },
+    {
+      "start": 3.294,
+      "end": 5.476,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne confrontăm."
+    },
+    {
+      "start": 6.096,
+      "end": 8.078,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doresc cervical foarte tare."
+    },
+    {
+      "start": 8.518,
+      "end": 8.779,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 8.999,
+      "end": 18.407,
+      "speaker": "SPEAKER_00",
+      "text": "Dacă vorbim de zona cervicală, spuneți-mi, vă rog, pe o scare de la 1 la 10, cum estimați această durere la modul subiectiv?"
+    },
+    {
+      "start": 19.067,
+      "end": 19.187,
+      "speaker": "SPEAKER_00",
+      "text": "7."
+    },
+    {
+      "start": 19.207,
+      "end": 20.529,
+      "speaker": "SPEAKER_00",
+      "text": "7."
+    },
+    {
+      "start": 20.549,
+      "end": 24.392,
+      "speaker": "SPEAKER_00",
+      "text": "Această durere strigă calitatea vieții dacă depășește numărul 5."
+    },
+    {
+      "start": 24.432,
+      "end": 25.153,
+      "speaker": "SPEAKER_00",
+      "text": "Asta este clar."
+    },
+    {
+      "start": 25.927,
+      "end": 29.709,
+      "speaker": "SPEAKER_00",
+      "text": "Pe de altă parte, vreau să știu, durerea este locală?"
+    },
+    {
+      "start": 29.729,
+      "end": 30.429,
+      "speaker": "SPEAKER_00",
+      "text": "Nu,"
+    },
+    {
+      "start": 30.449,
+      "end": 31.109,
+      "speaker": "SPEAKER_01",
+      "text": "se lasă și pe braț."
+    },
+    {
+      "start": 31.81,
+      "end": 36.351,
+      "speaker": "SPEAKER_00",
+      "text": "Deci este o durere iradiantă și am și radiculopatie."
+    },
+    {
+      "start": 37.232,
+      "end": 49.337,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, dincolo de amorțeală simțim o senzație ciudată, simțim, dacă trecem cu degetul peste mână, simțim că pielea se simte ciudată, ca și cum n-ar fi pielea noastră, ar fi o coală de hârtie."
+    },
+    {
+      "start": 52.237,
+      "end": 54.379,
+      "speaker": "SPEAKER_00",
+      "text": "Deci radiculopatie și alodinie."
+    },
+    {
+      "start": 55.26,
+      "end": 58.262,
+      "speaker": "SPEAKER_00",
+      "text": "Care este frecvența într-o săptămână?"
+    },
+    {
+      "start": 58.302,
+      "end": 60.224,
+      "speaker": "SPEAKER_00",
+      "text": "De câte ori simțim asta?"
+    },
+    {
+      "start": 60.244,
+      "end": 63.007,
+      "speaker": "SPEAKER_00",
+      "text": "Să zicem 3-4 zile."
+    },
+    {
+      "start": 63.067,
+      "end": 64.208,
+      "speaker": "SPEAKER_00",
+      "text": "3-4 zile din săptămână."
+    },
+    {
+      "start": 64.928,
+      "end": 68.912,
+      "speaker": "SPEAKER_00",
+      "text": "Intensitatea boleroasă rămâne în continuare șapte sau fluctuiază?"
+    },
+    {
+      "start": 70.152,
+      "end": 70.212,
+      "speaker": "SPEAKER_01",
+      "text": "7."
+    },
+    {
+      "start": 70.432,
+      "end": 71.112,
+      "speaker": "SPEAKER_01",
+      "text": "Fluctuează, adică..."
+    },
+    {
+      "start": 71.792,
+      "end": 74.033,
+      "speaker": "SPEAKER_00",
+      "text": "Când este mai intensă dimineața?"
+    },
+    {
+      "start": 74.213,
+      "end": 75.593,
+      "speaker": "SPEAKER_00",
+      "text": "În timpul zilei sau seara?"
+    },
+    {
+      "start": 75.613,
+      "end": 76.153,
+      "speaker": "SPEAKER_00",
+      "text": "Seara."
+    },
+    {
+      "start": 76.693,
+      "end": 77.014,
+      "speaker": "SPEAKER_00",
+      "text": "Seara."
+    },
+    {
+      "start": 77.634,
+      "end": 80.834,
+      "speaker": "SPEAKER_00",
+      "text": "Mai intensă odată cu lăsarea serii sau după ce ne-am timp de mod?"
+    },
+    {
+      "start": 80.854,
+      "end": 82.355,
+      "speaker": "SPEAKER_00",
+      "text": "După ce"
+    },
+    {
+      "start": 82.375,
+      "end": 84.135,
+      "speaker": "SPEAKER_01",
+      "text": "ne-am timp de mod."
+    },
+    {
+      "start": 84.155,
+      "end": 84.815,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 85.215,
+      "end": 90.276,
+      "speaker": "SPEAKER_00",
+      "text": "Crește și intensitatea de la, să zicem, dacă e 3 în timpul zilei, ajunge până la 7."
+    },
+    {
+      "start": 90.296,
+      "end": 92.037,
+      "speaker": "SPEAKER_00",
+      "text": "Au mai fost situații."
+    },
+    {
+      "start": 92.057,
+      "end": 92.937,
+      "speaker": "SPEAKER_00",
+      "text": "Au mai fost situații."
+    },
+    {
+      "start": 93.617,
+      "end": 95.757,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți să facem câteva tesări."
+    },
+    {
+      "start": 96.638,
+      "end": 98.378,
+      "speaker": "SPEAKER_00",
+      "text": "Dacă apăs pe cap..."
+    },
+    {
+      "start": 99.518,
+      "end": 101.38,
+      "speaker": "SPEAKER_00",
+      "text": "Crește intensitatea amorțelii de pe mână?"
+    },
+    {
+      "start": 102.121,
+      "end": 103.863,
+      "speaker": "SPEAKER_00",
+      "text": "Se simte o durere iradiantă?"
+    },
+    {
+      "start": 104.824,
+      "end": 105.745,
+      "speaker": "SPEAKER_00",
+      "text": "Fulgerătoare?"
+    },
+    {
+      "start": 106.826,
+      "end": 108.287,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 108.888,
+      "end": 111.271,
+      "speaker": "SPEAKER_00",
+      "text": "Asta înseamnă că avem și o compresie radiculară."
+    },
+    {
+      "start": 112.091,
+      "end": 117.377,
+      "speaker": "SPEAKER_00",
+      "text": "Va trebui să vedem exact unde se resimte cel mai mult la ce nivel vertebral."
+    },
+    {
+      "start": 117.828,
+      "end": 122.153,
+      "speaker": "SPEAKER_00",
+      "text": "În momentul în care apăs la nivelul vertebrei C7, se resimte ceva?"
+    },
+    {
+      "start": 122.173,
+      "end": 122.994,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 123.014,
+      "end": 126.417,
+      "speaker": "SPEAKER_00",
+      "text": "Când apăs la nivel de C5 și C6, acum unde sunt, se resimte ceva?"
+    },
+    {
+      "start": 126.738,
+      "end": 127.278,
+      "speaker": "SPEAKER_00",
+      "text": "Da, se resimte."
+    },
+    {
+      "start": 127.979,
+      "end": 129.921,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, deci adum o compresie la nivel de C5 și C6."
+    },
+    {
+      "start": 131.5,
+      "end": 136.863,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-vă, au existat situații în care să ne confruntăm cu următoarele simptome?"
+    },
+    {
+      "start": 137.203,
+      "end": 138.264,
+      "speaker": "SPEAKER_00",
+      "text": "Ții uite în oreche?"
+    },
+    {
+      "start": 138.804,
+      "end": 139.805,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 139.845,
+      "end": 142.786,
+      "speaker": "SPEAKER_00",
+      "text": "Deci, tinitus prezent."
+    },
+    {
+      "start": 142.826,
+      "end": 143.987,
+      "speaker": "SPEAKER_00",
+      "text": "Senzație de vertiș?"
+    },
+    {
+      "start": 144.507,
+      "end": 144.808,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 145.628,
+      "end": 148.39,
+      "speaker": "SPEAKER_00",
+      "text": "Odată cu vertijul și senzația de greață, vărsături?"
+    },
+    {
+      "start": 148.55,
+      "end": 148.95,
+      "speaker": null,
+      "text": "Da."
+    },
+    {
+      "start": 149.568,
+      "end": 153.99,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, asta înseamnă că avem și o arteră vertebrală prezentă."
+    },
+    {
+      "start": 154.01,
+      "end": 156.11,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 156.13,
+      "end": 171.056,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să facem câteva testări, să excludem sau să includem această arteră vertebrală și în funcție de testare, îmi spuneți, în funcție de testare, stabilim și un diagnostic."
+    },
+    {
+      "start": 171.076,
+      "end": 171.236,
+      "speaker": "SPEAKER_00",
+      "text": "Perfect."
+    },
+    {
+      "start": 171.256,
+      "end": 171.336,
+      "speaker": "SPEAKER_00",
+      "text": "Bun."
+    },
+    {
+      "start": 171.396,
+      "end": 176.318,
+      "speaker": "SPEAKER_00",
+      "text": "Când las capul pe spate și îl mențin mai mult de 20 de secunde, se intensifică senzația de vertici?"
+    },
+    {
+      "start": 176.718,
+      "end": 177.418,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 177.875,
+      "end": 188.88,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Dacă țin capul forțat jos și trag cu mâna de cap, bărbia încet, dincolo de durere, de ce fale, am și senzație de greață?"
+    },
+    {
+      "start": 189.761,
+      "end": 190.361,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 191.121,
+      "end": 192.081,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, am înțeles."
+    },
+    {
+      "start": 193.122,
+      "end": 216.652,
+      "speaker": "SPEAKER_00",
+      "text": "Da, putem spune că, într-adevăr, am o compresie radiculară la nivel de C5-C6, cu radiculopatie și alodinie, dar, totodată, din cauza faptului că musculatura se spasmează, e un regim de apărare, reflex al corpului, se creează o compresie la nivelul arterii vertebrale."
+    },
+    {
+      "start": 217.977,
+      "end": 222.322,
+      "speaker": "SPEAKER_00",
+      "text": "Deci, da, avem și un sindrom de arteră vertebrală concomitent cu o compresie de C5-C6."
+    },
+    {
+      "start": 222.342,
+      "end": 222.582,
+      "speaker": "SPEAKER_00",
+      "text": "Perfect."
+    },
+    {
+      "start": 222.602,
+      "end": 228.508,
+      "speaker": "SPEAKER_00",
+      "text": "Asta e. Știi când rău?"
+    },
+    {
+      "start": 229.57,
+      "end": 229.97,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    }
+  ]
+}

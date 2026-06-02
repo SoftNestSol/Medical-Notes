@@ -1,0 +1,529 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio18.mp4",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 5.87,
+      "end": 7.751,
+      "speaker": "SPEAKER_01",
+      "text": "Ce vârstă aveți dumneavoastră?"
+    },
+    {
+      "start": 7.811,
+      "end": 9.292,
+      "speaker": "SPEAKER_01",
+      "text": "23."
+    },
+    {
+      "start": 9.312,
+      "end": 9.792,
+      "speaker": "SPEAKER_01",
+      "text": "23 de ani."
+    },
+    {
+      "start": 9.852,
+      "end": 11.593,
+      "speaker": "SPEAKER_01",
+      "text": "Și cu ce problemă ne vedem la 23 de ani?"
+    },
+    {
+      "start": 12.533,
+      "end": 14.514,
+      "speaker": "SPEAKER_00",
+      "text": "Mă doare foarte tare cotul"
+    },
+    {
+      "start": 14.794,
+      "end": 19.177,
+      "speaker": "SPEAKER_01",
+      "text": "în care rotezc așa și în același timp și întind."
+    },
+    {
+      "start": 19.277,
+      "end": 20.777,
+      "speaker": "SPEAKER_01",
+      "text": "În care rotiți, da?"
+    },
+    {
+      "start": 21.418,
+      "end": 22.618,
+      "speaker": "SPEAKER_01",
+      "text": "Numai cotul doreau mâna dreaptă?"
+    },
+    {
+      "start": 25.4,
+      "end": 25.52,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 25.58,
+      "end": 31.483,
+      "speaker": "SPEAKER_01",
+      "text": "Înțeles, pe o scară de la 0 la 10, unde 0 nu doare deloc, de ce doare foarte tare, pe unde va situa cu durerea?"
+    },
+    {
+      "start": 33.278,
+      "end": 33.578,
+      "speaker": "SPEAKER_01",
+      "text": "6."
+    },
+    {
+      "start": 33.598,
+      "end": 38.62,
+      "speaker": "SPEAKER_01",
+      "text": "6."
+    },
+    {
+      "start": 38.66,
+      "end": 41.38,
+      "speaker": "SPEAKER_01",
+      "text": "Vă doare doar cotul sau vă doare și antebrațul, bicepsul?"
+    },
+    {
+      "start": 41.48,
+      "end": 46.262,
+      "speaker": "SPEAKER_00",
+      "text": "Cu cotul și se întinde un pic așa pe antebraț."
+    },
+    {
+      "start": 46.702,
+      "end": 52.783,
+      "speaker": "SPEAKER_01",
+      "text": "Pe antebraț, pe partea exterioră, cu cea cu begetul mare sau cea cu... Aici."
+    },
+    {
+      "start": 54.084,
+      "end": 57.264,
+      "speaker": "SPEAKER_01",
+      "text": "Deci pe partea, lăsați nici mie vreo mâna mare, așa."
+    },
+    {
+      "start": 57.905,
+      "end": 59.165,
+      "speaker": "SPEAKER_01",
+      "text": "Pe zona asta de aici, da?"
+    },
+    {
+      "start": 59.185,
+      "end": 59.445,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 60.115,
+      "end": 61.436,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, pe partea radială."
+    },
+    {
+      "start": 62.036,
+      "end": 63.216,
+      "speaker": "SPEAKER_01",
+      "text": "Aici pe partea ulnară doar?"
+    },
+    {
+      "start": 63.236,
+      "end": 63.556,
+      "speaker": "SPEAKER_01",
+      "text": "Nu prea."
+    },
+    {
+      "start": 64.097,
+      "end": 66.597,
+      "speaker": "SPEAKER_01",
+      "text": "Nu prea."
+    },
+    {
+      "start": 67.058,
+      "end": 67.138,
+      "speaker": "SPEAKER_00",
+      "text": "Ok."
+    },
+    {
+      "start": 67.158,
+      "end": 67.278,
+      "speaker": "SPEAKER_00",
+      "text": "Au."
+    },
+    {
+      "start": 75.381,
+      "end": 75.881,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 77.598,
+      "end": 80.141,
+      "speaker": "SPEAKER_01",
+      "text": "Amorțește vreun pic partea asta de aici, de la deget?"
+    },
+    {
+      "start": 80.161,
+      "end": 81.442,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu e atât vreau."
+    },
+    {
+      "start": 82.122,
+      "end": 83.224,
+      "speaker": "SPEAKER_01",
+      "text": "E doar durerea aici?"
+    },
+    {
+      "start": 83.744,
+      "end": 85.185,
+      "speaker": "SPEAKER_00",
+      "text": "Da, în momentul în care roțesc mâna."
+    },
+    {
+      "start": 85.205,
+      "end": 87.448,
+      "speaker": "SPEAKER_00",
+      "text": "Asta poate fi o epicondylită,"
+    },
+    {
+      "start": 87.468,
+      "end": 88.288,
+      "speaker": "SPEAKER_01",
+      "text": "domnul."
+    },
+    {
+      "start": 88.889,
+      "end": 89.47,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 89.53,
+      "end": 91.692,
+      "speaker": "SPEAKER_00",
+      "text": "Când întind mâna și îndoi."
+    },
+    {
+      "start": 91.712,
+      "end": 91.952,
+      "speaker": "SPEAKER_00",
+      "text": "Când"
+    },
+    {
+      "start": 91.992,
+      "end": 95.455,
+      "speaker": "SPEAKER_01",
+      "text": "întindeți mâna, puteți să ridicați un obiect de jos?"
+    },
+    {
+      "start": 95.556,
+      "end": 96.617,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 96.977,
+      "end": 99.139,
+      "speaker": "SPEAKER_01",
+      "text": "Deci dacă e în flexie, mâna nu vă doare, da?"
+    },
+    {
+      "start": 99.179,
+      "end": 100.1,
+      "speaker": "SPEAKER_00",
+      "text": "De exemplu..."
+    },
+    {
+      "start": 100.588,
+      "end": 101.949,
+      "speaker": "SPEAKER_00",
+      "text": "berea aia nu greu o"
+    },
+    {
+      "start": 101.989,
+      "end": 102.249,
+      "speaker": "SPEAKER_01",
+      "text": "ridic."
+    },
+    {
+      "start": 102.729,
+      "end": 110.693,
+      "speaker": "SPEAKER_01",
+      "text": "Pentru că e deja mâna în extensie, dar dacă ar fi mâna deja în flexie și ați ridica, uite, ridicați, vă rog, farfeca asta de mâna mea."
+    },
+    {
+      "start": 110.793,
+      "end": 113.875,
+      "speaker": "SPEAKER_01",
+      "text": "Ridicați-o odată așa și duceți-o la gură."
+    },
+    {
+      "start": 113.895,
+      "end": 114.895,
+      "speaker": "SPEAKER_01",
+      "text": "Au, pe aici deja doare."
+    },
+    {
+      "start": 115.135,
+      "end": 115.776,
+      "speaker": "SPEAKER_01",
+      "text": "Doare."
+    },
+    {
+      "start": 116.216,
+      "end": 121.659,
+      "speaker": "SPEAKER_01",
+      "text": "Dar dacă dumneavoastră aveți mâna aici și ridicați, mai doare?"
+    },
+    {
+      "start": 121.759,
+      "end": 124.46,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 124.48,
+      "end": 125.281,
+      "speaker": "SPEAKER_01",
+      "text": "Dar mult mai puțin."
+    },
+    {
+      "start": 126.001,
+      "end": 128.963,
+      "speaker": "SPEAKER_01",
+      "text": "Dar mult mai puțin așa, bravo."
+    },
+    {
+      "start": 129.063,
+      "end": 129.763,
+      "speaker": "SPEAKER_01",
+      "text": "Bun."
+    },
+    {
+      "start": 132.293,
+      "end": 135.135,
+      "speaker": "SPEAKER_01",
+      "text": "Mai sus aici doare?"
+    },
+    {
+      "start": 135.155,
+      "end": 136.016,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, nu."
+    },
+    {
+      "start": 136.497,
+      "end": 136.637,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 137.177,
+      "end": 139.579,
+      "speaker": "SPEAKER_01",
+      "text": "De ce spuneți noi așa panică, domnule?"
+    },
+    {
+      "start": 139.859,
+      "end": 140.98,
+      "speaker": "SPEAKER_01",
+      "text": "Spune-te, gata."
+    },
+    {
+      "start": 141.481,
+      "end": 143.923,
+      "speaker": "SPEAKER_01",
+      "text": "Bun, asta ar fi semnul epicondylite, domnule."
+    },
+    {
+      "start": 143.943,
+      "end": 146.265,
+      "speaker": "SPEAKER_01",
+      "text": "Epicondylite pe partea 3."
+    },
+    {
+      "start": 146.705,
+      "end": 149.768,
+      "speaker": "SPEAKER_01",
+      "text": "Ce avem de făcut?"
+    },
+    {
+      "start": 149.808,
+      "end": 154.431,
+      "speaker": "SPEAKER_01",
+      "text": "Va trebuie, în prima fază, să lucrăm puțin procesul inflamator, să reducem."
+    },
+    {
+      "start": 156.3,
+      "end": 170.442,
+      "speaker": "SPEAKER_01",
+      "text": "ca ulterior să puteți să trăiți normal, să puteți să beți bera liniștit, să nu mai aveți astfel de probleme, mai ales că sunt niște probleme cu care un bărbat nu poate trăi."
+    },
+    {
+      "start": 170.462,
+      "end": 172.843,
+      "speaker": "SPEAKER_01",
+      "text": "Într-adeori."
+    },
+    {
+      "start": 172.863,
+      "end": 177.284,
+      "speaker": "SPEAKER_01",
+      "text": "Alte afecțiuni, cum ar fi diabet, tensiune, epilepsie, cancer?"
+    },
+    {
+      "start": 178.124,
+      "end": 179.604,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, nici una."
+    },
+    {
+      "start": 179.684,
+      "end": 180.444,
+      "speaker": "SPEAKER_01",
+      "text": "Nici cancer, da?"
+    },
+    {
+      "start": 180.824,
+      "end": 183.104,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 183.124,
+      "end": 184.245,
+      "speaker": "SPEAKER_01",
+      "text": "Intervenții chirurgicale?"
+    },
+    {
+      "start": 185.845,
+      "end": 186.125,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 187.319,
+      "end": 189.58,
+      "speaker": "SPEAKER_01",
+      "text": "Fracturi, accidente de mașină, de"
+    },
+    {
+      "start": 189.6,
+      "end": 191.442,
+      "speaker": "SPEAKER_00",
+      "text": "motor."
+    },
+    {
+      "start": 191.462,
+      "end": 193.563,
+      "speaker": "SPEAKER_00",
+      "text": "Nu am avut mâna ruptă, dar cu mult"
+    },
+    {
+      "start": 193.583,
+      "end": 194.524,
+      "speaker": "SPEAKER_01",
+      "text": "timp."
+    },
+    {
+      "start": 194.564,
+      "end": 195.964,
+      "speaker": "SPEAKER_01",
+      "text": "Bol cu transmitere prin sânge."
+    },
+    {
+      "start": 196.265,
+      "end": 197.746,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, nu."
+    },
+    {
+      "start": 197.806,
+      "end": 198.826,
+      "speaker": "SPEAKER_01",
+      "text": "Proteze metalice."
+    },
+    {
+      "start": 199.147,
+      "end": 199.207,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 200.327,
+      "end": 201.328,
+      "speaker": "SPEAKER_01",
+      "text": "Stimulatorul cardiac."
+    },
+    {
+      "start": 201.428,
+      "end": 203.109,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, însărcinată nu sunteți."
+    },
+    {
+      "start": 207.472,
+      "end": 209.413,
+      "speaker": "SPEAKER_01",
+      "text": "Medicamente pe care le-l luați acum."
+    },
+    {
+      "start": 211.416,
+      "end": 211.476,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 211.516,
+      "end": 217.3,
+      "speaker": "SPEAKER_01",
+      "text": "Vă voi da și eu la finalul ședinței o pastiluță să o las 2-3 zile ca să reducă procesul inflamator, da?"
+    },
+    {
+      "start": 217.34,
+      "end": 219.242,
+      "speaker": "SPEAKER_01",
+      "text": "Da, ar fi super."
+    },
+    {
+      "start": 219.342,
+      "end": 221.984,
+      "speaker": "SPEAKER_01",
+      "text": "Alte alergii la unguente?"
+    },
+    {
+      "start": 222.464,
+      "end": 222.825,
+      "speaker": "SPEAKER_00",
+      "text": "Creme?"
+    },
+    {
+      "start": 222.845,
+      "end": 223.205,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, nu, nu."
+    },
+    {
+      "start": 223.225,
+      "end": 223.325,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 223.385,
+      "end": 223.465,
+      "speaker": "SPEAKER_00",
+      "text": "Bun"
+    },
+    {
+      "start": 223.745,
+      "end": 229.149,
+      "speaker": "SPEAKER_01",
+      "text": "domnule, haideți pe ma să vă rog fața în sus să trecem deja la treabă, da?"
+    },
+    {
+      "start": 229.189,
+      "end": 229.95,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    }
+  ]
+}
