@@ -21,8 +21,12 @@ from data_split import (  # noqa: E402
 )
 
 
-def test_test_ids_has_exactly_15_entries():
-    assert len(TEST_IDS) == 15
+def test_test_ids_has_exactly_18_entries():
+    assert len(TEST_IDS) == 18
+
+
+def test_pool_ids_has_exactly_17_entries():
+    assert len(POOL_IDS) == 17
 
 
 def test_test_and_pool_are_disjoint_and_cover_all_ids():

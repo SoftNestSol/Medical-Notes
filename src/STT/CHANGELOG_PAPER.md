@@ -291,6 +291,31 @@ Verification:
 
 ---
 
+## Data split v2 — TEST grew 15 → 18 (2026-06-04)
+
+audio14 (restored) + audio16 + audio17 promoted to TEST. audio18 + audio19
+added to POOL. Total now: TEST 18, POOL 17 (covers all 35 audios).
+
+**Why:** v1 covered only the 30 audios available on 2026-05-26. Five new
+audios landed (audio15..audio19). With 12 hand-corrected refs already
+available (audio15-23, 25-27), the v1 split gave a 4/8 (TEST/POOL) ratio
+among refs — too few refs in eval to start working meaningfully while waiting
+for the remaining refs to be corrected. v2 promotes the right 3 audios so
+the available-ref split is 7/5 (TEST/POOL), matching the target ratio for
+~17 expected refs (7 eval, 10 pool).
+
+**How to apply:** TEST_IDS is again frozen at 18 going forward. POOL_IDS
+may still grow as more audios land. The hard-fence check
+(`assert_no_test_leakage`) is unchanged in behavior — just covers 3 more IDs.
+
+**Affected files:** `src/data_split.py` (TEST + POOL sets, self-checks,
+docstring), `tests/test_data_split.py` (count assertions), root `AGENTS.md`
+(data split section + locked decisions list).
+
+Tests: `pytest tests/test_data_split.py` → 7 passed.
+
+---
+
 ## Schema change — `evaluarea_durerii_vas` (2026-05-24)
 
 Expanded from `int | null` to `int | array[int] | null`.

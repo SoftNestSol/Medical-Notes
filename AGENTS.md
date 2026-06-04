@@ -68,11 +68,14 @@ No hallucinations, no clinical inference, no completion from probable context. A
 | Synthetic chiropractor data | TBD | To be generated during project | Fine-tuning condition + ICL condition |
 
 **Data split (locked):**
-- **15 test** — frozen, evaluated once, never touched during development
+- **18 test** — frozen, evaluated once, never touched during development (v2 on 2026-06-04; was 15 in v1)
 - **0 formal dev** — prompt iteration on a small subset of pool, disclosed in paper
-- **35 pool** — used as ICL examples AND synthetic seeds (same set, different uses per condition)
+- **17 pool** — used as ICL examples AND synthetic seeds (same set, different uses per condition)
 
-**Test set protection requirement:** the 15 test conversation IDs must be hard-fenced in code. They cannot appear as:
+Across the 12 currently hand-corrected refs (audio15-23, 25-27): 7 in TEST, 5 in POOL.
+See `src/data_split.py` docstring for v2 provenance.
+
+**Test set protection requirement:** the 18 test conversation IDs must be hard-fenced in code. They cannot appear as:
 - ICL few-shot examples
 - Synthetic generation seeds
 - Fine-tuning training data
@@ -165,7 +168,7 @@ Per-field metrics, not a single aggregate:
 
 1. Philosophy: "if not spoken, leave empty" — enforced everywhere
 2. Output format: 6 fields from the Osteopath Concept template (4 structured, 2 free-text)
-3. Data split: 15 test / 0 dev / 35 pool
+3. Data split: 18 test / 0 dev / 17 pool (v2 on 2026-06-04; was 15/0/15 in v1)
 4. 7 experimental conditions as listed above
 5. Cost-efficiency framing: cheap-deployable model is the target, expensive LLM is teacher/ceiling
 6. Manual quality gate on synthetic data — committed
