@@ -1,30 +1,28 @@
-SPEAKER_00: Înainte să testăm, vreau să înțeleg exact durerea de la șoldul drept și zona lombară după curierat.
-SPEAKER_01: Sigur, vă spun cum pot.
-SPEAKER_00: Ce vârstă aveți?
-SPEAKER_01: 34 de ani.
-SPEAKER_00: Care este motivul pentru care ați venit?
-SPEAKER_01: pe aici, mă doare la șoldul drept și zona lombară, cu debut progresiv, fără un moment clar, în context de curierat.
-SPEAKER_00: De când o simțiți?
-SPEAKER_01: de ieri.
-SPEAKER_00: Într-o zi cu curierat, ce vă limitează concret durerea de la șoldul drept și zona lombară?
-SPEAKER_01: De ieri, nu știu mereu ce o declanșează, dar evit mișcările mari când fac curierat.
-SPEAKER_00: După ce vă opriți din curierat, durerea se retrage imediat sau mai stă în șoldul drept și zona lombară?
-SPEAKER_01: Mai stă câteva minute în șoldul drept și zona lombară, apoi reiau curierat mai încet.
-SPEAKER_00: Ați scos din program ceva legat de curierat din cauza durerii de la șoldul drept și zona lombară?
-SPEAKER_01: Da, am evitat partea din curierat care pornește durerea în șoldul drept și zona lombară, mai ales când trebuie repetată.
-SPEAKER_00: Pentru episodul legat de curierat, este doar șoldul drept și zona lombară sau mai trecem încă o zonă clar dureroasă?
-SPEAKER_01: Doar șoldul drept și zona lombară; după curierat restul e mai mult disconfort vag, nu durere separată.
-SPEAKER_00: Dacă zero înseamnă deloc și zece maxim, cât simțiți acum în șoldul drept și zona lombară când vă gândiți la curierat?
-SPEAKER_01: Aș spune 0, mai ales după curierat.
-SPEAKER_00: La antecedente, există afecțiuni confirmate relevante pentru evaluarea după curierat?
-SPEAKER_01: Da, am artrită sau artroză, osteoporoză.
-SPEAKER_00: Medicamente cu nume și doză pe care le luați acum pentru durerea apărută la curierat?
-SPEAKER_01: Nu, pentru curierat nu iau nimic cu nume clar.
-SPEAKER_00: Stați cu tălpile paralele și mutați greutatea ușor, ca să comparăm șoldul drept și zona lombară după curierat.
-SPEAKER_01: Pe partea dureroasă din șoldul drept și zona lombară se simte mai repede decât m-aș aștepta la curierat.
-SPEAKER_00: Compar presiunea locală pe șoldul drept și zona lombară cu partea opusă, în logica mișcării de curierat.
-SPEAKER_01: Diferența e clară; partea cealaltă nu mă deranjează ca șoldul drept și zona lombară când fac curierat.
-SPEAKER_00: Spun acum observația funcțională pentru șoldul drept și zona lombară, legată de curierat, ca să fie clar ce s-a văzut la testare.
-SPEAKER_00: La testarea în ortostatism după curierat, durerea la șoldul drept și zona lombară se reproduce la aplecare și la presiune locală.
-SPEAKER_01: Am înțeles, atunci are sens că mă opresc când încerc curierat.
-SPEAKER_00: Pentru restul ședinței rămânem la testare atentă după curierat; dacă se schimbă durerea, îmi spuneți.
+SPEAKER_00: Ce vă doare după curierat?
+SPEAKER_01: Șoldul drept și lombarul. A apărut treptat în ziua cu multe livrări.
+SPEAKER_00: Vârsta pentru formular care este?
+SPEAKER_01: Treizeci și patru, încă nu am făcut treizeci și cinci.
+SPEAKER_00: Ce scor numeric îi dați?
+SPEAKER_01: Zero acum.
+SPEAKER_00: Antecedente?
+SPEAKER_01: Artroză și osteoporoză.
+SPEAKER_00: La extensie lombară apare rigiditate, iar rotația șoldului drept este limitată fără durere acum.
+SPEAKER_01: Da, acum e mai mult rigid.
+SPEAKER_00: Curieratul în ziua aceea a însemnat multe urcări?
+SPEAKER_01: Da, multe opriri, urcat și coborât din mașină, cutii duse repede. Spre seară am simțit șoldul drept și lombarul.
+SPEAKER_00: Scorul zero este acum, în cabinet.
+SPEAKER_01: Da, acum nu doare. Rămâne rigid, dar dacă vorbim strict de durere, zero.
+SPEAKER_00: Antecedentele menționate sunt artroză și osteoporoză.
+SPEAKER_01: Da, astea sunt cunoscute.
+SPEAKER_00: Medicație actuală?
+SPEAKER_01: Nu am ceva de spus pentru asta.
+SPEAKER_00: La extensie lombară rigiditatea a apărut imediat.
+SPEAKER_01: Da, nu pot să mă las pe spate cum ar trebui.
+SPEAKER_00: Rotația șoldului drept este limitată, dar fără durere prezentă.
+SPEAKER_01: Da, simt blocaj, nu durere acum.
+SPEAKER_00: În zilele cu livrări multe, ce faceți diferit?
+SPEAKER_01: Cobor mai încet din mașină și nu sar peste trepte. Șoldul drept și lombarul se rigidizează dacă mă grăbesc.
+SPEAKER_00: Acum puteți lucra?
+SPEAKER_01: Pot lucra, dar cu pauze. Nu mă doare acum, însă rigiditatea îmi schimbă ritmul.
+SPEAKER_00: Când se termină tura, ce faceți?
+SPEAKER_01: Mă întind puțin și merg încet câteva minute. Dacă mă așez direct, mă ridic mai greu.

@@ -1,5 +1,5 @@
 {
-  "motivul_prezentarii": "durere la zona lombară și zona toracală, după exerciții făcute mai intens decât de obicei, în context de drumeție scurtă",
+  "motivul_prezentarii": "durere lombară și toracală după drumeție scurtă",
   "evaluarea_durerii_vas": 10,
   "localizarea_durerii": [
     "lombar",
@@ -9,5 +9,5 @@
   "antecedente": [],
   "antecedente_altele": null,
   "medicatie_actuala": [],
-  "evaluare_functionala_initiala": "Mobilitatea trunchiului este limitată de durere când pacientul descrie drumeție scurtă, cu reacție la palparea zonei zona lombară și zona toracală."
+  "evaluare_functionala_initiala": "La flexie, zona lombară se mișcă puțin, iar toracal apare rigiditate între omoplați."
 }

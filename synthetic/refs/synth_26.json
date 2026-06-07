@@ -1,5 +1,5 @@
 {
-  "motivul_prezentarii": "durere la șoldul drept și genunchiul drept, cu debut neclar pentru pacient, în context de lucru la casă",
+  "motivul_prezentarii": "durere la șoldul drept și genunchiul drept după lucru la casă",
   "evaluarea_durerii_vas": 9,
   "localizarea_durerii": [
     "sold_dr",
@@ -14,5 +14,5 @@
       "doza": "aplicare locală seara"
     }
   ],
-  "evaluare_functionala_initiala": "Durerea de la șoldul drept și genunchiul drept este provocată la flexie controlată și la comparația prin presiune, mai ales după lucru la casă."
+  "evaluare_functionala_initiala": "La fandare scurtă, genunchiul drept deviază medial și șoldul drept pierde rotația externă."
 }

@@ -1,30 +1,24 @@
-SPEAKER_00: Înainte să testăm, vreau să înțeleg exact durerea de la pumnul drept după gătit mult în picioare.
-SPEAKER_01: Sigur, vă spun cum pot.
-SPEAKER_00: Ce vârstă aveți?
-SPEAKER_01: 28 de ani.
-SPEAKER_00: Care este motivul pentru care ați venit?
-SPEAKER_01: da, mă doare la pumnul drept, fără cauză clară relatată de pacient, în context de gătit mult în picioare.
-SPEAKER_00: De când o simțiți?
-SPEAKER_01: de ieri.
-SPEAKER_00: Într-o zi cu gătit mult în picioare, ce vă limitează concret durerea de la pumnul drept?
-SPEAKER_01: De ieri, mă opresc din mișcare și aștept să scadă când fac gătit mult în picioare.
-SPEAKER_00: După ce vă opriți din gătit mult în picioare, durerea se retrage imediat sau mai stă în pumnul drept?
-SPEAKER_01: Mai stă câteva minute în pumnul drept, apoi reiau gătit mult în picioare mai încet.
-SPEAKER_00: Ați scos din program ceva legat de gătit mult în picioare din cauza durerii de la pumnul drept?
-SPEAKER_01: Da, am evitat partea din gătit mult în picioare care pornește durerea în pumnul drept, mai ales când trebuie repetată.
-SPEAKER_00: Pentru episodul legat de gătit mult în picioare, este doar pumnul drept sau mai trecem încă o zonă clar dureroasă?
-SPEAKER_01: Doar pumnul drept; după gătit mult în picioare restul e mai mult disconfort vag, nu durere separată.
-SPEAKER_00: Dacă zero înseamnă deloc și zece maxim, cât simțiți acum în pumnul drept când vă gândiți la gătit mult în picioare?
-SPEAKER_01: Aș spune 3, mai ales după gătit mult în picioare.
-SPEAKER_00: La antecedente, există afecțiuni confirmate relevante pentru evaluarea după gătit mult în picioare?
-SPEAKER_01: Da, am hernie de disc.
-SPEAKER_00: Medicamente cu nume și doză pe care le luați acum pentru durerea apărută la gătit mult în picioare?
-SPEAKER_01: Nu, pentru gătit mult în picioare nu iau nimic cu nume clar.
-SPEAKER_00: Strângeți ușor și relaxați, vreau să văd diferența între repaus și efort la pumnul drept după gătit mult în picioare.
-SPEAKER_01: În repaus e ok, la efortul asemănător cu gătit mult în picioare se aprinde durerea din pumnul drept.
-SPEAKER_00: Palpez linia dureroasă la pumnul drept și verific mișcarea contra mea, similar cu gătit mult în picioare.
-SPEAKER_01: Contra rezistenței e cel mai evident pentru pumnul drept, mai ales după gătit mult în picioare.
-SPEAKER_00: Spun acum observația funcțională pentru pumnul drept, legată de gătit mult în picioare, ca să fie clar ce s-a văzut la testare.
-SPEAKER_00: Durerea la pumnul drept apare la mișcare activă și se accentuează la testarea contra-rezistență după gătit mult în picioare.
-SPEAKER_01: Am înțeles, atunci are sens că mă opresc când încerc gătit mult în picioare.
-SPEAKER_00: Pentru restul ședinței rămânem la testare atentă după gătit mult în picioare; dacă se schimbă durerea, îmi spuneți.
+SPEAKER_00: Bună ziua. Ce vă aduce aici?
+SPEAKER_01: Mă doare pumnul drept. Am gătit mult în picioare pentru o petrecere și după aceea l-am simțit.
+SPEAKER_00: Câți ani aveți?
+SPEAKER_01: Douăzeci și opt am.
+SPEAKER_00: Scor de durere?
+SPEAKER_01: Trei, cam acolo îl simt.
+SPEAKER_00: Antecedente cunoscute?
+SPEAKER_01: Am hernie de disc, asta știu.
+SPEAKER_00: La flexia pumnului drept amplitudinea scade și priza devine precaută.
+SPEAKER_01: Da, când prind tigaia se vede.
+SPEAKER_00: Gătitul a presupus mai mult tăiat, amestecat, ridicat vase?
+SPEAKER_01: Toate. Am stat mult în picioare, am amestecat în oale, am ridicat tăvi. Spre final am simțit pumnul drept obosit, dar am continuat.
+SPEAKER_00: Hernia de disc este în istoricul dumneavoastră, dar nu o legăm automat de pumn.
+SPEAKER_01: Da, doar am spus că o am. Nu știu dacă are vreo treabă aici și nici nu vreau să zic eu asta.
+SPEAKER_00: Ce faceți diferit acum?
+SPEAKER_01: Țin cana cu două mâini, evit să storc prosopul și nu mai ridic tigaia plină cu dreapta.
+SPEAKER_00: Ați luat medicamente?
+SPEAKER_01: Nu, n-am luat nimic pentru pumn.
+SPEAKER_00: Durerea ați pus-o la trei.
+SPEAKER_01: Da, trei. Nu e mare, dar mă face atent la orice priză.
+SPEAKER_00: După pauză se liniștește?
+SPEAKER_01: Se liniștește, dar nu dispare complet când încep iar să folosesc pumnul drept. De asta am venit înainte să devină mai rău.
+SPEAKER_00: Vă e teamă să gătiți din nou mult?
+SPEAKER_01: Nu teamă, dar aș împărți treaba. Aș evita să țin mult timp tigaia grea în dreapta.

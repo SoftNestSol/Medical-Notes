@@ -1,5 +1,5 @@
 {
-  "motivul_prezentarii": "durere la umărul stâng și cotul stâng, cu debut neclar pentru pacient, în context de cumpărături",
+  "motivul_prezentarii": "durere la umărul stâng și cotul stâng după cumpărături",
   "evaluarea_durerii_vas": 6,
   "localizarea_durerii": [
     "umar_stg",
@@ -14,5 +14,5 @@
       "doza": "400 mg"
     }
   ],
-  "evaluare_functionala_initiala": "La comparația bilaterală pentru umărul stâng și cotul stâng, partea simptomatică are durere mai clară când pacientul reproduce cumpărături."
+  "evaluare_functionala_initiala": "La abducția umărului stâng apare compensare cu trunchiul, iar extensia cotului stâng rămâne incompletă."
 }

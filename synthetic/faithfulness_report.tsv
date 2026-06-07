@@ -1,0 +1,7 @@
+check	status	details
+word_count_250_600	ok
+schema	ok
+plan_vs_ref	ok
+artifact_scan	ok
+empty_field_leak_scan	ok
+structured_anchor_scan	ok

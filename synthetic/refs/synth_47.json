@@ -1,5 +1,5 @@
 {
-  "motivul_prezentarii": "durere la umărul drept și zona cervicală și antebraț drept, după o căzătură ușoară pe partea dureroasă",
+  "motivul_prezentarii": "durere la umărul drept, cervicală și pe antebrațul drept după stat aplecat și cădere",
   "evaluarea_durerii_vas": 8,
   "localizarea_durerii": [
     "umar_dr",
@@ -9,5 +9,5 @@
   "antecedente": [],
   "antecedente_altele": null,
   "medicatie_actuala": [],
-  "evaluare_functionala_initiala": "Respirația sau rotația controlată accentuează durerea descrisă la umărul drept și zona cervicală, în context de stat aplecat."
+  "evaluare_functionala_initiala": "La rotația cervicală dreapta apare limitare, iar abducția umărului drept reproduce durerea spre antebraț."
 }

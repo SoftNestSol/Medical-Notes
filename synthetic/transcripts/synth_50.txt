@@ -1,31 +1,27 @@
-SPEAKER_01: Nu știu dacă e grav, dar vreau să verificăm atent glezna stângă și pumnul drept, pentru că mă încurcă la lucru manual.
-SPEAKER_00: Haideți să luăm pe rând vârsta, apoi verificăm precis glezna stângă și pumnul drept în context de lucru manual.
-SPEAKER_01: Problema principală este la glezna stângă și pumnul drept; la mișcarea asta, s-a instalat lent, inițial doar ca jenă, în context de lucru manual.
-SPEAKER_00: Am înțeles. Ce vârstă aveți acum?
-SPEAKER_01: 32 de ani.
-SPEAKER_00: De când o simțiți?
-SPEAKER_01: cam de trei săptămâni.
-SPEAKER_00: Într-o zi cu lucru manual, ce vă limitează concret durerea de la glezna stângă și pumnul drept?
-SPEAKER_01: Cam de trei săptămâni, apare mai ales la mișcarea descrisă și scade când o controlez când fac lucru manual.
-SPEAKER_00: După ce vă opriți din lucru manual, durerea se retrage imediat sau mai stă în glezna stângă și pumnul drept?
-SPEAKER_01: Mai stă câteva minute în glezna stângă și pumnul drept, apoi reiau lucru manual mai încet.
-SPEAKER_00: Ați observat dacă dimineața, seara sau după lucru manual se schimbă reacția dureroasă?
-SPEAKER_01: După lucru manual reacția se schimbă; când sunt obosit, simptomele din glezna stângă și pumnul drept reapar mai repede.
-SPEAKER_01: Localizarea sigură pe care o pot indica după lucru manual este glezna stângă și pumnul drept.
-SPEAKER_00: Atunci în fișă păstrăm localizarea clară pentru episodul cu lucru manual: glezna stângă și pumnul drept.
-SPEAKER_00: După lucru manual, dacă ar fi să dați o notă durerii de la glezna stângă și pumnul drept, între zero și zece, ce număr ați alege?
-SPEAKER_01: Aș spune 0, mai ales după lucru manual.
-SPEAKER_00: Aveți boli cunoscute, operații sau accidente relevante pentru activitatea de lucru manual?
-SPEAKER_01: Nu, nimic confirmat care să conteze aici.
-SPEAKER_00: Medicamente cu nume și doză pe care le luați acum pentru durerea apărută la lucru manual?
-SPEAKER_01: Nu, pentru lucru manual nu iau nimic cu nume clar.
-SPEAKER_00: Pentru lucru manual, verific dacă durerea de la glezna stângă și pumnul drept apare mai mult la mișcare, presiune sau menținerea poziției.
-SPEAKER_01: La mișcarea asemănătoare cu lucru manual e cel mai clar pentru glezna stângă și pumnul drept; dacă stau nemișcat scade.
-SPEAKER_00: Sprijiniți segmentul dureros și faceți întâi mișcarea fără greutate pentru glezna stângă și pumnul drept, ca la lucru manual.
-SPEAKER_01: Fără greutate e suportabil la glezna stângă și pumnul drept, dar nu e liber când imit lucru manual.
-SPEAKER_00: Opun rezistență ușoară pentru glezna stângă și pumnul drept; vă opriți dacă înțeapă ca în lucru manual.
-SPEAKER_01: Acum apare mai clar în glezna stângă și pumnul drept, exact la mișcarea legată de lucru manual.
-SPEAKER_00: Spun acum observația funcțională pentru glezna stângă și pumnul drept, legată de lucru manual, ca să fie clar ce s-a văzut la testare.
-SPEAKER_00: La comparația bilaterală pentru glezna stângă și pumnul drept, partea simptomatică are durere mai clară când pacientul reproduce lucru manual.
-SPEAKER_01: Am înțeles, atunci are sens că mă opresc când încerc lucru manual.
-SPEAKER_00: Pentru restul ședinței rămânem la testare atentă după lucru manual; dacă se schimbă durerea, îmi spuneți.
+SPEAKER_01: Mă doare glezna stângă și pumnul drept după lucru manual, dar acum scorul e zero.
+SPEAKER_00: Bună ziua. De cât timp?
+SPEAKER_01: De câteva săptămâni, a apărut treptat.
+SPEAKER_00: Zero ca durere în momentul acesta?
+SPEAKER_01: Da, zero acum.
+SPEAKER_00: Antecedente sau medicamente?
+SPEAKER_01: Nu, nimic din astea.
+SPEAKER_00: La test, pumnul drept obosește la priză repetată, iar glezna stângă are echilibru instabil pe un picior.
+SPEAKER_01: Da, asta se vede chiar dacă nu doare acum.
+SPEAKER_00: Lucrul manual ce a presupus?
+SPEAKER_01: Am reparat niște obiecte mici, am strâns șuruburi și am stat mult în picioare. După aceea am simțit pumnul drept și glezna stângă.
+SPEAKER_00: Durerea este zero acum.
+SPEAKER_01: Da, zero acum. Nu vreau să pun alt scor doar pentru că la test se vede ceva.
+SPEAKER_00: A apărut treptat, așa ați spus.
+SPEAKER_01: Da, de câteva săptămâni. Nu pot spune un moment exact.
+SPEAKER_00: Nu aveți antecedente sau medicamente de menționat.
+SPEAKER_01: Nu, nimic din astea.
+SPEAKER_00: La priză repetată, pumnul drept obosește.
+SPEAKER_01: Da, după câteva repetări simt că slăbește.
+SPEAKER_00: Echilibrul pe glezna stângă este instabil pe un picior.
+SPEAKER_01: Da, mă clatin chiar dacă durerea e zero.
+SPEAKER_00: Lucrul manual îl puteți continua?
+SPEAKER_01: Da, dar în reprize scurte. Când priza dreaptă obosește sau glezna stângă se clatină, mă opresc.
+SPEAKER_00: Ați observat diferență între dimineață și seară?
+SPEAKER_01: Seara obosește mai repede. Dimineața scorul rămâne zero, dar instabilitatea tot apare la test.
+SPEAKER_00: Asta rămâne important: fără durere, dar cu oboseală și instabilitate.
+SPEAKER_01: Da, exact. Nu doare acum, doar nu funcționează la fel de sigur.

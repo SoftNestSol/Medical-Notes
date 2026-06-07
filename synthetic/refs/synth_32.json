@@ -1,5 +1,5 @@
 {
-  "motivul_prezentarii": "durere la torace și umărul drept, după ce a cărat cumpărături pe scări, în context de lucru în depozit",
+  "motivul_prezentarii": "durere toracică și la umărul drept după lucru în depozit",
   "evaluarea_durerii_vas": 4,
   "localizarea_durerii": [
     "torace",
@@ -14,5 +14,5 @@
       "doza": "50 mcg"
     }
   ],
-  "evaluare_functionala_initiala": "Respirația sau rotația controlată accentuează durerea descrisă la torace și umărul drept, în context de lucru în depozit."
+  "evaluare_functionala_initiala": "La palpare costală dreaptă apare sensibilitate, iar ridicarea umărului drept schimbă respirația."
 }

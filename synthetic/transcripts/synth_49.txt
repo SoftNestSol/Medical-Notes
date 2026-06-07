@@ -1,30 +1,28 @@
-SPEAKER_00: Înainte să testăm, vreau să înțeleg exact durerea de la zona lombară și zona toracală după drumeție scurtă.
-SPEAKER_01: Sigur, vă spun cum pot.
-SPEAKER_00: Ce vârstă aveți?
-SPEAKER_01: 78 de ani.
-SPEAKER_00: Care este motivul pentru care ați venit?
-SPEAKER_01: cam așa, mă doare la zona lombară și zona toracală, după exerciții făcute mai intens decât de obicei, în context de drumeție scurtă.
-SPEAKER_00: De când o simțiți?
-SPEAKER_01: de două zile.
-SPEAKER_00: Într-o zi cu drumeție scurtă, ce vă limitează concret durerea de la zona lombară și zona toracală?
-SPEAKER_01: De două zile, mă opresc din mișcare și aștept să scadă când fac drumeție scurtă.
-SPEAKER_00: După ce vă opriți din drumeție scurtă, durerea se retrage imediat sau mai stă în zona lombară și zona toracală?
-SPEAKER_01: Mai stă câteva minute în zona lombară și zona toracală, apoi reiau drumeție scurtă mai încet.
-SPEAKER_00: Ați scos din program ceva legat de drumeție scurtă din cauza durerii de la zona lombară și zona toracală?
-SPEAKER_01: Da, am evitat partea din drumeție scurtă care pornește durerea în zona lombară și zona toracală, mai ales când trebuie repetată.
-SPEAKER_01: Localizarea sigură pe care o pot indica după drumeție scurtă este zona lombară și zona toracală.
-SPEAKER_00: Atunci în fișă păstrăm localizarea clară pentru episodul cu drumeție scurtă: zona lombară și zona toracală.
-SPEAKER_00: Dacă zero înseamnă deloc și zece maxim, cât simțiți acum în zona lombară și zona toracală când vă gândiți la drumeție scurtă?
-SPEAKER_01: Aș spune 10, mai ales după drumeție scurtă.
-SPEAKER_00: Aveți boli cunoscute, operații sau accidente relevante pentru activitatea de drumeție scurtă?
-SPEAKER_01: Nu, nimic confirmat care să conteze aici.
-SPEAKER_00: Medicamente cu nume și doză pe care le luați acum pentru durerea apărută la drumeție scurtă?
-SPEAKER_01: Nu, pentru drumeție scurtă nu iau nimic cu nume clar.
-SPEAKER_00: Stați cu tălpile paralele și mutați greutatea ușor, ca să comparăm zona lombară și zona toracală după drumeție scurtă.
-SPEAKER_01: Pe partea dureroasă din zona lombară și zona toracală se simte mai repede decât m-aș aștepta la drumeție scurtă.
-SPEAKER_00: Compar presiunea locală pe zona lombară și zona toracală cu partea opusă, în logica mișcării de drumeție scurtă.
-SPEAKER_01: Diferența e clară; partea cealaltă nu mă deranjează ca zona lombară și zona toracală când fac drumeție scurtă.
-SPEAKER_00: Spun acum observația funcțională pentru zona lombară și zona toracală, legată de drumeție scurtă, ca să fie clar ce s-a văzut la testare.
-SPEAKER_00: Mobilitatea trunchiului este limitată de durere când pacientul descrie drumeție scurtă, cu reacție la palparea zonei zona lombară și zona toracală.
-SPEAKER_01: Am înțeles, atunci are sens că mă opresc când încerc drumeție scurtă.
-SPEAKER_00: Pentru restul ședinței rămânem la testare atentă după drumeție scurtă; dacă se schimbă durerea, îmi spuneți.
+SPEAKER_00: Ce s-a întâmplat la drumeție?
+SPEAKER_01: După o drumeție scurtă și efort, mă doare lombar și toracal.
+SPEAKER_00: Ce vârstă trecem în fișă?
+SPEAKER_01: Șaptezeci și opt, îi simt după drumeție.
+SPEAKER_00: Cât de sus urcă pe zero-zece?
+SPEAKER_01: Zece, la aplecare.
+SPEAKER_00: Alte boli sau tratament?
+SPEAKER_01: Nu, nimic relevant.
+SPEAKER_00: La flexie, zona lombară se mișcă puțin, iar toracal apare rigiditate între omoplați.
+SPEAKER_01: Da, spatele nu se îndoaie.
+SPEAKER_00: Drumeția a fost scurtă, dar cu urcare?
+SPEAKER_01: Da, scurtă, dar cu o pantă. Am mers mai repede decât trebuia și am dus și un rucsac mic.
+SPEAKER_00: Durerea lombară și toracală a apărut după efort.
+SPEAKER_01: Da, după drumeție. Nu am căzut, nu m-am lovit.
+SPEAKER_00: Scorul zece este la aplecare.
+SPEAKER_01: Da, când mă aplec. Dacă stau rezemat, scade, dar la aplecare e foarte sus.
+SPEAKER_00: Nu aveți boli sau tratament de menționat.
+SPEAKER_01: Nu, nimic relevant.
+SPEAKER_00: La flexie, lombarul s-a mișcat puțin.
+SPEAKER_01: Da, parcă spatele nu vrea să coboare.
+SPEAKER_00: Toracal, rigiditatea a fost între omoplați.
+SPEAKER_01: Da, sus între omoplați.
+SPEAKER_00: Drumețiile le faceți des?
+SPEAKER_01: Nu foarte des. Tocmai de aceea cred că m-a prins nepregătit, dar pot spune sigur doar că după drumeție a apărut.
+SPEAKER_00: La odihnă completă scade?
+SPEAKER_01: Scade, dar când mă ridic și încerc flexia, lombarul și toracalul revin imediat.
+SPEAKER_00: Ați luat pauze pe traseu?
+SPEAKER_01: Prea puține. Am vrut să termin repede și probabil am mers mai apăsat decât trebuia.

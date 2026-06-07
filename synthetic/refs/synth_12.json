@@ -1,5 +1,5 @@
 {
-  "motivul_prezentarii": "durere la șoldul stâng, fără cauză clară relatată de pacient, în context de stat în ședințe",
+  "motivul_prezentarii": "durere la șoldul stâng de la stat în ședințe",
   "evaluarea_durerii_vas": 6,
   "localizarea_durerii": [
     "sold_stg"
@@ -10,5 +10,5 @@
   ],
   "antecedente_altele": null,
   "medicatie_actuala": [],
-  "evaluare_functionala_initiala": "La testarea în ortostatism după stat în ședințe, durerea la șoldul stâng se reproduce la aplecare și la presiune locală."
+  "evaluare_functionala_initiala": "La flexia șoldului stâng apare tensiune anterioară, iar mersul pornește cu pas mai scurt pe stânga."
 }

@@ -1,30 +1,26 @@
-SPEAKER_00: Bun, am fișa în față; spuneți-mi ce vă deranjează la șoldul stâng și glezna stângă când apare urcat scări.
-SPEAKER_01: Sigur, vă spun cum pot.
-SPEAKER_00: Ce vârstă aveți?
-SPEAKER_01: 19 de ani.
-SPEAKER_00: Care este motivul pentru care ați venit?
-SPEAKER_01: mai exact, mă doare la șoldul stâng și glezna stângă, după lucru prelungit la calculator, în context de urcat scări.
-SPEAKER_00: De când o simțiți?
-SPEAKER_01: de aproape două săptămâni.
-SPEAKER_00: Într-o zi cu urcat scări, ce vă limitează concret durerea de la șoldul stâng și glezna stângă?
-SPEAKER_01: De aproape două săptămâni, apare mai ales la mișcarea descrisă și scade când o controlez când fac urcat scări.
-SPEAKER_00: După ce vă opriți din urcat scări, durerea se retrage imediat sau mai stă în șoldul stâng și glezna stângă?
-SPEAKER_01: Mai stă câteva minute în șoldul stâng și glezna stângă, apoi reiau urcat scări mai încet.
-SPEAKER_00: Ați scos din program ceva legat de urcat scări din cauza durerii de la șoldul stâng și glezna stângă?
-SPEAKER_01: Da, am evitat partea din urcat scări care pornește durerea în șoldul stâng și glezna stângă, mai ales când trebuie repetată.
-SPEAKER_00: Pentru episodul legat de urcat scări, este doar șoldul stâng și glezna stângă sau mai trecem încă o zonă clar dureroasă?
-SPEAKER_01: Doar șoldul stâng și glezna stângă; după urcat scări restul e mai mult disconfort vag, nu durere separată.
-SPEAKER_00: Pentru fișă am nevoie de un număr al durerii actuale la șoldul stâng și glezna stângă, mai ales când reluați urcat scări; cât spuneți că este?
-SPEAKER_01: Aș spune 10, mai ales după urcat scări.
-SPEAKER_00: La antecedente, există afecțiuni confirmate relevante pentru evaluarea după urcat scări?
-SPEAKER_01: Da, am cancer/neoplasm.
-SPEAKER_00: Medicamente cu nume și doză pe care le luați acum pentru durerea apărută la urcat scări?
-SPEAKER_01: Nu, pentru urcat scări nu iau nimic cu nume clar.
-SPEAKER_00: Stați cu tălpile paralele și mutați greutatea ușor, ca să comparăm șoldul stâng și glezna stângă după urcat scări.
-SPEAKER_01: Pe partea dureroasă din șoldul stâng și glezna stângă se simte mai repede decât m-aș aștepta la urcat scări.
-SPEAKER_00: Compar presiunea locală pe șoldul stâng și glezna stângă cu partea opusă, în logica mișcării de urcat scări.
-SPEAKER_01: Diferența e clară; partea cealaltă nu mă deranjează ca șoldul stâng și glezna stângă când fac urcat scări.
-SPEAKER_00: Spun acum observația funcțională pentru șoldul stâng și glezna stângă, legată de urcat scări, ca să fie clar ce s-a văzut la testare.
-SPEAKER_00: La testarea în ortostatism după urcat scări, durerea la șoldul stâng și glezna stângă se reproduce la aplecare și la presiune locală.
-SPEAKER_01: Am înțeles, atunci are sens că mă opresc când încerc urcat scări.
-SPEAKER_00: Pentru restul ședinței rămânem la testare atentă după urcat scări; dacă se schimbă durerea, îmi spuneți.
+SPEAKER_00: Ce vă supără la urcat scări?
+SPEAKER_01: Șoldul stâng și glezna stângă. Am stat mult la birou și apoi la scări m-a luat.
+SPEAKER_00: Spuneți-mi și vârsta.
+SPEAKER_01: Am nouăsprezece ani.
+SPEAKER_00: Numeric, cât puneți durerii?
+SPEAKER_01: Zece, la urcat.
+SPEAKER_00: Antecedente importante?
+SPEAKER_01: Am avut cancer, neoplasm, e trecut în istoricul meu.
+SPEAKER_00: La urcare pe treaptă, împingeți insuficient din glezna stângă și ridicați bazinul pe partea stângă.
+SPEAKER_01: Da, așa urc acum.
+SPEAKER_00: Statul la birou a fost înainte de episod?
+SPEAKER_01: Da, am stat multe ore, apoi am urcat scările repede. Atunci am simțit șoldul stâng și glezna stângă.
+SPEAKER_00: Durerea de zece apare la urcat.
+SPEAKER_01: Da, la urcat scări. Pe plat pot merge încet, dar scările mă termină.
+SPEAKER_00: Antecedentul de cancer, neoplasm, este în istoricul dumneavoastră.
+SPEAKER_01: Da, îl spun pentru că există. Nu îl leg eu de durerea de azi.
+SPEAKER_00: Luați ceva pentru această durere?
+SPEAKER_01: Nu. Nu am luat nimic.
+SPEAKER_00: Când stați pe scaun acum?
+SPEAKER_01: Simt tensiune, dar nu aceeași durere. Când trebuie să împing în treaptă, atunci se aprinde.
+SPEAKER_00: La test, glezna stângă nu a împins suficient.
+SPEAKER_01: Da, și bazinul s-a ridicat fără să-mi dau seama.
+SPEAKER_00: La coborât scări e la fel?
+SPEAKER_01: Cobor mai încet decât urc. La coborât mă tem să nu scap sprijinul pe glezna stângă, așa că țin balustrada.
+SPEAKER_00: Când stați din nou la birou, se liniștește?
+SPEAKER_01: Se liniștește parțial, dar după ce mă ridic șoldul stâng pornește greu și glezna stângă nu împinge.
