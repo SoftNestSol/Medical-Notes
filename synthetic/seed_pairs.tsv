@@ -1,0 +1,6 @@
+seed_id	conversation_path	structured_ref_path	from_chiro_path
+audio18	data/chiropractor_ro/conversations/audio18.json	data/chiropractor_ro/refs/audio18.json	data/from_chiro/audio18_fisa.pdf
+audio19	data/chiropractor_ro/conversations/audio19.json	data/chiropractor_ro/refs/audio19.json	data/from_chiro/audio19_fisa.pdf
+audio23	data/chiropractor_ro/conversations/audio23.json	data/chiropractor_ro/refs/audio23.json	data/from_chiro/audio23_fisa.docx
+audio26	data/chiropractor_ro/conversations/audio26.json	data/chiropractor_ro/refs/audio26.json	data/from_chiro/audio26_fisa.docx
+audio21	data/chiropractor_ro/conversations/audio21.json	data/chiropractor_ro/refs/audio21.json	data/from_chiro/audio21_fisa.docx

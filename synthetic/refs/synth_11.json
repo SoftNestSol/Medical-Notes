@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "durere la șoldul drept, instalată lent, inițial doar ca jenă, în context de mers cu bicicleta",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "sold_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Arcoxia",
+      "doza": "60 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Durerea de la șoldul drept este provocată la flexie controlată și la comparația prin presiune, mai ales după mers cu bicicleta."
+}

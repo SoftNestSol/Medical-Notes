@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "durere la genunchiul stâng, instalată lent, inițial doar ca jenă, în context de lucru în atelier",
+  "evaluarea_durerii_vas": 8,
+  "localizarea_durerii": [
+    "genunchi_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren gel",
+      "doza": "aplicare locală de două ori pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "La comparația bilaterală pentru genunchiul stâng, partea simptomatică are durere mai clară când pacientul reproduce lucru în atelier."
+}

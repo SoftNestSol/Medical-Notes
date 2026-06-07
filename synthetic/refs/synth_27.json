@@ -1,0 +1,15 @@
+{
+  "motivul_prezentarii": "durere la șoldul stâng și glezna stângă, după lucru prelungit la calculator, în context de urcat scări",
+  "evaluarea_durerii_vas": 10,
+  "localizarea_durerii": [
+    "sold_stg",
+    "glezna_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "cancer_neoplasm"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "La testarea în ortostatism după urcat scări, durerea la șoldul stâng și glezna stângă se reproduce la aplecare și la presiune locală."
+}

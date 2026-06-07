@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "durere la cotul stâng, instalată lent, inițial doar ca jenă, în context de fotbal recreațional",
+  "evaluarea_durerii_vas": 2,
+  "localizarea_durerii": [
+    "cot_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Paracetamol",
+      "doza": "500 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "La comparația bilaterală pentru cotul stâng, partea simptomatică are durere mai clară când pacientul reproduce fotbal recreațional."
+}

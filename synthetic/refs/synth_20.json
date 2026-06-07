@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "durere la zona toracală și zona lombară, după un incident la bicicletă, în context de plimbări lungi",
+  "evaluarea_durerii_vas": 3,
+  "localizarea_durerii": [
+    "toracal",
+    "lombar"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Magne B6",
+      "doza": "1 comprimat pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Durerea de la zona toracală și zona lombară este provocată la flexie controlată și la comparația prin presiune, mai ales după plimbări lungi."
+}

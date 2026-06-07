@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "durere la genunchiul stâng și șoldul stâng, după ce a cărat cumpărături pe scări, în context de yoga",
+  "evaluarea_durerii_vas": 1,
+  "localizarea_durerii": [
+    "genunchi_stg",
+    "sold_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Algocalmin",
+      "doza": "500 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Durerea de la genunchiul stâng și șoldul stâng este provocată la flexie controlată și la comparația prin presiune, mai ales după yoga."
+}

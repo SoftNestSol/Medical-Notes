@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "durere la umărul stâng, după ce a cărat cumpărături pe scări, în context de drum cu trenul",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Naproxen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "La comparația bilaterală pentru umărul stâng, partea simptomatică are durere mai clară când pacientul reproduce drum cu trenul."
+}

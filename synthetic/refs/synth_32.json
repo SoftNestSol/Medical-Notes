@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "durere la torace și umărul drept, după ce a cărat cumpărături pe scări, în context de lucru în depozit",
+  "evaluarea_durerii_vas": 4,
+  "localizarea_durerii": [
+    "torace",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "50 mcg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Respirația sau rotația controlată accentuează durerea descrisă la torace și umărul drept, în context de lucru în depozit."
+}

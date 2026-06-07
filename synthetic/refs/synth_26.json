@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "durere la șoldul drept și genunchiul drept, cu debut neclar pentru pacient, în context de lucru la casă",
+  "evaluarea_durerii_vas": 9,
+  "localizarea_durerii": [
+    "sold_dr",
+    "genunchi_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Diclac gel",
+      "doza": "aplicare locală seara"
+    }
+  ],
+  "evaluare_functionala_initiala": "Durerea de la șoldul drept și genunchiul drept este provocată la flexie controlată și la comparația prin presiune, mai ales după lucru la casă."
+}

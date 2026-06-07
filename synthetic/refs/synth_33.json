@@ -1,0 +1,15 @@
+{
+  "motivul_prezentarii": "durere la zona cervicală, după o alunecare pe trepte, în context de stat la birou",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "cervical"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala",
+    "diabet_zaharat"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Rotirea și extensia sunt limitate de durere după stat la birou, iar palparea reproduce simptomul în zona cervicală."
+}

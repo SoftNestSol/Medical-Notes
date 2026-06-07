@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "durere la abdomen, după un incident la bicicletă, în context de exerciții acasă",
+  "evaluarea_durerii_vas": 0,
+  "localizarea_durerii": [
+    "abdomen"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Aspenter",
+      "doza": "75 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Respirația sau rotația controlată accentuează durerea descrisă la abdomen, în context de exerciții acasă."
+}

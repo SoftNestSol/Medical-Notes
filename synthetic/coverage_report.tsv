@@ -1,0 +1,11 @@
+field	positive_count	floor	status
+motivul_prezentarii	50	0	ok
+evaluarea_durerii_vas	44	0	ok
+localizarea_durerii	47	0	ok
+localizarea_durerii_alta	3	3	ok
+antecedente	13	12	ok
+antecedente_altele	3	3	ok
+medicatie_actuala	12	10	ok
+evaluare_functionala_initiala	45	0	ok
+antecedente_enum_coverage	10 (artrita_artroza,boli_autoimune,boli_cardiovasculare,cancer_neoplasm,diabet_zaharat,epilepsie,hernia_disc,hipertensiune_arteriala,osteoporoza,scolioza_cifoza)	10	ok
+meds_with_real_dose	10	10	ok

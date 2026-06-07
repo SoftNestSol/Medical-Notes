@@ -1,0 +1,4 @@
+metric	value	status
+vas_distribution	{'0': 5, '1': 4, '10': 4, '2': 4, '3': 4, '4': 3, '5': 4, '6': 4, '7': 4, '8': 4, '9': 4, 'null': 6}	ok
+distinct_regions	19 (abdomen,cap_ceafa,cervical,cot_dr,cot_stg,genunchi_dr,genunchi_stg,glezna_dr,glezna_stg,lombar,pumn_dr,pumn_stg,sacral_coccis,sold_dr,sold_stg,toracal,torace,umar_dr,umar_stg)	ok
+repeated_full_sentences_gt2	0	ok

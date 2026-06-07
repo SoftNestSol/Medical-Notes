@@ -1,0 +1,51 @@
+conversation_id	batch	regions	vas	duration	age	onset	antecedente_plan	antecedente_altele_plan	localizare_alta_plan	meds_plan	meds_detail	func_eval	include_location	note_shape	richness	patient_style	opening	activity
+synth_01	1	cervical,cap_ceafa	null	acut	18	efort	none			none	[]	null	no	motiv_only	short_sparse	talkative	greeting first	grădinărit
+synth_02	1	toracal	null	subacut	35	cădere	none			none	[]	null	no	motiv_vas	detailed_long	vague	patient leads	condus pe distanțe lungi
+synth_03	1	lombar	null	cronic	52	accident	hipertensiune_arteriala			none	[]	populated	yes	standard	short_sparse	terse	mid-intake	lucru la laptop
+synth_04	1	sacral_coccis	null	acut	69	efort	none			none	[]	null	yes	motiv_location	short_sparse	precise	first visit vs returning	alergare ușoară
+synth_05	1	umar_dr	null	subacut	23	cădere	none			named	"[{""denumire"": ""Nurofen"", ""doza"": ""200 mg""}]"	populated	yes	standard	detailed_long	vague	patient leads	ridicat copilul
+synth_06	1	umar_stg	0	acut	40	accident	diabet_zaharat			unnamed-pills	[]	populated	yes	standard	short_sparse	terse	greeting first	curățenie în casă
+synth_07	1	cot_dr	1	subacut	57	efort	none			none	[]	null	yes	motiv_vas_location	short_sparse	precise	mid-intake	mers pe munte
+synth_08	1	cot_stg	2	cronic	74	treptat	none			named	"[{""denumire"": ""Paracetamol"", ""doza"": ""500 mg""}]"	populated	yes	standard	detailed_long	anxious	first visit vs returning	fotbal recreațional
+synth_09	1	pumn_dr	3	acut	28	necunoscut	hernia_disc			none	[]	populated	yes	standard	short_sparse	terse	mid-intake	gătit mult în picioare
+synth_10	1	pumn_stg	null	subacut	45	postură-birou	none			none	[]	populated	yes	motiv_location_func	short_sparse	precise	patient leads	cărat dosare
+synth_11	2	sold_dr	5	acut	62	treptat	none			named	"[{""denumire"": ""Arcoxia"", ""doza"": ""60 mg""}]"	populated	yes	standard	detailed_long	anxious	greeting first	mers cu bicicleta
+synth_12	2	sold_stg	6	subacut	79	necunoscut	scolioza_cifoza			none	[]	populated	yes	standard	short_sparse	talkative	patient leads	stat în ședințe
+synth_13	2	genunchi_dr	7	cronic	33	postură-birou	none	tiroidită Hashimoto		none	[]	populated	yes	rich	short_sparse	precise	mid-intake	dans
+synth_14	2	genunchi_stg	8	acut	50	treptat	none			named	"[{""denumire"": ""Voltaren gel"", ""doza"": ""aplicare locală de două ori pe zi""}]"	populated	yes	standard	detailed_long	anxious	first visit vs returning	lucru în atelier
+synth_15	2	glezna_dr	9	subacut	67	efort	artrita_artroza			none	[]	populated	yes	standard	short_sparse	talkative	patient leads	înot
+synth_16	2	glezna_stg	10	acut	21	cădere	none		coapsa dreaptă	none	[]	populated	yes	rich	short_sparse	vague	greeting first	navetă cu autobuzul
+synth_17	2	abdomen	0	subacut	38	accident	none			named	"[{""denumire"": ""Aspenter"", ""doza"": ""75 mg""}]"	populated	yes	standard	detailed_long	anxious	mid-intake	exerciții acasă
+synth_18	2	torace	1	cronic	55	efort	osteoporoza			none	[]	populated	yes	standard	short_sparse	talkative	first visit vs returning	mutat mobilă
+synth_19	2	cervical,umar_dr	2	acut	72	cădere	none			unnamed-pills	[]	populated	yes	standard	short_sparse	vague	mid-intake	tenis
+synth_20	2	toracal,lombar	3	subacut	26	accident	none			named	"[{""denumire"": ""Magne B6"", ""doza"": ""1 comprimat pe zi""}]"	populated	yes	standard	detailed_long	terse	patient leads	plimbări lungi
+synth_21	3	lombar,sold_stg	4	acut	43	efort	boli_cardiovasculare			none	[]	populated	yes	standard	short_sparse	talkative	greeting first	pescuit
+synth_22	3	sacral_coccis,lombar	5	subacut	60	treptat	none			none	[]	populated	yes	standard	short_sparse	vague	patient leads	zugrăvit
+synth_23	3	umar_stg,cot_stg	6	cronic	77	necunoscut	none			named	"[{""denumire"": ""Ibuprofen"", ""doza"": ""400 mg""}]"	populated	yes	standard	detailed_long	terse	mid-intake	cumpărături
+synth_24	3	cot_dr,pumn_dr	7	acut	31	postură-birou	epilepsie			none	[]	populated	yes	standard	short_sparse	precise	first visit vs returning	ridicat greutăți
+synth_25	3	pumn_stg,umar_stg	8	subacut	48	treptat	none			none	[]	populated	yes	standard	short_sparse	vague	patient leads	îngrijit curtea
+synth_26	3	sold_dr,genunchi_dr	9	acut	65	necunoscut	none			named	"[{""denumire"": ""Diclac gel"", ""doza"": ""aplicare locală seara""}]"	populated	yes	standard	detailed_long	terse	greeting first	lucru la casă
+synth_27	3	sold_stg,glezna_stg	10	subacut	19	postură-birou	cancer_neoplasm			none	[]	populated	yes	standard	short_sparse	precise	mid-intake	urcat scări
+synth_28	3	genunchi_dr,glezna_dr	0	cronic	36	treptat	none	astm bronșic		none	[]	populated	yes	rich	short_sparse	anxious	first visit vs returning	volan
+synth_29	3	genunchi_stg,sold_stg	1	acut	53	efort	none			named	"[{""denumire"": ""Algocalmin"", ""doza"": ""500 mg""}]"	populated	yes	standard	detailed_long	terse	mid-intake	yoga
+synth_30	3	cap_ceafa,toracal	2	subacut	70	cădere	boli_autoimune			none	[]	populated	yes	standard	short_sparse	precise	patient leads	mers rapid
+synth_31	4	abdomen,lombar	3	acut	24	accident	none		fesier stâng	none	[]	populated	yes	rich	short_sparse	anxious	greeting first	cărat rucsac
+synth_32	4	torace,umar_dr	4	subacut	41	efort	none			named	"[{""denumire"": ""Euthyrox"", ""doza"": ""50 mcg""}]"	populated	yes	standard	detailed_long	talkative	patient leads	lucru în depozit
+synth_33	4	cervical	5	cronic	58	cădere	hipertensiune_arteriala,diabet_zaharat			none	[]	populated	yes	rich	short_sparse	precise	mid-intake	stat la birou
+synth_34	4	lombar	6	acut	75	accident	none			unnamed-pills	[]	populated	yes	standard	short_sparse	anxious	first visit vs returning	joc cu copiii
+synth_35	4	umar_stg	7	subacut	29	efort	none			named	"[{""denumire"": ""Naproxen"", ""doza"": null}]"	populated	yes	standard	detailed_long	talkative	patient leads	drum cu trenul
+synth_36	4	glezna_dr	8	acut	46	treptat	hernia_disc,scolioza_cifoza			none	[]	populated	yes	rich	short_sparse	vague	greeting first	antrenament de forță
+synth_37	4	cot_stg	9	subacut	63	necunoscut	none			none	[]	populated	yes	standard	short_sparse	anxious	mid-intake	mers pe tocuri
+synth_38	4	genunchi_dr	10	cronic	80	postură-birou	none			named	"[{""denumire"": ""Detralex"", ""doza"": null}]"	populated	yes	standard	detailed_long	talkative	first visit vs returning	lucru cu mouse-ul
+synth_39	4	sold_dr,lombar	0	acut	34	treptat	artrita_artroza,osteoporoza			none	[]	populated	yes	standard	short_sparse	vague	mid-intake	curierat
+synth_40	4	toracal	1	subacut	51	necunoscut	none			none	[]	populated	yes	standard	short_sparse	terse	patient leads	reparații mici
+synth_41	5	cap_ceafa,cervical	2	acut	68	postură-birou	none			none	[]	null	no	motiv_vas	detailed_long	talkative	greeting first	spălat geamuri
+synth_42	5	pumn_dr	3	subacut	22	treptat	none			none	[]	populated	yes	standard	short_sparse	vague	patient leads	schimbat roată
+synth_43	5	pumn_stg	4	cronic	39	efort	none			unnamed-pills	[]	populated	yes	standard	short_sparse	terse	mid-intake	scris la tastatură
+synth_44	5	sacral_coccis	5	acut	56	cădere	none	gastrită cronică		none	[]	populated	yes	rich	detailed_long	precise	first visit vs returning	împins cărucior
+synth_45	5	abdomen	6	subacut	73	accident	none			none	[]	populated	yes	standard	short_sparse	vague	patient leads	somn pe canapea
+synth_46	5	torace	7	acut	27	efort	none			none	[]	populated	yes	standard	short_sparse	terse	greeting first	cărat apă
+synth_47	5	umar_dr,cervical	8	subacut	44	cădere	none		antebraț drept	none	[]	populated	yes	rich	detailed_long	precise	mid-intake	stat aplecat
+synth_48	5	genunchi_stg,glezna_stg	9	cronic	61	accident	none			none	[]	populated	yes	standard	short_sparse	anxious	first visit vs returning	transport bagaje
+synth_49	5	lombar,toracal	10	acut	78	efort	none			none	[]	populated	yes	standard	short_sparse	terse	mid-intake	drumeție scurtă
+synth_50	5	glezna_stg,pumn_dr	0	subacut	32	treptat	none			none	[]	populated	yes	standard	detailed_long	precise	patient leads	lucru manual

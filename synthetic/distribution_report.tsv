@@ -1,0 +1,12 @@
+Pool refs used for target rates: audio18, audio19, audio21, audio23, audio26
+Seed pairs used: audio18, audio19, audio23, audio26, audio21
+
+field	target_rate	realized_rate
+motivul_prezentarii	1.00	1.00
+evaluarea_durerii_vas	1.00	0.88
+localizarea_durerii	1.00	0.94
+localizarea_durerii_alta	0.00	0.06
+antecedente	0.00	0.26
+antecedente_altele	0.00	0.06
+medicatie_actuala	0.00	0.24
+evaluare_functionala_initiala	1.00	0.90
