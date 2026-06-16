@@ -89,9 +89,9 @@ Slug-uri permise: {ANTECEDENTE_ENUM}
 - Listă goală dacă pacientul nu menționează medicamente sau spune că nu ia.
 
 ### evaluare_functionala_initiala (text liber sau null)
-- DOAR observații rostite cu voce tare de terapeut despre postură, biomecanică, mobilitate.
+- DOAR observații rostite cu voce tare de terapeut: diagnostic verbalizat, obiective terapeutice verbalizate, observații funcționale (postură, biomecanică, mobilitate).
 - Dacă terapeutul examinează în tăcere și nu verbalizează nimic → null.
-- Nu include teste sau diagnostic.
+- Nu deduce. Dacă terapeutul nu rostește diagnosticul, nu îl pune aici.
 
 ## Format ieșire
 

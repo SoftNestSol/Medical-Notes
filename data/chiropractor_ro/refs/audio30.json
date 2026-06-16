@@ -1,0 +1,15 @@
+{
+  "motivul_prezentarii": "Lombalgie",
+  "evaluarea_durerii_vas": 10,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala",
+    "diabet_zaharat"
+  ],
+  "antecedente_altele": "Implanturi / proteze metalice: Da — tip /  titan localizare: cot",
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic: Lombalgie;\n-protruzie L4-L5; L5-S1\nObiective terapeutice: -Reducerea inflamatiei;\nRefacerea mobilitatii articulare"
+}

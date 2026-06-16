@@ -43,9 +43,9 @@ The lead user prefers:
 | `localizarea_durerii` | multi-select from ~20 regions | extraction (cervical, toracal, lombar, sacral, umar_dr, umar_stg, ...) |
 | `antecedente` | multi-select from ~10 conditions + free text | extraction (hipertensiune, diabet, hernia_disc, scolioza, ...) |
 | `medicatie_actuala` | list of {nume, doza} | extraction of medications mentioned |
-| `evaluare_functionala_initiala` | free text or null | observations the therapist verbalizes; may be empty if not spoken |
+| `evaluare_functionala_initiala` | free text or null | verbalized diagnostic + verbalized therapeutic objectives + verbalized functional observations (posture, biomechanics, mobility); may be empty if not spoken |
 
-Fields `Diagnostic` and `Obiective_terapeutice` from the original form are **out of scope for v1**.
+`Diagnostic` and `Obiective_terapeutice` from the original form are **absorbed into `evaluare_functionala_initiala`** — in practice chiropractors write them there. No separate fields in v1. See Decision log entry 2026-06-16.
 
 **The non-negotiable rule:**
 
@@ -153,7 +153,7 @@ Per-field metrics, not a single aggregate:
 | `localizarea_durerii` | Multi-label F1 with empty-set handling |
 | `antecedente` | Multi-label F1 with empty-set handling |
 | `medicatie_actuala` | TBD — exact match vs normalized name match |
-| `motivul_prezentarii` | ROUGE-L + BERTScore (RO-capable encoder) |
+| `motivul_prezentarii` | BERTScore F1 (encoder RO `dumitrescustefan/bert-base-romanian-cased-v1`) — ROUGE-L dropped, see decision log 2026-06-16 |
 | `evaluare_functionala_initiala` | ROUGE-L + BERTScore |
 
 **Critical: "correct empty" handling.** A metric that only scores filled fields silently rewards hallucination. Need explicit handling: if both ref and pred are empty, that's a correct prediction and counts toward score.
@@ -191,8 +191,7 @@ Per-field metrics, not a single aggregate:
 
 1. VAS edge cases — vague descriptions, threshold for inference (stay empty per locked rule, but corner cases TBD)
 2. Medication normalization rules
-3. Whether `Diagnostic` and `Obiective_terapeutice` return in v2
-4. Production deployment beyond MVP
+3. Production deployment beyond MVP
 
 ---
 
@@ -247,3 +246,45 @@ Per-field metrics, not a single aggregate:
 - **Planning tasks:** push back on scope creep. Two weeks, two people. Every new idea must justify displacing an existing one.
 - **Writing tasks:** match the user's voice — direct, no fluff, skeptical-by-default.
 - **Don't suggest things outside the locked scope** unless flagging an actual risk.
+
+---
+
+## Decision log
+
+### 2026-06-16 — `evaluare_functionala_initiala` include diagnostic și obiective
+
+Schema și prompt-ul defineau anterior câmpul îngust ("postură, biomecanică,
+mobilitate"). În ground truth-ul livrat de chiropracticieni, câmpul conține
+în mod consistent și diagnosticul verbalizat și obiectivele terapeutice
+verbalizate. Decizia v1 din TEAMMATE_HANDOFF de a scoate
+`Diagnostic` / `Obiective_terapeutice` ca scope era cosmetic — chiroii le
+scriu oricum aici.
+
+Aliniem schema, SYSTEM_PROMPT și documentația cu practica reală a
+chiropracticienilor. Regula "if not spoken, leave empty" rămâne intactă —
+nu schimbăm decât tipul de informație acceptat, nu și regula de extragere.
+
+Modificat: `src/SOTA_EVALUATION/json_schema.py` (description),
+`src/SOTA_EVALUATION/claude_zero_shot.py` (SYSTEM_PROMPT section),
+`data/mts_dialog_ro_augmented/HANDOFF.md` (note added).
+
+### 2026-06-16 — motivul_prezentarii: drop ROUGE-L, keep BERTScore only
+
+Ground truth-ul livrat de chiropracticieni pentru motivul_prezentarii are
+variabilitate naturală mare de lungime (de la 2 cuvinte la 2 propoziții),
+reflectând practica reală: uneori scriu telegrafic ("cot dr."), uneori
+descriptiv. Această variabilitate e reală și nu se poate forța să dispară
+fără ground truth artificial.
+
+ROUGE-L e lexical și penalizează diferența de lungime între ref și pred
+chiar când extracția e semantic corectă. Drop ROUGE-L pentru acest câmp.
+
+BERTScore (encoder RO `dumitrescustefan/bert-base-romanian-cased-v1`)
+rămâne ca headline singur. Tolerează parafrazarea și e mai puțin sensibil
+la diferența de lungime, deși nu insensibil — limitare declarată în paper.
+
+Prompt-ul NU se schimbă. Modelul are voie să producă output de orice
+lungime plauzibilă.
+
+Modificat: EVAL_DECISIONS.md (secțiunea motivul_prezentarii și tabel
+recapitulare).

@@ -100,8 +100,10 @@ NOTE_SCHEMA = {
         },
         "evaluare_functionala_initiala": {
             "description": (
-                "Therapist's verbalized observations about posture, "
-                "biomechanics, mobility. Null if not spoken aloud."
+                "Diagnostic verbalized by the therapist, verbalized therapeutic "
+                "objectives, and verbalized functional observations (posture, "
+                "biomechanics, mobility). Only what is spoken aloud. Null if "
+                "the therapist verbalizes nothing."
             ),
             "type": ["string", "null"],
         },

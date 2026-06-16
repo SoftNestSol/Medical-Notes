@@ -56,3 +56,10 @@ print('dups', len(dups))
 print('empty_fields', empty_fields)
 PY
 ```
+
+## Schema scope note (2026-06-16)
+
+Diagnostic and Obiective terapeutice are absorbed into
+`evaluare_functionala_initiala` (in practice, chiropractors write them there).
+No separate `diagnostic` / `obiective_terapeutice` fields in v1. See AGENTS.md
+decision log entry 2026-06-16.

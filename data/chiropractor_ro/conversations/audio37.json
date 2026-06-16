@@ -1,0 +1,523 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio37.m4a",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 1.892,
+      "end": 3.353,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, domnule Yucutava."
+    },
+    {
+      "start": 3.373,
+      "end": 7.715,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 7.975,
+      "end": 8.895,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ați venit la noi?"
+    },
+    {
+      "start": 8.915,
+      "end": 9.236,
+      "speaker": "SPEAKER_00",
+      "text": "Mi-am plăcut să"
+    },
+    {
+      "start": 9.256,
+      "end": 10.356,
+      "speaker": "SPEAKER_01",
+      "text": "nu-i să spunem pe tot numele."
+    },
+    {
+      "start": 11.056,
+      "end": 11.737,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 12.537,
+      "end": 15.339,
+      "speaker": "SPEAKER_00",
+      "text": "Numere de familie fiind Iaco și prenumere Yucutava, nu?"
+    },
+    {
+      "start": 16.319,
+      "end": 16.499,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 16.999,
+      "end": 17.58,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 18.44,
+      "end": 20.881,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ați ajuns la noi, domnule?"
+    },
+    {
+      "start": 20.901,
+      "end": 24.643,
+      "speaker": "SPEAKER_01",
+      "text": "Domnule, mă doare mușchiul de la Tibie foarte tare."
+    },
+    {
+      "start": 25.103,
+      "end": 28.685,
+      "speaker": "SPEAKER_00",
+      "text": "Mușchiul de la Tibie mă doare foarte tare și cum ați ajuns la noi, de altfel?"
+    },
+    {
+      "start": 29.234,
+      "end": 32.836,
+      "speaker": "SPEAKER_00",
+      "text": "Prin o recomandare, prin social media?"
+    },
+    {
+      "start": 32.997,
+      "end": 34.578,
+      "speaker": "SPEAKER_01",
+      "text": "Prin social"
+    },
+    {
+      "start": 34.638,
+      "end": 36.719,
+      "speaker": "SPEAKER_00",
+      "text": "media."
+    },
+    {
+      "start": 36.779,
+      "end": 37.339,
+      "speaker": "SPEAKER_00",
+      "text": "Ce ați făcut?"
+    },
+    {
+      "start": 37.98,
+      "end": 40.982,
+      "speaker": "SPEAKER_00",
+      "text": "Te-a apărut durerea aceea la zona de tip?"
+    },
+    {
+      "start": 41.002,
+      "end": 41.182,
+      "speaker": "SPEAKER_00",
+      "text": "Am tot"
+    },
+    {
+      "start": 41.222,
+      "end": 49.328,
+      "speaker": "SPEAKER_01",
+      "text": "ieșit la alergat în ultimul timp și cred că am călcat foarte mult pe călcăi și s-a activat, nu știu, de"
+    },
+    {
+      "start": 49.348,
+      "end": 49.828,
+      "speaker": "SPEAKER_00",
+      "text": "rapid."
+    },
+    {
+      "start": 49.888,
+      "end": 52.209,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp vă doare?"
+    },
+    {
+      "start": 52.79,
+      "end": 55.952,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo două, trei zile, două zile, cam așa."
+    },
+    {
+      "start": 58.647,
+      "end": 60.788,
+      "speaker": "SPEAKER_00",
+      "text": "Ați schimbat încălțămintea?"
+    },
+    {
+      "start": 60.828,
+      "end": 63.809,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, sunt cu aceiași candidaj de alergat."
+    },
+    {
+      "start": 63.849,
+      "end": 63.909,
+      "speaker": "SPEAKER_01",
+      "text": "Ați"
+    },
+    {
+      "start": 63.949,
+      "end": 65.35,
+      "speaker": "SPEAKER_00",
+      "text": "schimbat locul în care alergați?"
+    },
+    {
+      "start": 65.39,
+      "end": 65.47,
+      "speaker": "SPEAKER_00",
+      "text": "Nu,"
+    },
+    {
+      "start": 65.51,
+      "end": 67.61,
+      "speaker": "SPEAKER_01",
+      "text": "în parc."
+    },
+    {
+      "start": 68.291,
+      "end": 69.031,
+      "speaker": "SPEAKER_00",
+      "text": "În același parc?"
+    },
+    {
+      "start": 69.151,
+      "end": 71.212,
+      "speaker": "SPEAKER_01",
+      "text": "În același parc, de când eram mic."
+    },
+    {
+      "start": 71.592,
+      "end": 73.553,
+      "speaker": "SPEAKER_00",
+      "text": "Deci sunteți o persoană constantă."
+    },
+    {
+      "start": 74.033,
+      "end": 78.234,
+      "speaker": "SPEAKER_01",
+      "text": "Da, în afară de femei."
+    },
+    {
+      "start": 78.595,
+      "end": 82.036,
+      "speaker": "SPEAKER_00",
+      "text": "N-ați spune."
+    },
+    {
+      "start": 82.056,
+      "end": 85.197,
+      "speaker": "SPEAKER_01",
+      "text": "Nici lui care n-ați"
+    },
+    {
+      "start": 85.217,
+      "end": 85.557,
+      "speaker": "SPEAKER_00",
+      "text": "spune."
+    },
+    {
+      "start": 85.637,
+      "end": 87.778,
+      "speaker": "SPEAKER_00",
+      "text": "Deci zona de tibie, pe care parte te rog?"
+    },
+    {
+      "start": 89.119,
+      "end": 90.36,
+      "speaker": "SPEAKER_01",
+      "text": "Piciorul drept, în mod special."
+    },
+    {
+      "start": 90.56,
+      "end": 91.301,
+      "speaker": "SPEAKER_01",
+      "text": "Piciorul drept."
+    },
+    {
+      "start": 91.321,
+      "end": 93.983,
+      "speaker": "SPEAKER_01",
+      "text": "Astăzi nu e mai ușor, mai puțin."
+    },
+    {
+      "start": 94.003,
+      "end": 95.785,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 95.885,
+      "end": 100.769,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10 unde 0 nu doare deloc și 10 doare foarte tare, cât de rău doare?"
+    },
+    {
+      "start": 100.789,
+      "end": 100.829,
+      "speaker": "SPEAKER_00",
+      "text": "În"
+    },
+    {
+      "start": 100.849,
+      "end": 106.034,
+      "speaker": "SPEAKER_01",
+      "text": "momentul în care merg undeva pe la 8, 9, dacă stau nu prea mai resimt, e un 3."
+    },
+    {
+      "start": 107.195,
+      "end": 113.341,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți să verific și eu puțin partea de tibie."
+    },
+    {
+      "start": 116.487,
+      "end": 118.95,
+      "speaker": "SPEAKER_00",
+      "text": "În zona asta din interior doare?"
+    },
+    {
+      "start": 119.03,
+      "end": 120.812,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, mai lângă os."
+    },
+    {
+      "start": 120.832,
+      "end": 122.053,
+      "speaker": "SPEAKER_00",
+      "text": "Aici în exterior?"
+    },
+    {
+      "start": 122.093,
+      "end": 124.856,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 124.876,
+      "end": 127.839,
+      "speaker": "SPEAKER_00",
+      "text": "Doare toată zona tibială, de sus până jos?"
+    },
+    {
+      "start": 128.48,
+      "end": 128.9,
+      "speaker": "SPEAKER_00",
+      "text": "Sus cel"
+    },
+    {
+      "start": 128.96,
+      "end": 129.06,
+      "speaker": "SPEAKER_01",
+      "text": "mai"
+    },
+    {
+      "start": 129.08,
+      "end": 129.26,
+      "speaker": "SPEAKER_00",
+      "text": "rău."
+    },
+    {
+      "start": 129.321,
+      "end": 134.746,
+      "speaker": "SPEAKER_00",
+      "text": "Sus cel mai rău și după locul cât mă duc mai jos, poate e în ce în ce mai ușor."
+    },
+    {
+      "start": 135.006,
+      "end": 136.088,
+      "speaker": "SPEAKER_00",
+      "text": "Tensiune arterială?"
+    },
+    {
+      "start": 136.488,
+      "end": 137.889,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 137.93,
+      "end": 138.47,
+      "speaker": "SPEAKER_00",
+      "text": "Diabet?"
+    },
+    {
+      "start": 138.81,
+      "end": 139.331,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 140.325,
+      "end": 142.066,
+      "speaker": "SPEAKER_00",
+      "text": "Osteoporoză, cancer, epilepsie?"
+    },
+    {
+      "start": 142.146,
+      "end": 143.087,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 143.567,
+      "end": 144.688,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții cu juridicale?"
+    },
+    {
+      "start": 145.088,
+      "end": 145.669,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 145.989,
+      "end": 149.311,
+      "speaker": "SPEAKER_00",
+      "text": "Traumatisme, fractură, accidente?"
+    },
+    {
+      "start": 149.331,
+      "end": 154.054,
+      "speaker": "SPEAKER_01",
+      "text": "Am avut o fractură când era mai mic la tibie, de la fotbal, dar..."
+    },
+    {
+      "start": 154.074,
+      "end": 155.775,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. La tibia dreaptă?"
+    },
+    {
+      "start": 155.875,
+      "end": 157.096,
+      "speaker": "SPEAKER_00",
+      "text": "Da."
+    },
+    {
+      "start": 157.236,
+      "end": 159.778,
+      "speaker": "SPEAKER_00",
+      "text": "Deci de acolo e sensibilitate."
+    },
+    {
+      "start": 159.838,
+      "end": 161.059,
+      "speaker": "SPEAKER_00",
+      "text": "Boli cu transmitere prin sânge?"
+    },
+    {
+      "start": 161.099,
+      "end": 162.72,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 162.86,
+      "end": 164.221,
+      "speaker": "SPEAKER_00",
+      "text": "Implanturi, proteze metalice?"
+    },
+    {
+      "start": 164.281,
+      "end": 166.362,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 166.843,
+      "end": 167.843,
+      "speaker": "SPEAKER_00",
+      "text": "Stimulator cardiac?"
+    },
+    {
+      "start": 167.903,
+      "end": 168.144,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 168.984,
+      "end": 170.145,
+      "speaker": "SPEAKER_00",
+      "text": "Însărcina nu sunteți."
+    },
+    {
+      "start": 171.153,
+      "end": 172.433,
+      "speaker": "SPEAKER_00",
+      "text": "Medicamente luați?"
+    },
+    {
+      "start": 173.514,
+      "end": 173.674,
+      "speaker": "SPEAKER_00",
+      "text": "Nu."
+    },
+    {
+      "start": 174.194,
+      "end": 175.994,
+      "speaker": "SPEAKER_00",
+      "text": "Alergii la medicamente sau substanțe topice?"
+    },
+    {
+      "start": 176.054,
+      "end": 179.035,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, nu."
+    },
+    {
+      "start": 179.075,
+      "end": 180.096,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai făcut fizioterapie?"
+    },
+    {
+      "start": 180.936,
+      "end": 181.896,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 181.916,
+      "end": 183.276,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai făcut terapie de orice tip?"
+    },
+    {
+      "start": 183.296,
+      "end": 187.918,
+      "speaker": "SPEAKER_01",
+      "text": "Am mai făcut la masaj, dar nu... Deci masaj."
+    },
+    {
+      "start": 188.618,
+      "end": 190.018,
+      "speaker": "SPEAKER_01",
+      "text": "De relaxare."
+    },
+    {
+      "start": 190.078,
+      "end": 190.638,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 190.679,
+      "end": 192.499,
+      "speaker": "SPEAKER_00",
+      "text": "Noi vom începe azi cu partele fizioterapie."
+    },
+    {
+      "start": 192.519,
+      "end": 197.16,
+      "speaker": "SPEAKER_00",
+      "text": "Detecar terapie, curenți interferențial, ultrasunet, ca să reducem inflamația din musculatură."
+    },
+    {
+      "start": 197.841,
+      "end": 199.541,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți, vă rog cu fața în sus, pe masă."
+    }
+  ]
+}

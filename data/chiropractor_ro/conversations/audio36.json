@@ -1,0 +1,325 @@
+{
+  "audio_path": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/audio/audio36.m4a",
+  "language": "ro",
+  "model": "large-v3-turbo",
+  "segments": [
+    {
+      "start": 2.113,
+      "end": 3.355,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, domnule Robila."
+    },
+    {
+      "start": 4.215,
+      "end": 4.616,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 5.277,
+      "end": 7.039,
+      "speaker": "SPEAKER_01",
+      "text": "Cu ce problemă ați venit la"
+    },
+    {
+      "start": 7.099,
+      "end": 7.899,
+      "speaker": "SPEAKER_00",
+      "text": "noi?"
+    },
+    {
+      "start": 8.22,
+      "end": 9.461,
+      "speaker": "SPEAKER_00",
+      "text": "Sincer, nu am nicio problemă."
+    },
+    {
+      "start": 9.501,
+      "end": 13.405,
+      "speaker": "SPEAKER_00",
+      "text": "Mă așteptam să vin aici pentru relaxare."
+    },
+    {
+      "start": 13.485,
+      "end": 16.669,
+      "speaker": "SPEAKER_01",
+      "text": "Deci pentru relaxare ați optat dumneavoastră."
+    },
+    {
+      "start": 17.109,
+      "end": 17.75,
+      "speaker": "SPEAKER_00",
+      "text": "Exact."
+    },
+    {
+      "start": 18.933,
+      "end": 26.618,
+      "speaker": "SPEAKER_01",
+      "text": "Sigur, putem să facem și un masaj de relaxare, dar la cum vă văd a spune că aveți undeva la 27 de ani și sunteți sportivi, faceți sală?"
+    },
+    {
+      "start": 26.638,
+      "end": 28.379,
+      "speaker": "SPEAKER_01",
+      "text": "25 mai exact."
+    },
+    {
+      "start": 28.499,
+      "end": 28.679,
+      "speaker": "SPEAKER_01",
+      "text": "Mulți"
+    },
+    {
+      "start": 28.699,
+      "end": 29.059,
+      "speaker": "SPEAKER_00",
+      "text": "înainte."
+    },
+    {
+      "start": 29.099,
+      "end": 30.06,
+      "speaker": "SPEAKER_01",
+      "text": "Și faceți sală?"
+    },
+    {
+      "start": 30.98,
+      "end": 31.3,
+      "speaker": "SPEAKER_00",
+      "text": "Mai merg"
+    },
+    {
+      "start": 31.36,
+      "end": 31.961,
+      "speaker": "SPEAKER_01",
+      "text": "din când în când."
+    },
+    {
+      "start": 32.481,
+      "end": 33.582,
+      "speaker": "SPEAKER_01",
+      "text": "Până mergeți din când în când."
+    },
+    {
+      "start": 33.862,
+      "end": 39.905,
+      "speaker": "SPEAKER_01",
+      "text": "Nu mai bine în loc de un masaj de relaxare, facem un mesaj terapeutic, un masaj sportiv."
+    },
+    {
+      "start": 39.945,
+      "end": 39.985,
+      "speaker": "SPEAKER_01",
+      "text": "În"
+    },
+    {
+      "start": 40.005,
+      "end": 44.628,
+      "speaker": "SPEAKER_00",
+      "text": "considerați, eu vreau să stau liniștit, să stau relaxat, să fiu masaj."
+    },
+    {
+      "start": 44.868,
+      "end": 46.669,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles, dar să știți că masajul acesta doare."
+    },
+    {
+      "start": 47.129,
+      "end": 50.211,
+      "speaker": "SPEAKER_01",
+      "text": "Însă vă veți simți foarte bine după el."
+    },
+    {
+      "start": 50.531,
+      "end": 52.372,
+      "speaker": "SPEAKER_00",
+      "text": "Hai să-i dăm încercare."
+    },
+    {
+      "start": 52.392,
+      "end": 58.034,
+      "speaker": "SPEAKER_01",
+      "text": "Eu aș sugera dacă tot veniți fără o problemă în sine."
+    },
+    {
+      "start": 58.074,
+      "end": 65.478,
+      "speaker": "SPEAKER_01",
+      "text": "Întâi să verificăm musculatura dacă e tensionată sau nu și ulterior să mergem cu masaj de relaxare, partea de chiropractică, partea de mobilizare articulară."
+    },
+    {
+      "start": 66.478,
+      "end": 69.04,
+      "speaker": "SPEAKER_01",
+      "text": "Facem, ce zici tu."
+    },
+    {
+      "start": 69.12,
+      "end": 69.62,
+      "speaker": "SPEAKER_01",
+      "text": "Bine."
+    },
+    {
+      "start": 70.84,
+      "end": 71.861,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să testăm puțin."
+    },
+    {
+      "start": 73.427,
+      "end": 75.849,
+      "speaker": "SPEAKER_00",
+      "text": "Dar nu mă atingi tu, mă atingi o femeie."
+    },
+    {
+      "start": 75.869,
+      "end": 80.151,
+      "speaker": "SPEAKER_01",
+      "text": "Da, vă dau pe colegă."
+    },
+    {
+      "start": 80.171,
+      "end": 83.133,
+      "speaker": "SPEAKER_01",
+      "text": "Lucrezi tu, te rog, pe domnul Robilă."
+    },
+    {
+      "start": 83.334,
+      "end": 83.494,
+      "speaker": "SPEAKER_00",
+      "text": "Hai,"
+    },
+    {
+      "start": 83.554,
+      "end": 84.014,
+      "speaker": "SPEAKER_01",
+      "text": "continuă."
+    },
+    {
+      "start": 84.534,
+      "end": 86.356,
+      "speaker": "SPEAKER_01",
+      "text": "Ce trebuie să fac?"
+    },
+    {
+      "start": 86.416,
+      "end": 88.917,
+      "speaker": "SPEAKER_01",
+      "text": "Să vă dezbrăcați, vă rog."
+    },
+    {
+      "start": 88.977,
+      "end": 97.103,
+      "speaker": "SPEAKER_01",
+      "text": "Și să vă așezați pe masă cu fața în jos."
+    },
+    {
+      "start": 97.143,
+      "end": 100.645,
+      "speaker": "SPEAKER_01",
+      "text": "Eu zic că doare puțin aici domnule Robilă, în zona lombar, așa e?"
+    },
+    {
+      "start": 101.746,
+      "end": 102.767,
+      "speaker": "SPEAKER_00",
+      "text": "Un pic, da, doare."
+    },
+    {
+      "start": 103.347,
+      "end": 105.028,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic."
+    },
+    {
+      "start": 105.048,
+      "end": 106.569,
+      "speaker": "SPEAKER_01",
+      "text": "Aici, pe fesă, doare?"
+    },
+    {
+      "start": 107.369,
+      "end": 109.59,
+      "speaker": "SPEAKER_00",
+      "text": "Doare mai tare, da."
+    },
+    {
+      "start": 109.61,
+      "end": 111.031,
+      "speaker": "SPEAKER_01",
+      "text": "Aici, în zona toracală, doare?"
+    },
+    {
+      "start": 111.551,
+      "end": 113.372,
+      "speaker": "SPEAKER_01",
+      "text": "Da, nu vrem."
+    },
+    {
+      "start": 113.432,
+      "end": 115.073,
+      "speaker": "SPEAKER_01",
+      "text": "Sus, aici, la cervical, la trapez?"
+    },
+    {
+      "start": 116.714,
+      "end": 117.254,
+      "speaker": "SPEAKER_01",
+      "text": "Am înțeles."
+    },
+    {
+      "start": 117.274,
+      "end": 121.436,
+      "speaker": "SPEAKER_01",
+      "text": "Deci ne axăm mai mult pe partea de masaj pe zona lombară."
+    },
+    {
+      "start": 121.516,
+      "end": 126.759,
+      "speaker": "SPEAKER_01",
+      "text": "Vă las cu colega să vă relaxeze și ultrăi ori voi veni eu pentru partea de chiropractic."
+    },
+    {
+      "start": 127.575,
+      "end": 128.956,
+      "speaker": "SPEAKER_01",
+      "text": "Ce înseamnă chiropractic?"
+    },
+    {
+      "start": 128.976,
+      "end": 131.779,
+      "speaker": "SPEAKER_01",
+      "text": "Adică să detenționăm puțin articulațiile, să troznim puțin."
+    },
+    {
+      "start": 134.362,
+      "end": 135.122,
+      "speaker": "SPEAKER_01",
+      "text": "Păi și e ok?"
+    },
+    {
+      "start": 135.182,
+      "end": 136.964,
+      "speaker": "SPEAKER_00",
+      "text": "E sănătos?"
+    },
+    {
+      "start": 136.984,
+      "end": 145.973,
+      "speaker": "SPEAKER_01",
+      "text": "Atâta timp când nu sunt făcute de cineva care nu știe să folosească tehnicile, poate să nu fie chiar așa sănătos, dar dumneavoastră ați venit unde trebuie."
+    },
+    {
+      "start": 146.053,
+      "end": 146.994,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, merg pe mâna ta."
+    },
+    {
+      "start": 147.895,
+      "end": 149.196,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, spor la relaxare."
+    }
+  ]
+}

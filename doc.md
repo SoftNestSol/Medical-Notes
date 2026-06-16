@@ -45,3 +45,25 @@ Measure ASR word error rate
 Collect more in-domain Romanian pairs
 Try input normalization with a larger model as preprocessing
 Scale up model once enough data exists
+
+---
+
+### Decision log
+
+#### 2026-06-16 — `evaluare_functionala_initiala` include diagnostic și obiective
+
+Schema și prompt-ul defineau anterior câmpul îngust ("postură, biomecanică,
+mobilitate"). În ground truth-ul livrat de chiropracticieni, câmpul conține
+în mod consistent și diagnosticul verbalizat și obiectivele terapeutice
+verbalizate. Decizia v1 din TEAMMATE_HANDOFF de a scoate
+`Diagnostic` / `Obiective_terapeutice` ca scope era cosmetic — chiroii le
+scriu oricum aici.
+
+Aliniem schema, SYSTEM_PROMPT și documentația cu practica reală a
+chiropracticienilor. Regula "if not spoken, leave empty" rămâne intactă —
+nu schimbăm decât tipul de informație acceptat, nu și regula de extragere.
+
+Modificat: `src/SOTA_EVALUATION/json_schema.py` (description),
+`src/SOTA_EVALUATION/claude_zero_shot.py` (SYSTEM_PROMPT section),
+`AGENTS.md` (schema table + decision log),
+`data/mts_dialog_ro_augmented/HANDOFF.md` (scope note).
