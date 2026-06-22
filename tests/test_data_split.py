@@ -15,6 +15,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 from data_split import (  # noqa: E402
     ALL_IDS,
     POOL_IDS,
+    TEST_COMPLETE_PAIR_IDS,
     TEST_IDS,
     HeldOutLeakageError,
     assert_no_test_leakage,
@@ -25,8 +26,13 @@ def test_test_ids_has_exactly_18_entries():
     assert len(TEST_IDS) == 18
 
 
-def test_pool_ids_has_exactly_17_entries():
-    assert len(POOL_IDS) == 17
+def test_pool_ids_has_exactly_19_entries():
+    assert len(POOL_IDS) == 19
+
+
+def test_test_complete_pair_ids_has_exactly_15_entries():
+    assert len(TEST_COMPLETE_PAIR_IDS) == 15
+    assert TEST_COMPLETE_PAIR_IDS <= TEST_IDS
 
 
 def test_test_and_pool_are_disjoint_and_cover_all_ids():
