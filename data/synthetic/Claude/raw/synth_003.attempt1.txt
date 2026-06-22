@@ -1,0 +1,46 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ați venit azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut din senin sau după ceva anume?\nSPEAKER_01: După ce am mutat niște mobilă.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: La mișcare mai mult.\nSPEAKER_00: Când ridicați brațul în sus, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă duceți mâna la spate?\nSPEAKER_01: Doare și acolo.\nSPEAKER_00: Amorțește ceva, degetele, brațul?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte zone mai dor în afară de umăr?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Ok. Aveți tensiune, diabet, vreo boală de inimă?\nSPEAKER_01: Nu.\nSPEAKER_00: Osteoporoză, artrită?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi la umărul ăsta?\nSPEAKER_01: Nu am avut.\nSPEAKER_00: Luați vreo medicație în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun medicament?\nSPEAKER_01: Nimic.\nSPEAKER_00: Bun. Stați puțin cu brațul pe lângă corp, relaxat. Văd că umărul drept e ușor căzut față de stânga. Ridicați brațul încet în față, așa... până unde puteți. Doare acum?\nSPEAKER_01: Da, de pe la jumătate în sus.\nSPEAKER_00: Înțeleg. Și dacă duc brațul lateral, doare la fel?\nSPEAKER_01: Mai tare.\nSPEAKER_00: Mai tare lateral. Bun. Vă apăs puțin aici, pe zona de sub acromion. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și aici, mai în față, pe tendonul bicepsului?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Ok. Pare a fi o tendinopatie de supraspinat, cel mai probabil apărută din efortul ăla de la mutatul mobilei. Avem o inflamație la nivelul tendonului și o ușoară limitare a mobilității. Va trebui să lucrăm pe reducerea inflamației și să recuperăm mobilitatea umărului.\nSPEAKER_01: Da, ok.\nSPEAKER_00: Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere la nivelul umărului drept apărută în urmă cu aproximativ două săptămâni după efort fizic (mutat mobilă). Durere predominant la mișcare (ridicarea brațului și abducție), VAS 6/10. Fără amorțeli.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUmăr drept ușor căzut față de stânga. Limitare la abducție și flexie activă a brațului drept (durere de la jumătatea amplitudinii în sus). Abducția mai dureroasă decât flexia. Durere la palparea zonei subacrominale. Sensibilitate mai redusă la nivelul tendonului bicepsului.\nDiagnostic:\nTendinopatie de supraspinat, cu inflamație locală și limitare a mobilității umărului drept, apărută după efort fizic intens (mutat mobilă).\nObiective terapeutice:\nReducerea procesului inflamator; recuperarea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "De vreo două săptămâni.",
+      "După ce am mutat niște mobilă.",
+      "La mișcare mai mult.",
+      "Amorțește ceva, degetele, brațul? Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Dreptul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd că umărul drept e ușor căzut față de stânga.",
+      "Doare acum? Da, de pe la jumătate în sus.",
+      "Și dacă duc brațul lateral, doare la fel? Mai tare.",
+      "Vă apăs puțin aici, pe zona de sub acromion. Doare? Da.",
+      "Și aici, mai în față, pe tendonul bicepsului? Mai puțin.",
+      "Pare a fi o tendinopatie de supraspinat, cel mai probabil apărută din efortul ăla de la mutatul mobilei.",
+      "Avem o inflamație la nivelul tendonului și o ușoară limitare a mobilității.",
+      "Va trebui să lucrăm pe reducerea inflamației și să recuperăm mobilitatea umărului."
+    ]
+  }
+}

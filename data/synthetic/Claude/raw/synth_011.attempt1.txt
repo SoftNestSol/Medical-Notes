@@ -1,0 +1,44 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, cu ce problemă veniți azi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut din senin sau după ceva anume?\nSPEAKER_01: Nu știu, poate de la birou.\nSPEAKER_00: Stați mult la calculator?\nSPEAKER_01: Da.\nSPEAKER_00: Câte ore pe zi aproximativ?\nSPEAKER_01: Vreo opt ore, nouă.\nSPEAKER_00: Ok. Doare doar gâtul sau se duce și undeva?\nSPEAKER_01: Și în umărul ăsta.\nSPEAKER_00: Care umăr, stângul sau dreptul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: Deci cervical și umărul drept. Se lasă mai departe, pe braț, pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeli la degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Amețeli, dureri de cap?\nSPEAKER_01: Câteodată mă doare capul, da.\nSPEAKER_00: Des?\nSPEAKER_01: Nu, rar.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât e durerea acum la gât?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Și la umăr?\nSPEAKER_01: Cam la fel.\nSPEAKER_00: Deci tot un 5. Doare mai mult când stați la birou sau când vă mișcați?\nSPEAKER_01: Când stau jos mai mult.\nSPEAKER_00: Când vă ridicați se mai ameliorează?\nSPEAKER_01: Un pic, da.\nSPEAKER_00: Noaptea vă deranjează, nu puteți dormi?\nSPEAKER_01: Uneori nu găsesc o poziție bună.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, osteoporoză, ceva diagnosticat?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciuna.\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Am luat un ibuprofen când m-a durut mai tare, dar nu iau constant.\nSPEAKER_00: Deci nu luați nimic în mod regulat.\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin, întoarceți-vă cu spatele la mine. Relaxați umerii. Văd că aveți capul dus puțin înainte și umărul drept e mai ridicat ca stângul. Întoarceți capul la dreapta pentru mine, încet.\nSPEAKER_01: Până aici.\nSPEAKER_00: Doare?\nSPEAKER_01: Da, se trage.\nSPEAKER_00: Și la stânga?\nSPEAKER_01: Merge mai bine.\nSPEAKER_00: Da, văd că rotația la dreapta e limitată. Aplecați capul spre umărul drept.\nSPEAKER_01: Au, da.\nSPEAKER_00: Ok. Apăs puțin pe musculatura de aici, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo e mai rău.\nSPEAKER_00: Trapezul superior drept e foarte contractat. Și zona asta de la baza gâtului, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Deci avem o contractură la nivel cervical cu iradiere în umărul drept, cel mai probabil din postura de la birou. O să lucrăm să reducem contractura, să eliberăm mobilitatea cervicală și să decontracturăm trapezul. Bun, haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu iradiere în umărul drept, apărută de aproximativ două săptămâni, asociată cu munca prelungită la birou (circa 8-9 ore/zi). Dureri de cap ocazionale.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nCap dus anterior, umăr drept mai ridicat față de stângul. Rotație cervicală la dreapta limitată și dureroasă. Înclinare laterală spre dreapta dureroasă. Contractură trapez superior drept și musculatură la baza gâtului.\nDiagnostic:\nContractură cervicală cu iradiere în umărul drept.\nObiective terapeutice:\nReducerea contracturii musculare cervicale; eliberarea mobilității cervicale; decontracturarea trapezului superior drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "De vreo două săptămâni.",
+      "Nu știu, poate de la birou.",
+      "Vreo opt ore, nouă.",
+      "Câteodată mă doare capul, da."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Și în umărul ăsta.",
+      "Care umăr, stângul sau dreptul?\nSPEAKER_01: Dreptul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți capul dus puțin înainte și umărul drept e mai ridicat ca stângul.",
+      "rotația la dreapta e limitată",
+      "Trapezul superior drept e foarte contractat.",
+      "avem o contractură la nivel cervical cu iradiere în umărul drept",
+      "O să lucrăm să reducem contractura, să eliberăm mobilitatea cervicală și să decontracturăm trapezul."
+    ]
+  }
+}

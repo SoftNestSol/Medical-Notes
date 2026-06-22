@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule Marin.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi și mie, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Genunchiul.\nSPEAKER_00: Genunchiul. Care dintre ele?\nSPEAKER_01: Dreptul.\nSPEAKER_00: Genunchiul drept. De când vă supără?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. S-a întâmplat ceva anume? Ați căzut, v-ați lovit?\nSPEAKER_01: Nu.\nSPEAKER_00: A apărut așa, de la sine?\nSPEAKER_01: Cam așa.\nSPEAKER_00: Faceți vreun sport, alergați?\nSPEAKER_01: Alerg.\nSPEAKER_00: Alergați. Mult?\nSPEAKER_01: Câteva ori pe săptămână.\nSPEAKER_00: Și doare în timp ce alergați sau după?\nSPEAKER_01: Și după.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare vă doare?\nSPEAKER_01: Un 4.\nSPEAKER_00: Un 4. Doare pe partea din față, pe rotulă, sau pe lateral?\nSPEAKER_01: În față.\nSPEAKER_00: În față, pe rotulă. Vă doare când urcați scările?\nSPEAKER_01: Da.\nSPEAKER_00: Dar la coborât?\nSPEAKER_01: Mai rău.\nSPEAKER_00: Mai rău la coborât. Genunchiul stâng deloc?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Mai aveți și alte dureri? Șold, spate?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, cum ar fi tensiune, diabet, cancer, epilepsie?\nSPEAKER_01: Nu.\nSPEAKER_00: Artroză, probleme la articulații?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Accidente de mașină?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Nimic? Nici pentru durere?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la unguente, creme?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să ne ridicăm puțin în picioare să fac câteva teste. Stați puțin doar pe piciorul drept. Vă ține?\nSPEAKER_01: Mă ține.\nSPEAKER_00: Acum faceți o ușoară genuflexiune. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Unde anume?\nSPEAKER_01: Sub rotulă.\nSPEAKER_00: Sub rotulă, da. Acum apăs aici pe partea de față. Doare?\nSPEAKER_01: Un pic.\nSPEAKER_00: Un pic. Și aici, pe partea de tendon rotulian?\nSPEAKER_01: Acolo da.\nSPEAKER_00: Acolo doare mai tare. Pe o scară de la 0 la 10, când apăs aici?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Bun. Aveți cumva o radiografie sau un RMN făcut?\nSPEAKER_01: Nu.\nSPEAKER_00: Ce vă pot spune este că pare a fi o tendinopatie rotuliană, agravată de alergare. În primă fază trebuie să reducem inflamația la nivelul tendonului, ca ulterior să lucrăm pe stabilitatea genunchiului. Începem chiar azi?\nSPEAKER_01: Da.\nSPEAKER_00: Bun, haideți să vă așezați pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere genunchi drept",
+    "evaluarea_durerii_vas": [4, 5],
+    "localizarea_durerii": ["genunchi_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: - tendinopatie rotuliana, agravata de alergare\nObiective terapeutice: - reducerea inflamatiei la nivelul tendonului;\n- lucru pe stabilitatea genunchiului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Genunchiul.", "Dreptul.", "Genunchiul drept."],
+    "evaluarea_durerii_vas": ["Un 4.", "Un 5."],
+    "localizarea_durerii": ["Genunchiul drept.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["pare a fi o tendinopatie rotuliană, agravată de alergare", "trebuie să reducem inflamația la nivelul tendonului", "ca ulterior să lucrăm pe stabilitatea genunchiului"]
+  }
+}

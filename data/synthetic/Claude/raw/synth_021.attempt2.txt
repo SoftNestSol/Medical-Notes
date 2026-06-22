@@ -1,0 +1,31 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Constant sau vine și trece?\nSPEAKER_01: Vine și trece.\nSPEAKER_00: Și ce vârstă aveți?\nSPEAKER_01: 38.\nSPEAKER_00: Lucrați la birou, la calculator?\nSPEAKER_01: Da.\nSPEAKER_00: Mult timp pe zi?\nSPEAKER_01: Vreo opt ore.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Un 5.\nSPEAKER_00: Durerea se lasă și pe umăr, pe braț?\nSPEAKER_01: Pe umărul drept un pic.\nSPEAKER_00: Amorțește mâna sau degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți dureri de cap?\nSPEAKER_01: Uneori.\nSPEAKER_00: Des?\nSPEAKER_01: Nu, rar.\nSPEAKER_00: Bun. Tensiune, diabet, alte probleme de sănătate?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai avut vreodată această durere înainte de aceste două săptămâni?\nSPEAKER_01: Mai demult, da, dar a trecut singură.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nurofen, când doare prea tare.\nSPEAKER_00: Și cât de des luați?\nSPEAKER_01: Rar, o dată, de două ori pe săptămână.\nSPEAKER_00: Înțeles. Haideți să stați în picioare puțin. Relaxați umerii. Vă întoarceți capul spre dreapta, ușor. Doare?\nSPEAKER_01: Da, puțin.\nSPEAKER_00: Spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Lăsați capul pe spate.\nSPEAKER_01: Ăsta doare mai tare.\nSPEAKER_00: Bun. Vă apăs puțin pe musculatura de aici, pe zona cervicală. Spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Și pe umărul drept?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Înțeles. Pare a fi o contractură musculară la nivel cervical, cu iradiere ușoară spre umărul drept, probabil din postura la birou. Vom lucra să reducem tensiunea musculară și să îmbunătățim mobilitatea gâtului.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu iradiere spre umărul drept, de aproximativ două săptămâni, la un pacient care lucrează la birou circa opt ore pe zi.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractură musculară cervicală cu iradiere spre umărul drept\nObiective terapeutice: reducerea tensiunii musculare; îmbunătățirea mobilității cervicale"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "Vreo două săptămâni.", "Pe umărul drept un pic.", "Vreo opt ore."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Pe umărul drept un pic."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nurofen, când doare prea tare."],
+    "evaluare_functionala_initiala": ["Pare a fi o contractură musculară la nivel cervical, cu iradiere ușoară spre umărul drept, probabil din postura la birou. Vom lucra să reducem tensiunea musculară și să îmbunătățim mobilitatea gâtului."]
+  }
+}

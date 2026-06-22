@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Spatele în ce zonă, mai sus, mai jos?\nSPEAKER_01: Jos.\nSPEAKER_00: Zona lombară, da?\nSPEAKER_01: Da.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. S-a întâmplat ceva, ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Am ridicat niște saci.\nSPEAKER_00: Saci, înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Durerea se lasă și pe picior sau e doar acolo în spate?\nSPEAKER_01: Doar acolo.\nSPEAKER_00: Doar local, bun. Amorțește vreun picior?\nSPEAKER_01: Nu.\nSPEAKER_00: Doare mai tare când stați jos, când vă ridicați, când mergeți?\nSPEAKER_01: Când mă ridic din scaun.\nSPEAKER_00: Când vă ridicați, da. Și după ce vă mișcați puțin trece?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Bun. Ce vârstă aveți?\nSPEAKER_01: 38.\nSPEAKER_00: 38 de ani. Aveți tensiune, diabet, osteoporoză, ceva de genul?\nSPEAKER_01: Nu.\nSPEAKER_00: Hernii de disc știți să aveți?\nSPEAKER_01: Nu știu.\nSPEAKER_00: Nu ați făcut niciun RMN până acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere prin sânge?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum, pastile de durere, ceva?\nSPEAKER_01: Iau un Nurofen când nu mai pot.\nSPEAKER_00: Nurofen, știți ce doză?\nSPEAKER_01: Nu știu, cel normal.\nSPEAKER_00: Înțeles. Haideți să stați cu spatele la mine, picioarele ușor depărtate, relaxați umerii.\nSPEAKER_00: Stați puțin pe piciorul drept acum... vă ține?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Apăs acum în zona lombară, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Și pe dreapta doare mai tare sau pe stânga?\nSPEAKER_01: Pe dreapta parcă.\nSPEAKER_00: Pe dreapta. Apăs și pe piriform acum, fesa dreaptă.\nSPEAKER_01: Mmm, da.\nSPEAKER_00: Doare și acolo?\nSPEAKER_01: Da, puțin.\nSPEAKER_00: Înțeles. Aplecați-vă puțin în față.\nSPEAKER_01: Cam până aici pot.\nSPEAKER_00: Mobilitate redusă la flexie. Doare când vă aplecați?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Deci avem o contractură musculară în zona lombară, mai accentuată pe dreapta, cu și o ușoară tensionare a piriformului. Pare a fi de la efortul ăla cu sacii. O să lucrăm să reducem inflamația și să refacem mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută după ridicare de saci, de aproximativ două săptămâni, fără iradiere pe membre.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractură musculară lombară, mai accentuată pe dreapta; tensionare piriform drept. Mobilitate redusă la flexie. Obiective terapeutice: reducerea inflamației, refacerea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele.", "Jos.", "Am ridicat niște saci.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Zona lombară, da?", "Da."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Iau un Nurofen când nu mai pot."],
+    "evaluare_functionala_initiala": ["avem o contractură musculară în zona lombară, mai accentuată pe dreapta, cu și o ușoară tensionare a piriformului", "O să lucrăm să reducem inflamația și să refacem mobilitatea.", "Mobilitate redusă la flexie."]
+  }
+}

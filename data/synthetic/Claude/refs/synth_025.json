@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere cervicală cu iradiere spre umărul drept, debut de aproximativ două săptămâni, accentuată dimineața și după orele petrecute la calculator.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Amlodipină",
+      "doza": "5 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contractură musculară cervicală, mai accentuată pe dreapta, cu iradiere spre umărul drept; mobilitate cervicală redusă.\nObiective terapeutice: reducerea tensiunii musculare; refacerea mobilității cervicale."
+}

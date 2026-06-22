@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_012",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Brusc. Am ridicat ceva.",
+      "De vreo două săptămâni.",
+      "Când mă ridic. Și dimineața.",
+      "Nu, nu se lasă pe picior."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5.",
+      "Poate un 8, la început."
+    ],
+    "localizarea_durerii": [
+      "Jos. Partea de jos.",
+      "Strict lombarul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am, da."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Prestarium."
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ o tensionare paravertebrală lombară, mai accentuată pe dreapta.",
+      "avem o contractură musculară paravertebrală lombară, cel mai probabil declanșată de efortul de ridicare.",
+      "Nu avem iradiere pe sciatic, ceea ce e bine.",
+      "O să lucrăm să reducem contractura și inflamația locală, să recâștigăm mobilitatea lombară."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21883,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1975,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

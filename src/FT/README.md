@@ -14,13 +14,13 @@ Synthetic Claude data flow:
 
 ```bash
 .venv/bin/python scripts/generate_synthetic_claude_data.py --dry-run --n 1
-ANTHROPIC_API_KEY=... .venv/bin/python scripts/generate_synthetic_claude_data.py --n 50
+ANTHROPIC_API_KEY=... .venv/bin/python scripts/generate_synthetic_claude_data.py --n 50 --workers 5
 .venv/bin/python scripts/build_chiro_sft_jsonl.py \
   --synthetic-root data/synthetic/Claude \
   --out artifacts/ft/synthetic_claude_sft_messages.jsonl
 ```
 
-The generator defaults to `claude-opus-4-8`. Override with `--model` or
+The generator defaults to `claude-sonnet-4-6`. Override with `--model` or
 `CLAUDE_MODEL` if the API model choice changes.
 
 For ~500 synthetic examples, prefer 10 batches of 50 with rotated pool seeds
@@ -32,21 +32,26 @@ Example batch pattern:
 
 ```bash
 .venv/bin/python scripts/generate_synthetic_claude_data.py --start 1 --n 50 \
-  --output-root data/synthetic/Claude_500 \
+  --output-root data/synthetic/Claude_500 --workers 5 \
   --seed-id audio18 --seed-id audio19 --seed-id audio21 --seed-id audio23 --seed-id audio26
 
 .venv/bin/python scripts/generate_synthetic_claude_data.py --start 51 --n 50 \
-  --output-root data/synthetic/Claude_500 \
+  --output-root data/synthetic/Claude_500 --workers 5 \
   --seed-id audio1 --seed-id audio4 --seed-id audio10 --seed-id audio24 --seed-id audio29
 
 .venv/bin/python scripts/generate_synthetic_claude_data.py --start 101 --n 50 \
-  --output-root data/synthetic/Claude_500 \
+  --output-root data/synthetic/Claude_500 --workers 5 \
   --seed-id audio10 --seed-id audio18 --seed-id audio23 --seed-id audio24 --seed-id audio29
 ```
 
 Continue with `--start 151`, `201`, ... until `451`. The generator expands the
 50-row control plan into unique IDs such as `synth_051`, `synth_101`, etc.,
 while preserving the structured-value coverage plan.
+
+`--workers` controls concurrent independent API calls. Each job owns one
+conversation ID and writes only `synth_NNN.*`; `index.tsv` and reports are
+rebuilt after all jobs finish. Use `--workers 3-5` first; raise toward 10 only
+if Anthropic rate limits and local validation failure rate stay acceptable.
 
 Rules:
 

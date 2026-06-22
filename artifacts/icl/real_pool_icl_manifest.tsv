@@ -1,0 +1,3 @@
+conversation_id	conversation_path	note_path	transcript_words	populated_fields	rationale
+audio18	data/chiropractor_ro/conversations/audio18.json	data/chiropractor_ro/refs/audio18.json	547	motivul_prezentarii,evaluarea_durerii_vas,localizarea_durerii,evaluare_functionala_initiala	cot_dr, explicit VAS 6, short diagnostic/objective note; clean enough for ICL.
+audio19	data/chiropractor_ro/conversations/audio19.json	data/chiropractor_ro/refs/audio19.json	601	motivul_prezentarii,evaluarea_durerii_vas,localizarea_durerii,evaluare_functionala_initiala	lombar + sold_stg, explicit VAS 7, empty antecedents/meds; clean enough for ICL.

@@ -1,0 +1,25 @@
+{
+  "motivul_prezentarii": "Durere lombară de mai multe luni, cu episoade recurente, agravată de statul prelungit la birou și la ridicarea din poziție șezândă. Rigiditate matinală de câteva minute. Iradiere ocazională pe fesa stângă. Durere cervicală ocazională legată de munca la calculator.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "lombar",
+    "toracal",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "fesa stângă",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Perindopril",
+      "doza": null
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Postură: ușoară aplecare înainte, umeri căzuți. Mobilitate: flexie lombară limitată cu durere în zona lombară; extensia accentuează durerea. Palpare: musculatură paravertebrală tensionată bilateral, mai accentuată pe stânga; fesier stâng contractat.\nDiagnostic: tensionare musculară lombară și toracală; posibilă iritație L4-L5 (fără investigații recente).\nObiective terapeutice: reducerea tensiunii musculare, îmbunătățirea mobilității coloanei, corectarea posturii, exerciții de efectuat acasă."
+}

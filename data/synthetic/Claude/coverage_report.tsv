@@ -1,0 +1,9 @@
+field	positive_count	rate
+motivul_prezentarii	2	1.00
+evaluarea_durerii_vas	2	1.00
+localizarea_durerii	2	1.00
+localizarea_durerii_alta	1	0.50
+antecedente	1	0.50
+antecedente_altele	0	0.00
+medicatie_actuala	2	1.00
+evaluare_functionala_initiala	2	1.00

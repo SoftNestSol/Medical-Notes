@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere cervicală apărută brusc în urmă cu două săptămâni, cu limitare de mobilitate la rotație, iradiere în umărul drept și amorțeli ocazionale ale mâinii drepte dimineața.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "5"
+    }
+  ],
+  "evaluare_functionala_initiala": "Umărul drept mai ridicat decât stângul. Rotație cervicală limitată spre dreapta, mai puțin limitată spre stânga. Durere la palpare paravertebral cervical și trapez.\nDiagnostic: contractură musculară cervicală cu limitare de mobilitate.\nObiective terapeutice: reducerea contracturii, redobândirea mobilității cervicale."
+}

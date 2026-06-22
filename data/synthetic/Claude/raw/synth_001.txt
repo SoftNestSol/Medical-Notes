@@ -1,0 +1,39 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule Marin.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi și mie, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul, deci zona cervicală, da?\nSPEAKER_01: Da.\nSPEAKER_00: De cât timp vă doare?\nSPEAKER_01: De vreo trei zile.\nSPEAKER_00: Trei zile. Și ați făcut ceva anume, ați dormit prost, ați ridicat ceva?\nSPEAKER_01: Am dormit prost.\nSPEAKER_00: Ați dormit prost. Și de atunci a pornit, da?\nSPEAKER_01: Da.\nSPEAKER_00: Ce vârstă aveți dumneavoastră?\nSPEAKER_01: 38.\nSPEAKER_00: 38 de ani. Durerea stă doar în gât sau merge și spre umăr?\nSPEAKER_01: Spre umăr.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Drept.\nSPEAKER_00: Umărul drept. Și coboară mai jos, pe braț, amorțește ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu amorțește, bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare vă doare?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. Doare mai tare când întoarceți capul sau când stați liniștit?\nSPEAKER_01: Când întorc.\nSPEAKER_00: Când întoarceți. Haideți să încercăm. Întoarceți capul spre dreapta, vă rog. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin pe stânga. Și când lăsați bărbia în piept?\nSPEAKER_01: Tot doare.\nSPEAKER_00: Tot doare. Vă apăs aici, pe partea dreaptă, pe trapez. Doare?\nSPEAKER_01: Au. Da.\nSPEAKER_00: Doare. E foarte încordat aici. Pe stânga la fel?\nSPEAKER_01: Nu așa rău.\nSPEAKER_00: Nu așa rău. Bun. Alte afecțiuni mai aveți, cum ar fi tensiune, diabet, cancer, epilepsie?\nSPEAKER_01: Nu.\nSPEAKER_00: Scolioză, hernie de disc?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale anterioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Accidente de mașină, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun fel de pastilă, da?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la unguente, creme?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci ce avem aici pare a fi o contractură musculară pe zona cervicală, mai ales pe trapezul drept, pornită de la poziția în care ați dormit. Nimic grav. În primă fază vom lucra să relaxăm musculatura și să redăm mobilitatea gâtului, da?\nSPEAKER_01: Da.\nSPEAKER_00: Haideți să vă așezați pe masă, vă rog, să trecem la treabă.\nSPEAKER_01: Bine.",
+  "note": {
+    "motivul_prezentarii": "durere cervicala",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: - contractura musculara cervicala, trapez drept\nObiective terapeutice: - relaxarea musculaturii;\n- refacerea mobilitatii"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "Gâtul, deci zona cervicală, da?"
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6."
+    ],
+    "localizarea_durerii": [
+      "Gâtul, deci zona cervicală, da?",
+      "Spre umăr.",
+      "Drept.",
+      "Umărul drept."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "pare a fi o contractură musculară pe zona cervicală, mai ales pe trapezul drept",
+      "vom lucra să relaxăm musculatura și să redăm mobilitatea gâtului"
+    ]
+  }
+}

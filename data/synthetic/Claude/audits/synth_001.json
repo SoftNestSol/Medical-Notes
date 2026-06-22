@@ -1,0 +1,42 @@
+{
+  "conversation_id": "synth_001",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "Gâtul, deci zona cervicală, da?"
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6."
+    ],
+    "localizarea_durerii": [
+      "Gâtul, deci zona cervicală, da?",
+      "Spre umăr.",
+      "Drept.",
+      "Umărul drept."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "pare a fi o contractură musculară pe zona cervicală, mai ales pe trapezul drept",
+      "vom lucra să relaxăm musculatura și să redăm mobilitatea gâtului"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 16041
+    },
+    "cache_creation_input_tokens": 16041,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 360,
+    "output_tokens": 1952,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "motivul_prezentarii": "Pacient cu durere lombară joasă apărută acum trei săptămâni după ridicare de greutăți la serviciu. Durere VAS 7/10, cu iradiere pe fesa dreaptă și pe membrul inferior drept (până aproximativ la genunchi), însoțită de furnicături ușoare. Exacerbată la ortostatism prelungit și la ședere la birou, ameliorată parțial la mers și după mișcare matinală.",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": "fesa dreaptă, membrul inferior drept",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Amlodipina",
+      "doza": "5 miligrame pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUmăr drept ușor ridicat, înclinare laterală a trunchiului spre stânga — poziție antalgică.\nTest Lasègue pozitiv pe dreapta la aproximativ 40 de grade, cu accentuarea durerii lombare și pe membrul inferior drept. Test Lasègue stâng negativ.\nDurere la palpare paravertebrală lombară cu iradiere spre fesa dreaptă.\nDiagnostic:\nSindrom sciatic drept — iritație radiculară L4-L5 sau L5-S1, cel mai probabil pe fondul unei hernii sau protruzie discale. Postură antalgică secundară.\nObiective terapeutice:\nReducerea compresiei pe rădăcina nervoasă; relaxarea musculaturii paravertebrale contracturate; refacerea mobilității lombare; recomandare RMN lombar pentru confirmare imagistică."
+}

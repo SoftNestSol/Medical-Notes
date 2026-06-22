@@ -1,0 +1,373 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, cu ce vă pot ajuta astăzi?"
+    },
+    {
+      "start": 3.16,
+      "end": 20.26,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, doamnă. Păi, de unde să încep... Am o problemă cu spatele, dar nu e de ieri de azi, e de vreo trei săptămâni, poate mai mult, că nu știu exact când a început, adică a început mai ușor și acum s-a agravat."
+    },
+    {
+      "start": 20.38,
+      "end": 23.8,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, deci durere în spate. Unde anume în spate?"
+    },
+    {
+      "start": 23.92,
+      "end": 44.06,
+      "speaker": "SPEAKER_01",
+      "text": "Jos, în zona de jos, știți, lombarul ăsta. Mă doare în bară, mai ales dimineața când mă ridic din pat, dar și seara după ce stau mai mult pe scaun la serviciu. Eu lucrez la birou, stau câte opt ore, nouă ore pe zi, și simțeam că nu mai pot la sfârșitul zilei."
+    },
+    {
+      "start": 44.18,
+      "end": 47.98,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și durerea asta rămâne jos sau se duce undeva?"
+    },
+    {
+      "start": 48.1,
+      "end": 72.8,
+      "speaker": "SPEAKER_01",
+      "text": "Păi uneori, nu mereu, dar uneori îmi merge și pe fesă, pe stânga mai mult. Pe picior nu coboară, cel puțin nu am simțit să coboare mai jos de fesă. Dar mă sperie chestia asta, că am citit pe internet despre nervul sciatic și m-am speriat, că zice că poți să rămâi... nu știu, am citit tot felul de lucruri și m-am speriat."
+    },
+    {
+      "start": 72.92,
+      "end": 83.94,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg că v-ați speriat. Deocamdată spuneți-mi pe scara de la 0 la 10, unde 0 nu doare deloc și 10 doare maxim, unde ați pune durerea asta?"
+    },
+    {
+      "start": 84.06,
+      "end": 96.22,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, în momentul de față? Cam un 5. Dar dimineața când mă ridic din pat e vreo 7, că pur și simplu stau câteva minute pe marginea patului înainte să mă ridic."
+    },
+    {
+      "start": 96.34,
+      "end": 99.38,
+      "speaker": "SPEAKER_00",
+      "text": "Deci 5 acum și 7 dimineața la sculare."
+    },
+    {
+      "start": 99.5,
+      "end": 115.84,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact. Și mai am ceva, nu știu dacă e legat, dar am și o durere în gât, în ceafă, tot de la calculator cred. Stau cu capul aplecat sau ridicat, nu știu cum e poziția mea, dar mă doare și pe acolo."
+    },
+    {
+      "start": 115.96,
+      "end": 117.48,
+      "speaker": "SPEAKER_00",
+      "text": "Deci și zona cervicală."
+    },
+    {
+      "start": 117.6,
+      "end": 128.24,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, da, cervicalul. Dar asta mai demult o am, de vreo câteva luni, nu e acum. Asta e mai veche. Lombarul e mai nou și mai deranjant."
+    },
+    {
+      "start": 128.36,
+      "end": 131.4,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Amorțeli sau furnicături pe picior, pe mână?"
+    },
+    {
+      "start": 131.52,
+      "end": 142.16,
+      "speaker": "SPEAKER_01",
+      "text": "Pe mână câteodată, da. Mă trezesc noaptea cu mâna dreaptă amorțită, dar cred că e de la poziția de dormit, că dorm cu mâna sub cap. Picioarele nu."
+    },
+    {
+      "start": 142.28,
+      "end": 146.84,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Aveți vreo afecțiune la coloană diagnosticată, hernie de disc, scolioză, ceva?"
+    },
+    {
+      "start": 146.96,
+      "end": 173.18,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, acum câțiva ani, vreo patru ani, am făcut un RMN că mă durea spatele atunci și mi-au găsit o hernie la L4-L5. Mi-au spus că e mică, că nu necesită operație, să fac kinetoterapie. Am făcut vreo câteva ședințe și mi-a trecut, nu m-am mai dus. Și acum mă gândesc că poate a crescut, că de asta am eu frica asta de internet."
+    },
+    {
+      "start": 173.3,
+      "end": 178.24,
+      "speaker": "SPEAKER_00",
+      "text": "Da, înțeleg. Deci hernie de disc la nivel lombar, diagnosticată acum câțiva ani."
+    },
+    {
+      "start": 178.36,
+      "end": 186.72,
+      "speaker": "SPEAKER_01",
+      "text": "Da, la L4-L5 mi-au zis. Și mai am tensiune, tensiune arterială ridicată, de vreo doi ani iau tratament pentru asta."
+    },
+    {
+      "start": 186.84,
+      "end": 188.74,
+      "speaker": "SPEAKER_00",
+      "text": "Ce tratament luați pentru tensiune?"
+    },
+    {
+      "start": 188.86,
+      "end": 201.4,
+      "speaker": "SPEAKER_01",
+      "text": "Iau Perindopril, 5 miligrame, în fiecare dimineață. Și mai iau câteodată, nu mereu, un antiinflamator, Ibuprofen, când nu mai suport durerea de spate. Nu știu dacă e ok să iau, dar mai iau."
+    },
+    {
+      "start": 201.52,
+      "end": 203.42,
+      "speaker": "SPEAKER_00",
+      "text": "Cât de des luați Ibuprofenul?"
+    },
+    {
+      "start": 203.54,
+      "end": 215.32,
+      "speaker": "SPEAKER_01",
+      "text": "Păi nu mereu, poate de două ori pe săptămână când e mai rău. Soțul meu zice să nu iau că nu e bine cu tensiunea, dar eu când nu mai pot..."
+    },
+    {
+      "start": 215.44,
+      "end": 218.1,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Alte afecțiuni, diabet, probleme la inimă?"
+    },
+    {
+      "start": 218.22,
+      "end": 228.1,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu. Numai tensiunea. Diabetul nu am, la inimă nu am nimic, am făcut analize recent și a zis doctorul că e totul ok în rest."
+    },
+    {
+      "start": 228.22,
+      "end": 229.36,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Intervenții chirurgicale?"
+    },
+    {
+      "start": 229.48,
+      "end": 241.64,
+      "speaker": "SPEAKER_01",
+      "text": "Am scos apendicele acum vreo zece ani, dar nu știu dacă e relevant. Și o operație la un chist ovarian, dar asta e mai veche, de pe vremea când eram la facultate."
+    },
+    {
+      "start": 241.76,
+      "end": 247.08,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Acum haideți să vă văd puțin în picioare. Stați cu spatele la mine."
+    },
+    {
+      "start": 247.2,
+      "end": 261.26,
+      "speaker": "SPEAKER_01",
+      "text": "Bine. Și am vrut să vă întreb, că am citit că la hernie nu e bine să faci chiropractică, că am văzut tot felul pe internet și m-am speriat că poate nu e ok pentru mine."
+    },
+    {
+      "start": 261.38,
+      "end": 267.08,
+      "speaker": "SPEAKER_00",
+      "text": "O să vă explic eu după ce fac evaluarea. Stați relaxată, mâinile pe lângă corp."
+    },
+    {
+      "start": 267.2,
+      "end": 268.34,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine, scuzați."
+    },
+    {
+      "start": 268.46,
+      "end": 276.06,
+      "speaker": "SPEAKER_00",
+      "text": "Vedeți că aveți o ușoară asimetrie la nivelul bazinului, mai ridicat pe stânga. Vă aplecați în față, ușor, cât puteți."
+    },
+    {
+      "start": 276.18,
+      "end": 278.46,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, mai mult doare."
+    },
+    {
+      "start": 278.58,
+      "end": 279.38,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 279.5,
+      "end": 284.06,
+      "speaker": "SPEAKER_01",
+      "text": "Da, în zona de jos, și se duce puțin pe fesa stângă."
+    },
+    {
+      "start": 284.18,
+      "end": 286.84,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Îndreptați-vă. Întoarceți puțin spre stânga."
+    },
+    {
+      "start": 286.96,
+      "end": 288.48,
+      "speaker": "SPEAKER_01",
+      "text": "Auuu, da, asta doare."
+    },
+    {
+      "start": 288.6,
+      "end": 289.4,
+      "speaker": "SPEAKER_00",
+      "text": "Spre dreapta?"
+    },
+    {
+      "start": 289.52,
+      "end": 290.66,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, da."
+    },
+    {
+      "start": 290.78,
+      "end": 293.82,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Stați puțin pe piciorul drept, ridicați stângul."
+    },
+    {
+      "start": 293.94,
+      "end": 295.08,
+      "speaker": "SPEAKER_01",
+      "text": "Mă țin, da."
+    },
+    {
+      "start": 295.2,
+      "end": 296.34,
+      "speaker": "SPEAKER_00",
+      "text": "Pe stângul acum."
+    },
+    {
+      "start": 296.46,
+      "end": 299.88,
+      "speaker": "SPEAKER_01",
+      "text": "Asta e mai greu, simt că mă dezechilibrez puțin."
+    },
+    {
+      "start": 300.0,
+      "end": 307.98,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Vă rog întindeți-vă pe masă cu fața în sus. Am să apăs câteva zone și îmi spuneți dacă doare."
+    },
+    {
+      "start": 308.1,
+      "end": 327.48,
+      "speaker": "SPEAKER_01",
+      "text": "Bine. Și vă mai spun ceva, că mi-am adus aminte, că acum vreo două săptămâni am ridicat o cutie mai grea, nu știu, vreo zece kilograme, dintr-un dulap de jos și imediat după aia a început mai tare. Deci poate de acolo s-a declanșat criza asta mai acută."
+    },
+    {
+      "start": 327.6,
+      "end": 330.26,
+      "speaker": "SPEAKER_00",
+      "text": "Da, se poate, efortul brusc poate agrava."
+    },
+    {
+      "start": 330.38,
+      "end": 335.7,
+      "speaker": "SPEAKER_01",
+      "text": "Mă gândeam și eu, că altfel stau la birou, nu ridic greutăți de obicei."
+    },
+    {
+      "start": 335.82,
+      "end": 336.62,
+      "speaker": "SPEAKER_00",
+      "text": "Doare aici?"
+    },
+    {
+      "start": 336.74,
+      "end": 337.88,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo doare."
+    },
+    {
+      "start": 338.0,
+      "end": 340.28,
+      "speaker": "SPEAKER_00",
+      "text": "Și aici, pe piriform, pe stânga?"
+    },
+    {
+      "start": 340.4,
+      "end": 342.3,
+      "speaker": "SPEAKER_01",
+      "text": "Vai, da, foarte tare acolo."
+    },
+    {
+      "start": 342.42,
+      "end": 343.22,
+      "speaker": "SPEAKER_00",
+      "text": "Pe dreapta?"
+    },
+    {
+      "start": 343.34,
+      "end": 344.48,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, da."
+    },
+    {
+      "start": 344.6,
+      "end": 347.26,
+      "speaker": "SPEAKER_00",
+      "text": "Ridicați piciorul drept pentru mine, țineți drept."
+    },
+    {
+      "start": 347.38,
+      "end": 348.18,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 348.3,
+      "end": 349.1,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 349.22,
+      "end": 350.02,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 350.14,
+      "end": 350.94,
+      "speaker": "SPEAKER_00",
+      "text": "Piciorul stâng."
+    },
+    {
+      "start": 351.06,
+      "end": 353.72,
+      "speaker": "SPEAKER_01",
+      "text": "Puțin, da, în zona lombară simțesc ceva."
+    },
+    {
+      "start": 353.84,
+      "end": 379.3,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Deci avem o contractură musculară paravertebrală lombară, cu iritare de piriform pe stânga, și o asimetrie de bazin. Vedem că pe fondul herniei la L4-L5 pe care o știți, musculatura s-a tensionat și blochează mobilitatea. Obiectivul nostru în primele ședințe este să reducem inflamația musculară, să eliberăm blocajul și să echilibrăm bazinul. Nu este o situație în care să nu se poată lucra, dimpotrivă."
+    },
+    {
+      "start": 379.42,
+      "end": 383.22,
+      "speaker": "SPEAKER_01",
+      "text": "Deci pot să fac ședințe? Nu e periculos cu hernia?"
+    },
+    {
+      "start": 383.34,
+      "end": 388.28,
+      "speaker": "SPEAKER_00",
+      "text": "Putem lucra, da. O să adaptăm tehnicile. Acum hai să trecem la treabă."
+    }
+  ]
+}

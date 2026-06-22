@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Durere lombară joasă, de aproximativ două săptămâni, accentuată la ortostatism prelungit, ameliorată la repaus. Fără iradiere pe membre inferioare, fără amorțeli. Redoare matinală ușoară, trece rapid. Pacient cu activitate profesională în ortostatism toată ziua (vânzător).",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nTensionare musculară paravertebrală lombară, mai accentuată pe dreapta. Durere la extensia lombară mai pronunțată decât la flexie. Durere la palpare zona lombară.\nDiagnostic:\nContractură musculară lombară, probabil pe fondul ortostatismului prelungit.\nObiective terapeutice:\nReducerea contracturii musculare lombare; ameliorarea mobilității lombare."
+}

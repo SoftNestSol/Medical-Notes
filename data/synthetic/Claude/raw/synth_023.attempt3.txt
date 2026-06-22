@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: La mișcare mai mult.\nSPEAKER_00: Când ridicați brațul sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și când îl duceți în spate?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Amorțește cumva brațul sau mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Vârsta dacă se poate?\nSPEAKER_01: 38.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nurofen, uneori.\nSPEAKER_00: Nurofen, știți ce doză?\nSPEAKER_01: Nu știu, cel normal.\nSPEAKER_00: Ok. Alergii la creme sau unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun, haideți să facem câteva teste. Ridicați brațul drept în față, așa, încet.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da, cam de la jumătate în sus.\nSPEAKER_00: Înțeles. Și lateral, ridicați lateral?\nSPEAKER_01: La fel, doare.\nSPEAKER_00: Stați puțin, vă apăs aici pe zona de sub acromion, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo e.\nSPEAKER_00: Doare tare?\nSPEAKER_01: Da.\nSPEAKER_00: Înțeles. Deci avem o inflamație la nivelul tendonului supraspinosului, cel mai probabil. E un sindrom de impingement, cum îi zicem noi. S-a prins tendonul între oase la mișcare. Asta o să rezolvăm prin reducerea inflamației și recuperarea mobilității umărului. Câteva ședințe ar trebui să simțiți diferența.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa mutarea de mobila, de aproximativ doua saptamani, accentuata la miscarea bratului.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: sindrom de impingement umar drept, inflamatie tendon supraspinos.\nObiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii umarului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "De vreo două săptămâni.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nurofen, uneori."],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendonului supraspinosului, cel mai probabil. E un sindrom de impingement", "S-a prins tendonul între oase la mișcare. Asta o să rezolvăm prin reducerea inflamației și recuperarea mobilității umărului."]
+  }
+}

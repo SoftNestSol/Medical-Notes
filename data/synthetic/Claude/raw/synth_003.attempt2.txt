@@ -1,0 +1,47 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Cu ce problemă venim azi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, zona de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar. De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc.\nSPEAKER_00: Ați ridicat ceva, ați făcut un efort?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât e acum?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Doare continuu sau doar la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Când vă ridicați din scaun, când vă aplecați?\nSPEAKER_01: Da.\nSPEAKER_00: Durerea se lasă și pe picior, pe fesă, pe coapsă?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio iradiere. Amorțeli la picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați jos, vă rog, să mă uit puțin la postură. Ridicați-vă acum. Doare?\nSPEAKER_01: Da, aici.\nSPEAKER_00: Îmi arătați exact?\nSPEAKER_01: Aici, în mijloc, jos.\nSPEAKER_00: Înțeleg, paravertebral bilateral. Aplecați-vă puțin în față.\nSPEAKER_01: Au.\nSPEAKER_00: Se accentuează la flexie. Bun. Alte dureri în afară de lombar?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți tensiune, diabet, osteoporoză, vreo altă boală?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Ibuprofen.\nSPEAKER_00: Cât luați?\nSPEAKER_01: 400, când mă doare.\nSPEAKER_00: Deci la nevoie. Ok. Deci avem o contractură musculară lombară apărută după efort, cu limitare la flexie. Hai să lucrăm pe zona asta să reducem tensiunea musculară și să vă recăpătați mobilitatea.\nSPEAKER_01: Da.\nSPEAKER_00: Puneți-vă pe masă cu fața în jos, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută brusc în urmă cu două săptămâni după mutare mobilă. VAS 7/10, accentuată la mișcare (ridicare, flexie), fără iradiere și fără amorțeli.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg la nevoie"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractură musculară lombară post-efort, cu limitare la flexie.\nObiective terapeutice: reducerea tensiunii musculare lombare și recuperarea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "De vreo două săptămâni.",
+      "Am mutat niște mobilă.",
+      "Mai mult la mișcare.",
+      "Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Lombar."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofen.",
+      "400, când mă doare."
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară lombară apărută după efort, cu limitare la flexie",
+      "Hai să lucrăm pe zona asta să reducem tensiunea musculară și să vă recăpătați mobilitatea."
+    ]
+  }
+}

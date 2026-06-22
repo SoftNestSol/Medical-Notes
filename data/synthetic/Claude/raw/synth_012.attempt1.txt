@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Spatele, da. Unde anume? Sus, jos, mijloc?\nSPEAKER_01: Jos. Partea de jos.\nSPEAKER_00: Lombar. De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau a venit treptat?\nSPEAKER_01: Brusc. Am ridicat ceva.\nSPEAKER_00: Ați ridicat ceva greu, da? Și de atunci doare.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât e durerea acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Și în cel mai rău moment, cum a fost?\nSPEAKER_01: Mai rău. Poate un 8, la început.\nSPEAKER_00: La început un 8, acum un 5. Deci s-a mai ameliorat un pic. Durerea se lasă și pe picior, sau e strict în zona de jos a spatelui?\nSPEAKER_01: Nu, nu se lasă pe picior.\nSPEAKER_00: Strict lombarul. Bun. Vă doare mai tare când stați jos, când mergeți, sau când vă ridicați din scaun?\nSPEAKER_01: Când mă ridic. Și dimineața.\nSPEAKER_00: Dimineața la trezire. Vă țin câteva minute și trece sau vă ține mai mult?\nSPEAKER_01: Trece după ce mă mișc un pic.\nSPEAKER_00: Deci după ce vă încălziți se mai duce. Am înțeles. Alte zone mai dor, umeri, gât, genunchi?\nSPEAKER_01: Nu.\nSPEAKER_00: Nimic altceva. Ați mai avut astfel de episoade înainte?\nSPEAKER_01: Acum câțiva ani, ceva similar.\nSPEAKER_00: Și atunci cum a trecut?\nSPEAKER_01: De la sine.\nSPEAKER_00: De la sine. Ok. Aveți vreo afecțiune, tensiune, diabet, osteoporoză, hernie de disc diagnosticată?\nSPEAKER_01: Nu știu de hernie. Tensiune am, da.\nSPEAKER_00: Tensiune arterială. Luați ceva pentru ea?\nSPEAKER_01: Da, Prestarium.\nSPEAKER_00: Prestarium. Ce doză?\nSPEAKER_01: Nu știu exact. Pastila mică.\nSPEAKER_00: Ok. Altceva mai luați, antiinflamator, altceva pentru spate?\nSPEAKER_01: Am luat Ibuprofen câteva zile.\nSPEAKER_00: Ibuprofen, dar acum nu mai luați?\nSPEAKER_01: Nu, am oprit.\nSPEAKER_00: Bun. Haideți să vă văd puțin cum stați. Întoarceți-vă cu spatele la mine, picioarele puțin depărtate, mâinile pe lângă corp, relaxat.\nSPEAKER_01: Așa?\nSPEAKER_00: Da, exact. Observ o tensionare paravertebrală lombară, mai accentuată pe dreapta. Hai să vedem. Aplecați-vă puțin în față, cât puteți.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare când vă aplecați?\nSPEAKER_01: Da, aici.\nSPEAKER_00: Aici în lombar. Bun. Îndreptați-vă. Doare la revenire?\nSPEAKER_01: Mai tare la revenire.\nSPEAKER_00: Mai tare la revenire, clasic. Deci avem o contractură musculară paravertebrală lombară, cel mai probabil declanșată de efortul de ridicare. Nu avem iradiere pe sciatic, ceea ce e bine. O să lucrăm să reducem contractura și inflamația locală, să recâștigăm mobilitatea lombară.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută brusc după ridicarea unei greutăți, de aproximativ două săptămâni. Durere accentuată la ridicarea din scaun și dimineața la trezire, cedează după mișcare. Fără iradiere pe membrul inferior.",
+    "evaluarea_durerii_vas": [5, 8],
+    "localizarea_durerii": ["lombar"],
+    "localizarea_durerii_alta": null,
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Prestarium",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\nContractură musculară paravertebrală lombară post-efort, fără iradiere sciatică.\nObiective terapeutice:\n- reducerea contracturii și a inflamației locale;\n- recâștigarea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele.", "Brusc. Am ridicat ceva.", "De vreo două săptămâni.", "Când mă ridic. Și dimineața.", "Nu, nu se lasă pe picior."],
+    "evaluarea_durerii_vas": ["Vreo 5.", "Poate un 8, la început."],
+    "localizarea_durerii": ["Jos. Partea de jos.", "Strict lombarul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am, da."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Prestarium."],
+    "evaluare_functionala_initiala": ["Observ o tensionare paravertebrală lombară, mai accentuată pe dreapta.", "avem o contractură musculară paravertebrală lombară, cel mai probabil declanșată de efortul de ridicare.", "Nu avem iradiere pe sciatic, ceea ce e bine.", "O să lucrăm să reducem contractura și inflamația locală, să recâștigăm mobilitatea lombară."]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, cu ce problemă ne vedem?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Nu știu, treptat parcă.\nSPEAKER_00: Ați făcut ceva anume, stat mai mult la birou, la calculator?\nSPEAKER_01: Da, la birou stau toată ziua.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Doare doar în gât sau se lasă și în umăr, în brațe?\nSPEAKER_01: Și în umărul drept un pic.\nSPEAKER_00: Umărul drept. Amorțesc degetele, mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Dureri de cap?\nSPEAKER_01: Uneori.\nSPEAKER_00: Des?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Dimineața când vă treziți, gâtul e mai blocat sau mai bine?\nSPEAKER_01: Mai blocat.\nSPEAKER_00: Și se mai dezleagă pe parcursul zilei?\nSPEAKER_01: Da, după un timp.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, epilepsie, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nurofen mai iau când doare mai tare.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Rareori. Poate de două ori pe săptămână.\nSPEAKER_00: Ok. Altceva nu luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere prin sânge, alergii la unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să stați puțin în picioare, cu spatele la mine. Relaxați umerii. Văd că aveți capul dus un pic în față, postura de birou. Vă întoarceți capul spre dreapta, cât puteți. Doare?\nSPEAKER_01: Da, trage.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Apăs acum pe musculatura de aici, paravertebral cervical. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și în umărul drept dacă apăs?\nSPEAKER_01: Da, acolo e mai sensibil.\nSPEAKER_00: Înțeles. Pare o contractură cervicală cu iradiere în umărul drept, cel mai probabil pe fond de postură. O să lucrăm să reducem tensiunea musculară și să recuperăm mobilitatea gâtului.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu iradiere în umărul drept, apărută treptat în ultimele două săptămâni, asociată cu munca la birou.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractură cervicală cu iradiere în umărul drept, pe fond de postură.\nObiective terapeutice: reducerea tensiunii musculare; recuperarea mobilității gâtului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "De vreo două săptămâni.",
+      "treptat parcă",
+      "la birou stau toată ziua",
+      "Și în umărul drept un pic."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Și în umărul drept un pic."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nurofen mai iau când doare mai tare."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare o contractură cervicală cu iradiere în umărul drept, cel mai probabil pe fond de postură. O să lucrăm să reducem tensiunea musculară și să recuperăm mobilitatea gâtului."
+    ]
+  }
+}

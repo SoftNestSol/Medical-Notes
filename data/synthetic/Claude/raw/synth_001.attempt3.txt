@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem.\nSPEAKER_01: Mă doare spatele, jos.\nSPEAKER_00: Zona lombară, da?\nSPEAKER_01: Da.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc. Am ridicat ceva.\nSPEAKER_00: Ați ridicat ceva greu și a pornit de atunci.\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Dar când vă mișcați, când vă ridicați de pe scaun?\nSPEAKER_01: Mai rău, da. Poate 7.\nSPEAKER_00: Deci în repaus 5, la mișcare 7. Durerea se lasă și pe picior sau e doar în zona lombară?\nSPEAKER_01: Doar acolo, jos.\nSPEAKER_00: Nu coboară pe fesă, pe coapsă, nimic din astea?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Amorțesc picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Luați vreun medicament în momentul de față?\nSPEAKER_01: Am luat un ibuprofen, două zile.\nSPEAKER_00: Ibuprofen. Ce doză?\nSPEAKER_01: Nu știu. Cel normal.\nSPEAKER_00: Acum mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Aveți tensiune, diabet, osteoporoză, ceva de genul?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio afecțiune? Bun. Ați mai avut dureri lombare înainte?\nSPEAKER_01: Mai demult, da. Dar a trecut singur.\nSPEAKER_00: A trecut de la sine, fără tratament.\nSPEAKER_01: Da.\nSPEAKER_00: Ocupația?\nSPEAKER_01: Stau mult la birou.\nSPEAKER_00: Câte ore pe zi aproximativ?\nSPEAKER_01: Vreo opt, nouă.\nSPEAKER_00: Înțeles. Haideți să stați puțin în picioare cu spatele la mine. Relaxat. Văd o ușoară tensionare pe dreapta, paravertebral. Simțiți că e mai blocat pe o parte?\nSPEAKER_01: Pe dreapta, da.\nSPEAKER_00: Când aplecați ușor trunchiul în față, doare?\nSPEAKER_01: Da, acolo jos.\nSPEAKER_00: Și înapoi?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Ok. Apăs puțin pe zona de L4-L5, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Deci avem o contractură musculară paravertebrală lombară dreaptă, cel mai probabil declanșată de efortul brusc. Obiectivul nostru e să reducem contractura și inflamația locală și să redobândiți mobilitatea normală.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară joasă apărută brusc în urmă cu două săptămâni la ridicarea unei greutăți. Durere 5/10 în repaus, 7/10 la mișcare, fără iradiere pe membrele inferioare, fără amorțeli. Muncă sedentară (birou 8-9 ore/zi). Episod anterior similar care a cedat spontan.",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["lombar"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nTensionare paravertebrală dreaptă vizibilă în ortostatism. Durere la flexia anterioară a trunchiului, mai redusă la extensie. Durere la palpare la nivelul L4-L5.\nDiagnostic:\nContractură musculară paravertebrală lombară dreaptă, declanșată de efort brusc.\nObiective terapeutice:\nReducerea contracturii și a inflamației locale; redobândirea mobilității lombare normale."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele, jos.", "Am ridicat ceva.", "Vreo două săptămâni.", "Stau mult la birou.", "Mai demult, da. Dar a trecut singur."],
+    "evaluarea_durerii_vas": ["Vreo 5.", "Poate 7."],
+    "localizarea_durerii": ["Zona lombară, da?", "Da.", "Doar acolo, jos."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am luat un ibuprofen, două zile."],
+    "evaluare_functionala_initiala": ["Văd o ușoară tensionare pe dreapta, paravertebral.", "Pe dreapta, da.", "Apăs puțin pe zona de L4-L5, spuneți-mi dacă doare.", "Da, acolo doare.", "avem o contractură musculară paravertebrală lombară dreaptă, cel mai probabil declanșată de efortul brusc.", "Obiectivul nostru e să reducem contractura și inflamația locală și să redobândiți mobilitatea normală."]
+  }
+}

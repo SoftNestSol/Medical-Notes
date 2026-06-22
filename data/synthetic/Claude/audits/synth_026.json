@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_026",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere în zona gâtului, adică a cefei, și mă doare de vreo două săptămâni, cam de când am dormit prost",
+      "simt că mă trage pe partea dreaptă",
+      "am și dureri de cap, mai ales în ceafă, sus aici"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum poate un 4",
+      "ajunge și la 7"
+    ],
+    "localizarea_durerii": [
+      "mă trage pe partea dreaptă",
+      "se duce și un pic în umăr, pe dreapta tot",
+      "am și dureri de cap, mai ales în ceafă, sus aici"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Am tensiune, da, am hipertensiune de vreo trei ani"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Prestarium, 5 miligrame, în fiecare dimineață",
+      "am mai luat un Nurofen acum vreo câteva zile pentru durere, dar nu îl iau constant"
+    ],
+    "evaluare_functionala_initiala": [
+      "aveți capul dus în față destul de mult față de umeri",
+      "umărul drept e puțin mai ridicat decât stângul",
+      "Mobilitate limitată la rotația dreaptă",
+      "Avem o contractură la nivelul musculaturii cervicale și a trapezului drept, probabil secundară posturii și unui episod acut de torticolis",
+      "Obiectivul nostru e să reducem contractura și să recâștigăm mobilitatea la rotație"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21155,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 2199,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

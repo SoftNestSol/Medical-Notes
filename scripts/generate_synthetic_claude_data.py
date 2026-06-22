@@ -20,6 +20,7 @@ import os
 import re
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any, Optional
 
@@ -46,10 +47,18 @@ from SOTA_EVALUATION.json_schema import (  # noqa: E402
 
 load_dotenv(ROOT / ".env")
 
-DEFAULT_MODEL = "claude-opus-4-8"
+DEFAULT_MODEL = "claude-sonnet-4-6"
 DEFAULT_PLAN = ROOT / "data" / "synthetic" / "GPT5.5" / "plan.tsv"
 DEFAULT_OUTPUT_ROOT = ROOT / "data" / "synthetic" / "Claude"
-DEFAULT_SEED_IDS = ["audio18", "audio19", "audio23", "audio26", "audio21"]
+# Full POOL_COMPLETE_PAIR_IDS in a fixed numeric order so the per-block sliding
+# window is deterministic. Rotation draws a subset of these per block.
+DEFAULT_SEED_IDS = [
+    "audio1", "audio4", "audio10", "audio18", "audio19",
+    "audio21", "audio23", "audio24", "audio26", "audio29",
+]
+
+# Generations that share the same seed subset before the window slides on.
+BLOCK_SIZE = 10
 
 NOTE_FIELDS = [
     "motivul_prezentarii",
@@ -88,6 +97,12 @@ WORD_TARGETS = {
     "short_sparse": "450-750 cuvinte",
     "detailed_long": "800-1200 cuvinte",
 }
+
+ORAL_MARKERS = [
+    "păi", "pai", "adică", "adica", "ăă", "mmm", "nu știu", "nu stiu",
+    "cum să zic", "cum sa zic", "așa", "asa", "deci", "ok", "da", "nu",
+    "înțeleg", "inteleg", "pe aici", "parcă", "parca",
+]
 
 ANTECEDENTE_LABELS = {
     "hipertensiune_arteriala": "hipertensiune arteriala",
@@ -131,74 +146,6 @@ def load_json(path: Path) -> dict[str, Any]:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def parse_vas_plan(value: str) -> Any:
-    value = value.strip()
-    if value == "null":
-        return None
-    if "," in value:
-        return [int(part.strip()) for part in value.split(",") if part.strip()]
-    return int(value)
-
-
-def parse_plan_rows(path: Path, *, start: int, n: int) -> list[dict[str, str]]:
-    if not path.exists():
-        raise FileNotFoundError(path)
-    with path.open(encoding="utf-8", newline="") as f:
-        base_rows = list(csv.DictReader(f, delimiter="\t"))
-    if start < 1:
-        raise ValueError("--start is 1-based and must be >= 1")
-    if not base_rows:
-        raise ValueError(f"empty plan: {path}")
-
-    selected = []
-    extended = start + n - 1 > len(base_rows)
-    for global_index in range(start, start + n):
-        template = dict(base_rows[(global_index - 1) % len(base_rows)])
-        if extended:
-            template["plan_template_id"] = template["conversation_id"]
-            template["repeat_cycle"] = str((global_index - 1) // len(base_rows) + 1)
-            template["conversation_id"] = f"synth_{global_index:03d}"
-            template["batch"] = str((global_index - 1) // len(base_rows) + 1)
-            template["generation_variation_hint"] = (
-                f"Varianta {global_index}; păstrează valorile structurate din "
-                "template, dar schimbă formulările, ritmul conversației, ordinea "
-                "întrebărilor unde e natural și detaliile conversaționale."
-            )
-        selected.append(template)
-    return selected
-
-
-def expected_note_constraints(row: dict[str, str]) -> dict[str, Any]:
-    antecedente = [] if row["antecedente_plan"] == "none" else row["antecedente_plan"].split(",")
-    for item in antecedente:
-        if item not in ANTECEDENTE_ENUM:
-            raise ValueError(f"unknown antecedent in plan {row['conversation_id']}: {item}")
-
-    if row["include_location"] == "yes":
-        locations = row["regions"].split(",")
-    else:
-        locations = []
-    for item in locations:
-        if item not in LOCALIZARE_ENUM:
-            raise ValueError(f"unknown location in plan {row['conversation_id']}: {item}")
-
-    meds: list[dict[str, Any]]
-    if row["meds_plan"] == "named":
-        meds = json.loads(row["meds_detail"])
-    else:
-        meds = []
-
-    return {
-        "evaluarea_durerii_vas": parse_vas_plan(row["vas"]),
-        "localizarea_durerii": locations,
-        "localizarea_durerii_alta": row["localizare_alta_plan"] or None,
-        "antecedente": antecedente,
-        "antecedente_altele": row["antecedente_altele_plan"] or None,
-        "medicatie_actuala": meds,
-        "evaluare_functionala_initiala_required": row["func_eval"] == "populated",
-    }
-
-
 def read_conversation_as_transcript(path: Path) -> str:
     data = load_json(path)
     segments = data.get("segments")
@@ -211,6 +158,62 @@ def read_conversation_as_transcript(path: Path) -> str:
         if text:
             lines.append(f"{speaker}: {text}")
     return "\n".join(lines)
+
+
+def transcript_lines(transcript: str) -> list[tuple[str, str]]:
+    lines = []
+    for raw in transcript.splitlines():
+        speaker, sep, text = raw.partition(":")
+        if sep and text.strip():
+            lines.append((speaker.strip(), text.strip()))
+    return lines
+
+
+def word_count(text: str) -> int:
+    return len(re.findall(r"\w+", text, flags=re.UNICODE))
+
+
+def seed_style_profile(seed_ids: list[str]) -> str:
+    blocks = []
+    total_words = []
+    for seed_id, conversation_path, _, _ in seed_paths(seed_ids):
+        transcript = read_conversation_as_transcript(conversation_path)
+        lines = transcript_lines(transcript)
+        counts = [word_count(text) for _, text in lines]
+        total_words.append(sum(counts))
+        short_turns = sum(1 for count in counts if count <= 3)
+        long_turns = sum(1 for count in counts if count >= 18)
+        alternations = sum(
+            1 for (speaker_a, _), (speaker_b, _) in zip(lines, lines[1:])
+            if speaker_a != speaker_b
+        )
+        text_lc = transcript.lower()
+        marker_hits = {
+            marker: len(re.findall(rf"\b{re.escape(marker)}\b", text_lc))
+            for marker in ORAL_MARKERS
+        }
+        marker_hits = {key: value for key, value in marker_hits.items() if value > 0}
+        fragment_examples = [
+            text for _, text in lines
+            if len(text.split()) <= 8 or text.endswith("...") or text.lower() in {"da.", "nu.", "ok."}
+        ][:8]
+        blocks.append(
+            "\n".join(
+                [
+                    f"- {seed_id}: {len(lines)} segments, {sum(counts)} words, "
+                    f"{short_turns} very short turns, {long_turns} long turns, "
+                    f"{alternations} speaker alternations",
+                    f"  oral markers observed: {json.dumps(marker_hits, ensure_ascii=False)}",
+                    f"  fragment examples: {json.dumps(fragment_examples, ensure_ascii=False)}",
+                ]
+            )
+        )
+    if total_words:
+        blocks.append(
+            f"- seed word-count range: {min(total_words)}-{max(total_words)}; "
+            f"mean: {sum(total_words) // len(total_words)}"
+        )
+    return "\n".join(blocks)
 
 
 def seed_paths(seed_ids: list[str]) -> list[tuple[str, Path, Path, Optional[Path]]]:
@@ -233,6 +236,24 @@ def seed_paths(seed_ids: list[str]) -> list[tuple[str, Path, Path, Optional[Path
             raise FileNotFoundError(ref_path)
         paths.append((seed_id, conversation_path, ref_path, from_chiro_path))
     return paths
+
+
+def seed_subset_for_block(
+    seed_ids: list[str], block_index: int, subset_size: int = 6
+) -> list[str]:
+    """Deterministic sliding window over seed_ids, wrapping at the end.
+
+    block 0 -> indices 0..subset_size-1, block 1 -> 1..subset_size, etc.
+    (mod len(seed_ids)). No randomness, fully reproducible. If subset_size
+    is >= the pool size, the whole pool is returned (no rotation possible).
+    """
+    n = len(seed_ids)
+    if n == 0:
+        return []
+    if subset_size >= n:
+        return list(seed_ids)
+    start = block_index % n
+    return [seed_ids[(start + i) % n] for i in range(subset_size)]
 
 
 def build_seed_examples(seed_ids: list[str]) -> str:
@@ -278,120 +299,119 @@ def write_seed_manifest(out_root: Path, seed_ids: list[str]) -> None:
 
 def build_system_prompt(seed_ids: list[str]) -> str:
     seed_examples = build_seed_examples(seed_ids)
+    style_profile = seed_style_profile(seed_ids)
     schema = json.dumps(NOTE_SCHEMA, ensure_ascii=False, indent=2)
-    return f"""Ești un generator de date sintetice pentru un studiu de bioNLP.
+    return f"""Ești un generator de date sintetice pentru un studiu de bioNLP în limba română.
 
-Generezi conversații sintetice în română între terapeut chiropractor/osteopat și pacient, apoi nota structurată care se poate extrage din conversație.
+Produci perechi conversație–notă: o conversație sintetică între un terapeut (chiropractor/osteopat) și un pacient, plus nota structurată care se poate extrage EXCLUSIV din acea conversație.
 
-REGULA FUNDAMENTALĂ:
-Dacă informația nu este rostită explicit în conversație, câmpul din notă rămâne gol: null sau [].
+## Regula fundamentală
+Dacă o informație nu este rostită explicit în conversație, câmpul corespunzător din notă rămâne gol (null sau []). Fără inferență clinică, fără completare din context probabil. Dacă pacientul spune ceva vag care nu identifică clar o valoare, câmpul rămâne gol.
 
-Interdicții:
-- Nu deduce clinic.
-- Nu completa antecedente, medicație, diagnostic sau obiective terapeutice din probabilitate.
-- Nu transforma "spate" vag în lombar/toracal.
-- Nu include antecedente familiale în antecedente personale.
-- Nu inventa doze.
-- Nu copia conversațiile reale; folosește-le doar ca stil.
-- Nu produce dialoguri curate de manual. Imită transcript real: fragmente scurte,
-  reveniri, întrebări reluate, răspunsuri monosilabice, confirmări "da", "ok",
-  reformulări, mici erori ASR și dezacorduri gramaticale tolerabile.
-- Nu face pacientul să vorbească literar sau clinic. Pacientul spune "mă ține",
-  "mă jenează", "aici", "pe partea asta", "nu știu exact", "păi", "adică",
-  "cum să zic"; terapeutul clarifică și verifică.
+## Distribuția cazurilor
+Inventează cazuri realiste, așa cum apar de fapt la un cabinet de chiropractică. Nu forța varietate artificială și nu încerca să acoperi afecțiuni rare. Lasă cazul să fie ce ar fi plauzibil: majoritatea pacienților vin cu dureri lombare, cervicale, de genunchi, umăr, apărute din efort, postură sau activitate. Antecedentele și medicația apar doar când e firesc pentru caz, nu ca să bifezi categorii.
 
-Stil conversație:
-- Română orală, naturală, cu ezitări moderate, răspunsuri incomplete, suprapuneri
-  sugerate prin propoziții neterminate și mici imperfecțiuni de transcript ASR.
-- Folosește doar etichete SPEAKER_00 și SPEAKER_01.
-- Lungime realistă, nu mini-dialog: cazurile short_sparse au de obicei 450-750 cuvinte; cazurile detailed_long au de obicei 800-1200 cuvinte.
-- Pacientul vorbește ca pacient, nu ca medic.
-- Terapeutul poate verbaliza observații funcționale, diagnostic sau obiective doar dacă planul cere evaluare funcțională populată.
+## Exemplele seed — contractul tău de mapare
+Mai jos ai perechi REALE conversație→notă, extrase din cabinet. Ele nu sunt doar mostre de stil. Sunt contractul care îți arată CUM se mapează vorbirea colocvială în câmpuri structurate. Studiază în special:
+- ce a fost rostit dar a rămas necompletat în notă (vag, neclar, nesigur);
+- ce formulare colocvială concretă a justificat completarea unui câmp;
+- cum a fost (sau NU a fost) reflectat în `localizarea_durerii` un pacient care spune ceva ambiguu despre unde îl doare ("mă doare spatele", "pe aici");
+- cum sună un VAS rostit vs. o durere descrisă fără cifră (care rămâne null);
+- diferența dintre o boală pe care pacientul o confirmă clar și una atinsă în treacăt.
+Reproduci aceeași disciplină de mapare în perechile pe care le generezi.
 
-Checklist intern de stil, fără să îl afișezi:
-- menține cadență de consultație reală românească: întrebare scurtă, răspuns
-  dezordonat, clarificare, confirmare;
-- include expresii orale românești specifice, dar nu caricaturale;
-- păstrează imperfecțiuni ASR moderate: cuvinte ușor stâlcite sau fraze tăiate,
-  fără să distrugi informația clinică;
-- alternează replici foarte scurte cu replici lungi ale pacientului;
-- evită conversația prea simetrică și prea politicos redactată.
+## Stilul conversației
+Imită mecanica dialogurilor seed, nu o idee abstractă de "oralitate":
+- terapeutul conduce: întreabă scurt, clarifică, confirmă; pacientul răspunde colocvial, uneori incomplet, uneori pe lângă subiect;
+- păstrează fragmentele scurte, confirmările monosilabice, reluările de întrebări și micile imperfecțiuni de transcript ASR pe care le vezi în seed-uri;
+- pacientul vorbește ca pacient ("mă ține", "aici", "pe partea asta", "nu știu exact"), nu ca medic;
+- terapeutul NU recită fișa cu voce tare. Observațiile funcționale apar ca interacțiune reală ("stai puțin pe piciorul drept... te ține?"), nu ca propoziție de raport medical citită pacientului;
+- doar SPEAKER_00 (terapeut) și SPEAKER_01 (pacient).
 
-Schema notei:
+## Extragerea notei
+După ce scrii conversația, completezi nota DOAR din ce s-a rostit. Pentru fiecare câmp populat dai cel puțin un citat exact (substring real din conversație) care îl justifică. Pentru fiecare câmp gol, citatul e []. Dacă nu poți cita, nu completezi.
+
+## Schema notei
 {schema}
 
-Trebuie să returnezi exact un obiect JSON cu forma:
+## Format de ieșire
+Returnezi exact un obiect JSON, fără markdown, fără text în jur:
 {{
-  "conversation": "<transcript cu linii SPEAKER_00/SPEAKER_01>",
-  "note": {{... conform schema ...}},
+  "conversation": "<linii SPEAKER_00/SPEAKER_01>",
+  "note": {{... conform schemei ...}},
   "evidence": {{
-    "motivul_prezentarii": ["citat(e) din conversație sau []"],
-    "evaluarea_durerii_vas": ["citat(e) din conversație sau []"],
-    "localizarea_durerii": ["citat(e) din conversație sau []"],
-    "localizarea_durerii_alta": ["citat(e) din conversație sau []"],
-    "antecedente": ["citat(e) din conversație sau []"],
-    "antecedente_altele": ["citat(e) din conversație sau []"],
-    "medicatie_actuala": ["citat(e) din conversație sau []"],
-    "evaluare_functionala_initiala": ["citat(e) din conversație sau []"]
+    "motivul_prezentarii": ["citat exact din conversație", ...] sau [],
+    "evaluarea_durerii_vas": [...] sau [],
+    "localizarea_durerii": [...] sau [],
+    "localizarea_durerii_alta": [...] sau [],
+    "antecedente": [...] sau [],
+    "antecedente_altele": [...] sau [],
+    "medicatie_actuala": [...] sau [],
+    "evaluare_functionala_initiala": [...] sau []
   }}
 }}
 
-Reguli pentru evidence:
-- Pentru fiecare câmp non-empty din note, evidence trebuie să conțină cel puțin un citat exact copiat din conversație.
-- Pentru fiecare câmp empty/null/[], evidence trebuie să fie [].
-- Citatele trebuie să fie substrings reale din transcript.
+Reguli evidence:
+- fiecare câmp non-empty din notă are cel puțin un citat care e substring real din conversație;
+- fiecare câmp gol are [];
+- citatele sunt copiate exact, nu parafrazate.
 
-Exemple reale de stil și notă:
+## Profil de stil măsurat din seed-uri
+{style_profile}
+
+## Exemple seed (conversație + notă reală)
 {seed_examples}
 """
 
 
+def build_plan(n: int, *, start: int = 1) -> list[dict[str, str]]:
+    """Minimal form-only plan: controls conversation length and patient register,
+    never clinical values. Clinical content is invented freely by the model.
+
+    Distributions chosen to resemble a real clinic, not a gallery of extremes:
+    - richness: ~60% short, ~40% long (most real visits are brief and to the point)
+    - patient_style: weighted toward neutral (tacut 40 / vorbaret 30 / vag 20 / anxios 10)
+    """
+    if start < 1:
+        raise ValueError("--start is 1-based and must be >= 1")
+    richness_cycle = ["scurt_rar"] * 6 + ["detaliat_lung"] * 4
+    style_cycle = (
+        ["tacut"] * 4 + ["vorbaret"] * 3 + ["vag"] * 2 + ["anxios"] * 1
+    )
+    rows = []
+    for i in range(start, start + n):
+        rows.append(
+            {
+                "conversation_id": f"synth_{i:03d}",
+                "richness": richness_cycle[(i - 1) % len(richness_cycle)],
+                "patient_style": style_cycle[(i - 1) % len(style_cycle)],
+            }
+        )
+    return rows
+
+
 def build_user_prompt(row: dict[str, str]) -> str:
-    constraints = expected_note_constraints(row)
-    word_target = WORD_TARGETS.get(row["richness"], "600-1000 cuvinte")
-    interpreted = {
-        "conversation_id": row["conversation_id"],
-        "required_structured_values": {
-            key: value for key, value in constraints.items() if key != "evaluare_functionala_initiala_required"
-        },
-        "functional_eval": (
-            "must be a spoken therapist observation/diagnostic/objective"
-            if constraints["evaluare_functionala_initiala_required"]
-            else "must be null; do not verbalize therapist diagnostic/objectives/functional observations"
-        ),
-        "style_targets": {
-            "duration": row["duration"],
-            "age": row["age"],
-            "onset": row["onset"],
-            "richness": row["richness"],
-            "patient_style": row["patient_style"],
-            "opening": row["opening"],
-            "activity": row["activity"],
-            "dialogue_act_order": row["dialogue_act_order"],
-            "note_shape": row["note_shape"],
-            "target_length": word_target,
-        },
-        "region_theme": row["regions"],
-        "meds_plan": row["meds_plan"],
-    }
-    return f"""Generează conversația sintetică și nota pentru {row['conversation_id']}.
+    richness_hint = {
+        "scurt_rar": "scurt_rar = 450-750 cuvinte, consultație simplă, la obiect",
+        "detaliat_lung": "detaliat_lung = 800-1200 cuvinte, mai multe schimburi, anamneză mai bogată",
+    }.get(row["richness"], "450-1000 cuvinte")
+    style_hint = {
+        "vorbaret": "vorbăreț: divaghează, dă context nesolicitat, revine la temeri",
+        "tacut": "tăcut: răspunsuri scurte, monosilabice, terapeutul trebuie să insiste",
+        "anxios": "anxios: îngrijorat, întreabă dacă e grav, nesigur pe răspunsuri",
+        "vag": "vag: descrie impreciz, 'pe aici', 'nu știu exact', greu de fixat pe valori clare",
+    }.get(row["patient_style"], "natural")
+    return f"""Generează o pereche conversație–notă nouă.
 
-Plan controlat:
-{json.dumps(row, ensure_ascii=False, indent=2)}
+Formă țintă pentru acest exemplu (afectează DOAR lungimea și registrul, NU valorile clinice):
+- bogăție: {richness_hint}
+- stil pacient: {style_hint}
 
-Interpretare obligatorie a planului:
-{json.dumps(interpreted, ensure_ascii=False, indent=2)}
+Inventează liber cazul clinic (ce îl doare, de când, dacă ia medicație, ce antecedente are) astfel încât să fie plauzibil și natural pentru un cabinet de chiropractică. Lasă distribuția să fie realistă — nu forța afecțiuni rare.
 
-Constrângeri concrete:
-- Valorile structurate din note trebuie să respecte exact required_structured_values.
-- Lungimea conversației trebuie să fie aproximativ {word_target}.
-- Prioritatea stilistică este să semene cu seed-urile reale: oral, fragmentat,
-  română colocvială, cu mici artefacte de transcript. Nu scrie proză curată.
-- motivul_prezentarii trebuie să fie scurt, natural și extractibil din reclamația pacientului.
-- Dacă VAS este null, pacientul nu trebuie să spună nicio cifră de durere pe scala 0-10.
-- Dacă meds_plan este "unnamed-pills", pacientul poate spune că a luat pastile fără nume, dar medicatie_actuala trebuie să fie [].
-- Dacă include_location este "no", conversația nu trebuie să numească explicit regiunile din region_theme ca localizare a durerii.
-- Nu include markdown fences. Returnează doar JSON valid.
+Completează nota structurată STRICT din ce ai pus în conversație. Dacă o informație nu e rostită explicit, câmpul rămâne gol. Pentru fiecare câmp populat, dă un citat exact din conversație în evidence.
+
+Nu include markdown fences. Returnează doar JSON valid cu cheile conversation, note, evidence.
 """
 
 
@@ -419,31 +439,6 @@ def extract_json_object(raw: str) -> dict[str, Any]:
         if start == -1 or end == -1 or end <= start:
             raise
         return json.loads(text[start : end + 1])
-
-
-def validate_plan_compatibility(note: dict[str, Any], row: dict[str, str]) -> None:
-    constraints = expected_note_constraints(row)
-    for field in [
-        "evaluarea_durerii_vas",
-        "localizarea_durerii",
-        "localizarea_durerii_alta",
-        "antecedente",
-        "antecedente_altele",
-        "medicatie_actuala",
-    ]:
-        if note[field] != constraints[field]:
-            raise GenerationValidationError(
-                f"{row['conversation_id']} field {field}={note[field]!r}, "
-                f"expected {constraints[field]!r}"
-            )
-
-    func_required = constraints["evaluare_functionala_initiala_required"]
-    if func_required and not is_populated(note["evaluare_functionala_initiala"]):
-        raise GenerationValidationError(f"{row['conversation_id']} missing required functional eval")
-    if not func_required and note["evaluare_functionala_initiala"] is not None:
-        raise GenerationValidationError(f"{row['conversation_id']} functional eval must be null")
-    if not is_populated(note["motivul_prezentarii"]):
-        raise GenerationValidationError(f"{row['conversation_id']} missing motivul_prezentarii")
 
 
 def validate_evidence(pair: dict[str, Any], row: dict[str, str]) -> None:
@@ -491,7 +486,7 @@ def validate_conversation_shape(conversation: str, row: dict[str, str]) -> None:
             f"{row['conversation_id']} bad speaker labels: {bad_lines[:3]}"
         )
     words = re.findall(r"\w+", conversation, flags=re.UNICODE)
-    if not 350 <= len(words) <= 1300:
+    if not 320 <= len(words) <= 1300:
         raise GenerationValidationError(
             f"{row['conversation_id']} word count {len(words)} outside 350-1300"
         )
@@ -510,8 +505,9 @@ def parse_and_validate_pair(raw: str, row: dict[str, str]) -> dict[str, Any]:
 
     note = parse_note(json.dumps(parsed["note"], ensure_ascii=False))
     parsed["note"] = note
+    if not is_populated(note["motivul_prezentarii"]):
+        raise GenerationValidationError(f"{row['conversation_id']} missing motivul_prezentarii")
     validate_conversation_shape(parsed["conversation"], row)
-    validate_plan_compatibility(note, row)
     validate_evidence(parsed, row)
     return parsed
 
@@ -558,18 +554,15 @@ def write_reports(out_root: Path, rows: list[dict[str, str]], successful_ids: li
     (out_root / "coverage_report.tsv").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
     plan_by_id = {row["conversation_id"]: row for row in rows}
-    plan_lines = ["conversation_id\tvas\tregions\tantecedente_plan\tmeds_plan\tfunc_eval\tstatus"]
+    plan_lines = ["conversation_id\trichness\tpatient_style\tstatus"]
     for cid in successful_ids:
         row = plan_by_id[cid]
         plan_lines.append(
             "\t".join(
                 [
                     cid,
-                    row["vas"],
-                    row["regions"],
-                    row["antecedente_plan"],
-                    row["meds_plan"],
-                    row["func_eval"],
+                    row["richness"],
+                    row["patient_style"],
                     "ok",
                 ]
             )
@@ -708,12 +701,12 @@ def api_key_from_env() -> Optional[str]:
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--n", type=int, default=50, help="number of synthetic rows to generate")
-    parser.add_argument("--start", type=int, default=1, help="1-based start row in the plan TSV")
-    parser.add_argument("--plan", type=Path, default=DEFAULT_PLAN)
+    parser.add_argument("--start", type=int, default=1, help="1-based start index for synth_NNN ids")
     parser.add_argument("--output-root", type=Path, default=DEFAULT_OUTPUT_ROOT)
     parser.add_argument("--model", default=os.getenv("CLAUDE_MODEL", DEFAULT_MODEL))
     parser.add_argument("--max-tokens", type=int, default=4096)
     parser.add_argument("--max-retries", type=int, default=2)
+    parser.add_argument("--workers", type=int, default=1, help="parallel API calls; keep <= Anthropic rate limits")
     parser.add_argument("--sleep", type=float, default=1.0, help="seconds between successful calls")
     parser.add_argument("--seed-id", action="append", dest="seed_ids", help="pool seed id; repeatable")
     parser.add_argument("--overwrite", action="store_true", help="regenerate rows even if files exist")
@@ -721,23 +714,72 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
+def process_row(
+    *,
+    row: dict[str, str],
+    out_root: Path,
+    api_key: str,
+    model: str,
+    max_tokens: int,
+    max_retries: int,
+    sleep_seconds: float,
+    system_prompt: str,
+) -> tuple[str, bool, str]:
+    cid = row["conversation_id"]
+    client = anthropic.Anthropic(api_key=api_key)
+    last_error = ""
+    for attempt in range(1, max_retries + 2):
+        try:
+            raw, usage = call_claude(
+                client,
+                model=model,
+                max_tokens=max_tokens,
+                system_prompt=system_prompt,
+                row=row,
+            )
+            (out_root / "raw").mkdir(parents=True, exist_ok=True)
+            (out_root / "raw" / f"{cid}.attempt{attempt}.txt").write_text(
+                raw.strip() + "\n", encoding="utf-8"
+            )
+            pair = parse_and_validate_pair(raw, row)
+            save_pair(out_root, cid, pair, raw, usage, model=model)
+            usage_text = ""
+            if usage is not None:
+                usage_text = (
+                    f" input={getattr(usage, 'input_tokens', '?')}"
+                    f" output={getattr(usage, 'output_tokens', '?')}"
+                    f" cache_read={getattr(usage, 'cache_read_input_tokens', '?')}"
+                )
+            if sleep_seconds > 0:
+                time.sleep(sleep_seconds)
+            return cid, True, f"saved attempt={attempt}{usage_text}"
+        except (json.JSONDecodeError, ParseError, SchemaError, GenerationValidationError, ValueError) as exc:
+            last_error = f"{type(exc).__name__}: {exc}"
+            eprint(f"[{cid}] invalid attempt={attempt}: {last_error}")
+        except anthropic.APIError as exc:
+            last_error = f"APIError: {exc}"
+            eprint(f"[{cid}] api attempt={attempt}: {last_error}")
+            time.sleep(max(sleep_seconds, 2.0))
+    return cid, False, last_error
+
+
 def main() -> None:
     args = parse_args()
     seed_ids = args.seed_ids or DEFAULT_SEED_IDS
-    rows = parse_plan_rows(args.plan, start=args.start, n=args.n)
+    rows = build_plan(args.n, start=args.start)
+    row_ids = [row["conversation_id"] for row in rows]
+    if len(row_ids) != len(set(row_ids)):
+        raise RuntimeError(f"duplicate conversation IDs in generation plan: {row_ids}")
 
     seed_paths(seed_ids)
-    for row in rows:
-        expected_note_constraints(row)
 
-    system_prompt = build_system_prompt(seed_ids)
     out_root = args.output_root.resolve()
 
     eprint(f"[setup] model={args.model}")
     eprint(f"[setup] output_root={out_root}")
-    eprint(f"[setup] plan={args.plan}")
-    eprint(f"[setup] seed_ids={', '.join(seed_ids)}")
-    eprint(f"[setup] system_prompt_chars={len(system_prompt)}")
+    eprint(f"[setup] seed pool ({len(seed_ids)}): {', '.join(seed_ids)}")
+    eprint(f"[setup] block_size={BLOCK_SIZE} subset_size=6")
+    eprint(f"[setup] workers={args.workers}")
 
     if args.dry_run:
         preview = build_user_prompt(rows[0])
@@ -756,53 +798,77 @@ def main() -> None:
     write_seed_manifest(out_root, seed_ids)
     write_plan(out_root / "plan.tsv", rows)
 
-    client = anthropic.Anthropic(api_key=api_key)
     successes: list[str] = []
     failures: list[tuple[str, str]] = []
 
-    for row in rows:
+    prompt_by_block: dict[int, str] = {}
+    for offset, _row in enumerate(rows):
+        global_row_number = args.start + offset
+        block_index = (global_row_number - 1) // BLOCK_SIZE
+        if block_index not in prompt_by_block:
+            block_seeds = seed_subset_for_block(seed_ids, block_index)
+            prompt_by_block[block_index] = build_system_prompt(block_seeds)
+            eprint(f"[block {block_index}] seeds: {', '.join(block_seeds)}")
+
+    jobs: list[tuple[int, dict[str, str]]] = []
+    for offset, row in enumerate(rows):
+        global_row_number = args.start + offset
+        block_index = (global_row_number - 1) // BLOCK_SIZE
         cid = row["conversation_id"]
         if not args.overwrite and existing_pair_ok(out_root, row):
             eprint(f"[{cid}] skip existing valid pair")
             successes.append(cid)
             continue
+        jobs.append((block_index, row))
 
-        last_error = ""
-        for attempt in range(1, args.max_retries + 2):
-            try:
-                raw, usage = call_claude(
-                    client,
+    workers = max(1, args.workers)
+    if workers == 1:
+        for block_index, row in jobs:
+            cid, ok, message = process_row(
+                row=row,
+                out_root=out_root,
+                api_key=api_key,
+                model=args.model,
+                max_tokens=args.max_tokens,
+                max_retries=args.max_retries,
+                sleep_seconds=args.sleep,
+                system_prompt=prompt_by_block[block_index],
+            )
+            if ok:
+                successes.append(cid)
+                eprint(f"[{cid}] {message}")
+            else:
+                failures.append((cid, message))
+    else:
+        eprint(f"[parallel] submitting {len(jobs)} jobs with {workers} workers")
+        with ThreadPoolExecutor(max_workers=workers) as executor:
+            future_to_cid = {
+                executor.submit(
+                    process_row,
+                    row=row,
+                    out_root=out_root,
+                    api_key=api_key,
                     model=args.model,
                     max_tokens=args.max_tokens,
-                    system_prompt=system_prompt,
-                    row=row,
-                )
-                (out_root / "raw").mkdir(parents=True, exist_ok=True)
-                (out_root / "raw" / f"{cid}.attempt{attempt}.txt").write_text(
-                    raw.strip() + "\n", encoding="utf-8"
-                )
-                pair = parse_and_validate_pair(raw, row)
-                save_pair(out_root, cid, pair, raw, usage, model=args.model)
-                successes.append(cid)
-                usage_text = ""
-                if usage is not None:
-                    usage_text = (
-                        f" input={getattr(usage, 'input_tokens', '?')}"
-                        f" output={getattr(usage, 'output_tokens', '?')}"
-                        f" cache_read={getattr(usage, 'cache_read_input_tokens', '?')}"
-                    )
-                eprint(f"[{cid}] saved attempt={attempt}{usage_text}")
-                time.sleep(args.sleep)
-                break
-            except (json.JSONDecodeError, ParseError, SchemaError, GenerationValidationError, ValueError) as exc:
-                last_error = f"{type(exc).__name__}: {exc}"
-                eprint(f"[{cid}] invalid attempt={attempt}: {last_error}")
-            except anthropic.APIError as exc:
-                last_error = f"APIError: {exc}"
-                eprint(f"[{cid}] api attempt={attempt}: {last_error}")
-                time.sleep(max(args.sleep, 2.0))
-        else:
-            failures.append((cid, last_error))
+                    max_retries=args.max_retries,
+                    sleep_seconds=args.sleep,
+                    system_prompt=prompt_by_block[block_index],
+                ): row["conversation_id"]
+                for block_index, row in jobs
+            }
+            for future in as_completed(future_to_cid):
+                cid = future_to_cid[future]
+                try:
+                    result_cid, ok, message = future.result()
+                except Exception as exc:  # defensive: preserve other jobs
+                    failures.append((cid, f"{type(exc).__name__}: {exc}"))
+                    eprint(f"[{cid}] worker crash: {type(exc).__name__}: {exc}")
+                    continue
+                if ok:
+                    successes.append(result_cid)
+                    eprint(f"[{result_cid}] {message}")
+                else:
+                    failures.append((result_cid, message))
 
     build_index(out_root, successes)
     write_reports(out_root, rows, successes)

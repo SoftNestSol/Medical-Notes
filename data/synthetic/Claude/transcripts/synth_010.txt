@@ -1,0 +1,59 @@
+SPEAKER_00: Bună ziua.
+SPEAKER_01: Bună ziua, bună ziua.
+SPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.
+SPEAKER_01: Păi... mă doare spatele, zona de jos, și am venit că nu mai știu ce să fac, sincer. Mă doare de vreo trei săptămâni și m-am speriat un pic.
+SPEAKER_00: Ok, trei săptămâni. Durerea a apărut brusc sau a venit treptat?
+SPEAKER_01: A venit... păi a apărut cam brusc, adică am ridicat ceva, niște cutii mai grele la serviciu, și după aceea seara m-am trezit că mă ține foarte tare.
+SPEAKER_00: Înțeles. Deci după un efort de ridicare. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum estimați durerea?
+SPEAKER_01: Aș zice un 7. Uneori mai mult, dacă stau mult în picioare.
+SPEAKER_00: Deci la 7, cu variații. Durerea rămâne în zona lombară sau se lasă și mai jos?
+SPEAKER_01: Da, asta mă îngrijorează cel mai tare. Se lasă și pe fesă, pe partea dreaptă, și uneori simt ceva și pe picior, tot pe dreapta.
+SPEAKER_00: Până unde coboară pe picior?
+SPEAKER_01: Păi până la... nu știu exact, parcă până la genunchi? Sau poate mai jos, nu sunt sigur, că nu am dat atenție chiar așa.
+SPEAKER_00: Ok. Amorțește piciorul sau e doar o durere?
+SPEAKER_01: Mai degrabă doare, dar uneori simt și ceva ciudat, ca un furnicături ușor. Nu știu dacă e important sau nu.
+SPEAKER_00: E important, da. Vă rog să nu vă faceți griji, suntem aici să clarificăm. Spuneți-mi, când e mai rău, dimineața sau seara?
+SPEAKER_01: Dimineața când mă trezesc mă ține tare, dar trece puțin după ce mă mișc. Seara după ce stau mult pe scaun la birou e iar rău.
+SPEAKER_00: Deci aveți serviciu la birou?
+SPEAKER_01: Da, stau mult la calculator. Câte 8-9 ore.
+SPEAKER_00: Am înțeles. Și când mergeți, vă doare la fel sau mai puțin?
+SPEAKER_01: La mers mai puțin, da. Dar dacă merg prea mult, după o vreme începe iar.
+SPEAKER_00: Bun. Și spuneați că se lasă pe fesă și pe piciorul drept. Dacă stați pe piciorul stâng, mai simțiți ceva acolo?
+SPEAKER_01: Pe stânga nu, nu simt nimic.
+SPEAKER_00: Ok. Acum vă rog să stați puțin cu spatele la mine. Lăsați mâinile pe lângă corp, relaxat. Bun. Observ că aveți umărul drept puțin mai ridicat, și o ușoară înclinare spre stânga.
+SPEAKER_01: Da? E rău asta? Adică e ceva grav?
+SPEAKER_00: Nu vă speriați, e o postură pe care o adoptăm inconștient ca să reducem presiunea pe zona dureroasă. Se cheamă poziție antalgică. Nu e ceva periculos.
+SPEAKER_01: A, ok. Mă bucur că mi-ați spus, că eu acasă am citit tot felul de lucruri pe internet și m-am speriat.
+SPEAKER_00: Înțeleg. Dar ne gândim la ce vedem, nu la ce scrie pe internet. Haideți să facem un test simplu. O să ridic piciorul drept, vă rog să îmi spuneți dacă se accentuează durerea în zona lombară sau pe picior.
+SPEAKER_01: Auu, da, doare, doare pe picior și în spate.
+SPEAKER_00: La ce unghi ați simțit?
+SPEAKER_01: Nu știu, cam de la început, nu l-ați ridicat prea sus.
+SPEAKER_00: Deci la aproximativ 40 de grade. Și piciorul stâng?
+SPEAKER_01: Nu, stânga e în regulă.
+SPEAKER_00: Bun. Acum o să apăs puțin pe coloana lombară. Îmi spuneți unde simțiți mai tare.
+SPEAKER_01: Acolo, da, acolo mă doare. Și se duce pe fesă din nou.
+SPEAKER_00: Înțeles. Spuneți-mi, ați mai avut probleme cu spatele înainte de acum trei săptămâni?
+SPEAKER_01: Păi... da, am mai avut dureri, dar nu atât de tari. Acum doi ani a mai fost ceva, dar mi-a trecut singur în câteva zile.
+SPEAKER_00: Și acum doi ani tot după un efort?
+SPEAKER_01: Da, parcă tot cam așa.
+SPEAKER_00: Ok. Alte afecțiuni aveți? Tensiune, diabet, ceva de inimă?
+SPEAKER_01: Tensiune am, da. Mi-a spus doctorul de familie că am hipertensiune, de vreo doi ani mai încoace. Iau și medicamente pentru asta.
+SPEAKER_00: Ce medicamente luați?
+SPEAKER_01: Iau Amlodipina, 5 miligrame pe zi.
+SPEAKER_00: Bun. Altceva mai luați, pentru spate sau altceva?
+SPEAKER_01: Am luat Ibuprofen când mă durea tare, dar nu în fiecare zi. Ultima oară l-am luat acum vreo cinci zile.
+SPEAKER_00: Deci acum nu mai luați Ibuprofen curent?
+SPEAKER_01: Nu, nu. M-am oprit că mi-a spus careva că nu e bun cu tensiunea.
+SPEAKER_00: Bine că mi-ați spus. Diabet, epilepsie, osteoporoză, cancer?
+SPEAKER_01: Nu, nu am nimic din astea. Sper. Nu am, nu.
+SPEAKER_00: Bun. Intervenții chirurgicale?
+SPEAKER_01: Nu, niciodată.
+SPEAKER_00: Ați făcut vreodată RMN sau radiografie la coloană?
+SPEAKER_01: Nu, nu am făcut niciodată. Asta mă îngrijorează, adică ar trebui să fac? E ceva grav la mine?
+SPEAKER_00: Nu vă panicați. Pe baza a ce vedem acum, avem o imagine destul de clară. Ar fi util să faceți și un RMN, dar nu e o urgență. O să vă explic ce am observat. Deci, pe baza testului pe care l-am făcut, avem un semn Lasègue pozitiv pe dreapta, la aproximativ 40 de grade, ceea ce înseamnă că există o iritație la nivelul rădăcinii nervoase, cel mai probabil L4-L5 sau L5-S1. Postura antalgică pe care o adoptați confirmă asta. Combinat cu durerea care se lasă pe fesă și pe piciorul drept, vorbim de o durere de tip sciatic, cel mai probabil pe fondul unei hernii sau protruzie discale. Nu e ceva de care să vă fie frică, e o afecțiune tratabilă.
+SPEAKER_01: Hernie... adică hernie de disc? Asta sună grav.
+SPEAKER_00: Sună mai complicat decât este. Marea majoritate a herniilor de disc răspund bine la terapie conservatoare, adică exact ce facem noi. Obiectivul nostru este să reducem compresia pe rădăcina nervoasă, să relaxăm musculatura care s-a contractat ca să vă protejeze, și să vă readucem mobilitatea normală.
+SPEAKER_01: Și o să treacă? Adică nu o să am nevoie de operație?
+SPEAKER_00: Nu putem garanta nimic fără RMN, dar ceea ce văd acum nu indică o urgență chirurgicală. Haideți să mergem pas cu pas.
+SPEAKER_01: Ok, ok. Vă cred. Sper să meargă.
+SPEAKER_00: O să meargă. Începem azi.

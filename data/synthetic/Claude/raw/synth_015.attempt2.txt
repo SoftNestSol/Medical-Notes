@@ -1,0 +1,56 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, spuneți-mi vă rog cum vă numiți.\nSPEAKER_01: Bună ziua, Georgescu Mihai.\nSPEAKER_00: Vârsta?\nSPEAKER_01: 38 de ani. Păi să vedeți și dumneavoastră, eu de fapt am venit pentru că mă doare umărul drept, am tot amânat, soția mea tot mi-a zis du-te, du-te, dar eu am zis că trece singur, că am mai pățit și altădată și mi-a trecut.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: Ei, de vreo trei săptămâni acum. A început după ce am vopsit apartamentul, am stat cu mâna sus mult, cu rolele alea pe tavan, știți cum e, trei zile la rând am dat cu vopseaua și după aceea a doua zi m-am trezit și nu mai puteam să ridic mâna. Am zis că e o durere musculară, trece, dar nu a trecut.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Acum în repaus nu prea, un 3. Dar dacă ridic mâna în sus sau încerc să pun ceva pe raft, dă un 7, 7 sigur.\nSPEAKER_00: Umărul drept. Doare și pe braț, cobori durerea?\nSPEAKER_01: Da, uneori coboară puțin, până pe la mijlocul brațului, dar nu mai jos. Nu până la cot, nu.\nSPEAKER_00: Amorțeli, furnicături?\nSPEAKER_01: Nu, nu am.\nSPEAKER_00: Și zona cervicală, gâtul, doare?\nSPEAKER_01: Păi uneori mă mai doare și gâtul, da, dar asta am mai mult de când stau la birou, am laptop și stau cu capul aplecat. Asta e mai veche treaba asta, nu e de acum.\nSPEAKER_00: Înțeles. Alte afecțiuni, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu, sănătos sunt, mulțumesc lui Dumnezeu. Ah, am avut hernie de disc la lombar acum vreo cinci ani, dar s-a rezolvat, nu mă mai doare de atunci, am făcut kinetoterapie și a trecut.\nSPEAKER_00: Operație, nu?\nSPEAKER_01: Nu, nu, fără operație. Am stat cuminte, am făcut exercițiile și a trecut.\nSPEAKER_00: Medicamente luați acum?\nSPEAKER_01: Iau un Nurofen din când în când când doare mai tare seara, nu în fiecare zi. Și am un spray, Voltaren, îl pun pe umăr dimineața.\nSPEAKER_00: Bun. Ridicați brațul ăsta în față pentru mine, încet.\nSPEAKER_01: Până aici pot, după aia doare.\nSPEAKER_00: Deci la aproximativ 90 de grade se blochează. Acum duceți-l în lateral.\nSPEAKER_01: Lateral merge mai puțin, aici doare mai repede, pe la 70 de grade deja simt.\nSPEAKER_00: Stați puțin, vă apăs pe zona de supraspinos. Doare?\nSPEAKER_01: Vai, da, acolo e exact, acolo e durerea principală.\nSPEAKER_00: Și mai am o teamă să vă spun, am citit pe internet că poate fi ruptură de tendon și mă sperie, că eu mai fac și sala, nu vreau să rămân cu probleme.\nSPEAKER_00: Înțeleg. Deocamdată nu avem semne clare de ruptură, pare mai degrabă o tendinopatie de supraspinos, posibil și o ușoară bursită. Vom lucra să reducem inflamația și să refacem mobilitatea umărului.\nSPEAKER_01: Bun, și cât durează, că eu în două săptămâni am iar de vopsit la garsonieră, altă garsonieră.\nSPEAKER_00: Vopsitul pe tavan îl lăsăm mai pe urmă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după activitate cu brațul ridicat (vopsit tavan), de aproximativ trei săptămâni. Durere la ridicarea brațului anterior și lateral, cu iradiere parțială pe braț până la mijloc.",
+    "evaluarea_durerii_vas": [3, 7],
+    "localizarea_durerii": [
+      "umar_dr",
+      "cervical"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hernia_disc"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      },
+      {
+        "denumire": "Voltaren spray",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinopatie supraspinos, posibil bursita umar dr.\nObiective terapeutice: reducerea inflamatiei, refacerea mobilitatii umarului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept",
+      "A început după ce am vopsit apartamentul, am stat cu mâna sus mult",
+      "de vreo trei săptămâni acum",
+      "uneori coboară puțin, până pe la mijlocul brațului, dar nu mai jos"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum în repaus nu prea, un 3",
+      "dacă ridic mâna în sus sau încerc să pun ceva pe raft, dă un 7, 7 sigur"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept",
+      "uneori mă mai doare și gâtul, da"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "am avut hernie de disc la lombar acum vreo cinci ani"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau un Nurofen din când în când când doare mai tare seara",
+      "am un spray, Voltaren, îl pun pe umăr dimineața"
+    ],
+    "evaluare_functionala_initiala": [
+      "pare mai degrabă o tendinopatie de supraspinos, posibil și o ușoară bursită",
+      "Vom lucra să reducem inflamația și să refacem mobilitatea umărului"
+    ]
+  }
+}

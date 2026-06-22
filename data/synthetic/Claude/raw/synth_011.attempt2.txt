@@ -1,0 +1,50 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut din senin sau după ceva anume?\nSPEAKER_01: După ce am stat la birou mai mult.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât e durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare doar în zona gâtului sau se lasă și în umăr, în brațe?\nSPEAKER_01: Și în umărul drept un pic.\nSPEAKER_00: Umărul drept. Amorțesc degetele, mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Aveți dureri de cap asociate?\nSPEAKER_01: Uneori.\nSPEAKER_00: Când apare durerea de cap, unde o simțiți?\nSPEAKER_01: În ceafă, sus.\nSPEAKER_00: În ceafă. Ok. Doare mai tare dimineața sau seara?\nSPEAKER_01: Seara, după birou.\nSPEAKER_00: Înțeles. Luați vreun medicament acum, ceva?\nSPEAKER_01: Ibuprofen, când nu mai suport.\nSPEAKER_00: Cât luați, ce doză?\nSPEAKER_01: Nu știu, pastila obișnuită, 400.\nSPEAKER_00: 400 mg. Des îl luați?\nSPEAKER_01: Rar, din când în când.\nSPEAKER_00: Ok. Alte probleme de sănătate, tensiune, diabet, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai avut vreo problemă la coloana cervicală înainte, vreo hernie, ceva?\nSPEAKER_01: Nu știu, nu am făcut investigații.\nSPEAKER_00: Nicio investigație. Ok. Haideți să fac câteva teste rapide. Întoarceți capul spre dreapta pentru mine.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare când întoarceți?\nSPEAKER_01: Da.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin spre stânga, mai mult spre dreapta. Dați capul pe spate?\nSPEAKER_01: Doare.\nSPEAKER_00: Doare la extensie. Ok. Stați puțin, apăs aici pe zona asta cervicală, sus. Doare?\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: Și aici, mai jos?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeles. Deci avem o contractură în zona cervicală superioară, cu limitarea rotației spre dreapta și a extensiei, și cu iradiere spre umărul drept. O să lucrăm să reducem contractura asta și să recuperăm mobilitatea gâtului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală apărută după stat prelungit la birou, de aproximativ două săptămâni, cu iradiere în umărul drept și dureri de cap occipitale ocazionale.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractură cervicală superioară, cu limitarea rotației spre dreapta și a extensiei, iradiere umăr drept.\nObiective terapeutice: reducerea contracturii, recuperarea mobilității cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "De vreo două săptămâni.",
+      "După ce am stat la birou mai mult.",
+      "Și în umărul drept un pic.",
+      "În ceafă, sus."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Și în umărul drept un pic.",
+      "În ceafă, sus."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofen, când nu mai suport.",
+      "Nu știu, pastila obișnuită, 400."
+    ],
+    "evaluare_functionala_initiala": [
+      "Deci avem o contractură în zona cervicală superioară, cu limitarea rotației spre dreapta și a extensiei, și cu iradiere spre umărul drept.",
+      "O să lucrăm să reducem contractura asta și să recuperăm mobilitatea gâtului."
+    ]
+  }
+}

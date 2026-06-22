@@ -1,0 +1,58 @@
+{
+  "conversation_id": "synth_020",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare gâtul de câteva săptămâni și am și niște dureri de cap",
+      "Mai mult pe partea dreaptă, așa, și urcă spre ceafă. Uneori simt și în umăr.",
+      "A început mai ușor și acum parcă s-a înrăutățit.",
+      "stau mult la birou, la calculator. Adică toată ziua practic.",
+      "uneori simt că mi se amorțește mâna dreaptă, mai ales degetele, astea... mijlociul și inelarul",
+      "Mai mult noaptea, când dorm.",
+      "Uneori, da. Nu rău, dar... mai ales când mă ridic repede."
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum... un 6, cred. Uneori mai rău, poate 7, seara mai ales.",
+      "Acum, la mișcare? Un 7."
+    ],
+    "localizarea_durerii": [
+      "mă doare gâtul de câteva săptămâni",
+      "Mai mult pe partea dreaptă, așa, și urcă spre ceafă.",
+      "Uneori simt și în umăr.",
+      "Umărul drept?"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt că mi se amorțește mâna dreaptă, mai ales degetele, astea... mijlociul și inelarul"
+    ],
+    "antecedente": [
+      "Am tensiune un pic mărită, mi-a zis doctorul acum vreo doi ani."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Prestarium, 5 miligrame, o dată pe zi.",
+      "Am mai luat niște ibuprofen când mă durea tare, dar nu regulat."
+    ],
+    "evaluare_functionala_initiala": [
+      "Întoarceți capul ușor spre dreapta.",
+      "Ah, doare, da, trage tare.",
+      "Spre stânga.",
+      "Merge mai bine, puțin.",
+      "C4-C5, C5-C6 mai sensibil.",
+      "Umărul în sine pare ok. Problema e la nivelul coloanei cervicale care iritează și nervul spre umăr și spre mână.",
+      "în primul rând reducem inflamația și tensiunea musculară de la nivelul cervicalei, mobilizăm coloana cervicală, lucrăm și pe umăr ca să eliberăm puțin zona. Și recomand să faceți acel RMN cervical"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21883,
+    "inference_geo": "global",
+    "input_tokens": 276,
+    "output_tokens": 3920,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

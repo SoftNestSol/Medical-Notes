@@ -1,0 +1,50 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamnă.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo trei săptămâni.\nSPEAKER_00: Și a apărut dintr-odată sau treptat?\nSPEAKER_01: Treptat.\nSPEAKER_00: Ați făcut ceva anume? Ați cărat ceva greu, ați mișcat mai mult?\nSPEAKER_01: Poate de la serviciu. Stau mult la calculator.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare doare?\nSPEAKER_01: Un 5.\nSPEAKER_00: Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Mai mult când ridic mâna.\nSPEAKER_00: Când o ridicați, doare în față, în spate, lateral?\nSPEAKER_01: Lateral, sus.\nSPEAKER_00: Înțeles. Se lasă durerea și pe braț în jos, pe cot?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțește mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Și gâtul doare?\nSPEAKER_01: Puțin.\nSPEAKER_00: Adică simțiți o tensiune acolo, în ceafă?\nSPEAKER_01: Da, în ceafă.\nSPEAKER_00: Bun. Alte afecțiuni, cum ar fi tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale anterioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați ceva în momentul de față?\nSPEAKER_01: Iau un antiinflamator uneori.\nSPEAKER_00: Cum îl cheamă?\nSPEAKER_01: Ibuprofen.\nSPEAKER_00: Cât luați?\nSPEAKER_01: 400, când mă doare tare.\nSPEAKER_00: Ok. Boli cu transmitere cutanată?\nSPEAKER_01: Nu.\nSPEAKER_00: Haideți să ridicați brațul drept lateral, încet, până unde puteți.\nSPEAKER_01: Până aici.\nSPEAKER_00: Doare?\nSPEAKER_01: Da, de pe la jumătate.\nSPEAKER_00: Stați așa. Apăs acum pe zona de aici, pe deltoid, spuneți-mi dacă doare.\nSPEAKER_01: Da.\nSPEAKER_00: Și pe supraspinos? Aici sus?\nSPEAKER_01: Da, acolo tare.\nSPEAKER_00: Înțeles. Pare a fi o inflamație la nivelul tendonului supraspinosului, posibil și o tendinită de rotator. Vom lucra să reducem inflamația din zonă și să recâștigăm mobilitatea umărului. Facem și puțin pe zona cervicală, că vedem că e tensionată.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept, cu debut treptat de aproximativ trei saptamani, accentuata la ridicarea bratului lateral. Asociaza tensiune in ceafa.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie tendon supraspinos, posibila tendinita de rotator.\nObiective terapeutice: reducerea inflamatiei, recastigarea mobilitatii umarului drept; lucru pe zona cervicala."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "De vreo trei săptămâni.",
+      "Treptat.",
+      "Mai mult când ridic mâna.",
+      "Da, în ceafă."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Da, în ceafă."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofen",
+      "400, când mă doare tare."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o inflamație la nivelul tendonului supraspinosului, posibil și o tendinită de rotator.",
+      "Vom lucra să reducem inflamația din zonă și să recâștigăm mobilitatea umărului.",
+      "Facem și puțin pe zona cervicală, că vedem că e tensionată."
+    ]
+  }
+}

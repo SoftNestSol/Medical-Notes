@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_010",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, zona de jos, și am venit că nu mai știu ce să fac",
+      "am ridicat ceva, niște cutii mai grele la serviciu, și după aceea seara m-am trezit că mă ține foarte tare",
+      "de vreo trei săptămâni",
+      "Se lasă și pe fesă, pe partea dreaptă, și uneori simt ceva și pe picior, tot pe dreapta",
+      "Dimineața când mă trezesc mă ține tare, dar trece puțin după ce mă mișc. Seara după ce stau mult pe scaun la birou e iar rău"
+    ],
+    "evaluarea_durerii_vas": [
+      "Aș zice un 7. Uneori mai mult, dacă stau mult în picioare."
+    ],
+    "localizarea_durerii": [
+      "mă doare spatele, zona de jos",
+      "mă ține tare"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă și pe fesă, pe partea dreaptă, și uneori simt ceva și pe picior, tot pe dreapta",
+      "parcă până la genunchi"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Mi-a spus doctorul de familie că am hipertensiune, de vreo doi ani mai încoace."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Amlodipina, 5 miligrame pe zi."
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți umărul drept puțin mai ridicat, și o ușoară înclinare spre stânga.",
+      "e o postură pe care o adoptăm inconștient ca să reducem presiunea pe zona dureroasă. Se cheamă poziție antalgică.",
+      "avem un semn Lasègue pozitiv pe dreapta, la aproximativ 40 de grade, ceea ce înseamnă că există o iritație la nivelul rădăcinii nervoase, cel mai probabil L4-L5 sau L5-S1",
+      "vorbim de o durere de tip sciatic, cel mai probabil pe fondul unei hernii sau protruzie discale",
+      "Obiectivul nostru este să reducem compresia pe rădăcina nervoasă, să relaxăm musculatura care s-a contractat ca să vă protejeze, și să vă readucem mobilitatea normală."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 22899
+    },
+    "cache_creation_input_tokens": 22899,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 276,
+    "output_tokens": 3800,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

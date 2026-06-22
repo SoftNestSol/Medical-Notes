@@ -1,0 +1,313 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 4.88,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă veniți."
+    },
+    {
+      "start": 5.0,
+      "end": 6.52,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare spatele, jos."
+    },
+    {
+      "start": 6.64,
+      "end": 8.16,
+      "speaker": "SPEAKER_00",
+      "text": "Jos, lombar. De când?"
+    },
+    {
+      "start": 8.28,
+      "end": 9.8,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo două săptămâni."
+    },
+    {
+      "start": 9.92,
+      "end": 14.48,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 14.6,
+      "end": 15.4,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 5."
+    },
+    {
+      "start": 15.52,
+      "end": 18.94,
+      "speaker": "SPEAKER_00",
+      "text": "5. Doare mereu sau numai când faceți ceva anume?"
+    },
+    {
+      "start": 19.06,
+      "end": 20.96,
+      "speaker": "SPEAKER_01",
+      "text": "Când stau mult în picioare."
+    },
+    {
+      "start": 21.08,
+      "end": 24.12,
+      "speaker": "SPEAKER_00",
+      "text": "Când stați în picioare. Când vă așezați, trece?"
+    },
+    {
+      "start": 24.24,
+      "end": 25.38,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mai trece."
+    },
+    {
+      "start": 25.5,
+      "end": 28.54,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea se lasă undeva, pe picior, pe fesă?"
+    },
+    {
+      "start": 28.66,
+      "end": 29.46,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 29.58,
+      "end": 31.86,
+      "speaker": "SPEAKER_00",
+      "text": "Sigur? Nu simțiți nimic pe picior?"
+    },
+    {
+      "start": 31.98,
+      "end": 33.12,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, doar acolo."
+    },
+    {
+      "start": 33.24,
+      "end": 34.38,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Amorțesc picioarele?"
+    },
+    {
+      "start": 34.5,
+      "end": 35.3,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 35.42,
+      "end": 38.46,
+      "speaker": "SPEAKER_00",
+      "text": "Dimineața, când vă ridicați din pat, vă ține?"
+    },
+    {
+      "start": 38.58,
+      "end": 40.1,
+      "speaker": "SPEAKER_01",
+      "text": "Puțin, da. Dar trece."
+    },
+    {
+      "start": 40.22,
+      "end": 41.74,
+      "speaker": "SPEAKER_00",
+      "text": "Trece repede sau durează?"
+    },
+    {
+      "start": 41.86,
+      "end": 42.66,
+      "speaker": "SPEAKER_01",
+      "text": "Repede."
+    },
+    {
+      "start": 42.78,
+      "end": 45.06,
+      "speaker": "SPEAKER_00",
+      "text": "Ce lucrați, dacă pot să întreb?"
+    },
+    {
+      "start": 45.18,
+      "end": 45.98,
+      "speaker": "SPEAKER_01",
+      "text": "Vânzător."
+    },
+    {
+      "start": 46.1,
+      "end": 48.76,
+      "speaker": "SPEAKER_00",
+      "text": "Stați mult în picioare în timpul zilei."
+    },
+    {
+      "start": 48.88,
+      "end": 50.02,
+      "speaker": "SPEAKER_01",
+      "text": "Da, toată ziua."
+    },
+    {
+      "start": 50.14,
+      "end": 55.08,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Ați mai avut această durere și înainte sau e prima dată?"
+    },
+    {
+      "start": 55.2,
+      "end": 57.48,
+      "speaker": "SPEAKER_01",
+      "text": "Mai am avut, dar nu așa."
+    },
+    {
+      "start": 57.6,
+      "end": 59.5,
+      "speaker": "SPEAKER_00",
+      "text": "Nu la fel de tare."
+    },
+    {
+      "start": 59.62,
+      "end": 60.42,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 60.54,
+      "end": 63.58,
+      "speaker": "SPEAKER_00",
+      "text": "Luați ceva medicamente acum, pentru durere sau altceva?"
+    },
+    {
+      "start": 63.7,
+      "end": 65.22,
+      "speaker": "SPEAKER_01",
+      "text": "Iau un ibuprofen uneori."
+    },
+    {
+      "start": 65.34,
+      "end": 66.48,
+      "speaker": "SPEAKER_00",
+      "text": "Cât de des?"
+    },
+    {
+      "start": 66.6,
+      "end": 68.5,
+      "speaker": "SPEAKER_01",
+      "text": "Când doare tare, o pastilă."
+    },
+    {
+      "start": 68.62,
+      "end": 69.76,
+      "speaker": "SPEAKER_00",
+      "text": "Deci nu zilnic."
+    },
+    {
+      "start": 69.88,
+      "end": 70.68,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 70.8,
+      "end": 74.22,
+      "speaker": "SPEAKER_00",
+      "text": "Alte afecțiuni, tensiune, diabet, osteoporoză, hernie de disc diagnosticată?"
+    },
+    {
+      "start": 74.34,
+      "end": 75.14,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic."
+    },
+    {
+      "start": 75.26,
+      "end": 76.4,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale, fracturi?"
+    },
+    {
+      "start": 76.52,
+      "end": 77.32,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 77.44,
+      "end": 84.28,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să facem câteva teste. Stați cu spatele la mine, vă rog, picioarele puțin depărtate. Relaxați umerii."
+    },
+    {
+      "start": 84.4,
+      "end": 85.2,
+      "speaker": "SPEAKER_01",
+      "text": "Bun."
+    },
+    {
+      "start": 85.32,
+      "end": 91.4,
+      "speaker": "SPEAKER_00",
+      "text": "Văd o ușoară tensionare pe dreapta la nivel lombar. Vă aplecați puțin în față pentru mine?"
+    },
+    {
+      "start": 91.52,
+      "end": 92.32,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 92.44,
+      "end": 93.96,
+      "speaker": "SPEAKER_00",
+      "text": "Doare când vă aplecați?"
+    },
+    {
+      "start": 94.08,
+      "end": 94.88,
+      "speaker": "SPEAKER_01",
+      "text": "Puțin."
+    },
+    {
+      "start": 95.0,
+      "end": 97.28,
+      "speaker": "SPEAKER_00",
+      "text": "Puțin. Și când vă îndreptați înapoi?"
+    },
+    {
+      "start": 97.4,
+      "end": 98.54,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult acolo."
+    },
+    {
+      "start": 98.66,
+      "end": 105.12,
+      "speaker": "SPEAKER_00",
+      "text": "La extensie doare mai tare. Am înțeles. Vă apăs puțin pe zona lombară, spuneți-mi dacă doare."
+    },
+    {
+      "start": 105.24,
+      "end": 106.04,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo."
+    },
+    {
+      "start": 106.16,
+      "end": 121.74,
+      "speaker": "SPEAKER_00",
+      "text": "Musculatura paravertebrală e contractată, mai mult pe dreapta. Deci avem o contractură musculară lombară, probabil pe fondul ortostatismului prelungit. Obiectivul nostru e să reducem contractura asta și să vedem și cum stați cu mobilitatea. O să lucrăm pe zona lombară azi."
+    }
+  ]
+}

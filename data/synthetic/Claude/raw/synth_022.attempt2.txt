@@ -1,0 +1,47 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți la noi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc, dimineața m-am trezit și nu puteam să întorc capul.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare vă doare acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Durerea rămâne doar în gât sau se lasă și pe umăr, pe braț?\nSPEAKER_01: Și pe umăr, pe dreapta.\nSPEAKER_00: Pe umărul drept. Amorțește brațul sau mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Aveți dureri de cap asociate?\nSPEAKER_01: Uneori.\nSPEAKER_00: Când ziceți uneori, adică des sau rar?\nSPEAKER_01: Rar.\nSPEAKER_00: Ok. Ce lucrați, dacă pot să întreb?\nSPEAKER_01: La birou, pe calculator.\nSPEAKER_00: Mult timp la calculator?\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Am înțeles. Ați mai avut această problemă înainte?\nSPEAKER_01: Acum doi ani, ceva similar.\nSPEAKER_00: Și atunci s-a rezolvat de la sine?\nSPEAKER_01: Da, cu pastile.\nSPEAKER_00: Ce pastile ați luat atunci?\nSPEAKER_01: Nu mai știu exact. Ceva antiinflamator.\nSPEAKER_00: Acum luați ceva?\nSPEAKER_01: Ibuprofen.\nSPEAKER_00: Cât ibuprofen, știți?\nSPEAKER_01: 400, de două ori pe zi.\nSPEAKER_00: De când îl luați?\nSPEAKER_01: De o săptămână.\nSPEAKER_00: Ajută?\nSPEAKER_01: Puțin.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză, epilepsie?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi la nivel de gât sau coloană?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Stați drept, relaxat. Întoarceți capul spre dreapta.\nSPEAKER_01: Până aici.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Lăsați capul pe spate.\nSPEAKER_01: Aici mă trage tare.\nSPEAKER_00: Înțeles. Vă apăs acum pe zona cervicală, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Musculatura e contractată, mai ales pe dreapta. Pare o contractură cervicală cu blocaj la C5-C6, probabil din postura la birou. O să lucrăm să reducem contractura și să refacem mobilitatea gâtului.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu iradiere pe umărul drept, apărută brusc la trezire, în urmă cu două săptămâni. Lucrează la birou pe calculator toată ziua.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg de două ori pe zi"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractură cervicală cu blocaj C5-C6.\nObiective terapeutice: reducerea contracturii și refacerea mobilității gâtului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "dimineața m-am trezit și nu puteam să întorc capul",
+      "De vreo două săptămâni",
+      "La birou, pe calculator",
+      "toată ziua"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Și pe umăr, pe dreapta."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofen.",
+      "400, de două ori pe zi."
+    ],
+    "evaluare_functionala_initiala": [
+      "Musculatura e contractată, mai ales pe dreapta. Pare o contractură cervicală cu blocaj la C5-C6, probabil din postura la birou. O să lucrăm să reducem contractura și să refacem mobilitatea gâtului."
+    ]
+  }
+}

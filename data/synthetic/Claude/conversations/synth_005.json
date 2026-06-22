@@ -1,0 +1,157 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 19.92,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua. Am venit că mă doare spatele de vreo două săptămâni și nu mai știu ce să fac, sincer. Am încercat și cu un plasture, am încercat și cu un gel, nimic nu ajută, adică tot stau și mă gândesc că poate e ceva grav, nu știu."
+    },
+    {
+      "start": 20.04,
+      "end": 22.7,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Deci durere lombară, de două săptămâni."
+    },
+    {
+      "start": 22.82,
+      "end": 30.8,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact, în zona de jos, știți, nu sus la spate, jos, chiar deasupra... cum să zic... a bazinului, pe acolo."
+    },
+    {
+      "start": 30.92,
+      "end": 35.86,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Pe o scară de la 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 35.98,
+      "end": 54.6,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, acum, în momentul ăsta, cât stau în picioare, zic că e un 5. Dimineața e mai rău, mă trezesc și parcă mă ține, nu pot să mă ridic direct din pat, trebuie să mă răsucesc, să mai stau un pic. Dar în general ziua, 5, 5 și ceva."
+    },
+    {
+      "start": 54.72,
+      "end": 56.24,
+      "speaker": "SPEAKER_00",
+      "text": "Dimineața e mai rău."
+    },
+    {
+      "start": 56.36,
+      "end": 68.52,
+      "speaker": "SPEAKER_01",
+      "text": "Da, dimineața e cam 7, zic eu. Și seara dacă stau mult pe scaun, la serviciu stau mult, lucrez la birou, vreo 8-9 ore pe zi, și atunci se mai accentuează."
+    },
+    {
+      "start": 68.64,
+      "end": 71.68,
+      "speaker": "SPEAKER_00",
+      "text": "Se lasă durerea și pe picior, pe fesă?"
+    },
+    {
+      "start": 71.8,
+      "end": 85.48,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, rămâne acolo, în spate. Cel puțin până acum nu am simțit să se ducă undeva. Știți, m-am speriat că am citit pe internet că poate fi hernie și atunci am zis să vin."
+    },
+    {
+      "start": 85.6,
+      "end": 90.92,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și s-a întâmplat ceva anume înainte să înceapă? Un efort, o mișcare?"
+    },
+    {
+      "start": 91.04,
+      "end": 105.48,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, da, cred că de la mutat. Am mutat acum vreo trei săptămâni, am cărați cutii, mobilă, am stat și aplecat mult. A doua zi am simțit că mă ține, dar am zis că trece. N-a trecut."
+    },
+    {
+      "start": 105.6,
+      "end": 108.64,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Alte zone mai dor? Gâtul, umărul?"
+    },
+    {
+      "start": 108.76,
+      "end": 131.94,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu. Gâtul nu. Uneori mai am tensiune în umeri, știți, de la statul la calculator, dar nu mă doare propriu-zis, e mai mult un disconfort. Și mai am, nu știu dacă e relevant, dar genunchiul drept mă mai supără uneori la urcat pe scări, dar și aia e veche, de vreo doi ani, de când am căzut la schi."
+    },
+    {
+      "start": 132.06,
+      "end": 133.58,
+      "speaker": "SPEAKER_00",
+      "text": "De câți ani aveți?"
+    },
+    {
+      "start": 133.7,
+      "end": 134.5,
+      "speaker": "SPEAKER_01",
+      "text": "38."
+    },
+    {
+      "start": 134.62,
+      "end": 136.9,
+      "speaker": "SPEAKER_00",
+      "text": "Alte afecțiuni, tensiune, diabet, ceva diagnosticat?"
+    },
+    {
+      "start": 137.02,
+      "end": 143.86,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, sunt sănătos tun, nu am nimic. Nici nu iau medicamente, nimic. Doar vitamine uneori, dar nu constant."
+    },
+    {
+      "start": 143.98,
+      "end": 156.14,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Stați puțin cu spatele la mine, picioarele drepte, umerii relaxați. Bun. Haideți să vă aplecați ușor în față... Uite, se blochează musculatura paravertebrală, mai ales pe dreapta. Apăs puțin aici... doare?"
+    },
+    {
+      "start": 156.26,
+      "end": 158.54,
+      "speaker": "SPEAKER_01",
+      "text": "Aaah, da, acolo da, e sensibil."
+    },
+    {
+      "start": 158.66,
+      "end": 159.8,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe stânga?"
+    },
+    {
+      "start": 159.92,
+      "end": 161.82,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, dar tot simte."
+    },
+    {
+      "start": 161.94,
+      "end": 176.38,
+      "speaker": "SPEAKER_00",
+      "text": "Deci avem o contractură musculară paravertebrală lombară, mai accentuată pe dreapta, declanșată probabil de efortul de la mutat. Nu e hernie, nu ne îngrijorăm deocamdată. Obiectivul nostru e să reducem contractura și inflamația musculară, să recăpătați mobilitatea normală."
+    },
+    {
+      "start": 176.5,
+      "end": 184.48,
+      "speaker": "SPEAKER_01",
+      "text": "Adică nu e nimic grav? Fiindcă am citit și că poate fi ceva cu rinichii, și eu m-am panicat puțin."
+    },
+    {
+      "start": 184.6,
+      "end": 188.4,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, tabloul e clar muscular. Haideți să trecem la treabă."
+    }
+  ]
+}

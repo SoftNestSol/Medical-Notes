@@ -1,0 +1,28 @@
+{
+  "motivul_prezentarii": "Pacientă cu durere cervicală dreaptă iradiată spre ceafă și umărul drept, cu debut insidios de aproximativ 3-4 săptămâni, agravată de munca prelungită la calculator. Asociază cefalee occipitală dreaptă, amorțeli ale mâinii drepte (degete mijlociu și inelar), mai ales nocturn, și amețeli la ridicare bruscă.",
+  "evaluarea_durerii_vas": [
+    6,
+    7
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "cap_ceafa",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "amorțeli mâna dreaptă, degete mijlociu și inelar",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "5 miligrame, o dată pe zi"
+    },
+    {
+      "denumire": "ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații funcționale:\nRotație cervicală dreaptă limitată și dureroasă (EVA 7/10 la mișcare), rotație stângă relativ păstrată. Înclinare laterală dreaptă cu senzație de tracțiune pe hemicervical drept. Palpare sensibilă la nivelul C4-C5, C5-C6. Ridicare braț drept posibilă, durerea iradiată din gât, articulația umărului drept fără afectare proprie.\nDiagnostic:\nCervicalgie dreaptă cu iradiere în umărul drept și amorțeli C6-C7; posibilă protruzie/pensare discală cervicală (de confirmat RMN cervical).\nObiective terapeutice:\n- reducerea inflamației și tensiunii musculare cervicale;\n- mobilizarea coloanei cervicale;\n- lucru pe umărul drept pentru decompresie radiculară;\n- recomandare RMN cervical."
+}

@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare spatele jos.\nSPEAKER_00: De jos, zona lombară. De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut din senin sau ați făcut ceva, ați ridicat ceva greu?\nSPEAKER_01: Am ridicat niște saci.\nSPEAKER_00: Saci. Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare e durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare constant sau numai când faceți ceva anume?\nSPEAKER_01: Când mă mișc mai mult.\nSPEAKER_00: Când vă aplecați, ridicați?\nSPEAKER_01: Da.\nSPEAKER_00: Dar când stați jos, în repaus?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Durerea se lasă și pe picior, pe fesă, pe coapsă?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Amorțesc picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Dimineața când vă treziți, vă ține spatele, simțiți o rigiditate?\nSPEAKER_01: Da, puțin. Trece repede.\nSPEAKER_00: Trece repede, bine. Aveți vreo afecțiune, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Iau un ibuprofen când doare mai tare.\nSPEAKER_00: Ibuprofen. Cât, știți?\nSPEAKER_01: Nu știu, cel normal.\nSPEAKER_00: Ok. Haideți să vă uit un pic. Întoarceți-vă cu spatele la mine.\nSPEAKER_01: Așa?\nSPEAKER_00: Da. Stați relaxat, mâinile pe lângă corp. Văd o tensionare a musculaturii paravertebrale, mai accentuată pe stânga. Aplecați-vă ușor în față.\nSPEAKER_01: Doare un pic acum.\nSPEAKER_00: Da, mobilitatea e limitată. Apăs ușor aici, la nivel lombar. Doare?\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Și mai jos, sacral?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci avem o contractură musculară lombară, fără iradiere. Pare o lombalgie mecanică acută după efort. Vom lucra să reducem contractura și inflamația musculară și să recuperăm mobilitatea lombară.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă apărută după ridicare de saci, de aproximativ două săptămâni. Durere la mișcare (aplecare, ridicare), mai redusă în repaus. Redoare matinală ușoară, trece rapid. Fără iradiere pe membre inferioare, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nTensionare musculatură paravertebrală, mai accentuată pe stânga. Mobilitate lombară limitată la flexie anterioară. Durere la palpare lombară. Sacral fără durere la palpare.\nDiagnostic:\nLombalgie mecanică acută post-efort, cu contractură musculară paravertebrală.\nObiective terapeutice:\nReducerea contracturii și a inflamației musculare; recuperarea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele jos.", "Am ridicat niște saci.", "De vreo două săptămâni.", "Când mă mișc mai mult.", "Mai puțin.", "Da, puțin. Trece repede.", "Nu.", "Nu."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare spatele jos.", "Apăs ușor aici, la nivel lombar. Doare?"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Iau un ibuprofen când doare mai tare."],
+    "evaluare_functionala_initiala": ["Văd o tensionare a musculaturii paravertebrale, mai accentuată pe stânga.", "mobilitatea e limitată", "Deci avem o contractură musculară lombară, fără iradiere. Pare o lombalgie mecanică acută după efort. Vom lucra să reducem contractura și inflamația musculară și să recuperăm mobilitatea lombară."]
+  }
+}

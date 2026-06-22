@@ -60,7 +60,7 @@ def test_assert_no_test_leakage_raises_on_single_test_id():
 
 def test_assert_no_test_leakage_error_message_lists_leaked_ids():
     with pytest.raises(HeldOutLeakageError) as exc:
-        assert_no_test_leakage(["audio5", "audio11"], context="ICL selection")
+        assert_no_test_leakage(["audio5", "audio36"], context="ICL selection")
     msg = str(exc.value)
-    assert "audio5" in msg and "audio11" in msg
+    assert "audio5" in msg and "audio36" in msg
     assert "ICL selection" in msg

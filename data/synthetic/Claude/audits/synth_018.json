@@ -1,0 +1,50 @@
+{
+  "conversation_id": "synth_018",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, pe zona asta de jos, de ceva vreme deja",
+      "vreo două săptămâni, poate mai mult, nu știu sigur",
+      "stau mult pe scaun, ore întregi, și pe urmă când mă ridic, mă ține tare pe zona asta",
+      "câteodată simt ceva și pe... pe partea asta, pe stânga, se duce puțin în jos, așa, nu știu cum să spun, pe fesă cam",
+      "mai am câteodată și ceafa, dar aia mai veche e, nu e ceva nou"
+    ],
+    "evaluarea_durerii_vas": [
+      "Poate un 7, pe acolo. Cam așa."
+    ],
+    "localizarea_durerii": [
+      "mă doare spatele, pe zona asta de jos",
+      "mai am câteodată și ceafa"
+    ],
+    "localizarea_durerii_alta": [
+      "se duce puțin în jos, așa, nu știu cum să spun, pe fesă cam",
+      "Pe fesă stângă"
+    ],
+    "antecedente": [
+      "Am tensiune, da. Iau pastile pentru asta."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Amlodipină, 5 miligrame, în fiecare zi"
+    ],
+    "evaluare_functionala_initiala": [
+      "aveți umărul stâng puțin mai căzut, și bazinul e ușor dezaxat",
+      "o contractură și o blocare a musculaturii paravertebrale lombare, plus că avem și o ușoară iritație pe rădăcina nervoasă stângă, de aia se lasă durerea pe fesă stângă",
+      "cu câteva ședințe lucrăm pe relaxarea musculaturii paravertebrale, pe mobilizarea articulațiilor lombare",
+      "Și ceafa o tratăm și pe ea, că merge împreună cu postura"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21883,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3541,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

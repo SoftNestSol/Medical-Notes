@@ -1,0 +1,236 @@
+### EXEMPLU ICL 1 (audio18)
+
+TRANSCRIERE:
+SPEAKER_01: Ce vârstă aveți dumneavoastră?
+SPEAKER_01: 23.
+SPEAKER_01: 23 de ani.
+SPEAKER_01: Și cu ce problemă ne vedem la 23 de ani?
+SPEAKER_00: Mă doare foarte tare cotul
+SPEAKER_01: în care rotezc așa și în același timp și întind.
+SPEAKER_01: În care rotiți, da?
+SPEAKER_01: Numai cotul doreau mâna dreaptă?
+SPEAKER_01: Da.
+SPEAKER_01: Înțeles, pe o scară de la 0 la 10, unde 0 nu doare deloc, de ce doare foarte tare, pe unde va situa cu durerea?
+SPEAKER_01: 6.
+SPEAKER_01: 6.
+SPEAKER_01: Vă doare doar cotul sau vă doare și antebrațul, bicepsul?
+SPEAKER_00: Cu cotul și se întinde un pic așa pe antebraț.
+SPEAKER_01: Pe antebraț, pe partea exterioră, cu cea cu begetul mare sau cea cu... Aici.
+SPEAKER_01: Deci pe partea, lăsați nici mie vreo mâna mare, așa.
+SPEAKER_01: Pe zona asta de aici, da?
+SPEAKER_00: Da.
+SPEAKER_01: Ok, pe partea radială.
+SPEAKER_01: Aici pe partea ulnară doar?
+SPEAKER_01: Nu prea.
+SPEAKER_01: Nu prea.
+SPEAKER_00: Ok.
+SPEAKER_00: Au.
+SPEAKER_01: Da.
+SPEAKER_01: Amorțește vreun pic partea asta de aici, de la deget?
+SPEAKER_01: Nu, nu e atât vreau.
+SPEAKER_01: E doar durerea aici?
+SPEAKER_00: Da, în momentul în care roțesc mâna.
+SPEAKER_00: Asta poate fi o epicondylită,
+SPEAKER_01: domnul.
+SPEAKER_00: Am înțeles.
+SPEAKER_00: Când întind mâna și îndoi.
+SPEAKER_00: Când
+SPEAKER_01: întindeți mâna, puteți să ridicați un obiect de jos?
+SPEAKER_00: Da.
+SPEAKER_01: Deci dacă e în flexie, mâna nu vă doare, da?
+SPEAKER_00: De exemplu...
+SPEAKER_00: berea aia nu greu o
+SPEAKER_01: ridic.
+SPEAKER_01: Pentru că e deja mâna în extensie, dar dacă ar fi mâna deja în flexie și ați ridica, uite, ridicați, vă rog, farfeca asta de mâna mea.
+SPEAKER_01: Ridicați-o odată așa și duceți-o la gură.
+SPEAKER_01: Au, pe aici deja doare.
+SPEAKER_01: Doare.
+SPEAKER_01: Dar dacă dumneavoastră aveți mâna aici și ridicați, mai doare?
+SPEAKER_00: Da.
+SPEAKER_01: Dar mult mai puțin.
+SPEAKER_01: Dar mult mai puțin așa, bravo.
+SPEAKER_01: Bun.
+SPEAKER_01: Mai sus aici doare?
+SPEAKER_01: Nu, nu, nu.
+SPEAKER_01: Nu.
+SPEAKER_01: De ce spuneți noi așa panică, domnule?
+SPEAKER_01: Spune-te, gata.
+SPEAKER_01: Bun, asta ar fi semnul epicondylite, domnule.
+SPEAKER_01: Epicondylite pe partea 3.
+SPEAKER_01: Ce avem de făcut?
+SPEAKER_01: Va trebuie, în prima fază, să lucrăm puțin procesul inflamator, să reducem.
+SPEAKER_01: ca ulterior să puteți să trăiți normal, să puteți să beți bera liniștit, să nu mai aveți astfel de probleme, mai ales că sunt niște probleme cu care un bărbat nu poate trăi.
+SPEAKER_01: Într-adeori.
+SPEAKER_01: Alte afecțiuni, cum ar fi diabet, tensiune, epilepsie, cancer?
+SPEAKER_00: Nu, nici una.
+SPEAKER_01: Nici cancer, da?
+SPEAKER_01: Da.
+SPEAKER_01: Intervenții chirurgicale?
+SPEAKER_00: Nu.
+SPEAKER_01: Fracturi, accidente de mașină, de
+SPEAKER_00: motor.
+SPEAKER_00: Nu am avut mâna ruptă, dar cu mult
+SPEAKER_01: timp.
+SPEAKER_01: Bol cu transmitere prin sânge.
+SPEAKER_00: Nu, nu.
+SPEAKER_01: Proteze metalice.
+SPEAKER_00: Nu.
+SPEAKER_01: Stimulatorul cardiac.
+SPEAKER_01: Nu, însărcinată nu sunteți.
+SPEAKER_01: Medicamente pe care le-l luați acum.
+SPEAKER_01: Nu.
+SPEAKER_01: Vă voi da și eu la finalul ședinței o pastiluță să o las 2-3 zile ca să reducă procesul inflamator, da?
+SPEAKER_01: Da, ar fi super.
+SPEAKER_01: Alte alergii la unguente?
+SPEAKER_00: Creme?
+SPEAKER_00: Nu, nu, nu.
+SPEAKER_00: Nu.
+SPEAKER_00: Bun
+SPEAKER_01: domnule, haideți pe ma să vă rog fața în sus să trecem deja la treabă, da?
+SPEAKER_00: Da.
+
+JSON CORECT:
+{
+  "motivul_prezentarii": "cot dr.",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "cot_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic:\nepicondilita\nObiective terapeutice:\n-reducerea procesului inflamator"
+}
+
+---
+
+### EXEMPLU ICL 2 (audio19)
+
+TRANSCRIERE:
+SPEAKER_00: Bună ziua, doamna
+SPEAKER_01: Iosif.
+SPEAKER_00: Bună ziua.
+SPEAKER_00: Spuneți-mi și mie, vă rog, cu ce problemă ne vedem
+SPEAKER_01: azi.
+SPEAKER_00: Puneți puțin mai tare, n-am auzit vă
+SPEAKER_01: rog.
+SPEAKER_01: Chineto
+SPEAKER_00: terapeut.
+SPEAKER_00: Doamna Elsie, deci sunteți familiară cu ce facem și noi aici, da?
+SPEAKER_00: Ce vârstă aveți din asta?
+SPEAKER_00: 24.
+SPEAKER_00: Mulți, ne?
+SPEAKER_00: Cum ați aflat de noi?
+SPEAKER_00: Recomandare?
+SPEAKER_00: Recomandare, da.
+SPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de rog o doare?
+SPEAKER_01: Undeva pe
+SPEAKER_00: la un 7.
+SPEAKER_00: Pe la un 7, atât de zona de la o barcă și zona de șod?
+SPEAKER_00: Da,
+SPEAKER_01: șodul.
+SPEAKER_00: Ce șold?
+SPEAKER_01: Stâng.
+SPEAKER_00: Șoldul stâng.
+SPEAKER_00: Dreptul deloc?
+SPEAKER_00: Nu.
+SPEAKER_00: Șoldul stâng.
+SPEAKER_00: Vă doare cumva și în față, pe partea de iliopsoas?
+SPEAKER_01: Foarte rar.
+SPEAKER_00: Foarte rar, momentul de față vă doare?
+SPEAKER_01: Nu.
+SPEAKER_00: Când vă doare, vă doare pe partea stângă sau pe partea dreaptă?
+SPEAKER_01: Pe partea astea.
+SPEAKER_00: Pe partea stângă.
+SPEAKER_00: Alte afecțiuni mai aveți, cum ar fi tensiune, diabet, cancer, epilepsie scolioză?
+SPEAKER_00: Nu.
+SPEAKER_00: Intervenții chirurgicale anterioare?
+SPEAKER_00: Nu.
+SPEAKER_00: Accidente de mașină, fracturi, traumatisme?
+SPEAKER_01: Nu.
+SPEAKER_00: Bol cu transmitere cutanată?
+SPEAKER_00: Nu.
+SPEAKER_00: Cioteze?
+SPEAKER_00: Nu.
+SPEAKER_00: Stimulator cardiac?
+SPEAKER_00: Nu, în sfârșina, dar nu cred că sunteți, nu?
+SPEAKER_00: Doamnește.
+SPEAKER_01: Doamnește.
+SPEAKER_00: Medicamente luați?
+SPEAKER_00: Medicamente
+SPEAKER_01: luați?
+SPEAKER_00: Alergică la unguiente, creme?
+SPEAKER_00: Nu.
+SPEAKER_00: Bun.
+SPEAKER_00: Hai, iați în picioare să fac și eu pesteva teste.
+SPEAKER_00: Voi apăsați zona de periform.
+SPEAKER_00: Stați așa cum stați acu, dacă e să vă mutați, vă zic eu, da?
+SPEAKER_00: zona de piriform și l-te rău pe fesierul mijloc și îl spuneți-mi dacă doare.
+SPEAKER_00: Doare
+SPEAKER_01: de s-o de
+SPEAKER_00: rău.
+SPEAKER_00: Doare.
+SPEAKER_00: Vă apăși în partea dreaptă?
+SPEAKER_00: La fel.
+SPEAKER_00: Doare la fel?
+SPEAKER_00: Nu.
+SPEAKER_00: Pe partea de pătrat lombar?
+SPEAKER_00: Doare la fel și pe stânga și pe dreapta?
+SPEAKER_00: Doare.
+SPEAKER_00: Și pe dreapta
+SPEAKER_01: doare?
+SPEAKER_00: Nu.
+SPEAKER_00: Nu, nu, nu.
+SPEAKER_00: Bun.
+SPEAKER_00: Vreau să vă aplicați în
+SPEAKER_01: față?
+SPEAKER_01: Ok.
+SPEAKER_00: Vreau să vă aplicați în față?
+SPEAKER_00: Da.
+SPEAKER_00: Doare?
+SPEAKER_01: Acum, când mă plec în față, mă cam doare pe
+SPEAKER_00: partea dreptă.
+SPEAKER_00: Nu, nu înțelegi.
+SPEAKER_00: O doare și șorul drept, da?
+SPEAKER_00: Da.
+SPEAKER_00: Bun.
+SPEAKER_00: Stând în picioare, cu spatele la mine, voi vrea să parțeți o ușară rotație și o înclinare laterală spre partea dreaptă.
+SPEAKER_00: Doare volana lombară?
+SPEAKER_01: Nu.
+SPEAKER_00: La fel facem și în stângă.
+SPEAKER_00: Doare?
+SPEAKER_01: Da.
+SPEAKER_01: Aici se duce și în față.
+SPEAKER_00: Se duce în față pe inghinal, da?
+SPEAKER_01: Da.
+SPEAKER_01: Se
+SPEAKER_00: duce și pe picioare în spate?
+SPEAKER_00: Da.
+SPEAKER_00: până sub genunchi.
+SPEAKER_00: Bine, avem cumva făcut și uremene?
+SPEAKER_01: Nu.
+SPEAKER_00: Ar fi util să faceți.
+SPEAKER_00: Voi să facem.
+SPEAKER_00: Ce vă pot spune e că pare a fi o protruză la nivel de L4, L5, L5, S1, însă nu e ceva sigur, neavând remeneul.
+SPEAKER_00: Ce pot să vă spun sigur este că este inflamația cu musculatura periferică, de pătrat lombar, piriform, fesier mijlociu, fesier mare, cum vă spuneam și mai devreme.
+SPEAKER_00: Totodată pare puțin afectat și hamstringul.
+SPEAKER_00: Și, în primă față, va trebui să reducem inflamațiile respective, ca ulterior să putem face poate de lungații vertebrale și de terapie
+SPEAKER_01: manuală.
+SPEAKER_00: Înțeles.
+SPEAKER_00: Haideți pe mă astăzi să trecăm apoi.
+
+JSON CORECT:
+{
+  "motivul_prezentarii": "durere lombara",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "lombar",
+    "sold_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie piriform, fesier mijlociu, patrat lombar;\n- posibila protruzie L4-L5; L5-S1\nObiective terapeutice:\n-Reducerea procesului inflamator"
+}

@@ -1,0 +1,50 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți.\nSPEAKER_01: Mă doare spatele, jos.\nSPEAKER_00: Jos, lombar. De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare mereu sau numai când faceți ceva anume?\nSPEAKER_01: Când stau mult în picioare.\nSPEAKER_00: Când stați în picioare. Când vă așezați, trece?\nSPEAKER_01: Da, mai trece.\nSPEAKER_00: Durerea se lasă undeva, pe picior, pe fesă?\nSPEAKER_01: Nu.\nSPEAKER_00: Sigur? Nu simțiți nimic pe picior?\nSPEAKER_01: Nu, doar acolo.\nSPEAKER_00: Bun. Amorțesc picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Dimineața, când vă ridicați din pat, vă ține?\nSPEAKER_01: Puțin, da. Dar trece.\nSPEAKER_00: Trece repede sau durează?\nSPEAKER_01: Repede.\nSPEAKER_00: Ce lucrați, dacă pot să întreb?\nSPEAKER_01: Vânzător.\nSPEAKER_00: Stați mult în picioare în timpul zilei.\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Am înțeles. Ați mai avut această durere și înainte sau e prima dată?\nSPEAKER_01: Mai am avut, dar nu așa.\nSPEAKER_00: Nu la fel de tare.\nSPEAKER_01: Da.\nSPEAKER_00: Luați ceva medicamente acum, pentru durere sau altceva?\nSPEAKER_01: Iau un ibuprofen uneori.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Când doare tare, o pastilă.\nSPEAKER_00: Deci nu zilnic.\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză, hernie de disc diagnosticată?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Stați cu spatele la mine, vă rog, picioarele puțin depărtate. Relaxați umerii.\nSPEAKER_01: Bun.\nSPEAKER_00: Văd o ușoară tensionare pe dreapta la nivel lombar. Vă aplecați puțin în față pentru mine?\nSPEAKER_01: Da.\nSPEAKER_00: Doare când vă aplecați?\nSPEAKER_01: Puțin.\nSPEAKER_00: Puțin. Și când vă îndreptați înapoi?\nSPEAKER_01: Mai mult acolo.\nSPEAKER_00: La extensie doare mai tare. Am înțeles. Vă apăs puțin pe zona lombară, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Musculatura paravertebrală e contractată, mai mult pe dreapta. Deci avem o contractură musculară lombară, probabil pe fondul ortostatismului prelungit. Obiectivul nostru e să reducem contractura asta și să vedem și cum stați cu mobilitatea. O să lucrăm pe zona lombară azi.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă, de aproximativ două săptămâni, accentuată la ortostatism prelungit, ameliorată la repaus. Fără iradiere pe membre inferioare, fără amorțeli. Redoare matinală ușoară, trece rapid. Pacient cu activitate profesională în ortostatism toată ziua (vânzător).",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nTensionare musculară paravertebrală lombară, mai accentuată pe dreapta. Durere la extensia lombară mai pronunțată decât la flexie. Durere la palpare zona lombară.\nDiagnostic:\nContractură musculară lombară, probabil pe fondul ortostatismului prelungit.\nObiective terapeutice:\nReducerea contracturii musculare lombare; ameliorarea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele, jos.",
+      "De vreo două săptămâni.",
+      "Când stau mult în picioare.",
+      "Nu, doar acolo.",
+      "Puțin, da. Dar trece.",
+      "Da, toată ziua."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele, jos.",
+      "Jos, lombar."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau un ibuprofen uneori."
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară tensionare pe dreapta la nivel lombar.",
+      "La extensie doare mai tare.",
+      "Musculatura paravertebrală e contractată, mai mult pe dreapta.",
+      "Deci avem o contractură musculară lombară, probabil pe fondul ortostatismului prelungit.",
+      "O să lucrăm pe zona lombară azi."
+    ]
+  }
+}

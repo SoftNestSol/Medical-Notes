@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_009",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, pe aici, pe la mijloc, jos",
+      "la început era mai ușor, simțeam ceva acolo, și după a început să mă țină mai mult",
+      "mai ales când stau mult jos, la birou",
+      "Pe partea stângă parcă mai mult. Dar nu mereu, vine și pleacă",
+      "parcă rămâne pe acolo pe sus, pe fesă, pe coapsă",
+      "și pe la gât mai am ceva. Mă mai ține și pe acolo, dar mai puțin",
+      "Uneori. Rar, nu știu dacă e de la gât sau altceva"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "mă doare spatele, pe aici, pe la mijloc, jos",
+      "și pe la gât mai am ceva"
+    ],
+    "localizarea_durerii_alta": [
+      "parcă rămâne pe acolo pe sus, pe fesă, pe coapsă"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Mi-a zis doctorul acum vreo doi ani că am tensiune un pic ridicată"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "iau o pastilă, cum îi zice... Perindopril. Dimineața, una pe zi",
+      "Mai iau câteodată ceva pentru durere, când mă doare prea tare. Nurofen sau ceva de-aia"
+    ],
+    "evaluare_functionala_initiala": [
+      "e o ușoară înclinare, umărul stâng puțin mai jos",
+      "Pe lateral stânga se accentuează",
+      "la ridicarea membrului stâng apare durerea",
+      "avem o tensionare musculară paravertebrală lombară destul de clară, mai accentuată pe stânga, cu o posibilă iritație radiculară pe aceeași parte, dar fără semne clare de radiculopatie distală deocamdată",
+      "la nivel cervical avem și acolo o tensionare, probabil legată de postura de la birou",
+      "O să lucrăm întâi pe zona lombară să reducem tensionarea musculară și inflamația, și pe urmă vedem și cervicalul"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22899,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3534,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

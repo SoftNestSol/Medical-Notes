@@ -1,0 +1,28 @@
+{
+  "motivul_prezentarii": "Durere lombară în bară, prezentă de aproximativ trei săptămâni, agravată progresiv. Accentuată dimineața la sculare și seara după ortostatism/șezut prelungit la birou. Iradiere ocazională pe fesa stângă. Fără iradiere sub fesă. Episod de agravare acută după ridicarea unei greutăți (~10 kg) cu aproximativ două săptămâni în urmă. Asociază cervicalgie cronică (câteva luni) și amorțeli nocturne ale mâinii drepte.",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "lombar"
+  ],
+  "localizarea_durerii_alta": "fesa stângă",
+  "antecedente": [
+    "hipertensiune_arteriala",
+    "hernia_disc"
+  ],
+  "antecedente_altele": "apendicectomie, chist ovarian operat",
+  "medicatie_actuala": [
+    {
+      "denumire": "Perindopril",
+      "doza": "5 miligrame"
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contractură musculară paravertebrală lombară, iritare piriform stânga, asimetrie de bazin, pe fond de hernie disc L4-L5 cunoscută.\nObiective terapeutice: reducerea inflamației musculare, eliberarea blocajului, echilibrarea bazinului."
+}

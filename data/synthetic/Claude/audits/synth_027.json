@@ -1,0 +1,54 @@
+{
+  "conversation_id": "synth_027",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul. Adică nu gâtul în sine, mai mult ceafa, pe aici, și se duce și în umăr, umărul stâng.",
+      "de vreo trei luni, undeva pe acolo. Dar a început mai ușor și acum s-a agravat.",
+      "Eu lucrez la birou, stau în față la calculator toată ziua"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum e cam 5.",
+      "dimineața când mă trezesc e mai rău, e vreo 7."
+    ],
+    "localizarea_durerii": [
+      "mai mult ceafa, pe aici, și se duce și în umăr, umărul stâng",
+      "Mai mult în ceafă și urcă așa, pe după ureche, pe stânga."
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt ceva și pe braț, așa, mai în jos",
+      "Până pe la cot, cam atât."
+    ],
+    "antecedente": [
+      "am hipertensiune, de vreo doi ani."
+    ],
+    "antecedente_altele": [
+      "Am avut o operație la genunchi drept, acum vreo șapte ani, menisc."
+    ],
+    "medicatie_actuala": [
+      "Iau și medicament pentru ea, Enalapril, 5 miligrame pe zi.",
+      "mai iau Nurofen câteodată, când mă doare tare capul sau ceafa.",
+      "mai am și un unguent, Voltaren, îl pun pe ceafă seara."
+    ],
+    "evaluare_functionala_initiala": [
+      "aveți o contractură destul de semnificativă pe zona cervicală și trapez stânga.",
+      "Mobilitatea pe rotație stângă e limitată.",
+      "Durerile de cap pe care le descrieți sunt cel mai probabil de origine cervicală",
+      "O să lucrăm pe reducerea contracturii și pe mobilitate.",
+      "Ar fi util pe viitor să facem și un RMN cervical ca să excludem ceva mai serios la nivelul discurilor."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21155,
+    "inference_geo": "global",
+    "input_tokens": 271,
+    "output_tokens": 3409,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

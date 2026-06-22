@@ -14,10 +14,15 @@ from pathlib import Path
 import anthropic
 from dotenv import load_dotenv
 
+ROOT = Path(__file__).resolve().parents[2]
+SRC = ROOT / "src"
+SOTA = SRC / "SOTA_EVALUATION"
+sys.path.insert(0, str(SOTA))
+
 from json_schema import ANTECEDENTE_ENUM, LOCALIZARE_ENUM
 from parser import ParseError, SchemaError, parse_note
 
-load_dotenv(Path(__file__).parent.parent.parent / ".env")
+load_dotenv(ROOT / ".env")
 
 MODEL = "claude-opus-4-7"
 MAX_TOKENS = 2048

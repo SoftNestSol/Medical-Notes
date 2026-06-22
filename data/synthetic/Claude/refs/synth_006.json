@@ -1,0 +1,23 @@
+{
+  "motivul_prezentarii": "Pacient cu durere lombară joasă, instalată de două săptămâni după perioadă prelungită de stat la birou. Durere cu caracter de blocare, mai intensă dimineața la sculare și după șezut prelungit, ameliorată la mers. Redoare matinală de aproximativ 10 minute. Fără iradiere pe membrul inferior. Asociază cervicalgie ușoară atribuită posturii la calculator.",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "lombar",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\nContractură musculară paravertebrală lombară cu limitare la flexia laterală dreaptă. Lombalgie mecanică, fără semne de iradiere.\nObiective terapeutice:\nReducerea contracturii musculare; mobilizarea zonei lombare; exerciții pentru prevenirea recidivelor."
+}

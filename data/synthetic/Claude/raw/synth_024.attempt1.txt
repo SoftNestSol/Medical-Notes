@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi vă rog cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume, un efort, o mișcare?\nSPEAKER_01: Nu știu, parcă după ce am cărat niște cutii.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare mai tare când ridicați brațul sus?\nSPEAKER_01: Da.\nSPEAKER_00: Și când dormiți pe partea dreaptă?\nSPEAKER_01: Da, nu pot.\nSPEAKER_00: Ridicați brațul pentru mine, cât puteți de sus. Până unde ajungeți?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci cam la nouăzeci de grade. Doare acum?\nSPEAKER_01: Da, doare.\nSPEAKER_00: Apăs puțin aici, pe zona de sub acromion. Doare?\nSPEAKER_01: Da, da, acolo.\nSPEAKER_00: Și mai jos, pe biceps, doare?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Brațul amorțește vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Și în zona de gât, doare?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai avut probleme cu umărul acesta?\nSPEAKER_01: Nu, prima dată.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune arterială. Luați ceva pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: Zece miligrame.\nSPEAKER_00: Zilnic?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere prin sânge?\nSPEAKER_01: Nu.\nSPEAKER_00: Proteze, stimulator cardiac?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la unguente, creme?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin cu brațul lângă corp, relaxat. Încerc să rotesc eu umărul. Spuneți dacă doare.\nSPEAKER_01: Acolo, da.\nSPEAKER_00: Rotația externă e limitată și doare. Deci avem o inflamație în zona de manșetă a rotatorilor, cel mai probabil subacromială. Mobilitatea e redusă, cam jumătate față de normal. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept, apărută după cărat cutii, de aproximativ două săptămâni.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Mobilitate redusă umăr drept (abducție limitată la aproximativ 90 de grade). Rotație externă limitată și dureroasă. Durere la palpare subacromială. Diagnostic: inflamație manșetă rotatori, subacromială. Obiective terapeutice: reducerea inflamației și recuperarea mobilității umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Vreo două săptămâni.", "parcă după ce am cărat niște cutii"],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Enalapril.", "Zece miligrame."],
+    "evaluare_functionala_initiala": ["cam până aici", "Deci cam la nouăzeci de grade. Doare acum?", "Apăs puțin aici, pe zona de sub acromion. Doare?", "Rotația externă e limitată și doare. Deci avem o inflamație în zona de manșetă a rotatorilor, cel mai probabil subacromială. Mobilitatea e redusă, cam jumătate față de normal. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

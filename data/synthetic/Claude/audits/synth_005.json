@@ -1,0 +1,41 @@
+{
+  "conversation_id": "synth_005",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele de vreo două săptămâni",
+      "Am mutat acum vreo trei săptămâni, am cărați cutii, mobilă, am stat și aplecat mult.",
+      "lucrez la birou, vreo 8-9 ore pe zi",
+      "mă trezesc și parcă mă ține, nu pot să mă ridic direct din pat"
+    ],
+    "evaluarea_durerii_vas": [
+      "acum, în momentul ăsta, cât stau în picioare, zic că e un 5",
+      "Dimineața e cam 7, zic eu"
+    ],
+    "localizarea_durerii": [
+      "în zona de jos, știți, nu sus la spate, jos, chiar deasupra... cum să zic... a bazinului, pe acolo"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "se blochează musculatura paravertebrală, mai ales pe dreapta",
+      "avem o contractură musculară paravertebrală lombară, mai accentuată pe dreapta, declanșată probabil de efortul de la mutat",
+      "Obiectivul nostru e să reducem contractura și inflamația musculară, să recăpătați mobilitatea normală"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22899,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 1994,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

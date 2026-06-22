@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere lombară joasă de aproximativ două săptămâni, apărută în context de stat prelungit pe scaun (muncă birou IT). Durere accentuată la ridicarea de pe scaun și la aplecare, ameliorată în decubit. Iradiere ocazională pe fesa stângă, fără iradiere sub fesă și fără amorțeli. Asociază cervicalgie cronică veche, accentuată dimineața.",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "lombar",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "fesă stângă",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Amlodipină",
+      "doza": "5 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUmăr stâng mai căzut, bazin ușor dezaxat. Limitarea flexiei anterioare lombare cu durere lombară joasă la aplecare. Lasègue pozitiv pe stânga la aproximativ 45 de grade cu iradiere lombară, negativ pe dreapta.\nDiagnostic:\nContractură și blocare musculară paravertebrală lombară; iritație ușoară a rădăcinii nervoase stângi. Cervicalgie cronică posturală.\nObiective terapeutice:\nReducerea inflamației și a contracturii musculare paravertebrale lombare; deblocare articulară lombară; lucru pe zona cervicală; corectare posturală; exerciții de postură pentru activitatea la birou."
+}

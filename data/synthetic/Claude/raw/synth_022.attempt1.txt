@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă venim azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo trei săptămâni.\nSPEAKER_00: Și ce ați făcut, ați lovit, ați căzut, ați ridicat ceva?\nSPEAKER_01: Am tot carat niște cutii la muncă.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare vă doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau mai mult când ridicați mâna?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Doare și noaptea când stați culcat pe el?\nSPEAKER_01: Da, și noaptea.\nSPEAKER_00: Și pe braț se lasă durerea, amorțește ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Numai umărul.\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Alte probleme de sănătate, tensiune, diabet, ceva?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Luați ceva pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: Nu știu exact, 10, cred.\nSPEAKER_00: 10 miligrame?\nSPEAKER_01: Da.\nSPEAKER_00: De mult timp?\nSPEAKER_01: De vreo doi ani.\nSPEAKER_00: Altceva, diabet, operații?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere prin sânge?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la unguente, creme?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să ridic eu mâna asta în sus încet. Spuneți-mi unde apare durerea.\nSPEAKER_01: Acolo, pe la mijloc.\nSPEAKER_00: Pe la mijloc, deci undeva la 90 de grade?\nSPEAKER_01: Da, cam acolo.\nSPEAKER_00: Și mai sus de atât?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Acum apăs puțin aici, pe capul umărului. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă fac mișcarea asta de rotație internă, simțiți?\nSPEAKER_01: Da, doare.\nSPEAKER_00: Clar. Pare a fi o inflamație la nivelul tendoanelor coifului rotatorilor, cel mai probabil tendonul supraspinos. Asta înseamnă că tendoanele respective s-au suprasolicitat de la cărat. O să lucrăm să reducem inflamația și după să refacem mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Evitați deocamdată să ridicați greutăți cu mâna dreaptă.\nSPEAKER_01: Înțeles.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept, aparuta dupa efort fizic (carat cutii la munca), de aproximativ trei saptamani.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie tendoane coif rotatori, tendon supraspinos.\nObiective terapeutice: reducerea inflamatiei, refacerea mobilitatii umarului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Vreo trei săptămâni.",
+      "Am tot carat niște cutii la muncă."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Numai umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Enalapril.",
+      "Nu știu exact, 10, cred.",
+      "10 miligrame?"
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o inflamație la nivelul tendoanelor coifului rotatorilor, cel mai probabil tendonul supraspinos.",
+      "O să lucrăm să reducem inflamația și după să refacem mobilitatea umărului."
+    ]
+  }
+}

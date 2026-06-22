@@ -1,0 +1,6 @@
+conversation_id	transcript_path	note_path	conversation_path
+synth_001	data/synthetic/Claude/transcripts/synth_001.txt	data/synthetic/Claude/refs/synth_001.json	data/synthetic/Claude/conversations/synth_001.json
+synth_002	data/synthetic/Claude/transcripts/synth_002.txt	data/synthetic/Claude/refs/synth_002.json	data/synthetic/Claude/conversations/synth_002.json
+synth_003	data/synthetic/Claude/transcripts/synth_003.txt	data/synthetic/Claude/refs/synth_003.json	data/synthetic/Claude/conversations/synth_003.json
+synth_010	data/synthetic/Claude/transcripts/synth_010.txt	data/synthetic/Claude/refs/synth_010.json	data/synthetic/Claude/conversations/synth_010.json
+synth_011	data/synthetic/Claude/transcripts/synth_011.txt	data/synthetic/Claude/refs/synth_011.json	data/synthetic/Claude/conversations/synth_011.json

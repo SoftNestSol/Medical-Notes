@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_008",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, pe partea de jos, și nu mai știu ce să fac cu el",
+      "Vine și pleacă, adică nu e tot timpul",
+      "mai mult când stau mult jos, adică la birou. Stau cam mult la calculator",
+      "dimineața când mă scol, primele minute sunt... nu știu, e cam înțepenit tot, mă ții un pic",
+      "dacă stau mult aplecat, sau dacă ridic ceva mai greu",
+      "La gât... câteodată mă mai doare și gâtul, mai ales când stau mult la calculator"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "mă doare spatele, pe partea de jos",
+      "La gât... câteodată mă mai doare și gâtul"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori se duce și pe aici, pe fesă, mai mult pe stânga"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Iau pastile pentru asta."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "iau Prestarium. O pastilă pe zi dimineața",
+      "Uneori mai iau câte un Nurofen când mă doare spatele mai tare, dar nu mereu"
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară deviație a bazinului, mai jos pe stânga",
+      "Cam pe la jumătate se oprește flexia",
+      "La aproximativ 40-45 de grade avem o limitare și durere în zona lombară stânga. Test pozitiv.",
+      "Piriformul stâng e foarte contractat",
+      "avem o lombalgiei cu iritație pe zona piriformului stâng, posibil și o afectare discogenă la nivelul lombar inferior",
+      "O să fie nevoie să lucrăm pe reducerea inflamației, pe mobilizarea coloanei lombare și pe piriform. Recomand și un RMN lombar"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22899,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3578,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "Durere cervicală și ceafă instalată brusc acum trei săptămâni, cu limitare de mobilitate, iradiere spre umărul drept și dureri de cap occipitale. Amorțeli ocazionale deget mic și inelar mâna dreaptă. Agravare la munca la birou (calculator).",
+  "evaluarea_durerii_vas": [
+    4,
+    6
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "cap_ceafa",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400"
+    }
+  ],
+  "evaluare_functionala_initiala": "Postură anterioară a capului, umărul drept mai ridicat decât stângul. Limitare de mobilitate cervicală, mai accentuată pe rotația dreaptă. Obiectiv: reducerea tensiunii musculare cervicale și recăpătarea mobilității."
+}

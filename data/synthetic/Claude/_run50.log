@@ -1,0 +1,69 @@
+[setup] model=claude-sonnet-4-6
+[setup] output_root=/home/raduc/Documents/Code/Medical-Notes/data/synthetic/Claude
+[setup] seed pool (10): audio1, audio4, audio10, audio18, audio19, audio21, audio23, audio24, audio26, audio29
+[setup] block_size=10 subset_size=6
+[block 0] seeds: audio1, audio4, audio10, audio18, audio19, audio21
+[synth_001] invalid attempt=1: GenerationValidationError: synth_001 word count 297 outside 350-1300
+[synth_001] invalid attempt=2: GenerationValidationError: synth_001 evidence quote too short for motivul_prezentarii
+[synth_001] invalid attempt=3: GenerationValidationError: synth_001 evidence quote too short for localizarea_durerii
+[synth_002] saved attempt=1 input=270 output=1914 cache_read=22899
+[synth_003] invalid attempt=1: GenerationValidationError: synth_003 word count 295 outside 350-1300
+[synth_003] invalid attempt=2: GenerationValidationError: synth_003 word count 253 outside 350-1300
+[synth_003] saved attempt=3 input=270 output=1904 cache_read=22899
+[synth_004] invalid attempt=1: GenerationValidationError: synth_004 word count 295 outside 350-1300
+[synth_004] invalid attempt=2: GenerationValidationError: synth_004 evidence quote too short for evaluare_functionala_initiala
+[synth_004] invalid attempt=3: GenerationValidationError: synth_004 word count 275 outside 350-1300
+[synth_005] saved attempt=1 input=265 output=1994 cache_read=22899
+[synth_006] saved attempt=1 input=265 output=2225 cache_read=22899
+[synth_007] invalid attempt=1: JSONDecodeError: Expecting ',' delimiter: line 32 column 4 (char 8188)
+[synth_007] invalid attempt=2: JSONDecodeError: Expecting ',' delimiter: line 25 column 4 (char 8273)
+[synth_007] invalid attempt=3: GenerationValidationError: synth_007 medication dose not spoken: {'denumire': 'Omeprazol', 'doza': '20 mg'}
+[synth_008] invalid attempt=1: GenerationValidationError: synth_008 medication dose not spoken: {'denumire': 'Perindopril', 'doza': '5 mg'}
+[synth_008] saved attempt=2 input=278 output=3578 cache_read=22899
+[synth_009] saved attempt=1 input=278 output=3534 cache_read=22899
+[synth_010] invalid attempt=1: GenerationValidationError: synth_010 medication dose not spoken: {'denumire': 'Perindopril', 'doza': '5 mg'}
+[synth_010] invalid attempt=2: GenerationValidationError: synth_010 evidence quote not found for motivul_prezentarii: 'acum doi ani am mai avut un episod, dar a trecut singur în câteva zile'
+[synth_010] invalid attempt=3: GenerationValidationError: synth_010 medication dose not spoken: {'denumire': 'Ibuprofen', 'doza': 'un comprimat pe zi (oprit după două zile)'}
+[block 1] seeds: audio4, audio10, audio18, audio19, audio21, audio23
+[synth_011] saved attempt=1 input=270 output=2049 cache_read=0
+[synth_012] saved attempt=1 input=270 output=1975 cache_read=21883
+[synth_013] invalid attempt=1: GenerationValidationError: synth_013 medication dose not spoken: {'denumire': 'Ibuprofen', 'doza': '400 mg, o pastilă seara'}
+[synth_013] saved attempt=2 input=270 output=1877 cache_read=21883
+[synth_014] invalid attempt=1: GenerationValidationError: synth_014 word count 313 outside 350-1300
+[synth_014] invalid attempt=2: GenerationValidationError: synth_014 word count 288 outside 350-1300
+[synth_014] invalid attempt=3: GenerationValidationError: synth_014 word count 297 outside 350-1300
+[synth_015] invalid attempt=1: GenerationValidationError: synth_015 medication dose not spoken: {'denumire': 'Ibuprofen', 'doza': '400 mg'}
+[synth_015] invalid attempt=2: GenerationValidationError: synth_015 medication name not spoken: {'denumire': 'Voltaren spray', 'doza': None}
+[synth_015] invalid attempt=3: GenerationValidationError: synth_015 medication dose not spoken: {'denumire': 'Lozap', 'doza': '50 mg'}
+[synth_016] invalid attempt=1: GenerationValidationError: synth_016 medication dose not spoken: {'denumire': 'Prestarium', 'doza': '5 mg, o dată pe zi'}
+[synth_016] saved attempt=2 input=265 output=2181 cache_read=21883
+[synth_017] saved attempt=1 input=271 output=3889 cache_read=21883
+[synth_018] invalid attempt=1: GenerationValidationError: synth_018 evidence quote not found for localizarea_durerii_alta: 'Și pe fesă dreapta apăsând? Da, și aia, da.'
+[synth_018] saved attempt=2 input=278 output=3541 cache_read=21883
+[synth_019] invalid attempt=1: GenerationValidationError: synth_019 evidence quote not found for evaluare_functionala_initiala: 'Vă apăs puțin paravertebral lombar... Pe stânga mai pronunțat'
+[synth_019] invalid attempt=2: GenerationValidationError: synth_019 medication dose not spoken: {'denumire': 'Enalapril', 'doza': '10 mg dimineața'}
+[synth_019] invalid attempt=3: GenerationValidationError: synth_019 evidence quote not found for motivul_prezentarii: 'a început toată treaba asta de vreo câteva luni'
+[synth_020] invalid attempt=1: GenerationValidationError: synth_020 medication dose not spoken: {'denumire': 'Enalapril', 'doza': '10 mg dimineața'}
+[synth_020] invalid attempt=2: GenerationValidationError: synth_020 medication dose not spoken: {'denumire': 'Ibuprofen', 'doza': '400 mg'}
+[synth_020] saved attempt=3 input=276 output=3920 cache_read=21883
+[block 2] seeds: audio10, audio18, audio19, audio21, audio23, audio24
+[synth_021] invalid attempt=1: GenerationValidationError: synth_021 word count 308 outside 350-1300
+[synth_021] invalid attempt=2: GenerationValidationError: synth_021 word count 268 outside 350-1300
+[synth_021] invalid attempt=3: GenerationValidationError: synth_021 evidence quote too short for localizarea_durerii
+[synth_022] invalid attempt=1: GenerationValidationError: synth_022 word count 306 outside 350-1300
+[synth_022] invalid attempt=2: GenerationValidationError: synth_022 medication dose not spoken: {'denumire': 'Ibuprofen', 'doza': '400 mg de două ori pe zi'}
+[synth_022] invalid attempt=3: GenerationValidationError: synth_022 word count 314 outside 350-1300
+[synth_023] invalid attempt=1: GenerationValidationError: synth_023 word count 305 outside 350-1300
+[synth_023] invalid attempt=2: GenerationValidationError: synth_023 word count 302 outside 350-1300
+[synth_023] invalid attempt=3: GenerationValidationError: synth_023 word count 282 outside 350-1300
+[synth_024] invalid attempt=1: GenerationValidationError: synth_024 word count 313 outside 350-1300
+[synth_024] saved attempt=2 input=270 output=1885 cache_read=21155
+[synth_025] saved attempt=1 input=265 output=2170 cache_read=21155
+[synth_026] invalid attempt=1: GenerationValidationError: synth_026 evidence quote not found for localizarea_durerii: 'dureri de cap, câteodată, la ceafă'
+[synth_026] saved attempt=2 input=265 output=2199 cache_read=21155
+[synth_027] saved attempt=1 input=271 output=3409 cache_read=21155
+[synth_028] invalid attempt=1: GenerationValidationError: synth_028 medication dose not spoken: {'denumire': 'Perindopril', 'doza': '5 mg (nesigur)'}
+[synth_028] invalid attempt=2: GenerationValidationError: synth_028 evidence quote not found for localizarea_durerii: 'apăs acum pe zona lombară, spuneți-mi dacă doare. Da, acolo. Acolo doare.'
+[synth_028] saved attempt=3 input=278 output=3411 cache_read=21155
+[synth_029] invalid attempt=1: GenerationValidationError: synth_029 medication dose not spoken: {'denumire': 'Enalapril', 'doza': '10 mg, o dată pe zi'}
+[synth_029] invalid attempt=2: GenerationValidationError: synth_029 medication dose not spoken: {'denumire': 'Prestarium', 'doza': 'o pastilă dimineața'}

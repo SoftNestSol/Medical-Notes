@@ -1,0 +1,47 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ați venit.\nSPEAKER_01: Mă doare spatele, jos.\nSPEAKER_00: Zona lombară, deci. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Ceva anume s-a întâmplat? Ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare extrem de tare, cât e acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare și când stați jos sau mai mult când vă mișcați?\nSPEAKER_01: Când mă mișc. Când mă ridic din scaun.\nSPEAKER_00: Când vă aplecați în față?\nSPEAKER_01: Da.\nSPEAKER_00: Durerea se lasă și pe picior, pe fesă, pe vreuna din părți?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală pe picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Dimineața, când vă treziți, vă ține, vă simțiți blocat?\nSPEAKER_01: Un pic, da. Trece după ce mă mișc.\nSPEAKER_00: Trece, bine. Luați vreun medicament acum pentru durere?\nSPEAKER_01: Am luat un Nurofen, două zile.\nSPEAKER_00: Și acum mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți alte probleme de sănătate, tensiune, diabet, ceva cunoscut?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio operație, nicio fractură?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Stați puțin în picioare, cu spatele la mine. Așa.\nSPEAKER_00: Vă aplecați ușor înainte... doare?\nSPEAKER_01: Da, aici.\nSPEAKER_00: Și în lateral spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Spre dreapta?\nSPEAKER_01: La fel, mai puțin.\nSPEAKER_00: Apăs acum pe zona lombară. Spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo exact.\nSPEAKER_00: Și mai jos, pe sacru?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci avem o contractură musculară lombară, cel mai probabil declanșată de efortul din mutatul mobilei. Fără iradiere, fără semne de afectare a nervilor. Obiectivul nostru acum e să reducem inflamația musculară și să redăm mobilitatea.\nSPEAKER_01: Da, ok.\nSPEAKER_00: Haideți pe masă cu fața în jos.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută în urmă cu aproximativ două săptămâni după mutatul mobilei. Durere la mișcare (la ridicarea din scaun și la aplecarea în față), redoare matinală care cedează la mișcare. Fără iradiere pe membre inferioare, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\nContractură musculară lombară, fără iradiere, fără semne de afectare nervoasă.\nObiective terapeutice:\nReducerea inflamației musculare și redarea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele, jos.",
+      "Vreo două săptămâni.",
+      "Am mutat niște mobilă.",
+      "Când mă mișc. Când mă ridic din scaun.",
+      "Un pic, da. Trece după ce mă mișc.",
+      "Nu.",
+      "Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele, jos.",
+      "Da, acolo exact."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Nurofen, două zile."
+    ],
+    "evaluare_functionala_initiala": [
+      "Deci avem o contractură musculară lombară, cel mai probabil declanșată de efortul din mutatul mobilei. Fără iradiere, fără semne de afectare a nervilor. Obiectivul nostru acum e să reducem inflamația musculară și să redăm mobilitatea."
+    ]
+  }
+}

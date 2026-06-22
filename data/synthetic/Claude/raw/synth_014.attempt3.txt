@@ -1,0 +1,53 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, spuneți-mi și mie cu ce problemă veniți.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și ce ați făcut înainte să apară durerea? Ați ridicat ceva, ați mișcat ceva mai brusc?\nSPEAKER_01: Am vopsit, am stat cu mâna sus.\nSPEAKER_00: Deci lucru deasupra capului. Și doare tot timpul sau numai când ridicați mâna?\nSPEAKER_01: Când ridic.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât e?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare și în față, pe biceps, sau strict umărul?\nSPEAKER_01: Strict aici.\nSPEAKER_00: Arătați-mi unde exact.\nSPEAKER_01: Pe aici, sus.\nSPEAKER_00: Deci pe zona de deasupra, acromionul. Amorțește brațul?\nSPEAKER_01: Nu.\nSPEAKER_00: Noaptea vă trezește durerea?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Când dormiți pe umărul ăsta doare mai tare?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Ridicați brațul pentru mine, înainte, încet. Până unde puteți.\nSPEAKER_01: Până aici, mai sus doare.\nSPEAKER_00: Deci limitat undeva pe la 90 de grade. Duceți-l acum lateral.\nSPEAKER_01: La fel, cam tot aici.\nSPEAKER_00: Am înțeles. Stați puțin, vă apăs eu pe zona de rotatori. Doare?\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Și dacă faceți RotaȚie internă, mâna la spate, ajungeți?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Deci avem și rotația internă limitată. Bun. Alte afecțiuni, tensiune, diabet, osteoporoză, ceva de genul?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Luați medicamente pentru tensiune?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: Zilnic?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale la umăr sau fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci avem o inflamație la nivelul coifului rotatorilor, cel mai probabil tendoane afectate de la lucrul cu mâna ridicată. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea umărului drept.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept, aparuta dupa lucru cu mana ridicata (vopsit), de aproximativ doua saptamani. Durere la ridicarea bratului, limitarea mobilitatii active in flexie si abductie (~90 grade), rotatie interna limitata. Treziri nocturne la dormit pe umarul afectat.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie coif rotatori umar drept\nObiective terapeutice: reducerea inflamatiei, recastigarea mobilitatii umarului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Vreo două săptămâni.",
+      "Am vopsit, am stat cu mâna sus.",
+      "Când ridic.",
+      "Câteodată.",
+      "Da."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Strict aici.",
+      "Pe aici, sus."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Enalapril.",
+      "10 miligrame."
+    ],
+    "evaluare_functionala_initiala": [
+      "Deci avem o inflamație la nivelul coifului rotatorilor, cel mai probabil tendoane afectate de la lucrul cu mâna ridicată. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea umărului drept."
+    ]
+  }
+}

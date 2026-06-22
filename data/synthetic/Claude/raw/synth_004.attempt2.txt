@@ -1,0 +1,52 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți la noi.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de mijloc, de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar, deci. De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Am ridicat niște saci.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare extrem de tare, unde vă situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare constant toată ziua sau mai mult la mișcare?\nSPEAKER_01: La mișcare. Când mă aplec.\nSPEAKER_00: Când vă aplecați în față. Și când stați jos, în scaun?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Durerea se lasă pe fese sau pe picior?\nSPEAKER_01: Nu.\nSPEAKER_00: Rămâne doar în zona lombară?\nSPEAKER_01: Da.\nSPEAKER_00: Amorțit vreodată picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Dimineața când vă ridicați din pat, vă ține spatele?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Trece după ce vă mișcați?\nSPEAKER_01: Da, după câteva minute.\nSPEAKER_00: Ok. Alte zone care dor, genunchi, umeri, cervical?\nSPEAKER_01: Nu, numai spatele jos.\nSPEAKER_00: Înțeleg. Aveți tensiune, diabet, osteoporoză, altceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio problemă de sănătate?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum, antiinflamator, altceva?\nSPEAKER_01: Am luat un ibuprofen acum două zile.\nSPEAKER_00: Un singur ibuprofen sau mai multe?\nSPEAKER_01: Două pastile, atât.\nSPEAKER_00: Ok. Acum nu mai luați nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Haideți să vă uit puțin. Stați în picioare cu spatele la mine.\nSPEAKER_01: Bun.\nSPEAKER_00: Aplecați-vă ușor în față. Doare?\nSPEAKER_01: Da, aici.\nSPEAKER_00: Deci la flexie lombară, durere prezentă. Stați drept. Apăs ușor pe paravertebral, spuneți-mi dacă simțiți ceva.\nSPEAKER_01: Da, doare.\nSPEAKER_00: Mai mult pe dreapta sau pe stânga?\nSPEAKER_01: Pe stânga parcă.\nSPEAKER_00: Pe stânga. Bun. Haideți pe masă cu fața în sus.\nSPEAKER_01: Ok.\nSPEAKER_00: Ridic piciorul drept, spuneți dacă doare.\nSPEAKER_01: Nu.\nSPEAKER_00: Piciorul stâng.\nSPEAKER_01: Nu.\nSPEAKER_00: Bun, deci Lasègue negativ bilateral. Pare o contractură musculară paravertebrală lombară după efort. Fără iradiere, fără afectare radiculară.\nSPEAKER_01: Ok.\nSPEAKER_00: O să lucrăm să reducem contractura și inflamația musculară, să recuperăm mobilitatea lombară. Aveți o meserie fizică?\nSPEAKER_01: Da, lucrez în depozit.\nSPEAKER_00: Atunci o să vă dau și câteva indicații cum să ridicați corect, ca să nu se mai repete.\nSPEAKER_01: Bine.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă apărută în urmă cu două săptămâni după ridicare de saci. Durere la flexie lombară și în șezut, fără iradiere pe membrele inferioare, fără amorțeli. Redoare matinală care cedează după câteva minute.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nDurere la flexia lombară activă. Contractură paravertebrală lombară la palpare, mai accentuată pe stânga. Test Lasègue negativ bilateral.\nDiagnostic:\nContractură musculară paravertebrală lombară post-efort, fără iradiere radiculară.\nObiective terapeutice:\nReducerea contracturii și inflamației musculare; recuperarea mobilității lombare; educație privind tehnica de ridicare a greutăților."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "Am ridicat niște saci.",
+      "Vreo două săptămâni.",
+      "La mișcare. Când mă aplec.",
+      "Da, și atunci.",
+      "Da, un pic.",
+      "Da, după câteva minute.",
+      "Nu, numai spatele jos."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "Nu, numai spatele jos."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Aplecați-vă ușor în față. Doare?",
+      "Da, aici.",
+      "deci la flexie lombară, durere prezentă",
+      "Pe stânga parcă.",
+      "Ridic piciorul drept, spuneți dacă doare.",
+      "Nu.",
+      "Piciorul stâng.",
+      "Nu.",
+      "Bun, deci Lasègue negativ bilateral. Pare o contractură musculară paravertebrală lombară după efort. Fără iradiere, fără afectare radiculară.",
+      "O să lucrăm să reducem contractura și inflamația musculară, să recuperăm mobilitatea lombară."
+    ]
+  }
+}

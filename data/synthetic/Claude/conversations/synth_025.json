@@ -1,0 +1,211 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 8.52,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua. Scuzați că am întârziat puțin, am avut trafic îngrozitor, știți cum e pe la ora asta."
+    },
+    {
+      "start": 8.64,
+      "end": 12.44,
+      "speaker": "SPEAKER_00",
+      "text": "Nu-i nicio problemă. Cu ce problemă veniți la noi?"
+    },
+    {
+      "start": 12.56,
+      "end": 29.28,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare gâtul, de vreo două săptămâni, și nu știu, mi-e și un pic teamă sincer, că am citit pe internet tot felul de lucruri și m-am speriat, știți cum e, internetul nu e tocmai prietenul omului în astfel de situații."
+    },
+    {
+      "start": 29.4,
+      "end": 34.34,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Deci zona cervicală. Doare și undeva în jos, pe umăr, pe braț?"
+    },
+    {
+      "start": 34.46,
+      "end": 59.16,
+      "speaker": "SPEAKER_01",
+      "text": "Da, pe umărul drept, mai ales. Și câteodată simt ceva așa, un pic pe braț, dar nu știu dacă e de la gât sau de la umăr, nu mă pricep eu la chestiile astea. M-a trimis un coleg de-al meu, zice că el a venit la dumneavoastră și l-ați rezolvat cu spatele, și i-am zis bine, hai că merg și eu."
+    },
+    {
+      "start": 59.28,
+      "end": 67.64,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât ați pune?"
+    },
+    {
+      "start": 67.76,
+      "end": 86.38,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... un 5, aș zice. Nu e că leșin de durere, dar mă deranjează tare, mai ales dimineața când mă trezesc, am gâtul ca de lemn, nu pot să mă întorc bine. Și la serviciu stau mult la calculator, știți, și după câteva ore parcă se strânge tot acolo."
+    },
+    {
+      "start": 86.5,
+      "end": 90.3,
+      "speaker": "SPEAKER_00",
+      "text": "Dimineața e mai rău, apoi mai trece pe parcursul zilei?"
+    },
+    {
+      "start": 90.42,
+      "end": 108.66,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact, după ce mă mișc un pic trece, dar dacă stau la birou câteva ore revine. Mi-e teamă că am ceva mai grav, că mama mea a avut hernie de disc la gât și a suferit îngrozitor, și eu mă gândesc că poate am și eu."
+    },
+    {
+      "start": 108.78,
+      "end": 109.92,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Mâna amorțește?"
+    },
+    {
+      "start": 110.04,
+      "end": 116.5,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, amorțeli nu am. Sau poate câteodată, dimineața, dar asta cred că dorm strâmb. Nu știu sigur."
+    },
+    {
+      "start": 116.62,
+      "end": 118.9,
+      "speaker": "SPEAKER_00",
+      "text": "Alte afecțiuni, tensiune, diabet, osteoporoză, epilepsie?"
+    },
+    {
+      "start": 119.02,
+      "end": 127.0,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Iau pastile pentru asta de vreo trei ani. În rest nu, nu am altceva, cel puțin nu știu."
+    },
+    {
+      "start": 127.12,
+      "end": 129.02,
+      "speaker": "SPEAKER_00",
+      "text": "Ce pastile luați pentru tensiune?"
+    },
+    {
+      "start": 129.14,
+      "end": 137.12,
+      "speaker": "SPEAKER_01",
+      "text": "Iau Amlodipină, 5 miligrame, în fiecare dimineață. Îmi zice doctorul să nu uit, și chiar nu uit, că altfel simt imediat."
+    },
+    {
+      "start": 137.24,
+      "end": 138.76,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Intervenții chirurgicale, fracturi?"
+    },
+    {
+      "start": 138.88,
+      "end": 150.66,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Sănătos tun în rest, dacă nu pun la socoteală tensiunea. Ah, și mai am și niște dureri de cap câteodată, dar poate e tot de la gât, nu știu."
+    },
+    {
+      "start": 150.78,
+      "end": 157.24,
+      "speaker": "SPEAKER_00",
+      "text": "Da, pot fi legate. Haideți să vă uit puțin. Stați drept, cu spatele la mine. Relaxați umerii."
+    },
+    {
+      "start": 157.36,
+      "end": 158.16,
+      "speaker": "SPEAKER_01",
+      "text": "Îhâm."
+    },
+    {
+      "start": 158.28,
+      "end": 160.56,
+      "speaker": "SPEAKER_00",
+      "text": "Întoarceți capul spre dreapta, ușor. Doare?"
+    },
+    {
+      "start": 160.68,
+      "end": 164.1,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo se simte, pe partea dreaptă a gâtului."
+    },
+    {
+      "start": 164.22,
+      "end": 165.36,
+      "speaker": "SPEAKER_00",
+      "text": "Și spre stânga?"
+    },
+    {
+      "start": 165.48,
+      "end": 168.14,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, dar e și acolo ceva."
+    },
+    {
+      "start": 168.26,
+      "end": 170.92,
+      "speaker": "SPEAKER_00",
+      "text": "Aplecați capul în față, bărbia spre piept."
+    },
+    {
+      "start": 171.04,
+      "end": 174.08,
+      "speaker": "SPEAKER_01",
+      "text": "Și asta doare, da, pe spate la gât."
+    },
+    {
+      "start": 174.2,
+      "end": 178.0,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Vă apăs un pic paravertebral, spuneți-mi dacă doare."
+    },
+    {
+      "start": 178.12,
+      "end": 180.78,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, da, acolo, pe dreapta, exact acolo."
+    },
+    {
+      "start": 180.9,
+      "end": 184.32,
+      "speaker": "SPEAKER_00",
+      "text": "Și umărul drept, când ridicați brațul în față, doare?"
+    },
+    {
+      "start": 184.44,
+      "end": 187.48,
+      "speaker": "SPEAKER_01",
+      "text": "Da, undeva la jumătate, când ridic cam așa."
+    },
+    {
+      "start": 187.6,
+      "end": 202.42,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Deci avem o contractură musculară cervicală, mai accentuată pe dreapta, cu iradiere spre umărul drept. Pare a fi și o problemă de mobilitate redusă la nivel cervical. O să lucrăm să reducem tensiunea musculară și să refacem mobilitatea."
+    },
+    {
+      "start": 202.54,
+      "end": 207.1,
+      "speaker": "SPEAKER_01",
+      "text": "Și credeți că e ceva grav? Adică nu e hernie sau ceva?"
+    },
+    {
+      "start": 207.22,
+      "end": 216.34,
+      "speaker": "SPEAKER_00",
+      "text": "Din ce văd acum, nu avem semne care să indice o hernie, dar fără un RMN nu pot spune sigur. Deocamdată tratăm ce avem."
+    },
+    {
+      "start": 216.46,
+      "end": 222.92,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, ok, bine. Că m-am tot gândit și nu am dormit bine azi noapte de griji."
+    }
+  ]
+}

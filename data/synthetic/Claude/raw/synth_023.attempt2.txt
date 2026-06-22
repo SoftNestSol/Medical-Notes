@@ -1,0 +1,34 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau numai când mișcați?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Și când ridicați mâna deasupra capului doare?\nSPEAKER_01: Da.\nSPEAKER_00: Noaptea vă trezește durerea?\nSPEAKER_01: Uneori.\nSPEAKER_00: Când stați pe umărul drept?\nSPEAKER_01: Da, cam așa.\nSPEAKER_00: Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Durerea se lasă pe braț în jos?\nSPEAKER_01: Nu, stă doar acolo.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Luați ceva pentru tensiune?\nSPEAKER_01: Da, Prestarium.\nSPEAKER_00: Ce doză?\nSPEAKER_01: Nu știu exact... 5 miligrame cred.\nSPEAKER_00: Bun. Altceva nu luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere cutanată?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Ridicați mâna dreaptă în față, încet. Până unde puteți fără să doară?\nSPEAKER_01: Până cam pe aici.\nSPEAKER_00: Cam la 90 de grade. Și acum lateral, ridicați lateral.\nSPEAKER_01: Doare mai tare pe lateral.\nSPEAKER_00: Înțeles. Stați puțin, vă apăs aici pe tendonul supraspinatus. Doare?\nSPEAKER_01: Da, acolo e.\nSPEAKER_00: Deci avem o inflamație la nivelul tendoanelor rotatorilor, cel mai probabil tendinită de supraspinatus. O să lucrăm să reducem inflamația și să refacem mobilitatea umărului. Durerea la ridicarea brațului lateral și limitarea la 90 de grade ne arată că e afectat în special abductorul. Câteva ședințe și ar trebui să se îmbunătățească.\nSPEAKER_01: Ok.\nSPEAKER_00: Alergii la unguente, creme?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun, haideți să începem.",
+
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa mutarea mobilei, de aproximativ doua saptamani.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Prestarium",
+        "doza": "5 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita supraspinatus dr.\nObiective terapeutice: reducerea inflamatiei; refacerea mobilitatii umarului."
+  },
+
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Am mutat niște mobilă.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Prestarium.", "5 miligrame cred."],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendoanelor rotatorilor, cel mai probabil tendinită de supraspinatus", "O să lucrăm să reducem inflamația și să refacem mobilitatea umărului.", "Durerea la ridicarea brațului lateral și limitarea la 90 de grade ne arată că e afectat în special abductorul."]
+  }
+}

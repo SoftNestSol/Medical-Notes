@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_028",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, de mai multă vreme",
+      "Vine și trece, și iar vine",
+      "Când stau jos mult timp și pe urmă mă ridic, atunci e mai rău",
+      "dimineața uneori, când mă trezesc, mai țin puțin",
+      "Și acolo câteodată, da. Mai ales când stau mult la calculator"
+    ],
+    "evaluarea_durerii_vas": [
+      "Da, cam așa, 5, 5 și ceva, nu știu exact"
+    ],
+    "localizarea_durerii": [
+      "mai mult acolo",
+      "Cam pe acolo, da. Uneori. Nu tot timpul.",
+      "Și acolo câteodată, da. Mai ales când stau mult la calculator."
+    ],
+    "localizarea_durerii_alta": [
+      "simt ceva pe partea asta, pe stânga, pe fesă"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Iau pastile pentru ea."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Perindopril. Iau dimineața.",
+      "Uneori iau un ibuprofen când mă doare mai rău, dar nu regulat."
+    ],
+    "evaluare_functionala_initiala": [
+      "Vedem o ușoară aplecare înainte, umerii căzuți.",
+      "Musculatura paravertebrală e tensionată bilateral, mai accentuată pe stânga. Și fesierul stâng e și el contractat.",
+      "ce avem este o tensionare musculară în zona lombară și toracală, posibil și o iritație la nivel de L4-L5",
+      "Obiectivul nostru acum este să reducem această tensiune musculară, să îmbunătățim mobilitatea coloanei și să lucrăm și postura"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21155,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3411,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "motivul_prezentarii": "Durere cervicală și ceafă apărută după stat prelungit la calculator, de aproximativ două săptămâni. Durere la rotația capului spre dreapta, cu iradiere ocipitală. Asociază durere la nivelul umărului stâng (zona trapez).",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "cervical",
+    "cap_ceafa",
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contractură musculară cervicală, mai ales pe dreapta, cu iradiere spre ceafă și occiput.\nObiective terapeutice: reducerea contracturii și recuperarea mobilității gâtului."
+}

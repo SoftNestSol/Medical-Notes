@@ -1,0 +1,223 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, doamnă."
+    },
+    {
+      "start": 1.26,
+      "end": 15.7,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua. Îmi pare bine că am găsit, că am căutat destul pe internet, știți cum e, nu știi la cine să mergi, am citit tot felul de lucruri și m-am speriat un pic, sincer."
+    },
+    {
+      "start": 15.82,
+      "end": 18.86,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Spuneți-mi ce vă aduce la noi."
+    },
+    {
+      "start": 18.98,
+      "end": 31.52,
+      "speaker": "SPEAKER_01",
+      "text": "Deci mă doare gâtul, ceafa, de vreo trei săptămâni. A început brusc, dimineața m-am trezit și nu mai puteam să întorc capul deloc. Am crezut că trece singur, dar nu a trecut."
+    },
+    {
+      "start": 31.64,
+      "end": 33.16,
+      "speaker": "SPEAKER_00",
+      "text": "Și acum cum e?"
+    },
+    {
+      "start": 33.28,
+      "end": 48.48,
+      "speaker": "SPEAKER_01",
+      "text": "E mai bine decât la început, dar tot mă doare, mai ales când stau la birou. Lucrez mult la calculator, câte opt ore, uneori și mai mult, și simt că mă strânge tot pe aici, pe ceafă și pe umăr."
+    },
+    {
+      "start": 48.6,
+      "end": 49.74,
+      "speaker": "SPEAKER_00",
+      "text": "Pe care umăr?"
+    },
+    {
+      "start": 49.86,
+      "end": 52.52,
+      "speaker": "SPEAKER_01",
+      "text": "Pe dreptul, mai mult. Stângul nu prea."
+    },
+    {
+      "start": 52.64,
+      "end": 57.96,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Pe o scară de la 0 la 10, cât de tare doare acum?"
+    },
+    {
+      "start": 58.08,
+      "end": 66.82,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, în momentul ăsta, poate un 4. Dar dimineața când mă trezesc e mai rău, vreo 6-7, până mă mișc un pic."
+    },
+    {
+      "start": 66.94,
+      "end": 68.46,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțește mâna dreaptă, degetele?"
+    },
+    {
+      "start": 68.58,
+      "end": 78.08,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori, da. Mai ales degetul mic și inelarul, când stau mult cu cotul îndoit, că am obiceiul să stau așa la birou. Dar nu mereu."
+    },
+    {
+      "start": 78.2,
+      "end": 79.34,
+      "speaker": "SPEAKER_00",
+      "text": "Dureri de cap?"
+    },
+    {
+      "start": 79.46,
+      "end": 96.94,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și asta am vrut să vă spun, că am citit că poate fi ceva grav, că poate fi de la coloană sau nu știu, am citit că poate da și spre cap și m-am speriat. Am dureri de cap în ceafă, mai mult seara."
+    },
+    {
+      "start": 97.06,
+      "end": 98.58,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Tensiune arterială aveți?"
+    },
+    {
+      "start": 98.7,
+      "end": 107.06,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu exact, nu mi-am măsurat recent. Dar mama are tensiune și m-am gândit că poate și eu... Nu știu."
+    },
+    {
+      "start": 107.18,
+      "end": 110.6,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Alte afecțiuni, diabet, probleme la coloană diagnosticate anterior?"
+    },
+    {
+      "start": 110.72,
+      "end": 122.12,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic diagnosticat. Adică am mai avut dureri de spate în spate, de lombar, acum câțiva ani, dar mi-a trecut singur. Acum nu mă mai doare acolo."
+    },
+    {
+      "start": 122.24,
+      "end": 124.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Luați vreun medicament acum?"
+    },
+    {
+      "start": 124.26,
+      "end": 135.28,
+      "speaker": "SPEAKER_01",
+      "text": "Da, iau Ibuprofen când nu mai suport, 400, dar nu în fiecare zi. Și am luat niște zile Mydocalm, că mi-a recomandat o prietenă, dar nu mai iau."
+    },
+    {
+      "start": 135.4,
+      "end": 138.44,
+      "speaker": "SPEAKER_00",
+      "text": "De câte ori pe săptămână luați Ibuprofenul, aproximativ?"
+    },
+    {
+      "start": 138.56,
+      "end": 141.6,
+      "speaker": "SPEAKER_01",
+      "text": "Poate de două, trei ori pe săptămână. Depinde."
+    },
+    {
+      "start": 141.72,
+      "end": 144.38,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Stați puțin cu spatele la mine."
+    },
+    {
+      "start": 144.5,
+      "end": 158.18,
+      "speaker": "SPEAKER_01",
+      "text": "Uite, și am mai avut un episod acum doi ani când mă durea umărul drept și mi-a zis un doctor că e de la postură, că stau strâmb. Deci poate e tot de la asta."
+    },
+    {
+      "start": 158.3,
+      "end": 160.2,
+      "speaker": "SPEAKER_00",
+      "text": "Posibil. Stați relaxată, umerii căzuți."
+    },
+    {
+      "start": 160.32,
+      "end": 161.12,
+      "speaker": "SPEAKER_01",
+      "text": "Stau, stau."
+    },
+    {
+      "start": 161.24,
+      "end": 169.22,
+      "speaker": "SPEAKER_00",
+      "text": "Văd că aveți capul dus un pic în față și umărul drept mai ridicat decât stângul. Întoarceți capul spre dreapta, încet."
+    },
+    {
+      "start": 169.34,
+      "end": 170.86,
+      "speaker": "SPEAKER_01",
+      "text": "Au, până aici pot."
+    },
+    {
+      "start": 170.98,
+      "end": 172.12,
+      "speaker": "SPEAKER_00",
+      "text": "Doare când întoarceți?"
+    },
+    {
+      "start": 172.24,
+      "end": 174.9,
+      "speaker": "SPEAKER_01",
+      "text": "Da, trage pe partea asta, pe dreapta."
+    },
+    {
+      "start": 175.02,
+      "end": 175.82,
+      "speaker": "SPEAKER_00",
+      "text": "Spre stânga?"
+    },
+    {
+      "start": 175.94,
+      "end": 178.22,
+      "speaker": "SPEAKER_01",
+      "text": "Mai bine, dar tot simt ceva."
+    },
+    {
+      "start": 178.34,
+      "end": 191.64,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Deci avem o limitare de mobilitate cervicală, mai accentuată pe rotația dreaptă, cu postură anterioară a capului și umărul drept tensionat. O să lucrăm să reducem tensiunea musculară de aici și să recăpătăm mobilitatea."
+    },
+    {
+      "start": 191.76,
+      "end": 194.42,
+      "speaker": "SPEAKER_01",
+      "text": "Și cu amorțeala, poate fi ceva grav?"
+    },
+    {
+      "start": 194.54,
+      "end": 200.24,
+      "speaker": "SPEAKER_00",
+      "text": "Vom lucra și vedem cum evoluează. Dacă persistă, vă recomand să faceți o investigație suplimentară."
+    },
+    {
+      "start": 200.36,
+      "end": 201.88,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, da, am înțeles."
+    }
+  ]
+}

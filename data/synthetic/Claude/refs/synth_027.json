@@ -1,0 +1,32 @@
+{
+  "motivul_prezentarii": "Durere cervicală și ceafă cu iradiere în umărul stâng și uneori pe braț stâng până la cot, asociată cu dureri de cap occipitale. Debut de aproximativ 3 luni, agravat progresiv. Pacientă lucrează la birou, sedentarism postural.",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_stg",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": "braț stâng cu amorțeală până la cot",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "operație menisc genunchi drept (7 ani în urmă)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "5 miligrame pe zi"
+    },
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    },
+    {
+      "denumire": "Voltaren",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- contractură musculară semnificativă zona cervicală și trapez stânga;\n- mobilitate limitată pe rotație cervicală stânga;\n- cefalee de origine cervicală probabilă.\nObiective terapeutice:\n- reducerea contracturii musculare;\n- refacerea mobilității cervicale;\nRecomandare: RMN cervical pentru excluderea patologiei discale."
+}

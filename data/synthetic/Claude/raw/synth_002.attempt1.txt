@@ -1,0 +1,55 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă vă confruntați.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, lombară, sau mai sus?\nSPEAKER_01: Jos.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, ați ridicat ceva greu, ați făcut o mișcare bruscă?\nSPEAKER_01: Am ridicat niște saci.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Durerea se lasă și pe picior, pe fese, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Strict în zona lombară.\nSPEAKER_01: Da.\nSPEAKER_00: Doare mai tare dimineața când vă treziți sau pe parcursul zilei?\nSPEAKER_01: Dimineața mai rău.\nSPEAKER_00: După ce vă mișcați un pic cedează?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Luați ceva medicamente pentru durere?\nSPEAKER_01: Nu.\nSPEAKER_00: Nimic, nici un antiinflamator?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune arterială, diabet, probleme la inimă?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune mare?\nSPEAKER_01: Da.\nSPEAKER_00: Luați tratament pentru ea?\nSPEAKER_01: Da, iau pastile.\nSPEAKER_00: Știți cum se numesc?\nSPEAKER_01: Amlodipină.\nSPEAKER_00: Amlodipină. Știți ce doză?\nSPEAKER_01: Nu știu exact.\nSPEAKER_00: Ok, altceva în afară de tensiune?\nSPEAKER_01: Nu.\nSPEAKER_00: Hernie de disc diagnosticată vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă văd puțin. Întoarceți-vă cu spatele la mine. Stați relaxat, picioarele ușor depărtate. Bun. Văd o ușoară tensionare a musculaturii paravertebrale pe dreapta. Aplecați-vă ușor în față, cât puteți.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare?\nSPEAKER_01: Da, se trage.\nSPEAKER_00: Se trage în zona lombară, nu coboară pe picior.\nSPEAKER_01: Nu, rămâne acolo.\nSPEAKER_00: Bun. Apăs puțin pe paravertebral, spuneți-mi dacă doare. Aici?\nSPEAKER_01: Da.\nSPEAKER_00: Și aici?\nSPEAKER_01: Da, mai tare.\nSPEAKER_00: Mai tare pe dreapta. Ok. Deci avem o contractură musculară lombară, fără iradiere, apărută după efort de ridicare. Obiectivul nostru e să relaxăm musculatura, să reducem inflamația și să recuperăm mobilitatea lombară.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, cu fața în jos.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă apărută în urmă cu aproximativ două săptămâni după ridicarea unor saci grei. Durere mai intensă dimineața, cedează parțial după mișcare. Fără iradiere pe membrul inferior.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Amlodipină",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară tensionare a musculaturii paravertebrale pe dreapta. Limitarea flexiei anterioare a trunchiului cu durere locală lombară la mobilizare activă, fără iradiere distală. Durere la palpare paravertebrală bilateral, mai accentuată pe dreapta.\nDiagnostic:\nContractură musculară lombară fără iradiere, apărută după efort de ridicare de greutăți.\nObiective terapeutice:\nRelaxarea musculaturii contracturate, reducerea inflamației, recuperarea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "Vreo două săptămâni.",
+      "Am ridicat niște saci.",
+      "Dimineața mai rău.",
+      "Nu, rămâne acolo."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Strict în zona lombară."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am.",
+      "Tensiune mare?"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Amlodipină."
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară tensionare a musculaturii paravertebrale pe dreapta.",
+      "Se trage în zona lombară, nu coboară pe picior.",
+      "Mai tare pe dreapta.",
+      "Deci avem o contractură musculară lombară, fără iradiere, apărută după efort de ridicare.",
+      "Obiectivul nostru e să relaxăm musculatura, să reducem inflamația și să recuperăm mobilitatea lombară."
+    ]
+  }
+}

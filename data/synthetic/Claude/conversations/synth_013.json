@@ -1,0 +1,337 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 5.64,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne vedem azi."
+    },
+    {
+      "start": 5.76,
+      "end": 6.9,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare gâtul."
+    },
+    {
+      "start": 7.02,
+      "end": 8.16,
+      "speaker": "SPEAKER_00",
+      "text": "Gâtul. De când?"
+    },
+    {
+      "start": 8.28,
+      "end": 9.8,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo două săptămâni."
+    },
+    {
+      "start": 9.92,
+      "end": 14.1,
+      "speaker": "SPEAKER_00",
+      "text": "Două săptămâni. Și a apărut din senin sau după ceva anume?"
+    },
+    {
+      "start": 14.22,
+      "end": 17.26,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... după ce am stat mult la calculator."
+    },
+    {
+      "start": 17.38,
+      "end": 20.04,
+      "speaker": "SPEAKER_00",
+      "text": "La calculator, deci mult timp la birou."
+    },
+    {
+      "start": 20.16,
+      "end": 20.96,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 21.08,
+      "end": 23.74,
+      "speaker": "SPEAKER_00",
+      "text": "Doare doar gâtul sau și capul, ceafa?"
+    },
+    {
+      "start": 23.86,
+      "end": 26.52,
+      "speaker": "SPEAKER_01",
+      "text": "Și ceafa. Și un pic capul uneori."
+    },
+    {
+      "start": 26.64,
+      "end": 29.68,
+      "speaker": "SPEAKER_00",
+      "text": "Capul doare mai mult în față, în spate?"
+    },
+    {
+      "start": 29.8,
+      "end": 30.94,
+      "speaker": "SPEAKER_01",
+      "text": "În spate, sus."
+    },
+    {
+      "start": 31.06,
+      "end": 39.42,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât e durerea acum?"
+    },
+    {
+      "start": 39.54,
+      "end": 40.34,
+      "speaker": "SPEAKER_01",
+      "text": "Un 5."
+    },
+    {
+      "start": 40.46,
+      "end": 44.64,
+      "speaker": "SPEAKER_00",
+      "text": "5. Doare mai tare când stați la calculator sau și altfel?"
+    },
+    {
+      "start": 44.76,
+      "end": 46.28,
+      "speaker": "SPEAKER_01",
+      "text": "Și când întorc capul."
+    },
+    {
+      "start": 46.4,
+      "end": 49.82,
+      "speaker": "SPEAKER_00",
+      "text": "Când rotiți capul. În ce parte doare mai tare?"
+    },
+    {
+      "start": 49.94,
+      "end": 50.74,
+      "speaker": "SPEAKER_01",
+      "text": "Pe dreapta."
+    },
+    {
+      "start": 50.86,
+      "end": 53.52,
+      "speaker": "SPEAKER_00",
+      "text": "Pe dreapta. Amorțește vreun pic brațul, mâna?"
+    },
+    {
+      "start": 53.64,
+      "end": 54.44,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 54.56,
+      "end": 55.7,
+      "speaker": "SPEAKER_00",
+      "text": "Sigur, nicio amorțeală?"
+    },
+    {
+      "start": 55.82,
+      "end": 56.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu."
+    },
+    {
+      "start": 56.74,
+      "end": 57.54,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Amețeli?"
+    },
+    {
+      "start": 57.66,
+      "end": 58.46,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 58.58,
+      "end": 61.24,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Alte zone mai dor, umeri, spate?"
+    },
+    {
+      "start": 61.36,
+      "end": 62.88,
+      "speaker": "SPEAKER_01",
+      "text": "Umărul stâng un pic."
+    },
+    {
+      "start": 63.0,
+      "end": 67.56,
+      "speaker": "SPEAKER_00",
+      "text": "Umărul stâng. Doare tot umărul sau mai mult sus, la baza gâtului?"
+    },
+    {
+      "start": 67.68,
+      "end": 68.82,
+      "speaker": "SPEAKER_01",
+      "text": "Mai sus, da."
+    },
+    {
+      "start": 68.94,
+      "end": 70.46,
+      "speaker": "SPEAKER_00",
+      "text": "Deci mai spre trapez."
+    },
+    {
+      "start": 70.58,
+      "end": 72.1,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cred că da."
+    },
+    {
+      "start": 72.22,
+      "end": 75.26,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Ați mai avut probleme cu gâtul înainte?"
+    },
+    {
+      "start": 75.38,
+      "end": 77.66,
+      "speaker": "SPEAKER_01",
+      "text": "Mai demult, da, dar a trecut."
+    },
+    {
+      "start": 77.78,
+      "end": 79.68,
+      "speaker": "SPEAKER_00",
+      "text": "A trecut de la sine?"
+    },
+    {
+      "start": 79.8,
+      "end": 80.6,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 80.72,
+      "end": 83.38,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Afecțiuni mai aveți, tensiune, diabet, ceva?"
+    },
+    {
+      "start": 83.5,
+      "end": 84.3,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 84.42,
+      "end": 85.56,
+      "speaker": "SPEAKER_00",
+      "text": "Niciuna. Operații, fracturi?"
+    },
+    {
+      "start": 85.68,
+      "end": 86.48,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 86.6,
+      "end": 89.26,
+      "speaker": "SPEAKER_00",
+      "text": "Medicamente luați ceva în momentul de față?"
+    },
+    {
+      "start": 89.38,
+      "end": 92.04,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat un ibuprofen acum două zile."
+    },
+    {
+      "start": 92.16,
+      "end": 94.44,
+      "speaker": "SPEAKER_00",
+      "text": "Doar atunci, nu în mod regulat?"
+    },
+    {
+      "start": 94.56,
+      "end": 95.7,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, doar atunci."
+    },
+    {
+      "start": 95.82,
+      "end": 100.38,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Stați puțin cu fața la mine. Întoarceți capul spre dreapta încet."
+    },
+    {
+      "start": 100.5,
+      "end": 101.3,
+      "speaker": "SPEAKER_01",
+      "text": "Au."
+    },
+    {
+      "start": 101.42,
+      "end": 102.22,
+      "speaker": "SPEAKER_00",
+      "text": "Doare."
+    },
+    {
+      "start": 102.34,
+      "end": 103.14,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 103.26,
+      "end": 104.4,
+      "speaker": "SPEAKER_00",
+      "text": "Și spre stânga."
+    },
+    {
+      "start": 104.52,
+      "end": 105.32,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 105.44,
+      "end": 108.86,
+      "speaker": "SPEAKER_00",
+      "text": "Mai puțin pe stânga, bun. Lăsați capul pe spate."
+    },
+    {
+      "start": 108.98,
+      "end": 110.12,
+      "speaker": "SPEAKER_01",
+      "text": "Doare un pic."
+    },
+    {
+      "start": 110.24,
+      "end": 113.66,
+      "speaker": "SPEAKER_00",
+      "text": "Apăs puțin aici, pe cervical, spuneți-mi unde simțiți."
+    },
+    {
+      "start": 113.78,
+      "end": 115.3,
+      "speaker": "SPEAKER_01",
+      "text": "Acolo, da, acolo doare."
+    },
+    {
+      "start": 115.42,
+      "end": 128.72,
+      "speaker": "SPEAKER_00",
+      "text": "C4-C5, blocaj muscular, se simte clar. Deci avem o contractură musculară cervicală, mai ales pe dreapta, cu iradiere spre ceafă și occiput. Obiectivul nostru e să reducem contractura asta și să recuperăm mobilitatea gâtului."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "conversation_id": "synth_006",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, adică nu știu exact cum să zic, mai jos, zona de mijloc, jos",
+      "am stat la birou toată ziua pentru un proiect, am stat vreo trei zile aproape fără să mă ridic, și după aia m-am trezit dimineața și nu mai puteam să mă ridic din pat normal",
+      "de vreo două săptămâni",
+      "Nu, nu, rămâne acolo. Cel puțin până acum nu am simțit că merge pe picior.",
+      "dimineața când mă scol am vreo zece minute în care mă mișc greu, de parcă trebuie să mă încălzesc",
+      "uneori mă doare și gâtul, dar aia e de la calculator"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum în momentul ăsta? Cam un 5. Dar dimineața când mă scol e mai rău, poate 7."
+    ],
+    "localizarea_durerii": [
+      "mai jos, zona de mijloc, jos",
+      "uneori mă doare și gâtul"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am, da. Am hipertensiune, iau Enalapril de vreo doi ani."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am hipertensiune, iau Enalapril de vreo doi ani. 10 miligrame pe zi."
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară paravertebrală lombară, cu limitare la flexia laterală dreaptă. Pare o lombalgie mecanică, fără semne de iradiere. Obiectivul nostru e să reducem contractura și să mobilizăm zona, și să vă dăm și niște exerciții ca să nu recidiveze.",
+      "Rămânem cu diagnosticul de lombalgie mecanică."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22899,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 2225,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

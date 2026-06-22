@@ -1,0 +1,11 @@
+conversation_id	include_default	status	rationale
+audio18	1	ready	cot_dr, explicit VAS 6, short diagnostic/objective note; clean enough for ICL.
+audio19	1	ready	lombar + sold_stg, explicit VAS 7, empty antecedents/meds; clean enough for ICL.
+audio1	0	review	VAS and long functional note need manual check before ICL; possible multiple-score edge case.
+audio4	0	fix_before_use	Raw ref has evaluarea_durerii_vas null although transcript states "spre noua"; do not use raw ref.
+audio10	0	fix_before_use	Raw ref has VAS null although transcript states approximate 6; also too long for default prompt.
+audio21	0	fix_before_use	Raw ref VAS 8 is not clearly supported by the visible transcript; spoken pressure scores differ.
+audio23	0	review	Transcript appears short and has a restart marker; needs manual check before use.
+audio24	0	fix_before_use	Raw ref appears mismatched: transcript is lower back/fesa after horse riding, ref says genunchi.
+audio26	0	fix_before_use	Medication is spoken but raw ref has empty medicatie_actuala; VAS has multiple spoken scores.
+audio29	0	fix_before_use	Transcript states scoliosis/pregnancy context; raw ref leaves antecedente empty and uses sarcina as pain location.

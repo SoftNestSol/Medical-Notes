@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamnă. Spuneți-mi cu ce problemă ne vedem azi.\nSPEAKER_01: Bună ziua. Păi, uite, mă doare spatele de ceva timp, dar nu știu, am zis că trece singur și nu a trecut. Am căutat pe internet, am văzut că sunt mai multe variante, unii zic că e de la rinichi, alții zic că e de la coloană, nu știu ce să mai cred. O prietenă m-a trimis la dumneavoastră și am zis să vin.\nSPEAKER_00: Înțeles. Și zona asta de durere unde o simțiți mai exact?\nSPEAKER_01: Ei, jos, în zona lombară, jos de tot. Uneori simt și un pic pe fesă, pe stânga, dar nu știu dacă e legat sau nu. Adică mă gândeam că poate e de la cum stau eu la birou, că stau mult, opt ore pe zi, uneori mai mult.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Acum în repaus nu prea, un 3, poate. Dar dimineața când mă ridic din pat, atunci e mai rău, un 6 zic eu.\nSPEAKER_00: Deci dimineața mai rău, în repaus mai puțin.\nSPEAKER_01: Da, exact. Și când stau mai mult în picioare, la cumpărături de exemplu, iar mă prinde. Am stat ieri vreo două ore la un magazin și după aceea nu mai puteam.\nSPEAKER_00: De cât timp durează?\nSPEAKER_01: De vreo trei săptămâni. Ei, de fapt, mai am și episoade din trecut, dar astea treceau. Ăsta nu mai trece. Și am și o teamă, sincer, că am citit de hernie de disc și mă sperie tare. Nu vreau operație.\nSPEAKER_00: Înțeles. Durerea coboară pe picior, jos de genunchi, sau se oprește la fesă?\nSPEAKER_01: Nu, nu coboară. Adică simt pe fesă stânga câteodată, dar la picior nu.\nSPEAKER_00: Amorțeli la picioare?\nSPEAKER_01: Nu, nu am.\nSPEAKER_00: Alte afecțiuni — tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am, da. Am hipertensiune de vreo doi ani. Iau pastile pentru asta.\nSPEAKER_00: Ce medicament luați?\nSPEAKER_01: Iau Prestarium, cred că 5 miligrame, o dată pe zi.\nSPEAKER_00: Și pentru spate luați ceva acum?\nSPEAKER_01: Am luat un Ibuprofen zilele trecute, dar nu mai iau acum. Adică am luat vreo trei zile și am zis că nu vreau să mă obișnuiesc.\nSPEAKER_00: Ok. Haideți să stați puțin cu spatele la mine. Relaxați umerii. Bun.\nSPEAKER_01: Sunt bine? Adică nu e ceva grav? Că mă tot gândesc la hernia aia.\nSPEAKER_00: Stați liniștită, vedem noi. Aplecați-vă puțin în față, ușor.\nSPEAKER_01: Uite, când mă aplec, aci pe mijloc simt.\nSPEAKER_00: Da. Și în lateral spre stânga?\nSPEAKER_01: Da, acolo mai tare.\nSPEAKER_00: Bun. Deci avem o limitare a mobilității lombare și o contractură paravertebrală, mai accentuată pe stânga. Obiectivul nostru în primele ședințe e să reducem inflamația și să decontracturăm musculatura.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă, prezentă de aproximativ trei săptămâni, cu iradiere ocazională în fesa stângă. Accentuată dimineața la sculare și după ortostatism prelungit. Pacientă sedentară, muncă la birou 8 ore/zi.",
+    "evaluarea_durerii_vas": [3, 6],
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": "fesă stângă",
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Prestarium",
+        "doza": "5 mg, o dată pe zi"
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare a mobilității lombare și contractură paravertebrală, mai accentuată pe stânga. Obiectiv: reducerea inflamației și decontracturarea musculaturii."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele de ceva timp",
+      "jos, în zona lombară, jos de tot",
+      "stau mult, opt ore pe zi",
+      "De vreo trei săptămâni"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum în repaus nu prea, un 3, poate",
+      "dimineața când mă ridic din pat, atunci e mai rău, un 6 zic eu"
+    ],
+    "localizarea_durerii": [
+      "jos, în zona lombară, jos de tot"
+    ],
+    "localizarea_durerii_alta": [
+      "simt și un pic pe fesă, pe stânga"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Am hipertensiune de vreo doi ani."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Prestarium, cred că 5 miligrame, o dată pe zi"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o limitare a mobilității lombare și o contractură paravertebrală, mai accentuată pe stânga",
+      "Obiectivul nostru în primele ședințe e să reducem inflamația și să decontracturăm musculatura"
+    ]
+  }
+}

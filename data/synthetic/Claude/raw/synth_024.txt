@@ -1,0 +1,35 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc. M-am trezit dimineața și nu mai puteam să întorc capul.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Și la mișcare, crește?\nSPEAKER_01: Da, mai rău.\nSPEAKER_00: Doare și în umăr sau se lasă pe braț?\nSPEAKER_01: Puțin în umărul drept.\nSPEAKER_00: Umărul drept. Amorțește mâna dreaptă?\nSPEAKER_01: Uneori.\nSPEAKER_00: Uneori. Când, mai ales?\nSPEAKER_01: Dimineața când mă trezesc.\nSPEAKER_00: Ok. Dureri de cap, amețeli?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte zone dor? Spatele, de exemplu?\nSPEAKER_01: Nu, numai gâtul.\nSPEAKER_00: Bun. Lucrați la birou, stați mult pe calculator?\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Toată ziua la calculator. Înțeles. Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am, da.\nSPEAKER_00: Tensiune arterială. Luați ceva pentru ea?\nSPEAKER_01: Prestarium.\nSPEAKER_00: Prestarium. Știți ce doză?\nSPEAKER_01: Nu știu exact. 5, parcă.\nSPEAKER_00: Ok. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai făcut terapie pentru gât?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să stați în picioare, cu spatele la mine. Relaxați umerii.\nSPEAKER_01: Bine.\nSPEAKER_00: Vedeți că aveți umărul drept mai ridicat decât stângul. Simțiți tensiune aici, în zona asta?\nSPEAKER_01: Da, mereu.\nSPEAKER_00: Întoarceți capul spre dreapta, încet.\nSPEAKER_01: Până aici, nu mai pot.\nSPEAKER_00: Da, văd, e limitată rotația spre dreapta. Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Spre stânga merge mai bine?\nSPEAKER_01: Un pic da.\nSPEAKER_00: Înțeles. Apăs acum pe mușchii de lângă coloana cervicală. Spuneți-mi dacă doare.\nSPEAKER_01: Doare, da.\nSPEAKER_00: Și pe trapez, aici?\nSPEAKER_01: Și acolo.\nSPEAKER_00: Bun. Deci avem o contractură musculară cervicală cu limitare de mobilitate, mai ales spre dreapta. Cel mai probabil legată de postura la calculator. O să lucrăm să reducem contractura și să redobândiți mobilitatea. Putem face câteva ședințe de terapie manuală și o să vă arăt și niște exerciții pentru acasă.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă.",
+
+  "note": {
+    "motivul_prezentarii": "Durere cervicală apărută brusc în urmă cu două săptămâni, cu limitare de mobilitate la rotație, iradiere în umărul drept și amorțeli ocazionale ale mâinii drepte dimineața.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Prestarium",
+        "doza": "5"
+      }
+    ],
+    "evaluare_functionala_initiala": "Umărul drept mai ridicat decât stângul. Rotație cervicală limitată spre dreapta, mai puțin limitată spre stânga. Durere la palpare paravertebral cervical și trapez.\nDiagnostic: contractură musculară cervicală cu limitare de mobilitate.\nObiective terapeutice: reducerea contracturii, redobândirea mobilității cervicale."
+  },
+
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "M-am trezit dimineața și nu mai puteam să întorc capul.", "Vreo două săptămâni.", "Puțin în umărul drept.", "Uneori.", "Dimineața când mă trezesc."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Puțin în umărul drept."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am, da."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Prestarium.", "5, parcă."],
+    "evaluare_functionala_initiala": ["Vedeți că aveți umărul drept mai ridicat decât stângul.", "e limitată rotația spre dreapta", "Spre stânga merge mai bine?", "Doare, da.", "Și acolo.", "avem o contractură musculară cervicală cu limitare de mobilitate, mai ales spre dreapta", "O să lucrăm să reducem contractura și să redobândiți mobilitatea."]
+  }
+}

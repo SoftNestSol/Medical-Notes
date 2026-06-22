@@ -1,0 +1,48 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut din senin sau după ceva anume?\nSPEAKER_01: Nu știu, m-am trezit dimineața și îl aveam.\nSPEAKER_00: Ok. Doare mai mult în mișcare sau și când stați nemișcat?\nSPEAKER_01: Și când stau, și când mișc.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât e acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Un 5. Doare mai mult pe o parte sau central?\nSPEAKER_01: Pe partea dreaptă, parcă.\nSPEAKER_00: Pe partea dreaptă. Doare și în umăr, se lasă în jos?\nSPEAKER_01: Un pic, da.\nSPEAKER_00: În umărul drept?\nSPEAKER_01: Da.\nSPEAKER_00: Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți dureri de cap?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Câteodată, adică des sau rar?\nSPEAKER_01: Rar.\nSPEAKER_00: Lucrați la birou, la calculator?\nSPEAKER_01: Da.\nSPEAKER_00: Mult timp pe zi?\nSPEAKER_01: Vreo opt ore.\nSPEAKER_00: Opt ore la calculator, înțeles. Doriți să vă aplecați capul în față, vă rog.\nSPEAKER_01: Au.\nSPEAKER_00: Doare.\nSPEAKER_01: Da.\nSPEAKER_00: Și în lateral spre dreapta?\nSPEAKER_01: Mai rău.\nSPEAKER_00: Mai rău spre dreapta. Spre stânga?\nSPEAKER_01: Merge mai bine.\nSPEAKER_00: Bun. Alte afecțiuni aveți, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Iau un ibuprofen câteodată, când doare tare.\nSPEAKER_00: Ibuprofen, la nevoie. Cât, 400?\nSPEAKER_01: Da, 400.\nSPEAKER_00: Ok. Deci avem o cervicalgie cu iradiere în umărul drept, legată cel mai probabil de postura la birou, opt ore pe zi. Mobilitatea e limitată la flexie și la înclinare laterală dreapta. O să lucrăm să reducem contractura musculară de pe partea dreaptă și să recuperăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu iradiere în umărul drept, apărută de aproximativ două săptămâni, la un pacient care lucrează 8 ore pe zi la calculator.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "ibuprofen",
+        "doza": "400"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: cervicalgie cu iradiere umar drept\nObiective terapeutice: reducerea contracturii musculare, recuperarea mobilitatii cervicale"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "Vreo două săptămâni.",
+      "M-am trezit dimineața și îl aveam.",
+      "Un pic, da.",
+      "Vreo opt ore."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Pe partea dreaptă, parcă.",
+      "În umărul drept?"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau un ibuprofen câteodată, când doare tare.",
+      "Da, 400."
+    ],
+    "evaluare_functionala_initiala": [
+      "Deci avem o cervicalgie cu iradiere în umărul drept, legată cel mai probabil de postura la birou, opt ore pe zi. Mobilitatea e limitată la flexie și la înclinare laterală dreapta. O să lucrăm să reducem contractura musculară de pe partea dreaptă și să recuperăm mobilitatea."
+    ]
+  }
+}

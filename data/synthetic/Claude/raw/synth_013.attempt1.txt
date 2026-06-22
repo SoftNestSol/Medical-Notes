@@ -1,0 +1,52 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ați venit.\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc, dimineața m-am trezit și nu mai puteam să întorc capul.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: Un 7. Doare mai mult pe o parte sau pe ambele?\nSPEAKER_01: Pe dreapta mai mult.\nSPEAKER_00: Pe dreapta. Durerea coboară și în umăr sau în braț?\nSPEAKER_01: Puțin în umăr, da.\nSPEAKER_00: În umărul drept?\nSPEAKER_01: Da.\nSPEAKER_00: Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Dureri de cap?\nSPEAKER_01: Mai rar, câteodată.\nSPEAKER_00: Câteodată. Stați mult la birou, la calculator?\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Toată ziua la birou. Înțeles. Alte zone care vă mai dau durere acum?\nSPEAKER_01: Nu, doar astea.\nSPEAKER_00: Bun. Ați mai avut așa ceva înainte, dureri cervicale?\nSPEAKER_01: Acum vreo doi ani, ceva similar.\nSPEAKER_00: Și atunci ce ați făcut?\nSPEAKER_01: Am luat niște antiinflamatoare și a trecut.\nSPEAKER_00: Acum luați ceva?\nSPEAKER_01: Da, Ibuprofen.\nSPEAKER_00: Cât luați, ce doză?\nSPEAKER_01: 400, o pastilă seara.\nSPEAKER_00: O pastilă de 400 seara. De când?\nSPEAKER_01: De vreo săptămână.\nSPEAKER_00: Alte medicamente?\nSPEAKER_01: Nu.\nSPEAKER_00: Afecțiuni mai aveți, tensiune, diabet, ceva de coloană diagnosticat?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Nicio intervenție chirurgicală?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să stați puțin în picioare, cu spatele la mine.\nSPEAKER_01: Așa?\nSPEAKER_00: Da. Vedem o ușoară aplecare a capului spre stânga, capul e dus puțin în față. Încercați să întoarceți capul spre dreapta.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare când întoarceți?\nSPEAKER_01: Da, tare.\nSPEAKER_00: Spre stânga merge mai bine?\nSPEAKER_01: Da, mai bine.\nSPEAKER_00: Înțeles. Apăs puțin aici, pe musculatura cervicală dreaptă, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo e.\nSPEAKER_00: Contractură destul de puternică pe trapez și pe ridicătorul scapulei pe dreapta. Deci avem o cervicalgie acută cu contractură musculară, probabil agravată de postura la birou. O să lucrăm pe reducerea contracturii și pe mobilizarea cervicală. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu cervicalgie acută instalată de două săptămâni, debut brusc la trezire, cu limitarea rotației capului spre dreapta. Durere predominant pe dreapta cu iradiere în umărul drept. Fără amorțeli. Muncă sedentară la birou toată ziua.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg, o pastilă seara"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară aplecare a capului spre stânga, cap dus anterior. Rotație cervicală limitată și dureroasă spre dreapta. Contractură musculară pronunțată pe trapez și ridicătorul scapulei pe dreapta.\nDiagnostic:\nCervicalgie acută cu contractură musculară, agravată de postura la birou.\nObiective terapeutice:\n- reducerea contracturii musculare cervicale;\n- mobilizarea cervicală."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "De vreo două săptămâni.",
+      "dimineața m-am trezit și nu mai puteam să întorc capul",
+      "Pe dreapta mai mult.",
+      "Puțin în umăr, da.",
+      "Da, toată ziua."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Puțin în umăr, da.",
+      "În umărul drept?"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Ibuprofen.",
+      "400, o pastilă seara."
+    ],
+    "evaluare_functionala_initiala": [
+      "Vedem o ușoară aplecare a capului spre stânga, capul e dus puțin în față.",
+      "Contractură destul de puternică pe trapez și pe ridicătorul scapulei pe dreapta.",
+      "avem o cervicalgie acută cu contractură musculară, probabil agravată de postura la birou.",
+      "O să lucrăm pe reducerea contracturii și pe mobilizarea cervicală."
+    ]
+  }
+}

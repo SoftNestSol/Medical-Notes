@@ -1,0 +1,24 @@
+{
+  "motivul_prezentarii": "Pacient acuză durere lombară joasă cu iradiere intermitentă pe fesa stângă, cu debut insidios de câteva luni, caracter fluctuant. Exacerbată de poziția sedentară prelungită (birou, calculator), de aplecare și de ridicarea greutăților. Redoare matinală lombară care cedează la mișcare. Asociază cervicalgie ușoară legată de postura la calculator.",
+  "evaluarea_durerii_vas": null,
+  "localizarea_durerii": [
+    "lombar",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "fesă stângă",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "o pastilă pe zi dimineața"
+    },
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară deviație de bazin, mai jos pe stânga. Flexie lombară anterioară limitată la aproximativ jumătate din amplitudine cu durere lombară. Extensia lombară relativ păstrată. Test Lasègue pozitiv pe membrul inferior stâng la aproximativ 40-45 de grade cu durere lombară stânga. Palpare dureroasă paravertebral lombar stâng și piriform stâng contractat.\nDiagnostic:\nLombalgiei cu iritație piriform stâng; posibilă afectare discogenă lombară inferioară.\nObiective terapeutice:\nReducerea inflamației; mobilizarea coloanei lombare; lucru pe piriform stâng; recomandare RMN lombar."
+}

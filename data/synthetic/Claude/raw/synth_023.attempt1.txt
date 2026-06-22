@@ -1,0 +1,55 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau doar când mișcați brațul?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Sus, deasupra capului?\nSPEAKER_01: Da.\nSPEAKER_00: Și în spate, dacă duceți mâna la spate, doare?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Noaptea vă deranjează?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Dacă stați pe partea dreaptă?\nSPEAKER_01: Da.\nSPEAKER_00: Amorțește brațul sau mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte probleme mai aveți, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tratament pentru tensiune luați?\nSPEAKER_01: Da.\nSPEAKER_00: Ce anume?\nSPEAKER_01: Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: Bun. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale la umăr sau altundeva?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere prin sânge?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Ridicați brațul drept pentru mine, cât puteți de sus.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare de aici în sus, da?\nSPEAKER_01: Da.\nSPEAKER_00: Stați puțin, apăs eu acum pe zona asta de deasupra umărului. Doare?\nSPEAKER_01: Da, doare.\nSPEAKER_00: Și aici, mai în față?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeles. Duceți mâna la ceafă pentru mine.\nSPEAKER_01: Greu, dar pot.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Pare a fi o tendinită la nivelul umărului drept, cel mai probabil supraspinatus. O să lucrăm să reducem inflamația și să recuperăm mobilitatea. Sunt șanse mari să rezolvăm în câteva ședințe dacă nu e ceva rupt acolo.\nSPEAKER_01: Ok.\nSPEAKER_00: Dacă nu cedează, vă recomand să faceți o ecografie la umăr, să vedem exact ce e.\nSPEAKER_01: Bine.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept, aparuta dupa mutarea de mobila, de aproximativ doua saptamani. Durere la ridicarea bratului si la ducerea mainii la spate. Disconfort nocturn la culcat pe partea dreapta.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita umar drept, posibil supraspinatus.\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii. Recomandat ecografie umar daca nu cedeaza."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Am mutat niște mobilă.",
+      "Vreo două săptămâni.",
+      "Când ridic brațul.",
+      "Da, și atunci.",
+      "Câteodată.",
+      "Dacă stați pe partea dreaptă?"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Enalapril.",
+      "10 miligrame."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o tendinită la nivelul umărului drept, cel mai probabil supraspinatus.",
+      "O să lucrăm să reducem inflamația și să recuperăm mobilitatea.",
+      "Dacă nu cedează, vă recomand să faceți o ecografie la umăr, să vedem exact ce e."
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați lovit, ați căzut?\nSPEAKER_01: Nu, nu știu, a apărut și gata.\nSPEAKER_00: Doare tot timpul sau numai când mișcați brațul?\nSPEAKER_01: Când îl ridic mai ales.\nSPEAKER_00: Deci la ridicarea brațului. Și noaptea vă doare?\nSPEAKER_01: Uneori.\nSPEAKER_00: Când dormiți pe partea stângă?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, 0 fără durere, 10 durere maximă, cât ați da?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Bun. Vă doare și în braț, coboară durerea?\nSPEAKER_01: Nu, stă pe loc, numai aici.\nSPEAKER_00: Numai în zona umărului. Amorțeli în mână, în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte dureri undeva, coloană, gât?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Afecțiuni mai aveți, tensiune, diabet, ceva?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune arterială, deci hipertensiune. Luați medicamente pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10.\nSPEAKER_00: Enalapril 10 mg. Altceva nu luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte probleme, operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin cu fața spre mine. Ridicați brațul stâng în față, încet.\nSPEAKER_01: Până pe-aici pot.\nSPEAKER_00: Doare undeva pe la 90 de grade?\nSPEAKER_01: Da, cam da.\nSPEAKER_00: Bun. Acum în lateral.\nSPEAKER_01: Și aia doare.\nSPEAKER_00: Și abducția doare, deci. Haideți să apăs puțin pe zona de supraspinos.\nSPEAKER_01: Au, da, acolo doare.\nSPEAKER_00: Sensibil la palpare supraspinos. Probabil avem o tendinopatie de supraspinos, poate o ușoară inflamație a bursei, trebuie să lucrăm la reducerea inflamației și să refacem mobilitatea umărului.\nSPEAKER_01: Bun.\nSPEAKER_00: Vârsta dacă pot să întreb?\nSPEAKER_01: 51.\nSPEAKER_00: Ok, deci 51 de ani. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng de aproximativ două săptămâni, apărută spontan, accentuată la ridicarea brațului și noaptea la dormitul pe partea stângă.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinopatie de supraspinos, posibilă inflamație bursă.\nObiective terapeutice: reducerea inflamației, refacerea mobilității umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Vreo două săptămâni.",
+      "a apărut și gata.",
+      "Când îl ridic mai ales.",
+      "Uneori.",
+      "Când dormiți pe partea stângă?"
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "stă pe loc, numai aici."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am.",
+      "Tensiune arterială, deci hipertensiune."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Enalapril.",
+      "10.",
+      "Enalapril 10 mg."
+    ],
+    "evaluare_functionala_initiala": [
+      "Probabil avem o tendinopatie de supraspinos, poate o ușoară inflamație a bursei, trebuie să lucrăm la reducerea inflamației și să refacem mobilitatea umărului."
+    ]
+  }
+}

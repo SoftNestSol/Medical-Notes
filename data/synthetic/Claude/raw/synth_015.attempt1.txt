@@ -1,0 +1,48 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, spuneți-mi vă rog cu ce problemă veniți azi.\nSPEAKER_01: Bună ziua, da, deci eu am o problemă la gât, adică mă doare gâtul de vreo două săptămâni, dar sincer m-am tot gândit că trece singur și n-a trecut, și soția mea a zis să vin, că ea a mai venit la dumneavoastră sau la cineva de-al dumneavoastră, nu știu exact, și a zis că a fost bine.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10 unde 0 nu doare deloc și 10 e maxim, cât de tare doare?\nSPEAKER_01: Păi... eu zic că undeva la 5, da, un 5. Nu e că nu pot să mișc capul deloc, dar mă deranjează, mai ales când mă uit în spate când dau cu mașina înapoi, atunci simt ceva, o tensiune, cum ar fi, și mai dimineața când mă trezesc e mai rău, dar după ce mă ridic trece un pic.\nSPEAKER_00: Doare doar în zona gâtului sau se lasă și în altă parte?\nSPEAKER_01: Păi... se duce un pic pe umărul drept, da, îl simt și acolo. Nu e o durere tare tare, dar e acolo. Și mai am uneori, nu știu dacă e legat, că m-am tot întrebat, o durere de cap, mai sus pe ceafă, și am citit pe internet că poate fi de la gât și m-am speriat că poate e ceva la tensiune sau creier, dar nu știu.\nSPEAKER_00: Aveți tensiune arterială, diabet, ceva probleme cardiace?\nSPEAKER_01: Nu, nu, tensiunea n-am, adică am măsurat de curând și era bine. Diabet nu. Inimă nu știu, n-am făcut nimic recent, dar nu am simțit nimic ciudat.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Da, iau un Ibuprofen când doare mai tare, nu în fiecare zi, dar mai iau. Un 400, cel obișnuit de la farmacie.\nSPEAKER_00: Bun. Stați unde toată ziua la birou?\nSPEAKER_01: Da, da, exact, stau la calculator, și sincer stau destul de prost, știu că stau prost, toată lumea îmi spune, dar n-am reușit să mă corectez. Și mai am și telefonul tot timpul și poate de acolo, nu știu, că am auzit că e un sindrom sau ceva, text neck îi spune, am văzut, dar nu știu dacă asta e la mine.\nSPEAKER_00: Ok. Întoarceți capul la dreapta, vă rog, cât puteți.\nSPEAKER_01: Doare? Mă doare un pic da, pe partea asta.\nSPEAKER_00: Și la stânga acum.\nSPEAKER_01: Stânga merge mai bine.\nSPEAKER_00: Bun. Lăsați capul pe spate.\nSPEAKER_01: Ah, asta da, asta doare mai tare, da.\nSPEAKER_00: Înțeles. Avem o limitare de mobilitate cervicală, mai ales la rotație dreapta și extensie. Musculatura e contractată, o simt. Deci avem o contractură cervicală cu iradiere spre umărul drept, cel mai probabil posturală, de la statul la birou. Obiectivul nostru e să reducem contractura și să refacem mobilitatea.\nSPEAKER_01: Și credeți că e ceva grav? Adică nu e ceva la disc sau așa? M-am tot gândit că poate am o hernie și n-am vrut să merg la doctor că mi-e frică de RMN, nu știu de ce, pur și simplu mi-e frică.\nSPEAKER_00: La momentul acesta nu avem semne clare de afectare radiculară, nu amorțesc mâinile, nu aveți slăbiciune. Lucrăm și vedem cum răspunde.\nSPEAKER_01: Bine, bine, da, înțeleg. Ok.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală de aproximativ două săptămâni, cu iradiere pe umărul drept și dureri de cap occipitale. Limitare la rotație dreapta și extensie. Pacient sedentar, stă mult la calculator în postură viciată.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare de mobilitate cervicală la rotație dreapta și extensie. Musculatura contractată. Diagnostic: contractură cervicală cu iradiere spre umărul drept, cel mai probabil posturală. Obiective terapeutice: reducerea contracturii și refacerea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare gâtul de vreo două săptămâni",
+      "se duce un pic pe umărul drept",
+      "o durere de cap, mai sus pe ceafă",
+      "stau la calculator, și sincer stau destul de prost"
+    ],
+    "evaluarea_durerii_vas": [
+      "eu zic că undeva la 5, da, un 5"
+    ],
+    "localizarea_durerii": [
+      "mă doare gâtul",
+      "se duce un pic pe umărul drept",
+      "o durere de cap, mai sus pe ceafă"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "iau un Ibuprofen când doare mai tare",
+      "Un 400, cel obișnuit de la farmacie"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o limitare de mobilitate cervicală, mai ales la rotație dreapta și extensie. Musculatura e contractată, o simt. Deci avem o contractură cervicală cu iradiere spre umărul drept, cel mai probabil posturală, de la statul la birou. Obiectivul nostru e să reducem contractura și să refacem mobilitatea."
+    ]
+  }
+}

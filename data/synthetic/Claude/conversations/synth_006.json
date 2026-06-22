@@ -1,0 +1,199 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 9.66,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua. Am venit că mă doare spatele, adică nu știu exact cum să zic, mai jos, zona de mijloc, jos."
+    },
+    {
+      "start": 9.78,
+      "end": 10.58,
+      "speaker": "SPEAKER_00",
+      "text": "De când?"
+    },
+    {
+      "start": 10.7,
+      "end": 35.78,
+      "speaker": "SPEAKER_01",
+      "text": "Păi de vreo două săptămâni, dar de fapt eu am mai avut și înainte, adică nu e prima dată. Acum a fost mai rău, am stat la birou toată ziua pentru un proiect, am stat vreo trei zile aproape fără să mă ridic, și după aia m-am trezit dimineața și nu mai puteam să mă ridic din pat normal. Adică mă țin, mă ține rău."
+    },
+    {
+      "start": 35.9,
+      "end": 37.42,
+      "speaker": "SPEAKER_00",
+      "text": "Mă ține sau doare?"
+    },
+    {
+      "start": 37.54,
+      "end": 44.0,
+      "speaker": "SPEAKER_01",
+      "text": "Și una și alta. Mă ține și doare. Dar mai mult mă ține, parcă e blocat acolo."
+    },
+    {
+      "start": 44.12,
+      "end": 48.68,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 48.8,
+      "end": 58.3,
+      "speaker": "SPEAKER_01",
+      "text": "Acum în momentul ăsta? Cam un 5. Dar dimineața când mă scol e mai rău, poate 7. Seara e și el cam 6. Adică fluctuează."
+    },
+    {
+      "start": 58.42,
+      "end": 60.7,
+      "speaker": "SPEAKER_00",
+      "text": "Se lasă durerea și pe picior?"
+    },
+    {
+      "start": 60.82,
+      "end": 68.42,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, rămâne acolo. Cel puțin până acum nu am simțit că merge pe picior. Doar acolo, jos în spate."
+    },
+    {
+      "start": 68.54,
+      "end": 71.2,
+      "speaker": "SPEAKER_00",
+      "text": "Stați jos, în picioare, ce face durerea?"
+    },
+    {
+      "start": 71.32,
+      "end": 85.38,
+      "speaker": "SPEAKER_01",
+      "text": "Când stau jos la birou se acumulează, adică după o oră parcă se strânge tot acolo. Și când mă ridic, primele secunde sunt... au, e rău. Apoi trece un pic. Mers e ok, mers nu mă doare."
+    },
+    {
+      "start": 85.5,
+      "end": 86.64,
+      "speaker": "SPEAKER_00",
+      "text": "Alte dureri, altundeva?"
+    },
+    {
+      "start": 86.76,
+      "end": 100.44,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, numai acolo. Ah, ba da, uneori mă doare și gâtul, dar aia e de la calculator, stau cu capul în față, știți cum e. Dar nu e motivul pentru care am venit, e mai suportabil."
+    },
+    {
+      "start": 100.56,
+      "end": 102.84,
+      "speaker": "SPEAKER_00",
+      "text": "Afecțiuni mai aveți, tensiune, diabet, osteoporoză?"
+    },
+    {
+      "start": 102.96,
+      "end": 115.88,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Am hipertensiune, iau Enalapril de vreo doi ani. 10 miligrame pe zi. Altceva nu. Adică medicul mi-a zis că e sub control, nu e ceva grav, dar tot iau pastila."
+    },
+    {
+      "start": 116.0,
+      "end": 117.14,
+      "speaker": "SPEAKER_00",
+      "text": "Altceva, fracturi, operații?"
+    },
+    {
+      "start": 117.26,
+      "end": 129.04,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată. Sunt sănătos altfel, mă gândeam că poate o fi ceva mai grav, că am citit pe internet despre hernii de disc și m-am speriat. Sper să nu fie."
+    },
+    {
+      "start": 129.16,
+      "end": 134.48,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Haideți să vă examinez puțin. Întoarceți-vă cu spatele la mine. Relaxați umerii."
+    },
+    {
+      "start": 134.6,
+      "end": 135.4,
+      "speaker": "SPEAKER_01",
+      "text": "Asa?"
+    },
+    {
+      "start": 135.52,
+      "end": 138.18,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Aplecați-vă puțin în față... Doare?"
+    },
+    {
+      "start": 138.3,
+      "end": 139.44,
+      "speaker": "SPEAKER_01",
+      "text": "Da, aici, jos."
+    },
+    {
+      "start": 139.56,
+      "end": 142.98,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Îndreptați-vă. Aplecați spre stânga... Acum spre dreapta."
+    },
+    {
+      "start": 143.1,
+      "end": 145.38,
+      "speaker": "SPEAKER_01",
+      "text": "Pe dreapta mă trage mai tare."
+    },
+    {
+      "start": 145.5,
+      "end": 149.3,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Culcați-vă pe masă cu fața în sus."
+    },
+    {
+      "start": 149.42,
+      "end": 162.34,
+      "speaker": "SPEAKER_01",
+      "text": "Și mai e ceva, că uitam să zic, dimineața când mă scol am vreo zece minute în care mă mișc greu, de parcă trebuie să mă încălzesc, și abia după aia merge mai bine."
+    },
+    {
+      "start": 162.46,
+      "end": 164.74,
+      "speaker": "SPEAKER_00",
+      "text": "Apăs acum pe zona lombară. Doare?"
+    },
+    {
+      "start": 164.86,
+      "end": 166.0,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo, exact."
+    },
+    {
+      "start": 166.12,
+      "end": 182.46,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Deci avem o contractură musculară paravertebrală lombară, cu limitare la flexia laterală dreaptă. Pare o lombalgie mecanică, fără semne de iradiere. Obiectivul nostru e să reducem contractura și să mobilizăm zona, și să vă dăm și niște exerciții ca să nu recidiveze."
+    },
+    {
+      "start": 182.58,
+      "end": 184.1,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu e hernie?"
+    },
+    {
+      "start": 184.22,
+      "end": 189.16,
+      "speaker": "SPEAKER_00",
+      "text": "Deocamdată nu avem semne clare de hernie. Rămânem cu diagnosticul de lombalgie mecanică."
+    },
+    {
+      "start": 189.28,
+      "end": 190.8,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine. Mă bucur."
+    }
+  ]
+}

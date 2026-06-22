@@ -1,0 +1,15 @@
+{
+  "motivul_prezentarii": "Pacient de 38 de ani cu durere lombară joasă instalată după efort fizic intens (mutat mobilă, cărați cutii, stat aplecat), de aproximativ două săptămâni. Durere VAS 5/10 în ortostatism, 7/10 dimineața la trezire, exacerbată de statul prelungit pe scaun (8-9 ore/zi, muncă la birou). Fără iradiere pe membrul inferior. Redoare matinală lombară.",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nContractură musculară paravertebrală lombară, mai accentuată pe dreapta; sensibilitate la palpare bilateral paravertebral lombar, predominant dreapta.\nDiagnostic:\nContractură musculară paravertebrală lombară post-efort.\nObiective terapeutice:\nReducerea contracturii și inflamației musculare; recuperarea mobilității lombare normale."
+}

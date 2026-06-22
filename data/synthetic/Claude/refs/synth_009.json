@@ -1,0 +1,24 @@
+{
+  "motivul_prezentarii": "Pacient cu durere lombară joasă instalată treptat de câteva luni, accentuată la stat prelungit pe scaun (lucru la birou) și la flexie laterală stângă. Iradiere intermitentă pe fesa și coapsa stângă, fără coborâre sub genunchi. Amorțeli rare, ocazionale. Asociază cervicalgie ușoară, probabil posturală, cu cefalee rară.",
+  "evaluarea_durerii_vas": null,
+  "localizarea_durerii": [
+    "lombar",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "fesa și coapsa stângă",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Perindopril",
+      "doza": "o dată pe zi dimineața"
+    },
+    {
+      "denumire": "Nurofen",
+      "doza": "la nevoie"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară asimetrie de umeri (umărul stâng mai jos). Durere la flexie anterioară și accentuată la înclinare laterală stângă. Test Lasègue pozitiv pe membrul inferior stâng (durere fesieră și lombară la ridicare), negativ pe dreapta. Palpare paravertebrală lombară dureroasă bilateral, mai accentuat stânga.\nDiagnostic:\nTensionare musculară paravertebrală lombară, mai accentuată pe stânga, cu posibilă iritație radiculară stângă fără semne de radiculopatie distală. Cervicalgie posturală asociată.\nObiective terapeutice:\nReducerea tensionării musculare și a inflamației lombare; ameliorarea iritației radiculare stângi; lucru pe cervical; corectarea posturii."
+}

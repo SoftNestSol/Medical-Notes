@@ -1,0 +1,19 @@
+{
+  "motivul_prezentarii": "Durere lombară joasă apărută în urmă cu aproximativ două săptămâni după ridicarea unor saci grei. Durere mai intensă dimineața, cedează parțial după mișcare. Fără iradiere pe membrul inferior.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Amlodipină",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară tensionare a musculaturii paravertebrale pe dreapta. Limitarea flexiei anterioare a trunchiului cu durere locală lombară la mobilizare activă, fără iradiere distală. Durere la palpare paravertebrală bilateral, mai accentuată pe dreapta.\nDiagnostic:\nContractură musculară lombară fără iradiere, apărută după efort de ridicare de greutăți.\nObiective terapeutice:\nRelaxarea musculaturii contracturate, reducerea inflamației, recuperarea mobilității lombare."
+}

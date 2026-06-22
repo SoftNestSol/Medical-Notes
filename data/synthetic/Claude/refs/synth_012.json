@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "Durere lombară apărută brusc după ridicarea unei greutăți, de aproximativ două săptămâni. Durere accentuată la ridicarea din scaun și dimineața la trezire, cedează după mișcare. Fără iradiere pe membrul inferior.",
+  "evaluarea_durerii_vas": [
+    5,
+    8
+  ],
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\nContractură musculară paravertebrală lombară post-efort, fără iradiere sciatică.\nObiective terapeutice:\n- reducerea contracturii și a inflamației locale;\n- recâștigarea mobilității lombare."
+}

@@ -1,0 +1,43 @@
+{
+  "conversation_id": "synth_013",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "după ce am stat mult la calculator",
+      "De vreo două săptămâni.",
+      "Și ceafa. Și un pic capul uneori.",
+      "Umărul stâng un pic."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Și ceafa. Și un pic capul uneori.",
+      "Umărul stâng un pic."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un ibuprofen acum două zile."
+    ],
+    "evaluare_functionala_initiala": [
+      "C4-C5, blocaj muscular, se simte clar. Deci avem o contractură musculară cervicală, mai ales pe dreapta, cu iradiere spre ceafă și occiput. Obiectivul nostru e să reducem contractura asta și să recuperăm mobilitatea gâtului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21883,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1877,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}
