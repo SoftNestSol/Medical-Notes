@@ -9,7 +9,7 @@
 **What:** Build a system that takes Romanian chiropractor-patient conversations (audio → transcript) and produces a structured medical note matching a real Romanian clinic's template (Osteopath Concept).
 
 **Why:** University bioNLP course project. Two co-occurring deliverables:
-1. **Comparative experiment paper** — methodological exploration of how to do this task cheaply and reliably
+1. **Comparative experiment paper** — a **low-resource study**: when in-domain data is scarce on an under-represented language (Romanian), which method best extracts a structured clinical note from a chiropractor-patient conversation? (Reframed 2026-06-21 — see decision log. Cost is a *secondary* justification, not the headline; cost differences between candidate models were too small to anchor the paper.)
 2. **MVP** — working pipeline that the chiropractor team can eventually use. MVP is a byproduct of the winning experimental condition, not built separately.
 
 **Who:** Two-person team. Has access to a chiropractor team for data collection and clinical validation. Course paper only, not for academic publication.
@@ -85,21 +85,23 @@ See `src/data_split.py` docstring for v2 provenance.
 
 ## Experimental design (locked)
 
-Seven conditions, framed as a cost-efficiency study: how cheaply can we approximate an expensive LLM ceiling?
+Seven conditions, framed as a **low-resource comparison**: with scarce in-domain RO data, which method extracts the note best? Two API models bracket the range (Gemini Flash floor, Claude Opus ceiling); a single fixed open-source small model carries the prompting-vs-fine-tuning comparison.
 
 | # | Condition | Base model | Training data | Research question |
 |---|-----------|-----------|---------------|-------------------|
-| 1 | Zero-shot prompting | Small/cheap LLM | none | Cheap floor |
-| 2 | Zero-shot prompting | Big LLM | none | Sanity check on ceiling |
-| 3 | Few-shot ICL with real examples | Small/cheap LLM | 3-5 examples in prompt | Does ICL help cheap model? |
-| 4 | Few-shot ICL with real examples | Big LLM | 3-5 examples in prompt | Expensive ceiling |
-| 5 | Fine-tuned on synthetic chiropractor data | Small/cheap LLM | LLM-generated RO chiropractor pairs | Main deployment candidate |
-| 6 | Fine-tuned on translated MTS | Small/cheap LLM | ~1700 translated MTS pairs | Does general medical pretraining help? |
-| 7 | Fine-tuned on MTS → then synthetic chiropractor | Small/cheap LLM | MTS first, then synthetic | Stacked domain adaptation |
+| 1 | Zero-shot prompting | Gemini Flash (cheap API) | none | Cheap API floor |
+| 2 | Zero-shot prompting | Claude Opus (big API) | none | Ceiling (NOT a parity claim) |
+| 3 | Few-shot ICL with real examples | Open-source small (fixed) | 3-5 examples in prompt | Does ICL help the small model? |
+| 4 | Few-shot ICL with real examples | Claude Opus (big API) | 3-5 examples in prompt | ICL ceiling |
+| 5 | Fine-tuned on synthetic chiropractor data | Open-source small (fixed) | LLM-generated RO chiropractor pairs | Main deployment candidate |
+| 6 | Fine-tuned on translated MTS | Open-source small (fixed) | ~1700 translated MTS pairs | Does general medical pretraining help? |
+| 7 | Fine-tuned on MTS → then synthetic chiropractor | Open-source small (fixed) | MTS first, then synthetic | Stacked domain adaptation |
+
+Open-source small candidates under evaluation: Qwen3-4B / RoLlama3-8B / Gemma3-4B (pick not yet locked).
 
 **Cross-condition consistency requirements:**
-- Conditions 1, 3, 5, 6, 7 share the same small/cheap base model
-- Conditions 2 and 4 share the same big model
+- Conditions 3, 5, 6, 7 share the same fixed open-source small base model (cond. 1 is a separate cheap API, Gemini Flash)
+- Conditions 2 and 4 share the same big API model (Claude Opus)
 - Conditions 5 and 7 use the same synthetic data (don't regenerate between conditions)
 - ICL conditions (3, 4) use the same N examples and the same selection strategy
 
@@ -121,7 +123,7 @@ Seven conditions, framed as a cost-efficiency study: how cheaply can we approxim
 
 ### Romanian / low-resource
 
-- **MedQARo / RoMedQA** (Rogoz, Ionescu et al., 2025) — first large-scale Romanian medical QA benchmark (~100k QA pairs). Key finding: **fine-tuned smaller LLMs beat GPT-5.2 and Gemini 3 Flash on Romanian medical text.** This is the strongest evidence for our cost-efficiency framing.
+- **MedQARo / RoMedQA** (Rogoz, Ionescu et al., 2025) — first large-scale Romanian medical QA benchmark (~100k QA pairs). Key finding: **fine-tuned smaller LLMs beat GPT-5.2 and Gemini 3 Flash on Romanian medical text.** Strongest evidence for our low-resource framing. NOTE: results are NOT directly comparable to ours — MedQARo is extractive QA, ours is multi-field JSON note generation. Cite as motivation, not as a baseline.
 
 ### Caveats from the field
 
@@ -153,7 +155,7 @@ Per-field metrics, not a single aggregate:
 | `localizarea_durerii` | Multi-label F1 with empty-set handling |
 | `antecedente` | Multi-label F1 with empty-set handling |
 | `medicatie_actuala` | TBD — exact match vs normalized name match |
-| `motivul_prezentarii` | BERTScore F1 (encoder RO `dumitrescustefan/bert-base-romanian-cased-v1`) — ROUGE-L dropped, see decision log 2026-06-16 |
+| `motivul_prezentarii` | Manual ternary (0 / 0.5 / 1), mean per condition; Cohen's kappa on dual-rated subset. No automatic metric — see decision log 2026-06-16 (manual ternary) |
 | `evaluare_functionala_initiala` | ROUGE-L + BERTScore |
 
 **Critical: "correct empty" handling.** A metric that only scores filled fields silently rewards hallucination. Need explicit handling: if both ref and pred are empty, that's a correct prediction and counts toward score.
@@ -170,7 +172,7 @@ Per-field metrics, not a single aggregate:
 2. Output format: 6 fields from the Osteopath Concept template (4 structured, 2 free-text)
 3. Data split: 18 test / 0 dev / 17 pool (v2 on 2026-06-04; was 15/0/15 in v1)
 4. 7 experimental conditions as listed above
-5. Cost-efficiency framing: cheap-deployable model is the target, expensive LLM is teacher/ceiling
+5. Low-resource framing: scarce in-domain RO data is the central problem; which method wins under that constraint. Cost is a SECONDARY justification only (reframed 2026-06-21; cost diffs < ~$50/yr at clinic volume, too small to anchor the paper). Gemini Flash = cheap floor, Claude Opus = ceiling (not a parity claim).
 6. Manual quality gate on synthetic data — committed
 7. Paper venue: university course (not for publication) — small N is acceptable
 8. Same small base model across all fine-tuning conditions
@@ -180,8 +182,8 @@ Per-field metrics, not a single aggregate:
 ## Open decisions (still to close)
 
 1. Compute setup (Colab free vs paid, GPU specs)
-2. Small/cheap model pick — Romanian-capable open model
-3. Big model pick — GPT-4 / Claude / Gemini
+2. Open-source small model pick — narrowed to Qwen3-4B / RoLlama3-8B / Gemma3-4B (research in progress)
+3. API models — DECIDED: Gemini Flash (cond. 1 floor), Claude Opus (cond. 2/4 ceiling)
 4. Exact metrics per field (especially medication normalization)
 5. Number of few-shot examples in ICL conditions (3, 5, or other — same N across all ICL)
 6. Synthetic data volume to generate
@@ -251,6 +253,39 @@ Per-field metrics, not a single aggregate:
 
 ## Decision log
 
+### 2026-06-21 — Reframe: cost-efficiency → low-resource study
+
+Headline framing schimbat. Anterior paper-ul era un **cost-efficiency study**
+("cât de ieftin aproximăm un LLM scump"). Abandonat ca headline: diferențele
+de cost între modelele candidate sunt prea mici ca să susțină claim-ul
+(sub ~$50/an la volumul unei clinici). Costul rămâne în paper ca justificare
+**secundară**, completat după research-ul de modele.
+
+Noul framing: **low-resource problem**. Întrebarea centrală: când ai date
+in-domain puține pe o limbă sub-reprezentată (RO), ce metodă extrage cel mai
+bine nota clinică structurată? Comparăm prompting vs fine-tuning sub această
+constrângere.
+
+Titlu fixat: *Structured Clinical Note Extraction from Romanian
+Chiropractor-Patient Conversations: A Low-Resource Comparison*.
+
+Model picks pentru API: DECISE — Gemini Flash (cond. 1, floor ieftin),
+Claude Opus (cond. 2/4, ceiling — NU claim de paritate). Open-source small
+îngustat la Qwen3-4B / RoLlama3-8B / Gemma3-4B (research în curs).
+
+Capcane de framing (de evitat în intro): nu scrie "cost-efficiency" /
+"cheap deployment" ca scop principal; nu reduce la "zero-shot vs few-shot"
+(fine-tuning 5-7 e jumătate din experiment); nu spune "matches GPT-4/Opus";
+rezultatele NU sunt direct comparabile cu MedQARo (QA extractiv vs JSON
+multi-câmp).
+
+Status experimente la data reframe-ului: NErulate. Doar
+`data/chiropractor_ro/predictions/mock_test/audio18.json` există (mock).
+Vezi `PAPER_BRIEF.md` pentru ce e scriibil acum vs ce așteaptă rezultate.
+
+Modificat: AGENTS.md (project identity, experimental design, locked decisions,
+open decisions, related work caveat), PAPER_BRIEF.md (nou).
+
 ### 2026-06-16 — `evaluare_functionala_initiala` include diagnostic și obiective
 
 Schema și prompt-ul defineau anterior câmpul îngust ("postură, biomecanică,
@@ -288,3 +323,35 @@ lungime plauzibilă.
 
 Modificat: EVAL_DECISIONS.md (secțiunea motivul_prezentarii și tabel
 recapitulare).
+
+> **Superseded by entry below (same day):** BERTScore testat empiric pe
+> ground truth-ul real (text dominant 2-5 tokeni) → gap între similar/different
+> sub 0.05 (zgomot). Drop BERTScore și el. Vezi entry-ul următor.
+
+### 2026-06-16 — motivul_prezentarii: manual ternary scoring, no automatic metric
+
+Testat empiric BERTScore (dumitrescustefan/bert-base-romanian-cased-v1)
+pe text românesc scurt:
+- 3-4 tokeni: similar 0.47 vs different 0.47 (gap 0.00, zgomot pur)
+- ~6 tokeni: similar 0.67 vs different 0.56 (gap 0.11)
+- ~13 tokeni: similar 0.73 vs different 0.56 (gap 0.17)
+
+Ground truth chiropractor e dominant 2-5 cuvinte (audio18: "cot dr.",
+audio19: "durere lombara"). ROUGE-L la fel de slab pe astfel de text.
+
+Decizie: NU se calculează metric automată. Înlocuit cu manual ternary
+scoring (0 / 0.5 / 1) pe toate cele 7 condiții × 15 conv = 105 ratings.
+Dual-rated de cei doi co-autori pe 2 condiții reprezentative (Cond 1
++ Cond 5, 30 ratings) pentru Cohen's kappa. Restul single-rated,
+~75 împărțite. Blind to source condition prin randomization.
+
+Rubrica:
+- 1.0: pred captează acuza și zona; nu inventează
+- 0.5: zona corectă, lipsește/inventează un detaliu
+- 0.0: ratează acuza/zona, halucinează masiv, sau asimetric empty
+- both null → 1.0
+
+Pipeline-ul de scoring manual (randomization + rater UI + IRA aggregator)
+se construiește după ce sunt pred-urile produse.
+
+Modificat: EVAL_DECISIONS.md (secțiunea 5 rescrisă, tabel update).

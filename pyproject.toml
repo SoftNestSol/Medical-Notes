@@ -5,9 +5,13 @@ requires-python = ">=3.9"
 dependencies = [
   "pandas",
   "scikit-learn",
-  "transformers",
+  "transformers<5",
   "datasets",
-  "evaluate"
+  "evaluate",
+  "jsonschema",
+  "bert-score",
+  "python-dotenv",
+  "anthropic",
 ]
 
 [tool.setuptools.packages.find]

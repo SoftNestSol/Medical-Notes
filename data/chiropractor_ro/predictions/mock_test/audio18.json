@@ -1,0 +1,12 @@
+{
+  "motivul_prezentarii": "durere cot drept",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": ["cot_dr", "umar_dr"],
+  "localizarea_durerii_alta": null,
+  "antecedente": ["hipertensiune_arteriala"],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {"denumire": "ibuprofen", "doza": "400mg"}
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\ntendinită\nObiective terapeutice:\n-reducerea durerii"
+}
