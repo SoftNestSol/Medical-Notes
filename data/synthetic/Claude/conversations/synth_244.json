@@ -1,0 +1,283 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, domnule."
+    },
+    {
+      "start": 1.26,
+      "end": 2.06,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 2.18,
+      "end": 4.08,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi numele, vă rog."
+    },
+    {
+      "start": 4.2,
+      "end": 5.0,
+      "speaker": "SPEAKER_01",
+      "text": "Georgescu. Andrei."
+    },
+    {
+      "start": 5.12,
+      "end": 6.64,
+      "speaker": "SPEAKER_00",
+      "text": "Mulțumesc, domnule Georgescu. Vârsta?"
+    },
+    {
+      "start": 6.76,
+      "end": 7.56,
+      "speaker": "SPEAKER_01",
+      "text": "38."
+    },
+    {
+      "start": 7.68,
+      "end": 9.96,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem azi?"
+    },
+    {
+      "start": 10.08,
+      "end": 11.22,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare gâtul."
+    },
+    {
+      "start": 11.34,
+      "end": 12.86,
+      "speaker": "SPEAKER_00",
+      "text": "Gâtul. De cât timp?"
+    },
+    {
+      "start": 12.98,
+      "end": 14.12,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo trei zile."
+    },
+    {
+      "start": 14.24,
+      "end": 19.94,
+      "speaker": "SPEAKER_00",
+      "text": "S-a întâmplat ceva anume, v-ați lovit, ați dormit prost, ați dus ceva greu?"
+    },
+    {
+      "start": 20.06,
+      "end": 22.34,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, probabil am dormit prost."
+    },
+    {
+      "start": 22.46,
+      "end": 28.92,
+      "speaker": "SPEAKER_00",
+      "text": "Probabil dormit prost. Și doare doar în zona gâtului sau se lasă și pe umăr, pe braț?"
+    },
+    {
+      "start": 29.04,
+      "end": 30.94,
+      "speaker": "SPEAKER_01",
+      "text": "Și pe umăr. Pe dreapta."
+    },
+    {
+      "start": 31.06,
+      "end": 34.48,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe umărul drept. Amorțeli în mână, în degete?"
+    },
+    {
+      "start": 34.6,
+      "end": 35.4,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 35.52,
+      "end": 44.26,
+      "speaker": "SPEAKER_00",
+      "text": "Nu. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât ați pune durerea?"
+    },
+    {
+      "start": 44.38,
+      "end": 45.18,
+      "speaker": "SPEAKER_01",
+      "text": "Un 6."
+    },
+    {
+      "start": 45.3,
+      "end": 50.24,
+      "speaker": "SPEAKER_00",
+      "text": "Un 6. Doare mai tare când întoarceți capul sau când stați la birou?"
+    },
+    {
+      "start": 50.36,
+      "end": 51.5,
+      "speaker": "SPEAKER_01",
+      "text": "Când întorc capul."
+    },
+    {
+      "start": 51.62,
+      "end": 54.28,
+      "speaker": "SPEAKER_00",
+      "text": "Când întoarceți capul. Lucrați mult la calculator?"
+    },
+    {
+      "start": 54.4,
+      "end": 55.2,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 55.32,
+      "end": 57.22,
+      "speaker": "SPEAKER_00",
+      "text": "Câte ore pe zi aproximativ?"
+    },
+    {
+      "start": 57.34,
+      "end": 58.48,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo opt, nouă."
+    },
+    {
+      "start": 58.6,
+      "end": 62.4,
+      "speaker": "SPEAKER_00",
+      "text": "Opt, nouă ore. Am înțeles. Alte afecțiuni, tensiune, diabet, ceva?"
+    },
+    {
+      "start": 62.52,
+      "end": 63.32,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 63.44,
+      "end": 64.58,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale, fracturi?"
+    },
+    {
+      "start": 64.7,
+      "end": 65.5,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 65.62,
+      "end": 68.28,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament în momentul de față?"
+    },
+    {
+      "start": 68.4,
+      "end": 69.2,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 69.32,
+      "end": 70.84,
+      "speaker": "SPEAKER_00",
+      "text": "Alergii la creme, unguente?"
+    },
+    {
+      "start": 70.96,
+      "end": 71.76,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 71.88,
+      "end": 79.48,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să facem câteva teste. Stați drept, vă rog. O să vă rog să întoarceți capul spre dreapta încet."
+    },
+    {
+      "start": 79.6,
+      "end": 80.4,
+      "speaker": "SPEAKER_01",
+      "text": "Doare."
+    },
+    {
+      "start": 80.52,
+      "end": 82.04,
+      "speaker": "SPEAKER_00",
+      "text": "Doare. Cât de tare?"
+    },
+    {
+      "start": 82.16,
+      "end": 82.96,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 7."
+    },
+    {
+      "start": 83.08,
+      "end": 86.5,
+      "speaker": "SPEAKER_00",
+      "text": "Un 7 la rotație spre dreapta. Spre stânga acum."
+    },
+    {
+      "start": 86.62,
+      "end": 87.42,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 87.54,
+      "end": 91.72,
+      "speaker": "SPEAKER_00",
+      "text": "Mai puțin spre stânga. Acum aplecați capul ușor spre umărul drept."
+    },
+    {
+      "start": 91.84,
+      "end": 93.36,
+      "speaker": "SPEAKER_01",
+      "text": "Da, doare și așa."
+    },
+    {
+      "start": 93.48,
+      "end": 101.46,
+      "speaker": "SPEAKER_00",
+      "text": "Doare și la înclinare laterală dreapta. O să apăs acum pe mușchii de la baza gâtului, spuneți-mi dacă simțiți ceva."
+    },
+    {
+      "start": 101.58,
+      "end": 103.1,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo e rău."
+    },
+    {
+      "start": 103.22,
+      "end": 107.4,
+      "speaker": "SPEAKER_00",
+      "text": "Exact în trapez, pe dreapta. O să apăs și pe umăr."
+    },
+    {
+      "start": 107.52,
+      "end": 108.32,
+      "speaker": "SPEAKER_01",
+      "text": "Și acolo."
+    },
+    {
+      "start": 108.44,
+      "end": 130.48,
+      "speaker": "SPEAKER_00",
+      "text": "Da, mușchiul trapez și ridicătorul scapulei sunt contractați destul de tare pe dreapta. Probabil din poziția de la calculator, coroborat cu somnul. Ce pot să vă spun este că avem o contractură musculară cervicală, mai ales pe dreapta, cu iradiere spre umărul drept. Vom lucra să reducem această contractură și să recâștigăm mobilitatea. Haideți pe masă, vă rog."
+    },
+    {
+      "start": 130.6,
+      "end": 131.4,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    }
+  ]
+}

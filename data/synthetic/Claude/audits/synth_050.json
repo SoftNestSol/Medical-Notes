@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_050",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare foarte rău gâtul, ceafa mai precis, de vreo trei săptămâni. Și mai am și niște dureri pe umărul drept.",
+      "Eu stau mult la calculator la serviciu și cred că de acolo vine",
+      "Câteodată și capul mă doare, mai ales dimineața."
+    ],
+    "evaluarea_durerii_vas": [
+      "Dimineața... un 8. E destul de rău."
+    ],
+    "localizarea_durerii": [
+      "Mă doare foarte rău gâtul, ceafa mai precis",
+      "mai am și niște dureri pe umărul drept",
+      "Câteodată și capul mă doare, mai ales dimineața."
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori simt că se lasă și în brațul drept, mai sus, dar nu mereu."
+    ],
+    "antecedente": [
+      "Tensiune am, da. Mi-a zis doctorul de familie acum vreo șase luni că am tensiune puțin ridicată. Am 140 peste 90 de obicei."
+    ],
+    "antecedente_altele": [
+      "Am scos apendicele acum mulți ani, vreo 15 ani, altceva nu."
+    ],
+    "medicatie_actuala": [
+      "iau Prestarium, 5 miligrame, în fiecare dimineață"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară destul de importantă la nivel cervical, mai ales pe partea dreaptă, cu iradiere spre umăr",
+      "Nu pot să exclud și o afectare a unui disc cervical fără investigații imagistice, dar deocamdată nu avem semne clare de afectare neurologică severă.",
+      "Obiectivul principal acum este să reducem contractura musculară, să eliberăm tensiunea de la nivel cervical și să recuperăm mobilitatea gâtului. Și o să lucrăm și pe umărul drept."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 13583
+    },
+    "cache_creation_input_tokens": 13583,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 276,
+    "output_tokens": 3394,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

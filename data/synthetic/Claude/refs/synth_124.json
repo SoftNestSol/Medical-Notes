@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "durere genunchi stâng",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "genunchi_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: tendinită rotuliană\nObiective terapeutice:\n- reducerea inflamației din tendon;\n- refacerea mobilității genunchiului"
+}

@@ -1,0 +1,55 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, vă rog, cu ce problemă veniți.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Spatele jos, sus, pe mijloc?\nSPEAKER_01: Jos.\nSPEAKER_00: Zona lombară. De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, ați ridicat ceva, ați căzut?\nSPEAKER_01: Nu știu, așa a apărut.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau numai când faceți ceva anume?\nSPEAKER_01: Când stau jos mult.\nSPEAKER_00: Când stați în scaun. Și când vă ridicați?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Durerea se lasă și pe picior, în fesă, în spate pe coapsă?\nSPEAKER_01: Nu.\nSPEAKER_00: Sigur? Nicio amorțeală, nicio furnicătură?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Bun. Lucrați la birou?\nSPEAKER_01: Da.\nSPEAKER_00: Câte ore pe zi stați în scaun aproximativ?\nSPEAKER_01: Vreo opt.\nSPEAKER_00: Opt ore. Înțeleg. Haideți să vă văd puțin cum stați. Întoarceți-vă cu spatele la mine, stați normal.\nSPEAKER_00: Vedem o ușoară aplecare înainte, umerii căzuți. Aplecați-vă puțin în față, cu mâinile în jos. Doare?\nSPEAKER_01: Da, aici.\nSPEAKER_00: Și când vă îndreptați înapoi?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Ok. Apăs puțin pe coloană, îmi spuneți dacă doare. Aici?\nSPEAKER_01: Da.\nSPEAKER_00: Mai jos?\nSPEAKER_01: Tot.\nSPEAKER_00: Doare și pe lateral, în mușchi?\nSPEAKER_01: Da, mai ales acolo.\nSPEAKER_00: Înțeleg, e o contractură paravertebrală. Afecțiuni mai aveți, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați medicamente acum?\nSPEAKER_01: Nurofen, uneori.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Nu știu, când nu mai suport.\nSPEAKER_00: Deci la nevoie. Ok. Avem o lombalgie mecanică, cel mai probabil din postura la birou. O să lucrăm să reducem contractura și să mobilizăm zona lombară.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară cu debut în urmă cu aproximativ două săptămâni, fără factor declanșator identificat. Durere accentuată la statul prelungit în scaun și la ridicare. Fără iradiere pe membrul inferior, fără amorțeli. Lucrează la birou aproximativ 8 ore pe zi.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară aplecare anterioară a trunchiului, umeri căzuți. Durere la flexia anterioară a trunchiului, ameliorată la extensie. Durere la palpare paravertebrală lombară bilateral, mai accentuată pe lateral în musculatura paravertebrală. Contractură paravertebrală lombară.\nDiagnostic:\nLombalgie mecanică pe fond de postură deficitară (muncă sedentară la birou).\nObiective terapeutice:\nReducerea contracturii paravertebrale lombare; mobilizarea zonei lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "Vreo două săptămâni.",
+      "Când stau jos mult.",
+      "Da, și atunci.",
+      "Nu.",
+      "Da.",
+      "Vreo opt."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Zona lombară."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nurofen, uneori."
+    ],
+    "evaluare_functionala_initiala": [
+      "Vedem o ușoară aplecare înainte, umerii căzuți.",
+      "Da, aici.",
+      "Mai puțin.",
+      "Da.",
+      "Tot.",
+      "Da, mai ales acolo.",
+      "e o contractură paravertebrală",
+      "Avem o lombalgie mecanică, cel mai probabil din postura la birou. O să lucrăm să reducem contractura și să mobilizăm zona lombară."
+    ]
+  }
+}

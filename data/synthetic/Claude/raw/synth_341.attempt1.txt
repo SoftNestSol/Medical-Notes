@@ -1,0 +1,26 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Andrei Moldovan.\nSPEAKER_00: Și vârsta?\nSPEAKER_01: 35.\nSPEAKER_00: Mulțumesc. Cu ce problemă ne vedem astăzi, domnule Moldovan?\nSPEAKER_01: Mă doare ceafa.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. A apărut brusc sau treptat?\nSPEAKER_01: Treptat.\nSPEAKER_00: Aveți vreo activitate care credeți că a declanșat-o? Stați mult la birou, la calculator?\nSPEAKER_01: Da, stau mult la calculator.\nSPEAKER_00: Înțeles. Doare doar în ceafă sau se lasă și în altă parte?\nSPEAKER_01: Uneori și în umărul drept.\nSPEAKER_00: Uneori și în umărul drept. Amorțește mâna sau degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Un 5. Doare mai rău dimineața sau seara, după ce stați la birou?\nSPEAKER_01: Seara.\nSPEAKER_00: Seara, după muncă. Aveți dureri de cap?\nSPEAKER_01: Uneori.\nSPEAKER_00: Uneori. Și în momentul de față doare?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, epilepsie, probleme cardiace?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, accidente?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun fel de pastilă, nimic?\nSPEAKER_01: Nimic.\nSPEAKER_00: Ok. Alergii la creme sau unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să stați în picioare puțin, să fac câteva teste. Voi apăsa ușor pe zona de ceafă, spuneți-mi dacă doare.\nSPEAKER_01: Da, doare.\nSPEAKER_00: Doare chiar pe coloana cervicală sau mai lateral, pe mușchi?\nSPEAKER_01: Mai pe mușchi, pe partea asta.\nSPEAKER_00: Pe partea dreaptă.\nSPEAKER_01: Da.\nSPEAKER_00: Acum vreau să întoarceți capul ușor spre dreapta. Doare?\nSPEAKER_01: Da, trage.\nSPEAKER_00: Trage. Spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin spre stânga. Și dacă aplecați capul înainte?\nSPEAKER_01: Da, și așa.\nSPEAKER_00: Înțeles. Apăs acum pe zona trapezului, pe dreapta. Doare?\nSPEAKER_01: Destul de tare, da.\nSPEAKER_00: Destul de tare. Pe stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Deci e mai afectat pe partea dreaptă. Ce pot să vă spun este că avem o contractură musculară în zona cervicală, mai ales pe trapez și pe mușchii paravertebrali cervicali drepți. Postura la calculator e cu siguranță un factor. O să lucrăm să reducem contractura și să refacem mobilitatea cervicală. Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicala, ceafa, umar drept",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Contractura musculara cervicala - trapez si paravertebrali cervicali drepti;\nObiective terapeutice: - reducerea contracturii musculare;\n- refacerea mobilitatii cervicale"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare ceafa.", "Uneori și în umărul drept."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare ceafa.", "Uneori și în umărul drept."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu.", "Nimic."],
+    "evaluare_functionala_initiala": ["avem o contractură musculară în zona cervicală, mai ales pe trapez și pe mușchii paravertebrali cervicali drepți", "O să lucrăm să reducem contractura și să refacem mobilitatea cervicală"]
+  }
+}

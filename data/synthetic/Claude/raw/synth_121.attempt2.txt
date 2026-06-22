@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă venim azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare constant sau doar când ridicați mâna?\nSPEAKER_01: Când ridic.\nSPEAKER_00: Când ridicați brațul în față, în lateral, sau în ambele direcții?\nSPEAKER_01: Mai mult în lateral.\nSPEAKER_00: Ok. Se lasă durerea și pe braț în jos, pe cot?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțește mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Noaptea vă deranjează, vă treziți din cauza durerii?\nSPEAKER_01: Uneori, da.\nSPEAKER_00: Când stați pe partea dreaptă?\nSPEAKER_01: Da.\nSPEAKER_00: Am înțeles. Alte afecțiuni, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio intervenție chirurgicală la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nurofen, câteodată.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Nu știu, când nu mai pot.\nSPEAKER_00: Ok, deci la nevoie. Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să ridic eu brațul, spuneți-mi când începe să doară.\nSPEAKER_01: Acum.\nSPEAKER_00: La circa 80 de grade. Doare mai tare dacă apăs aici, pe bureletul acesta?\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Și dacă faceți rotație internă, aduceți mâna la spate?\nSPEAKER_01: Merge, dar doare.\nSPEAKER_00: Înțeles. Pare a fi o tendinită la nivelul coifului rotatorilor, mai exact supraspinosul. Avem și un arc dureros la abducție, ceea ce confirmă. Obiectivul nostru e să reducem inflamația și să refacem mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Ați mai făcut terapie până acum pentru asta?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun, atunci trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinita coif rotatori (supraspinat), umar dr.\n- arc dureros la abductie ~80 grade\nObiective terapeutice:\n- reducerea inflamatiei\n- refacerea mobilitatii umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nurofen, câteodată."],
+    "evaluare_functionala_initiala": ["Pare a fi o tendinită la nivelul coifului rotatorilor, mai exact supraspinosul.", "Avem și un arc dureros la abducție, ceea ce confirmă.", "Obiectivul nostru e să reducem inflamația și să refacem mobilitatea umărului."]
+  }
+}

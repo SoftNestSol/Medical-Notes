@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi cu ce problemă ne vedem astăzi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, drept sau stâng?\nSPEAKER_01: Drept.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, o lovitură, o mișcare bruscă?\nSPEAKER_01: Nu știu, poate de la muncă.\nSPEAKER_00: Ce muncă faceți?\nSPEAKER_01: Sunt zugrav.\nSPEAKER_00: Înțeleg. Deci mișcări cu brațul ridicat, mult deasupra capului.\nSPEAKER_01: Da.\nSPEAKER_00: Doare constant sau numai când ridicați brațul?\nSPEAKER_01: Mai mult când ridic.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare când ridicați brațul?\nSPEAKER_01: Un 7.\nSPEAKER_00: Și când stați liniștit, fără să mișcați?\nSPEAKER_01: Vreo 3.\nSPEAKER_00: Se lasă durerea și pe braț în jos sau e doar la umăr?\nSPEAKER_01: Doar la umăr.\nSPEAKER_00: Noaptea vă deranjează? Vă treziți din somn?\nSPEAKER_01: Da, dacă stau pe partea aia.\nSPEAKER_00: Înțeles. Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte probleme de sănătate, tensiune, diabet, ceva?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Luați ceva pentru tensiune?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: O dată pe zi?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vedem puțin cum mișcați brațul. Ridicați-l ușor înainte, cât puteți.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Deci cam la 90 de grade se blochează. Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Acum ridic eu brațul, lăsați-vă moale. Spuneți-mi când doare.\nSPEAKER_01: Acolo, da.\nSPEAKER_00: Pe la 110 grade apare durerea. Bun. Apăs acum pe zona asta, sub osul acromion. Doare?\nSPEAKER_01: Da, tare.\nSPEAKER_00: Înțeles. Avem o iritație la nivelul tendoanelor din umăr, cel mai probabil o tendinopatie de supraspinos. O să lucrăm să reducem inflamația și să refacem mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Probabil două-trei ședințe să simțiți o diferență. Aveți răbdare cu ridicatul brațelor la muncă deocamdată.\nSPEAKER_01: Bine.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept, aparuta de aproximativ doua saptamani, probabil in legatura cu activitatea profesionala (zugrav, muncă cu brațul ridicat deasupra capului).",
+    "evaluarea_durerii_vas": [7, 3],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame, o dată pe zi"
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitarea abducției/flexiei brațului drept la aproximativ 90 de grade activ, durere la arc pasiv în jur de 110 grade, sensibilitate la palpare subacromială. Diagnostic: tendinopatie supraspinos umăr drept. Obiective terapeutice: reducerea inflamației, refacerea mobilității umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Drept.", "Vreo două săptămâni.", "poate de la muncă", "Sunt zugrav."],
+    "evaluarea_durerii_vas": ["Un 7.", "Vreo 3."],
+    "localizarea_durerii": ["Mă doare umărul.", "Drept.", "Doar la umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Enalapril.", "10 miligrame.", "Da."],
+    "evaluare_functionala_initiala": ["Deci cam la 90 de grade se blochează.", "Pe la 110 grade apare durerea.", "Apăs acum pe zona asta, sub osul acromion. Doare?", "Da, tare.", "Avem o iritație la nivelul tendoanelor din umăr, cel mai probabil o tendinopatie de supraspinos. O să lucrăm să reducem inflamația și să refacem mobilitatea umărului."]
+  }
+}

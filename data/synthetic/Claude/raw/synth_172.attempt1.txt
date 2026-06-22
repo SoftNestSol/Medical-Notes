@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți la noi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și s-a întâmplat ceva anume? Ați căzut, ați ridicat ceva?\nSPEAKER_01: Am mutat niște cutii.\nSPEAKER_00: Deci după un efort, după ce ați ridicat cutii.\nSPEAKER_01: Da.\nSPEAKER_00: Durerea e tot timpul sau numai când mișcați brațul?\nSPEAKER_01: Numai când mișc.\nSPEAKER_00: Și noaptea vă deranjează, nu puteți dormi pe partea dreaptă?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Adică nu puteți sau nu vă deranjează?\nSPEAKER_01: Nu pot sta pe dreapta.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum e durerea când ridicați brațul?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Și în repaus?\nSPEAKER_01: Nu prea doare.\nSPEAKER_00: Puteți să ridicați brațul sus de tot?\nSPEAKER_01: Până pe la umăr, nu mai sus.\nSPEAKER_00: Înțeles. Aveți vreun antecedent, vreo boală, tensiune, diabet, ceva la oase?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreo medicație?\nSPEAKER_01: Nurofen, câteodată.\nSPEAKER_00: Câte la zi?\nSPEAKER_01: Unul, când nu mai pot.\nSPEAKER_00: Deci la nevoie. Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai avut probleme cu umărul acesta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Stați puțin cu brațul pe lângă corp, relaxat. Acum ridic eu brațul încet, îmi spuneți când doare.\nSPEAKER_01: Acolo, da.\nSPEAKER_00: Pe la 90 de grade apare durerea?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă apăs aici, pe bureletul umărului, doare?\nSPEAKER_01: Da, doare.\nSPEAKER_00: Rotim brațul în interior, așa. Doare?\nSPEAKER_01: Da, mai tare.\nSPEAKER_00: Înțeles. Avem o inflamație la nivelul tendonului din umăr, cel mai probabil o tendinită de supraspinos. O să lucrăm să reducem inflamația și să recuperăm mobilitatea brațului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutat cutii), de aproximativ doua saptamani, cu limitarea mobilitatii bratului.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": "1 comprimat la nevoie"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: Tendinita supraspinos umar drept. Limitare abductie activa la aproximativ 90 de grade. Durere la palpare burelet umar drept. Durere accentuata la rotatia interna. Obiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii bratului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște cutii.", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 6."],
+    "localizarea_durerii": ["Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nurofen, câteodată.", "Unul, când nu mai pot."],
+    "evaluare_functionala_initiala": ["Avem o inflamație la nivelul tendonului din umăr, cel mai probabil o tendinită de supraspinos.", "O să lucrăm să reducem inflamația și să recuperăm mobilitatea brațului.", "Pe la 90 de grade apare durerea?", "Dacă apăs aici, pe bureletul umărului, doare?", "Rotim brațul în interior, așa. Doare?", "Da, mai tare."]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați?\nSPEAKER_01: Un 5.\nSPEAKER_00: Doare tot timpul sau numai când mișcați?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Când ridicați mâna în față, deasupra capului?\nSPEAKER_01: Da, mai ales sus.\nSPEAKER_00: Și în lateral, dacă ridicați așa?\nSPEAKER_01: Și acolo.\nSPEAKER_00: Amorțește mâna, brațul?\nSPEAKER_01: Nu.\nSPEAKER_00: Doare și în zona gâtului, a cefei?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, epilepsie?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați medicamente în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Stați puțin cu brațul pe lângă corp, relaxat. Vă apăs aici, pe zona de deasupra umărului. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și aici, mai în față?\nSPEAKER_01: Puțin.\nSPEAKER_00: Ridicați acum brațul încet în lateral. Opriți-vă când doare. Doare?\nSPEAKER_01: Da, pe aici.\nSPEAKER_00: Pe la 90 de grade, deci. Deasupra nu mai doare la fel?\nSPEAKER_01: Sus merge mai bine.\nSPEAKER_00: Asta e un semn tipic pentru tendonul supraspinosului. Avem un arc dureros, cum îi spunem noi, deci durere la mijlocul ridicării, nu la capăt. Vom lucra să reducem inflamația din zona respectivă și să recuperăm mobilitatea completă. Haideți pe masă cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "durere umar stang aparuta dupa mutarea mobilei, de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendon supraspinos - arc dureros la ridicarea brațului in lateral (durere la 90 grade);\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii complete"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Vreo două săptămâni.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Asta e un semn tipic pentru tendonul supraspinosului. Avem un arc dureros, cum îi spunem noi, deci durere la mijlocul ridicării, nu la capăt. Vom lucra să reducem inflamația din zona respectivă și să recuperăm mobilitatea completă."]
+  }
+}

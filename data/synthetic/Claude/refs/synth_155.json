@@ -1,0 +1,27 @@
+{
+  "motivul_prezentarii": "Durere umăr stâng cu limitare de mobilitate, agravată la ridicarea brațului și nocturn, debut după efort fizic (mutat mobilă)",
+  "evaluarea_durerii_vas": [
+    8,
+    5
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "jumătatea brațului stâng (iradiere parțială)",
+  "antecedente": [
+    "hipertensiune_arteriala",
+    "hernia_disc"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    },
+    {
+      "denumire": "Amlodipină",
+      "doza": "5 miligrame o dată pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare clară de mobilitate la abducție și sensibilitate pe tendonul supraspinos. Diagnostic: tendinopatie coafă rotatori umăr stâng. Obiective terapeutice: reducerea inflamației și recuperarea mobilității."
+}

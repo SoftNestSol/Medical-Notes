@@ -1,0 +1,42 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare genunchiul.\nSPEAKER_00: Care genunchi?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Treptat, parcă.\nSPEAKER_00: A existat vreun traumatism, o căzătură, o lovitură?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun accident?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Faceți sport sau aveți o activitate mai solicitantă fizic?\nSPEAKER_01: Merg mult pe jos, la serviciu.\nSPEAKER_00: Mult pe jos. Și durerea apare mai mult când mergeți sau și când stați?\nSPEAKER_01: Când merg, mai ales la coborât scările.\nSPEAKER_00: La coborâtul scărilor. Și când vă ridicați de pe scaun, doare?\nSPEAKER_01: Da, puțin.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum estimați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare mai mult pe o parte a genunchiului, pe interior, exterior, sau în față?\nSPEAKER_01: În față, jos.\nSPEAKER_00: Sub rotulă, pe aici?\nSPEAKER_01: Da, exact acolo.\nSPEAKER_00: Și se lasă durerea și pe gambă sau e strict la genunchi?\nSPEAKER_01: Strict acolo.\nSPEAKER_00: Genunchiul se umflă?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Nu prea. Amorțeli sau senzații ciudate la nivelul piciorului?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale la genunchi sau în altă parte?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Nu, n-am luat nimic.\nSPEAKER_00: Ok. Stați puțin în picioare pentru mine, vă rog.\nSPEAKER_01: Gata.\nSPEAKER_00: Stați pe piciorul drept acum, lăsați greutatea pe el. Vă ține?\nSPEAKER_01: Mă ține, da, dar parcă simte ceva.\nSPEAKER_00: Simte o presiune.\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Acum îndoiți ușor genunchiul, pe jumătate. Doare?\nSPEAKER_01: Da, pe sub rotulă.\nSPEAKER_00: Pe sub rotulă, chiar acolo. Bun. Lăsați-vă pe masă, cu fața în sus.\nSPEAKER_01: Ok.\nSPEAKER_00: Apăs ușor pe rotulă, îmi spuneți dacă apare durerea.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Deci avem o sensibilitate la nivelul tendonului patelar. Arată a tendinopatia de tendon patelar, ceea ce explică durerea la coborât scări și la ridicatul de pe scaun. Va trebui să reducem inflamația din zona respectivă și să lucrăm musculatura din jurul genunchiului, mai ales cvadricepsul, ca să descărcăm tendonul.\nSPEAKER_01: Ok.\nSPEAKER_00: Ați mai făcut fizioterapie sau kinetoterapie vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Prima dată. O să mergem pas cu pas atunci.",
+  "note": {
+    "motivul_prezentarii": "Durere la nivelul genunchiului drept, subpatelar, instalată treptat în ultimele două săptămâni, fără traumatism. Accentuată la coborâtul scărilor și la ridicatul de pe scaun. Pacientul merge mult pe jos la serviciu.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "genunchi_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinopatia tendonului patelar (sensibilitate la palparea tendonului patelar, durere la flexie genunchi și la încărcare unipodală)\nObiective terapeutice:\n- reducerea inflamației locale; tonifierea cvadricepsului pentru descărcarea tendonului patelar"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare genunchiul.",
+      "Dreptul.",
+      "Vreo două săptămâni.",
+      "Treptat, parcă.",
+      "Merg mult pe jos, la serviciu.",
+      "Când merg, mai ales la coborât scările."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "În față, jos.",
+      "Da, exact acolo."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Apăs ușor pe rotulă, îmi spuneți dacă apare durerea.",
+      "Da, acolo.",
+      "Deci avem o sensibilitate la nivelul tendonului patelar. Arată a tendinopatia de tendon patelar, ceea ce explică durerea la coborât scări și la ridicatul de pe scaun. Va trebui să reducem inflamația din zona respectivă și să lucrăm musculatura din jurul genunchiului, mai ales cvadricepsul, ca să descărcăm tendonul."
+    ]
+  }
+}

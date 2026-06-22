@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Durere umăr drept apărută după efort fizic (mutat mobilă), de aproximativ două săptămâni. Durere la mișcare, mai ales la ridicarea brațului, cu episoade nocturne.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- tendinită coif rotatori umăr drept\nObservații funcționale:\n- mobilitate limitată pe abducție și rotație internă\n- durere la palparea tendonului supraspinos\nObiective terapeutice:\n- reducerea inflamației\n- reluarea mobilității"
+}

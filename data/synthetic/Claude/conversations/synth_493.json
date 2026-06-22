@@ -1,0 +1,385 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună."
+    },
+    {
+      "start": 1.84,
+      "end": 3.36,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă veniți?"
+    },
+    {
+      "start": 3.48,
+      "end": 4.62,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare spatele."
+    },
+    {
+      "start": 4.74,
+      "end": 6.64,
+      "speaker": "SPEAKER_00",
+      "text": "Zona de jos, de sus?"
+    },
+    {
+      "start": 6.76,
+      "end": 7.56,
+      "speaker": "SPEAKER_01",
+      "text": "Jos."
+    },
+    {
+      "start": 7.68,
+      "end": 9.2,
+      "speaker": "SPEAKER_00",
+      "text": "Lombar. De cât timp?"
+    },
+    {
+      "start": 9.32,
+      "end": 10.46,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo două săptămâni."
+    },
+    {
+      "start": 10.58,
+      "end": 12.86,
+      "speaker": "SPEAKER_00",
+      "text": "Și a apărut brusc sau treptat?"
+    },
+    {
+      "start": 12.98,
+      "end": 13.78,
+      "speaker": "SPEAKER_01",
+      "text": "Brusc."
+    },
+    {
+      "start": 13.9,
+      "end": 18.46,
+      "speaker": "SPEAKER_00",
+      "text": "S-a întâmplat ceva anume? Ați ridicat ceva, ați făcut un efort?"
+    },
+    {
+      "start": 18.58,
+      "end": 20.1,
+      "speaker": "SPEAKER_01",
+      "text": "Am mutat niște mobilă."
+    },
+    {
+      "start": 20.22,
+      "end": 28.96,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde ați situa durerea?"
+    },
+    {
+      "start": 29.08,
+      "end": 29.88,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 7."
+    },
+    {
+      "start": 30.0,
+      "end": 32.66,
+      "speaker": "SPEAKER_00",
+      "text": "7. Doare constant sau numai la mișcare?"
+    },
+    {
+      "start": 32.78,
+      "end": 36.58,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult când mă ridic sau când stau mult jos."
+    },
+    {
+      "start": 36.7,
+      "end": 39.74,
+      "speaker": "SPEAKER_00",
+      "text": "Când vă ridicați din scaun sau din pat?"
+    },
+    {
+      "start": 39.86,
+      "end": 40.66,
+      "speaker": "SPEAKER_01",
+      "text": "Da, amândouă."
+    },
+    {
+      "start": 40.78,
+      "end": 43.44,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea se lasă pe fesă, pe picior?"
+    },
+    {
+      "start": 43.56,
+      "end": 44.36,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 44.48,
+      "end": 46.38,
+      "speaker": "SPEAKER_00",
+      "text": "Nici un pic pe fesă?"
+    },
+    {
+      "start": 46.5,
+      "end": 48.4,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, rămâne jos la spate."
+    },
+    {
+      "start": 48.52,
+      "end": 50.42,
+      "speaker": "SPEAKER_00",
+      "text": "Strict lombar. Amorțeli la picioare?"
+    },
+    {
+      "start": 50.54,
+      "end": 51.34,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 51.46,
+      "end": 54.12,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Stați în picioare mult în activitate?"
+    },
+    {
+      "start": 54.24,
+      "end": 56.9,
+      "speaker": "SPEAKER_01",
+      "text": "Lucrez la birou, stau mult pe scaun."
+    },
+    {
+      "start": 57.02,
+      "end": 58.16,
+      "speaker": "SPEAKER_00",
+      "text": "Și asta agravează."
+    },
+    {
+      "start": 58.28,
+      "end": 59.08,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 59.2,
+      "end": 61.1,
+      "speaker": "SPEAKER_00",
+      "text": "Când vă culcați, vă doare?"
+    },
+    {
+      "start": 61.22,
+      "end": 65.02,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă stau pe o parte merge, pe spate nu prea."
+    },
+    {
+      "start": 65.14,
+      "end": 68.94,
+      "speaker": "SPEAKER_00",
+      "text": "Pe spate nu merge. Dimineața cum vă treziți, sunteți blocat?"
+    },
+    {
+      "start": 69.06,
+      "end": 72.1,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic, da. Până mă pun în mișcare."
+    },
+    {
+      "start": 72.22,
+      "end": 75.26,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Alte afecțiuni, tensiune, diabet, probleme la inimă?"
+    },
+    {
+      "start": 75.38,
+      "end": 76.18,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 76.3,
+      "end": 78.96,
+      "speaker": "SPEAKER_00",
+      "text": "Hernie de disc știți să aveți, scolioză?"
+    },
+    {
+      "start": 79.08,
+      "end": 81.74,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, n-am făcut nicio investigație."
+    },
+    {
+      "start": 81.86,
+      "end": 83.76,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Medicamente luați în prezent?"
+    },
+    {
+      "start": 83.88,
+      "end": 84.68,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 84.8,
+      "end": 85.94,
+      "speaker": "SPEAKER_00",
+      "text": "Niciun antiinflamator, nimic?"
+    },
+    {
+      "start": 86.06,
+      "end": 86.86,
+      "speaker": "SPEAKER_01",
+      "text": "Nimic."
+    },
+    {
+      "start": 86.98,
+      "end": 91.92,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să fac câteva teste. Stați în picioare cu spatele la mine."
+    },
+    {
+      "start": 92.04,
+      "end": 92.84,
+      "speaker": "SPEAKER_01",
+      "text": "Bine."
+    },
+    {
+      "start": 92.96,
+      "end": 100.18,
+      "speaker": "SPEAKER_00",
+      "text": "Relaxați umerii. Văd că aveți bazinul ușor înclinat spre stânga. Simțiți că aveți un picior mai obosit decât celălalt?"
+    },
+    {
+      "start": 100.3,
+      "end": 101.1,
+      "speaker": "SPEAKER_01",
+      "text": "Parcă dreptul."
+    },
+    {
+      "start": 101.22,
+      "end": 105.02,
+      "speaker": "SPEAKER_00",
+      "text": "Stați puțin pe piciorul drept, lăsați stângul relaxat. Vă ține?"
+    },
+    {
+      "start": 105.14,
+      "end": 105.94,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 106.06,
+      "end": 109.1,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Aplecați-vă ușor în față, cât puteți."
+    },
+    {
+      "start": 109.22,
+      "end": 110.36,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot."
+    },
+    {
+      "start": 110.48,
+      "end": 112.0,
+      "speaker": "SPEAKER_00",
+      "text": "Doare când vă aplecați?"
+    },
+    {
+      "start": 112.12,
+      "end": 114.02,
+      "speaker": "SPEAKER_01",
+      "text": "Da, se strânge acolo jos."
+    },
+    {
+      "start": 114.14,
+      "end": 116.8,
+      "speaker": "SPEAKER_00",
+      "text": "Se strânge. Și pe extensie, pe spate?"
+    },
+    {
+      "start": 116.92,
+      "end": 117.72,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 117.84,
+      "end": 125.44,
+      "speaker": "SPEAKER_00",
+      "text": "Mai puțin pe extensie. Haideți pe masă, culcați cu fața în sus. Ridic piciorul drept, spuneți-mi dacă doare undeva."
+    },
+    {
+      "start": 125.56,
+      "end": 126.36,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 126.48,
+      "end": 128.76,
+      "speaker": "SPEAKER_00",
+      "text": "Nu doare. Același lucru pe stânga."
+    },
+    {
+      "start": 128.88,
+      "end": 130.02,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu doare."
+    },
+    {
+      "start": 130.14,
+      "end": 135.84,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, testul acesta e negativ, deci nu avem iritație radiculară evidentă. Apăs paravertebral lombar, doare?"
+    },
+    {
+      "start": 135.96,
+      "end": 137.1,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo da."
+    },
+    {
+      "start": 137.22,
+      "end": 139.5,
+      "speaker": "SPEAKER_00",
+      "text": "Mai mult pe dreapta sau stânga?"
+    },
+    {
+      "start": 139.62,
+      "end": 140.42,
+      "speaker": "SPEAKER_01",
+      "text": "Pe dreapta."
+    },
+    {
+      "start": 140.54,
+      "end": 159.16,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Avem o contractură musculară paravertebrală, mai accentuată pe dreapta, și o ușoară dezaliniere de bazin. Durerea e locală, fără iradiere, ceea ce e un semn bun. Obiectivul nostru e să relaxăm musculatura din zona lombară, să reducem inflamația locală și să lucrăm mobilitatea ca să nu se cronicizeze."
+    },
+    {
+      "start": 159.28,
+      "end": 160.08,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 160.2,
+      "end": 161.34,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să începem."
+    }
+  ]
+}

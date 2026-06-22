@@ -1,0 +1,157 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.18,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, spuneți-mi vă rog cu ce problemă veniți azi."
+    },
+    {
+      "start": 4.3,
+      "end": 23.3,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua. Deci, eu am o durere în zona de jos a spatelui, lombară, ăăă, de vreo două săptămâni. Dar eu am și un pic de stres la serviciu, nu știu dacă are legătură, pentru că am stat mult la birou, avem proiect mare acum, și... da, în principal spatele."
+    },
+    {
+      "start": 23.42,
+      "end": 28.36,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Pe o scară de la 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 28.48,
+      "end": 39.12,
+      "speaker": "SPEAKER_01",
+      "text": "Aș zice un 5. Nu e că nu pot să merg, pot, dar mă ține, mai ales dimineața când mă ridic din pat. Și stând jos mai mult."
+    },
+    {
+      "start": 39.24,
+      "end": 40.76,
+      "speaker": "SPEAKER_00",
+      "text": "Dimineața e mai rău?"
+    },
+    {
+      "start": 40.88,
+      "end": 59.12,
+      "speaker": "SPEAKER_01",
+      "text": "Da, dimineața e cel mai rău. Mă trezesc și parcă sunt blocat. Dar după ce mă mișc puțin, după 10-15 minute, mai trece. Și eu ziceam că poate e de la saltea, am schimbat salteaua acum trei luni, dar nu știu, soția zice că nu are legătură."
+    },
+    {
+      "start": 59.24,
+      "end": 61.52,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea se lasă și pe picior?"
+    },
+    {
+      "start": 61.64,
+      "end": 66.96,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, rămâne acolo în zona aia, în spate, jos. Nu merge nicăieri altundeva."
+    },
+    {
+      "start": 67.08,
+      "end": 69.36,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai avut episoade similare înainte?"
+    },
+    {
+      "start": 69.48,
+      "end": 88.1,
+      "speaker": "SPEAKER_01",
+      "text": "Păi acum doi ani am mai pățit ceva, dar a trecut singur în câteva zile. Atunci ridicasem niște cutii. Acum nu știu ce am făcut, poate statul la birou. Mă gândeam că poate e ceva grav, că am citit pe internet despre hernii și mă speriasem, dar nu știu."
+    },
+    {
+      "start": 88.22,
+      "end": 90.5,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Alte afecțiuni, tensiune, diabet, osteoporoză?"
+    },
+    {
+      "start": 90.62,
+      "end": 96.7,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Iau și pastile pentru ea. Iau Prestarium, o pastilă pe zi. Altceva nu."
+    },
+    {
+      "start": 96.82,
+      "end": 101.38,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să stați cu spatele la mine, relaxat. Picioarele puțin depărtate."
+    },
+    {
+      "start": 101.5,
+      "end": 108.34,
+      "speaker": "SPEAKER_01",
+      "text": "Aveți grijă că mă doare dacă apăsați tare acolo, data trecută la alt doctor m-a apăsat și..."
+    },
+    {
+      "start": 108.46,
+      "end": 112.64,
+      "speaker": "SPEAKER_00",
+      "text": "Da, vă spun eu dacă apăs. Spuneți-mi dacă doare. Doare?"
+    },
+    {
+      "start": 112.76,
+      "end": 115.8,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo, da. Pe partea asta mai tare."
+    },
+    {
+      "start": 115.92,
+      "end": 117.44,
+      "speaker": "SPEAKER_00",
+      "text": "Pe dreapta mai tare?"
+    },
+    {
+      "start": 117.56,
+      "end": 118.7,
+      "speaker": "SPEAKER_01",
+      "text": "Da, pe dreapta."
+    },
+    {
+      "start": 118.82,
+      "end": 120.72,
+      "speaker": "SPEAKER_00",
+      "text": "Aplecați-vă puțin în față."
+    },
+    {
+      "start": 120.84,
+      "end": 123.88,
+      "speaker": "SPEAKER_01",
+      "text": "Uite, când mă aplec abia, abia. Mă ține."
+    },
+    {
+      "start": 124.0,
+      "end": 132.74,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Blocaj muscular paravertebral lombar, mai accentuat pe dreapta. Mobilitate lombară redusă la flexie. Vom lucra pe reducerea acestui blocaj și pe mobilitate."
+    },
+    {
+      "start": 132.86,
+      "end": 136.66,
+      "speaker": "SPEAKER_01",
+      "text": "Și nu e ceva mai grav? Adică nu e hernie?"
+    },
+    {
+      "start": 136.78,
+      "end": 144.38,
+      "speaker": "SPEAKER_00",
+      "text": "Nu pot să exclud fără investigații, dar tabloul clinic e mai degrabă de contractură musculară. Vedem cum răspundeți la tratament."
+    },
+    {
+      "start": 144.5,
+      "end": 147.16,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, ok. Și cam câte ședințe credeți?"
+    },
+    {
+      "start": 147.28,
+      "end": 150.32,
+      "speaker": "SPEAKER_00",
+      "text": "Vedem după primele două-trei. Haideți pe masă."
+    }
+  ]
+}

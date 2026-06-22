@@ -1,0 +1,169 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, cu ce vă pot ajuta?"
+    },
+    {
+      "start": 2.78,
+      "end": 16.46,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, da, am o problemă cu umărul, umărul stâng, de câteva săptămâni mă chinuie și nu mai știu ce să fac, am pus și un gel, am frecat, am încercat tot și tot nu trece."
+    },
+    {
+      "start": 16.58,
+      "end": 18.1,
+      "speaker": "SPEAKER_00",
+      "text": "De câte săptămâni exact?"
+    },
+    {
+      "start": 18.22,
+      "end": 33.42,
+      "speaker": "SPEAKER_01",
+      "text": "Păi eu zic că vreo trei săptămâni, poate patru, nu știu exact. A început când am mutat niște mobilă cu soțul meu, am crezut că o să-mi treacă singur, știți cum e, am tot așteptat și nu a trecut."
+    },
+    {
+      "start": 33.54,
+      "end": 36.96,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și vă doare continuu sau numai la mișcare?"
+    },
+    {
+      "start": 37.08,
+      "end": 53.04,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult la mișcare, adică dacă stau liniștită nu simt aproape nimic, dar dacă ridic mâna sau încerc să ajung la ceva sus, pe raft sau ceva, mă doare tare. Și noaptea, că mă întorc pe el în somn și mă trezesc."
+    },
+    {
+      "start": 53.16,
+      "end": 58.86,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cât de tare doare când ridicați brațul?"
+    },
+    {
+      "start": 58.98,
+      "end": 62.78,
+      "speaker": "SPEAKER_01",
+      "text": "Când ridic? Eh, aș zice vreo 7, da, un 7."
+    },
+    {
+      "start": 62.9,
+      "end": 64.04,
+      "speaker": "SPEAKER_00",
+      "text": "Și în repaus?"
+    },
+    {
+      "start": 64.16,
+      "end": 67.2,
+      "speaker": "SPEAKER_01",
+      "text": "În repaus poate un 2, nu mare lucru."
+    },
+    {
+      "start": 67.32,
+      "end": 70.36,
+      "speaker": "SPEAKER_00",
+      "text": "Simțiți amorțeală, furnicături în braț sau în mână?"
+    },
+    {
+      "start": 70.48,
+      "end": 85.3,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, nu, nimic din astea. Mă tem că am rupt ceva acolo, știți, am văzut pe internet tot felul de chestii și m-am speriat, am citit de rupturi de tendoane și... nu știu, poate e ceva grav."
+    },
+    {
+      "start": 85.42,
+      "end": 93.02,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg, e firesc să vă îngrijorați. Haideți să vedem mai întâi ce se întâmplă. Aveți tensiune, diabet, vreo boală cronică?"
+    },
+    {
+      "start": 93.14,
+      "end": 109.86,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic, sunt sănătoasă tun, 34 de ani, nu iau nimic în mod regulat. Am pus un gel antiinflamator câteva zile, unul pe care l-am luat de la farmacie, Voltaren, dar nu știu dacă a ajutat, nu prea am simțit diferența."
+    },
+    {
+      "start": 109.98,
+      "end": 113.02,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Haideți, ridicați brațul stâng în față, încet."
+    },
+    {
+      "start": 113.14,
+      "end": 115.42,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, mai sus doare."
+    },
+    {
+      "start": 115.54,
+      "end": 117.06,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum în lateral."
+    },
+    {
+      "start": 117.18,
+      "end": 120.6,
+      "speaker": "SPEAKER_01",
+      "text": "Aaah, da, asta doare mai tare, pe aici sus."
+    },
+    {
+      "start": 120.72,
+      "end": 123.38,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Întoarceți palma în sus, la fel."
+    },
+    {
+      "start": 123.5,
+      "end": 125.78,
+      "speaker": "SPEAKER_01",
+      "text": "Merge, nu doare la mișcarea asta."
+    },
+    {
+      "start": 125.9,
+      "end": 130.08,
+      "speaker": "SPEAKER_00",
+      "text": "Stați puțin, apăs eu aici pe umăr, spuneți-mi dacă doare."
+    },
+    {
+      "start": 130.2,
+      "end": 132.1,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo doare, exact acolo."
+    },
+    {
+      "start": 132.22,
+      "end": 133.36,
+      "speaker": "SPEAKER_00",
+      "text": "Și mai jos?"
+    },
+    {
+      "start": 133.48,
+      "end": 134.62,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, da."
+    },
+    {
+      "start": 134.74,
+      "end": 155.64,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Avem o limitare a abducției și durere la palparea zonei subacromiale. Pare a fi o tendinită la nivelul coafei rotatorilor, cel mai probabil supraspinatus. Nu e o ruptură, nu vă îngrijorați, e o inflamație a tendonului din cauza efortului de la mutatul mobilei. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului."
+    },
+    {
+      "start": 155.76,
+      "end": 162.22,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, bine, mă bucur că nu e rupt nimic. Și o să pot să ridic brațul normal?"
+    },
+    {
+      "start": 162.34,
+      "end": 166.14,
+      "speaker": "SPEAKER_00",
+      "text": "Da, cu tratament adecvat, da. Haideți să trecem la treabă."
+    }
+  ]
+}

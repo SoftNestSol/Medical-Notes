@@ -1,0 +1,46 @@
+{
+  "conversation_id": "synth_471",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Am carat niște saci la mutat.",
+      "E mai mult dimineața.",
+      "Uneori pe fesă, pe dreapta.",
+      "Da, dacă stau mai mult de o oră."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7.",
+      "Poate un 4."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Da, acolo doare."
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori pe fesă, pe dreapta."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți o ușoară înclinare spre stânga, bazinul e puțin ridicat pe dreapta.",
+      "La pătrat lombar pe dreapta. Și mai jos, pe fesier?",
+      "Se trage în lombar.",
+      "avem o lombalgie acută după efort, cu contractură paravertebrală lombară și tensionare a fesierului pe dreapta. O să lucrăm să reducem inflamația și să relaxăm musculatura"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 22971
+    },
+    "cache_creation_input_tokens": 22971,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 351,
+    "output_tokens": 2088,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

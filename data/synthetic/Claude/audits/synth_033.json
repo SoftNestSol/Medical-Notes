@@ -1,0 +1,42 @@
+{
+  "conversation_id": "synth_033",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul",
+      "Și spre umăr, pe dreapta"
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5"
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul",
+      "Și spre umăr, pe dreapta"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Enalapril",
+      "10 miligrame"
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o contractură cervicală cu posibilă iritație la nivel C5-C6, dat fiind că se lasă și spre umărul drept. Vom lucra să reducem contractura musculară și să refacem mobilitatea cervicală"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 13499
+    },
+    "cache_creation_input_tokens": 13499,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1782,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

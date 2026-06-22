@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "Durere umar stang aparuta dupa efort fizic (mutat cutii), cu limitare la ridicarea bratului, agravata nocturn",
+  "evaluarea_durerii_vas": [
+    4,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Perindopril",
+      "doza": "5 miligrame, o dată pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare abductie umar stang (pana la orizontala), sensibilitate la palpare zona supraspinos. Diagnostic: tendinita supraspinos. Obiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii."
+}

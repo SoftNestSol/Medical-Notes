@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare ceafa.\nSPEAKER_00: Ceafa. De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau a venit treptat?\nSPEAKER_01: Treptat, cred.\nSPEAKER_00: Treptat. Ați făcut ceva anume înainte să înceapă, un efort, stat mai mult la birou, ceva?\nSPEAKER_01: Stau mult la calculator, da.\nSPEAKER_00: Mult la calculator. Câte ore pe zi, aproximativ?\nSPEAKER_01: Vreo opt, nouă ore.\nSPEAKER_00: Opt, nouă ore. Și durerea rămâne în ceafă sau se lasă și în altă parte?\nSPEAKER_01: Uneori urcă și în cap, la spate, la ceafă spre cap.\nSPEAKER_00: Deci urcă spre cap pe zona posterioară.\nSPEAKER_01: Da.\nSPEAKER_00: Și pe braț sau pe umăr nu se lasă?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare maxim, unde ați situa durerea acum?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Și la cel mai rău moment al zilei, tot 5 sau mai mult?\nSPEAKER_01: Mai mult, poate 7.\nSPEAKER_00: 7 la cel mai rău. Când e mai rău, dimineața sau la sfârșitul zilei?\nSPEAKER_01: La sfârșitul zilei.\nSPEAKER_00: La sfârșitul zilei, după calculator. Am înțeles. Amorțeli pe mâini sau pe degete avem?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Senzație de vertij, greață?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Tensiune arterială, diabet, alte afecțiuni?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Nimic. Medicamente luați ceva în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă. Ok. Haideți să facem câteva teste. Întoarceți capul ușor spre dreapta... doare?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Spre stânga acum...\nSPEAKER_01: Mai tare.\nSPEAKER_00: Mai tare spre stânga. Și dacă lăsați bărbia în piept?\nSPEAKER_01: Mă trage, da.\nSPEAKER_00: Vă trage în ceafă. Bine. Stați puțin, apăs ușor pe musculatura de la baza craniului... doare aici?\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: Da, e contractat, simt și eu. Și mai jos pe coloana cervicală, pe C5-C6, doare când apăs?\nSPEAKER_01: Da, puțin.\nSPEAKER_00: Puțin. Deci avem o contractură cervicală cu tensionare suboccipitală și limitare de mobilitate la rotația stângă și flexie. Cel mai probabil postura la calculator a generat un sindrom postural cervical. Vom lucra pe relaxarea musculaturii cervicale și suboccipitale și refacerea mobilității. Bine?\nSPEAKER_01: Da.\nSPEAKER_00: Așezați-vă pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală și ceafă cu iradiere spre occipital, apărută treptat în ultimele două săptămâni, asociată cu muncă prelungită la calculator",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["cervical", "cap_ceafa"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații funcționale: limitare de mobilitate la rotație stângă și flexie cervicală, contractură palpabilă la musculatura suboccipitală, durere la presiune pe C5-C6.\nDiagnostic: Sindrom postural cervical cu contractură cervicală și tensionare suboccipitală.\nObiective terapeutice: relaxarea musculaturii cervicale și suboccipitale; refacerea mobilității cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare ceafa.", "Stau mult la calculator, da.", "a apărut brusc sau a venit treptat? Treptat, cred.", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un 5.", "Mai mult, poate 7."],
+    "localizarea_durerii": ["Mă doare ceafa.", "Uneori urcă și în cap, la spate, la ceafă spre cap."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Mă trage, da.", "Da, acolo da.", "avem o contractură cervicală cu tensionare suboccipitală și limitare de mobilitate la rotația stângă și flexie.", "Vom lucra pe relaxarea musculaturii cervicale și suboccipitale și refacerea mobilității."]
+  }
+}

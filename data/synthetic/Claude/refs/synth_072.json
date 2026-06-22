@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere cervicală cu iradiere pe umărul stâng, instalată treptat în ultimele două săptămâni, agravată după orele de stat la calculator.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nPostură cu capul dus înainte. Limitare și durere la rotație cervicală stânga. Contractură trapez și ridicător scapulă, predominant stânga.\nObiective terapeutice:\nRelaxarea musculaturii cervicale și a trapezelui; recuperarea mobilității cervicale."
+}

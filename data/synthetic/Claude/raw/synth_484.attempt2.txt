@@ -1,0 +1,49 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare ceafa.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Treptat, parcă.\nSPEAKER_00: A existat ceva anume care a declanșat-o? O mișcare, un efort?\nSPEAKER_01: Nu știu, poate de la calculator. Stau mult.\nSPEAKER_00: Înțeleg. Și doare tot timpul sau mai mult la anumite momente?\nSPEAKER_01: Mai mult dimineața și când stau la birou mult.\nSPEAKER_00: Dimineața când vă treziți e mai rău?\nSPEAKER_01: Da.\nSPEAKER_00: Și se mai ameliorează pe parcursul zilei?\nSPEAKER_01: Un pic, da.\nSPEAKER_00: Durerea rămâne strict în ceafă sau se duce și în altă parte?\nSPEAKER_01: Uneori se duce și în cap, în spate.\nSPEAKER_00: În spate capului, occipital, sau mai spre tâmple?\nSPEAKER_01: În spate, da.\nSPEAKER_00: Ok. Și pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, unde vă situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Simțiți vreodată amețeli, greață?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeli pe mâini, pe brațe?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Aveți vreo afecțiune, tensiune, diabet, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în mod curent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici pentru durere, vreun antiinflamator?\nSPEAKER_01: Nu am luat nimic.\nSPEAKER_00: Ok. Fracturi, operații la nivelul coloanei?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă uit puțin cum stați. Ridicați-vă, vă rog, și staț cu spatele la mine.\nSPEAKER_01: Așa?\nSPEAKER_00: Da, exact. Observ că aveți capul dus un pic în față față de linia umerilor. Stați mult timp așa la birou?\nSPEAKER_01: Probabil, da.\nSPEAKER_00: Înțeleg. Acum, întoarceți capul ușor spre dreapta... doare?\nSPEAKER_01: Da, puțin.\nSPEAKER_00: Spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Și dacă lăsați capul pe spate?\nSPEAKER_01: Doare.\nSPEAKER_00: Doare. Dar în flexie, în față?\nSPEAKER_01: Nu, nu prea.\nSPEAKER_00: Bun. Apăs puțin pe musculatura din ceafă... doare aici?\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: Și pe partea dreaptă e mai sensibil decât pe stânga?\nSPEAKER_01: Da, mai mult pe dreapta.\nSPEAKER_00: Am înțeles. Deci avem o contractură destul de consistentă în zona suboccipitală, mai accentuată pe dreapta, și o mobilitate redusă la rotație spre dreapta și extensie. E o cervicalgie de tip postural, cel mai probabil accentuată de postura la calculator. O să lucrăm să reducem contractura musculară și să redobândim mobilitatea în cervical. Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere în ceafă de aproximativ două săptămâni, accentuată dimineața și la statul prelungit la birou, cu iradiere occipitală uneori. Posibil legată de postura la calculator.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nCap proiectat anterior față de linia umerilor. Mobilitate redusă la rotație dreaptă și extensie cervicală, dureroase. Rotație stângă și flexie relativ libere. Palpare: contractură musculară suboccipitală bilaterală, mai accentuată pe dreapta.\nDiagnostic:\nCervicalgie de tip postural cu contractură suboccipitală dreaptă predominantă.\nObiective terapeutice:\nReducerea contracturii musculare cervicale; redobândirea mobilității la rotație dreaptă și extensie."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare ceafa.",
+      "Vreo două săptămâni.",
+      "Mai mult dimineața și când stau la birou mult.",
+      "Uneori se duce și în cap, în spate.",
+      "Nu știu, poate de la calculator. Stau mult."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare ceafa.",
+      "Uneori se duce și în cap, în spate."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nu am luat nimic.",
+      "Nu luați vreun medicament în mod curent? Nu."
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți capul dus un pic în față față de linia umerilor.",
+      "întoarceți capul ușor spre dreapta... doare? Da, puțin.",
+      "Spre stânga? Mai puțin.",
+      "dacă lăsați capul pe spate? Doare.",
+      "Apăs puțin pe musculatura din ceafă... doare aici? Da, acolo da.",
+      "pe partea dreaptă e mai sensibil decât pe stânga? Da, mai mult pe dreapta.",
+      "avem o contractură destul de consistentă în zona suboccipitală, mai accentuată pe dreapta, și o mobilitate redusă la rotație spre dreapta și extensie. E o cervicalgie de tip postural",
+      "O să lucrăm să reducem contractura musculară și să redobândim mobilitatea în cervical."
+    ]
+  }
+}

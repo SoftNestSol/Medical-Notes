@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_207",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere în zona lombară, mai jos de mijloc, de vreo două săptămâni",
+      "m-am dus la sală, am ridicat niște greutăți, genuflexiuni cu bara, și a doua zi dimineață m-am trezit și nu prea mă puteam îndrepta",
+      "uneori simt ceva și pe piciorul stâng, mai jos, spre fesă și pe coapsă",
+      "Lucrez la birou, stau câte opt ore, nouă ore pe zi",
+      "mai am uneori ceva la gât, mai ales după ce dorm prost sau stau la calculator cu capul în față"
+    ],
+    "evaluarea_durerii_vas": [
+      "Aș zice un 7"
+    ],
+    "localizarea_durerii": [
+      "am o durere în zona lombară, mai jos de mijloc",
+      "mai am uneori ceva la gât"
+    ],
+    "localizarea_durerii_alta": [
+      "simt ceva și pe piciorul stâng, mai jos, spre fesă și pe coapsă"
+    ],
+    "antecedente": [
+      "Tensiune am, da. De vreo trei ani mi-a zis medicul de familie că am tensiunea puțin ridicată",
+      "mi-a zis medicul că am o ușoară scolioză lombară"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Prestarium, 5 miligrame, o pastilă pe zi dimineața",
+      "Am luat Ibuprofen câteva zile când m-a apucat, câte un 400",
+      "Am mai pus și un gel, Fastum gel, pe acolo, seara"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură paravertebrală lombară mai accentuată pe stânga și un test Lasègue pozitiv pe membrul inferior stâng",
+      "Deci avem un Lasègue pozitiv pe stânga la aproximativ 45 de grade",
+      "semnele sugerează o iritație radiculară la nivelul lombosacralului",
+      "să reducem contractura musculară, să lucrăm pe mobilitate lombară și să ameliorăm durerea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22928,
+    "inference_geo": "global",
+    "input_tokens": 271,
+    "output_tokens": 3549,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

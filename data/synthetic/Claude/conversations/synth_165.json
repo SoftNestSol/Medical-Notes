@@ -1,0 +1,163 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua! Cu ce problemă ne vedem?"
+    },
+    {
+      "start": 2.78,
+      "end": 26.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua. Deci... am o durere de umăr, umărul stâng, de vreo trei săptămâni. Dar înainte să vă spun, vreau să vă zic că am mai fost la un medic și mi-a zis că ar putea fi ceva la tendoane, dar nu știu, nu m-a convins prea mult și am zis să vin și pe la dumneavoastră să văd ce ziceți."
+    },
+    {
+      "start": 26.84,
+      "end": 29.5,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și cum a apărut durerea asta?"
+    },
+    {
+      "start": 29.62,
+      "end": 60.78,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... lucrez la birou, stau foarte mult la calculator, și cred că de la poziție, dar nu știu sigur. La un moment dat m-am trezit dimineața și pur și simplu mă durea. Nu am căzut, nu am lovit nimic. Poate și pentru că am și mutat niște cutii mai grele cu o săptămână înainte, nu știu dacă e de la aia. Soția mea zice că dorm prost, pe partea aia, dar eu nu cred că ăsta e motivul, deși cine știe."
+    },
+    {
+      "start": 60.9,
+      "end": 63.94,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Doare constant sau doar la anumite mișcări?"
+    },
+    {
+      "start": 64.06,
+      "end": 80.02,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult la mișcări. Adică dacă stau liniștit nu simt mare lucru, dar când ridic mâna în sus sau când încerc să ajung la ceva pe spate, atunci doare rău. Și noaptea, dacă mă întorc pe partea stângă, mă trezesc din somn."
+    },
+    {
+      "start": 80.14,
+      "end": 86.6,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cât de tare doare când ridici mâna în sus?"
+    },
+    {
+      "start": 86.72,
+      "end": 90.14,
+      "speaker": "SPEAKER_01",
+      "text": "Când ridic mâna... un 7, aș zice. Da, 7."
+    },
+    {
+      "start": 90.26,
+      "end": 91.78,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și în repaus?"
+    },
+    {
+      "start": 91.9,
+      "end": 93.8,
+      "speaker": "SPEAKER_01",
+      "text": "În repaus un 2, maxim."
+    },
+    {
+      "start": 93.92,
+      "end": 96.96,
+      "speaker": "SPEAKER_00",
+      "text": "Ai mai avut probleme cu umărul ăsta înainte?"
+    },
+    {
+      "start": 97.08,
+      "end": 114.18,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată. Adică am mai avut dureri de spate, lombarul mă mai supără din când în când, dar la umăr e prima dată. Și vă zic sincer, mă tem că e ceva grav, că o fi rupt ceva acolo, de aia am venit mai repede."
+    },
+    {
+      "start": 114.3,
+      "end": 118.86,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles, hai să vedem. Ai tensiune, diabet, osteoporoză, ceva de genul ăsta?"
+    },
+    {
+      "start": 118.98,
+      "end": 125.44,
+      "speaker": "SPEAKER_01",
+      "text": "Am tensiune, da. Iau tratament pentru asta. Iau Prestarium, o pastilă pe zi, de vreo doi ani."
+    },
+    {
+      "start": 125.56,
+      "end": 126.7,
+      "speaker": "SPEAKER_00",
+      "text": "Altceva mai iei?"
+    },
+    {
+      "start": 126.82,
+      "end": 134.04,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, doar aia. A, și vitamina D, că mi-a zis doctorul, dar aia nu e chiar medicament, nu?"
+    },
+    {
+      "start": 134.16,
+      "end": 137.2,
+      "speaker": "SPEAKER_00",
+      "text": "O notăm oricum. Ce doză la vitamina D?"
+    },
+    {
+      "start": 137.32,
+      "end": 141.12,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu exact doza, îmi pare rău, am acasă cutia."
+    },
+    {
+      "start": 141.24,
+      "end": 146.94,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Ridică brațul pentru mine încet... până unde poți. Bun. Simți că se blochează undeva?"
+    },
+    {
+      "start": 147.06,
+      "end": 154.28,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam pe la 90 de grade începe să doară, și mai sus de atât nu prea mai pot."
+    },
+    {
+      "start": 154.4,
+      "end": 158.96,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă duci mâna în spate, ca să ajungi la umărul drept?"
+    },
+    {
+      "start": 159.08,
+      "end": 164.4,
+      "speaker": "SPEAKER_01",
+      "text": "Ăsta e cel mai rău, da. Nu pot deloc, mă ia o durere ascuțită."
+    },
+    {
+      "start": 164.52,
+      "end": 183.14,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. O să lucrăm pe zona de umăr stâng, pe rotatori și pe capsula articulară. Limitarea asta de mobilitate, mai ales la rotația internă, arată că avem o inflamație în zonă și o tensionare a capsulei. Obiectivul nostru e să reducem inflamația și să recuperăm amplitudinea de mișcare."
+    },
+    {
+      "start": 183.26,
+      "end": 188.2,
+      "speaker": "SPEAKER_01",
+      "text": "Și credezi că se rezolvă? Că mă tem că dacă e rupt ceva..."
+    },
+    {
+      "start": 188.32,
+      "end": 199.72,
+      "speaker": "SPEAKER_00",
+      "text": "Din ce am văzut acum nu e o ruptură, dar ca să fim siguri ar fi bine să faci și o ecografie pe umăr. Deocamdată începem și vedem cum răspunde."
+    },
+    {
+      "start": 199.84,
+      "end": 202.12,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, bine. Da, fac ecografia, bineînțeles."
+    }
+  ]
+}

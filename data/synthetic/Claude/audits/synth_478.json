@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_478",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare genunchiul, de ceva vreme deja",
+      "Cam de vreo... nu știu exact, câteva luni. Poate trei, poate patru luni.",
+      "Treptat, cred. Nu am căzut sau ceva. Poate de la mers mult, nu știu. Lucrez în picioare toată ziua.",
+      "Pe aici, pe partea din față și un pic pe lateral, mai mult intern.",
+      "Mai ales când cobor scări. Și când stau mult pe scaun și mă ridic, la început e cam rău, după mai trece.",
+      "Uneori mi se pare că e un pic mai umflat seara, după o zi lungă.",
+      "Da, mai trosnetete câteodată, da."
+    ],
+    "evaluarea_durerii_vas": [
+      "Cam pe la șase poate, când e rău."
+    ],
+    "localizarea_durerii": [
+      "Stângul. Mai mult stângul.",
+      "stângul e problema, dreptul e ok"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Mi s-a zis cândva că am o ușoară scolioză, dar nu m-am tratat niciodată pentru asta."
+    ],
+    "antecedente_altele": [
+      "Am avut apendicita operată, acum vreo opt ani.",
+      "acum mulți ani, prin liceu parcă, am căzut la educație fizică și m-am lovit, dar a trecut repede atunci."
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Observ că genunchiul stâng e ușor în valg, adică se înclină înspre interior la mers.",
+      "mai observ că aveți piciorul puțin plat, arcul plantar e destul de jos.",
+      "Au, da, acolo doare.",
+      "Deci pe linia articulară internă, sensibilitate la palpare.",
+      "vom lucra și pe stabilizarea genunchiului și pe musculatura din jur, coapsă, fesier, ca să descărcăm articulația. O să reducem și inflamația locală prin terapie manuală și câteva proceduri."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22971,
+    "inference_geo": "global",
+    "input_tokens": 353,
+    "output_tokens": 3550,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

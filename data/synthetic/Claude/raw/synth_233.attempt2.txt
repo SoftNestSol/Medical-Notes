@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Și de atunci doare constant sau mai vine și trece?\nSPEAKER_01: Constant.\nSPEAKER_00: Și noaptea vă doare, când stați pe el?\nSPEAKER_01: Da, mă trezesc.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați?\nSPEAKER_01: Un 7.\nSPEAKER_00: 7. Durerea rămâne în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Un pic pe braț.\nSPEAKER_00: Până unde?\nSPEAKER_01: Până pe la jumătatea brațului.\nSPEAKER_00: Amorțește?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Puteți să ridicați brațul sus?\nSPEAKER_01: Da, dar doare.\nSPEAKER_00: Ridicați-l acum, vă rog. Stați așa. Doare mai tare când ridicați în față sau lateral?\nSPEAKER_01: Lateral.\nSPEAKER_00: Lateral, da. Și dacă vă rog să rotiți brațul, să băgați mâna la spate?\nSPEAKER_01: Nu prea pot.\nSPEAKER_00: Nu prea puteți. Bun.\nSPEAKER_00: Afecțiuni mai aveți, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Hai să vă apăs puțin aici pe zona de rotator, să-mi spuneți dacă doare.\nSPEAKER_01: Au, da.\nSPEAKER_00: Doare tare?\nSPEAKER_01: Da.\nSPEAKER_00: Și aici pe biceps, tendonul bicipital?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin. Bun. Deci pare o inflamație la nivelul coifului rotatorilor, umărul stâng. Limitare destul de clară la abducție și rotație internă. O să lucrăm să reducem inflamația, după care o să recuperăm mobilitatea.\nSPEAKER_01: Da, bine.\nSPEAKER_00: Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "durere umar stang",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: - inflamatie coif rotatori umar stg\nObiective terapeutice: - reducerea inflamatiei;\n- recuperarea mobilitatii (abductie, rotatie interna)"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul."],
+    "evaluarea_durerii_vas": ["Un 7."],
+    "localizarea_durerii": ["Stângul.", "Mă doare umărul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["pare o inflamație la nivelul coifului rotatorilor, umărul stâng", "Limitare destul de clară la abducție și rotație internă", "O să lucrăm să reducem inflamația, după care o să recuperăm mobilitatea."]
+  }
+}

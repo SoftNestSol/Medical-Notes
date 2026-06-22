@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_359",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare pe aici, pe zona asta de umăr, și se lasă și pe... nu știu cum să zic, pe braț în jos, așa",
+      "de vreo... nu știu, cam de o lună, o lună și ceva. A început ușor-ușor și acum e mai rău",
+      "mă trezesc și noaptea"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când ridic brațul sus, un 8. Când stau liniștit, dacă nu fac nimic, poate un 3."
+    ],
+    "localizarea_durerii": [
+      "Pe dreptul, da."
+    ],
+    "localizarea_durerii_alta": [
+      "undeva pe la mijlocul brațului așa, nu mai departe",
+      "nu mai jos"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "am cu tiroida ceva. Mi-au zis că e hipotiroidism"
+    ],
+    "medicatie_actuala": [
+      "Iau Euthyrox, o pastilă pe zi, dimineața pe stomacul gol.",
+      "Cred că 75 de micrograme",
+      "Am luat un Nurofen acum câteva zile că nu mai puteam, dar nu în mod regulat."
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o limitare la aproximativ 90 de grade în flexie",
+      "limitare similară în abducție",
+      "Punctul de maximă sensibilitate pe supraspinatos",
+      "avem o reducere a forței în abducție",
+      "o inflamație la nivelul tendoanelor manșonului rotator al umărului drept, cel mai probabil tendonul supraspinatos este cel mai afectat",
+      "Obiectivul nostru principal va fi să reducem procesul inflamator, să recuperăm mobilitatea umărului și să creștem forța musculară"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13861,
+    "inference_geo": "global",
+    "input_tokens": 334,
+    "output_tokens": 3695,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

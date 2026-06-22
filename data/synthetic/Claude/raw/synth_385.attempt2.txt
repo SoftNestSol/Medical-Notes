@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua! Am venit că m-a recomandat o colegă de-a mea, Mihaela, știți, că a fost și ea pe la dumneavoastră acum vreo două luni pentru spate.\nSPEAKER_00: Bine ați venit. Cu ce problemă ne vedem?\nSPEAKER_01: Păi mă doare umărul, cel stâng, de vreo trei săptămâni deja. La început am zis că trece singur, am pus un gel, știți, așa, din ăla de la farmacie, Voltaren, dar nu prea m-a ajutat. Tot mă ține.\nSPEAKER_00: Voltaren l-ați pus zilnic sau din când în când?\nSPEAKER_01: Din când în când, seara mai ales, când mă deranja mai tare. Nu l-am pus constant.\nSPEAKER_00: Înțeles. Și durerea asta de umăr stâng, a apărut după ceva anume sau dimineața v-ați trezit cu ea?\nSPEAKER_01: Păi cred că de la serviciu. Eu stau mult la birou, calculator toată ziua, și acum vreo trei săptămâni am avut o perioadă mai aglomerată, stăteam și câte zece ore, și după aia am simțit că mă trage în umăr și în zona aia de sus, pe aici, spre gât. Nu știu dacă e de la postură sau ce e.\nSPEAKER_00: Deci spre ceafă se lasă un pic și durerea?\nSPEAKER_01: Da, un pic, dar mai mult în umărul stâng. Acolo e centrul, să zic așa. Și mai simțim uneori că trage și în omoplat, în spate.\nSPEAKER_00: Și când doare mai tare, dimineața, pe parcursul zilei sau seara?\nSPEAKER_01: Seara, după ce termin treaba. Și mai ales când ridic mâna, știți, așa sus, deasupra capului. Atunci chiar mă doare rău. De exemplu nu pot să iau ceva din raft dacă e mai sus, îmi taie respirația.\nSPEAKER_00: Și în rest, când stați, nu ridicați mâna, doare constant sau trece?\nSPEAKER_01: Trece, da. E un discomfort, nu o durere care mă omoară, dar seara și la ridicat e nasol. Sincer m-am speriat că e ceva la inimă, că am citit că durerea la umărul stâng poate fi de la inimă, dar doctorul de familie m-a văzut și a zis că nu e nimic acolo.\nSPEAKER_00: Bine că ați verificat. Deci cardiacul e exclus. Pe o scară de la zero la zece, la ridicatul brațului sus cât estimați durerea?\nSPEAKER_01: La ridicat... un șapte, aș zice. Da, șapte. Când stau liniștit poate un doi, trei, un discomfort.\nSPEAKER_00: Bun. Brațul îl simțiți normal, nu amorțește, nu aveți furnicături?\nSPEAKER_01: Nu, nu, doar doare. Furnicături n-am.\nSPEAKER_00: Ok. Tensiune, diabet, alte probleme de sănătate?\nSPEAKER_01: Nu, nu am nimic. Sunt sănătos, în rest. Adică am avut acum câțiva ani o perioadă cu dureri de spate, dar a trecut singură.\nSPEAKER_00: Fracturi, operații?\nSPEAKER_01: Nu, niciodată.\nSPEAKER_00: Bun. Acum ridică-ți puțin brațul stâng în față, încet. Până unde poți.\nSPEAKER_01: Până cam aici. Uite, pe la nouăzeci de grade deja simt că trage.\nSPEAKER_00: Simți că trage sau doare?\nSPEAKER_01: Și trage și doare un pic, da.\nSPEAKER_00: Du-l acum lateral, în sus. Doare?\nSPEAKER_01: Au, da, acolo e mai rău. Acolo doare mai tare.\nSPEAKER_00: Exact, lateral e mai limitativ. Rotație internă, pui mâna la spate, atingi omoplatul?\nSPEAKER_01: Nu, nu ajung. Mă opresc cam la mijlocul spatelui.\nSPEAKER_00: Ok. Și dacă apăs ușor aici, pe capul humeral...\nSPEAKER_01: Au, da, acolo simt.\nSPEAKER_00: Deci avem o limitare a abducției și a rotației interne, cu sensibilitate la nivelul umărului stâng. Pare o tendinopatie de supraspinos, posibil cu o mică inflamație a bursei. Statul prelungit la birou și postura aplecată înainte nu ajută deloc.\nSPEAKER_01: Adică e ceva grav? Că m-am tot gândit, poate e ruptură de tendon sau nu știu ce.\nSPEAKER_00: Nu pare o ruptură, mișcările există, e durere și limitare. Vom lucra să reducem inflamația și să refacem mobilitatea. O să vedem în câteva ședințe cum răspunde.\nSPEAKER_01: Bine, bine, mă bucur că nu e ceva mai serios. Deci ce facem acum?\nSPEAKER_00: Acum ne apucăm de treabă. Vă rog să vă dați jos haina și să vă așezați pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng de aproximativ trei săptămâni, accentuată la ridicarea brațului și seara, cu iradiere ușoară spre ceafă și omoplat. Apărută în context de muncă prelungită la birou.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": "omoplat stâng, zona cervicală superioară stângă",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare abducție umăr stâng (durere și restricție la ridicarea laterală), limitare rotație internă (nu atinge omoplatul la mâna la spate - oprire la mijlocul spatelui). Sensibilitate la palparea capului humeral stâng. Diagnostic: tendinopatie de supraspinos cu posibilă inflamație bursală. Obiective terapeutice: reducerea inflamației, refacerea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel stâng, de vreo trei săptămâni deja",
+      "am avut o perioadă mai aglomerată, stăteam și câte zece ore, și după aia am simțit că mă trage în umăr",
+      "mai simțim uneori că trage și în omoplat, în spate",
+      "mai ales când ridic mâna, știți, așa sus, deasupra capului. Atunci chiar mă doare rău"
+    ],
+    "evaluarea_durerii_vas": [
+      "La ridicat... un șapte, aș zice. Da, șapte."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "mai simțim uneori că trage și în omoplat, în spate",
+      "mai mult în umărul stâng. Acolo e centrul, să zic așa. Și mai simțim uneori că trage și în omoplat, în spate",
+      "un pic, dar mai mult în umărul stâng... și spre gât"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "am pus un gel, știți, așa, din ăla de la farmacie, Voltaren"
+    ],
+    "evaluare_functionala_initiala": [
+      "Exact, lateral e mai limitativ. Rotație internă, pui mâna la spate, atingi omoplatul?",
+      "Nu, nu ajung. Mă opresc cam la mijlocul spatelui.",
+      "dacă apăs ușor aici, pe capul humeral... Au, da, acolo simt.",
+      "Pare o tendinopatie de supraspinos, posibil cu o mică inflamație a bursei.",
+      "Vom lucra să reducem inflamația și să refacem mobilitatea."
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_447",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, umărul drept, de vreo trei săptămâni",
+      "am mutat niște cutii grele prin casă, că ne-am reamenajat, și a doua zi dimineața m-am trezit și n-am mai putut ridica brațul"
+    ],
+    "evaluarea_durerii_vas": [
+      "când îl mișc, îl ridic, aș zice un 7",
+      "Când stau nemișcată e mai suportabil, un 3, poate un 4"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, umărul drept",
+      "uneori mă doare și un pic pe gât, pe aceeași parte",
+      "după o oră mă prinde și gâtul pe partea asta"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Mi s-a spus când aveam vreo 14 ani că am o ușoară scolioză"
+    ],
+    "antecedente_altele": [
+      "ultima oară când am fost la un medic a fost acum vreo cinci ani când mi-am operat apendicele",
+      "La mână am avut o fractură, dar a fost demult, în liceu, am căzut la sport și mi-am rupt încheietura, la mâna dreaptă"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendoanelor din zona umărului drept, mai exact în zona manșetei rotatorilor",
+      "Musculatura de pe gâtul drept, trapezul și scalenii, sunt și ele contractate și contribuie la durere",
+      "am observat că aveți o ușoară ridicare a umărului drept față de stânul",
+      "capul e ușor dus spre stânga",
+      "recomandarea mea este să începem cu reducerea inflamației și să lucrăm mobilitatea umărului și relaxarea musculaturii cervicale drepte"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13823,
+    "inference_geo": "global",
+    "input_tokens": 318,
+    "output_tokens": 3571,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

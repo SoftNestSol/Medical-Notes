@@ -1,0 +1,31 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, zona de sus?\nSPEAKER_01: De jos.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc.\nSPEAKER_00: Ați ridicat ceva greu, ați făcut o mișcare bruscă?\nSPEAKER_01: Am cărat niște cutii.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare extrem de tare, unde situați durerea acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Durerea rămâne localizată în zona lombară sau se lasă undeva, pe fese, pe picior?\nSPEAKER_01: Uneori se duce pe fesa dreaptă.\nSPEAKER_00: Pe fesa dreaptă. Coboară și pe picior?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțesc picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Durerea e mai rea dimineața, seara sau tot timpul?\nSPEAKER_01: Dimineața.\nSPEAKER_00: Când vă sculați din pat, doare?\nSPEAKER_01: Da, mă ține un pic.\nSPEAKER_00: Și după ce vă mișcați se mai dezmorțește?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Luați ceva medicamente în momentul de față, antiinflamatoare, ceva?\nSPEAKER_01: Am luat Ibuprofen câteva zile.\nSPEAKER_00: Câte miligrame?\nSPEAKER_01: Nu știu, cele normale.\nSPEAKER_00: Și acum mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Aveți alte probleme de sănătate, tensiune mare, diabet, osteoporoză, vreo hernie de disc pusă pe buletinul?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio intervenție chirurgicală?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste rapide. Stați drept, cu spatele la mine.\nSPEAKER_01: Așa?\nSPEAKER_00: Da. Observ că bazinul e ușor înclinat pe dreapta. Simțiți că stați mai mult pe un picior?\nSPEAKER_01: Nu știu.\nSPEAKER_00: Ok. Aplecați-vă încet în față.\nSPEAKER_01: Doare un pic când mă aplec.\nSPEAKER_00: Doare în spate sau se duce pe fesă?\nSPEAKER_01: În spate.\nSPEAKER_00: Bun. Stați pe masă, cu fața în sus. Ridic piciorul drept, spuneți-mi dacă doare.\nSPEAKER_01: Un pic.\nSPEAKER_00: Unde simțiți, în spate sau pe picior?\nSPEAKER_01: În spate.\nSPEAKER_00: Ok. Piciorul stâng.\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Apăs zona lombară, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și puțin mai jos, zona sacrată?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Deci avem o contractură musculară paravertebrală lombară, probabil declanșată de efortul cu cutiile. Testul de ridicare a piciorului e negativ, deci nu avem o compresie nervoasă clară momentan. O să lucrăm să reducem inflamația și contractura, să recâștigăm mobilitatea. Da?\nSPEAKER_01: Da.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară acută de aproximativ două săptămâni, apărută brusc după cărarea de cutii grele. VAS 5/10, cu redoare matinală care cedează la mișcare. Iradiere ocazională pe fesa dreaptă, fără iradiere pe membrul inferior, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar",
+      "sacral_coccis"
+    ],
+    "localizarea_durerii_alta": "fesa dreaptă",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nBazin ușor înclinat pe dreapta în ortostatism. Durere la flexia anterioară a trunchiului, localizată lombar. Test Lasègue negativ bilateral (durere lombară la ridicarea piciorului drept, fără iradiere pe membrul inferior). Durere la palpare paravertebrală lombară, mai puțin la nivel sacrat.\nDiagnostic:\nContractură musculară paravertebrală lombară, probabil declanșată de efort fizic (cărarea de cutii). Fără compresie nervoasă clară la momentul evaluării.\nObiective terapeutice:\nReducerea inflamației și a contracturii musculare lombare; recâștigarea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele.", "De jos.", "De vreo două săptămâni.", "Brusc.", "Am cărat niște cutii.", "Uneori se duce pe fesa dreaptă.", "Nu.", "Da, mă ține un pic.", "Da."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["De jos.", "Și puțin mai jos, zona sacrată?", "Mai puțin."],
+    "localizarea_durerii_alta": ["Uneori se duce pe fesa dreaptă."],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am luat Ibuprofen câteva zile."],
+    "evaluare_functionala_initiala": ["bazinul e ușor înclinat pe dreapta", "Doare un pic când mă aplec.", "În spate.", "Un pic.", "În spate.", "avem o contractură musculară paravertebrală lombară, probabil declanșată de efortul cu cutiile", "Testul de ridicare a piciorului e negativ, deci nu avem o compresie nervoasă clară momentan", "O să lucrăm să reducem inflamația și contractura, să recâștigăm mobilitatea."]
+  }
+}

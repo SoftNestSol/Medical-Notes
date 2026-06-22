@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce vă pot ajuta?\nSPEAKER_01: Bună ziua, da, am o problemă cu umărul, umărul stâng, de câteva săptămâni mă chinuie și nu mai știu ce să fac, am pus și un gel, am frecat, am încercat tot și tot nu trece.\nSPEAKER_00: De câte săptămâni exact?\nSPEAKER_01: Păi eu zic că vreo trei săptămâni, poate patru, nu știu exact. A început când am mutat niște mobilă cu soțul meu, am crezut că o să-mi treacă singur, știți cum e, am tot așteptat și nu a trecut.\nSPEAKER_00: Înțeles. Și vă doare continuu sau numai la mișcare?\nSPEAKER_01: Mai mult la mișcare, adică dacă stau liniștită nu simt aproape nimic, dar dacă ridic mâna sau încerc să ajung la ceva sus, pe raft sau ceva, mă doare tare. Și noaptea, că mă întorc pe el în somn și mă trezesc.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare când ridicați brațul?\nSPEAKER_01: Când ridic? Eh, aș zice vreo 7, da, un 7.\nSPEAKER_00: Și în repaus?\nSPEAKER_01: În repaus poate un 2, nu mare lucru.\nSPEAKER_00: Simțiți amorțeală, furnicături în braț sau în mână?\nSPEAKER_01: Nu, nu, nu, nimic din astea. Mă tem că am rupt ceva acolo, știți, am văzut pe internet tot felul de chestii și m-am speriat, am citit de rupturi de tendoane și... nu știu, poate e ceva grav.\nSPEAKER_00: Înțeleg, e firesc să vă îngrijorați. Haideți să vedem mai întâi ce se întâmplă. Aveți tensiune, diabet, vreo boală cronică?\nSPEAKER_01: Nu, nu am nimic, sunt sănătoasă tun, 34 de ani, nu iau nimic în mod regulat. Am pus un gel antiinflamator câteva zile, unul pe care l-am luat de la farmacie, Voltaren, dar nu știu dacă a ajutat, nu prea am simțit diferența.\nSPEAKER_00: Înțeles. Haideți, ridicați brațul stâng în față, încet.\nSPEAKER_01: Până aici pot, mai sus doare.\nSPEAKER_00: Bun. Acum în lateral.\nSPEAKER_01: Aaah, da, asta doare mai tare, pe aici sus.\nSPEAKER_00: Ok. Întoarceți palma în sus, la fel.\nSPEAKER_01: Merge, nu doare la mișcarea asta.\nSPEAKER_00: Stați puțin, apăs eu aici pe umăr, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare, exact acolo.\nSPEAKER_00: Și mai jos?\nSPEAKER_01: Mai puțin, da.\nSPEAKER_00: Bun. Avem o limitare a abducției și durere la palparea zonei subacromiale. Pare a fi o tendinită la nivelul coafei rotatorilor, cel mai probabil supraspinatus. Nu e o ruptură, nu vă îngrijorați, e o inflamație a tendonului din cauza efortului de la mutatul mobilei. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Ah, bine, mă bucur că nu e rupt nimic. Și o să pot să ridic brațul normal?\nSPEAKER_00: Da, cu tratament adecvat, da. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang, aparuta dupa efort fizic (mutat mobila), de aproximativ 3-4 saptamani. Durere la ridicarea bratului si abductie, trezire nocturna la intoarcerea pe umarul afectat.",
+    "evaluarea_durerii_vas": [7, 2],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita coafa rotatori (supraspinatus) umar stang.\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii umarului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["am o problemă cu umărul, umărul stâng, de câteva săptămâni mă chinuie", "A început când am mutat niște mobilă cu soțul meu", "mă întorc pe el în somn și mă trezesc"],
+    "evaluarea_durerii_vas": ["aș zice vreo 7, da, un 7", "În repaus poate un 2"],
+    "localizarea_durerii": ["am o problemă cu umărul, umărul stâng"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am pus un gel antiinflamator câteva zile, unul pe care l-am luat de la farmacie, Voltaren"],
+    "evaluare_functionala_initiala": ["Avem o limitare a abducției și durere la palparea zonei subacromiale. Pare a fi o tendinită la nivelul coafei rotatorilor, cel mai probabil supraspinatus.", "Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

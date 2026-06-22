@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "durere umar drept, aparuta dupa ridicat greutati",
+  "evaluarea_durerii_vas": [
+    5,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "5 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: tendinita umar dr. (tendon supraspinos)\nObiective terapeutice: reducerea inflamatiei; refacerea mobilitatii articulare"
+}

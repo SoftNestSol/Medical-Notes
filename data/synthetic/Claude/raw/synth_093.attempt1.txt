@@ -1,0 +1,49 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi cu ce problemă veniți la noi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am ridicat niște saci.\nSPEAKER_00: Saci cu ce, dacă pot să întreb?\nSPEAKER_01: De ciment.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare constant sau doar la mișcare?\nSPEAKER_01: La mișcare mai mult.\nSPEAKER_00: Când ridicați brațul în sus, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și în spate, dacă duceți mâna la spate?\nSPEAKER_01: Da, acolo mai rău.\nSPEAKER_00: Noaptea vă deranjează? Vă treziți din somn?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Stați pe partea stângă noaptea?\nSPEAKER_01: Da.\nSPEAKER_00: Asta agravează, da. Amorțește brațul sau mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Durerea rămâne la umăr sau se lasă și pe braț?\nSPEAKER_01: Stă pe umăr.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio operație la umăr, nicio fractură?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Ibuprofen.\nSPEAKER_00: Cât, câte miligrame?\nSPEAKER_01: Nu știu exact. Cele normale.\nSPEAKER_00: Ok. Vă ajută?\nSPEAKER_01: Un pic.\nSPEAKER_00: Bun. Ridicați brațul pentru mine, așa, încet. Până unde puteți.\nSPEAKER_01: Până pe aici cam.\nSPEAKER_00: Deci cam la 90 de grade se oprește. Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Stați puțin. Dacă apăs aici, pe zona asta de sub acromion, doare?\nSPEAKER_01: Da, acolo exact.\nSPEAKER_00: Înțeleg. Și dacă rezistați când trag eu brațul în jos, simțiți slăbiciune sau doare?\nSPEAKER_01: Doare.\nSPEAKER_00: Ok. Pare a fi o inflamație la nivelul manșetei rotatorilor, cel mai probabil tendon supraspinos. Limitare la abducție activă sub 90 de grade și durere la palparea subacromială. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului stâng. O să lucrăm și musculatura din jur ca să degrevăm tendonul.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere la umărul stâng apărută după ridicare de saci de ciment, de aproximativ două săptămâni. Durere la mișcare (abducție, rotație internă), exacerbată nocturn în decubit pe partea stângă.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamație manșetă rotatori, tendon supraspinos. Limitare abducție activă sub 90 de grade, durere la palpare subacromială.\nObiective terapeutice: reducerea inflamației, recuperarea mobilității umărului stâng, lucru musculatură periarticulară pentru degrevarea tendonului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul",
+      "Stângul",
+      "Am ridicat niște saci",
+      "De ciment",
+      "Vreo două săptămâni",
+      "La mișcare mai mult",
+      "Câteodată",
+      "Stau pe partea stângă noaptea"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul",
+      "Stângul",
+      "Stă pe umăr"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofen"
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o inflamație la nivelul manșetei rotatorilor, cel mai probabil tendon supraspinos. Limitare la abducție activă sub 90 de grade și durere la palparea subacromială. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului stâng. O să lucrăm și musculatura din jur ca să degrevăm tendonul."
+    ]
+  }
+}

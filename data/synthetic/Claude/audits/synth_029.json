@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_029",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, de ceva vreme deja, nu știu exact, dar cam de vreo două luni, poate mai mult",
+      "dimineața e mai rău, când mă ridic din pat parcă mă ține un pic, și după aia când stau mult jos, la birou",
+      "uneori parcă simt ceva și pe... pe partea asta, pe stânga, în spate, cum ar fi pe fesă",
+      "acum vreo doi ani am mai avut ceva, tot pe la spate, dar a trecut de la sine"
+    ],
+    "evaluarea_durerii_vas": [
+      "Dimineața poate un 6, ceva de genul",
+      "Pe parcursul zilei, dacă stau mult, poate un 4"
+    ],
+    "localizarea_durerii": [
+      "Mai jos, adică aici, jos de tot, pe la brâu așa",
+      "Mă doare când mă aplec, da, aici jos",
+      "Aici doare?"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori parcă simt ceva și pe... pe partea asta, pe stânga, în spate, cum ar fi pe fesă",
+      "Au, da, și acolo doare"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Mi-a zis doctorul de familie că am tensiunea un pic mai mare"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "iau ceva, Enalapril mi-a dat, 10 miligrame, dimineața",
+      "Uneori mai iau un Nurofen dacă mă doare tare spatele, dar nu regulat"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație în zona lombară, cu blocaj muscular paravertebral, și piriformul stâng este și el contractat",
+      "Coloana are și o mobilitate redusă la flexie",
+      "Cel mai probabil e o lombalgie mecanică, posibil pe fond de disc uzat la nivelul L4-L5 sau L5-S1",
+      "Obiectivul nostru va fi să reducem inflamația și contractura musculară în primele ședințe, și să lucrăm mobilitatea coloanei după aceea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21155,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3281,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare spatele, jos.\nSPEAKER_00: Jos, zona lombară. De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. S-a întâmplat ceva anume când a început, vreo mișcare, ceva ridicat?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Ați mutat mobilă. Și a început imediat după?\nSPEAKER_01: A doua zi dimineața.\nSPEAKER_00: A doua zi dimineața, deci nu chiar în momentul ăla. Ok. Durerea e tot timpul sau apare în anumite momente?\nSPEAKER_01: Mai mult când stau jos mult.\nSPEAKER_00: Când stați jos, pe scaun. Și când vă ridicați în picioare, se mai simte?\nSPEAKER_01: Da, la ridicat doare.\nSPEAKER_00: La ridicat doare. Și după ce vă ridicați, dacă mergeți câțiva pași, mai doare la fel sau trece un pic?\nSPEAKER_01: Trece un pic.\nSPEAKER_00: Trece un pic, deci la mișcare se ameliorează. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, unde ați pune durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Durerea asta se lasă și pe picior în jos, pe fesă, pe coapsă?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Strict în zona de jos a spatelui.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Ați mai avut episoade similare înainte?\nSPEAKER_01: Nu, prima dată.\nSPEAKER_00: Prima dată. Ce ocupație aveți, dacă îmi permiteți?\nSPEAKER_01: Stau la birou toată ziua.\nSPEAKER_00: La birou. Deci stat mult jos. Și acasă, cum dormiți, pe burtă, pe spate?\nSPEAKER_01: Pe burtă de obicei.\nSPEAKER_00: Pe burtă. Ok. Dimineața când vă treziți, e mai rău sau e ca pe parcursul zilei?\nSPEAKER_01: Mai rău dimineața.\nSPEAKER_00: Mai rău dimineața. Trece după ce vă mișcați?\nSPEAKER_01: Da.\nSPEAKER_00: Bine. Luați ceva medicamente pentru durere, antiinflamatoare?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu ați luat nimic. Alte afecțiuni, tensiune, diabet, osteoporoză, ceva diagnosticat?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Nimic. Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok, bun. Haideți să fac câteva teste rapide. Ridicați-vă, vă rog, în picioare. Aplecați-vă ușor înainte, cât puteți. Doare?\nSPEAKER_01: Da, jos.\nSPEAKER_00: Jos, zona lombară. Și dacă vă aplecați pe spate, ușor?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin în extensie. Ok. Puneți mâinile la șolduri, rotiți ușor spre stânga.\nSPEAKER_01: Doare un pic.\nSPEAKER_00: Un pic la rotație spre stânga. Spre dreapta?\nSPEAKER_01: La fel.\nSPEAKER_00: Simetric. Bun, așezați-vă pe masă. O să apăs pe musculatura paravertebrală, îmi spuneți dacă doare. Aici?\nSPEAKER_01: Da.\nSPEAKER_00: Pe dreapta doare. Și pe stânga?\nSPEAKER_01: Tot da.\nSPEAKER_00: Bilateral. Mai tare pe o parte?\nSPEAKER_01: Pe dreapta parcă.\nSPEAKER_00: Pe dreapta mai accentuat. Ok. Eu zic că avem o contractură musculară paravertebrală lombară, apărută cel mai probabil după efortul din mutatul mobilei. E o problemă mecanică, nu e complicat. Putem să lucrăm pe relaxarea musculaturii și pe mobilizarea zonei lombare. Câteva ședințe ar trebui să fie suficiente.\nSPEAKER_01: Ok.\nSPEAKER_00: Bun, atunci începem.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă apărută la două zile după mutatul mobilei, prezentă de aproximativ două săptămâni, accentuată la stat jos și la ridicare, ameliorată la mers, mai intensă dimineața.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Flexie lombară dureroasă, extensie mai puțin dureroasă. Rotații lombare bilateral ușor dureroase, simetric. Palpare paravertebrală lombară dureroasă bilateral, mai accentuat pe dreapta. Diagnostic: contractură musculară paravertebrală lombară mecanică. Obiective terapeutice: relaxarea musculaturii paravertebrale lombare și mobilizarea zonei lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele, jos.",
+      "De vreo două săptămâni.",
+      "Am mutat niște mobilă.",
+      "A doua zi dimineața.",
+      "Mai mult când stau jos mult.",
+      "Da, la ridicat doare.",
+      "Trece un pic.",
+      "Mai rău dimineața."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele, jos.",
+      "Da, acolo."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Aplecați-vă ușor înainte, cât puteți. Doare? Da, jos.",
+      "Și dacă vă aplecați pe spate, ușor? Mai puțin.",
+      "rotiți ușor spre stânga. Doare un pic. Spre dreapta? La fel.",
+      "Aici? Da. Pe dreapta doare. Și pe stânga? Tot da. Mai tare pe o parte? Pe dreapta parcă.",
+      "Eu zic că avem o contractură musculară paravertebrală lombară, apărută cel mai probabil după efortul din mutatul mobilei."
+    ]
+  }
+}

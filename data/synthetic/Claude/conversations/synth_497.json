@@ -1,0 +1,331 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 6.36,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne vedem azi."
+    },
+    {
+      "start": 6.48,
+      "end": 22.82,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, uite, am o durere în mijlocul spatelui, cam pe zona asta de aici, între omoplați. De vreo trei săptămâni mă tot chinuie și nu mai știu ce să fac cu ea. Am mai așteptat, am zis că trece singură, dar nu trece."
+    },
+    {
+      "start": 22.94,
+      "end": 27.12,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și această durere a apărut brusc sau a venit treptat?"
+    },
+    {
+      "start": 27.24,
+      "end": 56.88,
+      "speaker": "SPEAKER_01",
+      "text": "Păi uite, eu stau mult la birou, lucrez la calculator vreo opt, nouă ore pe zi, și la un moment dat m-am ridicat dimineața și parcă s-a blocat ceva acolo. Nu știu, poate am dormit strâmb sau ceva, nu știu exact. Dar de atunci, de cum m-am sculat în dimineața aia, mă doare. Și sincer, mă doare mai ales când stau jos, când stau la calculator. Dacă mă plimb, dacă merg, mai trece un pic."
+    },
+    {
+      "start": 57.0,
+      "end": 65.36,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum estimați durerea?"
+    },
+    {
+      "start": 65.48,
+      "end": 82.58,
+      "speaker": "SPEAKER_01",
+      "text": "Hmm. Zi de zi, când stau la birou, aș zice un 6. Dar am avut și momente când a fost mai rău, poate un 8, asta când am stat ore în șir fără să mă ridic. Dar dacă mă mișc, scade la vreo 3-4."
+    },
+    {
+      "start": 82.7,
+      "end": 84.98,
+      "speaker": "SPEAKER_00",
+      "text": "Deci fluctuează în funcție de poziție."
+    },
+    {
+      "start": 85.1,
+      "end": 95.36,
+      "speaker": "SPEAKER_01",
+      "text": "Exact, exact. Și am observat că dimineața când mă trezesc, primele minute sunt groaznice, mă ține tare. Dar după ce merg puțin prin casă, se mai dezmorțește."
+    },
+    {
+      "start": 95.48,
+      "end": 100.42,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea se lasă și spre alte zone? Spre umeri, spre gât, spre burtă?"
+    },
+    {
+      "start": 100.54,
+      "end": 113.46,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu se lasă nicăieri. E fix acolo, între omoplați, în zona asta de mijloc al spatelui. Uneori simt că e mai mult pe partea stângă, dar nu coboară, nu urcă, e fix acolo."
+    },
+    {
+      "start": 113.58,
+      "end": 117.38,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți senzație de amorțeală, furnicături în brațe sau în picioare?"
+    },
+    {
+      "start": 117.5,
+      "end": 123.96,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, asta nu. Mă bucur că nu am și asta. Adică doar durerea aceea, nu furnicături."
+    },
+    {
+      "start": 124.08,
+      "end": 127.5,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Când respirați adânc, când tușiți, se intensifică durerea?"
+    },
+    {
+      "start": 127.62,
+      "end": 148.9,
+      "speaker": "SPEAKER_01",
+      "text": "Da! Exact, asta am uitat să spun. Când trag aer adânc, simt o presiune acolo. Nu e o durere fulgerătoare, mai degrabă o tensiune, parcă ceva mă strânge. Asta mă îngrijorează un pic, sincer, pentru că m-am gândit... nu știu, că poate e ceva la inimă sau la plămâni. M-am speriat de câteva ori."
+    },
+    {
+      "start": 149.02,
+      "end": 154.34,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles că vă îngrijorează asta. Ați mai consultat un medic pentru această durere?"
+    },
+    {
+      "start": 154.46,
+      "end": 171.18,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am fost la medicul de familie săptămâna trecută. Mi-a ascultat inima, mi-a zis că e ok, mi-a dat un bilet de trimitere, mi-a spus să merg la un specialist. Nu mi-a găsit nimic cardiac. Deci... am venit aici."
+    },
+    {
+      "start": 171.3,
+      "end": 175.1,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Alte afecțiuni aveți, tensiune, diabet, boli de inimă, osteoporoză?"
+    },
+    {
+      "start": 175.22,
+      "end": 194.22,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic din astea. Sunt relativ sănătos. Adică, am avut o scolioză ușoară, mi s-a spus în liceu, la vreo 16 ani. Am mers la câteva ședințe de fizioterapie atunci și după aceea nu m-am mai dus. Mi s-a spus că e ușoară, că nu e gravă."
+    },
+    {
+      "start": 194.34,
+      "end": 196.62,
+      "speaker": "SPEAKER_00",
+      "text": "Deci scolioză ușoară confirmată în adolescență."
+    },
+    {
+      "start": 196.74,
+      "end": 213.08,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact. Și mai am ceva, mi-am rupt clavicola dreaptă acum vreo zece ani, la un accident de ski. A fost operată, am o placă metalică acolo. Dar clavicola nu mă doare, mă refer că e ok, nu are legătură cu spatele."
+    },
+    {
+      "start": 213.2,
+      "end": 216.62,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Deci intervenție chirurgicală la claviculă dreaptă, placă metalică."
+    },
+    {
+      "start": 216.74,
+      "end": 222.82,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da. Și vă spun că nu mă deranjează deloc acolo, e cicatrizat demult, e ok."
+    },
+    {
+      "start": 222.94,
+      "end": 224.46,
+      "speaker": "SPEAKER_00",
+      "text": "Medicamente luați în prezent?"
+    },
+    {
+      "start": 224.58,
+      "end": 237.5,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu iau nimic. Nu am luat nici pentru durerea asta, am evitat. Am pus un gel, un gel de la farmacie, Voltaren, de vreo două ori, dar nu m-a ajutat mare lucru."
+    },
+    {
+      "start": 237.62,
+      "end": 240.66,
+      "speaker": "SPEAKER_00",
+      "text": "Deci Voltaren gel, aplicat local, fără efect semnificativ."
+    },
+    {
+      "start": 240.78,
+      "end": 243.06,
+      "speaker": "SPEAKER_01",
+      "text": "Da, așa. N-a prea ajutat."
+    },
+    {
+      "start": 243.18,
+      "end": 244.7,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Ce vârstă aveți?"
+    },
+    {
+      "start": 244.82,
+      "end": 245.96,
+      "speaker": "SPEAKER_01",
+      "text": "38 de ani."
+    },
+    {
+      "start": 246.08,
+      "end": 249.5,
+      "speaker": "SPEAKER_00",
+      "text": "Și meseria, ați spus că stați mult la birou."
+    },
+    {
+      "start": 249.62,
+      "end": 262.54,
+      "speaker": "SPEAKER_01",
+      "text": "Da, sunt programator. Stau efectiv toată ziua, uneori și mai mult. Și recunosc că nu am o postură grozavă, știu că stau cocoșat. Soția îmi mai zice, dar... greu de schimbat după atâția ani."
+    },
+    {
+      "start": 262.66,
+      "end": 266.08,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Ați mai făcut chiropractic sau osteopatie până acum?"
+    },
+    {
+      "start": 266.2,
+      "end": 272.66,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată. E prima dată. Am mai auzit, am căutat pe internet și am zis să încerc."
+    },
+    {
+      "start": 272.78,
+      "end": 278.86,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să facem câteva teste. Stați cu spatele la mine, vă rog, și relaxați umerii."
+    },
+    {
+      "start": 278.98,
+      "end": 279.78,
+      "speaker": "SPEAKER_01",
+      "text": "Așa?"
+    },
+    {
+      "start": 279.9,
+      "end": 292.82,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Observ că aveți o ușoară rotație a trunchiului spre stânga și umerii sunt rulați înainte, postura de birou clasică. Haideți să apăs puțin pe zona toracală, îmi spuneți unde simțiți cel mai mult."
+    },
+    {
+      "start": 292.94,
+      "end": 296.74,
+      "speaker": "SPEAKER_01",
+      "text": "Acolo! Exact acolo, cam la T5-T6, da, acolo doare."
+    },
+    {
+      "start": 296.86,
+      "end": 299.14,
+      "speaker": "SPEAKER_00",
+      "text": "Și mai sus, la T3-T4?"
+    },
+    {
+      "start": 299.26,
+      "end": 301.92,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, dar și acolo simt ceva."
+    },
+    {
+      "start": 302.04,
+      "end": 306.6,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să ne aplecăm ușor în față, o flexie de trunchi. Doare?"
+    },
+    {
+      "start": 306.72,
+      "end": 310.9,
+      "speaker": "SPEAKER_01",
+      "text": "Da, simț că trage acolo, nu foarte tare, dar se simte."
+    },
+    {
+      "start": 311.02,
+      "end": 313.3,
+      "speaker": "SPEAKER_00",
+      "text": "Și o extensie ușoară, pe spate."
+    },
+    {
+      "start": 313.42,
+      "end": 317.98,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, asta doare mai mult. Când dau pe spate, e mai neplăcut."
+    },
+    {
+      "start": 318.1,
+      "end": 320.76,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Rotație spre stânga, îmi spuneți."
+    },
+    {
+      "start": 320.88,
+      "end": 323.16,
+      "speaker": "SPEAKER_01",
+      "text": "Și asta doare un pic, da."
+    },
+    {
+      "start": 323.28,
+      "end": 324.08,
+      "speaker": "SPEAKER_00",
+      "text": "Spre dreapta?"
+    },
+    {
+      "start": 324.2,
+      "end": 325.0,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 325.12,
+      "end": 371.48,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Deci avem o limitare a mobilității toracale, mai ales în extensie și rotație stângă, cu durere la palpare paravertebrală toracal mediu. Ce pot să vă spun este că durerea dumneavoastră este de origine mecanică, din zona toracală medie. Postura de birou prelungită, cu umerii rulați înainte și trunchiul ușor flectat, a creat o blocare a articulațiilor costovertebrale și o tensionare a musculaturii paravertebrale toracale. Scolioza ușoară pe care o aveți din adolescență contribuie și ea la o distribuție inegală a forțelor. Durerea la inspirul profund este explicată tot de articulațiile costovertebrale blocate, nu de o problemă cardiacă sau pulmonară. Obiectivul nostru va fi să dechidem aceste blocaje, să relaxăm musculatura toracală și să vă dăm și câteva exerciții posturale pentru birou."
+    },
+    {
+      "start": 371.6,
+      "end": 377.3,
+      "speaker": "SPEAKER_01",
+      "text": "Adică nu e nimic grav? Mă bucur, că sincer m-am tot gândit la rău."
+    },
+    {
+      "start": 377.42,
+      "end": 385.4,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, nu e nimic grav. E o problemă mecanică, frecventă la cei care stau mult la birou. Vom lucra pe ea."
+    },
+    {
+      "start": 385.52,
+      "end": 390.08,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine. Și cu placa aia de la claviculă, nu e problemă?"
+    },
+    {
+      "start": 390.2,
+      "end": 395.52,
+      "speaker": "SPEAKER_00",
+      "text": "Nu lucrăm în zona claviculei, deci nu e o problemă pentru ce facem azi."
+    },
+    {
+      "start": 395.64,
+      "end": 397.92,
+      "speaker": "SPEAKER_01",
+      "text": "Perfect, mă liniștiți. Hai să mergem."
+    }
+  ]
+}

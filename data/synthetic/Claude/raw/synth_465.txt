@@ -1,0 +1,48 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi, mă doare ceafa de vreo două săptămâni, dar sincer am tot amânat să vin pentru că ziceam că trece de la sine, știți cum e, și n-a trecut, ba chiar parcă s-a mai înrăutățit în ultimele zile.\nSPEAKER_00: Înțeles. Și durerea asta e doar în ceafă sau se lasă și în altă parte?\nSPEAKER_01: Ei, asta e, că se lasă și în cap, adică simt o tensiune care pornește de jos, din ceafă, și urcă așa până spre ceafă, spre ceafă, sus, spre creștet, și uneori am și un fel de durere de cap, mai ales dimineața când mă trezesc.\nSPEAKER_00: Dimineața mai rău, deci.\nSPEAKER_01: Da, dimineața e cel mai rău. Și mai ales când stau mult la calculator, că lucrez în birou, opt ore pe zi, și la un moment dat simt că gâtul pur și simplu nu mai poate. Și mai am și copilul mic acasă, îl tot ridic, îl tot port, și cred că asta a și declanșat toată treaba, sincer, pentru că înainte n-am mai pățit chestia asta.\nSPEAKER_00: Deci a apărut după ce ați început să ridicați mai mult copilul?\nSPEAKER_01: Da, sau poate și de la poziția la birou, nu știu exact. Oricum, eu nu prea am mai avut probleme cu spatele sau cu gâtul până acum. O dată, acum vreo doi ani, m-a durut puțin spatele, dar a trecut singur în câteva zile.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, ceva?\nSPEAKER_01: Nu, nimic. Sunt sănătos tun, cum se zice. Adică nu iau nimic în mod regulat.\nSPEAKER_00: Ați luat vreun medicament pentru durerea asta?\nSPEAKER_01: Am pus un gel, un Voltaren, de vreo două ori, că l-am găsit în casă, dar nu prea m-a ajutat sincer. Altceva nu am luat.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, cât de tare doare în momentele cele mai grele?\nSPEAKER_01: Aaaa, dimineața sau după calculator aș zice un 6, 7. În rest, mai suportabil, un 4 poate. Dar mă deranjează că nu dispare, ăsta e problema, că tot stă acolo.\nSPEAKER_00: Înțeles. Durerea se lasă pe braț în jos, sau e strict în zona capului și a cefei?\nSPEAKER_01: Nu, pe braț nu. E mai mult sus, în ceafă și în cap. Uneori simt și o mică amorțeală la baza capului, dar scurtă.\nSPEAKER_00: Ok. Hai să facem câteva mișcări. Întoarceți capul spre dreapta încet... doare?\nSPEAKER_01: Da, acolo îl simt, e ca o strângere.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: Mai puțin, dar tot simt ceva.\nSPEAKER_00: Aplecați capul în față, bărbia spre piept.\nSPEAKER_01: Asta merge, dar simt o tracțiune în ceafă, o presiune.\nSPEAKER_00: Da. Și pe spate?\nSPEAKER_01: Ah, asta doare mai tare, nu pot să dau capul pe spate complet.\nSPEAKER_00: Am înțeles. Deci avem o limitare la extensie și la rotație dreapta mai ales. Și mai apăs puțin pe mușchii cefei... aici doare?\nSPEAKER_01: Au, da, exact acolo. Ăla e punctul.\nSPEAKER_00: Am înțeles. Deci avem o contractură a musculaturii suboccipitale și paravertebrale cervicale, cu limitare de mobilitate la extensie și rotație dreaptă. Scopul nostru va fi să reducem această contractură, să eliberăm mobilitatea cervicală și să vedem cum reacționează la primele ședințe.\nSPEAKER_01: Și o să treacă? Că mă tem că dacă stau tot la calculator o să revină mereu.\nSPEAKER_00: O să discutăm și ce puteți face dumneavoastră acasă ca să prevenim asta. Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală și ceafă cu iradiere spre cap, de aproximativ două săptămâni, accentuată dimineața și după efort la calculator",
+    "evaluarea_durerii_vas": [6, 4],
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Contractură musculatură suboccipitală și paravertebrală cervicală, cu limitare de mobilitate la extensie și rotație dreaptă. Obiective: reducerea contracturii, eliberarea mobilității cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare ceafa de vreo două săptămâni",
+      "se lasă și în cap, adică simt o tensiune care pornește de jos, din ceafă, și urcă așa până spre ceafă, spre ceafă, sus, spre creștet",
+      "dimineața e cel mai rău",
+      "când stau mult la calculator, că lucrez în birou, opt ore pe zi"
+    ],
+    "evaluarea_durerii_vas": [
+      "dimineața sau după calculator aș zice un 6, 7",
+      "În rest, mai suportabil, un 4 poate"
+    ],
+    "localizarea_durerii": [
+      "mă doare ceafa",
+      "se lasă și în cap",
+      "E mai mult sus, în ceafă și în cap"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel, un Voltaren, de vreo două ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură a musculaturii suboccipitale și paravertebrale cervicale, cu limitare de mobilitate la extensie și rotație dreaptă",
+      "Scopul nostru va fi să reducem această contractură, să eliberăm mobilitatea cervicală"
+    ]
+  }
+}

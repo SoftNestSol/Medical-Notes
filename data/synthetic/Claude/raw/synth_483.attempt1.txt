@@ -1,0 +1,55 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo trei săptămâni.\nSPEAKER_00: Trei săptămâni. Și s-a instalat brusc sau a venit treptat?\nSPEAKER_01: A venit treptat, nu știu exact.\nSPEAKER_00: A existat vreun moment, o mișcare, ceva care a declanșat-o? Ați ridicat ceva greu, ați stat mult jos?\nSPEAKER_01: Stau mult la birou. Cam opt ore pe zi.\nSPEAKER_00: Ok, deci sedentarism prelungit la birou. Doare constant sau numai în anumite momente?\nSPEAKER_01: Când stau jos mult. Și dimineața când mă ridic.\nSPEAKER_00: Dimineața la ridicare doare, și după, pe parcursul zilei, se mai ameliorează?\nSPEAKER_01: Da, trece după ce mă mișc un pic.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum estimați durerea?\nSPEAKER_01: Un 5, poate.\nSPEAKER_00: Un 5. Durerea se lasă și mai jos, pe fese, pe picior?\nSPEAKER_01: Nu.\nSPEAKER_00: Strict în zona lombară?\nSPEAKER_01: Da, cam acolo.\nSPEAKER_00: Amorțeli la picioare, furnicături?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun fel de senzație ciudată pe membrele inferioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Și doare mai mult pe o parte sau în mijloc, simetric?\nSPEAKER_01: Mai mult pe stânga, parcă.\nSPEAKER_00: Pe stânga. Doare și zona de deasupra feselor sau mai sus?\nSPEAKER_01: Și acolo un pic, jos de tot.\nSPEAKER_00: Deci și zona sacrolombară, zona de deasupra coccisului. Haideți să facem câteva mișcări. Ridicați-vă puțin. Aplecați-vă înainte, ușor.\nSPEAKER_01: Doare când mă aplec.\nSPEAKER_00: Doare la flexie. Cât, pe scara noastră?\nSPEAKER_01: Un 6 acum.\nSPEAKER_00: Un 6 la flexie. Ridicați-vă drept. Acum dați-vă ușor pe spate.\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin la extensie, bun. Rotire spre stânga, vă rog.\nSPEAKER_01: Ah, da, asta doare.\nSPEAKER_00: Rotația spre stânga provoacă durere. Spre dreapta?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Am înțeles. Stați puțin pe piciorul stâng, ridicați piciorul drept. Vă ține?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. La fel pe piciorul drept, ridicați stângul.\nSPEAKER_01: Da, și asta merge.\nSPEAKER_00: Ok, echilibru bun. Haideți să vă rog să vă așezați pe masă, cu fața în sus. Vreau să ridic eu piciorul stâng, îmi spuneți dacă doare în zona lombară.\nSPEAKER_01: Un pic acolo sus, da.\nSPEAKER_00: Un pic în lombar la ridicarea piciorului stâng. Pe dreapta?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Bun. Vă întreb câteva lucruri de rutină. Tensiune, diabet, osteoporoză, vreo problemă mai veche la coloană?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații, traumatisme mai vechi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu iau nimic.\nSPEAKER_00: Ok. Ați mai făcut chiropractică sau fizioterapie înainte?\nSPEAKER_01: Nu, prima dată.\nSPEAKER_00: Prima dată, bine. Deci avem o contractură a mușchiului pătrat lombar, mai accentuată pe stânga, cu o ușoară tensionare și în zona sacrolombară. Postura la birou opt ore pe zi creează o suprasolicitare a musculaturii paravertebrale, care se inflamează și blochează. Obiectivul nostru e să reducem inflamația, să relaxăm musculatura și să vedem cum corectăm și postura la birou ca să nu revenim la același punct. Mergem la treabă?\nSPEAKER_01: Da.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară și lombosacrală stângă, instalată treptat în ultimele trei săptămâni, asociată cu muncă sedentară la birou (circa 8 ore/zi). Durere accentuată la flexie, rotație stângă și dimineața la ridicare din pat; se ameliorează după mișcare.",
+    "evaluarea_durerii_vas": [5, 6],
+    "localizarea_durerii": [
+      "lombar",
+      "sacral_coccis"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nFlexie lombară dureroasă (VAS 6), extensie mai puțin dureroasă, rotație stângă dureroasă, rotație dreaptă mai puțin afectată. Test Lasègue stâng ușor pozitiv (durere lombară la ridicarea membrului inferior stâng), drept negativ. Echilibru monopodal păstrat bilateral.\nDiagnostic:\nContractură musculară paravertebrală lombară, mai accentuată pe stânga, cu tensionare în zona sacrolombară; mecanism – suprasolicitare posturală prin sedentarism prelungit la birou.\nObiective terapeutice:\nReducerea inflamației și a contracturii musculare paravertebrale; creșterea mobilității lombare; corecția posturii la birou pentru prevenirea recidivelor."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "Vreo trei săptămâni.",
+      "Stau mult la birou. Cam opt ore pe zi.",
+      "Când stau jos mult. Și dimineața când mă ridic.",
+      "Da, trece după ce mă mișc un pic.",
+      "Mai mult pe stânga, parcă.",
+      "Și acolo un pic, jos de tot."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5, poate.",
+      "Un 6 acum."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Strict în zona lombară.",
+      "Și acolo un pic, jos de tot.",
+      "deci și zona sacrolombară, zona de deasupra coccisului"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nu iau nimic."
+    ],
+    "evaluare_functionala_initiala": [
+      "Doare când mă aplec.",
+      "Un 6 acum.",
+      "Mai puțin la extensie",
+      "Rotația spre stânga provoacă durere.",
+      "Un pic acolo sus, da.",
+      "Nu prea.",
+      "avem o contractură a mușchiului pătrat lombar, mai accentuată pe stânga, cu o ușoară tensionare și în zona sacrolombară",
+      "Postura la birou opt ore pe zi creează o suprasolicitare a musculaturii paravertebrale, care se inflamează și blochează.",
+      "Obiectivul nostru e să reducem inflamația, să relaxăm musculatura și să vedem cum corectăm și postura la birou"
+    ]
+  }
+}

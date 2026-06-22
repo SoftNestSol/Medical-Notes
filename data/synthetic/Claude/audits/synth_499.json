@@ -1,0 +1,54 @@
+{
+  "conversation_id": "synth_499",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare... mâna, la încheietură, pe aici undeva",
+      "Dreapta, da",
+      "De vreo... nu știu exact, câteva săptămâni poate, o lună, ceva de genul",
+      "lucrez mult la calculator, nu știu dacă are legătură",
+      "Stau cam opt, nouă ore pe zi la birou",
+      "Dimineața e chiar mai rău un pic, mă ține, amorțesc și degetele un pic",
+      "Scutur un pic mâna și trece, în zece minute poate",
+      "Da, da, doare",
+      "Au, da. Asta chiar doare"
+    ],
+    "evaluarea_durerii_vas": [
+      "Poate un 6, 7, pe acolo. Când scriu mult sau când întorc mâna"
+    ],
+    "localizarea_durerii": [
+      "mâna, la încheietură, pe aici undeva",
+      "Dreapta, da"
+    ],
+    "localizarea_durerii_alta": [
+      "Și pe antebraț un pic, pe față, pe partea asta de aici. Nu tot antebrațul, doar pe față",
+      "internă parcă, da, pe-acolo"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am hipotiroidism, de vreo trei ani"
+    ],
+    "medicatie_actuala": [
+      "iau Euthyrox. În fiecare dimineață",
+      "75, cred că 75 micrograme"
+    ],
+    "evaluare_functionala_initiala": [
+      "cel mai probabil ne confruntăm cu o sindrom de tunel carpian, din cauza posturii la calculator și a utilizării intense a mâinii",
+      "Obiectivul nostru principal e să reducem inflamația din zona tunelului carpian, să relaxăm musculatura flexorilor, și să vedem dacă nu avem și o tensiune venind mai sus, de pe antebraț",
+      "Lucrăm pe relaxarea musculaturii flexorilor de pe antebraț, mobilizăm articulația radiocarpală, și facem și un pic de terapie pe tunelul carpian propriu-zis"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22994,
+    "inference_geo": "global",
+    "input_tokens": 364,
+    "output_tokens": 3002,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

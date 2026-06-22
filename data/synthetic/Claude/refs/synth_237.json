@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere umar stang, cervical, toracal",
+  "evaluarea_durerii_vas": [
+    8,
+    3,
+    4
+  ],
+  "localizarea_durerii": [
+    "umar_stg",
+    "cervical",
+    "toracal"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "scolioza_cifoza"
+  ],
+  "antecedente_altele": "tunel carpian operat mana dreapta; fractura coasta stanga (copilarie, neconfirmata sigur)",
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie tendon supraspinat si bursita subacromială umar stg;\n- tensiune musculara cervicala inferioara stg;\n- scolioza toracala usoara cu postura deficitara\nObiective terapeutice:\n- reducerea inflamatiei umar stg;\n- recuperarea amplitudinii de miscare;\n- corectie posturala"
+}

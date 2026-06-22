@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_487",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare mijlocul spatelui de ceva vreme",
+      "E mai degrabă ca o apăsare, ca și cum ai sta cu ceva greu pe spate. Câteodată mai simt și un fel de arsură acolo",
+      "a apărut treptat, nu dintr-odată",
+      "stau cam opt-nouă ore pe zi, și spre seară mă chinuie mai tare",
+      "Dacă mă plimb un pic sau dacă mă întind pe spate pe podea, mai trece"
+    ],
+    "evaluarea_durerii_vas": [
+      "Aș zice un 6."
+    ],
+    "localizarea_durerii": [
+      "între omoplați, cam în zona aia",
+      "nu e jos, nu e sus la gât, e fix la mijloc"
+    ],
+    "localizarea_durerii_alta": [
+      "mai rar simt că se extinde un pic pe coaste, pe lateral",
+      "Câteodată simt că urcă un pic spre ceafă"
+    ],
+    "antecedente": [
+      "mi s-a spus la un control acum câțiva ani că am o ușoară scolioză"
+    ],
+    "antecedente_altele": [
+      "Am avut o fractură la mâna dreaptă acum vreo zece ani, dar a trecut, n-am mai avut probleme cu ea"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd că într-adevăr umerii sunt duși în față, și capul e ușor proiectat înainte. E o postură caracteristică pentru cineva care stă mult la calculator.",
+      "Deci sensibilitate mai accentuată paravertebral dreapta în zona toracală medie.",
+      "avem o contractură musculară toracală destul de clară, pe fond de postură deficitară și muncă sedentară prelungită",
+      "Combinat cu scolioza ușoară pe care o aveți, musculatura paravertebrală toracală se suprasolicitează asimetric.",
+      "Obiectivul nostru va fi să reducem contractura asta, să lucrăm mobilitatea coloanei toracale și să vă dăm și câteva exerciții posturale pe care să le faceți acasă."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23237,
+    "inference_geo": "global",
+    "input_tokens": 352,
+    "output_tokens": 3712,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

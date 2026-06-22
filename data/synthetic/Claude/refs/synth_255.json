@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere umăr drept apărută după efort prelungit cu brațul ridicat (vopsit plafonul), persistentă de două săptămâni, cu limitare de mobilitate și iradiere pe braț",
+  "evaluarea_durerii_vas": [
+    8,
+    5
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "iradiere pe fața anterioară a brațului drept până la jumătate",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare mobilitate umăr drept pe abducție și rotație internă; durere la palpare zona anterioară a umărului și creastă; diagnostic: inflamație tendoane rotatori, cel mai probabil tendon supraspinos afectat; obiective terapeutice: reducerea inflamației și refacerea mobilității umărului"
+}

@@ -1,0 +1,199 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 5.86,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua, am și eu o programare, mă numesc Georgescu Mihai."
+    },
+    {
+      "start": 5.98,
+      "end": 9.78,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, domnule Georgescu, spuneți-mi cu ce problemă ne vedem."
+    },
+    {
+      "start": 9.9,
+      "end": 33.46,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, uite, mă doare gâtul de vreo două săptămâni, și-am zis să vin că nu mai pot. Adică am tot zis că trece singur, că am mai avut și alte dăți, dar acum pare mai rău. Soția mea m-a tot îmboldit să vin, ea a fost la dumneavoastră acum câteva luni pentru spate și a zis că a ajutat-o."
+    },
+    {
+      "start": 33.58,
+      "end": 38.52,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Gâtul, zona de cervical. Doare și în altă parte sau doar gâtul?"
+    },
+    {
+      "start": 38.64,
+      "end": 57.64,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mai mult gâtul, dar uneori simt și în umărul drept, se duce pe acolo. Nu știu dacă e de la gât sau e altceva, că am și eu internet și am citit tot felul, poate e ceva la inimă, poate e nu știu ce... Dar mai mult gâtul, da."
+    },
+    {
+      "start": 57.76,
+      "end": 66.12,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare maxim, unde vă situați acum?"
+    },
+    {
+      "start": 66.24,
+      "end": 75.36,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, la momentul ăsta? Zic un 6. Dar dimineața când mă trezesc e mai rău, poate un 8, că stau toată noaptea strâmb probabil."
+    },
+    {
+      "start": 75.48,
+      "end": 77.38,
+      "speaker": "SPEAKER_00",
+      "text": "Și de două săptămâni spuneați?"
+    },
+    {
+      "start": 77.5,
+      "end": 93.84,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, exact. A început după ce am stat vreo trei zile la calculator aproape non-stop, aveam un proiect la serviciu. Și dimineața m-am trezit și gata, nu mai puteam să-ntorc capul. Acum pot să-ntorc, dar tot mă doare."
+    },
+    {
+      "start": 93.96,
+      "end": 97.76,
+      "speaker": "SPEAKER_00",
+      "text": "Limitare de mișcare deci. Întoarceți capul spre dreapta acum, ușor."
+    },
+    {
+      "start": 97.88,
+      "end": 100.54,
+      "speaker": "SPEAKER_01",
+      "text": "Uite, cam până pe-aici ajung. Au."
+    },
+    {
+      "start": 100.66,
+      "end": 103.7,
+      "speaker": "SPEAKER_00",
+      "text": "Da, e limitată rotația spre dreapta. Spre stânga?"
+    },
+    {
+      "start": 103.82,
+      "end": 105.72,
+      "speaker": "SPEAKER_01",
+      "text": "Stânga merge mai bine, da."
+    },
+    {
+      "start": 105.84,
+      "end": 109.64,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Alte afecțiuni aveți, tensiune arterială, diabet, ceva de genul?"
+    },
+    {
+      "start": 109.76,
+      "end": 120.02,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da, de vreo doi ani am tensiune. Iau și medicamente pentru asta. Diabet nu, slavă Domnului, că taică-meu a avut și știu cum e."
+    },
+    {
+      "start": 120.14,
+      "end": 122.04,
+      "speaker": "SPEAKER_00",
+      "text": "Ce medicament luați pentru tensiune?"
+    },
+    {
+      "start": 122.16,
+      "end": 124.82,
+      "speaker": "SPEAKER_01",
+      "text": "Iau Enalapril, 10 miligrame, în fiecare dimineață."
+    },
+    {
+      "start": 124.94,
+      "end": 126.08,
+      "speaker": "SPEAKER_00",
+      "text": "Altceva mai luați?"
+    },
+    {
+      "start": 126.2,
+      "end": 133.42,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic altceva. Am luat niște Nurofen acum vreo săptămână când mă durea tare, dar nu în mod regulat."
+    },
+    {
+      "start": 133.54,
+      "end": 135.06,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Operații, fracturi, accidente?"
+    },
+    {
+      "start": 135.18,
+      "end": 146.96,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, nimic de genul. Bine, acum vreo zece ani am căzut de pe bicicletă, m-am lovit la genunchi, dar n-a fost nimic grav, a trecut. Și altceva nu."
+    },
+    {
+      "start": 147.08,
+      "end": 152.78,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Stați puțin cu capul drept... Apăs ușor pe zona asta, spuneți-mi dacă doare."
+    },
+    {
+      "start": 152.9,
+      "end": 157.08,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo doare, da. Și un pic în sus, spre ceafă."
+    },
+    {
+      "start": 157.2,
+      "end": 163.28,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Mușchii paravertebrali cervicali sunt contractați, mai ales pe dreapta. Apăs și pe umărul drept acum."
+    },
+    {
+      "start": 163.4,
+      "end": 178.6,
+      "speaker": "SPEAKER_01",
+      "text": "Au, acolo e mai sensibil. Dar nu știu, poate e de la dormit strâmb și noaptea asta, habar n-am, sau poate e ceva mai grav, nu? Că am citit că poate fi hernie de disc la gât și atunci..."
+    },
+    {
+      "start": 178.72,
+      "end": 198.48,
+      "speaker": "SPEAKER_00",
+      "text": "Nu vă faceți griji înainte să vedem exact ce e. Ce pot să vă spun acum este că avem o contractură musculară semnificativă în zona cervicală, cu iradiere spre umărul drept. Rotația e limitată pe dreapta. Vom începe prin a reduce această contractură și inflamația, și vedem cum răspunde în primele ședințe."
+    },
+    {
+      "start": 198.6,
+      "end": 200.5,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu e ceva grav?"
+    },
+    {
+      "start": 200.62,
+      "end": 207.08,
+      "speaker": "SPEAKER_00",
+      "text": "Deocamdată vedem o problemă musculară. Dacă nu cedează, vă recomandăm să facem și o radiografie sau RMN."
+    },
+    {
+      "start": 207.2,
+      "end": 211.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, ok, bine. Am înțeles. Și cam câte ședințe credeți?"
+    },
+    {
+      "start": 211.12,
+      "end": 214.16,
+      "speaker": "SPEAKER_00",
+      "text": "Vedem după primele două-trei. Haideți să începem."
+    },
+    {
+      "start": 214.28,
+      "end": 215.42,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, gata."
+    }
+  ]
+}

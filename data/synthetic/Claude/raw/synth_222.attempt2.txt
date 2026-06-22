@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă venim astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și cum a apărut, ați făcut ceva, ați căzut?\nSPEAKER_01: Nu știu, m-am trezit dimineața și era.\nSPEAKER_00: Dimineața v-ați trezit cu durerea, da?\nSPEAKER_01: Da.\nSPEAKER_00: Doare și când ridicați mâna sus?\nSPEAKER_01: Da, nu prea pot să ridic.\nSPEAKER_00: Și noaptea vă deranjează?\nSPEAKER_01: Dacă stau pe el da.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare acum?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Și când ridicați mâna?\nSPEAKER_01: Mai mult, un 7.\nSPEAKER_00: Înțeles. Amorțește mâna sau degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați puțin brațul în față, cât puteți.\nSPEAKER_01: Până pe aici.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da, de aici încolo.\nSPEAKER_00: Și în lateral, ridicați?\nSPEAKER_01: Mai greu.\nSPEAKER_00: Vă apăs puțin aici, pe zona de tendon.\nSPEAKER_01: Au, da, acolo doare.\nSPEAKER_00: Da, e o inflamație la nivelul tendonului supraspinos. Asta e ce avem. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "durere umar stang",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie tendon supraspinos umar stang\nObiective terapeutice:\n- reducerea inflamatiei\n- recuperarea mobilitatii umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul."],
+    "evaluarea_durerii_vas": ["Un 5.", "Mai mult, un 7."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["e o inflamație la nivelul tendonului supraspinos", "O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

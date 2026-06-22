@@ -1,0 +1,41 @@
+{
+  "conversation_id": "synth_215",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o problemă cu umărul, umărul stâng, de câteva săptămâni mă chinuie",
+      "A început când am mutat niște mobilă cu soțul meu",
+      "mă întorc pe el în somn și mă trezesc"
+    ],
+    "evaluarea_durerii_vas": [
+      "aș zice vreo 7, da, un 7",
+      "În repaus poate un 2"
+    ],
+    "localizarea_durerii": [
+      "am o problemă cu umărul, umărul stâng"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel antiinflamator câteva zile, unul pe care l-am luat de la farmacie, Voltaren"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o limitare a abducției și durere la palparea zonei subacromiale. Pare a fi o tendinită la nivelul coafei rotatorilor, cel mai probabil supraspinatus.",
+      "Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22058,
+    "inference_geo": "global",
+    "input_tokens": 314,
+    "output_tokens": 1745,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

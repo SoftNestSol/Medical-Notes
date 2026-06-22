@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Gheorghe Antal.\nSPEAKER_00: Și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A fost vreo lovitură, vreo căzătură?\nSPEAKER_01: Nu.\nSPEAKER_00: Atunci ce s-a întâmplat, adică a apărut din senin?\nSPEAKER_01: Păi am mutat niște mobilă și a doua zi a început să doară.\nSPEAKER_00: Înțeles. Doare în repaus sau mai mult când îl mișcați?\nSPEAKER_01: Când îl mișc.\nSPEAKER_00: Puteți ridica brațul drept sus, deasupra capului?\nSPEAKER_01: Greu. Până pe la jumătate merge, după aia doare rău.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare când ridicați brațul?\nSPEAKER_01: Un 7.\nSPEAKER_00: Și când stați liniștit, în repaus?\nSPEAKER_01: Trei, poate.\nSPEAKER_00: Deci mai suportabil în repaus. Doare și în spate, în zona dintre umeri?\nSPEAKER_01: Nu, doar umărul.\nSPEAKER_00: Amorțeală pe braț sau degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Tensiune, diabet, alte boli?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați ceva medicamente?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, nici antiinflamatoare?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Ok. Haideți să verific eu puțin zona. O să vă rog să ridicați brațul lateral, încet.\nSPEAKER_01: Mmm.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da, pe la 90 de grade.\nSPEAKER_00: Exact, arc dureros prezent. O să apăs puțin pe tendoanele de deasupra umărului, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Da, cum mă gândeam. Avem o inflamație la nivelul manșetei rotatorilor, cel mai probabil supraspinosul. Asta înseamnă că vom lucra să reducem inflamația și să recâștigăm mobilitatea completă a umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutat mobila), cu limitarea miscarii de ridicare a bratului",
+    "evaluarea_durerii_vas": [7, 3],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Inflamatie manseta rotatorilor (supraspinos) umar drept; arc dureros prezent la abductie laterala ~90 grade.\nObiective terapeutice: reducerea inflamatiei; recastigarea mobilitatii complete a umarului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "am mutat niște mobilă și a doua zi a început să doară"],
+    "evaluarea_durerii_vas": ["Un 7.", "Trei, poate."],
+    "localizarea_durerii": ["Dreptul.", "doar umărul"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu, nimic."],
+    "evaluare_functionala_initiala": ["arc dureros prezent", "Avem o inflamație la nivelul manșetei rotatorilor, cel mai probabil supraspinosul. Asta înseamnă că vom lucra să reducem inflamația și să recâștigăm mobilitatea completă a umărului."]
+  }
+}

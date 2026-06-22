@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, v-ați lovit, ați căzut?\nSPEAKER_01: Nu. A apărut așa, din senin.\nSPEAKER_00: Din senin. Și doare tot timpul sau doar la anumite mișcări?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: La ce fel de mișcări? Când ridicați brațul?\nSPEAKER_01: Da, când ridic brațul sus.\nSPEAKER_00: Sus, deasupra capului?\nSPEAKER_01: Da.\nSPEAKER_00: Până unde reușiți să ridicați înainte să doară?\nSPEAKER_01: Cam până la nivelul umerilor, după aia doare.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Doare și în repaus, când stați liniștit?\nSPEAKER_01: Noaptea mai doare.\nSPEAKER_00: Noaptea, când stați pe acea parte?\nSPEAKER_01: Da, pe umărul stâng nu pot să dorm.\nSPEAKER_00: Bun. Durerea rămâne în umăr sau coboară pe braț?\nSPEAKER_01: Rămâne pe acolo.\nSPEAKER_00: Strict în umăr. Amorțeli, furnicături pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Ce muncă faceți, dacă pot să întreb?\nSPEAKER_01: Stau mult la birou, calculator.\nSPEAKER_00: La calculator. Cu mâna stângă folosiți mouse-ul sau cu dreapta?\nSPEAKER_01: Cu dreapta.\nSPEAKER_00: Cu dreapta. Și capul, gâtul, doare ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă fac un mic test. Ridicați brațul stâng ușor înainte, ca și cum ați vrea să ajungeți la ceva pe raft. Doare?\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: Și dacă eu pun mâna pe umăr și apăs ușor pe zona asta de aici, sus?\nSPEAKER_01: Au, da.\nSPEAKER_00: Sensibil. Acum aduceți brațul în spate, ca la un înot. Reușiți?\nSPEAKER_01: Greu, nu prea.\nSPEAKER_00: Greu. Ok. Avem și vreo problemă de tensiune, diabet, ceva de genul ăsta?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Nimic. Intervenții chirurgicale, fracturi la umăr?\nSPEAKER_01: Nu am avut.\nSPEAKER_00: Bun. Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Nimic. Ok. Deci avem o limitare destul de clară la ridicarea brațului deasupra orizontalei și durere la palparea zonei subacromiale. Cel mai probabil e o inflamație la nivelul tendonului supraspinos, o tendinopatie de coafă a rotatorilor, posibil și un conflict subacromial. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în sus, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng, apărută spontan de aproximativ două săptămâni, accentuată la ridicarea brațului deasupra orizontalei și noaptea în decubit pe partea afectată.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinopatie coafă rotatori stâng, posibil conflict subacromial.\nObiective terapeutice: reducerea inflamației, recâștigarea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Vreo două săptămâni.", "A apărut așa, din senin.", "pe umărul stâng nu pot să dorm."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o limitare destul de clară la ridicarea brațului deasupra orizontalei și durere la palparea zonei subacromiale. Cel mai probabil e o inflamație la nivelul tendonului supraspinos, o tendinopatie de coafă a rotatorilor, posibil și un conflict subacromial. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea umărului."]
+  }
+}

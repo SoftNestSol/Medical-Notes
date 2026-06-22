@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere umar drept cu iradiere pe brat, aparuta dupa efort (vopsit cu bratul ridicat), cu limitarea miscarii de ridicare a bratului",
+  "evaluarea_durerii_vas": [
+    7,
+    3
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "50 micrograme dimineata"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: Tendinopatie coif rotatori, zona supraspinos dr.; inflamatie tendon bicipital dr.\nObiective terapeutice: - reducerea inflamatiei; - refacerea mobilitatii si fortei musculare umar dr."
+}

@@ -1,0 +1,43 @@
+{
+  "conversation_id": "synth_445",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel drept, de ceva vreme",
+      "am mutat niște cutii mai grele",
+      "a doua zi m-am trezit și nu mai puteam ridica brațul sus"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când ridic în sus, așa, aș zice un 7",
+      "La repaus mai mic, poate un 3"
+    ],
+    "localizarea_durerii": [
+      "pe umărul drept, mai mult pe partea din față și lateral",
+      "Poate un pic spre ceafă uneori, dar mai rar"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Voltaren gel pe umăr, de vreo câteva ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendoanelor din umăr, zona de coafă a rotatorilor, cel mai probabil",
+      "Mobilitatea e limitată destul de clar pe rotație internă și pe abducție",
+      "obiectivul nostru pentru început este să reducem inflamația locală și să recuperăm mobilitatea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13823,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2432,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

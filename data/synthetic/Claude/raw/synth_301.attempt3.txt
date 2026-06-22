@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau doar la mișcare?\nSPEAKER_01: La mișcare mai mult.\nSPEAKER_00: Puteți ridica brațul sus?\nSPEAKER_01: Greu.\nSPEAKER_00: Îl ridicați și doare?\nSPEAKER_01: Da, pe aici.\nSPEAKER_00: Pe partea din față a umărului?\nSPEAKER_01: Da.\nSPEAKER_00: Noaptea vă deranjează, nu puteți sta pe acea parte?\nSPEAKER_01: Nu pot sta pe el, da.\nSPEAKER_00: Ok. Doare și în braț, coboară durerea?\nSPEAKER_01: Nu, stă în umăr.\nSPEAKER_00: Bun. Stați puțin, ridic eu brațul ușor... Vă doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă faceți rotație internă, aduceți mâna la spate?\nSPEAKER_01: Nu prea pot.\nSPEAKER_00: Nu prea puteți. Ok. Avem o limitare de mobilitate la nivelul umărului stâng și o durere la abducție și rotație internă, pare o tendinită a coifului rotator.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. O să lucrăm să reducem inflamația și să recuperăm mobilitatea. Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Pacient acuză durere la nivelul umărului stâng, instalată după mutarea mobilei, de aproximativ două săptămâni. Durere la mișcare (abducție, rotație internă), cu limitare funcțională. Nu poate dormi pe umărul afectat.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\nTendinită coif rotator umăr stâng, cu limitare de mobilitate la abducție și rotație internă.\nObiective terapeutice:\nReducerea inflamației și recuperarea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "De vreo două săptămâni.", "Am mutat niște mobilă.", "La mișcare mai mult.", "Nu pot sta pe el, da."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Avem o limitare de mobilitate la nivelul umărului stâng și o durere la abducție și rotație internă, pare o tendinită a coifului rotator.", "O să lucrăm să reducem inflamația și să recuperăm mobilitatea."]
+  }
+}

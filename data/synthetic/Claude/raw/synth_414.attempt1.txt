@@ -1,0 +1,45 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce vă pot ajuta azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut din senin sau ați făcut ceva anume?\nSPEAKER_01: Am mutat niște cutii.\nSPEAKER_00: Cutii grele?\nSPEAKER_01: Da, destul de.\nSPEAKER_00: Și de atunci doare continuu sau numai când mișcați?\nSPEAKER_01: Mai mult când ridic mâna.\nSPEAKER_00: Când ridicați brațul în sus doare, da?\nSPEAKER_01: Da.\nSPEAKER_00: Noaptea vă deranjează, vă treziți din cauza durerii?\nSPEAKER_01: Uneori, dacă stau pe partea dreaptă.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, cât e durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare și în zona gâtului sau e strict umărul?\nSPEAKER_01: Strict umărul.\nSPEAKER_00: Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici furnicături?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio accidentare, nicio fractură?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați brațul drept în față, încet, până unde puteți.\nSPEAKER_01: Până pe la orizontală, cam.\nSPEAKER_00: Doare acolo?\nSPEAKER_01: Da, cam de la nivelul ăsta încolo.\nSPEAKER_00: Încerc să duceți și lateral, la fel, sus.\nSPEAKER_01: Aici doare mai tare.\nSPEAKER_00: Da, deci abducția e mai dureroasă decât flexia. Acum puneți mâna la spate, ca și cum ați vrea să vă scărpinați la omoplaț.\nSPEAKER_01: Ajung mai greu.\nSPEAKER_00: Ajungeți mai greu, da, e limitată rotația internă. Stați puțin, apăs acum pe zona de aici, deasupra capului humeral. Doare?\nSPEAKER_01: Da, chiar acolo.\nSPEAKER_00: Acolo exact. Și dacă rezistați când ridic eu brațul, încearcă să opuneți rezistență. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Avem o inflamație la nivelul tendoanelor manșetei rotatorilor, cel mai probabil supraspinosul. Durerea la abducție și sensibilitatea de acolo sunt destul de clare. Trebuie să lucrăm să reducem inflamația, să redobândim mobilitatea completă și să întărim musculatura din jur ca să nu se repete.\nSPEAKER_01: Cât durează?\nSPEAKER_00: Depinde cum răspundeți, dar în câteva ședințe ar trebui să simțiți o ameliorare clară. Deocamdată evitați să ridicați greutăți cu brațul drept și să dormiți pe partea dreaptă dacă se poate.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa mutarea unor cutii grele, de aproximativ doua saptamani. Doare la ridicarea bratului, mai ales la abductie. Trezire nocturna la dormit pe partea dreapta.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- Tendinopatie/inflamatie manseta rotatorilor (supraspinat), umar drept\nObservatii functionale:\n- Abductie limitata si dureroasa mai mult decat flexia\n- Rotatie interna limitata\n- Sensibilitate la palpare deasupra capului humeral\n- Test rezistenta abductie pozitiv\nObiective terapeutice:\n- Reducerea inflamatiei\n- Redobandirea mobilitatii complete\n- Intarirea musculaturii periarticulare"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Vreo două săptămâni.",
+      "Am mutat niște cutii.",
+      "Mai mult când ridic mâna.",
+      "Uneori, dacă stau pe partea dreaptă."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Strict umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Avem o inflamație la nivelul tendoanelor manșetei rotatorilor, cel mai probabil supraspinosul.",
+      "Durerea la abducție și sensibilitatea de acolo sunt destul de clare.",
+      "Trebuie să lucrăm să reducem inflamația, să redobândim mobilitatea completă și să întărim musculatura din jur ca să nu se repete.",
+      "deci abducția e mai dureroasă decât flexia",
+      "e limitată rotația internă",
+      "apăs acum pe zona de aici, deasupra capului humeral. Doare? Da, chiar acolo.",
+      "dacă rezistați când ridic eu brațul, încearcă să opuneți rezistență. Doare? Da."
+    ]
+  }
+}

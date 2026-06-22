@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_353",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Cel drept.",
+      "Vreo două săptămâni.",
+      "am ridicat niște cutii la muncă"
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6.",
+      "Da, ajunge la 8 poate."
+    ],
+    "localizarea_durerii": [
+      "Care umăr?",
+      "Cel drept."
+    ],
+    "localizarea_durerii_alta": [
+      "Mai mult în umăr. Un pic pe braț câteodată.",
+      "Până pe la cot cam."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Deci până la aproximativ 90 de grade merge, după aceea?",
+      "Slăbiciune pe abducție, am observat.",
+      "apăs puțin aici, pe zona asta de sub acromiom",
+      "Au, da, acolo doare.",
+      "Avem o inflamație la nivelul tendoanelor din umărul drept, cel mai probabil o tendinopatie de manșetă rotatoare",
+      "Obiectivul nostru va fi să reducem inflamația, să recuperăm mobilitatea și să vă putem întoarce la muncă fără durere."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13861,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 2151,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

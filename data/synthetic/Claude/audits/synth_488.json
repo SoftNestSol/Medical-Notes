@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_488",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare genunchiul, de ceva vreme deja",
+      "cam de vreo două luni, poate mai mult",
+      "A venit cam treptat, nu a fost ceva brusc",
+      "Când merg mai mult doare, când urc sau cobor scările doare",
+      "Seara, mai ales după ce am umblat mult. Dimineața e ceva, da, un pic de rigiditate",
+      "Parcă da, puțin. Nu foarte mult, dar parcă era un pic mai... pufos acolo"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "Cel drept. Ăsta de aici.",
+      "cam pe aici, pe partea asta interioară"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Mi-a spus cineva odată că am o ușoară scolioză",
+      "Da, un medic ortoped, acum mulți ani, când eram mai tânăr."
+    ],
+    "antecedente_altele": [
+      "Am avut o fractură la mână, la mâna stângă, acum vreo zece ani. Dar altceva nu.",
+      "Da, da, n-am mai avut nicio problemă cu ea."
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "durerea dumneavoastră e localizată pe linia articulară internă a genunchiului drept",
+      "Poate fi vorba de o iritație a ligamentului colateral medial sau o problemă la nivelul meniscului intern, ținând cont că aveți și disconfort la flexie și sensibilitate la palpare pe linia articulară",
+      "Vom lucra să reducem inflamația din zonă, să relaxăm musculatura din jurul articulației și să creștem stabilitatea genunchiului",
+      "Ar fi bine să facem o ecografie de genunchi drept ca să vedem exact cu ce ne confruntăm"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23237,
+    "inference_geo": "global",
+    "input_tokens": 353,
+    "output_tokens": 3206,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

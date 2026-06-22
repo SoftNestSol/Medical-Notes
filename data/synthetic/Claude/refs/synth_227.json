@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutare cutii), de aproximativ doua luni, cu iradiere pe fata bratului drept pana la jumatatea acestuia. Limitarea ridicarii brațului. Asociaza cervicalgie cronica (postura birou) cu dureri de cap occipitale.",
+  "evaluarea_durerii_vas": [
+    3,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "fata bratului drept pana la jumatatea bratului",
+  "antecedente": [
+    "scolioza_cifoza"
+  ],
+  "antecedente_altele": "fractura mana stanga (acum aproximativ 10 ani, tratata conservator cu ghips, vindecata)",
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic:\n- sindrom de impingement subacromial, inflamatie coafa rotatorilor (supraspinat);\n- cervicalgie cronica\nObiective terapeutice:\n- reducerea procesului inflamator la nivelul umarului drept;\n- recuperarea mobilitatii articulare;\n- lucru cervical"
+}

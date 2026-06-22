@@ -1,0 +1,23 @@
+{
+  "motivul_prezentarii": "Durere umăr stâng cu debut progresiv de aproximativ o lună, agravată în ultimele două săptămâni. Durere la ridicarea brațului și la ducerea lui în spate. Exacerbare nocturnă.",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "operație menisc genunchi drept",
+  "medicatie_actuala": [
+    {
+      "denumire": "Metoprolol",
+      "doza": "50 mg, o dată pe zi"
+    },
+    {
+      "denumire": "Rosuvastatina",
+      "doza": "10 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: tendinopatie manizon rotator, supraspinat. Arc dureros prezent între 60 și 120 de grade. Obiective terapeutice: reducerea inflamației și recuperarea mobilității umărului."
+}

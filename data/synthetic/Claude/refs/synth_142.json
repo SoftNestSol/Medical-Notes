@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "Durere cervicala cu iradiere in umar drept, aparuta dupa stat mult la birou",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "ibuprofen",
+      "doza": "400 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contracturi trapez si ridicator scapula dreapta; limitare mobilitate cervicala la rotatie dreapta si extensie\nObiective terapeutice: reducerea contracturii musculare; refacerea mobilitatii cervicale"
+}

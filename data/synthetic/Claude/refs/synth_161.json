@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Durere umăr drept apărută după efort fizic (mutat cutii grele), de aproximativ două săptămâni",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Arc dureros prezent la flexie și abducție umăr drept (limitat la aproximativ 90 de grade). Sensibilitate la palpare pe acromion și tendonul bicepsului. Diagnostic: inflamație umăr drept, suspiciune tendinită supraspinat și tendinită biceps. Obiective terapeutice: reducerea inflamației și recuperarea mobilității complete a umărului drept."
+}

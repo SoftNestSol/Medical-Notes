@@ -1,0 +1,48 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce vă pot ajuta?\nSPEAKER_01: Bună ziua, deci am o durere de ceafă, de vreo două săptămâni. Sau poate mai mult, sincer nu mai știu exact. Am zis că trece singură, dar nu a trecut.\nSPEAKER_00: Ok, deci zona cervicală, ceafa. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare cel mai tare posibil, cum estimați durerea?\nSPEAKER_01: Aș zice un 5. Nu e ceva groaznic, dar mă deranjează, mai ales că am serviciu la calculator toată ziua și nu prea pot să stau concentrat.\nSPEAKER_00: Și durerea asta, e strictă în ceafă sau se lasă undeva?\nSPEAKER_01: Păi asta e, că uneori se mai duce și în cap, în ceafă sus, știți, și câteodată simt o greutate în cap. Nu e o durere ascuțită, e mai mult o apăsare.\nSPEAKER_00: Se lasă și pe braț, pe umăr?\nSPEAKER_01: Nu, nu. Adică umărul îl mai simt uneori tensionat, dar să coboare pe braț, nu.\nSPEAKER_00: Amorțeli la mâini, degete?\nSPEAKER_01: Nu, nu am observat.\nSPEAKER_00: Bun. De când ați observat că a apărut? Ați legat-o de ceva anume?\nSPEAKER_01: Hmm, nu știu... Cred că am schimbat biroul la serviciu acum vreo lună, am un alt scaun, mai scund parcă. Și poate și stresul, am avut o perioadă mai aglomerată. Sincer nu știu sigur, dar asta e ce am observat.\nSPEAKER_00: Se înrăutățește la un moment din zi?\nSPEAKER_01: Seara, după ce stau mult timp la birou. Dimineața mă trezesc mai bine, dar până la prânz deja simt că mă strânge pe acolo.\nSPEAKER_00: Aveți și amețeli, greață?\nSPEAKER_01: Da, câteodată parcă mi se face ușor amețit când întorc capul repede. Nu cad sau ceva, dar e o senzație neplăcută. Nu știu dacă e legat.\nSPEAKER_00: Da, poate fi legat. Ați luat ceva pentru durere?\nSPEAKER_01: Am uns cu un gel, Voltaren, câteva zile, părea că ajută un pic, dar nu a rezolvat. Pastile nu am luat, nu prea îmi place să iau.\nSPEAKER_00: Ok. Alte probleme de sănătate, tensiune, diabet, ceva?\nSPEAKER_01: Nu, nu am nimic din astea. Sunt ok în rest, nu am nimic. Mă rog, am avut o perioadă cu dureri de spate la lombar, acum doi ani, dar a trecut și nu m-am mai dus la nimeni pentru ea.\nSPEAKER_00: Bun. Și acum la lombar nu mai aveți nimic?\nSPEAKER_01: Nu, nu, e ok acolo. Acum mă deranjează doar ceafa asta.\nSPEAKER_00: Am înțeles. Haideți să facem câteva teste rapide. Întoarceți capul spre dreapta, încet.\nSPEAKER_01: Doare un pic aici, pe partea asta.\nSPEAKER_00: Spre stânga acum.\nSPEAKER_01: Asta e mai ok.\nSPEAKER_00: Lăsați capul pe spate.\nSPEAKER_01: Da, asta strânge, mai ales sus în ceafă.\nSPEAKER_00: Apăs puțin pe zona C4-C5, spuneți-mi dacă simțiți ceva.\nSPEAKER_01: Da, acolo doare. Aia e.\nSPEAKER_00: Am înțeles. Avem o contractură a musculaturii cervicale, mai pronunțată pe dreapta, cu limitare la rotație dreaptă și extensie. Combinat cu postura la birou și amețelile pe care le descrieți, trebuie să lucrăm la mobilizarea cervicală și la relaxarea musculaturii. Obiectivul principal e să reducem contractura, să câștigăm mobilitate și să vedem dacă amețelile se ameliorează.\nSPEAKER_01: Da, bine, mă bucur că am venit. Mă temeam că e ceva mai grav, știți cum e, cauți pe internet și te sperii.\nSPEAKER_00: Înțeleg, dar nu vă faceți griji. Haideți să trecem la lucru.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere cervicală și senzație de apăsare în ceafă și cap, cu debut de aproximativ două săptămâni, posibil corelat cu schimbarea scaunului de birou și stres. Durerea se accentuează seara după orele de lucru la calculator. Asociază amețeli ușoare la rotația rapidă a capului.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nContractură musculatură cervicală, mai pronunțată pe dreapta; limitare la rotație dreaptă și la extensie cervicală; durere la palpare C4-C5.\nDiagnostic:\nContractură cervicală cu limitare de mobilitate, posibil agravată de postură vicioasă la birou; amețeli situaționale la rotație rapidă a capului.\nObiective terapeutice:\nReducerea contracturii musculaturii cervicale; câștigarea mobilității cervicale; ameliorarea amețelilor."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere de ceafă, de vreo două săptămâni",
+      "am serviciu la calculator toată ziua",
+      "Seara, după ce stau mult timp la birou",
+      "câteodată parcă mi se face ușor amețit când întorc capul repede"
+    ],
+    "evaluarea_durerii_vas": [
+      "Aș zice un 5"
+    ],
+    "localizarea_durerii": [
+      "am o durere de ceafă",
+      "uneori se mai duce și în cap, în ceafă sus"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am uns cu un gel, Voltaren, câteva zile"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o contractură a musculaturii cervicale, mai pronunțată pe dreapta, cu limitare la rotație dreaptă și extensie",
+      "trebuie să lucrăm la mobilizarea cervicală și la relaxarea musculaturii",
+      "Obiectivul principal e să reducem contractura, să câștigăm mobilitate și să vedem dacă amețelile se ameliorează",
+      "Apăs puțin pe zona C4-C5, spuneți-mi dacă simțiți ceva"
+    ]
+  }
+}

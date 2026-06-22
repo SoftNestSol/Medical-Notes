@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_456",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept de vreo trei săptămâni",
+      "A apărut treptat",
+      "noaptea mă trezesc câteodată pentru că nu știu pe ce parte să dorm. Dacă mă întorc pe dreapta, mă doare imediat"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în repaus, vreo 4. Dar dacă ridic brațul sau îl duc în spate, ajunge ușor la 7, poate chiar 8 în unele mișcări"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă și pe braț, da, cam până la cot. Nu mai jos. Adică dacă ridic mâna sau o duc în spate simt că mă fulgera așa, pe partea din afară a brațului"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "am folosit Voltaren, gelul ăla, câteva zile",
+      "Am mai luat și un Nurofen o dată când nu mai puteam de durere, dar nu iau regulat"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o limitare clară a abducției și a rotației interne, cu durere maximă subacromială. Pare o tendinopatia a coifului rotatorilor, supraspinos în principal. Vom lucra pe reducerea inflamației din zonă și pe recuperarea mobilității umărului",
+      "apăs acum pe zona de sub acromion, în zona supraspinosului. Doare?",
+      "Da, da, chiar acolo mă doare cel mai tare"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13861,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2521,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

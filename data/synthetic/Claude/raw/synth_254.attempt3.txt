@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Gheorghe Stancu.\nSPEAKER_00: Și vârsta, domnule Stancu?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: Vreo trei zile.\nSPEAKER_00: A apărut brusc sau treptat?\nSPEAKER_01: Brusc. M-am trezit dimineața și nu mai puteam să întorc capul.\nSPEAKER_00: Înțeles. Și acum, în momentul de față, puteți să întoarceți capul?\nSPEAKER_01: Un pic. Nu prea.\nSPEAKER_00: Pe ce parte e mai greu?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Pe dreapta. Durerea rămâne la gât sau se lasă și pe umăr, pe braț?\nSPEAKER_01: Rămâne la gât. Poate un pic și la umăr.\nSPEAKER_00: La umărul drept?\nSPEAKER_01: Da.\nSPEAKER_00: Amorțeală pe braț sau pe degete simțiți?\nSPEAKER_01: Nu.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde v-ați situa acum?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. Și dimineața când v-ați trezit, tot 6 sau mai rău?\nSPEAKER_01: Mai rău. Poate 8.\nSPEAKER_00: Deci fluctuează în cursul zilei.\nSPEAKER_01: Da.\nSPEAKER_00: Aveți o muncă de birou sau faceți altceva?\nSPEAKER_01: La birou. Stau mult la calculator.\nSPEAKER_00: Mult la calculator. Și poziția la monitor, e drept în față sau îl aveți cumva lateral?\nSPEAKER_01: Lateral. Pe dreapta.\nSPEAKER_00: Pe dreapta. Asta ne explică ceva.\nSPEAKER_00: Ați mai avut episoade din astea în trecut?\nSPEAKER_01: Acum doi ani cam același lucru.\nSPEAKER_00: Și s-a rezolvat de la sine sau ați făcut ceva?\nSPEAKER_01: A trecut singur.\nSPEAKER_00: Am înțeles. Tensiune, diabet, alte boli?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreo medicație în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să verific eu puțin. O să apăs pe zona cervicală și îmi spuneți dacă doare.\nSPEAKER_01: Da.\nSPEAKER_00: Aici în zona de C4-C5 doare?\nSPEAKER_01: Da, acolo e.\nSPEAKER_00: Mușchiul sternocleidomastoidian pe dreapta, strâns?\nSPEAKER_01: Da.\nSPEAKER_00: Întoarceți ușor capul spre stânga pentru mine.\nSPEAKER_01: Merge.\nSPEAKER_00: Și spre dreapta acum.\nSPEAKER_01: Au. Nu prea.\nSPEAKER_00: Da, văd. Rotația dreapta e limitată și dureroasă. Umărul drept, dacă ridic eu brațul, doare?\nSPEAKER_01: Un pic, sus.\nSPEAKER_00: Sus la capătul mișcării. Ok. Deci avem o contractură musculară cervicală cu blocaj pe dreapta, cel mai probabil din postura la birou cu monitorul lateral. Vom lucra să relaxăm musculatura și să recuperăm mobilitatea pe rotație dreapta.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu limitarea rotației capului spre dreapta, apărută brusc la trezire, cu iradiere ușoară spre umărul drept",
+    "evaluarea_durerii_vas": [6, 8],
+    "localizarea_durerii": ["cervical", "umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Contractură musculară cervicală cu blocaj în rotație dreapta (C4-C5); spasm sternocleidomastoidian drept; postură vicioasă la birou cu monitor lateral dreapta.\nObiective terapeutice: relaxarea musculaturii cervicale; recuperarea mobilității în rotație dreapta."
+  },
+
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "M-am trezit dimineața și nu mai puteam să întorc capul.", "Rămâne la gât. Poate un pic și la umăr."],
+    "evaluarea_durerii_vas": ["Un 6.", "Mai rău. Poate 8."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Rămâne la gât. Poate un pic și la umăr.", "La umărul drept?", "Da."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Rotația dreapta e limitată și dureroasă.", "Mușchiul sternocleidomastoidian pe dreapta, strâns?", "Stau mult la calculator.", "Lateral. Pe dreapta.", "Deci avem o contractură musculară cervicală cu blocaj pe dreapta, cel mai probabil din postura la birou cu monitorul lateral. Vom lucra să relaxăm musculatura și să recuperăm mobilitatea pe rotație dreapta."]
+  }
+}

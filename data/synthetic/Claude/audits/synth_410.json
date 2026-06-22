@@ -1,0 +1,56 @@
+{
+  "conversation_id": "synth_410",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel stâng, de vreo două săptămâni",
+      "Cu vreo trei săptămâni înainte am mutat niște mobilă, am dus o canapea la etaj. Poate de atunci?",
+      "De două ori m-am trezit că mă durea dacă stăteam pe partea stângă",
+      "Lucrez la birou, stau foarte mult la calculator. Opt, nouă ore pe zi"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în repaus, e cam un 4. Dar dacă ridic brațul sau îl duc în spate... poate un 7, 7 și jumătate."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori se lasă un pic pe partea asta, pe braț, dar nu până la cot"
+    ],
+    "antecedente": [
+      "iau Perindopril, pentru tensiune. De doi ani.",
+      "Doar tensiunea asta."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "iau Perindopril, pentru tensiune. De doi ani.",
+      "5 miligrame, o dată pe zi, dimineața",
+      "Am luat Ketoprofen, un comprimat seara, câteva zile.",
+      "Vreo cinci zile, acum am oprit."
+    ],
+    "evaluare_functionala_initiala": [
+      "La aproximativ 90 de grade se oprește, înțeleg.",
+      "Cam același unghi, doare dacă trec de atât.",
+      "Aici, pe zona acromionului, doare?",
+      "Da, acolo doare destul de tare.",
+      "Au, da, doare când faceți asta.",
+      "Nu reușesc bine, mă doare și nu prea pot.",
+      "există semne de inflamație la nivelul tendoanelor din zona umărului, ce numim coafa rotatorilor. Pare o tendinopatie, posibil cu un conflict subacromion.",
+      "ar fi util să faceți și o ecografie de umăr ca să vedem exact starea tendoanelor",
+      "Să nu vă mai dormiți pe partea stângă momentan."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23139,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 3544,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

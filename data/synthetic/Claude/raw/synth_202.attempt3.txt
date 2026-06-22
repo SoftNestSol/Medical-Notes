@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume, după un efort?\nSPEAKER_01: Nu știu. Parcă după ce am carat niște cutii.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât îl situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare permanent sau doar la mișcare?\nSPEAKER_01: La mișcare.\nSPEAKER_00: Când ridicați mâna sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și când o duceți în spate?\nSPEAKER_01: Da, mai rău.\nSPEAKER_00: Amorțește ceva pe braț, pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Durerea se lasă și pe braț sau e doar în umăr?\nSPEAKER_01: Numai în umăr.\nSPEAKER_00: Ok. Haideți să vedem. Ridicați brațul stâng lateral, încet. Doare?\nSPEAKER_01: Da, pe aici.\nSPEAKER_00: Pe la mijlocul mișcării, da? Cam între 60 și 120 de grade doare mai rău.\nSPEAKER_01: Da.\nSPEAKER_00: Asta ne spune că avem o inflamație la nivelul tendonului supraspinat. Acum apăs pe zona asta. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Și dacă faceți rezistență, împingeți mâna în sus contra mâinii mele, doare?\nSPEAKER_01: Doare, da.\nSPEAKER_00: Perfect. Avem un semn pozitiv pentru tendoanele rotatorilor. Probabil o tendinită a coafei rotatorilor stângi.\nSPEAKER_00: Aveți tensiune, diabet, alte probleme?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici o operație, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreo medicație acum?\nSPEAKER_01: Nurofen mai iau câteodată.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Rar, când doare mai rău.\nSPEAKER_00: Doza, știți câte miligrame?\nSPEAKER_01: Nu știu, ăla normal.\nSPEAKER_00: Ok. Deci avem o tendinită a coafei rotatorilor la umărul stâng, apărută probabil din efortul cu cutiile. Trebuie să reducem inflamația și să recuperăm mobilitatea completă. Începem azi.\nSPEAKER_01: Ok.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng, apărută după carat cutii, de aproximativ două săptămâni. Durere la mișcare (ridicare și ducere braț în spate), mai intensă la ducerea brațului posterior. Fără iradiere pe braț, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- Tendinită coafă rotatori umăr stâng; arc dureros pozitiv (60-120 grade abducție); semn de rezistență pozitiv pentru tendoanele rotatorilor.\nObiective terapeutice:\n- Reducerea procesului inflamator; recuperarea mobilității complete a umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "De vreo două săptămâni.", "Parcă după ce am carat niște cutii.", "La mișcare.", "Da, mai rău.", "Numai în umăr."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nurofen mai iau câteodată."],
+    "evaluare_functionala_initiala": ["Cam între 60 și 120 de grade doare mai rău.", "Asta ne spune că avem o inflamație la nivelul tendonului supraspinat.", "Avem un semn pozitiv pentru tendoanele rotatorilor. Probabil o tendinită a coafei rotatorilor stângi.", "Trebuie să reducem inflamația și să recuperăm mobilitatea completă."]
+  }
+}

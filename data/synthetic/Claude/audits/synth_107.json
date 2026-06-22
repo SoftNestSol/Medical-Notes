@@ -1,0 +1,54 @@
+{
+  "conversation_id": "synth_107",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere în zona lombară, de vreo trei săptămâni",
+      "A început după ce am mutat niște mobilă în casă. Am tras de un dulap singur",
+      "E doar acolo, în zona de mijloc jos, știți, ca o bară",
+      "nu se lasă pe picior",
+      "Vreo zece, cincisprezece minute. Până fac o cafea, mă plimb un pic prin casă, după aia se mai dezmorțește"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum e vreun 4",
+      "Dimineața când mă trezesc poate fi 6, uneori. Seara după birou tot cam 6"
+    ],
+    "localizarea_durerii": [
+      "am o durere în zona lombară",
+      "E doar acolo, în zona de mijloc jos"
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori simt și în fese, dar nu coboară"
+    ],
+    "antecedente": [
+      "am tensiune arterială, iau tratament pentru ea de vreo doi ani"
+    ],
+    "antecedente_altele": [
+      "gastrită am, cum v-am zis",
+      "Am avut o operație la genunchi, la genunchiul drept, acum vreo opt ani, menisc"
+    ],
+    "medicatie_actuala": [
+      "Iau Perindopril, 5 miligrame, dimineața, în fiecare zi",
+      "Iau și un Omeprazol, 20 de miligrame, tot dimineața"
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară asimetrie la nivelul bazinului, umărul stâng e și el un pic mai coborât",
+      "avem o contractură paravertebrală lombară mai pronunțată pe stânga, bazin ușor dezechilibrat, mobilitate limitată la flexie și la înclinare laterală stângă",
+      "La palpare nu am semne clare de compresie radiculară",
+      "lucrăm pe relaxarea musculaturii paravertebrale și pe mobilizarea bazinului"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22928,
+    "inference_geo": "global",
+    "input_tokens": 271,
+    "output_tokens": 3783,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

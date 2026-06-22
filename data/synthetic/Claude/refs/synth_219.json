@@ -1,0 +1,25 @@
+{
+  "motivul_prezentarii": "Durere umăr stâng de aproximativ două luni, cu caracter intermitent, agravată la ridicarea brațului și la rotație internă. Asociază disconfort la nivelul omoplatului stâng și cervicalgie ocazională cu redoare matinală.",
+  "evaluarea_durerii_vas": [
+    3,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_stg",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "omoplat stâng",
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "75 micrograme, dimineața"
+    },
+    {
+      "denumire": "Paracetamol",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUmărul stâng mai ridicat decât cel drept (tensionare musculară). Limitarea mobilității umărului stâng la flexie anterioară (durere de la jumătatea amplitudinii în sus), abducție (durere prezentă, mai redusă) și rotație internă (limitare marcată, cu senzație de tracțiune). Durere la palpare trapez și supraspinos stâng.\nDiagnostic:\nTendinopatie / bursită umăr stâng, posibil conflict subacromian. Tensionare musculară trapez. Limitare mobilitate cervicală (rotație dreaptă).\nObiective terapeutice:\nReducerea inflamației la nivelul umărului stâng; eliberarea musculaturii trapeziene; recuperarea mobilității, în special rotația internă; lucru pe zona cervicală."
+}

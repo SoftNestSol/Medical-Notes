@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_380",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept. De ceva vreme",
+      "Cam de trei săptămâni, poate puțin mai mult",
+      "Când ridic brațul sus, vai. Și noaptea mă trezesc, că dorm pe dreapta și mă doare când stau pe el",
+      "uneori simțesc că se duce și spre ceafă"
+    ],
+    "evaluarea_durerii_vas": [
+      "La mișcare... 7. Noaptea poate și 8."
+    ],
+    "localizarea_durerii": [
+      "sus, în față la umăr",
+      "uneori simțesc că se duce și spre ceafă"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Da, am tensiune mare. De vreo patru ani."
+    ],
+    "antecedente_altele": [
+      "am avut odată, acum vreo doi ani, o durere la gât, la cervical, și mi-a trecut singură după câteva săptămâni"
+    ],
+    "medicatie_actuala": [
+      "iau Lercanidipină, 10 miligrame pe zi, în fiecare dimineață"
+    ],
+    "evaluare_functionala_initiala": [
+      "Aveți o problemă la nivelul tendonului bicepsului și probabil și la nivelul manșetei rotatorilor pe dreapta. Se numește tendinopatie, adică o iritație a tendoanelor la nivelul umărului drept.",
+      "Vom lucra pe reducerea inflamației locale, pe mobilizarea articulației umărului și pe relaxarea musculaturii din jur, trapez, deltoid. Și vom vedea și cervicalul că există o ușoară tensiune acolo. Obiectivul principal este să recâștigăm amplitudinea de mișcare și să scădem durerea.",
+      "Observ o ușoară asimetrie de forță",
+      "o ușoară limitare a rotației cervicale spre dreapta"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22971,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 4072,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

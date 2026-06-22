@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva? Ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am ridicat niște cutii.\nSPEAKER_00: La serviciu?\nSPEAKER_01: Da.\nSPEAKER_00: Și de atunci doare?\nSPEAKER_01: Da.\nSPEAKER_00: Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Mai mult când ridic mâna.\nSPEAKER_00: Când ridicați mâna sus, deasupra capului?\nSPEAKER_01: Da, și când o duc în spate.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Noaptea vă deranjează, dormiți pe umărul ăsta?\nSPEAKER_01: Nu dorm pe el, nu pot.\nSPEAKER_00: Deci vă trezește noaptea?\nSPEAKER_01: Uneori.\nSPEAKER_00: Ați mai pățit ceva la umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Ibuprofenul.\nSPEAKER_00: Cât luați?\nSPEAKER_01: 400, când nu mai suport.\nSPEAKER_00: Și ajută?\nSPEAKER_01: Un pic.\nSPEAKER_00: Ok. Haideți să facem câteva mișcări. Ridicați mâna dreaptă în față, încet... până unde puteți.\nSPEAKER_01: Până aici cam.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Acum duc eu mâna mai sus. Spuneți-mi când doare mai tare.\nSPEAKER_01: Acolo, da.\nSPEAKER_00: Cam la 90 de grade doare, da?\nSPEAKER_01: Da.\nSPEAKER_00: Haideți acum să ridicați mâna lateral.\nSPEAKER_01: Merge mai puțin.\nSPEAKER_00: Apas ușor aici pe umăr. Doare?\nSPEAKER_01: Da, exact acolo.\nSPEAKER_00: Bun. Deci avem o durere la nivelul umărului drept, clar la mișcările de ridicare și abducție, cu punct dureros la palpare pe tendonul supraspinatos. Pare a fi o tendinopatie a coafei rotatorilor. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea.",
+  "note": {
+    "motivul_prezentarii": "Durere la nivelul umărului drept apărută după ridicat cutii la serviciu, de aproximativ două săptămâni. Durerea se accentuează la ridicarea brațului și la ducerea mâinii în spate. Treziri nocturne ocazionale.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Durere la palpare pe tendonul supraspinatos. Limitarea abducției și flexiei active la aproximativ 90 de grade. Diagnostic: tendinopatie a coafei rotatorilor. Obiective terapeutice: reducerea inflamației și recâștigarea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am ridicat niște cutii.", "Vreo două săptămâni.", "când ridic mâna", "când o duc în spate", "Uneori."],
+    "evaluarea_durerii_vas": ["Vreo 6."],
+    "localizarea_durerii": ["Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Ibuprofenul.", "400, când nu mai suport."],
+    "evaluare_functionala_initiala": ["Apas ușor aici pe umăr. Doare?", "Da, exact acolo.", "Cam la 90 de grade doare, da?", "Deci avem o durere la nivelul umărului drept, clar la mișcările de ridicare și abducție, cu punct dureros la palpare pe tendonul supraspinatos. Pare a fi o tendinopatie a coafei rotatorilor. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea."]
+  }
+}

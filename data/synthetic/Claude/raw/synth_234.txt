@@ -1,0 +1,26 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă veniți azi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut după ceva anume sau... nu știți?\nSPEAKER_01: Nu știu. M-am trezit dimineața și era.\nSPEAKER_00: S-a trezit cu durerea. Înțeles. Doare doar gâtul sau se lasă și pe umăr, pe braț?\nSPEAKER_01: Și pe umărul ăsta.\nSPEAKER_00: Pe care umăr?\nSPEAKER_01: Pe dreptul.\nSPEAKER_00: Pe umărul drept. Mai jos de umăr, pe braț, amorțește?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde vă situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare mai tare când întoarceți capul?\nSPEAKER_01: Da.\nSPEAKER_00: În ce parte?\nSPEAKER_01: La dreapta.\nSPEAKER_00: La dreapta. Și când ridicați umărul drept doare?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Un pic. Stați mult la birou, la calculator?\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Toată ziua la calculator. Și cum stați, cu capul aplecat în față?\nSPEAKER_01: Cam da.\nSPEAKER_00: Am înțeles. Alte afecțiuni, tensiune, diabet, epilepsie, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nimic. Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă. Intervenții chirurgicale, fracturi la gât sau la coloană?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să fac câteva mișcări cu dumneavoastră să văd cum stăm. Întoarceți capul spre dreapta, încet.\nSPEAKER_01: Până aici.\nSPEAKER_00: Da, e limitat. Și spre stânga?\nSPEAKER_01: Aia merge mai bine.\nSPEAKER_00: Da, e clar. Apăs acum pe mușchii de lângă gât, aici, pe trapez. Doare?\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: Și aici mai sus, la baza craniului?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin. Bun. Ce pot să vă spun este că avem o contractură musculară în zona cervicală, pe trapez și pe ridicătorul scapulei, probabil din postura la birou. Rotația spre dreapta e limitată. O să lucrăm să reducem contractura și să recăpătăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "durere cervicala si umar drept",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: contractura musculara cervicala - trapez, ridicatorul scapulei\nObiective terapeutice: reducerea contracturii; recapatarea mobilitatii cervicale"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "Și pe umărul ăsta.", "Pe dreptul."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și pe umărul ăsta.", "Pe dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o contractură musculară în zona cervicală, pe trapez și pe ridicătorul scapulei", "Rotația spre dreapta e limitată", "O să lucrăm să reducem contractura și să recăpătăm mobilitatea."]
+  }
+}

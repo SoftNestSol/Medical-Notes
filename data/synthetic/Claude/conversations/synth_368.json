@@ -1,0 +1,343 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 5.64,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 5.76,
+      "end": 14.88,
+      "speaker": "SPEAKER_01",
+      "text": "Păi am o durere pe umăr, pe partea dreaptă, de ceva vreme. Mă tot chinuie și nu știu ce să mai fac cu ea."
+    },
+    {
+      "start": 15.0,
+      "end": 18.42,
+      "speaker": "SPEAKER_00",
+      "text": "Pe umărul drept, înțeles. De cât timp simțiți asta?"
+    },
+    {
+      "start": 18.54,
+      "end": 25.76,
+      "speaker": "SPEAKER_01",
+      "text": "Ei, nu știu exact, câteva săptămâni, poate o lună și ceva. Treptat a venit, nu a fost dintr-odată."
+    },
+    {
+      "start": 25.88,
+      "end": 30.06,
+      "speaker": "SPEAKER_00",
+      "text": "A apărut după ceva anume, după un efort, o mișcare greșită?"
+    },
+    {
+      "start": 30.18,
+      "end": 43.48,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu precis. Lucrez la birou, stau mult la calculator și la un moment dat am simțit că mă strânge pe acolo, pe umăr, pe ceafă și... nu știu, parcă a venit de la sine."
+    },
+    {
+      "start": 43.6,
+      "end": 46.26,
+      "speaker": "SPEAKER_00",
+      "text": "Deci și zona de ceafă este afectată."
+    },
+    {
+      "start": 46.38,
+      "end": 49.8,
+      "speaker": "SPEAKER_01",
+      "text": "Da, un pic și ceafa, da. Mai mult umărul."
+    },
+    {
+      "start": 49.92,
+      "end": 56.38,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea rămâne localizată acolo sau se lasă și în altă parte, pe braț în jos, de exemplu?"
+    },
+    {
+      "start": 56.5,
+      "end": 70.18,
+      "speaker": "SPEAKER_01",
+      "text": "Câteodată simt ceva pe braț, pe partea asta, dar nu știu dacă e din umăr sau din altă parte. Nu coboară mult, se oprește pe la... pe la cot, undeva pe acolo. Nu e tot timpul."
+    },
+    {
+      "start": 70.3,
+      "end": 73.72,
+      "speaker": "SPEAKER_00",
+      "text": "Deci uneori iradiază pe braț până la nivelul cotului."
+    },
+    {
+      "start": 73.84,
+      "end": 78.02,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam așa, dar nu e mereu. E mai degrabă rar."
+    },
+    {
+      "start": 78.14,
+      "end": 87.64,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 înseamnă durere maximă, unde ați situa-o?"
+    },
+    {
+      "start": 87.76,
+      "end": 96.5,
+      "speaker": "SPEAKER_01",
+      "text": "Uf, nu știu exact. Depinde cum mă mișc. Nu știu, pe la... undeva la mijloc, nu e nici prea mare, nici prea mică."
+    },
+    {
+      "start": 96.62,
+      "end": 100.42,
+      "speaker": "SPEAKER_00",
+      "text": "Hai să simplificăm: când e mai rău, câte ați da?"
+    },
+    {
+      "start": 100.54,
+      "end": 102.44,
+      "speaker": "SPEAKER_01",
+      "text": "Poate un 6, cam așa."
+    },
+    {
+      "start": 102.56,
+      "end": 105.22,
+      "speaker": "SPEAKER_00",
+      "text": "Un 6. Și când e mai liniștit?"
+    },
+    {
+      "start": 105.34,
+      "end": 108.76,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, când stau, 2, 3, ceva de genul ăsta."
+    },
+    {
+      "start": 108.88,
+      "end": 113.82,
+      "speaker": "SPEAKER_00",
+      "text": "Deci fluctuează destul de mult. Când se înrăutățește? Dimineața, seara, sau după activitate?"
+    },
+    {
+      "start": 113.94,
+      "end": 123.06,
+      "speaker": "SPEAKER_01",
+      "text": "Mai rău e seara, după ce am stat toată ziua la serviciu. Și dimineața când mă trezesc mai am o înțepenire, dar trece repede."
+    },
+    {
+      "start": 123.18,
+      "end": 131.16,
+      "speaker": "SPEAKER_00",
+      "text": "Înțepenire dimineața care trece repede, înrăutățire seara. Înțeles. Aveți dificultăți în a ridica brațul, în a face anumite mișcări cu umărul?"
+    },
+    {
+      "start": 131.28,
+      "end": 143.82,
+      "speaker": "SPEAKER_01",
+      "text": "Da, când ridic brațul sus sau când încerc să ajung la ceva în spate, mă doare și nu pot să fac mișcarea completă. Mă opresc la un moment dat că nu mai merge."
+    },
+    {
+      "start": 143.94,
+      "end": 149.64,
+      "speaker": "SPEAKER_00",
+      "text": "La ridicarea brațului deasupra capului sau la rotația internă, adică când duceți mâna la spate."
+    },
+    {
+      "start": 149.76,
+      "end": 153.56,
+      "speaker": "SPEAKER_01",
+      "text": "Amândouă, da. Dar mai rău când duc mâna la spate."
+    },
+    {
+      "start": 153.68,
+      "end": 159.0,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Aveți vreun antecedent medical, vreo problemă de sănătate mai veche, operații, fracturi?"
+    },
+    {
+      "start": 159.12,
+      "end": 169.0,
+      "speaker": "SPEAKER_01",
+      "text": "Păi am avut o fractură la claviculă, la umărul ăsta drept, acum vreo zece ani. Dar a trecut, a mers bine. Nu știu dacă are legătură."
+    },
+    {
+      "start": 169.12,
+      "end": 174.82,
+      "speaker": "SPEAKER_00",
+      "text": "O fractură de claviculă dreaptă vindecată, acum zece ani. Altceva? Tensiune, diabet, probleme de inimă?"
+    },
+    {
+      "start": 174.94,
+      "end": 176.46,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic din astea."
+    },
+    {
+      "start": 176.58,
+      "end": 178.86,
+      "speaker": "SPEAKER_00",
+      "text": "Vreo scolioză, hernie de disc, osteoporoză?"
+    },
+    {
+      "start": 178.98,
+      "end": 187.34,
+      "speaker": "SPEAKER_01",
+      "text": "Mi s-a spus cândva că am o ușoară scolioză, dar nu m-a deranjat niciodată. Nu m-am tratat pentru ea."
+    },
+    {
+      "start": 187.46,
+      "end": 191.64,
+      "speaker": "SPEAKER_00",
+      "text": "O scolioză ușoară confirmată. Luați vreun medicament în prezent, analgezice, antiinflamatoare?"
+    },
+    {
+      "start": 191.76,
+      "end": 200.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu iau nimic. Am mai pus un gel pe umăr câteodată, dar nu știu cum îl cheamă, l-am luat de la farmacie."
+    },
+    {
+      "start": 201.0,
+      "end": 206.32,
+      "speaker": "SPEAKER_00",
+      "text": "Deci niciun medicament administrat oral, doar un gel topic ocazional fără să știți denumirea."
+    },
+    {
+      "start": 206.44,
+      "end": 207.24,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact."
+    },
+    {
+      "start": 207.36,
+      "end": 214.2,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Spuneți-mi, cum stați la birou? Monitorul este la nivelul ochilor sau mai jos, mai sus?"
+    },
+    {
+      "start": 214.32,
+      "end": 223.06,
+      "speaker": "SPEAKER_01",
+      "text": "Păi nu știu, e pe birou normal. Cred că e un pic mai jos decât ar trebui, mă aplec un pic în față."
+    },
+    {
+      "start": 223.18,
+      "end": 226.98,
+      "speaker": "SPEAKER_00",
+      "text": "Deci capul e în față față de trunchi, postura aplecată."
+    },
+    {
+      "start": 227.1,
+      "end": 230.9,
+      "speaker": "SPEAKER_01",
+      "text": "Da, probabil, nu am stat să mă gândesc la asta."
+    },
+    {
+      "start": 231.02,
+      "end": 239.0,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să facem câteva mișcări să văd eu direct. Ridicați brațul drept în față, ușor, și spuneți-mi unde apare durerea."
+    },
+    {
+      "start": 239.12,
+      "end": 244.82,
+      "speaker": "SPEAKER_01",
+      "text": "Cam de pe la... de pe la jumătate, când ajunge mai sus... au, da, acolo."
+    },
+    {
+      "start": 244.94,
+      "end": 250.26,
+      "speaker": "SPEAKER_00",
+      "text": "Deci durere la abducție, în arcul dureros, undeva între 60 și 120 de grade."
+    },
+    {
+      "start": 250.38,
+      "end": 253.8,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu gradele, dar da, pe la mijlocul mișcării."
+    },
+    {
+      "start": 253.92,
+      "end": 259.24,
+      "speaker": "SPEAKER_00",
+      "text": "Acum duceți mâna la spate, ca și cum ați încerca să vă prindă centura."
+    },
+    {
+      "start": 259.36,
+      "end": 262.4,
+      "speaker": "SPEAKER_01",
+      "text": "Au, nu merge bine deloc pe partea asta."
+    },
+    {
+      "start": 262.52,
+      "end": 269.74,
+      "speaker": "SPEAKER_00",
+      "text": "Limitare marcată la rotația internă pe dreapta. Acum stați puțin, apăs ușor pe umăr, pe acromion, doare când apăs?"
+    },
+    {
+      "start": 269.86,
+      "end": 271.38,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, chiar acolo."
+    },
+    {
+      "start": 271.5,
+      "end": 277.2,
+      "speaker": "SPEAKER_00",
+      "text": "Sensibilitate la palparea acromionului drept. Hai să vedem și ceafa. Întoarceți capul la dreapta, ușor."
+    },
+    {
+      "start": 277.32,
+      "end": 282.26,
+      "speaker": "SPEAKER_01",
+      "text": "Merge, dar se trage un pic pe acolo, pe ceafă și pe umăr."
+    },
+    {
+      "start": 282.38,
+      "end": 286.94,
+      "speaker": "SPEAKER_00",
+      "text": "Se trage, deci există tensiune la rotația cervicală dreaptă. Și la stânga?"
+    },
+    {
+      "start": 287.06,
+      "end": 289.72,
+      "speaker": "SPEAKER_01",
+      "text": "La stânga merge mai bine, mai liber."
+    },
+    {
+      "start": 289.84,
+      "end": 322.14,
+      "speaker": "SPEAKER_00",
+      "text": "Mobilitate cervicală asimetrică, restricție la dreapta. Acum înțeleg mai bine ce se întâmplă. Aveți o inflamație la nivelul tendonului supraspinat, cel mai probabil, posibil și o iritare a bursei subacromiale, corelat cu postura de la calculator, capul proiectat în față, musculatura cervicală tensionată și acea fractură veche de claviculă care poate că a modificat un pic biomecanica umărului. Vom lucra pe reducerea inflamației locale, relaxarea musculaturii rotatorilor și a zonei cervicale, și vom încerca să redresăm postura ca să nu se mai încarce zona asta."
+    },
+    {
+      "start": 322.26,
+      "end": 324.16,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu e ceva grav?"
+    },
+    {
+      "start": 324.28,
+      "end": 333.78,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, nu este ceva grav, dar trebuie tratat înainte să devină cronic. Vedem în primele două-trei ședințe cum răspundeți și stabilim planul mai departe."
+    },
+    {
+      "start": 333.9,
+      "end": 335.04,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, bine, mulțumesc."
+    }
+  ]
+}

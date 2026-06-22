@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Radu Popa.\nSPEAKER_00: Vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Cel drept.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A apărut brusc sau treptat?\nSPEAKER_01: Brusc.\nSPEAKER_00: Ați făcut ceva anume în ziua în care a apărut?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Am înțeles, deci un efort fizic mai mare. Durerea este locală, în umăr, sau se lasă și pe braț în jos?\nSPEAKER_01: Mai mult în umăr. Un pic și pe braț, dar mai puțin.\nSPEAKER_00: Pe ce parte a brațului se lasă, pe față, pe spate?\nSPEAKER_01: Pe față, în sus.\nSPEAKER_00: Înțeles. Doare și când stați nemișcat sau numai când ridicați brațul?\nSPEAKER_01: Și când stau, dar mai rău când ridic.\nSPEAKER_00: Puteți să ridicați brațul deasupra capului?\nSPEAKER_01: Până pe la jumătate, după aia nu mai merge.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât estimați durerea când ridicați brațul?\nSPEAKER_01: Un 7.\nSPEAKER_00: Dar în repaus?\nSPEAKER_01: Vreo 3.\nSPEAKER_00: Noaptea vă treziți din cauza durerii?\nSPEAKER_01: Da, dacă mă întorc pe partea dreaptă.\nSPEAKER_00: Am înțeles. Ați mai avut probleme la același umăr înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio lovitură, nicio căzătură veche?\nSPEAKER_01: Nu.\nSPEAKER_00: Tensiune, diabet, alte boli la care urmați tratament?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament în acest moment, chiar și ceva fără rețetă?\nSPEAKER_01: Nu iau nimic.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Vă rog ridicați brațul drept lateral, cât puteți. Opriți când doare. Cam până acolo, da?\nSPEAKER_01: Da, cam acolo.\nSPEAKER_00: Deci abducția blocată pe la 80-90 de grade, cu durere la ridicare. Acum vă apăs ușor pe capul humerusului, spuneți-mi dacă doare.\nSPEAKER_01: Da, doare.\nSPEAKER_00: Cât, de la 0 la 10?\nSPEAKER_01: Un 6.\nSPEAKER_00: Și dacă apăs aici, pe tendonul supraspinosului...\nSPEAKER_01: Auuu, da, aia doare mai tare.\nSPEAKER_00: Mai tare, deci tendonul supraspinosului e inflamat. Rotație internă o puteți face?\nSPEAKER_01: Merge, dar trage.\nSPEAKER_00: Trage. Bun. Eu zic că avem o tendinopatie a coafei rotatorilor, probabil supraspinosul, declanșată de efortul cu mobila. Nu e ceva grav, dar trebuie să lucrăm ca să reducem inflamația și să recuperăm mobilitatea completă. O să facem mai multe ședințe, să vedem cum răspundeți.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutat mobila), de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": [7, 3],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": "antebrat anterior proximal drept (iradiere)",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Abductie blocata pe la 80-90 de grade cu durere la ridicare; durere la palparea capului humerusului si a tendonului supraspinosului; rotatie interna posibila cu senzatie de tractiune. Diagnostic: Tendinopatie coafa rotatorilor (supraspinosul). Obiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii complete."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă.", "vreo două săptămâni"],
+    "evaluarea_durerii_vas": ["Un 7.", "Vreo 3."],
+    "localizarea_durerii": ["Cel drept.", "Mă doare umărul."],
+    "localizarea_durerii_alta": ["Pe față, în sus.", "Un pic și pe braț, dar mai puțin."],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu iau nimic."],
+    "evaluare_functionala_initiala": ["abducția blocată pe la 80-90 de grade, cu durere la ridicare", "tendonul supraspinosului e inflamat", "Rotație internă o puteți face? Merge, dar trage.", "avem o tendinopatie a coafei rotatorilor, probabil supraspinosul", "să reducem inflamația și să recuperăm mobilitatea completă"]
+  }
+}

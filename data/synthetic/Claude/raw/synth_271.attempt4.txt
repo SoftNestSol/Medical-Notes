@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva? O lovitură, un efort?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Și de atunci doare?\nSPEAKER_01: Da.\nSPEAKER_00: Doare constant sau doar când faceți anumite mișcări?\nSPEAKER_01: Mai mult când ridic mâna.\nSPEAKER_00: Când ridicați mâna sus sau și când o duceți în lateral?\nSPEAKER_01: Sus mai ales.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum este durerea când ridicați brațul?\nSPEAKER_01: Un 6.\nSPEAKER_00: Și în repaus?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Nu doare în repaus?\nSPEAKER_01: Nu.\nSPEAKER_00: Durerea rămâne în umăr sau coboară și pe braț?\nSPEAKER_01: Rămâne acolo.\nSPEAKER_00: Ok. Tensiune, diabet, osteoporoză, alte afecțiuni?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreo medicație?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați brațul pentru mine, încet, cât puteți de sus.\nSPEAKER_01: Până pe aici.\nSPEAKER_00: Până la aproximativ 80 de grade. Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă ridic eu brațul mai departe, se accentuează?\nSPEAKER_01: Da, tare.\nSPEAKER_00: Înțeleg. Și dacă duceți brațul în spate, așa?\nSPEAKER_01: Merge, dar trage un pic.\nSPEAKER_00: Trage puțin. Bun. O să apăs acum pe zona umărului, îmi spuneți dacă doare.\nSPEAKER_01: Ăla da, acolo.\nSPEAKER_00: Exact pe acromion doare cel mai tare.\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Avem o inflamație la nivelul tendonului supraspinos, cel mai probabil o tendinopatie de coafă a rotatorilor, declanșată de efortul de la mutatul mobilei. Vom lucra pe reducerea inflamației și pe recuperarea amplitudinii de mișcare.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după efort fizic (mutat mobilă), prezentă de aproximativ două săptămâni, accentuată la ridicarea brațului.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Tendinopatie coafă rotatori umăr drept (tendon supraspinos); inflamație acromion.\nObiective terapeutice: reducerea inflamației; recuperarea amplitudinii de mișcare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un 6."],
+    "localizarea_durerii": ["Dreptul.", "Rămâne acolo."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Exact pe acromion doare cel mai tare.", "Avem o inflamație la nivelul tendonului supraspinos, cel mai probabil o tendinopatie de coafă a rotatorilor, declanșată de efortul de la mutatul mobilei. Vom lucra pe reducerea inflamației și pe recuperarea amplitudinii de mișcare."]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Georgescu Marian.\nSPEAKER_00: Și vârsta?\nSPEAKER_01: 38 de ani.\nSPEAKER_00: Cu ce problemă ne vedem astăzi, domnule Georgescu?\nSPEAKER_01: Păi, mă doare umărul drept, de vreo trei săptămâni deja. Am zis că trece de la sine, că am mai avut și înainte chestii din astea, mai mici, dar asta nu mai trece. Și soția mea a zis să vin, că ea a mai venit pe la dumneavoastră.\nSPEAKER_00: Înțeles. Și doare constant sau mai mult la mișcare?\nSPEAKER_01: Mai mult la mișcare, da. Adică dacă stau liniștit nu e chiar rău, dar dacă ridic mâna sau încerc să ajung sus la ceva, auzi, chiar și să iau un pahar din dulap... mă opresc, nu pot.\nSPEAKER_00: Și se lasă durerea pe braț în jos sau e mai localizată în umăr?\nSPEAKER_01: Mai mult în umăr, aci, în față și un pic pe lateral. Nu știu cum să zic exact, dar nu se duce pe braț, nu.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e cel mai rău, cât ați da la mișcare?\nSPEAKER_01: La mișcare când încerc să ridic sus... un 7. Poate un 7 și ceva, dar să zicem 7.\nSPEAKER_00: Și când stați liniștit?\nSPEAKER_01: Aaaa, vreo 2, 2 și ceva. Nu mă deranjează prea tare.\nSPEAKER_00: Cum a apărut? A fost vreo lovitură, vreo căzătură?\nSPEAKER_01: Nu, asta e ciudat, nu am căzut, nu m-am lovit. Eu lucrez la un depozit și ridic lăzi, cutii, cam toată ziua. Și parcă a venit treptat, adică la un moment dat am simțit că mă trage puțin și după câteva zile a început mai rău. Poate am făcut ceva greșit, nu știu, poate am ridicat ceva mai greu. Avem mai nou și lăzi mai mari acolo, cu materiale de construcții, și eu am zis că poate de acolo.\nSPEAKER_00: Deci un efort repetat.\nSPEAKER_01: Da, exact, că muncesc mult cu mâinile ridicate. Uneori și deasupra capului.\nSPEAKER_00: Ați mai avut probleme la același umăr în trecut?\nSPEAKER_01: Hmm, nu chiar la umăr. La spate mai am câteodată, dar trece. La umărul ăsta... nu, nu cred că am avut ceva serios.\nSPEAKER_00: Ați luat ceva pentru durere?\nSPEAKER_01: Da, am luat niște ibuprofen, nu știu exact câte miligrame, ce aveam prin casă, și m-a mai trecut puțin dar s-a întors. Și am mai pus un gel, Voltaren, dimineața, că am văzut că ajută un pic.\nSPEAKER_00: Și gelul îl puneți zilnic?\nSPEAKER_01: Nu chiar zilnic, când mă doare mai rău pun.\nSPEAKER_00: Înțeles. Tensiune, diabet, alte boli?\nSPEAKER_01: Nu, nimic. Sunt sănătos tun în rest, nu am nimic.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Ridicați brațul drept înainte, încet.\nSPEAKER_01: Până aci pot... mai sus nu mai pot, doare.\nSPEAKER_00: Cam la ce nivel v-ați oprit, la orizontală?\nSPEAKER_01: Cam pe acolo, da, cam la orizontală.\nSPEAKER_00: Acum ridicați lateral, tot încet.\nSPEAKER_01: Lateral merge un pic mai puțin, doare mai repede.\nSPEAKER_00: Da, văd. Și dacă puneți mâna la spate, la nivelul taliei?\nSPEAKER_01: Asta merge, asta nu doare.\nSPEAKER_00: Bun. Apăs acum pe zona anterioară a umărului, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo, da, acolo doare, 7, chiar 7.\nSPEAKER_00: Și aci pe lateral?\nSPEAKER_01: Un pic mai puțin, da, un 5.\nSPEAKER_00: Am înțeles. Vedem o limitare de mobilitate la abducție și flexie, cu sensibilitate anterioară la nivelul tendonului lung al bicepsului și a zonei subacromiale. Cel mai probabil avem o tendinopatie sau o bursită subacromială pe dreapta, generată de suprasolicitare repetitivă.\nSPEAKER_01: Și e grav? Că eu nu pot să lipsesc mult de la muncă, am familie, copii...\nSPEAKER_00: Nu e o urgență, dar trebuie să lucrăm ca să nu se agraveze. Obiectivul principal este să reducem inflamația și să refacem mobilitatea umărului.\nSPEAKER_01: Bine, bine, sper să meargă, că m-am săturat să nu pot ridica brațul.\nSPEAKER_00: Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept de aproximativ trei săptămâni, apărută progresiv în context de efort repetat la locul de muncă, accentuată la ridicarea brațului",
+    "evaluarea_durerii_vas": [7, 2],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": null
+      },
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare de mobilitate la abducție și flexie umăr drept (oprire la orizontală); sensibilitate anterioară la nivelul tendonului lung al bicepsului și zonei subacromiale. Diagnostic: tendinopatie sau bursită subacromială dreaptă prin suprasolicitare repetitivă. Obiective terapeutice: reducerea inflamației și refacerea mobilității umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul drept, de vreo trei săptămâni deja", "a venit treptat, adică la un moment dat am simțit că mă trage puțin și după câteva zile a început mai rău", "muncesc mult cu mâinile ridicate"],
+    "evaluarea_durerii_vas": ["La mișcare când încerc să ridic sus... un 7", "vreo 2, 2 și ceva. Nu mă deranjează prea tare"],
+    "localizarea_durerii": ["mă doare umărul drept", "mai mult în umăr, aci, în față și un pic pe lateral"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["am luat niște ibuprofen, nu știu exact câte miligrame", "am mai pus un gel, Voltaren, dimineața"],
+    "evaluare_functionala_initiala": ["Vedem o limitare de mobilitate la abducție și flexie, cu sensibilitate anterioară la nivelul tendonului lung al bicepsului și a zonei subacromiale. Cel mai probabil avem o tendinopatie sau o bursită subacromială pe dreapta, generată de suprasolicitare repetitivă.", "Obiectivul principal este să reducem inflamația și să refacem mobilitatea umărului."]
+  }
+}

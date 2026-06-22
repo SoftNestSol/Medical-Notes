@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_442",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul. De vreo două săptămâni.",
+      "Mai mult pe dreapta.",
+      "Câteodată pe umăr, da."
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum vreo 5.",
+      "Poate 7, la sfârșitul zilei."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Mai mult pe dreapta.",
+      "Câteodată pe umăr, da.",
+      "Pe umărul drept?"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Trapezul superior e contractat pe dreapta, și sternocleidomastoidianul la fel.",
+      "Avem și o restricție de mobilitate în cervical, probabil C4-C5 pe dreapta.",
+      "văd că amplitudinea spre dreapta e clar redusă față de stânga",
+      "Vă propun să începem cu reducerea contracturii musculare, să eliberăm mobilitatea articulară"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13823,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 2181,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

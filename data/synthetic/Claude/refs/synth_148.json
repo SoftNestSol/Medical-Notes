@@ -1,0 +1,28 @@
+{
+  "motivul_prezentarii": "Dureri lombare și toracale de mai multe luni, accentuate la ridicarea din șezut și dimineața; dureri de ceafă cu iradiere în cap spre seară",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "lombar",
+    "toracal",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": "fesa stanga",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "apendicectomie in antecedente",
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400 mg (neprecizat exact)"
+    }
+  ],
+  "evaluare_functionala_initiala": "Postură: umeri aduși în față, postură aplecată la birou. Mobilitate: flexie lombară redusă (ajunge la genunchi), extensie păstrată, rotație stânga dureroasă. Palpare: contractură paravertebrali stângi zona lombară, tensiune musculară cervicală. Diagnostic: contractură musculară lombară cu accentuare pe stânga, tensiune musculară cervicală. Obiective: reducerea contracturii, îmbunătățirea mobilității lombare, relaxarea musculaturii cervicale."
+}

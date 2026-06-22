@@ -1,0 +1,43 @@
+{
+  "conversation_id": "synth_081",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Am cărat niște saci.",
+      "Da, de ciment.",
+      "Vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Stângul."
+    ],
+    "localizarea_durerii_alta": [
+      "Un pic și aici.",
+      "Pe lateral, pe aici."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Deci durere la palpare pe supraspinat și pe capul humeral. Avem un arc dureros la abducție activă, limitare la rotația internă. Pare o tendinopatie de coafă a rotatorilor, cel mai probabil supraspinat. O să lucrăm să reducem inflamația și să recuperăm mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22997,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1679,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

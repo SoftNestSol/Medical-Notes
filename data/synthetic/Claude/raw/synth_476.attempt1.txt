@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua!\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi, am o durere, cum să zic, jos de tot la spate, chiar acolo la coadă, la os. Mă doare de vreo trei săptămâni, poate mai mult, nu știu exact când a început, dar acum vreo trei săptămâni am observat că nu mai pot sta pe scaun normal.\nSPEAKER_00: La coadă, deci zona de coccis.\nSPEAKER_01: Da, da, exact acolo. Și mai jos, parcă și pe... nu știu cum se numește, pe osul ăla lat de jos.\nSPEAKER_00: Pe sacru.\nSPEAKER_01: Da, pe sacru, exact. Soția mea zice că am stat prost pe scaun toată iarna, că lucrez de acasă și stau ore întregi la calculator. Poate are dreptate, nu știu. Oricum eu cred că m-am lovit undeva, nu-mi amintesc exact, dar cred că am alunecat în parcare acum o lună și ceva.\nSPEAKER_00: Deci poate un traumatism, o alunecare.\nSPEAKER_01: Da, m-am prins cu mâna de mașină și n-am căzut efectiv, dar m-am cam dus pe spate și m-am oprit brusc. A durut pe moment și după a trecut, credeam că e bine, și după vreo săptămână a început să apară durerea asta.\nSPEAKER_00: Am înțeles. Și durerea e mai mult când stați jos, când vă ridicați?\nSPEAKER_01: Când stau jos e cel mai rău. Adică dacă stau pe scaun mai mult de zece minute, deja simt că mă apasă acolo. Și când mă ridic e îngrozitor, am nevoie să mă sprijin de ceva. Când merg e ok, când stau în picioare e ok, dar să stau jos... și în mașină la fel, e chin.\nSPEAKER_00: Înțeles. Și durerea rămâne strict acolo sau se lasă pe picior, pe fesă?\nSPEAKER_01: Rămâne acolo, jos. Uneori simt ceva și pe fese, pe amândouă, dar nu coboară mai jos. Nu mă amorțește piciorul sau ceva, nu, asta nu.\nSPEAKER_00: Bine. Pe o scară de la 0 la 10, cât de tare doare când vă ridicați de pe scaun?\nSPEAKER_01: Când mă ridic? Un 7, aș zice. E o durere ascuțită, dar trece repede, după câțiva pași se mai liniștește.\nSPEAKER_00: Și când stați jos mai mult, în timp?\nSPEAKER_01: Atunci e mai surdă, mai apăsătoare. Un 5, poate 5 și ceva.\nSPEAKER_00: Ok. Ați luat ceva pentru durere?\nSPEAKER_01: Am luat un Nurofen acum vreo două săptămâni când nu mai puteam, dar nu vreau să mă obișnuiesc cu pastile. Am mai pus și un gel, Voltaren, îl avem în casă de la soție, l-am dat acolo câteva zile dar nu prea am simțit mare lucru.\nSPEAKER_00: Am înțeles. Alte afecțiuni, tensiune, diabet, ceva cu oasele?\nSPEAKER_01: Nu, nimic. Sunt sănătos, că tot timpul am evitat medicii, sincer. Nu am nimic diagnosticat.\nSPEAKER_00: Vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Bun. Haideți să vă văd un pic. Puteți să stați în picioare cu mâinile pe lângă corp? Mă uit la bazin.\nSPEAKER_01: Așa?\nSPEAKER_00: Da. Văd că aveți bazinul ușor înclinat, mai coborât pe stânga. Acum o să apăs ușor pe zona de sacru și coccis, îmi spuneți dacă doare.\nSPEAKER_01: Ah, da, acolo doare.\nSPEAKER_00: Și dacă apăs mai sus, în lombar?\nSPEAKER_01: Mai puțin, nu la fel.\nSPEAKER_00: Bun. Stați puțin pe piciorul drept, ridicați ușor stângul.\nSPEAKER_01: Ok. E stabil.\nSPEAKER_00: Și invers, pe stângul.\nSPEAKER_01: Și ăsta e ok, da.\nSPEAKER_00: Bine. Deci avem o durere sacrală și coccisiană, cel mai probabil din traumatismul acela din parcare, plus postura prelungită la birou care a agravat. Bazinul e ușor asimetric. Vom lucra să reducem inflamația din zona sacro-coccigiană, să relaxăm musculatura din jur și să reechilibrăm bazinul.\nSPEAKER_01: Credeți că e ceva grav? Mă tot gândesc că poate am ceva rupt acolo, că nu știu, am citit pe internet...\nSPEAKER_00: Nu arată a fractură, nu aveți durere la percuție directă care să sugereze asta. Dar dacă durerea nu cedează după câteva ședințe, putem face o radiografie să excludem orice.\nSPEAKER_01: Da, bine, mă liniștesc. Mulțumesc.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere sacrală și coccisiană de aproximativ 3 săptămâni, apărută probabil după o alunecare în parcare (traumatism indirect). Agravată de poziția șezând prelungită (muncă de acasă la calculator). Durere ascuțită la ridicarea de pe scaun, surdă în timp la șezut.",
+    "evaluarea_durerii_vas": [7, 5],
+    "localizarea_durerii": ["sacral_coccis"],
+    "localizarea_durerii_alta": "fese bilateral (fără iradiere sub fesă)",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      },
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Bazin ușor asimetric, mai coborât pe stânga. Durere la palpare în zona de sacru și coccis, mai redusă la presiune lombară. Stabilitate bună la testul pe un picior bilateral. Diagnostic: sacrococcigodinie post-traumatică, agravată de postura sedentară prelungită. Obiective terapeutice: reducerea inflamației sacro-coccigiene, relaxarea musculaturii periarticulare, reechilibrarea bazinului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere, cum să zic, jos de tot la spate, chiar acolo la coadă, la os. Mă doare de vreo trei săptămâni",
+      "am alunecat în parcare acum o lună și ceva",
+      "Când stau jos e cel mai rău",
+      "lucrez de acasă și stau ore întregi la calculator"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când mă ridic? Un 7, aș zice.",
+      "Atunci e mai surdă, mai apăsătoare. Un 5, poate 5 și ceva."
+    ],
+    "localizarea_durerii": [
+      "jos de tot la spate, chiar acolo la coadă, la os",
+      "pe sacru, exact"
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori simt ceva și pe fese, pe amândouă, dar nu coboară mai jos."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Nurofen acum vreo două săptămâni",
+      "Am mai pus și un gel, Voltaren, îl avem în casă de la soție"
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți bazinul ușor înclinat, mai coborât pe stânga.",
+      "Deci avem o durere sacrală și coccisiană, cel mai probabil din traumatismul acela din parcare, plus postura prelungită la birou care a agravat. Bazinul e ușor asimetric. Vom lucra să reducem inflamația din zona sacro-coccigiană, să relaxăm musculatura din jur și să reechilibrăm bazinul."
+    ]
+  }
+}

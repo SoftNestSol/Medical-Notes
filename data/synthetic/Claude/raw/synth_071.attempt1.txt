@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți astăzi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de sus, de mijloc?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau doar când faceți anumite mișcări?\nSPEAKER_01: Când mă aplec.\nSPEAKER_00: Și când stați jos?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Durerea se lasă și pe picior în jos?\nSPEAKER_01: Nu.\nSPEAKER_00: Sigur? Nu simțiți nimic pe fesă, pe coapsă?\nSPEAKER_01: Nu, doar acolo în spate.\nSPEAKER_00: Ok. Dimineața când vă ridicați din pat, vă ține?\nSPEAKER_01: Un pic, da.\nSPEAKER_00: Trece repede?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Ați mai avut dureri de spate înainte?\nSPEAKER_01: Nu așa tare.\nSPEAKER_00: Afecțiuni mai știți că aveți, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Ibuprofen.\nSPEAKER_00: Câte la zi?\nSPEAKER_01: Una, seara.\nSPEAKER_00: Ajută?\nSPEAKER_01: Un pic.\nSPEAKER_00: Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Haideți să vă văd puțin. Stați drept cu spatele la mine. Bun. Vedeți că aveți o ușoară tensionare a musculaturii paravertebrale dreapta, mai accentuat decât stânga. Aplecați-vă ușor în față. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Unde exact?\nSPEAKER_01: Aici, jos.\nSPEAKER_00: Pe mijloc sau pe o parte?\nSPEAKER_01: Mai mult pe dreapta.\nSPEAKER_00: Pe dreapta. Bun. Îndreptați-vă. Dă-ți capul pe spate ușor. Doare?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Apăs puțin pe mușchii din zona lombară, îmi spuneți dacă doare. Doare aici?\nSPEAKER_01: Da.\nSPEAKER_00: Și aici?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Avem o contractură a mușchilor paravertebrali lombari, mai pronunțată pe dreapta. E o lombalgie mecanică, apărută după efort, fără iradiere. O să lucrăm să relaxăm musculatura și să redăm mobilitatea în zona lombară.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută după mutatul mobilei, de aproximativ două săptămâni, accentuată la aplecare și în șezut.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "una seara"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice: tensionare musculatură paravertebrală dreapta mai accentuată decât stânga; durere la aplecare în față și la palpare paravertebral lombar drept.\nDiagnostic: Lombalgie mecanică fără iradiere, contractură mușchi paravertebrali lombari predominant dreapta.\nObiective terapeutice: relaxarea musculaturii paravertebrale lombare; redarea mobilității în zona lombară."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele.", "Am mutat niște mobilă.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Jos.", "doar acolo în spate"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Ibuprofen.", "Una, seara."],
+    "evaluare_functionala_initiala": ["Vedeți că aveți o ușoară tensionare a musculaturii paravertebrale dreapta, mai accentuat decât stânga.", "Avem o contractură a mușchilor paravertebrali lombari, mai pronunțată pe dreapta. E o lombalgie mecanică, apărută după efort, fără iradiere. O să lucrăm să relaxăm musculatura și să redăm mobilitatea în zona lombară."]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "motivul_prezentarii": "Durere umar drept cu iradiere pe brat, aparuta progresiv de aproximativ o luna, agravata de miscari de ridicare si rotatie interna, cu treziri nocturne",
+  "evaluarea_durerii_vas": [
+    8,
+    3
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "brat drept pana la nivelul cotului",
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "75 mcg"
+    },
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare mobilitate umar drept la 90 grade in flexie si abductie; sensibilitate maxima la palparea tendonului supraspinatos; reducere forta musculara in abductie; tensiune trapez fara durere acuta. Diagnostic: inflamatie tendoane manson rotator umar drept, supraspinatos cel mai afectat. Obiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii umarul si cresterea fortei musculare."
+}

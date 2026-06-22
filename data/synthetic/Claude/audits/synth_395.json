@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_395",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, umărul drept, de vreo două săptămâni, poate mai mult, de fapt de când am vopsit dormitorul",
+      "nu mai pot să ridic mâna sus cum trebuie",
+      "noaptea mă deranjează, mă trezesc când mă întorc pe partea dreaptă"
+    ],
+    "evaluarea_durerii_vas": [
+      "zi de zi, un 5",
+      "când ridic mâna sau când mă întorc noaptea, ajunge la un 8, da, un 8 bun"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, umărul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă puțin și pe braț în jos, dar nu până la cot, nu. Se oprește pe la mijlocul brațului."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat acum vreo săptămână un ibuprofen că nu mai puteam de durere noaptea, dar nu îl iau constant, doar atunci."
+    ],
+    "evaluare_functionala_initiala": [
+      "este mai degrabă o tendinită, o inflamație la nivelul tendonului supraspinat, posibil și o ușoară suferință a bursei subacromiale",
+      "Nu avem semne clare de ruptură completă. Mobilitatea e redusă, dar nu abolită, și forța e parțial păstrată.",
+      "O să lucrăm să reducem inflamația, să recuperăm mobilitatea și forța în umăr."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22994,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2597,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

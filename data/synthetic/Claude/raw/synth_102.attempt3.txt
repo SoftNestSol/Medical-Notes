@@ -1,0 +1,53 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ați venit.\nSPEAKER_01: Mă doare spatele jos.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. A apărut brusc sau treptat?\nSPEAKER_01: Brusc.\nSPEAKER_00: Brusc. Ați ridicat ceva greu, ați făcut un efort?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât îl estimați?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Doare tot timpul sau numai când faceți ceva?\nSPEAKER_01: Mai mult când mă mișc. Când stau jos mai trece.\nSPEAKER_00: Durerea rămâne doar jos în spate sau se lasă și pe picior?\nSPEAKER_01: Nu, rămâne acolo.\nSPEAKER_00: Bun. Aveți și amorțeli, furnicături pe picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Dimineața, la trezit, vă ține?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Cât durează?\nSPEAKER_01: Nu știu, zece minute, ceva.\nSPEAKER_00: Ok. Tensiune, diabet, altceva la sănătate?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio afecțiune?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Am luat niște ibuprofen, dar rar.\nSPEAKER_00: Ibuprofen. La ce doză?\nSPEAKER_01: Nu știu, cel normal, 400.\nSPEAKER_00: 400, ok. Stați mai mult jos la serviciu sau în picioare?\nSPEAKER_01: La birou, stau jos.\nSPEAKER_00: Tot ziua la birou. Haideți să vă examinăm puțin. Întoarceți-vă cu spatele la mine, picioarele ușor depărtate.\nSPEAKER_01: Bun.\nSPEAKER_00: Lăsați-vă puțin, relaxați umerii. Văd că aveți o ușoară basculare de bazin pe stânga. Simțiți?\nSPEAKER_01: Nu știu.\nSPEAKER_00: Normal, nu se simte neapărat. Aplecați-vă în față, ușor, cât puteți.\nSPEAKER_01: Doare.\nSPEAKER_00: Unde exact?\nSPEAKER_01: Aici, jos.\nSPEAKER_00: Zona lombară joasă. Înapoi doare mai mult?\nSPEAKER_01: Da, mai rău înapoi.\nSPEAKER_00: Bun. Stați pe masă, vă rog, față în sus. Ridic piciorul drept... Doare?\nSPEAKER_01: Nu.\nSPEAKER_00: Și stângul... Doare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun, deci fără iradiere. Apăs acum paravertebral lombar. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Bilateral sau mai mult pe o parte?\nSPEAKER_01: Pe dreapta mai tare.\nSPEAKER_00: Mai accentuat pe dreapta, bun. Avem o contractură musculară paravertebrală lombară, mai pronunțată pe dreapta, după efort de ridicare. Test Lasègue negativ bilateral, fără semne radiculare. Obiectivul nostru va fi să relaxăm musculatura, să reducem inflamația și să corectăm puțin postura la birou.\nSPEAKER_01: Ok.\nSPEAKER_00: Ați mai făcut terapie de genul acesta?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun, atunci începem.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară joasă apărută brusc în urmă cu două săptămâni după mutarea mobilei. Durere accentuată la mișcare, mai ales la extensie, cu redoare matinală de aproximativ 10 minute. Fără iradiere pe membre inferioare, fără amorțeli.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "ibuprofen",
+        "doza": "400"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară basculare de bazin pe stânga. Durere la flexia anterioară și mai accentuată la extensia trunchiului. Durere la palpare paravertebrală lombară, mai pronunțată pe dreapta. Test Lasègue negativ bilateral.\nDiagnostic:\nContractură musculară paravertebrală lombară post-efort (ridicare greutăți), fără semne radiculare.\nObiective terapeutice:\nRelaxarea musculaturii paravertebrale, reducerea inflamației, corectarea posturii la birou."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele jos.",
+      "Am mutat niște mobilă.",
+      "Brusc.",
+      "Vreo două săptămâni.",
+      "Mai mult când mă mișc. Când stau jos mai trece.",
+      "Nu, rămâne acolo.",
+      "Nu.",
+      "Da, un pic.",
+      "Nu știu, zece minute, ceva."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele jos.",
+      "Zona lombară joasă."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat niște ibuprofen, dar rar.",
+      "Nu știu, cel normal, 400."
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți o ușoară basculare de bazin pe stânga.",
+      "Da, mai rău înapoi.",
+      "Pe dreapta mai tare.",
+      "Avem o contractură musculară paravertebrală lombară, mai pronunțată pe dreapta, după efort de ridicare. Test Lasègue negativ bilateral, fără semne radiculare. Obiectivul nostru va fi să relaxăm musculatura, să reducem inflamația și să corectăm puțin postura la birou."
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare genunchiul.\nSPEAKER_00: Care genunchi?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, l-ați lovit, ați căzut?\nSPEAKER_01: Nu. Pur și simplu a început să doară.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât îl situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Vă doare când mergeți, când stați jos, când urcați scările?\nSPEAKER_01: Când urc scările mai ales. Și când mă ridic din scaun.\nSPEAKER_00: Și când stați culcat, în repaus, doare?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Zona exactă unde doare — în față, în spate, pe lateral?\nSPEAKER_01: Aici, pe partea din față, mai jos.\nSPEAKER_00: Sub rotulă, deci.\nSPEAKER_01: Da.\nSPEAKER_00: Se umflă vreodată?\nSPEAKER_01: Puțin, seara.\nSPEAKER_00: Amorțeală, furnicături pe picior?\nSPEAKER_01: Nu.\nSPEAKER_00: Ce muncă faceți?\nSPEAKER_01: Stau mult în picioare. Vânzător.\nSPEAKER_00: Înțeleg. Ați mai avut probleme cu genunchiul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni — tensiune, diabet, probleme la oase, artroză?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin în picioare, cu fața la mine.\nSPEAKER_00: Îndoiți ușor genunchiul drept, doare?\nSPEAKER_01: Da, puțin.\nSPEAKER_00: Apăs sub rotulă. Doare aici?\nSPEAKER_01: Da, da, acolo.\nSPEAKER_00: Și deasupra rotulei?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Ok. Deci avem o tendinită rotuliană, zona de inserție a tendonului sub rotulă. Tipic pentru stat prelungit în picioare și urcat de scări. O să lucrăm să reducem inflamația și să eliberăm tensiunea din cvadriceps.\nSPEAKER_01: Da, ok.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere la nivelul genunchiului drept, subfrontal (sub rotulă), instalată în urmă cu aproximativ două săptămâni, fără traumatism. Durere la urcatul scărilor și la ridicarea din scaun, ușoară tumefiere serală. Profesie cu ortostatism prelungit.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "genunchi_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\nTendinită rotuliană (inserție tendon sub rotulă).\nObiective terapeutice:\nReducerea inflamației; eliberarea tensiunii din cvadriceps."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare genunchiul.", "Dreptul.", "De vreo două săptămâni.", "Pur și simplu a început să doară.", "Când urc scările mai ales. Și când mă ridic din scaun.", "Puțin, seara.", "Stau mult în picioare. Vânzător."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare genunchiul.", "Dreptul.", "Aici, pe partea din față, mai jos.", "Sub rotulă, deci.", "Da."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu."],
+    "evaluare_functionala_initiala": ["Deci avem o tendinită rotuliană, zona de inserție a tendonului sub rotulă.", "O să lucrăm să reducem inflamația și să eliberăm tensiunea din cvadriceps."]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "conversation_id": "synth_087",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, zona de jos, de multă vreme. Adică nu de ieri, de azi. Cred că de vreo doi ani îmi tot dă... dar acum s-a acutizat rău de tot. Sincer, în ultimele două săptămâni e cel mai rău a fost vreodată",
+      "dimineața când mă scol e groaznic, poate un 8, chiar un 9 uneori. Mă trezesc și nu pot să mă ridic direct din pat",
+      "seara după ce stau jos mult la birou"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în momentul ăsta? Poate un 5",
+      "dimineața când mă scol e groaznic, poate un 8, chiar un 9 uneori"
+    ],
+    "localizarea_durerii": [
+      "mă doare spatele, zona de jos"
+    ],
+    "localizarea_durerii_alta": [
+      "simt și mai jos, parcă pe fese, pe stânga mai mult. Și câteodată se lasă pe picior, tot pe stânga",
+      "Cel mult până la jumătatea coapsei"
+    ],
+    "antecedente": [
+      "am tensiune mare, hipertensiune, de vreo 4 ani"
+    ],
+    "antecedente_altele": [
+      "mai am... colesterol ridicat, mi-a zis doctorul acum un an"
+    ],
+    "medicatie_actuala": [
+      "iau Prestarium, 5 miligrame, în fiecare dimineață",
+      "pentru colesterol iau Sortis, 20 de miligrame",
+      "Am mai luat Ibuprofen când mă doare spatele tare, dar nu e prescris, îl iau singur când nu mai pot"
+    ],
+    "evaluare_functionala_initiala": [
+      "mobilitatea lombară e limitată la flexie și la rotație stânga",
+      "testul pe care l-am făcut cu piciorul stâng arată o tensionare pe traiectul nervului sciatic",
+      "musculatura paravertebrală pe stânga e contractată, se simte clar",
+      "Cel mai probabil avem de-a face cu o lombalgie cronică cu componentă musculară importantă, posibil și o iritație la nivelul rădăcinii L4-L5 sau L5-S1 pe stânga",
+      "O să lucrăm la reducerea contracturii musculare, la mobilizarea articulațiilor sacroiliace"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 23026
+    },
+    "cache_creation_input_tokens": 23026,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 271,
+    "output_tokens": 3889,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

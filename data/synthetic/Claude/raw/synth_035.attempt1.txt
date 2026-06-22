@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamna!\nSPEAKER_01: Bună ziua, bună ziua!\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi, mă doare gâtul, adică zona de ceafă, și mi se lasă și pe umărul stâng, știți? Și am zis să vin pentru că, sincer, m-a speriat un pic, am citit pe internet tot felul de lucruri și nu știu, poate e ceva grav, nu?\nSPEAKER_00: Înțeles. De cât timp vă doare?\nSPEAKER_01: De vreo două săptămâni, dar mai rău a fost de când am stat la birou non-stop, avem un proiect mare la serviciu și stau câte zece ore pe zi la calculator, vă dați seama, și dimineața mă trezesc și parcă am gâtul blocat, nu pot să mă întorc bine nici într-o parte nici în alta.\nSPEAKER_00: Aha. Și durerea se lasă și pe braț în jos sau doar pe umăr?\nSPEAKER_01: Pe umăr, da, pe stânga. Pe braț nu știu, câteodată simt ceva, dar nu știu dacă e de la asta sau de la stres, că și stres am destul, credeți-mă.\nSPEAKER_00: Amorțește ceva, degetele, mâna?\nSPEAKER_01: Nu, nu, amorțeli nu am. Doar că mă doare când mă întorc spre stânga, și când stau mult la calculator simte că se strânge totul acolo.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați cu durerea?\nSPEAKER_01: Păi, acum, în repaus, poate un 4. Dar când mă întorc sau când stau prea mult la birou, ajunge la un 7, chiar 7 și ceva.\nSPEAKER_00: Deci în mișcare un 7.\nSPEAKER_01: Da, 7 da.\nSPEAKER_00: Ați mai avut așa ceva în trecut, la ceafă?\nSPEAKER_01: Am mai avut acum vreo doi ani ceva similar, dar a trecut singur. Acum nu trece și m-am speriat, că am văzut că pot fi probleme cu discurile și nu știu, mi-e teamă să nu rămân cu ceva permanent.\nSPEAKER_00: Înțeleg. Alte afecțiuni, cum ar fi tensiune, diabet, epilepsie?\nSPEAKER_01: Tensiune am, da. Am tensiune de vreo trei ani, iau și pastile pentru asta.\nSPEAKER_00: Ce pastile luați?\nSPEAKER_01: Iau Enalapril, 10 miligrame, în fiecare dimineață. Atât, altceva nu iau.\nSPEAKER_00: Bun. Cancer, osteoporoză, alte boli?\nSPEAKER_01: Nu, nu, nimic din astea, slavă Domnului.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu, nu am avut nimic.\nSPEAKER_00: Bine. Haideți să facem câteva teste. Stați drept, vă rog. O să vă rog să întoarceți capul spre dreapta.\nSPEAKER_01: Merge, da, nu mă doare spre dreapta.\nSPEAKER_00: Spre stânga acum.\nSPEAKER_01: Au, da, asta doare, simțiți cât de puțin merg?\nSPEAKER_00: Da, văd că e limitată rotația spre stânga. O să apăs acum un pic pe musculatura de la ceafă. Spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo e, exact acolo strânge.\nSPEAKER_00: Și pe trapez spre umărul stâng?\nSPEAKER_01: Da, da, și acolo.\nSPEAKER_00: Bun. Ce pot să vă spun este că avem o contractură musculară la nivel cervical, cu iradiere pe trapezul stâng. Poate fi legată de postura de la birou. O să lucrăm în prima fază să reducem tensiunea musculară și să recâștigăm mobilitatea.\nSPEAKER_01: Și nu e nimic grav? Nu e disc sau ceva?\nSPEAKER_00: Deocamdată nu avem semne clare de afectare de disc, nu aveți amorțeli, nu vă lasă pe braț. Dar vom vedea după primele ședințe cum răspunde.\nSPEAKER_01: Bine, mă liniștiti un pic. Vin de trei ori pe săptămână dacă e nevoie, nu mă deranjează.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicala cu iradiere pe umar stang",
+    "evaluarea_durerii_vas": [4, 7],
+    "localizarea_durerii": ["cervical", "umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractura musculara cervicala cu iradiere trapez stang\nObiective terapeutice: reducerea tensiunii musculare, recastigarea mobilitatii cervicale"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare gâtul, adică zona de ceafă, și mi se lasă și pe umărul stâng"],
+    "evaluarea_durerii_vas": ["acum, în repaus, poate un 4", "când mă întorc sau când stau prea mult la birou, ajunge la un 7"],
+    "localizarea_durerii": ["mă doare gâtul, adică zona de ceafă", "mi se lasă și pe umărul stâng"],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am, da. Am tensiune de vreo trei ani"],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Iau Enalapril, 10 miligrame, în fiecare dimineață"],
+    "evaluare_functionala_initiala": ["avem o contractură musculară la nivel cervical, cu iradiere pe trapezul stâng", "O să lucrăm în prima fază să reducem tensiunea musculară și să recâștigăm mobilitatea"]
+  }
+}

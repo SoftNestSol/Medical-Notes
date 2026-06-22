@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere cervicala si umar drept, aparuta spontan, de doua saptamani",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contractura musculara cervicala si trapez dreapta; mobilitate rotatie cervicala dreapta redusa.\nObiective terapeutice: reducerea contracturii, recastigarea mobilitatii."
+}

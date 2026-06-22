@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce problemă vă văd azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume, după un efort?\nSPEAKER_01: Nu știu, parcă după ce am cărat niște bagaje mai grele.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Un 5.\nSPEAKER_00: Doare constant sau doar la mișcare?\nSPEAKER_01: La mișcare.\nSPEAKER_00: Când ridicați brațul, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Până unde îl puteți ridica fără durere?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci undeva la 90 de grade. Doare și când vă duceți mâna la spate?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Se lasă durerea și pe braț, pe cot, pe mână?\nSPEAKER_01: Nu, rămâne la umăr.\nSPEAKER_00: Amorțeli, furnicături?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai avut probleme cu umărul ăsta?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, epilepsie, cancer?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin cu brațul pe lângă corp, relaxat. Vă apăs aici pe zona de supraspinat, doare?\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Și dacă apăs în față, pe bicepsul lung, doare?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Ridicați brațul lateral, dau rezistență, împingeți. Doare?\nSPEAKER_01: Da, chiar acolo.\nSPEAKER_00: Bun. Avem o inflamație la nivelul supraspinosului, tendoanele coafei rotatorilor. Trebuie să reducem inflamația și să refacem mobilitatea umărului.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang aparuta dupa efort fizic (caratat bagaje grele), de aproximativ doua saptamani, la miscare.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie supraspinat, tendon coafa rotatorilor umar stang.\nObiective terapeutice: reducerea inflamatiei; refacerea mobilitatii umarului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Vreo două săptămâni.", "parcă după ce am cărat niște bagaje mai grele.", "La mișcare."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul.", "rămâne la umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu.", "Medicamente luați?"],
+    "evaluare_functionala_initiala": ["Avem o inflamație la nivelul supraspinosului, tendoanele coafei rotatorilor. Trebuie să reducem inflamația și să refacem mobilitatea umărului."]
+  }
+}

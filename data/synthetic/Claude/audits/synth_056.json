@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_056",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele în zona de jos, de vreo două săptămâni",
+      "nu mai pot să stau în picioare mai mult de zece minute fără să mă apuce durerea aia",
+      "Se lasă, da, pe piciorul drept, pe coapsă în jos, câteodată simt un fel de furnicătură până la genunchi"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în repaus, un 5",
+      "dacă stau mult în picioare sau ridic ceva, ajunge ușor la 8"
+    ],
+    "localizarea_durerii": [
+      "mă doare spatele în zona de jos",
+      "doare, pe partea dreaptă mai tare"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă, da, pe piciorul drept, pe coapsă în jos, câteodată simt un fel de furnicătură până la genunchi"
+    ],
+    "antecedente": [
+      "Tensiune am, da"
+    ],
+    "antecedente_altele": [
+      "am mai avut și probleme cu stomacul, gastrită"
+    ],
+    "medicatie_actuala": [
+      "Iau Prestarium, un comprimat pe zi, de vreo doi ani"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o tensiune musculară importantă pe dreapta în zona lombară și în piriform",
+      "cu iradierea pe coapsă și furnicătura până la genunchi, e posibil să avem o iritație pe nervul sciatic",
+      "O să lucrăm să reducem inflamația musculară"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13621,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 2154,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

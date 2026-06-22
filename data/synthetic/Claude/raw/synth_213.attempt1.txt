@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce vă pot ajuta azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut după ceva anume, după un efort, după o căzătură?\nSPEAKER_01: Nu știu exact. Parcă după ce am mutat niște cutii.\nSPEAKER_00: Ați ridicat ceva greu.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare vă doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Un 5. Doare tot timpul sau doar când mișcați?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Când ridicați brațul. Și doare și noaptea, când stați culcat pe el?\nSPEAKER_01: Da, câteodată.\nSPEAKER_00: Câteodată noaptea. Și doare până unde, adică se lasă și pe braț, pe cot?\nSPEAKER_01: Nu, stă pe loc, acolo.\nSPEAKER_00: Stă localizat în umăr. Bun. Haideți să ridicați brațul în față, încet.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare de aici?\nSPEAKER_01: Da, cam de la jumătate în sus.\nSPEAKER_00: Înțeleg. Acum duceți-l în lateral.\nSPEAKER_01: Ăsta doare mai rău.\nSPEAKER_00: Mai rău în abducție. Ok. Lăsați brațul jos. Îl rotesc eu puțin, spuneți-mi dacă doare.\nSPEAKER_01: Da, asta doare.\nSPEAKER_00: Rotație externă limitată și dureroasă. Avem o inflamație la nivelul manșetei rotatorilor, cel mai probabil supraspinatus.\nSPEAKER_01: Ah.\nSPEAKER_00: Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, niciun antiinflamator?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci avem o tendinopatie la umărul stâng, apărută după efort. O să lucrăm să reducem inflamația și să recuperăm mobilitatea brațului. Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng, apărută acum două săptămâni după ridicarea de cutii grele. Durere la ridicarea brațului și noaptea când stă culcat pe el.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\nTendinopatie manșeta rotatorilor umar stg (supraspinatus).\nObservații funcționale:\nAbducție dureroasă și limitată, rotație externă dureroasă și limitată. Durere de la jumătatea amplitudinii în sus la flexie.\nObiective terapeutice:\n- reducerea inflamației\n- recuperarea mobilității brațului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul", "Stângul", "De vreo două săptămâni", "Parcă după ce am mutat niște cutii"],
+    "evaluarea_durerii_vas": ["Vreo 5"],
+    "localizarea_durerii": ["Mă doare umărul", "Stângul"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu.", "Nicio pastilă, niciun antiinflamator?", "Nu."],
+    "evaluare_functionala_initiala": ["Rotație externă limitată și dureroasă. Avem o inflamație la nivelul manșetei rotatorilor, cel mai probabil supraspinatus.", "O să lucrăm să reducem inflamația și să recuperăm mobilitatea brațului", "Ăsta doare mai rău", "Până aici pot", "Da, cam de la jumătate în sus"]
+  }
+}

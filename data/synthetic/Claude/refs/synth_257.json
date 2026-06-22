@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "Durere umar stang, limitare de mobilitate, agravata in ultimele 3 luni dupa activitate cu bratul ridicat (zugravit). Durere la ridicarea bratului si rotatie interna. Treziri nocturne din cauza durerii.",
+  "evaluarea_durerii_vas": [
+    8,
+    3
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "iradiere pe brat stang pana la cot (intermitent)",
+  "antecedente": [
+    "scolioza_cifoza"
+  ],
+  "antecedente_altele": "fractura claviculă stângă (vindecare conservatoare, acum ~10 ani); hipotiroidism",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "75 micrograme"
+    }
+  ],
+  "evaluare_functionala_initiala": "Mobilitate umar stang limitata: flexie si abductie ~90 grade, rotatie interna dureroasa. Deficit de forta la testul de rezistenta. Durere la palpare tendon supraspinos si zona subacromiana. Arc dureros la ridicare pasiva 90-100 grade. Clic articular perceptibil. Diagnostic: tendinopatie coafa rotatori umar stang, probabila bursita subacromiana asociata. Obiective terapeutice: reducerea inflamatiei locale, recuperarea mobilitatii, restabilirea fortei musculare periarticulare."
+}

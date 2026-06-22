@@ -1,0 +1,69 @@
+SPEAKER_00: Bună ziua, doamnă!
+SPEAKER_01: Bună ziua.
+SPEAKER_00: Spuneți-mi și mie numele, vă rog.
+SPEAKER_01: Marinescu. Marinescu Cristina.
+SPEAKER_00: Cristina, perfect. Și vârsta?
+SPEAKER_01: 38.
+SPEAKER_00: Mulți înainte. Prima oară la noi în cabinet?
+SPEAKER_01: Da, da, prima oară. M-a recomandat o colegă de-a mea, a mai venit ea pe aici.
+SPEAKER_00: Înțeles. Și cu ce problemă ne vedem astăzi, doamna Cristina?
+SPEAKER_01: Păi, mă doare umărul, ăsta din dreapta, de ceva timp. Nu știu exact de când, cam de vreo... poate două luni, poate mai mult. Nu știu sigur.
+SPEAKER_00: Deci cam două luni de zile cu această durere?
+SPEAKER_01: Cam așa, da. Poate chiar mai mult că nu m-am băgat în seamă la început, ziceam că trece.
+SPEAKER_00: A apărut după ceva anume? După un efort, după o căzătură, ceva?
+SPEAKER_01: Nu știu... nu am căzut sau ceva. Cred că am dormit prost la un moment dat și dimineața am simțit că mă doare și nu a mai trecut. Sau poate de la servici, stau mult la calculator.
+SPEAKER_00: Stați mult timp la calculator în ce postură? Cu umărul ridicat, cu brațul sus?
+SPEAKER_01: Păi nu știu, stau... nu mă gândesc la asta. Stau cum stau, probabil nu prea bine, că mereu îmi spune lumea că stau cocoșată.
+SPEAKER_00: Înțeles. Și durerea asta o simțiți exact unde pe umăr? Puteți să îmi arătați?
+SPEAKER_01: Cam pe aici, sus, și puțin pe lateral. Câteodată se duce și în jos, pe braț, dar nu tot timpul.
+SPEAKER_00: Când se duce pe braț, ajunge până la cot sau mai jos?
+SPEAKER_01: Nu, nu, nu ajunge la cot. Cam pe la jumătate, pe acolo, nu știu exact.
+SPEAKER_00: Am înțeles. Și pe ce parte se lasă, pe față sau pe spate?
+SPEAKER_01: Mai mult pe față, pe partea asta de față a brațului.
+SPEAKER_00: Pe partea anterioară. Bun. Doare și când stați liniștită sau numai când mișcați?
+SPEAKER_01: Și așa și așa. Adică dacă stau liniștită o simt, dar când ridic brațul sau încerc să pun mâna la spate, de exemplu, atunci e mai rău.
+SPEAKER_00: Și noaptea vă deranjează? Vă treziți din cauza ei?
+SPEAKER_01: Da, da, mai ales dacă mă întorc pe partea aia. Mă trezesc și nu știu cum să mă pun.
+SPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare îngrozitor, cât de tare o notați în repaus?
+SPEAKER_01: Ah, nu știu... pe la... nu știu, un 4, poate? Nu e nici groaznică, dar nici nu o pot ignora.
+SPEAKER_00: Și când ridicați brațul?
+SPEAKER_01: Atunci e mai rău, pe la 7.
+SPEAKER_00: Bun, deci 4 în repaus și 7 la mișcare. Cervical vă doare? Aveți dureri de gât sau de ceafă?
+SPEAKER_01: Mai puțin, adică uneori simt că mă strânge pe aici la ceafă, dar nu la fel de tare ca umărul.
+SPEAKER_00: Am înțeles. Doamna Cristina, să vă întreb și de sănătatea dumneavoastră în general. Alte probleme de sănătate, afecțiuni cronice?
+SPEAKER_01: Da, am tiroidă. Hipotiroidism îi zice. Iau pastile pentru asta de vreo trei ani.
+SPEAKER_00: Și urmăriți periodic?
+SPEAKER_01: Da, merg la endocrinolog, da.
+SPEAKER_00: Ce pastile luați pentru tiroidă?
+SPEAKER_01: Euthyrox, iau 75 de micrograme în fiecare dimineață.
+SPEAKER_00: Altceva mai luați?
+SPEAKER_01: Nu, nimic altceva.
+SPEAKER_00: Tensiune, diabet, probleme cu inima?
+SPEAKER_01: Nu, nu, nimic din astea.
+SPEAKER_00: Intervenții chirurgicale, fracturi anterioare?
+SPEAKER_01: Nu. Adică am dat odată cu mâna, nu știu, acum mulți ani, în liceu parcă, dar nu cred că e relevant.
+SPEAKER_00: Pe ce parte?
+SPEAKER_01: Ăă, pe stânga cred. Nu mai țin minte exact.
+SPEAKER_00: Ok. Alergii la creme sau unguente?
+SPEAKER_01: Nu știu, nu am testat. Nu cred că am.
+SPEAKER_00: Bun. Ați mai făcut vreodată terapie, kinetoterapie, masaj, ceva pentru umărul ăsta?
+SPEAKER_01: Am făcut niște masaje, de două ori, la un salon de relaxare, dar nu mi-a ajutat prea mult. A fost mai bine câteva zile și după s-a întors.
+SPEAKER_00: Înțeles. Haideți doamna Cristina, ridicați-vă pe picioare să facem câteva teste rapide. Ridicați brațul drept în față, lent, până unde puteți.
+SPEAKER_01: Până pe aici pot, mai sus nu.
+SPEAKER_00: Opriți. Deci cam la 90 de grade, doare?
+SPEAKER_01: Da, chiar și înainte, pe la 70-80 cam simțeam deja.
+SPEAKER_00: Bun. Acum ridicați-l lateral, în lateral, tot lent.
+SPEAKER_01: Ăsta merge un pic mai bine, dar tot se simte.
+SPEAKER_00: Ok. Puneți mâna la spate, ca și cum ați vrea să ajungeți la fermoar.
+SPEAKER_01: Ăăă, cam până pe aici, mai sus nu pot, mă doare.
+SPEAKER_00: Bun. Acum vă apăs puțin în zona de sub acromion, spuneți-mi ce simțiți.
+SPEAKER_01: Au, da, acolo doare tare.
+SPEAKER_00: Cât de tare?
+SPEAKER_01: Ăăă, 7-8 sigur.
+SPEAKER_00: Am înțeles. Apăs acum și pe zona de biceps, zona anterioară... doare?
+SPEAKER_01: Da, și acolo, mai puțin ca dincolo, dar da.
+SPEAKER_00: Bun. Doamna Cristina, din ce am evaluat până acum, vedeți că mobilitatea umărului drept e limitată, mai ales la ridicarea în față și la rotația internă, adică mâna la spate. Supraspinatus-ul și zona de sub acromion sunt iritate, la fel și tendoanele bicepsului în zona anterioară. Cel mai probabil avem o inflamație a manșetei rotatorilor, mai exact o tendinopatie a supraspinatuslui, posibil cu un conflict subacromial. Aceasta e coroborată și de postura pe care o aveți la servici. Obiectivul nostru inițial va fi să reducem inflamația din zona aceea, să eliberăm musculatura cervicală și să recuperăm amplitudinea de mișcare. Vom lucra câteva ședințe și vedem cum răspundeți.
+SPEAKER_01: Și cât timp crede că durează?
+SPEAKER_00: Depinde, nu pot să vă garantez un număr exact, dar cu 4-6 ședințe ar trebui să simțiți o ameliorare clară.
+SPEAKER_01: Ok, înțeles.
+SPEAKER_00: Bun, haideți să trecem la treabă.

@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, un efort, o căzătură?\nSPEAKER_01: Nu știu exact. Am carat niște cutii la serviciu.\nSPEAKER_00: Deci după un efort fizic.\nSPEAKER_01: Da, cam așa.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde situați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare constant sau numai la mișcare?\nSPEAKER_01: Numai când ridic brațul.\nSPEAKER_00: Puteți să-l ridicați deasupra capului?\nSPEAKER_01: Până la un punct. Apoi mă doare.\nSPEAKER_00: Aproximativ până unde?\nSPEAKER_01: Cam până la nivelul umărului, după aia nu mai pot.\nSPEAKER_00: Deci abducția e limitată, cam la 90 de grade. Doare și în față, și lateral?\nSPEAKER_01: Mai mult lateral.\nSPEAKER_00: Simțiți că vă amorțește brațul sau mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Noapte vă deranjează?\nSPEAKER_01: Un pic, dacă dorm pe partea aia.\nSPEAKER_00: Înțeles. Și dacă stați pe umărul drept se acutizează.\nSPEAKER_01: Da.\nSPEAKER_00: Durerea se lasă și pe braț în jos?\nSPEAKER_01: Nu, e doar acolo.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații, fracturi, accidente?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la unguente sau creme?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați brațul pentru mine, încet, lateral. Opriți unde începe să doară.\nSPEAKER_01: Cam pe aici.\nSPEAKER_00: Ok, undeva la 80-85 de grade. Acum încerc eu să mișc umărul, spuneți-mi dacă simțiți durere.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: La rotația internă. Apăs puțin pe zona de subacromion, doare?\nSPEAKER_01: Da, exact acolo doare.\nSPEAKER_00: Am înțeles. Acum puneți mâna la ceafă, cât puteți.\nSPEAKER_01: Greu, mă doare.\nSPEAKER_00: Nu forțăm. Bun.\nSPEAKER_00: Deci ce vedem noi aici pare a fi o tendinită la nivelul coifului rotatorilor, probabil supraspinosul, apărută după efortul de la serviciu. Avem o limitare de mobilitate la abducție și la rotație internă, cu durere la palparea zonei subacromiale. Va trebui să reducem inflamația și să lucrăm mobilitatea umărului treptat.\nSPEAKER_01: Ok.\nSPEAKER_00: Ați mai făcut terapie manuală sau fizioterapie până acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Atunci haideți să începem. Faceți cu fața în sus pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere la nivelul umărului drept, apărută după efort fizic (carat cutii la serviciu), de aproximativ două săptămâni. Durere la ridicarea brațului, mai ales lateral, cu limitarea abducției.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nLimitarea abducției active la aproximativ 80-85 de grade. Durere la rotația internă și la palparea zonei subacromiale. Mobilitate limitată la ducerea mâinii la ceafă.\nDiagnostic:\nTendinită coif rotatori (probabil supraspinosul), cu limitare de mobilitate la abducție și rotație internă, apărută post-efort.\nObiective terapeutice:\nReducerea inflamației și recuperarea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Vreo două săptămâni.", "Am carat niște cutii la serviciu."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["undeva la 80-85 de grade", "La rotația internă. Apăs puțin pe zona de subacromion, doare?", "Da, exact acolo doare.", "pare a fi o tendinită la nivelul coifului rotatorilor, probabil supraspinosul", "Avem o limitare de mobilitate la abducție și la rotație internă, cu durere la palparea zonei subacromiale. Va trebui să reducem inflamația și să lucrăm mobilitatea umărului treptat."]
+  }
+}

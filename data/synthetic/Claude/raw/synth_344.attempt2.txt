@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Dumitru Horia.\nSPEAKER_00: Dumitru. Și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume sau a apărut așa, din senin?\nSPEAKER_01: Nu știu. Stau mult la calculator.\nSPEAKER_00: Stați mult la birou, la calculator. Ok. Și doare constant sau mai vine, mai trece?\nSPEAKER_01: Constant.\nSPEAKER_00: Constant. Se lasă durerea și pe braț, pe umăr, undeva în jos?\nSPEAKER_01: Uneori pe umărul drept.\nSPEAKER_00: Pe umărul drept. Mai jos de umăr, pe braț sau pe mână, amorțeli?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Dimineața când vă treziți e mai rău sau pe parcursul zilei?\nSPEAKER_01: Pe parcursul zilei. După ore la calculator.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați?\nSPEAKER_01: Un 5, 6.\nSPEAKER_00: Un 5, să zicem. Rotația capului o faceți ok, dreapta-stânga?\nSPEAKER_01: Stânga mai greu.\nSPEAKER_00: Stânga e mai limitată. Și când aplecați capul în față doare?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Un pic. Spate drept?\nSPEAKER_01: Da, în spate e ok.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, epilepsie, osteoporoză, ceva de genul?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun medicament. Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să stați puțin în picioare, drept, cu spatele la mine.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă apăs ușor pe mușchii de la ceafă, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Doare pe stânga, pe dreapta sau pe amândouă?\nSPEAKER_01: Pe amândouă, dar mai mult pe dreapta.\nSPEAKER_00: Pe dreapta mai mult. Și dacă apăs puțin mai sus, pe baza craniului?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Da. Acum întoarceți-vă cu fața, vreau să faceți o ușoară rotație spre stânga.\nSPEAKER_01: Așa?\nSPEAKER_00: Da. Simțiți că se blochează undeva sau doare?\nSPEAKER_01: Se blochează un pic.\nSPEAKER_00: Se blochează. La vreo jumătate de amplitudine, da?\nSPEAKER_01: Cam da.\nSPEAKER_00: Am înțeles. Ce vă pot spune este că avem o tensionare a musculaturii cervicale, mai ales pe trapez și pe ridicătorul scapulei, probabil din postura la birou. Mobilitatea rotației spre stânga e redusă. O să lucrăm să reducem tensiunea musculară și să recuperăm mobilitatea respectivă. Câteva ședințe și ar trebui să se simtă diferit.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să începem.",
+
+  "note": {
+    "motivul_prezentarii": "Durere cervicala, iradiere umar drept",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": ["cervical", "umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: - tensionare musculatura cervicala (trapez, ridicator scapula);\n- mobilitate rotatie cervicala stanga redusa\nObiective terapeutice: - reducerea tensiunii musculare;\n- recuperarea mobilitatii cervicale"
+  },
+
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "Uneori pe umărul drept."],
+    "evaluarea_durerii_vas": ["Un 5, să zicem."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Uneori pe umărul drept."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o tensionare a musculaturii cervicale, mai ales pe trapez și pe ridicătorul scapulei", "Mobilitatea rotației spre stânga e redusă", "O să lucrăm să reducem tensiunea musculară și să recuperăm mobilitatea respectivă"]
+  }
+}

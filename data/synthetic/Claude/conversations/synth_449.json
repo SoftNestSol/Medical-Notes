@@ -1,0 +1,439 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, doamnă!"
+    },
+    {
+      "start": 1.26,
+      "end": 2.06,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 2.18,
+      "end": 4.84,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi și mie numele, vă rog."
+    },
+    {
+      "start": 4.96,
+      "end": 5.76,
+      "speaker": "SPEAKER_01",
+      "text": "Ionescu Mihaela."
+    },
+    {
+      "start": 5.88,
+      "end": 8.54,
+      "speaker": "SPEAKER_00",
+      "text": "Doamna Ionescu. Și vârsta, dacă se poate?"
+    },
+    {
+      "start": 8.66,
+      "end": 9.8,
+      "speaker": "SPEAKER_01",
+      "text": "38 de ani."
+    },
+    {
+      "start": 9.92,
+      "end": 13.72,
+      "speaker": "SPEAKER_00",
+      "text": "Mulțumesc. Și cum ați ajuns la noi, printr-o recomandare?"
+    },
+    {
+      "start": 13.84,
+      "end": 22.2,
+      "speaker": "SPEAKER_01",
+      "text": "Da, o colegă de serviciu mi-a zis să vin, că a venit și ea pe vremuri cu o problemă la spate."
+    },
+    {
+      "start": 22.32,
+      "end": 26.12,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și cu ce problemă ne vedem astăzi, doamnă Ionescu?"
+    },
+    {
+      "start": 26.24,
+      "end": 35.36,
+      "speaker": "SPEAKER_01",
+      "text": "Păi mă doare umărul, mai mult pe partea dreaptă, și câteodată simt că se duce și în gât, așa, nu știu cum să explic."
+    },
+    {
+      "start": 35.48,
+      "end": 42.7,
+      "speaker": "SPEAKER_00",
+      "text": "Deci avem o durere la nivelul umărului drept și o durere care urcă și spre zona de gât, cervical?"
+    },
+    {
+      "start": 42.82,
+      "end": 51.94,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam pe acolo. Mai mult pe partea asta, pe dreapta. Câteodată mă doare și după ureche, sus, dar nu știu dacă e legat."
+    },
+    {
+      "start": 52.06,
+      "end": 54.72,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. De cât timp aveți această problemă?"
+    },
+    {
+      "start": 54.84,
+      "end": 64.72,
+      "speaker": "SPEAKER_01",
+      "text": "Eh, de ceva vreme. Poate de vreo... nu știu exact, câteva luni, poate patru, poate cinci luni. A început ușor-ușor și acuma e mai rău."
+    },
+    {
+      "start": 64.84,
+      "end": 70.54,
+      "speaker": "SPEAKER_00",
+      "text": "A apărut după ceva anume, după un efort, după o mișcare bruscă? Vă mai amintiți?"
+    },
+    {
+      "start": 70.66,
+      "end": 81.68,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu sigur. Lucrez la birou mult, stau toată ziua la calculator și cred că de acolo e, dar nu pot să zic că a fost un moment exact."
+    },
+    {
+      "start": 81.8,
+      "end": 82.94,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles, deci treptat."
+    },
+    {
+      "start": 83.06,
+      "end": 86.86,
+      "speaker": "SPEAKER_01",
+      "text": "Da, treptat, nici nu am băgat de seamă la început."
+    },
+    {
+      "start": 86.98,
+      "end": 92.3,
+      "speaker": "SPEAKER_00",
+      "text": "Și ce activitate vă agravează mai tare durerea? Statul la birou, mișcările cu brațul?"
+    },
+    {
+      "start": 92.42,
+      "end": 105.72,
+      "speaker": "SPEAKER_01",
+      "text": "Statul mult la calculator, asta sigur. Și dacă ridic ceva mai greu cu mâna asta, dreapta, mă ia imediat. Și când mă uit în spate, când fac cu mașina mers înapoi, mă doare un pic."
+    },
+    {
+      "start": 105.84,
+      "end": 108.12,
+      "speaker": "SPEAKER_00",
+      "text": "Deci rotația capului vă produce durere?"
+    },
+    {
+      "start": 108.24,
+      "end": 113.56,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mai ales spre stânga când întorc capul, zice că prinde ceva pe dreapta."
+    },
+    {
+      "start": 113.68,
+      "end": 116.72,
+      "speaker": "SPEAKER_00",
+      "text": "Și noaptea, vă deranjează? Dormiți pe care parte?"
+    },
+    {
+      "start": 116.84,
+      "end": 125.58,
+      "speaker": "SPEAKER_01",
+      "text": "Mă culc pe dreapta de obicei și mă trezesc uneori din cauza asta. Mă enervează că nu pot să stau cum vreau eu."
+    },
+    {
+      "start": 125.7,
+      "end": 128.36,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles, deci durerea interferează și cu somnul."
+    },
+    {
+      "start": 128.48,
+      "end": 129.28,
+      "speaker": "SPEAKER_01",
+      "text": "Da, câteodată."
+    },
+    {
+      "start": 129.4,
+      "end": 139.28,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare cel mai tare posibil, pe unde v-ați situa acum?"
+    },
+    {
+      "start": 139.4,
+      "end": 148.52,
+      "speaker": "SPEAKER_01",
+      "text": "Acum nu e chiar rău, acum poate un 4. Dar când mă mișc sau fac ce-am zis cu mașina, crește, poate un 7."
+    },
+    {
+      "start": 148.64,
+      "end": 151.3,
+      "speaker": "SPEAKER_00",
+      "text": "Deci în repaus 4, la mișcare 7."
+    },
+    {
+      "start": 151.42,
+      "end": 152.56,
+      "speaker": "SPEAKER_01",
+      "text": "Cam așa, da."
+    },
+    {
+      "start": 152.68,
+      "end": 157.24,
+      "speaker": "SPEAKER_00",
+      "text": "Și brațul drept în rest funcționează bine, puteți ridica mâna în sus?"
+    },
+    {
+      "start": 157.36,
+      "end": 166.48,
+      "speaker": "SPEAKER_01",
+      "text": "Păi ridic, dar la un moment dat mă prinde ceva pe la mijloc, nu ajung chiar sus-sus, mai am un pic și gata."
+    },
+    {
+      "start": 166.6,
+      "end": 169.26,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeli sau furnicături pe braț sau mână?"
+    },
+    {
+      "start": 169.38,
+      "end": 178.88,
+      "speaker": "SPEAKER_01",
+      "text": "Da! Asta am uitat să zic. Mai simt câteodată, pe degetele astea, pe ultimele două, parcă amorțesc puțin. Nu tot timpul, din când în când."
+    },
+    {
+      "start": 179.0,
+      "end": 182.42,
+      "speaker": "SPEAKER_00",
+      "text": "Pe degetele inelare și mic de la mâna dreaptă?"
+    },
+    {
+      "start": 182.54,
+      "end": 184.06,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact pe acelea."
+    },
+    {
+      "start": 184.18,
+      "end": 187.98,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Alte afecțiuni aveți? Tensiune, diabet, tiroidă, ceva de genul?"
+    },
+    {
+      "start": 188.1,
+      "end": 194.94,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiunea nu am, diabetul nu. Tiroida da, am hipotiroidism, iau medicamente pentru asta deja de vreo doi ani."
+    },
+    {
+      "start": 195.06,
+      "end": 197.34,
+      "speaker": "SPEAKER_00",
+      "text": "Hipotiroidism. Ce medicament luați pentru tiroidă?"
+    },
+    {
+      "start": 197.46,
+      "end": 203.16,
+      "speaker": "SPEAKER_01",
+      "text": "Euthyrox, mi-a dat medicul de familie. 50 de micrograme, o pastilă pe zi dimineața."
+    },
+    {
+      "start": 203.28,
+      "end": 207.46,
+      "speaker": "SPEAKER_00",
+      "text": "Euthyrox 50 micrograme. Altceva mai luați? Vreun antiinflamator, ceva pentru durere?"
+    },
+    {
+      "start": 207.58,
+      "end": 215.56,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori mai iau câte un Paracetamol când e mai rău, dar nu constant. Dacă nu suport îl iau, dacă nu, nu."
+    },
+    {
+      "start": 215.68,
+      "end": 217.58,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Intervenții chirurgicale anterioare, operații?"
+    },
+    {
+      "start": 217.7,
+      "end": 221.88,
+      "speaker": "SPEAKER_01",
+      "text": "Am făcut o apendicită când eram mică, dar asta e tot."
+    },
+    {
+      "start": 222.0,
+      "end": 223.14,
+      "speaker": "SPEAKER_00",
+      "text": "Traumatisme, accidente, fracturi?"
+    },
+    {
+      "start": 223.26,
+      "end": 224.78,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic din astea."
+    },
+    {
+      "start": 224.9,
+      "end": 226.8,
+      "speaker": "SPEAKER_00",
+      "text": "Alergii la medicamente sau creme?"
+    },
+    {
+      "start": 226.92,
+      "end": 230.72,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu de alergii, nu am descoperit nimic până acum."
+    },
+    {
+      "start": 230.84,
+      "end": 236.92,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Doamnă Ionescu, haideți să vă văd puțin cum stați. Ridicați-vă, vă rog, în picioare."
+    },
+    {
+      "start": 237.04,
+      "end": 237.84,
+      "speaker": "SPEAKER_01",
+      "text": "Gata."
+    },
+    {
+      "start": 237.96,
+      "end": 248.22,
+      "speaker": "SPEAKER_00",
+      "text": "Văd că umărul drept e un pic mai căzut față de cel stâng și capul e ușor împins în față. Stați mult cu gâtul aplecat spre ecran?"
+    },
+    {
+      "start": 248.34,
+      "end": 251.76,
+      "speaker": "SPEAKER_01",
+      "text": "Probabil da, nu mă gândesc la asta când lucrez."
+    },
+    {
+      "start": 251.88,
+      "end": 256.82,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți, întoarceți ușor capul spre dreapta... și spre stânga. Cât mergeți în stânga?"
+    },
+    {
+      "start": 256.94,
+      "end": 261.12,
+      "speaker": "SPEAKER_01",
+      "text": "Cam până pe la umărul ăsta. Nu prea merge mai departe."
+    },
+    {
+      "start": 261.24,
+      "end": 265.8,
+      "speaker": "SPEAKER_00",
+      "text": "Simțiți că vă trage ceva pe partea dreaptă când întoarceți spre stânga?"
+    },
+    {
+      "start": 265.92,
+      "end": 267.82,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact, trage pe dreapta."
+    },
+    {
+      "start": 267.94,
+      "end": 273.26,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum ridicați brațul drept în față, ușor, spuneți-mi când începe să doară."
+    },
+    {
+      "start": 273.38,
+      "end": 279.08,
+      "speaker": "SPEAKER_01",
+      "text": "Eh, până pe la... pe la înălțimea asta, mai sus de umăr o cam iau."
+    },
+    {
+      "start": 279.2,
+      "end": 284.52,
+      "speaker": "SPEAKER_00",
+      "text": "Deci undeva în jur de 90 de grade flexie și crește durerea. Rotația internă?"
+    },
+    {
+      "start": 284.64,
+      "end": 288.82,
+      "speaker": "SPEAKER_01",
+      "text": "Aia e și mai grea, că nu pot să fac bine."
+    },
+    {
+      "start": 288.94,
+      "end": 297.68,
+      "speaker": "SPEAKER_00",
+      "text": "Voi apăsa acum în zona de trapez și de mușchi scaleni, pe dreapta. Spuneți-mi dacă doare sau dacă se trimite pe braț."
+    },
+    {
+      "start": 297.8,
+      "end": 300.08,
+      "speaker": "SPEAKER_01",
+      "text": "Auuu, da, acolo e sensibil rău."
+    },
+    {
+      "start": 300.2,
+      "end": 302.48,
+      "speaker": "SPEAKER_00",
+      "text": "Se trimite pe braț când apăs?"
+    },
+    {
+      "start": 302.6,
+      "end": 306.4,
+      "speaker": "SPEAKER_01",
+      "text": "Parcă... parcă puțin, da, cam pe la cot în jos."
+    },
+    {
+      "start": 306.52,
+      "end": 310.7,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, notez. Apăs acum pe zona de coracoid, în față. Doare?"
+    },
+    {
+      "start": 310.82,
+      "end": 312.72,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și acolo e urât."
+    },
+    {
+      "start": 312.84,
+      "end": 314.36,
+      "speaker": "SPEAKER_00",
+      "text": "Pe zona rotatorilor, posterior?"
+    },
+    {
+      "start": 314.48,
+      "end": 317.52,
+      "speaker": "SPEAKER_01",
+      "text": "Hmm, mai puțin, nu la fel de tare."
+    },
+    {
+      "start": 317.64,
+      "end": 351.84,
+      "speaker": "SPEAKER_00",
+      "text": "Doamnă Ionescu, ce pot să vă spun acum este că avem o contractură musculară semnificativă pe zona cervicală inferioară și la nivelul umărului drept, cu implicarea mușchilor trapez, scaleni și probabil și a bicepsului. Mobilitatea cervicală e redusă spre stânga și mobilitatea umărului drept e limitată la flexie și rotație internă. Există și o iritație la nivel C7-T1 care ar putea explica amorțelile pe care le simțiți pe degetele mici. Va trebui să reducim mai întâi contractura și inflamația locală și să lucrăm la postura dumneavoastră de la birou."
+    },
+    {
+      "start": 351.96,
+      "end": 355.38,
+      "speaker": "SPEAKER_01",
+      "text": "Deci e ceva mai serios? Trebuie să fac radiografie?"
+    },
+    {
+      "start": 355.5,
+      "end": 368.8,
+      "speaker": "SPEAKER_00",
+      "text": "Nu e o urgență, dar dacă simptomele nu cedează după trei-patru ședințe, ar fi util să facem un RMN pe zona cervicală ca să vedem mai clar situația. Deocamdată haideți să trecem la treabă."
+    },
+    {
+      "start": 368.92,
+      "end": 369.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, înțeles."
+    }
+  ]
+}

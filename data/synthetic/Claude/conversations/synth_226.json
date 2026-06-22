@@ -1,0 +1,169 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 3.2,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, am programare, Mihai Drăghici."
+    },
+    {
+      "start": 3.32,
+      "end": 7.12,
+      "speaker": "SPEAKER_00",
+      "text": "Da, domnul Drăghici, poftiți. Cu ce problemă ne vedem azi?"
+    },
+    {
+      "start": 7.24,
+      "end": 33.08,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare umărul, cel stâng, și de vreo trei săptămâni nu mai pot să ridic mâna sus. Adică încerc și simt că mă taie acolo, nu știu cum să explic. Am zis că trece singur, că m-am mai lovit și altă dată și a trecut, dar acum nu mai trece și m-a trimis și nevastă-mea să vin, că zice că mă tot văită noaptea."
+    },
+    {
+      "start": 33.2,
+      "end": 36.24,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și de când exact, spuneați trei săptămâni?"
+    },
+    {
+      "start": 36.36,
+      "end": 52.7,
+      "speaker": "SPEAKER_01",
+      "text": "Da, vreo trei săptămâni, poate puțin mai mult. A început după ce am mutat niște mobilă, am cărăt cutii grele pe scări și a doua zi dimineața m-am trezit și nu mai puteam. Sincer, nici nu știu exact cum s-a întâmplat."
+    },
+    {
+      "start": 52.82,
+      "end": 61.56,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare insuportabil, cât de tare e durerea?"
+    },
+    {
+      "start": 61.68,
+      "end": 75.36,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, așa în repaus, poate un 4. Dar dacă încerc să ridic mâna sau să mă îmbrac, ajunge ușor la 7, poate chiar 8. Dimineața e cel mai rău, după aia se mai dezmorțește un pic."
+    },
+    {
+      "start": 75.48,
+      "end": 80.04,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea rămâne în umăr sau se lasă și pe braț în jos?"
+    },
+    {
+      "start": 80.16,
+      "end": 89.66,
+      "speaker": "SPEAKER_01",
+      "text": "Se lasă un pic pe braț, pe aici, pe partea de sus, da, dar nu mai jos de cot. Cotul e bine, mâna e bine."
+    },
+    {
+      "start": 89.78,
+      "end": 91.3,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeli, furnicături în mână?"
+    },
+    {
+      "start": 91.42,
+      "end": 95.22,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, nimic din astea. Doar durerea aia când mișc."
+    },
+    {
+      "start": 95.34,
+      "end": 100.28,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai pățit ceva la umărul ăsta în trecut, vreo luxație, vreo lovitură?"
+    },
+    {
+      "start": 100.4,
+      "end": 110.28,
+      "speaker": "SPEAKER_01",
+      "text": "Nu la umăr, nu. Am avut o dată, acum vreo zece ani, ceva la genunchi, dar aia a trecut. La umăr nu am pățit nimic serios."
+    },
+    {
+      "start": 110.4,
+      "end": 112.3,
+      "speaker": "SPEAKER_00",
+      "text": "Alte afecțiuni, tensiune, diabet, osteoporoză?"
+    },
+    {
+      "start": 112.42,
+      "end": 121.92,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic, sunt relativ sănătos. Adică mai am și eu ale mele, stres la serviciu, stau mult la birou, dar boli așa serioase nu am."
+    },
+    {
+      "start": 122.04,
+      "end": 123.56,
+      "speaker": "SPEAKER_00",
+      "text": "Medicamente luați în prezent?"
+    },
+    {
+      "start": 123.68,
+      "end": 134.7,
+      "speaker": "SPEAKER_01",
+      "text": "Ei, am luat un Voltaren gel câteva zile, că am văzut că are nevastă-mea prin casă, dar nu știu dacă a ajutat cu ceva sau nu. Altceva nu."
+    },
+    {
+      "start": 134.82,
+      "end": 137.86,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Ridicați mâna pentru mine, încet, cât puteți."
+    },
+    {
+      "start": 137.98,
+      "end": 141.4,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe aici, cam atât, după aia mă doare."
+    },
+    {
+      "start": 141.52,
+      "end": 144.18,
+      "speaker": "SPEAKER_00",
+      "text": "Stai puțin așa. Doare acum când apăs?"
+    },
+    {
+      "start": 144.3,
+      "end": 145.44,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo, exact."
+    },
+    {
+      "start": 145.56,
+      "end": 147.84,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă rotim ușor în afară?"
+    },
+    {
+      "start": 147.96,
+      "end": 151.76,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, asta e cel mai rău, parcă mă arde."
+    },
+    {
+      "start": 151.88,
+      "end": 168.6,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ce pot să vă spun este că avem o inflamație la nivelul tendonului supraspinatus, probabil și a bursei subacromiale. Asta explică de ce doare mai ales la ridicare și la rotație externă. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."
+    },
+    {
+      "start": 168.72,
+      "end": 175.56,
+      "speaker": "SPEAKER_01",
+      "text": "Și o să pot să ridic mâna normal? Că mă deranjează îngrozitor, nu pot nici să conduc normal."
+    },
+    {
+      "start": 175.68,
+      "end": 180.62,
+      "speaker": "SPEAKER_00",
+      "text": "Da, cu câteva ședințe ar trebui să se amelioreze semnificativ. Haideți să începem."
+    }
+  ]
+}

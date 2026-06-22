@@ -1,0 +1,19 @@
+{
+  "motivul_prezentarii": "Durere cervicala, ceafa si umar drept, cu iradiere pe brat drept si amorteala in degete, aparuta progresiv in context de postura la birou",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": "brat drept pana la cot, amorteala degete mana drepte",
+  "antecedente": [
+    "scolioza_cifoza"
+  ],
+  "antecedente_altele": "operatie menisc genunchi stang acum zece ani",
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic: contractura musculara trapez si muschi suboccipitali; tensiune musculatura umar drept; posibila iritatie coloana cervicala (explica amorteala brat/degete); scolioza toracala contributiva.\nObiective terapeutice: reducerea contracturii musculare; recuperarea mobilitatii cervicale; ameliorarea durerii; lucru pe postura generala.\nRecomandare: RMN cervical."
+}

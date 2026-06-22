@@ -1,0 +1,26 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Radu Ionescu.\nSPEAKER_00: Și vârsta, dacă se poate?\nSPEAKER_01: 34.\nSPEAKER_00: Cu ce problemă ne vedem astăzi, domnule Ionescu?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. S-a întâmplat ceva, un efort, o mișcare bruscă?\nSPEAKER_01: Nu știu, cred că de la birou.\nSPEAKER_00: Stați mult la calculator?\nSPEAKER_01: Da.\nSPEAKER_00: Câte ore pe zi, aproximativ?\nSPEAKER_01: Vreo opt, nouă.\nSPEAKER_00: Înțeles. Doare doar în gât sau se lasă și în umăr, în braț?\nSPEAKER_01: Și în umăr, pe partea dreaptă.\nSPEAKER_00: Umărul drept. Și brațul, mai jos de umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Doare și când întoarceți capul?\nSPEAKER_01: Da, mai ales la dreapta.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare doare acum?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Și când întoarceți capul la dreapta?\nSPEAKER_01: Poate un 7.\nSPEAKER_00: Înțeles. Durerea e mai rea dimineața sau pe parcursul zilei?\nSPEAKER_01: Dimineața.\nSPEAKER_00: Dimineața, când vă ridicați. Ați mai avut ceva similar înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, epilepsie, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Rămâneți drept, vă rog, faceți o rotație ușoară spre dreapta.\nSPEAKER_01: Doare aici.\nSPEAKER_00: Da, se blochează mișcarea. Acum spre stânga.\nSPEAKER_01: Merge mai bine.\nSPEAKER_00: Merge mai bine, da. O să apăs puțin pe zona cervicală, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Doare la C5, C6. Și aici pe trapez, pe dreapta?\nSPEAKER_01: Da, mult.\nSPEAKER_00: Înțeles. Pe umărul stâng la fel?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin pe stânga. Bun. Deci avem o contractură musculară la nivel cervical cu iradiere în umărul drept, cel mai probabil de la postura la birou. Vom lucra să reducem contractura și să refacem mobilitatea cervicală. Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicala si umar drept, aparuta dupa activitate prelungita la birou",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: - Contractura musculara cervicala; - iradiere umar drept; - blocaj rotatie cervicala dreapta; - sensibilitate C5-C6 si trapez drept;\nObiective terapeutice: - reducerea contracturii; - refacerea mobilitatii cervicale"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "cred că de la birou", "Și în umăr, pe partea dreaptă."],
+    "evaluarea_durerii_vas": ["Un 5.", "Poate un 7."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și în umăr, pe partea dreaptă."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["se blochează mișcarea", "Doare la C5, C6", "Pe trapez, pe dreapta", "avem o contractură musculară la nivel cervical cu iradiere în umărul drept", "Vom lucra să reducem contractura și să refacem mobilitatea cervicală"]
+  }
+}

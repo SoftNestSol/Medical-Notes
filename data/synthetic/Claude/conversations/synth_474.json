@@ -1,0 +1,313 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună."
+    },
+    {
+      "start": 1.84,
+      "end": 4.12,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă veniți la noi?"
+    },
+    {
+      "start": 4.24,
+      "end": 5.38,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare ceafa."
+    },
+    {
+      "start": 5.5,
+      "end": 6.64,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp?"
+    },
+    {
+      "start": 6.76,
+      "end": 7.9,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo două săptămâni."
+    },
+    {
+      "start": 8.02,
+      "end": 11.82,
+      "speaker": "SPEAKER_00",
+      "text": "Două săptămâni. Și a apărut brusc sau a venit treptat?"
+    },
+    {
+      "start": 11.94,
+      "end": 12.74,
+      "speaker": "SPEAKER_01",
+      "text": "Treptat, parcă."
+    },
+    {
+      "start": 12.86,
+      "end": 17.8,
+      "speaker": "SPEAKER_00",
+      "text": "Ați făcut ceva anume înainte să apară? Stat mult la calculator, condus, ceva?"
+    },
+    {
+      "start": 17.92,
+      "end": 19.82,
+      "speaker": "SPEAKER_01",
+      "text": "Stau mult la birou, da."
+    },
+    {
+      "start": 19.94,
+      "end": 22.6,
+      "speaker": "SPEAKER_00",
+      "text": "La birou. Câte ore pe zi aproximativ?"
+    },
+    {
+      "start": 22.72,
+      "end": 24.24,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo opt, nouă ore."
+    },
+    {
+      "start": 24.36,
+      "end": 30.06,
+      "speaker": "SPEAKER_00",
+      "text": "Opt, nouă ore. Și durerea rămâne în ceafă sau se lasă și în altă parte?"
+    },
+    {
+      "start": 30.18,
+      "end": 32.46,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori ajunge și în cap, sus."
+    },
+    {
+      "start": 32.58,
+      "end": 36.76,
+      "speaker": "SPEAKER_00",
+      "text": "Sus în cap, deci. Mai mult în spate sau în frunte?"
+    },
+    {
+      "start": 36.88,
+      "end": 39.92,
+      "speaker": "SPEAKER_01",
+      "text": "În spate, occipital, nu știu cum se cheamă."
+    },
+    {
+      "start": 40.04,
+      "end": 48.4,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați?"
+    },
+    {
+      "start": 48.52,
+      "end": 49.32,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 5."
+    },
+    {
+      "start": 49.44,
+      "end": 52.86,
+      "speaker": "SPEAKER_00",
+      "text": "5. E mai rău dimineața sau pe parcursul zilei?"
+    },
+    {
+      "start": 52.98,
+      "end": 55.64,
+      "speaker": "SPEAKER_01",
+      "text": "Pe parcursul zilei, după ore de stat."
+    },
+    {
+      "start": 55.76,
+      "end": 58.8,
+      "speaker": "SPEAKER_00",
+      "text": "Deci se agravează cu cât stați mai mult."
+    },
+    {
+      "start": 58.92,
+      "end": 59.72,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 59.84,
+      "end": 62.88,
+      "speaker": "SPEAKER_00",
+      "text": "Când vă ridicați, vă mișcați, se mai ameliorează?"
+    },
+    {
+      "start": 63.0,
+      "end": 64.14,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic, da."
+    },
+    {
+      "start": 64.26,
+      "end": 65.06,
+      "speaker": "SPEAKER_00",
+      "text": "Alergii avem?"
+    },
+    {
+      "start": 65.18,
+      "end": 65.98,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 66.1,
+      "end": 68.38,
+      "speaker": "SPEAKER_00",
+      "text": "Tensiune, diabet, vreo afecțiune mai veche?"
+    },
+    {
+      "start": 68.5,
+      "end": 69.3,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 69.42,
+      "end": 71.32,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament în prezent?"
+    },
+    {
+      "start": 71.44,
+      "end": 72.24,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 72.36,
+      "end": 75.4,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai avut episoade de genul ăsta înainte?"
+    },
+    {
+      "start": 75.52,
+      "end": 76.66,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, prima oară."
+    },
+    {
+      "start": 76.78,
+      "end": 80.2,
+      "speaker": "SPEAKER_00",
+      "text": "Prima oară. Ați mai făcut vreodată terapie manuală, chiropractică?"
+    },
+    {
+      "start": 80.32,
+      "end": 81.12,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 81.24,
+      "end": 86.94,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți să vă uit la postură puțin. Stați drept, cu mâinile pe lângă corp."
+    },
+    {
+      "start": 87.06,
+      "end": 87.86,
+      "speaker": "SPEAKER_01",
+      "text": "Așa?"
+    },
+    {
+      "start": 87.98,
+      "end": 99.0,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Văd că aveți capul dus un pic în față față de umeri, ceea ce pune presiune pe zona cervicală inferioară. Acum întoarceți ușor capul spre dreapta, cât puteți."
+    },
+    {
+      "start": 99.12,
+      "end": 99.92,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici."
+    },
+    {
+      "start": 100.04,
+      "end": 102.7,
+      "speaker": "SPEAKER_00",
+      "text": "E vreo durere sau e doar limitare?"
+    },
+    {
+      "start": 102.82,
+      "end": 103.96,
+      "speaker": "SPEAKER_01",
+      "text": "Doare un pic."
+    },
+    {
+      "start": 104.08,
+      "end": 105.6,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Spre stânga acum."
+    },
+    {
+      "start": 105.72,
+      "end": 107.24,
+      "speaker": "SPEAKER_01",
+      "text": "Stânga merge mai bine."
+    },
+    {
+      "start": 107.36,
+      "end": 111.54,
+      "speaker": "SPEAKER_00",
+      "text": "Merge mai bine pe stânga. Dați capul pe spate acum, ușor."
+    },
+    {
+      "start": 111.66,
+      "end": 113.18,
+      "speaker": "SPEAKER_01",
+      "text": "Ăsta doare mai tare."
+    },
+    {
+      "start": 113.3,
+      "end": 119.76,
+      "speaker": "SPEAKER_00",
+      "text": "Extensia doare. Bun, am înțeles. Apăs acum pe musculatura de la baza craniului, îmi spuneți dacă doare."
+    },
+    {
+      "start": 119.88,
+      "end": 120.68,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo."
+    },
+    {
+      "start": 120.8,
+      "end": 124.6,
+      "speaker": "SPEAKER_00",
+      "text": "Exact în zona suboccipitală. Pe dreapta sau pe ambele părți?"
+    },
+    {
+      "start": 124.72,
+      "end": 126.62,
+      "speaker": "SPEAKER_01",
+      "text": "Ambele, dar mai tare dreapta."
+    },
+    {
+      "start": 126.74,
+      "end": 149.16,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Deci ce vedem noi aici este o tensionare a musculaturii cervicale superioare și a suboccipitalilor, cel mai probabil din cauza posturii prelungite la birou. Capul dus în față creează o suprasolicitare continuă pe acești mușchi și pe articulațiile cervicale. Obiectivul nostru va fi să relaxăm musculatura, să redăm mobilitatea cervicală și să vă învățăm câteva exerciții posturale."
+    },
+    {
+      "start": 149.28,
+      "end": 150.08,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 150.2,
+      "end": 154.0,
+      "speaker": "SPEAKER_00",
+      "text": "Întindeți-vă pe masă, cu fața în sus, vă rog."
+    }
+  ]
+}

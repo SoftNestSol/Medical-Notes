@@ -1,0 +1,24 @@
+{
+  "motivul_prezentarii": "Durere umăr drept apărută după efort fizic (mutare mobilă grea), cu limitarea mobilității la ridicarea și rotația brațului, prezentă de aproximativ 3-4 săptămâni.",
+  "evaluarea_durerii_vas": [
+    7,
+    3
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "biceps (braț drept, deasupra cotului)",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren",
+      "doza": null
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare clară a abducției umărului drept (durere la aproximativ 90 de grade), rotație internă limitată (nu ajunge la fermoar). Durere la palpare subacromial și anterior. Slăbiciune la testul rotatorilor. Diagnostic: sindrom de impingement subacromial, inflamație tendon supraspinatus și bursă subacromială. Obiective terapeutice: reducerea inflamației, recuperarea mobilității umărului, reantrenarea musculaturii rotatoare."
+}

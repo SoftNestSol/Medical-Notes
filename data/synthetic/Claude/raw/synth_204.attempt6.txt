@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Aha. Și de atunci a apărut durerea?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde o situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Doar când ridic mâna.\nSPEAKER_00: Când ridicați brațul sus, da?\nSPEAKER_01: Da.\nSPEAKER_00: Se lasă durerea și pe braț, pe gât, undeva?\nSPEAKER_01: Nu.\nSPEAKER_00: Rămâne strict în umăr.\nSPEAKER_01: Da, pe aici.\nSPEAKER_00: Amorțeală în degete, în mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați brațul pentru mine acum, cât puteți. Doare?\nSPEAKER_01: Da, cam de aici.\nSPEAKER_00: De la 90 de grade în sus doare. Ok. Și dacă rotesc eu mâna înăuntru, simțiți ceva?\nSPEAKER_01: Puțin, da.\nSPEAKER_00: Puțin. Apăs acum pe zona asta de sub acromial. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Înțeleg. Pare a fi o inflamație la nivelul tendonului supraspinat, deci un sindrom de impingement. Vom lucra să reducem inflamația și să redăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, cancer, epilepsie?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nurofen, câteodată.\nSPEAKER_00: Nurofen. Cât de des?\nSPEAKER_01: Când nu mai suport.\nSPEAKER_00: Doza?\nSPEAKER_01: Nu știu, cel normal.\nSPEAKER_00: Ok. Alergii la unguente, creme?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere la nivelul umărului stâng, apărută în urmă cu două săptămâni după mutare de mobilă. Durere la ridicarea brațului deasupra nivelului de 90 de grade, fără iradiere, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- Sindrom de impingement subacromial stâng; inflamație tendon supraspinatos.\nObiective terapeutice:\n- Reducerea procesului inflamator; refacerea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Am mutat niște mobilă.", "Doar când ridic mâna.", "Nu.", "Da, pe aici."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Stângul.", "Da, pe aici."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nurofen, câteodată."],
+    "evaluare_functionala_initiala": ["De la 90 de grade în sus doare.", "Apăs acum pe zona asta de sub acromial. Doare?", "Pare a fi o inflamație la nivelul tendonului supraspinat, deci un sindrom de impingement. Vom lucra să reducem inflamația și să redăm mobilitatea umărului."]
+  }
+}

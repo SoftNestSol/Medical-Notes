@@ -1,0 +1,50 @@
+{
+  "conversation_id": "synth_195",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare genunchiul, cel drept, de vreo trei săptămâni deja",
+      "am pus niște plăci, am stat câteva ore... Nu știu dacă asta a cauzat-o, dar cam de atunci a început",
+      "Mai mult la mișcare, da. La urcat scări, la stat în genunchi"
+    ],
+    "evaluarea_durerii_vas": [
+      "undeva la un 5, poate 6 când merg pe scări"
+    ],
+    "localizarea_durerii": [
+      "Pe partea asta, laterală, pe exterior. Aici, cam pe aici"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt că trage și puțin spre coapsă, în sus"
+    ],
+    "antecedente": [
+      "Tensiune am, da."
+    ],
+    "antecedente_altele": [
+      "am avut și un episod cu coloana acum vreo patru ani, lombar, dar a trecut",
+      "o entorsă la gleznă acum vreo zece ani, dar la gleznă stângă"
+    ],
+    "medicatie_actuala": [
+      "Iau Enalapril de vreo doi ani, 10 miligrame pe zi",
+      "Uneori iau un Ibuprofen când mă doare tare, dar nu regulat"
+    ],
+    "evaluare_functionala_initiala": [
+      "văd că aveți o ușoară rotație externă a piciorului drept",
+      "la palparea benzii ilio-tibiale avem sensibilitate",
+      "Cel mai probabil e un sindrom de bandă ilio-tibială, apărut după efortul respectiv pe terasă",
+      "O să lucrăm să reducem inflamația și să relaxăm fascia"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22783,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 2238,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "conversation_id": "synth_360",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel drept, de mai mult timp",
+      "De vreo trei luni, cred",
+      "am mutat niște cutii mai grele la muncă și cam pe atunci a început",
+      "Se lasă și pe braț, până cam pe la cot, pe partea din față",
+      "Noaptea ajunge la un 8",
+      "doare dacă ridic, mai ales când duc mâna în spate"
+    ],
+    "evaluarea_durerii_vas": [
+      "Noaptea ajunge la un 8, aș zice",
+      "Ziua, când nu fac nimic special, e pe la 4, poate 5"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel drept",
+      "Se lasă și pe braț, până cam pe la cot, pe partea din față"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Am tensiune mare de vreo doi ani",
+      "Am osteoporoză, mi-a spus medicul de familie acum vreun an, după o densitometrie"
+    ],
+    "antecedente_altele": [
+      "am colesterol un pic mărit, dar nu iau nimic special pentru el"
+    ],
+    "medicatie_actuala": [
+      "iau Voltaren, gel, pe umăr",
+      "iau și Algocalmin, câte un comprimat",
+      "iau Perindopril, 5 miligrame, în fiecare dimineață"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o limitare destul de clară a mișcării la abducție și rotație internă, și există sensibilitate la nivelul tendoanelor din zona supraspinatus",
+      "mă gândesc la o inflamație la nivelul coafei rotatorilor, posibil și o mică bursită subacromială",
+      "obiectivul principal acum este să reducem inflamația și să recuperăm mobilitatea",
+      "Cu osteoporoza în vedere, vom evita tehnicile cu impact și vom fi atenți la presiunile pe care le aplicăm"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13861,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 3388,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

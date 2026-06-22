@@ -1,0 +1,49 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce vă pot ajuta?\nSPEAKER_01: Bună ziua, da, am o problemă cu umărul, cu umărul stâng, de câteva săptămâni mă tot chinuie și nu mai știu ce să fac cu el, sincer.\nSPEAKER_00: De câte săptămâni aproximativ?\nSPEAKER_01: Păi vreo trei săptămâni, poate patru, nu știu exact, a început ușor, ușor, la început credeam că trece singur, că am mai pățit și altădată, știți, dureri musculare după ce faci ceva mai mult și după câteva zile se duc, dar ăsta nu s-a dus.\nSPEAKER_00: Și ce ați făcut când a apărut, ați depus vreun efort mai mare?\nSPEAKER_01: Păi da, am mutat niște mobilă, am fost cu un prieten, am cărat cutii grele, vreo câteva ore bune, și a doua zi m-am trezit că nu mai pot să ridic mâna stângă sus, adică dacă încerc să ridic brațul, când ajunge pe la nivelul ăsta, pe la orizontală, mă ia durerea, după care dacă forțez mai sus e și mai rău.\nSPEAKER_00: Deci la ridicarea brațului lateral doare, da?\nSPEAKER_01: Da, mai ales lateral, în față mai merge un pic, dar lateral e cel mai rău. Și mai e ceva, dacă dorm pe partea stângă noaptea, mă trezesc din durere, nu pot să dorm pe el deloc.\nSPEAKER_00: Pe o scară de la zero la zece, cum ați aprecia durerea?\nSPEAKER_01: Când mișc mâna, ridic brațul, aș zice șapte, șapte sigur. Când stau liniștit nu e chiar așa, poate un trei, patru, dar dacă mă mișc mai brusc sau uit și mă întind după ceva, iar șapte, opt chiar.\nSPEAKER_00: Înțeles. Și durerea e la nivelul umărului sau coboară pe braț, pe antebraț?\nSPEAKER_01: E mai mult la umăr, pe aici, în vârful umărului și un pic pe braț în jos, dar nu departe, nu ajunge la cot sau ceva.\nSPEAKER_00: Amorțeli în mână sau degete?\nSPEAKER_01: Nu, nu, amorțeli nu am. Adică uneori când dorm strâmb mai amorțește, dar asta e normal, nu?\nSPEAKER_00: Da, altceva în afară de umăr, mai aveți dureri undeva?\nSPEAKER_01: Nu, restul e bine. Adică spatele îl simt câteodată, dar nu e nimic special, e de la stat la birou, dar nu m-a deranjat niciodată suficient să fac ceva pentru el.\nSPEAKER_00: Bun. Ați luat ceva pentru durere?\nSPEAKER_01: Am luat Nurofen câteva zile la început, că nu mai puteam, și am dat și cu un gel antiinflamator, am avut acasă un Diclofenac gel, am tot dat cu el, dar nu a dispărut, m-a mai calmat un pic.\nSPEAKER_00: Înțeles. Alte afecțiuni, tensiune, diabet, probleme la inimă?\nSPEAKER_01: Nu, nu am nimic, sunt sănătos, am 35 de ani, nu am nicio boală, slavă Domnului.\nSPEAKER_00: Bine. Haideți să facem câteva teste rapide. Ridicați brațul stâng lateral, încet, spuneți-mi unde apare durerea.\nSPEAKER_01: Acum? Uite, pe aici, pe la jumătate cam așa, cam pe la orizontală, uite că doare.\nSPEAKER_00: Și dacă continui mai sus?\nSPEAKER_01: Mai sus e și mai rău, da, dar dacă trece cu totul de cap, e un pic mai bine, ciudat.\nSPEAKER_00: Asta e un arc dureros specific, caracteristic pentru tendoanele rotatorilor. Stați puțin cu brațul aici, apăs eu ușor pe umăr, spuneți-mi dacă e sensibil.\nSPEAKER_01: Da, da, acolo doare, exact acolo.\nSPEAKER_00: Bun. Deci avem o inflamație la nivelul manșonului rotatorilor, cel mai probabil tendinita supraspinosului. Trebuie să reducem inflamația în prima fază, după care lucrăm mobilitatea și stabilitatea umărului.\nSPEAKER_01: Și e ceva grav? Că mă tot tem că poate e ceva rupt înăuntru, am citit pe internet și acolo scrie tot felul de lucruri și m-am speriat.\nSPEAKER_00: Semnele clinice nu sugerează o ruptură completă, mișcarea e prezentă, nu aveți slăbiciune marcată. Fără un RMN nu putem fi sută la sută siguri, dar tabloul e consistent cu o tendinită.\nSPEAKER_01: Adică nu trebuie operație? Că asta mă temeam, să nu ajung la operație.\nSPEAKER_00: Deocamdată nu e cazul, lucrăm conservator și vedem cum evoluează.",
+  "note": {
+    "motivul_prezentarii": "Pacient de 35 de ani cu durere la umărul stâng instalată în urmă cu aproximativ 3-4 săptămâni după efort fizic intens (căratul de cutii grele). Durere la ridicarea laterală a brațului, cu arc dureros la orizontală, accentuată noaptea la culcat pe partea afectată.",
+    "evaluarea_durerii_vas": [7, 3],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": "braț stâng proximal",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      },
+      {
+        "denumire": "Diclofenac gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- Tendinită manșon rotatori stâng, cel mai probabil supraspinat (arc dureros la abducție laterală, sensibilitate la palpare locală)\nObiective terapeutice:\n- Reducerea procesului inflamator\n- Refacerea mobilității și stabilității umărului stâng"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o problemă cu umărul, cu umărul stâng, de câteva săptămâni mă tot chinuie",
+      "am mutat niște mobilă, am fost cu un prieten, am cărat cutii grele, vreo câteva ore bune, și a doua zi m-am trezit că nu mai pot să ridic mâna stângă sus",
+      "dacă dorm pe partea stângă noaptea, mă trezesc din durere"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când mișc mâna, ridic brațul, aș zice șapte, șapte sigur",
+      "Când stau liniștit nu e chiar așa, poate un trei, patru"
+    ],
+    "localizarea_durerii": [
+      "E mai mult la umăr, pe aici, în vârful umărului"
+    ],
+    "localizarea_durerii_alta": [
+      "un pic pe braț în jos, dar nu departe, nu ajunge la cot sau ceva"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat Nurofen câteva zile la început",
+      "am dat și cu un gel antiinflamator, am avut acasă un Diclofenac gel"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul manșonului rotatorilor, cel mai probabil tendinita supraspinosului",
+      "Trebuie să reducem inflamația în prima fază, după care lucrăm mobilitatea și stabilitatea umărului"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "conversation_id": "synth_181",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Am mutat niște mobilă.",
+      "Vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "E mai mult aici, în umăr."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Am tensiunea un pic ridicată."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Prestarium.",
+      "Nu știu exact. 5, parcă."
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o inflamație la nivelul tendonului de supraspinat. Se numește tendinită de supraspinat, posibil și un conflict subacomial.",
+      "O să lucrăm să reducem inflamația și să redăm mobilitatea completă a umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23026,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1677,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

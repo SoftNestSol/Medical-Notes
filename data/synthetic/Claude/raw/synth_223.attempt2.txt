@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă venim azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Cel drept.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și s-a întâmplat ceva, ați căzut, ați ridicat ceva?\nSPEAKER_01: Am zugrăvit. Vreo trei zile la rând.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau doar când mișcați?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Sus, deasupra capului?\nSPEAKER_01: Da.\nSPEAKER_00: Mai doare și noaptea, când stați pe el?\nSPEAKER_01: Uneori.\nSPEAKER_00: Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale la umăr, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să ridic eu ușor brațul. Spuneți-mi când începe să doară.\nSPEAKER_01: Acum. Aici.\nSPEAKER_00: Deci la aproximativ 80 de grade. Și dacă duc brațul în lateral?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Apăs puțin aici pe tendon. Doare?\nSPEAKER_01: Da, chiar acolo.\nSPEAKER_00: Și mai sus, pe mușchi, doare?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeles. Pare a fi o tendinită la nivelul coafei rotatorilor, cel mai probabil supraspinosul. De la efortul repetat cu mâna ridicată la zugrăvit. Va trebui să reducem inflamația în primă fază, după care lucrăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Evitați să ridicați greutăți cu brațul întins în perioada asta.\nSPEAKER_01: Da, bine.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinita coafa rotatori umar dr. (supraspinat)\nObiective terapeutice:\n- reducerea inflamatiei;\n- refacerea mobilitatii articulare"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Cel drept."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Cel drept."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Pare a fi o tendinită la nivelul coafei rotatorilor, cel mai probabil supraspinosul.", "Va trebui să reducem inflamația în primă fază, după care lucrăm mobilitatea."]
+  }
+}

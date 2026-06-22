@@ -1,0 +1,169 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 5.1,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua! Stați că îmi pun geanta jos, gata."
+    },
+    {
+      "start": 5.22,
+      "end": 7.12,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă vă vedem?"
+    },
+    {
+      "start": 7.24,
+      "end": 33.08,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare umărul drept de vreo trei săptămâni. Dar să știți că am mai avut și înainte, acum vreo doi ani, ceva similar, și a trecut singur. Acum nu trece. Și sincer, mă tem că e ceva mai grav, că am citit pe internet și am văzut că poate fi hernie de disc la gât care iradiază, și acum nu știu dacă e asta sau ce e."
+    },
+    {
+      "start": 33.2,
+      "end": 39.66,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și durerea e locală la umăr sau simțiți că se lasă și pe braț în jos?"
+    },
+    {
+      "start": 39.78,
+      "end": 46.62,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult la umăr, dar câteodată simt ceva și spre cot, dar nu știu, poate îmi imaginez eu."
+    },
+    {
+      "start": 46.74,
+      "end": 50.54,
+      "speaker": "SPEAKER_00",
+      "text": "Când doare mai tare, când ridicați mâna sau în repaus?"
+    },
+    {
+      "start": 50.66,
+      "end": 63.96,
+      "speaker": "SPEAKER_01",
+      "text": "Când ridic mâna sus, când încerc să pun ceva pe raft, de exemplu. Și noaptea, dacă mă întorc pe partea dreaptă, mă trezesc. De asta nu dorm bine de trei săptămâni, că mă tot trezesc."
+    },
+    {
+      "start": 64.08,
+      "end": 68.64,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cum ați pune durerea?"
+    },
+    {
+      "start": 68.76,
+      "end": 75.6,
+      "speaker": "SPEAKER_01",
+      "text": "Ziua când nu fac nimic, așa un 3. Dar când ridic mâna, 7 sigur. Noaptea tot cam 7."
+    },
+    {
+      "start": 75.72,
+      "end": 79.14,
+      "speaker": "SPEAKER_00",
+      "text": "Ați lovit umărul, ați căzut, ceva s-a întâmplat?"
+    },
+    {
+      "start": 79.26,
+      "end": 91.04,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Adică am zugrăvit în apartament cu vreo lună în urmă, am ținut mâna sus mult timp, și cred că de atunci. Dar n-am căzut, nu m-am lovit."
+    },
+    {
+      "start": 91.16,
+      "end": 93.44,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Alte afecțiuni, tensiune, diabet, ceva?"
+    },
+    {
+      "start": 93.56,
+      "end": 115.98,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Iau Enalapril, 10 miligrame, dimineața. Dar e controlată, nu e o problemă. Mai am și colesterol, dar pentru aia nu iau nimic momentan, că medicul a zis să încerc cu dieta mai întâi. Și am mai avut o operație la menisc acum mulți ani, la genunchiul stâng, dar nu mai am probleme acolo, a trecut complet."
+    },
+    {
+      "start": 116.1,
+      "end": 116.9,
+      "speaker": "SPEAKER_00",
+      "text": "Vârsta?"
+    },
+    {
+      "start": 117.02,
+      "end": 117.82,
+      "speaker": "SPEAKER_01",
+      "text": "52."
+    },
+    {
+      "start": 117.94,
+      "end": 120.98,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ridicați brațul drept pentru mine, cât puteți."
+    },
+    {
+      "start": 121.1,
+      "end": 123.76,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, mai sus mă doare."
+    },
+    {
+      "start": 123.88,
+      "end": 127.3,
+      "speaker": "SPEAKER_00",
+      "text": "Stați puțin așa. Apăs pe umăr, spuneți dacă doare."
+    },
+    {
+      "start": 127.42,
+      "end": 130.08,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo doare, pe partea din față."
+    },
+    {
+      "start": 130.2,
+      "end": 132.86,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă duc brațul așa, în spate?"
+    },
+    {
+      "start": 132.98,
+      "end": 134.5,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, și acolo."
+    },
+    {
+      "start": 134.62,
+      "end": 144.12,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Vedeți, e o inflamație la nivelul tendonului, cel mai probabil tendinită la manșeta rotatorilor. Nu e hernie de disc, nu iradiază clasic pe braț."
+    },
+    {
+      "start": 144.24,
+      "end": 151.46,
+      "speaker": "SPEAKER_01",
+      "text": "Sigur? Pentru că mă temeam tare de hernie. Am citit că dacă nu tratezi, rămâi cu brațul amețit permanent."
+    },
+    {
+      "start": 151.58,
+      "end": 157.66,
+      "speaker": "SPEAKER_00",
+      "text": "Nu avem semne de asta. O să lucrăm să reducem inflamația și să redobândiți mobilitatea completă."
+    },
+    {
+      "start": 157.78,
+      "end": 161.2,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, mă liniștit. Și cât timp credeți că durează?"
+    },
+    {
+      "start": 161.32,
+      "end": 166.26,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde, dar cu câteva ședințe ar trebui să simțiți diferența. Haideți pe masă."
+    }
+  ]
+}

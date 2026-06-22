@@ -1,0 +1,16 @@
+{
+  "motivul_prezentarii": "Durere cervicala si umar drept, aparuta dupa activitate prelungita la birou",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic: - Contractura musculara cervicala; - iradiere umar drept; - blocaj rotatie cervicala dreapta; - sensibilitate C5-C6 si trapez drept;\nObiective terapeutice: - reducerea contracturii; - refacerea mobilitatii cervicale"
+}

@@ -1,0 +1,205 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, doamna!"
+    },
+    {
+      "start": 1.26,
+      "end": 6.96,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua! Am așteptat puțin, dar n-are a face, eram oricum devreme."
+    },
+    {
+      "start": 7.08,
+      "end": 10.88,
+      "speaker": "SPEAKER_00",
+      "text": "Nicio problemă. Spuneți-mi, cu ce problemă ne vedem azi?"
+    },
+    {
+      "start": 11.0,
+      "end": 30.38,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, de unde să încep... mă doare umărul stâng, și nu de ieri de azi, adică e de vreo trei săptămâni deja, și la început am zis că trece, că poate am dormit prost, știți cum e, mai dormi prost și a doua zi te doare, dar nu a trecut, dimpotrivă."
+    },
+    {
+      "start": 30.5,
+      "end": 34.3,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și doare permanent sau numai când faceți ceva anume?"
+    },
+    {
+      "start": 34.42,
+      "end": 49.62,
+      "speaker": "SPEAKER_01",
+      "text": "Când ridic mâna, mai ales când o ridic în sus sau în lateral, atunci mă ia fix aici. Și noaptea mă trezesc uneori, că dacă mă întorc pe partea stângă... au, chiar și acum când m-am gândit la asta."
+    },
+    {
+      "start": 49.74,
+      "end": 59.62,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e cel mai rău, cât e durerea când ridicați mâna?"
+    },
+    {
+      "start": 59.74,
+      "end": 67.72,
+      "speaker": "SPEAKER_01",
+      "text": "Aaaa... un 7, zic eu. Când ridic mâna sus, da, un 7. Noaptea poate și mai mult, dar ziua un 7."
+    },
+    {
+      "start": 67.84,
+      "end": 70.12,
+      "speaker": "SPEAKER_00",
+      "text": "Și în repaus, când nu mișcați?"
+    },
+    {
+      "start": 70.24,
+      "end": 72.9,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, vreo 3, poate 4, depinde."
+    },
+    {
+      "start": 73.02,
+      "end": 76.44,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Ați lovit umărul, ați căzut, ceva de genul?"
+    },
+    {
+      "start": 76.56,
+      "end": 93.66,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am căzut, nimic din astea. Eu lucrez la o firmă, stau mult la birou, și am observat că după ce am mutat niște cutii, niște dosare grele, cam de atunci a început. Nu știu dacă e de la aia sau nu, nu știu."
+    },
+    {
+      "start": 93.78,
+      "end": 97.58,
+      "speaker": "SPEAKER_00",
+      "text": "Posibil. Și durerea rămâne în umăr sau coboară pe braț?"
+    },
+    {
+      "start": 97.7,
+      "end": 105.3,
+      "speaker": "SPEAKER_01",
+      "text": "Rămâne pe aici, mai sus, pe umăr și un pic pe braț în jos, dar nu până la cot, nu."
+    },
+    {
+      "start": 105.42,
+      "end": 106.94,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțește ceva, degetele, mâna?"
+    },
+    {
+      "start": 107.06,
+      "end": 123.02,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu amorțește. Mă gândeam eu că poate e ceva la coloana, că am citit pe internet și m-am speriat un pic, că zice că uneori durerea de umăr vine de la gât și... dar nu știu, voi știți mai bine."
+    },
+    {
+      "start": 123.14,
+      "end": 127.32,
+      "speaker": "SPEAKER_00",
+      "text": "Hai să vedem. Alte afecțiuni aveți, tensiune, diabet, ceva de genul?"
+    },
+    {
+      "start": 127.44,
+      "end": 142.64,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am tensiune, am de câțiva ani, iau pastile pentru ea. Iau Enalapril, 10 miligrame, în fiecare dimineață. Altceva nu, adică mai am colesterolul un pic mărit, dar nu iau nimic pentru asta, doctorul a zis să slăbesc mai întâi."
+    },
+    {
+      "start": 142.76,
+      "end": 143.9,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Operații, fracturi?"
+    },
+    {
+      "start": 144.02,
+      "end": 148.2,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată, slavă Domnului, n-am avut nimic rupt, nimic operat."
+    },
+    {
+      "start": 148.32,
+      "end": 153.64,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți, ridicați ușor mâna în față pentru mine, cât puteți... opriți când doare."
+    },
+    {
+      "start": 153.76,
+      "end": 157.18,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe aici pot, mai sus deja mă ia."
+    },
+    {
+      "start": 157.3,
+      "end": 160.34,
+      "speaker": "SPEAKER_00",
+      "text": "Cam 90 de grade, da. Acum în lateral."
+    },
+    {
+      "start": 160.46,
+      "end": 163.5,
+      "speaker": "SPEAKER_01",
+      "text": "Cam la fel, poate un pic mai puțin."
+    },
+    {
+      "start": 163.62,
+      "end": 169.7,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Stați puțin, apăs eu aici pe zona de aici, deasupra umărului, spuneți-mi dacă doare."
+    },
+    {
+      "start": 169.82,
+      "end": 171.34,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo doare, da."
+    },
+    {
+      "start": 171.46,
+      "end": 175.64,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă ridic eu mâna pentru dumneavoastră pasiv, doare la fel?"
+    },
+    {
+      "start": 175.76,
+      "end": 178.8,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam la fel, nu e mai bine."
+    },
+    {
+      "start": 178.92,
+      "end": 195.64,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ce pot să vă spun acum este că avem cel mai probabil o inflamație la nivelul tendoanelor din umăr, zona de coafă a rotatorilor, și o limitare a mobilității. O să lucrăm mai întâi să reducem inflamația și după să recuperăm mișcarea completă."
+    },
+    {
+      "start": 195.76,
+      "end": 206.4,
+      "speaker": "SPEAKER_01",
+      "text": "Și o să treacă? Că mă tem că poate am nevoie de operație, că am văzut că unii ajung la operație cu umărul și mă sperie treaba asta."
+    },
+    {
+      "start": 206.52,
+      "end": 214.5,
+      "speaker": "SPEAKER_00",
+      "text": "Deocamdată nu avem semne de ruptură, e prea devreme să vorbim de operație. Hai să vedem cum răspunde la terapie, da?"
+    },
+    {
+      "start": 214.62,
+      "end": 218.42,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, bine, mă liniștesc. Aveți dreptate, hai să vedem."
+    },
+    {
+      "start": 218.54,
+      "end": 221.96,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă, vă rog, cu fața în sus."
+    }
+  ]
+}

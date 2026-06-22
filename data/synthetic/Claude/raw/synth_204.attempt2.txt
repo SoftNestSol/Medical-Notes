@@ -1,0 +1,47 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stângul sau dreptul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A apărut dintr-odată sau treptat?\nSPEAKER_01: Dintr-odată. Am ridicat ceva greu la serviciu.\nSPEAKER_00: Ce fel de serviciu aveți?\nSPEAKER_01: Depozit. Car cutii.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: Doare și în repaus sau numai când mișcați brațul?\nSPEAKER_01: Mai mult când ridic brațul sus.\nSPEAKER_00: Se lasă durerea și pe braț în jos, spre cot sau mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeală în deget, în mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Noaptea vă trezește durerea?\nSPEAKER_01: Da, dacă stau pe partea aia.\nSPEAKER_00: Ok. Haideți să ridic eu brațul în față, încet. Spuneți-mi când doare.\nSPEAKER_01: Acum.\nSPEAKER_00: La aproximativ 90 de grade. Și mai sus?\nSPEAKER_01: Mai rău.\nSPEAKER_00: Bun. Acum duc brațul lateral, tot încet. Doare?\nSPEAKER_01: Da, la fel.\nSPEAKER_00: Înțeleg. Apăs puțin aici, pe zona de deasupra umărului. Doare?\nSPEAKER_01: Da, acolo e cel mai rău.\nSPEAKER_00: Bun. Pare a fi o tendinită a coafei rotatorilor, cel mai probabil supraspinosul. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, cancer, epilepsie?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Ibuprofen, uneori.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Când doare tare. Nu în fiecare zi.\nSPEAKER_00: Doza?\nSPEAKER_01: 400.\nSPEAKER_00: Bun. Alergii la medicamente sau creme?\nSPEAKER_01: Nu.\nSPEAKER_00: Haideți pe masă cu fața în sus să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept, instalata brusc in urma cu doua saptamani la ridicarea unei greutati la locul de munca (depozit). Durere accentuata la ridicarea bratului, mai ales peste 90 grade, si la dormitul pe partea dreapta.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\nTendinita coafa rotatori umar dr. (cel mai probabil supraspinosul).\nObiective terapeutice:\n- reducerea inflamatiei;\n- recuperarea mobilitatii umarului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Dintr-odată. Am ridicat ceva greu la serviciu.",
+      "Mai mult când ridic brațul sus.",
+      "Da, dacă stau pe partea aia."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 6."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofen, uneori.",
+      "400."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o tendinită a coafei rotatorilor, cel mai probabil supraspinosul.",
+      "O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."
+    ]
+  }
+}

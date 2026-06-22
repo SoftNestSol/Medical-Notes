@@ -1,0 +1,26 @@
+{
+  "motivul_prezentarii": "Durere lombară de aproximativ trei săptămâni, cu iradiere pe fesa dreaptă, agravată dimineața la ridicarea din pat și după sedentarism prelungit la birou.",
+  "evaluarea_durerii_vas": [
+    6,
+    8
+  ],
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": "fesa dreaptă",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "colesterol mărit",
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 mg"
+    },
+    {
+      "denumire": "Rosuvastatin",
+      "doza": "10 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Mobilitatea lombară limitată la flexie anterioară și rotație spre dreapta. Contractură musculară paravertebrală lombară, predominant pe dreapta, cu sensibilitate locală pe coloana lombară. Iritație mușchi piriform dreapta (durere pe fesa dreaptă la ridicarea membrului inferior drept). Obiective terapeutice: reducerea contracturii musculare și a inflamației locale; refacerea mobilității lombare."
+}

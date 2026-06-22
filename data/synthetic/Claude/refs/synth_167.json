@@ -1,0 +1,30 @@
+{
+  "motivul_prezentarii": "Durere umăr stâng cu limitarea mobilității, apărută după efort fizic (cărat bagaje), prezentă de aproximativ trei săptămâni",
+  "evaluarea_durerii_vas": [
+    4,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "braț stâng (iradiere anterioară, nu depășește cotul)",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "hipercolesterolemie",
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame, o dată pe zi"
+    },
+    {
+      "denumire": "Atorvastatina",
+      "doza": "20 de miligrame, seara"
+    },
+    {
+      "denumire": "Nurofen",
+      "doza": "la nevoie"
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare mobilitate umăr stâng: abducție blocată la aproximativ 90 de grade, rotație internă imposibilă, flexie anterioară parțial redusă. Sensibilitate la palpare pe capul humeral și tendonul supraspinosului. Diagnostic: tendinopatie sau bursită subacromială umăr stâng, posibil cu inflamație manșetă rotatori. Obiective terapeutice: reducerea inflamației, recâștigarea mobilității, întărirea musculaturii periscapulare."
+}

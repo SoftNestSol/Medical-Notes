@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_250",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare gâtul și umărul drept... de ceva vreme",
+      "simt că îmi amețește capul puțin când întorc brusc",
+      "am mâna dreaptă amorțită"
+    ],
+    "evaluarea_durerii_vas": [
+      "Cam un 6. Dar dimineața când mă trezesc poate să ajungă la 8, 9 chiar."
+    ],
+    "localizarea_durerii": [
+      "mă doare gâtul și umărul drept",
+      "Mai mult e gâtul și ceafa. Umărul e ca o greutate"
+    ],
+    "localizarea_durerii_alta": [
+      "Pe partea dreaptă, pe braț în jos, nu tot timpul, dar se întâmplă",
+      "am mâna dreaptă amorțită"
+    ],
+    "antecedente": [
+      "Da, am. De vreo trei ani deja. Iau pastile pentru asta."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Perindopril. 5 miligrame, o dată pe zi dimineața."
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară importantă pe zona cervicală și trapez, cu o mobilitate cervicală redusă mai ales spre dreapta",
+      "Iradierea în brăț și amorțeala de care pomeniți ar putea sugera o afectare pe nervul cervical",
+      "vă recomand să faceți un RMN cervical cât mai curând",
+      "putem începe să lucrăm pe zona musculară și să reducem inflamația și contractura"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13758,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 3579,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

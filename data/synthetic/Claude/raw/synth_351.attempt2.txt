@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Radu Ionescu.\nSPEAKER_00: Și vârsta, dacă se poate.\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem astăzi, domnule Ionescu?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Umărul drept sau stâng?\nSPEAKER_01: Drept.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume? O lovitură, un efort?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Am înțeles. Și de atunci doare constant sau doar când faceți anumite mișcări?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Când ridicați mâna sus. Și la odihnă, noaptea de exemplu, vă deranjează?\nSPEAKER_01: Uneori.\nSPEAKER_00: Uneori. Durerea rămâne în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne în umăr.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât estimați durerea?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. Tensiune, diabet, altceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să vedem puțin cum stă umărul. Ridicați brațul drept ușor în față... până unde puteți.\nSPEAKER_01: Până cam aici.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: La ce unghi aproximativ, cam la jumătate din mișcare?\nSPEAKER_01: Da, cam pe la mijloc.\nSPEAKER_00: Și dacă ridicăm lateral?\nSPEAKER_01: La fel, tot pe la mijloc doare.\nSPEAKER_00: Deci arc dureros prezent la flexie și abducție. Acum o să apăs ușor pe zona de aici, deasupra umărului, în zona mușchiului supraspinos. Doare?\nSPEAKER_01: Da, chiar acolo.\nSPEAKER_00: Da. Și dacă apăs mai în față, în zona bicepsului?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin. Înțeles. Avem o inflamație la nivelul tendonului supraspinos, cel mai probabil o tendinopatie de suprasolicitare acută după efort. Vom lucra să reducem inflamația și să refacem mobilitatea umărului. Câteva ședințe ar trebui să fie suficiente să simțiți o îmbunătățire.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutat mobila), de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Tendinopatie supraspinos dr. (inflamatie acuta post-efort);\nArc dureros prezent la flexie si abductie (mijlocul amplitudinii de miscare);\nObiective terapeutice: - reducerea inflamatiei; - refacerea mobilitatii umarului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un 6."],
+    "localizarea_durerii": ["Umărul drept sau stâng?\nSPEAKER_01: Drept."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Avem o inflamație la nivelul tendonului supraspinos, cel mai probabil o tendinopatie de suprasolicitare acută după efort. Vom lucra să reducem inflamația și să refacem mobilitatea umărului.", "arc dureros prezent la flexie și abducție", "Da, chiar acolo."]
+  }
+}

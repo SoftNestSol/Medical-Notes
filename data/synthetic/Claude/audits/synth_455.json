@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_455",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept de ceva vreme",
+      "Am mutat niște mobilă grea cu vecinul, și a doua zi dimineață m-am trezit cu umărul blocat aproape",
+      "Cam de vreo trei săptămâni, poate patru"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când îl forțez în sus, un 7. Când stau liniștit, e pe la 3, mai suportabil."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept",
+      "Rămâne la umăr"
+    ],
+    "localizarea_durerii_alta": [
+      "pe braț în jos câteodată",
+      "Nu, nu, mai sus, pe... pe biceps, acolo."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un Voltaren, de la farmacie. Și soția mi-a dat și un Ibuprofen o dată sau de două ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "Există o limitare clară a abducției, undeva pe la 90 de grade apare durerea.",
+      "asta nu pot deloc. Adică ajung până pe la mijlocul spatelui și gata",
+      "Apăs puțin pe umăr, pe zona de sub acromion, spuneți-mi dacă doare.",
+      "E și o slăbiciune parcă, nu pot să țin cum trebuie.",
+      "Avem de-a face, cel mai probabil, cu o inflamație la nivelul tendonului supraspinatus și al bursei subacromiale, un sindrom de impingement subacromial. Obiectivul nostru va fi să reducem inflamația, să recuperăm mobilitatea umărului și să reantrenăm musculatura rotatoare ca să nu recidiveze."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13861,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2753,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

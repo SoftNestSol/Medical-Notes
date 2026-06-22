@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_464",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare ceafa.",
+      "De vreo două săptămâni.",
+      "Treptat.",
+      "Stau mult la birou, da. Toată ziua."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare ceafa.",
+      "Urcă și în cap, uneori.",
+      "Tensiune, în spate la cap."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Rotația e limitată bilateral și extensia cervicală provoacă durere.",
+      "simt contractura. Paravertebralii cervicali sunt contractați, mai ales pe zona C4-C5.",
+      "Nu avem iradiere pe braț, nu avem amorțeli, deci deocamdată fără semne de afectare radiculară.",
+      "ne confruntăm cu o cervicalgie de postură, cu contractură musculară cervicală și o ușoară iritație la nivelul inserțiilor suboccipitale",
+      "Vom lucra să reducem contractura și să recâștigăm mobilitatea cervicală."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14094,
+    "inference_geo": "global",
+    "input_tokens": 357,
+    "output_tokens": 2118,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

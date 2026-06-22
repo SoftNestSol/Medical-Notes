@@ -1,0 +1,26 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi și mie numele, vă rog.\nSPEAKER_01: Dumitru.\nSPEAKER_00: Și prenumele?\nSPEAKER_01: Sorin.\nSPEAKER_00: Sorin Dumitru. Și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. A apărut brusc sau treptat?\nSPEAKER_01: Brusc.\nSPEAKER_00: A apărut după ceva anume? O mișcare, un efort?\nSPEAKER_01: Nu știu. M-am trezit dimineața și mă durea.\nSPEAKER_00: Înțeles, deci v-ați trezit cu el. Nu ați căzut, nu ați tras ceva greu înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Doare doar în zona gâtului sau se lasă și spre umăr, spre braț?\nSPEAKER_01: Și spre umăr, pe dreapta.\nSPEAKER_00: Spre umărul drept. Și mai departe pe braț simțiți ceva, amorțeli?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Doar gât și umăr dreapta. Ce lucrați, dacă pot să întreb?\nSPEAKER_01: Birou.\nSPEAKER_00: La birou. Stați mult în fața calculatorului?\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Și ecranul e în față, lateral?\nSPEAKER_01: Puțin spre stânga.\nSPEAKER_00: Puțin spre stânga, deci stați cu capul rotit în stânga mai tot timpul. Și doare pe dreapta, are sens.\nSPEAKER_01: Da.\nSPEAKER_00: Doare constant sau mai mult la mișcare?\nSPEAKER_01: La mișcare mai mult.\nSPEAKER_00: Ce mișcare o agravează cel mai tare, când întoarceți capul, când îl aplecați?\nSPEAKER_01: Când întorc spre dreapta.\nSPEAKER_00: Spre dreapta. Și dacă aplecați capul înainte?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât îi dați în momentul de față?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Iar când întoarceți capul spre dreapta?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Ați mai avut ceva similar în trecut?\nSPEAKER_01: Nu.\nSPEAKER_00: Prima dată. Afecțiuni medicale, tensiune, diabet, boli de inimă?\nSPEAKER_01: Nu.\nSPEAKER_00: Osteoporoză, scolioză, hernie de disc?\nSPEAKER_01: Nu, nu știu de hernie.\nSPEAKER_00: Nu aveți nicio investigație făcută, radiografie, RMN pe coloana cervicală?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, niciun antiinflamator?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să stați puțin în picioare să fac câteva mișcări cu dumneavoastră.\nSPEAKER_01: Ok.\nSPEAKER_00: Întoarceți ușor capul spre dreapta pentru mine.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Da, vedem că rotația e limitată pe dreapta, cam la jumătate față de normal. Spre stânga?\nSPEAKER_01: Merge.\nSPEAKER_00: Merge mult mai bine spre stânga. Acum aplecați ușor capul spre umărul drept.\nSPEAKER_01: Doare aici.\nSPEAKER_00: Doare în zona gâtului lateral dreapta. Bun. O să apăs acum pe musculatura din ceafă, spuneți-mi dacă simțiți ceva.\nSPEAKER_01: Da, acolo tare.\nSPEAKER_00: Pe trapezul superior dreapta doare mai tare, da?\nSPEAKER_01: Da.\nSPEAKER_00: Și mai sus, la baza craniului?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Am înțeles. Deci avem o contractură musculară cervicală, mai ales pe trapezul superior și ridicătorul scapulei pe dreapta, cu limitarea rotației spre dreapta. Cel mai probabil e legat de postura de la birou, cu capul rotit constant spre stânga. Vom lucra să reducem contractura și să refacem mobilitatea pe partea dreaptă. Haideți să ne așezăm pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicala cu iradiere spre umar drept",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- Contractura musculara cervicala trapez superior si ridicator scapulei dreapta;\n- Limitare rotatie cervicala spre dreapta\nObiective terapeutice:\n- Reducerea contracturii musculare;\n- Refacerea mobilitatii cervicale pe partea dreapta"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "Și spre umăr, pe dreapta."],
+    "evaluarea_durerii_vas": ["Un 5.", "Vreo 7."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și spre umăr, pe dreapta."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["vedem că rotația e limitată pe dreapta, cam la jumătate față de normal", "Pe trapezul superior dreapta doare mai tare, da?", "avem o contractură musculară cervicală, mai ales pe trapezul superior și ridicătorul scapulei pe dreapta, cu limitarea rotației spre dreapta", "Vom lucra să reducem contractura și să refacem mobilitatea pe partea dreaptă"]
+  }
+}

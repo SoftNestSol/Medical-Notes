@@ -1,0 +1,39 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare genunchiul.\nSPEAKER_00: Care genunchi, dreptul sau stângul?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, v-ați lovit, ați căzut?\nSPEAKER_01: Nu știu. Am alergat mai mult într-o zi și după a început.\nSPEAKER_00: Deci după alergat. Și doare constant sau numai când mergeți?\nSPEAKER_01: Când merg, mai ales la coborât scările.\nSPEAKER_00: La coborât scările. Și la urcat?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum ați pune durerea?\nSPEAKER_01: Un 5.\nSPEAKER_00: 5. Se umflă genunchiul, observați vreo umflătură?\nSPEAKER_01: Un pic, dimineața.\nSPEAKER_00: Dimineața. Și pe parcursul zilei se reduce?\nSPEAKER_01: Da.\nSPEAKER_00: Ați mai avut probleme cu genunchiul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, diabet, tensiune, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Am luat un ibuprofen odată, dar atât.\nSPEAKER_00: O dată, deci nu regulat. Ok. Haideți să stați puțin în picioare, vreau să văd cum stați.\nSPEAKER_00: Stai puțin pe piciorul stâng singur... te ține?\nSPEAKER_01: Mă ține, dar doare un pic.\nSPEAKER_00: Doare un pic. Unde simțiți durerea mai exact, în față, pe lateral, în spate?\nSPEAKER_01: Aici, în față, sub rotulă.\nSPEAKER_00: Sub rotulă, deci zona patelară. Dacă apăs ușor aici, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Da. Și dacă îndoiți genunchiul complet?\nSPEAKER_01: Nu pot complet, se oprește.\nSPEAKER_00: Se limitează mișcarea. Ok, am înțeles. Deci avem o inflamație la nivelul tendonului rotulian, cel mai probabil o tendinopatie patelară apărută după efort. Vom lucra să reducem inflamația și să recuperăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere genunchi stâng apărută după alergat, de aproximativ două săptămâni, accentuată la coborâtul scărilor și la flexie completă, cu ușoară tumefacție matinală.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "genunchi_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinopatie patelară stângă (inflamație tendon rotulian).\nObiective terapeutice: reducerea inflamației; recuperarea mobilității genunchiului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare genunchiul.",
+      "Stângul.",
+      "Am alergat mai mult într-o zi și după a început.",
+      "De vreo două săptămâni.",
+      "Când merg, mai ales la coborât scările.",
+      "Un pic, dimineața."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "Mă doare genunchiul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Deci avem o inflamație la nivelul tendonului rotulian, cel mai probabil o tendinopatie patelară apărută după efort. Vom lucra să reducem inflamația și să recuperăm mobilitatea."
+    ]
+  }
+}

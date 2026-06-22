@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo trei săptămâni.\nSPEAKER_00: Trei săptămâni. S-a întâmplat ceva înainte să înceapă, o lovitură, un efort?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Ați ridicat ceva greu.\nSPEAKER_01: Da.\nSPEAKER_00: Și imediat după a apărut durerea sau a doua zi?\nSPEAKER_01: A doua zi dimineața.\nSPEAKER_00: A doua zi. Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e cel mai rău, unde situați durerea acum?\nSPEAKER_01: Un 6.\nSPEAKER_00: 6. Și în cel mai rău moment, când e cel mai rău?\nSPEAKER_01: Când ridic mâna sus, poate 8.\nSPEAKER_00: Deci la ridicarea brațului ajunge la 8. Doare și noaptea, când stați pe partea dreaptă?\nSPEAKER_01: Da, nu pot să dorm pe ea.\nSPEAKER_00: Nu puteți dormi pe partea dreaptă. Durerea stă localizată în umăr sau coboară pe braț?\nSPEAKER_01: Stă în umăr.\nSPEAKER_00: Doar local. Simțiți amorțeală, furnicături pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Aveți vreo afecțiune, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament în mod curent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun medicament. Ok. Ridicați brațul drept cât puteți, vă rog. Până unde ajungeți?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci undeva la nouăzeci de grade, nu mai sus. Doare chiar de la început sau doare doar la capătul mișcării?\nSPEAKER_01: Mai mult la capăt.\nSPEAKER_00: La capătul mișcării. Acum ridic eu brațul și îmi spuneți când apare durerea. Spuneți când.\nSPEAKER_01: Acum.\nSPEAKER_00: Aici, în jur de 80-90 de grade. Și când coborâm?\nSPEAKER_01: Tot cam pe acolo.\nSPEAKER_00: Simetric la coborâre. Înțeles. Apăs acum pe zona de deasupra umărului, în zona aceasta. Doare?\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Da. Acum puneți mâna la spate, cât puteți. Merge?\nSPEAKER_01: Puțin, dar doare.\nSPEAKER_00: Doare la rotația internă. Bun. Pe baza a ceea ce am văzut, avem o limitare a mișcării umărului drept cu durere în arc, adică durere care apare și dispare pe un anumit sector al mișcării. Cel mai probabil este o inflamație la nivelul tendonului supraspinosului, posibil și o iritație a bursei subacromiale. Obiectivul nostru principal este să reducem inflamația și să recuperăm amplitudinea de mișcare.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să începem. Vă rog să vă așezați pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după efort fizic (mutare mobilă), cu limitarea mișcării de ridicare a brațului",
+    "evaluarea_durerii_vas": [6, 8],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații funcționale: limitarea abducției brațului drept la aproximativ 90 de grade, cu durere în arc la 80-90 de grade atât la ridicare cât și la coborâre; durere la palparea zonei supraacromiale; limitare dureroasă a rotației interne.\nDiagnostic: inflamație tendon supraspinos, posibil iritație bursă subacromială.\nObiective terapeutice: reducerea inflamației; recuperarea amplitudinii de mișcare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă.", "Dreptul."],
+    "evaluarea_durerii_vas": ["Un 6.", "Când ridic mâna sus, poate 8."],
+    "localizarea_durerii": ["Dreptul.", "Stă în umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Deci undeva la nouăzeci de grade, nu mai sus.", "Aici, în jur de 80-90 de grade. Și când coborâm? Tot cam pe acolo.", "Da, acolo doare.", "Doare la rotația internă.", "cel mai probabil este o inflamație la nivelul tendonului supraspinosului, posibil și o iritație a bursei subacromiale. Obiectivul nostru principal este să reducem inflamația și să recuperăm amplitudinea de mișcare."]
+  }
+}

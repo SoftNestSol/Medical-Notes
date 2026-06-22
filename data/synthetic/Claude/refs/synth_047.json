@@ -1,0 +1,28 @@
+{
+  "motivul_prezentarii": "Durere cervicală cu iradiere pe umărul stâng, mobilitate redusă la rotație, agravată dimineața și după statul la calculator",
+  "evaluarea_durerii_vas": [
+    8,
+    4
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala",
+    "artrita_artroza"
+  ],
+  "antecedente_altele": "gastrita cronica",
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: inflamatie si contractura musculara cervicala, mai ales pe stanga, cu iradiere pe umarul stang; artroza cervicala cunoscuta; contractura trapez stang; mobilitate cervicala redusa la rotatie stanga si inclinare laterala stanga.\nObiective terapeutice: reducerea contracturii si inflamatiei; recastigarea mobilitatii cervicale; ajustarea posturii la birou."
+}

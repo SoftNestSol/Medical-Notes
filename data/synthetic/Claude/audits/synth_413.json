@@ -1,0 +1,40 @@
+{
+  "conversation_id": "synth_413",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Am cărat niște cutii la muncă și după aia a început.",
+      "Vreo două săptămâni.",
+      "Câteodată, da, dacă stau pe partea aia."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "Strict umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o durere la abducție activă și la rezistență, ceea ce indică o inflamație la nivelul tendonului supraspinosului. Cel mai probabil o tendinopatie a coifului rotatorilor pe stânga. Trebuie să lucrăm să reducem inflamația și să refacem mobilitatea umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22123,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 1839,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

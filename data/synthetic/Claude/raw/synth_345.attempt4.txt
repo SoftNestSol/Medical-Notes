@@ -1,0 +1,47 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamnă!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi și mie numele, vă rog.\nSPEAKER_01: Florescu Mihaela.\nSPEAKER_00: Și vârsta, dacă nu e secret.\nSPEAKER_01: 38 de ani. Nu-i secret, n-am de ce să ascund, oricum nici nu par, mi s-a spus.\nSPEAKER_00: Bine, doamna Florescu, cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi, mă doare umărul, cel drept, de ceva vreme. Adică nu de ieri de azi, de vreo... hai să zic două luni, poate mai mult. Am zis că trece singur, că poate am dormit prost, dar nu trece. Ba chiar s-a înrăutățit un pic în ultima săptămână.\nSPEAKER_00: Umărul drept. Și durerea e localizată undeva anume, sau e pe toată zona?\nSPEAKER_01: E mai mult pe partea din față, aici, și uneori se duce și spre... spre cot, dar nu tot timpul. Uneori mă trezesc noaptea din cauza ei, când încerc să mă întorc pe partea dreaptă. Asta e cel mai enervant, pentru că nu mai dorm bine și dimineața sunt obosită și la serviciu nu mai pot să mă concentrez și...\nSPEAKER_00: Înțeleg. Și noaptea doare mai tare decât ziua?\nSPEAKER_01: Da, noaptea e mai rău. Ziua mai merge, depinde ce fac. Dacă ridic brațul sus, de exemplu să iau ceva de pe raft, au, doare imediat.\nSPEAKER_00: Ridicarea brațului declanșează durerea.\nSPEAKER_01: Da, exact. Și mai ales dacă duc mâna în spate, știți, cum faci când îți pui haina sau îți închei ceva la spate, acolo e groaznic.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare cel mai tare, cât ați spune că e acum, în repaus?\nSPEAKER_01: Acum? Vreo 3, poate 4. Dar când ridic brațul sau fac mișcarea aia cu mâna la spate, ajunge la 7-8 ușor.\nSPEAKER_00: Deci în repaus un 3-4 și la mișcare 7-8.\nSPEAKER_01: Da, cam așa.\nSPEAKER_00: Ce lucrați, dacă pot să întreb?\nSPEAKER_01: Sunt la birou, stau mult la calculator. Și cred că de acolo vine, că stau cu umărul ridicat toată ziua, sau nu știu, poate am și mouse-ul prost poziționat. Am citit pe internet că poate fi din asta, tendinită sau ceva, și m-am speriat un pic, că am o vecină care a avut și a ajuns la operație și nu vreau să ajung și eu acolo.\nSPEAKER_00: Înțeleg îngrijorarea. Deocamdată nu ne grăbim la concluzii. Ați mai făcut vreun tratament până acum?\nSPEAKER_01: Am pus un gel, Voltaren, de câteva ori, când era mai rău, dar nu prea a ajutat. Am dat o dată și la medic de familie, mi-a spus să iau antiinflamatoare, dar nu le-am luat că nu-mi place să iau pastile dacă nu e musai.\nSPEAKER_00: Bine. Alte afecțiuni, tensiune, diabet, probleme mai vechi?\nSPEAKER_01: Nu, nimic. Sunt sănătoasă, mulțumesc lui Dumnezeu. Adică am mai avut o entorsă la gleznă acum vreo trei ani, dar a trecut.\nSPEAKER_00: Și la umăr nu ați mai pățit nimic în trecut, nicio lovitură, nicio cădere?\nSPEAKER_01: Nu, nu. N-am căzut, n-am lovit. Pur și simplu a apărut, nu știu exact de unde.\nSPEAKER_00: Ok. Haideți să facem câteva teste. Ridicați brațul drept ușor în față, atât cât puteți. Opriți când doare.\nSPEAKER_01: Până pe la nivelul ăsta pot... ah, mai sus nu mai pot.\nSPEAKER_00: Da, e limitare la ridicarea anterioară. Acum duceți brațul lateral, încet.\nSPEAKER_01: Ăsta doare mai repede, uite, chiar de la jumătate.\nSPEAKER_00: Da. Și acum mâna la spate, cât puteți.\nSPEAKER_01: Puțin, atât. Nu mai merge.\nSPEAKER_00: Ok. Apăs acum puțin pe zona tendonului bicepsului, pe partea din față a umărului. Doare?\nSPEAKER_01: Da, da, chiar acolo e.\nSPEAKER_00: Bine, doamna Florescu. Ce pot să vă spun după aceste mișcări este că avem o inflamație la nivelul tendoanelor din zona umărului drept, cel mai probabil la manșeta rotatorilor și posibil și la tendonul bicepsului. Mobilitatea e redusă pe toate planurile, mai ales la ridicarea laterală și la rotația internă. Vom lucra pentru a reduce inflamația, a elibera musculatura din jur și a recâștiga amplitudinea de mișcare.\nSPEAKER_01: Adică nu e nevoie de operație?\nSPEAKER_00: Nu putem exclude nimic fără investigații imagistice, dar ce vedem acum nu indică neapărat asta. Vă recomand să facem câteva ședințe și să vedem cum evoluează. Dacă e nevoie, vă trimitem la o ecografie sau RMN.\nSPEAKER_01: Bine, bine, mă liniștesc un pic. Și cu gelul mai pot să pun?\nSPEAKER_00: Puteți, nu e o problemă.\nSPEAKER_01: Ok, mulțumesc.\nSPEAKER_00: Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept, de aproximativ doua luni, agravata la ridicarea bratului si rotatia interna",
+    "evaluarea_durerii_vas": [3, 7],
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": "entorsa glezna in antecedente (aprox. 3 ani)",
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie tendoane umar drept, posibil manseta rotatorilor si tendon biceps; mobilitate redusa pe toate planurile, mai ales la ridicarea laterala si rotatia interna.\nObiective terapeutice: reducerea inflamatiei, eliberarea musculaturii periarticulare, recastigarea amplitudinii de miscare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel drept, de ceva vreme. Adică nu de ieri de azi, de vreo... hai să zic două luni, poate mai mult",
+      "Dacă ridic brațul sus, de exemplu să iau ceva de pe raft, au, doare imediat",
+      "dacă duc mâna în spate, știți, cum faci când îți pui haina sau îți închei ceva la spate, acolo e groaznic"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum? Vreo 3, poate 4. Dar când ridic brațul sau fac mișcarea aia cu mâna la spate, ajunge la 7-8 ușor"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel drept",
+      "E mai mult pe partea din față, aici"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am mai avut o entorsă la gleznă acum vreo trei ani, dar a trecut"
+    ],
+    "medicatie_actuala": [
+      "Am pus un gel, Voltaren, de câteva ori, când era mai rău"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendoanelor din zona umărului drept, cel mai probabil la manșeta rotatorilor și posibil și la tendonul bicepsului",
+      "Mobilitatea e redusă pe toate planurile, mai ales la ridicarea laterală și la rotația internă",
+      "Vom lucra pentru a reduce inflamația, a elibera musculatura din jur și a recâștiga amplitudinea de mișcare"
+    ]
+  }
+}

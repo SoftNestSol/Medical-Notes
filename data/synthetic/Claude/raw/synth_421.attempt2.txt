@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și ce s-a întâmplat, a apărut din senin sau ați făcut ceva?\nSPEAKER_01: Am ridicat ceva mai greu la serviciu.\nSPEAKER_00: Ce fel de muncă faceți?\nSPEAKER_01: Depozit. Mișc lăzi.\nSPEAKER_00: Înțeles. Doare constant sau numai când mișcați mâna?\nSPEAKER_01: Când ridic mâna sus. Și noaptea câteodată.\nSPEAKER_00: Noaptea când stați pe el?\nSPEAKER_01: Da.\nSPEAKER_00: Durerea rămâne în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Puțin pe braț, dar nu prea mult.\nSPEAKER_00: Până unde pe braț?\nSPEAKER_01: Până cam pe la jumătate, pe aici.\nSPEAKER_00: Amorțește mâna sau degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Când ridicați mâna sus, tot 5?\nSPEAKER_01: Atunci mai rău, poate 7.\nSPEAKER_00: Ok. Ați mai avut dureri la același umăr înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Afecțiuni mai aveți, tensiune, diabet, ceva de genul?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme sau unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să stați în picioare, cu spatele drept, relaxat. Vreau să ridicați brațul drept lateral, până unde puteți fără să doară.\nSPEAKER_01: Până cam aici.\nSPEAKER_00: Deci cam la 90 de grade vă oprește durerea. Continuați mai sus?\nSPEAKER_01: Doare rău acolo.\nSPEAKER_00: Ok, nu forțăm. Acum ridicați brațul drept în față.\nSPEAKER_01: Asta merge mai bine.\nSPEAKER_00: Bun. Vă apăs acum pe zona asta de aici, pe tendonul supraspinat. Doare?\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Și dacă apăs mai jos, pe deltoid?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeles. Deci avem o inflamație pe zona coafei rotatorilor, cel mai probabil supraspinat. Mobilitatea laterală e limitată la 90 de grade din cauza durerii, cea anterioară e relativ păstrată. Obiectivul nostru principal e să reducem inflamația și să recuperăm amplitudinea de mișcare.\nSPEAKER_01: Ok.\nSPEAKER_00: O să lucrăm câteva ședințe, vedem cum răspunde. Aveți timp acum să începem?\nSPEAKER_01: Da.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa ridicare de greutate la locul de munca (depozit), de aproximativ doua saptamani. Durere la ridicarea bratului lateral si noaptea in decubit pe umar.",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": "braț drept până la jumătate",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie coafa rotatori, tendon supraspinat drept\nObiective terapeutice:\n- reducerea inflamatiei;\n- recuperarea amplitudinii de miscare"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am ridicat ceva mai greu la serviciu.", "Depozit. Mișc lăzi.", "Vreo două săptămâni.", "Când ridic mâna sus. Și noaptea câteodată."],
+    "evaluarea_durerii_vas": ["Vreo 5.", "Atunci mai rău, poate 7."],
+    "localizarea_durerii": ["Dreptul.", "Mă doare umărul."],
+    "localizarea_durerii_alta": ["Până cam pe la jumătate, pe aici."],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Deci avem o inflamație pe zona coafei rotatorilor, cel mai probabil supraspinat.", "Mobilitatea laterală e limitată la 90 de grade din cauza durerii, cea anterioară e relativ păstrată.", "Obiectivul nostru principal e să reducem inflamația și să recuperăm amplitudinea de mișcare."]
+  }
+}

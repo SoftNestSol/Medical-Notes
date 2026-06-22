@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere umar drept aparuta la sala de sport (ridicare gantere), prezenta de aproximativ 3 saptamani. Durere la miscare (ridicarea bratului in flexie si abductie), mai accentuata dimineata. Fara amorteala sau furnicaturi.",
+  "evaluarea_durerii_vas": [
+    3,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren gel",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- Tendinopatie manseta rotatorie (posibil supraspinatus) cu componenta de bursita subacomiala\nObservatii functionale:\n- durere la palpare subacomiala;\n- limitare mobilitate la flexie si abductie (debut durere la ~90 grade)\nObiective terapeutice:\n- reducerea inflamatiei;\n- refacerea mobilitatii articulare"
+}

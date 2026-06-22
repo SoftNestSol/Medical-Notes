@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_239",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare gâtul... adică zona asta de sus, de ceafă, și se duce și pe umăr, pe partea dreaptă",
+      "Ceafa și umărul drept, astea mă supără cel mai tare"
+    ],
+    "evaluarea_durerii_vas": [
+      "Dimineața poate fi un 7",
+      "ziua mai scade, nu știu, un 4-5"
+    ],
+    "localizarea_durerii": [
+      "mă doare gâtul... adică zona asta de sus, de ceafă, și se duce și pe umăr, pe partea dreaptă",
+      "mai am și-n spate uneori, în zona de mijloc, toracal cum îi spuneți voi"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am tiroida, hipotiroidism, de vreo patru ani mi-au spus"
+    ],
+    "medicatie_actuala": [
+      "iau Euthyrox",
+      "75 de micrograme, zilnic",
+      "uneori iau câte un antiinflamator când mă doare rău, un Ibuprofen, dar nu regulat"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură destul de pronunțată la nivelul mușchilor cervicali, în special pe partea dreaptă, trapezul și suboccipitalii sunt foarte tensionați",
+      "Mobilitatea cervicală e limitată, mai ales la extensie și la rotația spre dreapta",
+      "Cel mai probabil e vorba de o cervicalgie posturală, agravată de poziția de la birou",
+      "O să lucrăm în prima fază să reducem contractura musculară și să recuperăm mobilitatea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13674,
+    "inference_geo": "global",
+    "input_tokens": 334,
+    "output_tokens": 3255,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

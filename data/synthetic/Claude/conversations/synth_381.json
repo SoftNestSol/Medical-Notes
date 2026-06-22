@@ -1,0 +1,337 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună."
+    },
+    {
+      "start": 1.84,
+      "end": 4.12,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 4.24,
+      "end": 5.38,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare umărul."
+    },
+    {
+      "start": 5.5,
+      "end": 6.3,
+      "speaker": "SPEAKER_00",
+      "text": "Care umăr?"
+    },
+    {
+      "start": 6.42,
+      "end": 7.22,
+      "speaker": "SPEAKER_01",
+      "text": "Stângul."
+    },
+    {
+      "start": 7.34,
+      "end": 8.48,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp?"
+    },
+    {
+      "start": 8.6,
+      "end": 9.74,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo două săptămâni."
+    },
+    {
+      "start": 9.86,
+      "end": 14.04,
+      "speaker": "SPEAKER_00",
+      "text": "Și a apărut după ceva anume sau a venit din senin?"
+    },
+    {
+      "start": 14.16,
+      "end": 17.58,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu exact. Cred că am dormit pe el."
+    },
+    {
+      "start": 17.7,
+      "end": 21.5,
+      "speaker": "SPEAKER_00",
+      "text": "Ați dormit pe umărul stâng și de atunci vă doare?"
+    },
+    {
+      "start": 21.62,
+      "end": 22.42,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 22.54,
+      "end": 30.14,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maximum, unde îl situați?"
+    },
+    {
+      "start": 30.26,
+      "end": 31.06,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 5."
+    },
+    {
+      "start": 31.18,
+      "end": 34.6,
+      "speaker": "SPEAKER_00",
+      "text": "5. Doare constant sau numai când faceți anumite mișcări?"
+    },
+    {
+      "start": 34.72,
+      "end": 36.24,
+      "speaker": "SPEAKER_01",
+      "text": "Numai când ridic brațul."
+    },
+    {
+      "start": 36.36,
+      "end": 40.54,
+      "speaker": "SPEAKER_00",
+      "text": "Când îl ridicați în față, în lateral, sau în ambele direcții?"
+    },
+    {
+      "start": 40.66,
+      "end": 42.18,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult în lateral."
+    },
+    {
+      "start": 42.3,
+      "end": 47.24,
+      "speaker": "SPEAKER_00",
+      "text": "În lateral. Și dacă ridicați brațul în față, doare la fel de tare?"
+    },
+    {
+      "start": 47.36,
+      "end": 48.16,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 48.28,
+      "end": 51.7,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Doare și noaptea, dacă stați pe acel umăr?"
+    },
+    {
+      "start": 51.82,
+      "end": 53.72,
+      "speaker": "SPEAKER_01",
+      "text": "Da, noaptea e mai rău."
+    },
+    {
+      "start": 53.84,
+      "end": 58.4,
+      "speaker": "SPEAKER_00",
+      "text": "Mai rău noaptea. Simțiți cumva o amorțeală pe braț sau pe degete?"
+    },
+    {
+      "start": 58.52,
+      "end": 59.32,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 59.44,
+      "end": 63.62,
+      "speaker": "SPEAKER_00",
+      "text": "Nicio amorțeală. Bun. Aveți vreo crachet sau pocnitură când mișcați umărul?"
+    },
+    {
+      "start": 63.74,
+      "end": 64.54,
+      "speaker": "SPEAKER_01",
+      "text": "Câteodată, da."
+    },
+    {
+      "start": 64.66,
+      "end": 66.94,
+      "speaker": "SPEAKER_00",
+      "text": "Câteodată pocnește. Ok. Ce ocupație aveți?"
+    },
+    {
+      "start": 67.06,
+      "end": 68.2,
+      "speaker": "SPEAKER_01",
+      "text": "Lucrez la birou."
+    },
+    {
+      "start": 68.32,
+      "end": 70.6,
+      "speaker": "SPEAKER_00",
+      "text": "La birou, stați mult la calculator?"
+    },
+    {
+      "start": 70.72,
+      "end": 71.86,
+      "speaker": "SPEAKER_01",
+      "text": "Da, toată ziua."
+    },
+    {
+      "start": 71.98,
+      "end": 76.16,
+      "speaker": "SPEAKER_00",
+      "text": "Și mouse-ul îl folosiți cu mâna stângă sau cu dreapta?"
+    },
+    {
+      "start": 76.28,
+      "end": 77.08,
+      "speaker": "SPEAKER_01",
+      "text": "Cu dreapta."
+    },
+    {
+      "start": 77.2,
+      "end": 82.14,
+      "speaker": "SPEAKER_00",
+      "text": "Cu dreapta. Deci nu e de la mouse. Vreun sport, vreo activitate fizică?"
+    },
+    {
+      "start": 82.26,
+      "end": 83.06,
+      "speaker": "SPEAKER_01",
+      "text": "Nu prea."
+    },
+    {
+      "start": 83.18,
+      "end": 91.16,
+      "speaker": "SPEAKER_00",
+      "text": "Nu faceți sport. Ok. Haideți să vă ridic puțin brațul și îmi spuneți unde apare durerea. Îl ridic în lateral, ușor."
+    },
+    {
+      "start": 91.28,
+      "end": 93.18,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, acolo, cam la jumătate."
+    },
+    {
+      "start": 93.3,
+      "end": 95.96,
+      "speaker": "SPEAKER_00",
+      "text": "La jumătate, cam la 90 de grade?"
+    },
+    {
+      "start": 96.08,
+      "end": 96.88,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 97.0,
+      "end": 100.42,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă ridic mai sus de 90 de grade?"
+    },
+    {
+      "start": 100.54,
+      "end": 102.82,
+      "speaker": "SPEAKER_01",
+      "text": "Se mai duce, e mai puțin."
+    },
+    {
+      "start": 102.94,
+      "end": 116.62,
+      "speaker": "SPEAKER_00",
+      "text": "Se diminuează dincolo de 90 de grade. Asta e un semn clasic pentru o problemă la nivelul tendoanelor din umăr, la manșeta rotatorilor. Vă apăs puțin pe umăr, pe zona de sus, îmi spuneți dacă doare."
+    },
+    {
+      "start": 116.74,
+      "end": 117.88,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo doare."
+    },
+    {
+      "start": 118.0,
+      "end": 125.22,
+      "speaker": "SPEAKER_00",
+      "text": "Doare la palpare pe zona supraspinosului. Acum vreau să rezistați când vă împing brațul în jos. Împingeți în sus."
+    },
+    {
+      "start": 125.34,
+      "end": 126.14,
+      "speaker": "SPEAKER_01",
+      "text": "Au."
+    },
+    {
+      "start": 126.26,
+      "end": 127.4,
+      "speaker": "SPEAKER_00",
+      "text": "Doare când rezistați?"
+    },
+    {
+      "start": 127.52,
+      "end": 128.32,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 128.44,
+      "end": 132.62,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Avem antecedente, afecțiuni pe care le știți, tensiune, diabet, ceva?"
+    },
+    {
+      "start": 132.74,
+      "end": 133.54,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic."
+    },
+    {
+      "start": 133.66,
+      "end": 135.18,
+      "speaker": "SPEAKER_00",
+      "text": "Nicio operație, nicio fractură?"
+    },
+    {
+      "start": 135.3,
+      "end": 136.1,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 136.22,
+      "end": 138.12,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament în prezent?"
+    },
+    {
+      "start": 138.24,
+      "end": 139.04,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 139.16,
+      "end": 140.3,
+      "speaker": "SPEAKER_00",
+      "text": "Nicio pastilă, nimic?"
+    },
+    {
+      "start": 140.42,
+      "end": 141.22,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 141.34,
+      "end": 155.02,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Deci avem o inflamație la nivelul manșetei rotatorilor pe umărul stâng, cel mai probabil supraspinosul. O să lucrăm să reducem inflamația și să recuperăm mobilitatea completă a umărului. Haideți pe masă, cu fața în sus."
+    }
+  ]
+}

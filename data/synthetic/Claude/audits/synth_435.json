@@ -1,0 +1,43 @@
+{
+  "conversation_id": "synth_435",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, umărul stâng, de vreo trei săptămâni",
+      "am ridicat ceva mai greu și a doua zi m-am trezit cu umărul țepăn",
+      "noaptea, dacă mă întorc pe partea stângă, mă trezește"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când ridic mâna sus, așa un 7."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, umărul stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "Se simte și pe braț, pe partea de sus, așa, pe biceps."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "am pus un gel, Voltaren, de câteva ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "pare o inflamație la nivelul tendonului, cel mai probabil o tendinită de coafă a rotatorilor",
+      "Abducția și rotația internă sunt limitate, e clar că există și o componentă inflamatorie acolo",
+      "Va trebui să lucrăm în primă fază să reducem inflamația și să recuperăm mobilitatea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13739,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2345,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

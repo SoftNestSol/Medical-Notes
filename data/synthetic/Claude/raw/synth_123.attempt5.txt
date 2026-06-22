@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo trei săptămâni.\nSPEAKER_00: A fost vreun accident, ați căzut, ați lovit?\nSPEAKER_01: Nu, nu știu, a apărut așa.\nSPEAKER_00: Dimineața când vă treziți doare mai tare sau pe parcursul zilei?\nSPEAKER_01: Dimineața mai rău.\nSPEAKER_00: Când ridicați mâna sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și când o duceți în spate?\nSPEAKER_01: Și atunci.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Durerea rămâne la umăr sau coboară pe braț?\nSPEAKER_01: Rămâne acolo.\nSPEAKER_00: Bun. Aveți tensiune, diabet, epilepsie, cancer?\nSPEAKER_01: Nu.\nSPEAKER_00: Osteoporoză, artroză?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații anterioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Ibuprofen.\nSPEAKER_00: Câte miligrame?\nSPEAKER_01: 400.\nSPEAKER_00: Des?\nSPEAKER_01: Când nu mai suport.\nSPEAKER_00: Ok. Ridicați brațul stâng pentru mine, cât puteți. Doare?\nSPEAKER_01: Da, cam pe aici se oprește.\nSPEAKER_00: Undeva la 90 de grade. Duceți-l acum în lateral.\nSPEAKER_01: Și aici doare.\nSPEAKER_00: Apăs puțin pe zona asta. Doare?\nSPEAKER_01: Da, destul de tare.\nSPEAKER_00: Și pe-aici?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Avem o inflamație pe tendonul supraspinat. Ăsta e mușchiul care ridică brațul și se inflamează destul de des. Trebuie să reducem inflamația și după aceea lucrăm mobilitatea. Câte ședințe puteți să veniți pe săptămână?\nSPEAKER_01: Una, două.\nSPEAKER_00: Bun, începem azi.",
+  "note": {
+    "motivul_prezentarii": "durere umar stang",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie tendon supraspinat stang\nObiective terapeutice:\n- reducerea inflamatiei;\n- refacerea mobilitatii"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Ibuprofen.", "400."],
+    "evaluare_functionala_initiala": ["Avem o inflamație pe tendonul supraspinat.", "Trebuie să reducem inflamația și după aceea lucrăm mobilitatea."]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, cu ce problemă ne vedem azi?"
+    },
+    {
+      "start": 3.16,
+      "end": 13.8,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, da, deci mă doare umărul, cel drept, de vreo trei săptămâni, dar să vă explic și eu cum s-a întâmplat că nu e chiar simplu."
+    },
+    {
+      "start": 13.92,
+      "end": 14.72,
+      "speaker": "SPEAKER_00",
+      "text": "Da, spuneți."
+    },
+    {
+      "start": 14.84,
+      "end": 44.48,
+      "speaker": "SPEAKER_01",
+      "text": "Deci eu lucrez la birou toată ziua, stau la calculator, și acum trei săptămâni am ajutat un prieten să mute niște mobilă, și am ridicat un dulap, și parcă am simțit ceva acolo, nu știu, nu știu dacă am rupt ceva sau ce, mă gândeam că trece singur dar nu a trecut, și soția mea zice du-te la doctor, du-te la doctor, și eu am zis că nu e nevoie, dar iată că tot nu trece."
+    },
+    {
+      "start": 44.6,
+      "end": 49.54,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Pe o scară de la 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 49.66,
+      "end": 62.96,
+      "speaker": "SPEAKER_01",
+      "text": "Păi depinde, adică dacă stau liniștit, pe la 3, dar dacă ridic mâna sau fac mișcări mai ample, ajunge la 7-8, mai ales dacă duc brațul în spate, atunci mă ține rău de tot."
+    },
+    {
+      "start": 63.08,
+      "end": 66.88,
+      "speaker": "SPEAKER_00",
+      "text": "Se lasă durerea și pe braț în jos, pe antebraț?"
+    },
+    {
+      "start": 67.0,
+      "end": 73.46,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, rămâne sus, la umăr, cel mult se duce puțin pe lateral, pe deltoid, pe acolo."
+    },
+    {
+      "start": 73.58,
+      "end": 74.38,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțește mâna?"
+    },
+    {
+      "start": 74.5,
+      "end": 75.64,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu amorțește."
+    },
+    {
+      "start": 75.76,
+      "end": 78.8,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai pățit ceva similar la umărul acesta?"
+    },
+    {
+      "start": 78.92,
+      "end": 90.7,
+      "speaker": "SPEAKER_01",
+      "text": "Nu la umăr, dar acum câțiva ani am avut o problemă la cervicală, am stat vreo două săptămâni cu gâtul blocat, dar a trecut singur atunci, nu am făcut nimic special."
+    },
+    {
+      "start": 90.82,
+      "end": 93.1,
+      "speaker": "SPEAKER_00",
+      "text": "Și acum nu vă doare cervicala?"
+    },
+    {
+      "start": 93.22,
+      "end": 96.26,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, acum nu, acum mă doare doar umărul."
+    },
+    {
+      "start": 96.38,
+      "end": 98.66,
+      "speaker": "SPEAKER_00",
+      "text": "Alte afecțiuni, tensiune, diabet, osteoporoză, ceva?"
+    },
+    {
+      "start": 98.78,
+      "end": 105.62,
+      "speaker": "SPEAKER_01",
+      "text": "Am tensiune, da, iau și medicamente pentru ea. Iau Prestarium, o pastilă pe zi, de vreo doi ani."
+    },
+    {
+      "start": 105.74,
+      "end": 106.54,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Altceva?"
+    },
+    {
+      "start": 106.66,
+      "end": 127.56,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, în rest sunt bine, fac și sport, adică făceam, acum nu mai pot din cauza umărului, mergeam la sală de două ori pe săptămână, și asta mă și îngrijorează, că nu mai pot să fac nimic cu brațul drept, nici nu pot să dorm pe partea dreaptă, mă trezesc noaptea de la durere."
+    },
+    {
+      "start": 127.68,
+      "end": 130.34,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Ridicați brațul în față, sus, încet."
+    },
+    {
+      "start": 130.46,
+      "end": 132.74,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, mai sus doare."
+    },
+    {
+      "start": 132.86,
+      "end": 137.42,
+      "speaker": "SPEAKER_00",
+      "text": "Cam la 90 de grade se oprește, da. Acum duceți brațul lateral."
+    },
+    {
+      "start": 137.54,
+      "end": 142.48,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și aici, cam la fel, după 90 de grade deja mă ține."
+    },
+    {
+      "start": 142.6,
+      "end": 145.64,
+      "speaker": "SPEAKER_00",
+      "text": "Stați puțin, apăs eu aici pe tendonul supraspinatus."
+    },
+    {
+      "start": 145.76,
+      "end": 147.66,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, exact acolo e."
+    },
+    {
+      "start": 147.78,
+      "end": 149.68,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Și dacă rotim intern?"
+    },
+    {
+      "start": 149.8,
+      "end": 153.22,
+      "speaker": "SPEAKER_01",
+      "text": "Asta doare mai puțin, pot să fac mai mult."
+    },
+    {
+      "start": 153.34,
+      "end": 162.46,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Pare a fi o tendinopatie de supraspinatus, cel mai probabil inflamație acolo după efortul cu dulapul. Nu e ceva grav, dar trebuie lucrat."
+    },
+    {
+      "start": 162.58,
+      "end": 170.56,
+      "speaker": "SPEAKER_01",
+      "text": "Adică nu am rupt nimic? Că m-am tot gândit că am rupt ceva și mi-a fost teamă să vin."
+    },
+    {
+      "start": 170.68,
+      "end": 176.76,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, din ce testez eu acum nu pare o ruptură. Vom reduce inflamația și refacem mobilitatea."
+    },
+    {
+      "start": 176.88,
+      "end": 181.06,
+      "speaker": "SPEAKER_01",
+      "text": "Slavă Domnului, că mi-era frică să nu mă opereze cineva."
+    },
+    {
+      "start": 181.18,
+      "end": 186.12,
+      "speaker": "SPEAKER_00",
+      "text": "Nu ne gândim la operație. Vom începe cu câteva ședințe, vedem cum evoluează."
+    }
+  ]
+}

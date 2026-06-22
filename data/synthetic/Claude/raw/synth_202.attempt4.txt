@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, vă rog, cu ce problemă ați venit.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, sus, mijloc?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar. De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați ridicat ceva greu, ați stat mult jos?\nSPEAKER_01: Am stat la birou mai mult ca de obicei.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât îi dați?\nSPEAKER_01: Un 5.\nSPEAKER_00: 5. Doare constant sau numai când faceți ceva anume?\nSPEAKER_01: Când mă ridic din scaun. Și dimineața.\nSPEAKER_00: Dimineața când vă treziți, vă ține?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Trece după ce vă mișcați?\nSPEAKER_01: Da.\nSPEAKER_00: Durerea se lasă și pe picior?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțesc picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Doare mai mult pe o parte sau în mijloc?\nSPEAKER_01: Stânga parcă.\nSPEAKER_00: Pe partea stângă. Și la nivelul fesierului simțiți ceva?\nSPEAKER_01: Nu știu. Nu prea.\nSPEAKER_00: Ok. Ați mai avut dureri de spate în trecut?\nSPEAKER_01: Da, mai rar.\nSPEAKER_00: Ați fost diagnosticat cu vreo problemă la coloană, hernie, scolioză, altceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Tensiune arterială, diabet, osteoporoză?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune arterială. Luați medicamente pentru ea?\nSPEAKER_01: Da. Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: Zilnic?\nSPEAKER_01: Da, dimineața.\nSPEAKER_00: Altceva luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă examinăm puțin. Stați drept, cu spatele la mine. Relaxați umerii.\nSPEAKER_01: Bun.\nSPEAKER_00: Vedem o ușoară înclinare spre dreapta. Acum aplecați-vă în față, încet.\nSPEAKER_01: Doare când mă aplec.\nSPEAKER_00: Cât de tare?\nSPEAKER_01: Cam 6.\nSPEAKER_00: Și dacă vă îndreptați?\nSPEAKER_01: La fel.\nSPEAKER_00: Acum apăs ușor pe zona lombară stângă. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Mai sus?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Avem o contractură musculară paravertebrală stângă, lombar. Nu e o criză acută, e mai degrabă o tensionare musculară care s-a instalat din postura de la birou. Obiectivul nostru e să reducem contractura, să reechilibrăm bazinul și să lucrăm puțin mobilitatea lombară.\nSPEAKER_01: Da, ok.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară stângă de aproximativ două săptămâni, apărută după perioade prelungite la birou. Durere cu intensitate 5/10 în repaus, 6/10 la flexie, accentuată la ridicarea din scaun și dimineața (redoare matinală care cedează la mișcare). Fără iradiere pe membre, fără amorțeli.",
+    "evaluarea_durerii_vas": [5, 6],
+    "localizarea_durerii": ["lombar"],
+    "localizarea_durerii_alta": null,
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame, dimineața, zilnic"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară înclinare a trunchiului spre dreapta în ortostatism. Contractură musculară paravertebrală stângă la palpare lombară, fără reactivitate în zonele superioare. Mobilitate lombară limitată la flexie cu accentuarea durerii.\nDiagnostic:\nContractură musculară paravertebrală lombară stângă pe fond postural (sedentarism prelungit la birou). Fără semne de iritație radiculară.\nObiective terapeutice:\nReducerea contracturii musculare; reechilibrarea bazinului; creșterea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele.", "Jos.", "Am stat la birou mai mult ca de obicei.", "Vreo două săptămâni.", "Când mă ridic din scaun. Și dimineața.", "Nu.", "Stânga parcă."],
+    "evaluarea_durerii_vas": ["Un 5.", "Cam 6."],
+    "localizarea_durerii": ["Jos.", "Lombar."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Enalapril.", "10 miligrame.", "Da, dimineața."],
+    "evaluare_functionala_initiala": ["Vedem o ușoară înclinare spre dreapta.", "Avem o contractură musculară paravertebrală stângă, lombar.", "Nu e o criză acută, e mai degrabă o tensionare musculară care s-a instalat din postura de la birou.", "Obiectivul nostru e să reducem contractura, să reechilibrăm bazinul și să lucrăm puțin mobilitatea lombară."]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere umar drept cu iradiere pe brat, aparuta dupa efort fizic la gradina",
+  "evaluarea_durerii_vas": [
+    4,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "brat drept anterior pana la cot",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Fastum gel",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare abductie umar drept la aproximativ 90 de grade; sensibilitate la presiune pe tendonul supraspinatusului. Diagnostic: tendinopatie supraspinat, inflamatie manseta rotatorilor. Obiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii."
+}

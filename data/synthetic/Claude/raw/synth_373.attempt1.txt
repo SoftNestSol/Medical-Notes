@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, o lovitură, o căzătură, ați ridicat ceva greu?\nSPEAKER_01: Am vopsit un plafon.\nSPEAKER_00: Cu brațul ridicat mult timp?\nSPEAKER_01: Da, vreo trei ore.\nSPEAKER_00: Și după aia a apărut durerea?\nSPEAKER_01: A doua zi dimineața.\nSPEAKER_00: Am înțeles. Durerea e tot timpul prezentă sau apare doar la mișcare?\nSPEAKER_01: Mai mult la mișcare. Când ridic brațul.\nSPEAKER_00: Sus, în față sau în lateral?\nSPEAKER_01: Mai mult în lateral, sus.\nSPEAKER_00: Doare și noaptea, când stați pe partea dreaptă?\nSPEAKER_01: Da, mă trezesc.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum e durerea acum?\nSPEAKER_01: Acum vreo 4.\nSPEAKER_00: Și când ridicați brațul, la momentul cel mai rău?\nSPEAKER_01: 7, poate.\nSPEAKER_00: Durerea se lasă pe braț în jos, spre cot sau spre mână?\nSPEAKER_01: Nu, stă în umăr.\nSPEAKER_00: Aveți amorțeli în mână sau în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alergii la medicamente?\nSPEAKER_01: Nu.\nSPEAKER_00: Tensiune, diabet, osteoporoză, vreo altă afecțiune?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații la umăr sau altă traumă veche pe zona asta?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok, haideți să facem câteva teste. Ridicați brațul drept în lateral pentru mine, cât puteți.\nSPEAKER_01: Până aici cam.\nSPEAKER_00: Doare în acest punct?\nSPEAKER_01: Da, cam de la mijloc în sus.\nSPEAKER_00: Am înțeles, deci avem un arc dureros. Acum, brațul în față, ridicați.\nSPEAKER_01: Asta merge mai bine.\nSPEAKER_00: Bun. Puneți mâna dreaptă pe umărul opus și apăsați ușor cotul spre interior.\nSPEAKER_01: Au, da, doare.\nSPEAKER_00: Doare în adâncime sau la suprafață?\nSPEAKER_01: În adâncime.\nSPEAKER_00: Înțeleg. O să apăs acum pe tendonul din față, sus la umăr, îmi spuneți dacă recunoașteți durerea.\nSPEAKER_01: Da, exact acolo.\nSPEAKER_00: Bun. Deci avem o inflamație la nivelul tendoanelor de la umărul drept, cel mai probabil tendonul supraspinos și bursa subacromială. Asta apare destul de des după efort cu brațul ridicat prelungit, exact cum ați descris.\nSPEAKER_01: Și ce facem?\nSPEAKER_00: Începem cu reducerea inflamației, după care lucrăm mobilitatea și stabilizăm umărul. Ar trebui să simțiți îmbunătățiri după primele două-trei ședințe.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după vopsit plafonul cu brațul ridicat timp de aproximativ trei ore, prezentă de două săptămâni. Durere la ridicarea brațului în lateral și noaptea în decubit pe partea dreaptă.",
+    "evaluarea_durerii_vas": [4, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Arc dureros la abducție (durere de la mijlocul amplitudinii în sus). Flexia anterioară mai puțin dureroasă. Test de adducție forțată pozitiv cu durere în adâncime. Durere la palparea tendonului anterior al umărului drept.\nDiagnostic: Tendinopatie supraspinos și bursită subacromială umăr drept.\nObiective terapeutice: reducerea inflamației; refacerea mobilității; stabilizarea umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am vopsit un plafon.", "vreo trei ore", "A doua zi dimineața", "Vreo două săptămâni"],
+    "evaluarea_durerii_vas": ["Acum vreo 4.", "7, poate."],
+    "localizarea_durerii": ["Dreptul.", "stă în umăr"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["deci avem un arc dureros", "Au, da, doare.", "Da, exact acolo.", "avem o inflamație la nivelul tendoanelor de la umărul drept, cel mai probabil tendonul supraspinos și bursa subacromială", "Începem cu reducerea inflamației, după care lucrăm mobilitatea și stabilizăm umărul."]
+  }
+}

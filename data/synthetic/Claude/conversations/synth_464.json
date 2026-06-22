@@ -1,0 +1,313 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 5.64,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 5.76,
+      "end": 6.9,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare ceafa."
+    },
+    {
+      "start": 7.02,
+      "end": 8.16,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp?"
+    },
+    {
+      "start": 8.28,
+      "end": 9.8,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo două săptămâni."
+    },
+    {
+      "start": 9.92,
+      "end": 13.72,
+      "speaker": "SPEAKER_00",
+      "text": "Două săptămâni. Și a apărut brusc sau a venit treptat?"
+    },
+    {
+      "start": 13.84,
+      "end": 14.64,
+      "speaker": "SPEAKER_01",
+      "text": "Treptat."
+    },
+    {
+      "start": 14.76,
+      "end": 21.98,
+      "speaker": "SPEAKER_00",
+      "text": "Treptat. Și aveți vreo idee ce a declanșat-o? Ați stat mult la calculator, ați dormit prost, ceva anume?"
+    },
+    {
+      "start": 22.1,
+      "end": 24.76,
+      "speaker": "SPEAKER_01",
+      "text": "Stau mult la birou, da. Toată ziua."
+    },
+    {
+      "start": 24.88,
+      "end": 31.34,
+      "speaker": "SPEAKER_00",
+      "text": "Toată ziua la birou. Și durerea este strict în ceafă sau se lasă și în altă parte?"
+    },
+    {
+      "start": 31.46,
+      "end": 33.36,
+      "speaker": "SPEAKER_01",
+      "text": "Urcă și în cap, uneori."
+    },
+    {
+      "start": 33.48,
+      "end": 39.18,
+      "speaker": "SPEAKER_00",
+      "text": "Urcă în cap. Adică o senzație de durere de cap sau mai degrabă o tensiune?"
+    },
+    {
+      "start": 39.3,
+      "end": 41.2,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune, în spate la cap."
+    },
+    {
+      "start": 41.32,
+      "end": 43.98,
+      "speaker": "SPEAKER_00",
+      "text": "În spate la cap, la baza craniului."
+    },
+    {
+      "start": 44.1,
+      "end": 44.9,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 45.02,
+      "end": 47.3,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o parte sau pe ambele?"
+    },
+    {
+      "start": 47.42,
+      "end": 48.22,
+      "speaker": "SPEAKER_01",
+      "text": "Pe ambele."
+    },
+    {
+      "start": 48.34,
+      "end": 57.46,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, unde situați durerea din ceafă?"
+    },
+    {
+      "start": 57.58,
+      "end": 58.38,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 5."
+    },
+    {
+      "start": 58.5,
+      "end": 60.4,
+      "speaker": "SPEAKER_00",
+      "text": "5. E constantă sau variază?"
+    },
+    {
+      "start": 60.52,
+      "end": 62.8,
+      "speaker": "SPEAKER_01",
+      "text": "Variază. Spre seară e mai rău."
+    },
+    {
+      "start": 62.92,
+      "end": 70.9,
+      "speaker": "SPEAKER_00",
+      "text": "Spre seară e mai rău, după ore de stat la birou. Am înțeles. Și dimineața când vă treziți, e mai bine?"
+    },
+    {
+      "start": 71.02,
+      "end": 72.54,
+      "speaker": "SPEAKER_01",
+      "text": "Da, dimineața e suportabil."
+    },
+    {
+      "start": 72.66,
+      "end": 76.08,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Durerea coboară și pe umăr sau pe braț?"
+    },
+    {
+      "start": 76.2,
+      "end": 77.0,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu."
+    },
+    {
+      "start": 77.12,
+      "end": 79.4,
+      "speaker": "SPEAKER_00",
+      "text": "Nu. Aveți amorțeli la mâini, degete?"
+    },
+    {
+      "start": 79.52,
+      "end": 80.32,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 80.44,
+      "end": 81.96,
+      "speaker": "SPEAKER_00",
+      "text": "Senzații de amețeală, vertij?"
+    },
+    {
+      "start": 82.08,
+      "end": 82.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 83.0,
+      "end": 87.18,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ați mai avut această problemă înainte, sau e prima dată?"
+    },
+    {
+      "start": 87.3,
+      "end": 88.82,
+      "speaker": "SPEAKER_01",
+      "text": "Prima dată așa rău."
+    },
+    {
+      "start": 88.94,
+      "end": 92.74,
+      "speaker": "SPEAKER_00",
+      "text": "Prima dată. Alte afecțiuni, tensiune arterială, diabet, ceva de genul?"
+    },
+    {
+      "start": 92.86,
+      "end": 93.66,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 93.78,
+      "end": 95.68,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament în prezent?"
+    },
+    {
+      "start": 95.8,
+      "end": 96.6,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 96.72,
+      "end": 102.04,
+      "speaker": "SPEAKER_00",
+      "text": "Niciun medicament. Ok. Haideți să facem câteva teste rapide. Întoarceți capul spre dreapta, ușor."
+    },
+    {
+      "start": 102.16,
+      "end": 103.3,
+      "speaker": "SPEAKER_01",
+      "text": "Uh, e limitat."
+    },
+    {
+      "start": 103.42,
+      "end": 105.7,
+      "speaker": "SPEAKER_00",
+      "text": "Simțiți că se oprește și doare?"
+    },
+    {
+      "start": 105.82,
+      "end": 106.62,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 106.74,
+      "end": 107.88,
+      "speaker": "SPEAKER_00",
+      "text": "Și spre stânga?"
+    },
+    {
+      "start": 108.0,
+      "end": 109.9,
+      "speaker": "SPEAKER_01",
+      "text": "La fel, cam la fel."
+    },
+    {
+      "start": 110.02,
+      "end": 113.82,
+      "speaker": "SPEAKER_00",
+      "text": "Simetric, ambele direcții limitate. Acum dați capul puțin pe spate."
+    },
+    {
+      "start": 113.94,
+      "end": 115.46,
+      "speaker": "SPEAKER_01",
+      "text": "Asta doare mai tare."
+    },
+    {
+      "start": 115.58,
+      "end": 122.42,
+      "speaker": "SPEAKER_00",
+      "text": "Doare mai tare la extensie. Am înțeles. Apăs acum pe mușchii din ceafă, îmi spuneți dacă e sensibil."
+    },
+    {
+      "start": 122.54,
+      "end": 124.44,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo e. Foarte sensibil."
+    },
+    {
+      "start": 124.56,
+      "end": 153.44,
+      "speaker": "SPEAKER_00",
+      "text": "Da, simt contractura. Paravertebralii cervicali sunt contractați, mai ales pe zona C4-C5. Rotația e limitată bilateral și extensia cervicală provoacă durere. Nu avem iradiere pe braț, nu avem amorțeli, deci deocamdată fără semne de afectare radiculară. Eu zic că ne confruntăm cu o cervicalgie de postură, cu contractură musculară cervicală și o ușoară iritație la nivelul inserțiilor suboccipitale, de unde vine și tensiunea în cap. Vom lucra să reducem contractura și să recâștigăm mobilitatea cervicală."
+    },
+    {
+      "start": 153.56,
+      "end": 154.36,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 154.48,
+      "end": 158.66,
+      "speaker": "SPEAKER_00",
+      "text": "Dacă aveți și radiografie cervicală acasă, aduceți-o la următoarea ședință."
+    },
+    {
+      "start": 158.78,
+      "end": 159.92,
+      "speaker": "SPEAKER_01",
+      "text": "N-am făcut."
+    },
+    {
+      "start": 160.04,
+      "end": 165.36,
+      "speaker": "SPEAKER_00",
+      "text": "Nu-i nicio problemă, deocamdată mergem înainte. Vă rog să vă așezați pe masă."
+    }
+  ]
+}

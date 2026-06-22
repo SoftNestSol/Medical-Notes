@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stâng sau drept?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Am ridicat niște saci la serviciu.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare vă doare?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Vă doare și când stați liniștit sau numai când mișcați brațul?\nSPEAKER_01: Și când stau, dar mai rău când ridic brațul.\nSPEAKER_00: Ridicați brațul puțin pentru mine, cât puteți. Până unde ajungeți?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci undeva la 90 de grade cam atât. Și mai sus nu mai puteți?\nSPEAKER_01: Nu, doare.\nSPEAKER_00: Înțeles. Vă doare și pe braț în jos, spre cot?\nSPEAKER_01: Un pic, da.\nSPEAKER_00: Un pic. Amorțește ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Stați puțin să apăs eu puțin pe zona asta de aici. Doare?\nSPEAKER_01: Da, acolo da, rău.\nSPEAKER_00: Și aici, mai sus?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeles. Ce muncă faceți, dacă pot să întreb?\nSPEAKER_01: Depozit.\nSPEAKER_00: Deci mult cu ridicatul, da?\nSPEAKER_01: Da.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune. Luați ceva pentru ea?\nSPEAKER_01: Da, iau Norvasc.\nSPEAKER_00: Norvasc. Ce doză?\nSPEAKER_01: 5 miligrame.\nSPEAKER_00: 5 miligrame, în fiecare zi?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere prin sânge?\nSPEAKER_01: Nu.\nSPEAKER_00: Implanturi metalice?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme, unguente?\nSPEAKER_01: Nu știu, nu am pățit nimic.\nSPEAKER_00: Bun. Deci avem o inflamație la nivelul tendonului supraspinos, pe zona de umăr drept. Asta se cheamă tendinită de supraspinos. Vom lucra să reducem inflamația și să recâștigăm mobilitatea brațului. Haideți pe masă vă rog.",
+  "note": {
+    "motivul_prezentarii": "durere umar dr.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Norvasc",
+        "doza": "5 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: - Tendinita supraspinos umar dr.\nObiective terapeutice: - reducerea inflamatiei;\n- recastigarea mobilitatii bratului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul."],
+    "evaluarea_durerii_vas": ["Vreo 7."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["iau Norvasc.", "5 miligrame."],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendonului supraspinos, pe zona de umăr drept. Asta se cheamă tendinită de supraspinos. Vom lucra să reducem inflamația și să recâștigăm mobilitatea brațului."]
+  }
+}

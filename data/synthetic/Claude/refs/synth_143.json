@@ -1,0 +1,23 @@
+{
+  "motivul_prezentarii": "Durere cervicala cu iradiere in umar drept",
+  "evaluarea_durerii_vas": [
+    6,
+    4
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "5 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: Cervicalgie cu iradiere in umar drept; contractura trapez si cervical inferior dreapta.\nObiective terapeutice: reducerea contracturii; recapatarea mobilitatii cervicale."
+}

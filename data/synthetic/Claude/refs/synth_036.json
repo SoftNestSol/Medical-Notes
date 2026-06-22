@@ -1,0 +1,23 @@
+{
+  "motivul_prezentarii": "durere umar drept cu iradiere pe brat",
+  "evaluarea_durerii_vas": [
+    7,
+    4
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cot_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hernia_disc"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: sindrom de impingement subacromial, inflamatie coif rotator\nObiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii umarului, prevenirea frozen shoulder"
+}

@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă venim azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo trei săptămâni.\nSPEAKER_00: Și cum a apărut? Ați căzut, ați lovit ceva, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare acum?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Și noaptea vă doare, când stați pe umărul ăsta?\nSPEAKER_01: Da, mă trezesc.\nSPEAKER_00: Vă trezește durerea noaptea. Și când ridicați brațul sus doare?\nSPEAKER_01: Da, nu prea pot.\nSPEAKER_00: Nu prea puteți ridica brațul. Doare și în zona gâtului, se lasă pe braț în jos?\nSPEAKER_01: Nu, doar aici.\nSPEAKER_00: Doar în umăr. Bun. Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Am tensiune.\nSPEAKER_00: Tensiune arterială. Luați medicamente pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Enalapril. Ce doză?\nSPEAKER_01: Nu știu exact... 10, parcă.\nSPEAKER_00: 10 miligrame. Ok. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin cu brațul pe lângă corp, relaxat. Ridic eu acum ușor... Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Cam de unde începe durerea când ridic?\nSPEAKER_01: Pe la jumătate, pe aici.\nSPEAKER_00: La abducție cam pe la 90 de grade apare durerea. Apăs acum pe zona asta de aici, deasupra umărului. Doare?\nSPEAKER_01: Da, mult.\nSPEAKER_00: Și dacă apăs mai jos, pe biceps?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin. Bun. Pare a fi o inflamație la nivelul tendoanelor din umăr, cel mai probabil tendinită de supraspinos. Vom lucra să reducem inflamația și să recuperăm mobilitatea brațului. Bun?\nSPEAKER_01: Da.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang aparuta dupa mutatul mobilei, de aproximativ trei saptamani.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita supraspinos umar stang. Durere la abductie activa si pasiva ~90 grade. Palpare dureroasa deasupra umărului stang. Obiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii bratului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Vreo trei săptămâni.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Stângul.", "Nu, doar aici."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Am tensiune."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Enalapril.", "Nu știu exact... 10, parcă."],
+    "evaluare_functionala_initiala": ["La abducție cam pe la 90 de grade apare durerea.", "Apăs acum pe zona asta de aici, deasupra umărului. Doare?", "Pare a fi o inflamație la nivelul tendoanelor din umăr, cel mai probabil tendinită de supraspinos.", "Vom lucra să reducem inflamația și să recuperăm mobilitatea brațului."]
+  }
+}

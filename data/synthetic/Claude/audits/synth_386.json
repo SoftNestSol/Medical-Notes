@@ -1,0 +1,43 @@
+{
+  "conversation_id": "synth_386",
+  "evidence": {
+    "motivul_prezentarii": [
+      "de vreo trei săptămâni mă doare umărul stâng",
+      "noaptea nu pot să dorm pe partea stângă deloc",
+      "Am mutat niște mobilă acum vreo lună, o canapea mare, și poate de atunci"
+    ],
+    "evaluarea_durerii_vas": [
+      "Ziua... un 4, ceva de genul. Dar noaptea când mă trezesc din somn, merge până la 8, chiar 8."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul stâng",
+      "Mai mult în umăr, pe aici"
+    ],
+    "localizarea_durerii_alta": [
+      "câteodată simt ceva și pe partea din față, undeva pe biceps"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Voltaren gel, am dat cu el vreo câteva zile."
+    ],
+    "evaluare_functionala_initiala": [
+      "Deci rotația externă limitată, arc dureros prezent la abducție. Pare a fi o tendinopatie de supraspinos, posibil cu un conflict subacroamial.",
+      "O să lucrăm să reducem inflamația și să câștigăm mobilitate."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23237,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2372,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

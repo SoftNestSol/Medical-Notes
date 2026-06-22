@@ -1,0 +1,33 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule Crețu.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut după ceva anume, după un efort, după o mișcare?\nSPEAKER_01: Nu știu, m-am trezit dimineața și era.\nSPEAKER_00: Înțeles. Doare doar în zona gâtului sau se lasă și spre umăr, spre cap?\nSPEAKER_01: Și spre umăr, pe dreapta.\nSPEAKER_00: Spre umărul drept. Amorțește ceva, vreun deget, mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare e durerea?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Doare mai tare când stați la birou, la calculator?\nSPEAKER_01: Da.\nSPEAKER_00: Mult timp la birou zilnic?\nSPEAKER_01: Cam mult, da.\nSPEAKER_00: Cam câte ore?\nSPEAKER_01: Nu știu, vreo opt ore.\nSPEAKER_00: Opt ore la birou. Și în ce poziție stați de obicei, cu capul în față, aplecat spre ecran?\nSPEAKER_01: Probabil, da.\nSPEAKER_00: Înțeles. Doare și când întoarceți capul?\nSPEAKER_01: Da, pe dreapta nu prea pot.\nSPEAKER_00: Nu puteți roti spre dreapta. Și dacă dați capul pe spate?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Și atunci. Bun. Alte afecțiuni, cum ar fi tensiune, diabet, osteoporoză, epilepsie?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune. Luați ceva pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: 10 miligrame, Enalapril. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere prin sânge?\nSPEAKER_01: Nu.\nSPEAKER_00: Implanturi, proteze?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să fac câteva verificări. Stați puțin drept pentru mine.\nSPEAKER_01: Da.\nSPEAKER_00: Observ că umărul drept e puțin mai sus față de cel stâng. Acum apăs ușor pe musculatura gâtului pe dreapta. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și pe stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin pe stânga. Rotiți puțin capul spre dreapta, încet.\nSPEAKER_01: Au, da, nu pot mai mult.\nSPEAKER_00: Opriți acolo. Spre stânga?\nSPEAKER_01: Merge mai bine.\nSPEAKER_00: Merge mai bine spre stânga. Deci avem o limitare a rotației spre dreapta și o tensionare a musculaturii cervicale, în special pe dreapta. Pare a fi o contractură cervicală cu posibilă iritație la nivel C5-C6, dat fiind că se lasă și spre umărul drept. Vom lucra să reducem contractura musculară și să refacem mobilitatea cervicală.\nSPEAKER_01: Da.\nSPEAKER_00: Haideți pe masă, vă rog, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu iradiere spre umărul drept",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractură cervicală cu posibilă iritație C5-C6\nObiective terapeutice: reducerea contracturii musculare și refacerea mobilității cervicale"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul", "Și spre umăr, pe dreapta"],
+    "evaluarea_durerii_vas": ["Un 5"],
+    "localizarea_durerii": ["Mă doare gâtul", "Și spre umăr, pe dreapta"],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am"],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Enalapril", "10 miligrame"],
+    "evaluare_functionala_initiala": ["Pare a fi o contractură cervicală cu posibilă iritație la nivel C5-C6, dat fiind că se lasă și spre umărul drept. Vom lucra să reducem contractura musculară și să refacem mobilitatea cervicală"]
+  }
+}

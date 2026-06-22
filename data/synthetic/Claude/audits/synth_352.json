@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_352",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Am zugrăvit, am stat cu mâna ridicată mult.",
+      "nu pot dormi pe ea"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum vreo 5.",
+      "La zugrăvit, poate 8."
+    ],
+    "localizarea_durerii": [
+      "Dreptul."
+    ],
+    "localizarea_durerii_alta": [
+      "Coboară un pic, pe aici.",
+      "Laterală.",
+      "Nu ajunge.",
+      "Cam da."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Se blochează la vreo 90 de grade, doare când continuați?",
+      "Doare și la abducție laterală.",
+      "Greu.",
+      "Doare la presiune pe tendonul supraspinat.",
+      "avem o tendinopatie a mușchilor manșetei rotatorilor, cel mai probabil supraspinat, apărută după suprasolicitare cu brațul ridicat",
+      "să reducem inflamația tendonului și să recâștigăm mobilitatea umărului"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 13861
+    },
+    "cache_creation_input_tokens": 13861,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 1970,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

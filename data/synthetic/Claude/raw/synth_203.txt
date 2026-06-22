@@ -1,0 +1,57 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, cu ce problemă vă confruntați.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo trei săptămâni.\nSPEAKER_00: Și ce s-a întâmplat acum trei săptămâni? A fost o căzătură, un efort, ceva?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Ați ridicat ceva greu.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Și când e mai rău, dimineața sau seara?\nSPEAKER_01: Noaptea mai mult.\nSPEAKER_00: Vă trezește din somn?\nSPEAKER_01: Da, dacă stau pe partea aia.\nSPEAKER_00: Înțeleg. Când ridicați mâna sus doare?\nSPEAKER_01: Da, nu pot ridica.\nSPEAKER_00: Până unde ajungeți cu mâna?\nSPEAKER_01: Până pe la nivelul umărului, cam atât.\nSPEAKER_00: Deci nu reușiți să depășiți orizontala.\nSPEAKER_01: Nu.\nSPEAKER_00: Doare și când vă îmbrăcați, puneți haina?\nSPEAKER_01: Da, mă ține tare.\nSPEAKER_00: Amorțește brațul, simțiți ceva ciudat pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte zone mai dor?\nSPEAKER_01: Nu.\nSPEAKER_00: Tensiune, diabet, osteoporoză, ceva cronic?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Luați ceva pentru tensiune?\nSPEAKER_01: Da, Enalapril, 10 miligrame.\nSPEAKER_00: Zilnic?\nSPEAKER_01: Da, în fiecare dimineață.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale la umărul ăsta?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Ridicați brațul în față, încet. Doare?\nSPEAKER_01: Da, de pe la jumătate.\nSPEAKER_00: De pe la jumătate apare durerea. Acum în lateral, ridicați.\nSPEAKER_01: Asta doare mai tare.\nSPEAKER_00: Vedem că abducția e mai limitată decât flexia. Stați puțin, apăs pe tendonul supraspinatus.\nSPEAKER_01: Au.\nSPEAKER_00: Doare la presiune directă. Rotație internă, puneți mâna la spate.\nSPEAKER_01: Nu ajung prea departe.\nSPEAKER_00: Da, e limitată rotația. Deci avem o tendinopatie a supraspinatusului, cu posibil impingement subacomial. Obiectivul e să reducem inflamația și să recâștigăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: O să lucrăm câteva ședințe pe zonă și vă dau și niște exerciții acasă.\nSPEAKER_01: Bine.",
+  "note": {
+    "motivul_prezentarii": "Durere la nivelul umărului stâng, instalată după efort de ridicare a mobilei, de aproximativ trei săptămâni. Limitarea abducției și flexiei (nu depășește orizontala), durere nocturnă cu trezire din somn la decubit pe umărul afectat.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\nTendinopatie supraspinatus cu posibil impingement subacomial stâng. Abducție mai limitată decât flexia; durere la presiune directă pe tendonul supraspinatus; rotație internă limitată.\nObiective terapeutice:\nReducerea inflamației și recâștigarea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul",
+      "Stângul",
+      "Am mutat niște mobilă",
+      "De vreo trei săptămâni",
+      "Noaptea mai mult",
+      "Da, dacă stau pe partea aia",
+      "nu pot ridica",
+      "Până pe la nivelul umărului, cam atât"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5"
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul",
+      "Stângul"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Enalapril, 10 miligrame",
+      "Da, în fiecare dimineață"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o tendinopatie a supraspinatusului, cu posibil impingement subacomial",
+      "Obiectivul e să reducem inflamația și să recâștigăm mobilitatea",
+      "Vedem că abducția e mai limitată decât flexia",
+      "Doare la presiune directă",
+      "e limitată rotația"
+    ]
+  }
+}

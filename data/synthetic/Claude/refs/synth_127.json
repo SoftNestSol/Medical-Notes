@@ -1,0 +1,31 @@
+{
+  "motivul_prezentarii": "Durere umăr stâng de aproximativ trei săptămâni, accentuată în ultima săptămână. Durere la ridicarea brațului, la rotație internă și nocturnă. Iradiere pe brațul stâng până la mijloc, pe față exterioară. Posibil declanșată de ridicarea repetată a copilului mic.",
+  "evaluarea_durerii_vas": [
+    4,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "braț stâng mijloc, față anterioară umăr",
+  "antecedente": [
+    "hipertensiune_arteriala",
+    "scolioza_cifoza"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400"
+    },
+    {
+      "denumire": "Voltaren gel",
+      "doza": null
+    },
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- tendinopatie / inflamație manșetă rotatori umăr stâng, în special supraspinosul;\nObiective terapeutice:\n- reducerea procesului inflamator;\n- recuperarea mobilității umărului stâng;\nRecomandare investigații: ecografie umăr stâng."
+}

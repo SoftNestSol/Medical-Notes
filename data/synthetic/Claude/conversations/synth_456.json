@@ -1,0 +1,277 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua!"
+    },
+    {
+      "start": 2.56,
+      "end": 4.46,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi numele, vă rog."
+    },
+    {
+      "start": 4.58,
+      "end": 5.38,
+      "speaker": "SPEAKER_01",
+      "text": "Gheorghe Matei."
+    },
+    {
+      "start": 5.5,
+      "end": 7.4,
+      "speaker": "SPEAKER_00",
+      "text": "Și vârsta, dacă se poate."
+    },
+    {
+      "start": 7.52,
+      "end": 10.56,
+      "speaker": "SPEAKER_01",
+      "text": "38 de ani. Mă simt de 60, sincer."
+    },
+    {
+      "start": 10.68,
+      "end": 13.34,
+      "speaker": "SPEAKER_00",
+      "text": "Și cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 13.46,
+      "end": 36.64,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare umărul drept de vreo trei săptămâni. Am zis că trece, că poate am dormit strâmb, dar nu trece. Ba chiar mi se pare că s-a înrăutățit puțin față de început. Și am venit că mi-a zis și soția mea să nu mai amân, că eu tot zic că trece și nu trece niciodată de la sine."
+    },
+    {
+      "start": 36.76,
+      "end": 42.84,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și durerea asta e locală la umăr sau se lasă și în jos pe braț?"
+    },
+    {
+      "start": 42.96,
+      "end": 55.5,
+      "speaker": "SPEAKER_01",
+      "text": "Se lasă și pe braț, da, cam până la cot. Nu mai jos. Adică dacă ridic mâna sau o duc în spate simt că mă fulgera așa, pe partea din afară a brațului."
+    },
+    {
+      "start": 55.62,
+      "end": 57.14,
+      "speaker": "SPEAKER_00",
+      "text": "Pe partea din afară."
+    },
+    {
+      "start": 57.26,
+      "end": 66.38,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact. Și noaptea mă trezesc câteodată pentru că nu știu pe ce parte să dorm. Dacă mă întorc pe dreapta, mă doare imediat."
+    },
+    {
+      "start": 66.5,
+      "end": 75.24,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare cel mai rău, cum e durerea acum?"
+    },
+    {
+      "start": 75.36,
+      "end": 84.48,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, în repaus, vreo 4. Dar dacă ridic brațul sau îl duc în spate, ajunge ușor la 7, poate chiar 8 în unele mișcări."
+    },
+    {
+      "start": 84.6,
+      "end": 88.78,
+      "speaker": "SPEAKER_00",
+      "text": "Deci un 4 în repaus și un 7-8 la mișcare."
+    },
+    {
+      "start": 88.9,
+      "end": 90.04,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam așa."
+    },
+    {
+      "start": 90.16,
+      "end": 95.86,
+      "speaker": "SPEAKER_00",
+      "text": "Și cum a apărut? A existat vreun traumatism, vreo lovitură, ceva ce ați ridicat greu?"
+    },
+    {
+      "start": 95.98,
+      "end": 108.52,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu exact. Adică, eu lucrez în construcții, duc lucruri mai grele câteodată, dar nu îmi amintesc să fi făcut ceva anume. Poate am exagerat într-o zi, nu știu. A apărut treptat."
+    },
+    {
+      "start": 108.64,
+      "end": 111.3,
+      "speaker": "SPEAKER_00",
+      "text": "Deci fără un moment clar de debut."
+    },
+    {
+      "start": 111.42,
+      "end": 116.36,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, nimic dramatic. Parcă dimineața mă trezeam și era tot mai rigid."
+    },
+    {
+      "start": 116.48,
+      "end": 119.9,
+      "speaker": "SPEAKER_00",
+      "text": "Ați pus ceva pe el, vreun gel, vreo cremă?"
+    },
+    {
+      "start": 120.02,
+      "end": 133.32,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am folosit Voltaren, gelul ăla, câteva zile. A ajutat un pic, dar nu a rezolvat problema. Am mai luat și un Nurofen o dată când nu mai puteam de durere, dar nu iau regulat."
+    },
+    {
+      "start": 133.44,
+      "end": 136.1,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Voltaren gel și un Nurofen ocazional."
+    },
+    {
+      "start": 136.22,
+      "end": 140.4,
+      "speaker": "SPEAKER_01",
+      "text": "Da, nu mai mult. Nu prea îmi place să iau pastile."
+    },
+    {
+      "start": 140.52,
+      "end": 143.94,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți alte probleme de sănătate, tensiune, diabet, osteoporoză, ceva?"
+    },
+    {
+      "start": 144.06,
+      "end": 149.76,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Sunt sănătos tun, în rest. Poate puțin stresat, dar asta e altă poveste."
+    },
+    {
+      "start": 149.88,
+      "end": 152.54,
+      "speaker": "SPEAKER_00",
+      "text": "Nicio operație, nicio fractură pe zona asta?"
+    },
+    {
+      "start": 152.66,
+      "end": 157.6,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, n-am pățit nimic la umăr până acum. Ăsta e primul semnal."
+    },
+    {
+      "start": 157.72,
+      "end": 162.28,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți să vă verific puțin mișcările. Ridicați brațul în față, încet."
+    },
+    {
+      "start": 162.4,
+      "end": 165.44,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, mai sus deja mă fulgera."
+    },
+    {
+      "start": 165.56,
+      "end": 167.46,
+      "speaker": "SPEAKER_00",
+      "text": "Și până unde ajungeți aproximativ?"
+    },
+    {
+      "start": 167.58,
+      "end": 171.76,
+      "speaker": "SPEAKER_01",
+      "text": "Cam la orizontală, poate un pic mai sus, dar nu prea."
+    },
+    {
+      "start": 171.88,
+      "end": 176.44,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum duceți mâna în spate, ca și cum ați prinde centura."
+    },
+    {
+      "start": 176.56,
+      "end": 179.98,
+      "speaker": "SPEAKER_01",
+      "text": "Aaah, asta doare mai rău. Nu ajung, nu pot."
+    },
+    {
+      "start": 180.1,
+      "end": 185.8,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Stați puțin, apăs acum pe zona de sub acromion, în zona supraspinosului. Doare?"
+    },
+    {
+      "start": 185.92,
+      "end": 189.34,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, chiar acolo mă doare cel mai tare."
+    },
+    {
+      "start": 189.46,
+      "end": 193.64,
+      "speaker": "SPEAKER_00",
+      "text": "Exact acolo. Și dacă apăs pe biceps, pe tendonul bicipital aici?"
+    },
+    {
+      "start": 193.76,
+      "end": 196.42,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, dar și acolo simt ceva."
+    },
+    {
+      "start": 196.54,
+      "end": 210.6,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Deci avem o limitare clară a abducției și a rotației interne, cu durere maximă subacromială. Pare o tendinopatia a coifului rotatorilor, supraspinos în principal. Vom lucra pe reducerea inflamației din zonă și pe recuperarea mobilității umărului."
+    },
+    {
+      "start": 210.72,
+      "end": 219.08,
+      "speaker": "SPEAKER_01",
+      "text": "Și credeți că se poate rezolva? Că mă tem că o să rămân cu ea, că am auzit că umărul e complicat."
+    },
+    {
+      "start": 219.2,
+      "end": 226.42,
+      "speaker": "SPEAKER_00",
+      "text": "Da, cu siguranță putem reduce durerea și reda mobilitatea. O să avem nevoie de câteva ședințe, dar rezultatele apar."
+    },
+    {
+      "start": 226.54,
+      "end": 230.34,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine. Și să evit să ridic greutăți la muncă?"
+    },
+    {
+      "start": 230.46,
+      "end": 235.4,
+      "speaker": "SPEAKER_00",
+      "text": "Deocamdată da, cât timp lucrăm pe inflamație, evitați solicitările mari pe umărul drept."
+    },
+    {
+      "start": 235.52,
+      "end": 236.66,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, înțeles. Mulțumesc."
+    },
+    {
+      "start": 236.78,
+      "end": 238.68,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă, vă rog."
+    }
+  ]
+}

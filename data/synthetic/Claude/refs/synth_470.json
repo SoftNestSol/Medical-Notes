@@ -1,0 +1,26 @@
+{
+  "motivul_prezentarii": "Durere șold drept cu iradiere pe fața externă a coapsei, agravată de efort la munte, intensificată la mișcare (ridicare de pe scaun, urcat scări), persistentă de aproximativ 3 săptămâni",
+  "evaluarea_durerii_vas": [
+    7,
+    2
+  ],
+  "localizarea_durerii": [
+    "sold_dr"
+  ],
+  "localizarea_durerii_alta": "fața externă a coapsei drepte, până la jumătatea coapsei",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "apendicectomie în antecedente",
+  "medicatie_actuala": [
+    {
+      "denumire": "Amlodipină",
+      "doza": "5 miligrame, o dată pe zi"
+    },
+    {
+      "denumire": "Diclofenac",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații funcționale: mers cu pas scurtat pe dreapta, evitarea încărcării șoldului drept. Durere la palparea trohanterului mare (VAS 6/10). Ridicarea coapsei drepte cu flexie de genunchi dureroasă anterior și lateral. Rotație internă șold drept limitată și dureroasă; rotație externă fără restricție semnificativă.\nDiagnostic: Tendinopatie abductori / bursită trohanterică șold drept, agravată de efort prelungit și postură sedentară prelungită.\nObiective terapeutice: Reducerea inflamației locale; refacerea mobilității șoldului drept; corectarea biomecanicii mersului."
+}

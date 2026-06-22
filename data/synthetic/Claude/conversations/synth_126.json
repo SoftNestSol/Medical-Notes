@@ -1,0 +1,181 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, doamnă. Spuneți-mi cu ce problemă venim azi."
+    },
+    {
+      "start": 3.92,
+      "end": 25.2,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua. Păi, mă doare umărul stâng de vreo trei săptămâni, nu știu exact cum mi l-am făcut, adică probabil la sală, am început să merg la sală de vreo două luni și poate am forțat, nu știu, soțul meu zice că am ridicat prea greu, și acum nu mai pot să ridic mâna bine."
+    },
+    {
+      "start": 25.32,
+      "end": 29.88,
+      "speaker": "SPEAKER_00",
+      "text": "Deci umărul stâng. Doare și în repaus sau numai când îl mișcați?"
+    },
+    {
+      "start": 30.0,
+      "end": 39.12,
+      "speaker": "SPEAKER_01",
+      "text": "Și în repaus un pic, dar mai tare când ridic mâna, sau când mă întind după ceva sus. Noaptea e mai rău, mă trezesc."
+    },
+    {
+      "start": 39.24,
+      "end": 47.22,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât ați da?"
+    },
+    {
+      "start": 47.34,
+      "end": 54.56,
+      "speaker": "SPEAKER_01",
+      "text": "Păi acum, în momentul ăsta, un 5. Dar noaptea sigur e 7-8, nu pot să dorm pe el."
+    },
+    {
+      "start": 54.68,
+      "end": 56.96,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Umărul drept nu doare?"
+    },
+    {
+      "start": 57.08,
+      "end": 68.48,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, cel drept e bine. Adică mai am și o problemă cu gâtul, de mult timp, dar acum nu mai simt nimic acolo, deci nu știu dacă are legătură."
+    },
+    {
+      "start": 68.6,
+      "end": 71.64,
+      "speaker": "SPEAKER_00",
+      "text": "Cervicalul îl lăsăm deocamdată. Umărul stâng. Amorțește mâna?"
+    },
+    {
+      "start": 71.76,
+      "end": 73.28,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu amorțește, nu."
+    },
+    {
+      "start": 73.4,
+      "end": 76.06,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Alte afecțiuni, tensiune, diabet, osteoporoză, cancer?"
+    },
+    {
+      "start": 76.18,
+      "end": 80.36,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Iau pastile de vreo doi ani. Altceva nu."
+    },
+    {
+      "start": 80.48,
+      "end": 82.38,
+      "speaker": "SPEAKER_00",
+      "text": "Ce pastile luați pentru tensiune?"
+    },
+    {
+      "start": 82.5,
+      "end": 84.4,
+      "speaker": "SPEAKER_01",
+      "text": "Iau Enalapril, 10 miligrame, dimineața."
+    },
+    {
+      "start": 84.52,
+      "end": 86.04,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, altceva nu luați?"
+    },
+    {
+      "start": 86.16,
+      "end": 102.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, altceva nimic. Am vrut să iau și ceva antiinflamator de la farmacie pentru umăr, dar m-am gândit că mai bine vin mai întâi să văd ce e, că nu vreau să iau degeaba pastile dacă nu știu ce am, știți cum e."
+    },
+    {
+      "start": 103.0,
+      "end": 108.32,
+      "speaker": "SPEAKER_00",
+      "text": "Bine ați făcut. Haideți să vă verific puțin. Ridicați brațul stâng în față, încet."
+    },
+    {
+      "start": 108.44,
+      "end": 112.24,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe la înălțimea asta pot, mai sus mă doare."
+    },
+    {
+      "start": 112.36,
+      "end": 113.16,
+      "speaker": "SPEAKER_00",
+      "text": "Doare acum?"
+    },
+    {
+      "start": 113.28,
+      "end": 116.32,
+      "speaker": "SPEAKER_01",
+      "text": "Da, aici, pe partea din față a umărului."
+    },
+    {
+      "start": 116.44,
+      "end": 121.0,
+      "speaker": "SPEAKER_00",
+      "text": "Stați puțin cu brațul sus. Vă apăs zone. Spuneți-mi dacă doare."
+    },
+    {
+      "start": 121.12,
+      "end": 123.02,
+      "speaker": "SPEAKER_01",
+      "text": "Aaaai, da, acolo doare tare."
+    },
+    {
+      "start": 123.14,
+      "end": 125.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Rotație internă, duceți mâna la spate."
+    },
+    {
+      "start": 125.92,
+      "end": 128.2,
+      "speaker": "SPEAKER_01",
+      "text": "Nu ajung bine, mă blochează undeva."
+    },
+    {
+      "start": 128.32,
+      "end": 139.72,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Deci avem o inflamație la nivelul tendonului supraspinos, cel mai probabil o tendinopatie de coafă rotatorilor. Obiectivul principal e să reducem inflamația și să redobândim mobilitatea completă a umărului."
+    },
+    {
+      "start": 139.84,
+      "end": 148.58,
+      "speaker": "SPEAKER_01",
+      "text": "Adică e grav? Că m-am tot gândit că poate am rupt ceva, am văzut pe internet că se poate rupe tendoane și..."
+    },
+    {
+      "start": 148.7,
+      "end": 154.78,
+      "speaker": "SPEAKER_00",
+      "text": "Nu pare ruptură, dată fiind mobilitatea pe care o aveți. Dar o să lucrăm cu grijă."
+    },
+    {
+      "start": 154.9,
+      "end": 162.12,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine, mă bucur. Și cât timp credeți că durează, că eu chiar vreau să mă întorc la sală?"
+    },
+    {
+      "start": 162.24,
+      "end": 166.04,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde cum răspundeți la tratament. Haideți să trecem la treabă."
+    }
+  ]
+}

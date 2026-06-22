@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_227",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, umărul ăsta drept, de vreo două luni și ceva",
+      "am mutat niște cutii, am ajutat la o mutare, știți cum e, am cărat destul de mult",
+      "Se lasă, da, un pic pe braț, pe aici, pe partea din față, până pe la jumătatea brațului",
+      "am și o durere la gât, la ceafă mai ales, dar aia o am de mult, de ani de zile. Stau mult la birou, la calculator"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în repaus, un 3. Dar dacă încerc să ridic brațul sus sau să mă întind după ceva, dau un 7, chiar 8 uneori"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, umărul ăsta drept",
+      "am și o durere la gât, la ceafă mai ales"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă, da, un pic pe braț, pe aici, pe partea din față, până pe la jumătatea brațului. Nu mai jos, nu ajunge la cot."
+    ],
+    "antecedente": [
+      "mi s-a zis că am o ușoară scolioză, în adolescență, când eram la școală m-au trimis la medicul de familie și a zis că e ușoară"
+    ],
+    "antecedente_altele": [
+      "am avut o fractură la mâna stângă acum vreo zece ani, am căzut, am purtat ghips vreo șase săptămâni, dar după aia a trecut"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "pare o inflamație la nivelul tendoanelor din zona umărului, cel mai probabil la nivelul coafei rotatorilor, zona de supraspinat în special. Arată ca un sindrom de impingement subacromial.",
+      "vom lucra și la cervical, că e legat. Obiectivul principal e umărul drept, dar vom include și zona cervicală",
+      "În prima fază lucrăm să reducem inflamația, să recuperăm mobilitatea, cu terapie manuală, cu fizioterapie."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21330,
+    "inference_geo": "global",
+    "input_tokens": 318,
+    "output_tokens": 3470,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_474",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare ceafa.",
+      "Vreo două săptămâni.",
+      "Treptat, parcă.",
+      "Stau mult la birou, da.",
+      "Vreo opt, nouă ore."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare ceafa.",
+      "Uneori ajunge și în cap, sus.",
+      "În spate, occipital, nu știu cum se cheamă."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți capul dus un pic în față față de umeri, ceea ce pune presiune pe zona cervicală inferioară.",
+      "Doare un pic.",
+      "Stânga merge mai bine.",
+      "Ăsta doare mai tare.",
+      "Exact în zona suboccipitală.",
+      "Ambele, dar mai tare dreapta.",
+      "Deci ce vedem noi aici este o tensionare a musculaturii cervicale superioare și a suboccipitalilor, cel mai probabil din cauza posturii prelungite la birou.",
+      "Obiectivul nostru va fi să relaxăm musculatura, să redăm mobilitatea cervicală și să vă învățăm câteva exerciții posturale."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22971,
+    "inference_geo": "global",
+    "input_tokens": 357,
+    "output_tokens": 2086,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

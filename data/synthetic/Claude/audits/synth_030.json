@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_030",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele, jos, de vreo trei săptămâni",
+      "Sunt contabilă, stau toată ziua la calculator. Opt ore, uneori mai mult.",
+      "am mutat niște cutii acasă, mai grele, cam cu două, trei săptămâni înainte să înceapă",
+      "a apărut mai târziu",
+      "Treptat. Întâi ușor, după s-a tot accentuat",
+      "mă ține un pic, sunt câteva minute până mă dezmorțesc"
+    ],
+    "evaluarea_durerii_vas": [
+      "Dimineața când mă ridic din pat e cam un 7",
+      "Pe parcursul zilei mai scade, ajunge pe la 5"
+    ],
+    "localizarea_durerii": [
+      "zona de jos a spatelui, lombarul",
+      "simt că se duce și pe fesă, pe dreapta"
+    ],
+    "localizarea_durerii_alta": [
+      "parcă merge puțin pe coapsă, dar nu ajunge jos",
+      "Vă apăs ușor zona lombară, spuneți-mi dacă doare",
+      "pe zona de piriform, pe fesă dreapta"
+    ],
+    "antecedente": [
+      "Am tensiune, da. Iau pastile de vreo doi ani.",
+      "mai am și o scolioză, mi-a spus medicul de familie acum câțiva ani"
+    ],
+    "antecedente_altele": [
+      "acum opt ani am avut o operație de apendicită"
+    ],
+    "medicatie_actuala": [
+      "Iau Prestarium, un sfert de pastilă dimineața, pentru tensiune",
+      "mai iau Ibuprofen când mă doare rău spatele",
+      "de două, trei ori pe săptămână când e mai rău. Câte un comprimat",
+      "400, cred. Da, 400."
+    ],
+    "evaluare_functionala_initiala": [
+      "Vedem o ușoară asimetrie la nivelul bazinului, umărul drept puțin mai ridicat",
+      "Ceea ce vedem în momentul de față este o inflamație la nivelul musculaturii lombare și a piriformului pe dreapta",
+      "Există o disfuncție de bazin, o mică asimetrie, probabil și din cauza posturii de la birou și a efortului de la ridicarea cutiilor",
+      "Obiectivul nostru este să reducem inflamația, să lucrăm mobilitatea lombară și să corectăm disfuncția de bazin",
+      "dacă durerea nu cedează după câteva ședințe, o să vă recomand să faceți un RMN ca să fim siguri"
+    ]
+  },
+  "usage": null
+}

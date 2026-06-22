@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Pacientă cu durere la nivelul umărului drept, instalată treptat în ultimele câteva luni, cu limitarea mobilității (nu poate ridica mâna sus, nu se poate pieptăna). Durerea se accentuează la mișcare și nocturn în decubit pe umărul afectat. Iradiază pe fața laterală a brațului până aproximativ la nivelul cotului, fără amorțeli. Tratament antiinflamator anterior (Diclofenac) cu ameliorare temporară.",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "braț drept lateral, până la nivelul cotului",
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism (diagnosticat de aproximativ 3 ani); operație menisc genunchi stâng (aproximativ 5 ani în urmă)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "75 micrograme"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUmeri aduși în față (postură cifotică toracală superioară, probabil ortostatism la calculator). Flexie activă umăr drept limitată la aproximativ 90 de grade cu durere la continuarea mișcării. Abducție activă umăr drept limitată similar. Rotație internă limitată și dureroasă. Palpare dureroasă pe zona tendonului supraspinat și la nivelul acromionului drept.\nDiagnostic:\nTendinopatie coafă rotatori umăr drept, posibilă afectare tendon supraspinat; limitare de mobilitate la flexie și abducție.\nObiective terapeutice:\nReducerea inflamației locale; recuperarea mobilității la flexie și abducție; lucru pe postură (corectarea proiecției anterioare a umerilor); recomandare ecografie umăr drept."
+}

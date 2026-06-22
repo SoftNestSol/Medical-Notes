@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_376",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere la umăr, la umărul drept, de vreo două săptămâni",
+      "acum vreo trei săptămâni am mutat niște cutii grele la birou, singur, și parcă de atunci a început",
+      "Dacă ridic brațul așa în sus, doare rău. Dacă îl duc în lateral, la fel.",
+      "noaptea mai am momente când mă trezesc dacă mă întorc pe partea dreaptă",
+      "mai am ceva pe zona gâtului, pe cervical, dar mai veche treaba asta"
+    ],
+    "evaluarea_durerii_vas": [
+      "La ridicare, așa, un 7. Da, 7 e corect. Când stau, poate un 2-3, nu mai mult."
+    ],
+    "localizarea_durerii": [
+      "am o durere la umăr, la umărul drept",
+      "mai am ceva pe zona gâtului, pe cervical"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă un pic, da, pe partea din față a brațului, până pe la cot, cam pe acolo."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Voltaren gel, pe umăr, vreo câteva zile"
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd că e limitată ridicarea, aproximativ la 90 de grade, și apare durerea.",
+      "Avem o inflamație la nivelul tendoanelor coifului rotatorilor, cel mai probabil supraspinosul.",
+      "Durerea care coboară pe braț e din cauza iritației locale, nu e o problemă nervoasă.",
+      "Obiectivul nostru va fi să reducem inflamația și să recuperăm amplitudinea de mișcare a umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22971,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2433,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

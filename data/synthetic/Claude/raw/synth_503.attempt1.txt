@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, luați loc vă rog.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce vă pot ajuta?\nSPEAKER_01: Mă doare spatele, jos.\nSPEAKER_00: Jos, zona lombară. De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. A apărut din senin sau după ceva anume?\nSPEAKER_01: După ce am cărat niște cutii.\nSPEAKER_00: Deci după un efort fizic. Ați ridicat ceva greu?\nSPEAKER_01: Da, mai multe cutii cu cărți.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, unde ați pune durerea?\nSPEAKER_01: Cam la 5.\nSPEAKER_00: La 5. Doare tot timpul sau numai când faceți anumite mișcări?\nSPEAKER_01: Mai mult când mă aplec sau când stau jos mult.\nSPEAKER_00: Când stați pe scaun mult timp, da?\nSPEAKER_01: Da.\nSPEAKER_00: Și când vă ridicați din pat dimineața?\nSPEAKER_01: Mă ține un pic, da.\nSPEAKER_00: Durerea rămâne în zona aia de jos sau se lasă și pe fesă, pe picior?\nSPEAKER_01: Nu, rămâne acolo.\nSPEAKER_00: Strict în zona lombară. Amorțeală la picioare, vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Aveți vreo afecțiune, tensiune, diabet, osteoporoză, ceva de genul?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, niciun calmant?\nSPEAKER_01: Nu, nu am luat nimic.\nSPEAKER_00: Ok. Ce ocupație aveți, dacă pot să întreb?\nSPEAKER_01: Stau mult la birou.\nSPEAKER_00: Deci poziție șezând prelungită. Câte ore pe zi aproximativ?\nSPEAKER_01: Vreo 8, 9 ore.\nSPEAKER_00: Am înțeles. Haideți să vă examinez un pic. Stați în picioare cu spatele la mine, relaxat.\nSPEAKER_01: Bine.\nSPEAKER_00: Observ că aveți o ușoară înclinare spre dreapta, postura e un pic asimetrică. Vă aplecați ușor în față, cât puteți.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare când vă aplecați?\nSPEAKER_01: Da, crește durerea.\nSPEAKER_00: Și când vă îndreptați înapoi?\nSPEAKER_01: Și atunci, da.\nSPEAKER_00: Haideți acum pe masă, cu fața în sus. Ridic piciorul drept, îmi spuneți dacă doare.\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Și stângul?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun, Lasègue negativ bilateral. Apăs acum pe zona lombară. Doare?\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Deci palparea paravertebrală e sensibilă. Durerea e mai spre mijloc sau mai pe lateral?\nSPEAKER_01: Mai spre mijloc, parcă.\nSPEAKER_00: Am înțeles. Deci ce vedem aici e o contractură musculară paravertebrală lombară, apărută după efort, fără semne de afectare radiculară. Mobilitatea în flexie e limitată și dureroasă. O să lucrăm să reducem contractura și să redăm mobilitatea.\nSPEAKER_01: Bine.\nSPEAKER_00: Și vă recomand să aveți grijă la cum stați la birou, poziția e importantă.\nSPEAKER_01: Da, ok.",
+
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă, apărută după efort fizic (căratul de cutii cu cărți), cu debut de aproximativ două săptămâni. Durere accentuată la flexie, la poziție șezândă prelungită și la trezire, fără iradiere pe membrele inferioare și fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": ["lombar"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară asimetrie posturală cu înclinare spre dreapta. Mobilitate în flexie lombară limitată și dureroasă. Sensibilitate la palparea paravertebrală lombară, mai accentuată spre linia mediană. Test Lasègue negativ bilateral.\nDiagnostic:\nContractură musculară paravertebrală lombară post-efort, fără semne de afectare radiculară.\nObiective terapeutice:\nReducerea contracturii musculare și redarea mobilității lombare; corectarea posturii în poziție șezândă."
+  },
+
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele, jos.", "După ce am cărat niște cutii.", "De vreo două săptămâni.", "Mai mult când mă aplec sau când stau jos mult.", "Nu, rămâne acolo."],
+    "evaluarea_durerii_vas": ["Cam la 5."],
+    "localizarea_durerii": ["Mă doare spatele, jos.", "zona lombară"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu, nu am luat nimic."],
+    "evaluare_functionala_initiala": ["Observ că aveți o ușoară înclinare spre dreapta, postura e un pic asimetrică.", "Doare când vă aplecați?", "Da, crește durerea.", "Lasègue negativ bilateral.", "Deci palparea paravertebrală e sensibilă.", "ce vedem aici e o contractură musculară paravertebrală lombară, apărută după efort, fără semne de afectare radiculară. Mobilitatea în flexie e limitată și dureroasă. O să lucrăm să reducem contractura și să redăm mobilitatea."]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_134",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Cel drept.",
+      "De vreo două săptămâni.",
+      "Am cărat niște cutii grele la muncă."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Cel drept.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau un ibuprofen din când în când.",
+      "400."
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul coafei rotatorilor, cel mai probabil tendonul supraspinos este afectat",
+      "Mobilitatea este limitată, nu puteți ridica brațul peste 90 de grade, rotația externă este dureroasă",
+      "Obiectivul nostru în prima fază e să reducem inflamația și să recâștigăm amplitudinea de mișcare"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13528,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1746,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

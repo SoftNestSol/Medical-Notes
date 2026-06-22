@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_145",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare gâtul îngrozitor, cervicalele, și capul, adică la ceafă mai ales",
+      "Și pe umăr, da, pe partea dreaptă",
+      "Am dureri de cap din cauza asta"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în momentul ăsta? Aș zice un 6",
+      "dimineața când mă trezesc poate fi și 8"
+    ],
+    "localizarea_durerii": [
+      "mă doare gâtul îngrozitor, cervicalele, și capul, adică la ceafă mai ales",
+      "Și pe umăr, da, pe partea dreaptă"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt că îmi merge până în omoplat, pe partea dreaptă"
+    ],
+    "antecedente": [
+      "mi-a spus medicul de familie că am o ușoară cifoză toracală"
+    ],
+    "antecedente_altele": [
+      "am avut o fractură la mâna dreaptă acum vreo zece ani, la pumn, de la o căzătură, dar s-a vindecat complet"
+    ],
+    "medicatie_actuala": [
+      "Am luat Nurofen când mă durea foarte tare",
+      "mai iau Magne B6",
+      "Câte o pastilă pe zi, dimineața"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o tensionare a musculaturii cervicale, mai ales pe partea dreaptă, cu iradiere spre umărul drept și omoplat",
+      "Mobilitatea rotatorie spre dreapta e limitată",
+      "O să începem cu relaxarea musculaturii cervicale și a trapezului"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13612,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 2620,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

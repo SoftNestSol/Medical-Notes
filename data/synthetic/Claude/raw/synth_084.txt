@@ -1,0 +1,40 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare genunchiul.\nSPEAKER_00: Care genunchi, dreptul sau stângul?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut după ceva anume? O lovitură, un efort?\nSPEAKER_01: Am alergat mai mult.\nSPEAKER_00: Deci după alergat a apărut durerea.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde situați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare constant sau doar când faceți anumite mișcări?\nSPEAKER_01: Când merg mult sau urc scări.\nSPEAKER_00: Când urcați scările doare mai tare sau la coborât?\nSPEAKER_01: La urcat.\nSPEAKER_00: Și când stați jos, în repaus, dispare?\nSPEAKER_01: Da, cam da.\nSPEAKER_00: Doare mai mult în față la genunchi, în spate sau pe lateral?\nSPEAKER_01: În față, aici.\nSPEAKER_00: Pe sub rotulă sau mai sus?\nSPEAKER_01: Sub rotulă, parcă.\nSPEAKER_00: Înțeles. Genunchiul se umflă?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Simțiți că vă cedează piciorul, că nu vă ține?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Aveți alte dureri în afară de genunchi?\nSPEAKER_01: Nu.\nSPEAKER_00: Afecțiuni pe care le știți, diabet, tensiune, osteoporoză, artroză?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai avut probleme cu genunchii până acum?\nSPEAKER_01: Nu, prima oară.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Nimic.\nSPEAKER_00: Ok. Haideți să stați puțin în picioare, să mă uit la dumneavoastră. Stați pe piciorul stâng singur, fără sprijin.\nSPEAKER_01: Mhm.\nSPEAKER_00: Vă ține?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Acum îndoiți ușor genunchiul stâng.\nSPEAKER_01: Au, doare.\nSPEAKER_00: Doare. Unde exact, tot sub rotulă?\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Ok. Haideți pe masă cu fața în sus, vă rog.\nSPEAKER_01: Da.\nSPEAKER_00: Apăs ușor pe rotulă... Doare?\nSPEAKER_01: Un pic.\nSPEAKER_00: Și dacă apăs sub rotulă, pe tendon?\nSPEAKER_01: Acolo doare mai tare.\nSPEAKER_00: Deci avem o sensibilitate pe tendonul patelar. Asta e consistent cu o tendinopatie patelară, apărută după suprasolicitare la alergat. O să lucrăm să reducem inflamația din zona aceea și să recuperăm mobilitatea genunchiului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere genunchi stâng apărută după alergat, de aproximativ două săptămâni. Durere subfpatelară la efort (mers mult, urcat scări), dispare în repaus.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "genunchi_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Tendinopatie patelară genunchi stâng (suprasolicitare post-alergat).\nObiective terapeutice: reducerea inflamației; recuperarea mobilității genunchiului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare genunchiul.",
+      "Stângul.",
+      "Am alergat mai mult.",
+      "Vreo două săptămâni.",
+      "Când merg mult sau urc scări.",
+      "Da, cam da."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "În față, aici.",
+      "Sub rotulă, parcă."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Deci avem o sensibilitate pe tendonul patelar. Asta e consistent cu o tendinopatie patelară, apărută după suprasolicitare la alergat. O să lucrăm să reducem inflamația din zona aceea și să recuperăm mobilitatea genunchiului."
+    ]
+  }
+}

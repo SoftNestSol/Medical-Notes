@@ -1,0 +1,63 @@
+SPEAKER_00: Bună ziua!
+SPEAKER_01: Bună ziua, bună ziua...
+SPEAKER_00: Luați loc, vă rog. Cu ce problemă ne vedem astăzi?
+SPEAKER_01: Păi... mă doare spatele, zona de jos, de vreo trei săptămâni. Și m-am speriat un pic, sincer, că nu mi-a mai trecut singur cum trecea înainte.
+SPEAKER_00: Înțeleg. Și mai devreme trecea singur, de obicei?
+SPEAKER_01: Da, da, mai aveam episoade, dar treceau în câteva zile. Acum nu mai trece și mă îngrijorez, nu știu dacă e ceva grav.
+SPEAKER_00: Ok. Haideți să vedem. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare insuportabil, unde situați durerea acum?
+SPEAKER_01: Acum, stând jos... un 5, poate 6. Dar dimineața când mă scol e mai rău, poate un 7, 7 și ceva.
+SPEAKER_00: Deci dimineața e mai intens.
+SPEAKER_01: Da, da, dimineața e cel mai rău. Mă ridic din pat și parcă mă taie. Și apoi, după ce mă mișc puțin, mai cedează.
+SPEAKER_00: Mă înțeleg. Durerea rămâne strict în zona lombară sau se lasă și în altă parte?
+SPEAKER_01: Păi... uneori simt ceva și pe fesă, pe partea stângă. Nu mereu, dar câteodată.
+SPEAKER_00: Pe fesă stângă. Coboară mai jos de fesă, pe picior?
+SPEAKER_01: Nu știu exact... uneori parcă simt ceva până la jumătatea coapsei, cam pe din dos. Dar nu știu dacă e de la durere sau îmi imaginez eu.
+SPEAKER_00: Bine, bine, o notăm. Amorțeală, furnicături la picior stâng?
+SPEAKER_01: Nu, nu, amorțeală nu am simțit. Sau... stați, o dată m-am trezit dimineața și parc-aveam un pic pe picior, dar a trecut repede, nu știu dacă contează.
+SPEAKER_00: Ok. Ce făceați când a apărut durerea prima dată, acum trei săptămâni?
+SPEAKER_01: Mutasem niște cutii, boxe mari, la birou. Am ridicat ceva mai greoi și a doua zi dimineața nu m-am mai putut ridica din pat normal.
+SPEAKER_00: Deci a apărut după un efort de ridicare.
+SPEAKER_01: Exact, exact. Și m-am gândit că trece, dar n-a trecut. Ăsta mă sperie, că nu trece.
+SPEAKER_00: Înțeleg că vă îngrijorează. Ce muncă faceți, stați mult la birou?
+SPEAKER_01: Da, la birou, la calculator, vreo opt, nouă ore pe zi. Șed cam mult, știu că nu e bine.
+SPEAKER_00: Și în timpul zilei, când stați pe scaun mult, se agravează?
+SPEAKER_01: Da, dacă stau mai mult de o oră fix, începe să mă doară mai tare. Mă ridic un pic, mai umblu și trece puțin.
+SPEAKER_00: Bine. Ați făcut vreun RMN sau radiografie la coloana lombară?
+SPEAKER_01: Nu, nu am făcut nimic. Ar trebui? E ceva grav? Mă gândeam că poate am o hernie sau ceva...
+SPEAKER_00: Nu vă faceți griji înainte de evaluare. Hai să vedem noi mai întâi ce se întâmplă. Spuneți-mi, aveți alte afecțiuni cunoscute? Tensiune arterială, diabet, ceva?
+SPEAKER_01: Tensiune am, da. Mi s-a spus acum vreo doi ani că am tensiune arterială crescută.
+SPEAKER_00: Și luați ceva pentru tensiune?
+SPEAKER_01: Da, iau Prestarium, 5 miligrame, în fiecare dimineață.
+SPEAKER_00: Altceva mai luați în mod curent?
+SPEAKER_01: Iau și un Nurofen când mă doare tare spatele, dar nu în fiecare zi, doar când nu mai suport.
+SPEAKER_00: Ok. Altă medicație, altceva fix?
+SPEAKER_01: Nu, atât.
+SPEAKER_00: Bine. Alte probleme de sănătate în afară de tensiune? Diabet, osteoporoză, operații la coloană?
+SPEAKER_01: Nu, nu. Adică am avut acum câțiva ani o problemă cu stomacul, gastrită, dar aia a trecut. La coloană nu am făcut nicio operație.
+SPEAKER_00: Ok. Și la coloana lombară, vi s-a spus vreodată că aveți hernie de disc, scolioză, ceva diagnosticat?
+SPEAKER_01: Nu, niciodată. De aia mă tem acum, că nu știu ce e și mi s-a agravat.
+SPEAKER_00: Înțeleg. Haideți să facem câteva mișcări să vedem. Ridicați-vă vă rog.
+SPEAKER_01: Bine... 
+SPEAKER_00: Aplecați-vă ușor înainte, cât puteți.
+SPEAKER_01: Până aici pot, mai mult mă strânge.
+SPEAKER_00: Doare la aplecare?
+SPEAKER_01: Da, da, pe zona de jos, aici. Au.
+SPEAKER_00: Acum ușor pe spate.
+SPEAKER_01: Puțin... da, doare și-așa, dar mai puțin decât înainte.
+SPEAKER_00: Întoarcere spre dreapta. Doare?
+SPEAKER_01: Un pic, nu foarte tare.
+SPEAKER_00: Spre stânga.
+SPEAKER_01: Stânga doare mai mult, da, mai tare.
+SPEAKER_00: Ok. Stați puțin pe piciorul stâng singur... vă ține?
+SPEAKER_01: Mă ține, da, dar simt ceva în fesă, pe stânga.
+SPEAKER_00: Da. Acum culcați-vă pe masă pe spate, cu picioarele întinse. Ridic eu piciorul stâng, îmi spuneți dacă doare.
+SPEAKER_01: Ok... au, doare în spate și puțin pe fesă.
+SPEAKER_00: La câte grade aproximativ, o să ridic încet.
+SPEAKER_01: Cam pe la jumătate deja doare serios.
+SPEAKER_00: Bun. Și dreptul?
+SPEAKER_01: Dreapta e mai bine, nu doare la fel.
+SPEAKER_00: Bine. Deci avem o limitare la ridicarea piciorului stâng cu durere lombară și pe fesă, test pozitiv pe stânga. Musculatura paravertebrală lombară e contractată bilateral, mai mult pe stânga. Vedem o postură cu ușoară flexie laterală, de protecție. Cel mai probabil avem o iritație radiculară la nivel lombar inferior, cu durere referită pe fesă și coapsă stângă, fără semne clare de radiculopatie distală în momentul de față. Haideți să lucrăm să reducem inflamația și contractura musculară și să vedem cum evoluați.
+SPEAKER_01: Dar nu e ceva grav, nu? Adică hernie nu am?
+SPEAKER_00: Din ce vedem clinic acum, nu avem semne de radiculopatie severă. Dar pentru siguranță, dacă nu se ameliorează după câteva ședințe, vă recomand un RMN ca să fim siguri.
+SPEAKER_01: Ok, bine, mă bucur că nu e ceva dramatic. Și mai trece?
+SPEAKER_00: Trece, cu tratament adecvat trece. Haideți să începem.

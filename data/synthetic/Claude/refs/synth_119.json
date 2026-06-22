@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Pacientă cu durere lombară joasă, predominant pe dreapta, cu caracter intermitent, de câteva luni. Durerea se accentuează la stat prelungit pe scaun și dimineața la sculare (redoare matinală câteva minute). Iradiere ocazională pe membrul inferior drept, pe fața posterioară, până la jumătatea coapsei. Fără amorțeli. Asociază cervicalgie ocazională, secundară posturii la calculator.",
+  "evaluarea_durerii_vas": null,
+  "localizarea_durerii": [
+    "lombar",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "coapsă dreaptă posterioară",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "modificări discale la radiografie (aproximativ 2 ani vechime, detalii necunoscute)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "un comprimat pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nInegalitate la nivelul bazinului, umărul drept mai sus față de stânga. Limitarea flexiei lombare cu durere lombară joasă pe dreapta. Înclinare laterală spre dreapta dureroasă. Contractură musculară paravertebrală la palpare.\nDiagnostic:\nSuferință discală lombară, cel mai probabil L4-L5 sau L5-S1, cu posibilă iritație radiculară pe dreapta.\nObiective terapeutice:\nReducerea inflamației; mobilizarea coloanei lombare; corectarea dezechilibrului de bazin."
+}

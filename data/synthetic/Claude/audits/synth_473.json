@@ -1,0 +1,46 @@
+{
+  "conversation_id": "synth_473",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele jos.",
+      "Am mutat niște mobilă.",
+      "Vreo două săptămâni.",
+      "Un pic pe fesă dreaptă."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele jos."
+    ],
+    "localizarea_durerii_alta": [
+      "Un pic pe fesă dreaptă."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară tensionare pe partea dreaptă a lombarului.",
+      "la flexie anterioară doare",
+      "Pe zona lombară dreaptă.",
+      "Apăs puțin pe pătratul lombar dreapta. Doare?",
+      "Apăs pe piriform, aici la fesă dreapta. Doare?",
+      "Deci avem o contractură a pătratului lombar și a piriformului pe dreapta, apărute după efort fizic. Durerea este locală, fără iradiere pe membrul inferior",
+      "O să lucrăm să reducem inflamația și contractura musculară și să recuperăm mobilitatea în zona lombară."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 22971
+    },
+    "cache_creation_input_tokens": 22971,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 351,
+    "output_tokens": 2214,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

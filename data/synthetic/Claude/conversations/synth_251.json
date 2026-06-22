@@ -1,0 +1,289 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 3.74,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi numele, vă rog."
+    },
+    {
+      "start": 3.86,
+      "end": 4.66,
+      "speaker": "SPEAKER_01",
+      "text": "Dumitru Pavel."
+    },
+    {
+      "start": 4.78,
+      "end": 5.58,
+      "speaker": "SPEAKER_00",
+      "text": "Vârsta?"
+    },
+    {
+      "start": 5.7,
+      "end": 6.5,
+      "speaker": "SPEAKER_01",
+      "text": "38."
+    },
+    {
+      "start": 6.62,
+      "end": 9.28,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem, domnule Dumitru?"
+    },
+    {
+      "start": 9.4,
+      "end": 10.54,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare umărul."
+    },
+    {
+      "start": 10.66,
+      "end": 11.46,
+      "speaker": "SPEAKER_00",
+      "text": "Care umăr?"
+    },
+    {
+      "start": 11.58,
+      "end": 12.38,
+      "speaker": "SPEAKER_01",
+      "text": "Cel drept."
+    },
+    {
+      "start": 12.5,
+      "end": 13.64,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp?"
+    },
+    {
+      "start": 13.76,
+      "end": 15.28,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo două săptămâni."
+    },
+    {
+      "start": 15.4,
+      "end": 19.2,
+      "speaker": "SPEAKER_00",
+      "text": "S-a întâmplat ceva? Ați căzut, ați ridicat ceva greu?"
+    },
+    {
+      "start": 19.32,
+      "end": 21.98,
+      "speaker": "SPEAKER_01",
+      "text": "Am zugrăvit. Vreo trei zile la rând."
+    },
+    {
+      "start": 22.1,
+      "end": 25.52,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Doare constant sau doar când mișcați brațul?"
+    },
+    {
+      "start": 25.64,
+      "end": 27.54,
+      "speaker": "SPEAKER_01",
+      "text": "Când ridic brațul mai ales."
+    },
+    {
+      "start": 27.66,
+      "end": 28.8,
+      "speaker": "SPEAKER_00",
+      "text": "Sus, deasupra capului?"
+    },
+    {
+      "start": 28.92,
+      "end": 29.72,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 29.84,
+      "end": 35.54,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cât de tare doare când ridicați brațul?"
+    },
+    {
+      "start": 35.66,
+      "end": 36.46,
+      "speaker": "SPEAKER_01",
+      "text": "Un 7."
+    },
+    {
+      "start": 36.58,
+      "end": 37.72,
+      "speaker": "SPEAKER_00",
+      "text": "Și în repaus?"
+    },
+    {
+      "start": 37.84,
+      "end": 39.74,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin. Un 2, 3."
+    },
+    {
+      "start": 39.86,
+      "end": 42.52,
+      "speaker": "SPEAKER_00",
+      "text": "Noaptea vă deranjează? Dormiți pe umărul acela?"
+    },
+    {
+      "start": 42.64,
+      "end": 44.16,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori mă trezesc, da."
+    },
+    {
+      "start": 44.28,
+      "end": 49.22,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea se lasă și pe braț în jos sau e locală, în umăr?"
+    },
+    {
+      "start": 49.34,
+      "end": 50.48,
+      "speaker": "SPEAKER_01",
+      "text": "Doar în umăr."
+    },
+    {
+      "start": 50.6,
+      "end": 52.88,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Tensiune, diabet, vreo altă afecțiune?"
+    },
+    {
+      "start": 53.0,
+      "end": 53.8,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 53.92,
+      "end": 55.06,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreo medicație?"
+    },
+    {
+      "start": 55.18,
+      "end": 55.98,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 56.1,
+      "end": 62.18,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să vedem puțin cum stăm. Ridicați brațul drept ușor în față... până unde puteți."
+    },
+    {
+      "start": 62.3,
+      "end": 63.44,
+      "speaker": "SPEAKER_01",
+      "text": "Până cam aici."
+    },
+    {
+      "start": 63.56,
+      "end": 64.36,
+      "speaker": "SPEAKER_00",
+      "text": "Doare acum?"
+    },
+    {
+      "start": 64.48,
+      "end": 66.76,
+      "speaker": "SPEAKER_01",
+      "text": "Da, de aici în sus doare."
+    },
+    {
+      "start": 66.88,
+      "end": 70.68,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Și lateral, ridicați brațul în lateral, la fel."
+    },
+    {
+      "start": 70.8,
+      "end": 71.6,
+      "speaker": "SPEAKER_01",
+      "text": "Și acolo."
+    },
+    {
+      "start": 71.72,
+      "end": 73.24,
+      "speaker": "SPEAKER_00",
+      "text": "La fel de tare?"
+    },
+    {
+      "start": 73.36,
+      "end": 74.16,
+      "speaker": "SPEAKER_01",
+      "text": "Cam da."
+    },
+    {
+      "start": 74.28,
+      "end": 81.12,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Mă lăsați să apăs puțin pe umăr, pe zona de deasupra, pe acromion. Spuneți-mi dacă doare."
+    },
+    {
+      "start": 81.24,
+      "end": 82.04,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da."
+    },
+    {
+      "start": 82.16,
+      "end": 89.38,
+      "speaker": "SPEAKER_00",
+      "text": "Deci avem o sensibilitate la nivel de acromion. Rotire externă, brațul la 90 de grade, mâna în sus. Doare?"
+    },
+    {
+      "start": 89.5,
+      "end": 90.3,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic."
+    },
+    {
+      "start": 90.42,
+      "end": 92.32,
+      "speaker": "SPEAKER_00",
+      "text": "Mai puțin decât la ridicare?"
+    },
+    {
+      "start": 92.44,
+      "end": 93.24,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 93.36,
+      "end": 109.7,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Eu zic că avem o inflamație la nivelul mușchilor manșetei rotatorilor, cel mai probabil supraspinatus, dat fiind contextul, zugrăvit cu brațul ridicat mai multe zile. Vom lucra să reducem inflamația și să refacem mobilitatea umărului drept. Câteva ședințe și vedem cum evoluează."
+    },
+    {
+      "start": 109.82,
+      "end": 110.62,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 110.74,
+      "end": 112.64,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă vă rog."
+    }
+  ]
+}

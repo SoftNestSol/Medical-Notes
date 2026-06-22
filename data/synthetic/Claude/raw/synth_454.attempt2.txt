@@ -1,0 +1,46 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Ionescu Mihai.\nSPEAKER_00: Mulțumesc, domnule Ionescu. Și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. A apărut după ceva anume, după un efort, după o mișcare?\nSPEAKER_01: Nu știu, m-am trezit dimineața și era acolo.\nSPEAKER_00: Deci fără un eveniment clar. Durerea stă localizată în gât sau se lasă și pe umăr, pe braț?\nSPEAKER_01: Mai mult pe umărul drept.\nSPEAKER_00: Pe umărul drept se lasă și durerea, sau e o durere separată acolo?\nSPEAKER_01: Se lasă, da.\nSPEAKER_00: Înțeles. Mai jos de umăr, pe braț în jos, simțiți ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală, nicio furnicătură?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum estimați durerea?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. E mai rău dimineața, seara sau în timpul zilei?\nSPEAKER_01: Dimineața.\nSPEAKER_00: Dimineața. Și pe parcursul zilei se mai ameliorează?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Lucrați la birou, la calculator?\nSPEAKER_01: Da.\nSPEAKER_00: Multe ore pe zi?\nSPEAKER_01: Vreo opt, nouă ore.\nSPEAKER_00: Opt, nouă ore. Și stați mult cu capul aplecat sau cu gâtul înainte spre ecran?\nSPEAKER_01: Probabil, da.\nSPEAKER_00: Ok. Tensiune, diabet, alte boli de care știți?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio operație, niciun traumatism la gât sau la coloană?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva verificări. Vă rog să stați drept, așa. Întoarceți capul ușor spre dreapta.\nSPEAKER_01: Mă trage.\nSPEAKER_00: Trage pe dreapta. Spre stânga?\nSPEAKER_01: Mai bine.\nSPEAKER_00: Mai liber spre stânga. Acum aplecați capul spre umărul drept.\nSPEAKER_01: Au, da, acolo doare.\nSPEAKER_00: Doare la înclinare laterală spre dreapta. Bun. Acum apăs puțin aici pe mușchiul trapez dreapta, spuneți-mi dacă doare.\nSPEAKER_01: Da.\nSPEAKER_00: Cât de tare, de la 0 la 10?\nSPEAKER_01: Un 7.\nSPEAKER_00: Un 7 la palpare pe trapez dreapta. Și aici, mai aproape de coloană, la nivelul vertebrelor cervicale?\nSPEAKER_01: Mai puțin, un 4.\nSPEAKER_00: Un 4. Deci tensiunea mai mare în musculatură decât pe coloana propriu-zisă. Bun. Înțeleg. Ce se întâmplă de obicei este că statul prelungit la calculator cu capul dus înainte creează o suprasolicitare a mușchilor de la ceafă și a trapezului, iar asta duce la această durere care coboară și pe umăr. Vom lucra pe relaxarea musculaturii cervicale și a trapezului drept și vom vedea și cum stă mobilitatea după câteva ședințe.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să ne așezăm pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu iradiere pe umărul drept, apărută de aproximativ două săptămâni, exacerbată dimineața, în context de muncă prelungită la calculator.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații funcționale: mobilitate cervicală redusă la rotație și înclinare laterală dreapta; palpare trapez drept dureroasă (VAS 7), paravertebral cervical mai puțin sensibil (VAS 4). Tensiune musculară predominantă față de afectare vertebrală directă.\nDiagnostic: Cervicalgie cu iradiere pe umărul drept, suprasolicitare musculară trapez și musculatură cervicală posterioară, probabil în context postural (muncă la calculator 8-9 ore/zi).\nObiective terapeutice: relaxarea musculaturii cervicale și a trapezului drept; refacerea mobilității cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "De vreo două săptămâni.",
+      "m-am trezit dimineața și era acolo",
+      "Mai mult pe umărul drept.",
+      "Dimineața.",
+      "Vreo opt, nouă ore."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Mai mult pe umărul drept."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Mă trage.",
+      "Mai bine.",
+      "Au, da, acolo doare.",
+      "Un 7 la palpare pe trapez dreapta.",
+      "Mai puțin, un 4.",
+      "Deci tensiunea mai mare în musculatură decât pe coloana propriu-zisă.",
+      "Vom lucra pe relaxarea musculaturii cervicale și a trapezului drept și vom vedea și cum stă mobilitatea după câteva ședințe."
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua!"
+    },
+    {
+      "start": 2.56,
+      "end": 4.84,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă vă vedem astăzi?"
+    },
+    {
+      "start": 4.96,
+      "end": 24.72,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, de vreo trei săptămâni mă doare umărul drept. Și inițial am crezut că o să treacă, că am mai pățit-o, dar nu trece. Adică am stat, am așteptat, am pus niște gheață, am pus un gel, Voltaren am pus, nu știu dacă a ajutat sau nu, dar tot mă doare."
+    },
+    {
+      "start": 24.84,
+      "end": 27.5,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și unde exact doare, mai precis?"
+    },
+    {
+      "start": 27.62,
+      "end": 41.3,
+      "speaker": "SPEAKER_01",
+      "text": "Aici, în față, pe partea din față a umărului. Și câteodată se lasă și pe braț în jos, dar nu tot timpul. Adică uneori e doar aici, fix în umăr, alteori simt că merge pe braț."
+    },
+    {
+      "start": 41.42,
+      "end": 43.7,
+      "speaker": "SPEAKER_00",
+      "text": "Pe braț cât de jos coboară?"
+    },
+    {
+      "start": 43.82,
+      "end": 48.38,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe la jumătatea brațului, până pe la biceps, nu mai jos."
+    },
+    {
+      "start": 48.5,
+      "end": 50.78,
+      "speaker": "SPEAKER_00",
+      "text": "Nu coboară în cot, în mână?"
+    },
+    {
+      "start": 50.9,
+      "end": 53.94,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, în cot nu. Doar până acolo."
+    },
+    {
+      "start": 54.06,
+      "end": 59.0,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Și cum a apărut? A fost ceva anume, o mișcare, un efort?"
+    },
+    {
+      "start": 59.12,
+      "end": 77.74,
+      "speaker": "SPEAKER_01",
+      "text": "Asta e chestia, nu știu exact. Eu lucrez în depozit, car cutii tot timpul, și probabil de acolo. Dar nu m-am lovit, nu am căzut, nu știu să fi făcut o mișcare greșită anume. Adică a apărut treptat, într-o dimineață m-am trezit și deja mă durea."
+    },
+    {
+      "start": 77.86,
+      "end": 79.38,
+      "speaker": "SPEAKER_00",
+      "text": "Deci a apărut progresiv."
+    },
+    {
+      "start": 79.5,
+      "end": 95.08,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact. Și acum e tot mai deranjant, mai ales dimineața. Dimineața e cel mai rău, mă trezesc și parcă nu pot să ridic brațul. Și mă mai doare când îl duc în spate, când încerc să îl pun la spate."
+    },
+    {
+      "start": 95.2,
+      "end": 99.76,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cum ați evalua durerea?"
+    },
+    {
+      "start": 99.88,
+      "end": 106.72,
+      "speaker": "SPEAKER_01",
+      "text": "Dimineața un 7, aș zice. Pe parcursul zilei se mai liniștește, poate 4-5, dar tot e acolo."
+    },
+    {
+      "start": 106.84,
+      "end": 109.12,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Amorțeli în braț, în degete?"
+    },
+    {
+      "start": 109.24,
+      "end": 110.76,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, amorțeală nu am."
+    },
+    {
+      "start": 110.88,
+      "end": 115.06,
+      "speaker": "SPEAKER_00",
+      "text": "Alte probleme, tensiune, diabet, ceva care să fie important să știu?"
+    },
+    {
+      "start": 115.18,
+      "end": 133.42,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, sunt sănătos, nu am nimic din astea. Adică poate un pic de gastrită, dar nu e relevan pentru umăr, nu? Și am mai mers la un ortoped acum două săptămâni, mi-a zis să iau antiinflamatorii și să stau liniștit, dar nu s-a îmbunătățit mare lucru."
+    },
+    {
+      "start": 133.54,
+      "end": 138.1,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, înțeleg. Și în afară de Voltaren gel, ați luat ceva oral?"
+    },
+    {
+      "start": 138.22,
+      "end": 149.24,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, gel am pus, nu am luat pastile. Mi-a recomandat ortopedul Ibuprofen, dar nu am luat, nu prea îmi place să iau pastile dacă pot să evit."
+    },
+    {
+      "start": 149.36,
+      "end": 152.78,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Stați puțin, ridicați brațul în față, încet."
+    },
+    {
+      "start": 152.9,
+      "end": 155.56,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, după aia mă doare."
+    },
+    {
+      "start": 155.68,
+      "end": 159.86,
+      "speaker": "SPEAKER_00",
+      "text": "Deci limitare la ridicarea anterioară. Acum duceți brațul lateral, în abducție."
+    },
+    {
+      "start": 159.98,
+      "end": 166.06,
+      "speaker": "SPEAKER_01",
+      "text": "Aaah, asta doare mai tare, da. Pe la 80-90 de grade cam așa doare rău."
+    },
+    {
+      "start": 166.18,
+      "end": 168.08,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă continuați mai sus?"
+    },
+    {
+      "start": 168.2,
+      "end": 173.9,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă îmi dau seama că trec de acel punct doare mai puțin, da, e ciudat."
+    },
+    {
+      "start": 174.02,
+      "end": 182.76,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Asta e semn că avem un conflict în spațiul subacromial. Acum puneți mâna la spate, ca și cum v-ați prinde centura."
+    },
+    {
+      "start": 182.88,
+      "end": 185.16,
+      "speaker": "SPEAKER_01",
+      "text": "Nu pot, doare, mă opresc aici."
+    },
+    {
+      "start": 185.28,
+      "end": 189.46,
+      "speaker": "SPEAKER_00",
+      "text": "Da, rotația internă e limitată. Și dacă apăs aici, sub acromion?"
+    },
+    {
+      "start": 189.58,
+      "end": 190.72,
+      "speaker": "SPEAKER_01",
+      "text": "Da, doare, da."
+    },
+    {
+      "start": 190.84,
+      "end": 211.36,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Deci ce vedem noi aici este o inflamație la nivelul tendoanelor din umărul drept, cel mai probabil o tendinopatie de supraspinos, cu un sindrom de impingement subacromial. Mișcarea este limitată și dureroasă pe abducție și rotație internă. Vom lucra să reducem inflamația, să eliberăm spațiul subacromial și să redobândim mobilitatea completă a umărului."
+    },
+    {
+      "start": 211.48,
+      "end": 218.7,
+      "speaker": "SPEAKER_01",
+      "text": "Și cât durează, credeți? Că eu am nevoie să pot munci, la serviciu ridic tot timpul și mă îngrijorează."
+    },
+    {
+      "start": 218.82,
+      "end": 227.56,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde cum răspunde țesutul la terapie, dar în general cu câteva ședințe vedem o îmbunătățire. Important e să nu forțați mișcările dureroase deocamdată."
+    },
+    {
+      "start": 227.68,
+      "end": 231.1,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, înțeleg. Și cu Voltaren pot să mai pun?"
+    },
+    {
+      "start": 231.22,
+      "end": 232.36,
+      "speaker": "SPEAKER_00",
+      "text": "Puteți, nu strică."
+    },
+    {
+      "start": 232.48,
+      "end": 233.62,
+      "speaker": "SPEAKER_01",
+      "text": "Bun, bun. Mulțumesc."
+    }
+  ]
+}

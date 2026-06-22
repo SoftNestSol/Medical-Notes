@@ -1,0 +1,50 @@
+{
+  "conversation_id": "synth_247",
+  "evidence": {
+    "motivul_prezentarii": [
+      "de vreo trei săptămâni mă doare gâtul și umărul drept",
+      "simt că se duce și spre omoplat, pe partea dreaptă",
+      "am și dureri de cap, mai ales la ceafă"
+    ],
+    "evaluarea_durerii_vas": [
+      "în zona gâtului aș zice un 6, poate 7 dimineața",
+      "La umăr e mai mult un 5"
+    ],
+    "localizarea_durerii": [
+      "mă doare gâtul și umărul drept",
+      "am și dureri de cap, mai ales la ceafă"
+    ],
+    "localizarea_durerii_alta": [
+      "simt că se duce și spre omoplat, pe partea dreaptă",
+      "furnicătură aici, pe partea din afară a brațului drept"
+    ],
+    "antecedente": [
+      "când eram mic, la vreo 14 ani, mi s-a spus că am o ușoară scolioză"
+    ],
+    "antecedente_altele": [
+      "mi-am rupt claviculele, claviculele drepte, la fotbal",
+      "clavicula dreaptă, acum zece ani"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o contractură importantă la nivelul musculaturii cervicale, în special trapezul superior și ridicătorul scapulei pe partea dreaptă",
+      "Furnicătura pe care o simțiți pe braț sugerează că există și o iritație la nivel cervical, poate C5-C6",
+      "Durerile de cap pe care le descrieți sunt cel mai probabil de tip tensional, generate de această contractură cervicală",
+      "Obiectivul nostru în primele ședințe va fi să reducem contractura musculară și să eliberăm mobilitatea coloanei cervicale, și după să lucrăm și pe postura generală"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13758,
+    "inference_geo": "global",
+    "input_tokens": 318,
+    "output_tokens": 3420,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

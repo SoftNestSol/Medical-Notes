@@ -1,0 +1,26 @@
+{
+  "motivul_prezentarii": "Pacient prezintă durere la umărul stâng cu debut progresiv de aproximativ două săptămâni, posibil declanșată de un efort fizic (mutarea de mobilă). Durere VAS 4/10 în repaus și 7/10 la mișcare, cu iradiere pe brațul stâng superior (fără a coborî spre cot). Durerea trezește pacientul noaptea la culcarea pe partea stângă. Limitarea mobilității în abducție și rotație internă. Lucru la birou 8-9 ore/zi, postura deficitară la calculator.",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "braț stâng superior (iradiere fără a coborî spre cot)",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Perindopril",
+      "doza": "5 mg, o dată pe zi, dimineața"
+    },
+    {
+      "denumire": "Ketoprofen",
+      "doza": "un comprimat seara (oprit după 5 zile)"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nLimitare mobilitate activă umăr stâng în flexie și abducție la aproximativ 90 de grade. Rotație internă limitată și dureroasă. Durere la palparea zonei acromionului stâng. Sensibilitate moderată pe porțiunea anterioară a bicepsului. Test de rezistență în abducție pozitiv (durere la apăsare în jos cu brațul la 90 de grade).\nDiagnostic:\nTendinopatie coafă rotatori umăr stâng, cu suspiciune de conflict subacromion. Ecografie de umăr recomandată pentru evaluarea stării tendoanelor.\nObiective terapeutice:\nReducerea procesului inflamator; recuperarea mobilității umărului stâng (flexie, abducție, rotație internă); corectarea posturii la locul de muncă; recomandare evitare decubit lateral stâng."
+}

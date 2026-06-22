@@ -1,0 +1,46 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți azi.\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut așa, dintr-odată, sau treptat?\nSPEAKER_01: Treptat.\nSPEAKER_00: Aveți o muncă de birou, stați mult la calculator?\nSPEAKER_01: Da.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Un 5. Doare doar în gât sau se lasă și în altă parte?\nSPEAKER_01: Și-n cap, câteodată.\nSPEAKER_00: Dureri de cap. Mai des sau rar?\nSPEAKER_01: Rar.\nSPEAKER_00: Se lasă pe umăr, pe braț?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțesc degetele, mâinile?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Dimineața când vă treziți e mai rău sau pe parcursul zilei?\nSPEAKER_01: Pe parcursul zilei, mai ales după-amiază.\nSPEAKER_00: Deci după ore lungi la birou. Înțeles. Tensiune, diabet, vreo afecțiune mai veche?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul ăsta?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin cu spatele la mine. Vreau să văd cum stați în picioare.\nSPEAKER_01: Bine.\nSPEAKER_00: Observ că aveți capul dus puțin în față față de umeri. E o postură caracteristică muncii la calculator.\nSPEAKER_01: Da?\nSPEAKER_00: Da. Acum întoarceți capul la dreapta, ușor. Doare?\nSPEAKER_01: Da, puțin.\nSPEAKER_00: Și la stânga.\nSPEAKER_01: Și-acolo.\nSPEAKER_00: La fel sau mai mult?\nSPEAKER_01: La fel.\nSPEAKER_00: Dați capul pe spate.\nSPEAKER_01: Asta doare mai tare.\nSPEAKER_00: Înțeles. Vă apăs puțin pe mușchii de aici, trapez, spuneți-mi dacă doare.\nSPEAKER_01: Da, doare.\nSPEAKER_00: Pe dreapta sau pe stânga mai mult?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Și pe stânga.\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Deci avem o contractură musculară cervicală, mai pronunțată pe dreapta, cu limitarea mobilității în extensie și rotații. Probabil instalată din cauza posturii la birou. O să lucrăm să reducem contractura și să corectăm puțin postura capului. Da?\nSPEAKER_01: Da, bine.\nSPEAKER_00: Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală instalată treptat în ultimele două săptămâni, asociată cu muncă de birou prelungită la calculator. Durere accentuată după-amiază, cu iradiere ocazională în cap. Fără iradiere pe membre, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nCap proiectat anterior față de umeri (postură caracteristică muncii la calculator). Limitarea mobilității cervicale în extensie (dureroasă) și în rotații bilateral (la fel pe ambele părți). Contractură trapez bilateral, mai pronunțată pe dreapta.\nDiagnostic:\nContractură musculară cervicală, mai pronunțată pe dreapta, cu limitarea mobilității în extensie și rotații.\nObiective terapeutice:\nReducerea contracturii musculare cervicale; corectarea posturii capului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "Treptat.",
+      "Vreo două săptămâni.",
+      "Da.",
+      "Și-n cap, câteodată.",
+      "Pe parcursul zilei, mai ales după-amiază."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Și-n cap, câteodată."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți capul dus puțin în față față de umeri.",
+      "Asta doare mai tare.",
+      "Da, doare.",
+      "Pe dreapta.",
+      "Mai puțin.",
+      "avem o contractură musculară cervicală, mai pronunțată pe dreapta, cu limitarea mobilității în extensie și rotații.",
+      "O să lucrăm să reducem contractura și să corectăm puțin postura capului."
+    ]
+  }
+}

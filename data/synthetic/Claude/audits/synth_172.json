@@ -1,0 +1,42 @@
+{
+  "conversation_id": "synth_172",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Am mutat niște mobilă.",
+      "Vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 6.",
+      "Poate un 2."
+    ],
+    "localizarea_durerii": [
+      "Drept.",
+      "Pe lateral, așa.",
+      "Doar în umăr."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un ibuprofen câteodată."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare o inflamație la nivelul tendonului supraspinos. O să lucrăm să reducem inflamația și să recuperăm amplitudinea de mișcare."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22760,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1590,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

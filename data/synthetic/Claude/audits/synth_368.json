@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_368",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere pe umăr, pe partea dreaptă, de ceva vreme",
+      "Câteodată simt ceva pe braț, pe partea asta, dar nu știu dacă e din umăr sau din altă parte. Nu coboară mult, se oprește pe la... pe la cot",
+      "mai rău e seara, după ce am stat toată ziua la serviciu. Și dimineața când mă trezesc mai am o înțepenire, dar trece repede"
+    ],
+    "evaluarea_durerii_vas": [
+      "Poate un 6, cam așa.",
+      "Ah, când stau, 2, 3, ceva de genul ăsta."
+    ],
+    "localizarea_durerii": [
+      "am o durere pe umăr, pe partea dreaptă",
+      "mai mult umărul",
+      "un pic și ceafa, da",
+      "Nu coboară mult, se oprește pe la... pe la cot, undeva pe acolo"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Mi s-a spus cândva că am o ușoară scolioză, dar nu m-a deranjat niciodată."
+    ],
+    "antecedente_altele": [
+      "am avut o fractură la claviculă, la umărul ăsta drept, acum vreo zece ani. Dar a trecut, a mers bine."
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "mă aplec un pic în față",
+      "durere la abducție, în arcul dureros, undeva între 60 și 120 de grade",
+      "Limitare marcată la rotația internă pe dreapta",
+      "Sensibilitate la palparea acromionului drept",
+      "mobilitate cervicală asimetrică, restricție la dreapta",
+      "Aveți o inflamație la nivelul tendonului supraspinat, cel mai probabil, posibil și o iritare a bursei subacromiale, corelat cu postura de la calculator, capul proiectat în față, musculatura cervicală tensionată și acea fractură veche de claviculă",
+      "Vom lucra pe reducerea inflamației locale, relaxarea musculaturii rotatorilor și a zonei cervicale, și vom încerca să redresăm postura"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14094,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 3464,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

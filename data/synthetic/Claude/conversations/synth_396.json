@@ -1,0 +1,217 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 4.46,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce vă putem ajuta?"
+    },
+    {
+      "start": 4.58,
+      "end": 30.42,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, am o durere de umăr, umărul drept, de vreo două săptămâni încoace. Adică nu știu exact, poate mai mult, dar acum două săptămâni s-a acutizat, cum ar veni. Am fost și la medicul de familie, mi-a zis că probabil am ceva la tendon, dar nu m-a trimis nicăieri, mi-a zis să mai aștept, și eu n-am mai așteptat și-am venit aici."
+    },
+    {
+      "start": 30.54,
+      "end": 33.58,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și ce activitate făceați când a apărut?"
+    },
+    {
+      "start": 33.7,
+      "end": 53.84,
+      "speaker": "SPEAKER_01",
+      "text": "Asta e problema, nu știu exact. Adică eu lucrez la birou, stau mult la calculator, și poate de la asta, nu știu. Dar acum două săptămâni am mutat niște cutii mai grele în weekend și după aia a început să doară mai tare. Poate de la cutii, poate că era deja acolo ceva."
+    },
+    {
+      "start": 53.96,
+      "end": 61.94,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum estimați durerea?"
+    },
+    {
+      "start": 62.06,
+      "end": 74.6,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, în repaus, poate un 4, 4 și ceva. Dar dacă ridic mâna sus sau fac mișcarea asta, rotesc așa, e un 7 cel puțin. Seara e mai rău, noaptea mă trezesc uneori."
+    },
+    {
+      "start": 74.72,
+      "end": 77.0,
+      "speaker": "SPEAKER_00",
+      "text": "Vă treziți din cauza durerii noaptea?"
+    },
+    {
+      "start": 77.12,
+      "end": 87.0,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mai ales când stau pe partea dreaptă. Mă întorc și mă trezesc, e neplăcut. Soția zice că mă tot foiesc, dar n-am ce face."
+    },
+    {
+      "start": 87.12,
+      "end": 90.16,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea rămâne la umăr sau coboară pe braț?"
+    },
+    {
+      "start": 90.28,
+      "end": 100.92,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult la umăr, pe aici, sus. Câteodată simt ceva și pe aici, pe braț, dar nu jos, nu ajunge la mână sau ceva. E mai mult sus."
+    },
+    {
+      "start": 101.04,
+      "end": 102.94,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeli la degete, la mână?"
+    },
+    {
+      "start": 103.06,
+      "end": 104.58,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, asta nu."
+    },
+    {
+      "start": 104.7,
+      "end": 108.12,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ați mai avut probleme cu umărul ăsta înainte?"
+    },
+    {
+      "start": 108.24,
+      "end": 127.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, prima oară. Adică eu am mai avut dureri de spate în trecut, lombarul mai ales, dar la umăr nu. Și acum mă gândeam, oare să fie ceva grav? Că am citit pe internet despre rupturi de tendon și m-am speriat un pic. Dar sper că nu e chiar aia."
+    },
+    {
+      "start": 127.74,
+      "end": 133.06,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg îngrijorarea. Haideți să vedem mai întâi. Luați vreun medicament în momentul de față?"
+    },
+    {
+      "start": 133.18,
+      "end": 144.58,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat un Ibuprofen când mă durea rău, câte unul, nu regulat. Și am pus un gel, cum îl cheamă, Voltaren, de două ori poate, dar nu mai am acasă."
+    },
+    {
+      "start": 144.7,
+      "end": 146.98,
+      "speaker": "SPEAKER_00",
+      "text": "Deci nu luați nimic regulat acum."
+    },
+    {
+      "start": 147.1,
+      "end": 150.52,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, nu regulat. Doar când nu mai suport."
+    },
+    {
+      "start": 150.64,
+      "end": 153.3,
+      "speaker": "SPEAKER_00",
+      "text": "Alte afecțiuni, tensiune, diabet, probleme la inimă?"
+    },
+    {
+      "start": 153.42,
+      "end": 161.02,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic din astea. Sunt sănătos altfel, adică mai ies la alergat, sau ieșeam, acum am lăsat că mă doare."
+    },
+    {
+      "start": 161.14,
+      "end": 166.46,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să fac câteva teste. Ridicați brațul drept în față, încet, cât puteți."
+    },
+    {
+      "start": 166.58,
+      "end": 169.62,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe aici pot, mai sus deja doare."
+    },
+    {
+      "start": 169.74,
+      "end": 172.02,
+      "speaker": "SPEAKER_00",
+      "text": "Și în lateral, ridicați în lateral."
+    },
+    {
+      "start": 172.14,
+      "end": 175.56,
+      "speaker": "SPEAKER_01",
+      "text": "Asta e mai rău, da, pe aici apare durerea."
+    },
+    {
+      "start": 175.68,
+      "end": 181.38,
+      "speaker": "SPEAKER_00",
+      "text": "Și acum mă lăsați să țin mâna dumneavoastră și să împingeți în sus, opuneți rezistență."
+    },
+    {
+      "start": 181.5,
+      "end": 182.64,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, doare."
+    },
+    {
+      "start": 182.76,
+      "end": 187.32,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Apăs acum pe umăr în zona asta de sus, spuneți-mi."
+    },
+    {
+      "start": 187.44,
+      "end": 189.34,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo e, exact acolo."
+    },
+    {
+      "start": 189.46,
+      "end": 205.42,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Pare o tendinopatie la nivelul coafei rotatorilor, mai precis supraspinatus. Nu e o ruptură, nu trebuie să vă panicați. Avem inflamație locală, mobilitate limitată la abducție și la ridicarea anterioară. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."
+    },
+    {
+      "start": 205.54,
+      "end": 212.0,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu e ceva grav, înțeleg? Că m-am tot gândit de când am citit pe net."
+    },
+    {
+      "start": 212.12,
+      "end": 220.1,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, putem trata asta. Câteva ședințe și o să simțiți diferența. Statul la calculator trebuie și el corectat, postura contează mult."
+    },
+    {
+      "start": 220.22,
+      "end": 224.4,
+      "speaker": "SPEAKER_01",
+      "text": "Da, știu, toată lumea îmi zice de postură. O să încerc."
+    },
+    {
+      "start": 224.52,
+      "end": 227.94,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă cu fața în sus, să începem."
+    }
+  ]
+}

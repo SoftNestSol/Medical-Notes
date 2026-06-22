@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Durere umar stang, aparuta dupa efort fizic la serviciu, cu limitarea miscarii si treziri nocturne",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "biceps stang",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: tendinita coafa rotatori umar stang; abductie si rotatie interna limitate; sensibilitate zona subacromiale.\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii."
+}

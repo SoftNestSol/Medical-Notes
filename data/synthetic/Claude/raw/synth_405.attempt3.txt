@@ -1,0 +1,47 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce problemă venim azi?\nSPEAKER_01: Bună ziua, deci am o durere aici la umăr, umărul stâng, de vreo două săptămâni. Nu știu ce am făcut, adică sincer nu îmi aduc aminte să fi ridicat ceva greu sau să fi căzut, pur și simplu m-am trezit într-o dimineață și mă durea. Și de atunci tot mă doare, ba mai tare, ba mai puțin.\nSPEAKER_00: Și durerea e locală, la umăr, sau se lasă și pe braț?\nSPEAKER_01: Păi... se lasă un pic și pe braț, da, pe partea de aici, pe exterior. Nu până la mână, mai mult pe braț, pe la jumătate.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Acum, în repaus, poate un 3. Dar dacă ridic mâna, mai ales dacă o duc în spate, ăla e poate un 7. Că ieri am vrut să mă îmbrac, să îmi pun haina, și am urlat efectiv. Soția a venit speriată din bucătărie.\nSPEAKER_00: Înțeleg. Și noaptea vă deranjează?\nSPEAKER_01: Da, asta e marea problemă, de fapt. Nu pot să dorm pe partea stângă deloc. Mă trezesc din somn, trebuie să mă întorc. Dorm mai mult pe dreapta acum.\nSPEAKER_00: Amorțeală în braț sau în mână?\nSPEAKER_01: Nu, amorțeală nu. Adică uneori pare că e un pic mai... cum să zic... mai greu brațul, dar amorțeală propriu-zisă nu.\nSPEAKER_00: Ați aplicat ceva pe zonă, vreun gel, ceva?\nSPEAKER_01: Da, am pus un Voltaren, ăla gel, câteva zile, dar nu prea m-a ajutat. Adică poate puțin, dar a doua zi tot la fel era. Nu am luat pastile, că nu prea îmi place să iau.\nSPEAKER_00: Bun. Aveți alte afecțiuni, tensiune, diabet, probleme la inimă?\nSPEAKER_01: Nu, nimic, sunt relativ sănătos. Adică am 38 de ani, fac sport, merg la sală de vreo doi ani. Și asta mă și îngrijorează, că nu știu dacă o să mai pot să fac sală, că fac și bench press, și tracțiuni, și probabil de acolo... deși nu știu sigur. Vă spuneam, nu mi-am dat seama exact când a apărut.\nSPEAKER_00: Ce anume la sală vă dă durere?\nSPEAKER_01: Orice mișcare deasupra capului. Ridicatul cu mâna sus e cel mai rău. Și la tracțiuni la fel, simt că mă taie pe acolo. Bench press acum nu îl mai fac, că mi-e frică să nu agravez.\nSPEAKER_00: Haideți să facem câteva mișcări. Ridicați brațul stâng în față, încet.\nSPEAKER_01: Până pe aici merge.\nSPEAKER_00: Doare?\nSPEAKER_01: Puțin, da, de pe la jumătate în sus.\nSPEAKER_00: Și acum duceți brațul lateral, în sus.\nSPEAKER_01: Asta doare mai tare, da. Pe la 90 de grade simt că mă blochează ceva.\nSPEAKER_00: Bine. Acum pun mâna pe umăr și apăs ușor pe zona de aici, anterior. Doare?\nSPEAKER_01: Da, exact acolo, ăla e punctul.\nSPEAKER_00: Și dacă ridic eu brațul și apăs în același timp?\nSPEAKER_01: Au, da, ăla doare serios.\nSPEAKER_00: Înțeleg. Avem un arc dureros la abducție, plus sensibilitate la nivelul tendoanelor coafei rotatorilor. Pare o tendinopatie sau o mică inflamație la nivelul coafei rotatorilor, umărul stâng, posibil și un conflict subacomial.\nSPEAKER_01: Adică e grav? Că m-am tot gândit că o fi ceva rupt înăuntru, că am citit pe internet tot felul de chestii și mă speriasem că o fi o ruptură de ceva.\nSPEAKER_00: Nu avem semne clare de ruptură la testele pe care le-am făcut. O să lucrăm să reducem inflamația și să recuperăm mobilitatea. Dar ar fi util să faceți și o ecografie de umăr, să vedem exact ce se întâmplă acolo.\nSPEAKER_01: Da, bun, fac. Deci pot să revin la sală la un moment dat?\nSPEAKER_00: Da, cu răbdare. Deocamdată evitați mișcările deasupra capului și tracțiunile. Obiectivul nostru e să scădem durerea, să refacem mobilitatea și apoi reintegrăm activitatea fizică treptat.\nSPEAKER_01: Bine, înțeleg. Și gelul pot să îl mai pun?\nSPEAKER_00: Da, puteți continua cu Voltaren gel dacă simțiți că ajută, seara în special.",
+  "note": {
+    "motivul_prezentarii": "Pacient de 38 de ani, activ fizic, cu durere la nivelul umărului stâng de aproximativ două săptămâni, cu debut insidios (fără traumatism identificat). Durere accentuată la mișcările deasupra capului și la ducerea brațului în spate, perturbă somnul pe partea afectată. Iradiere parțială pe braț, pe portion externă, fără amorțeală.",
+    "evaluarea_durerii_vas": [3, 7],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": "braț stâng, portion externă, până la jumătate",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: Tendinopatie/inflamație la nivelul coafei rotatorilor umăr stâng, posibil conflict subacomial. Arc dureros la abducție (simptom din ~90 grade), sensibilitate la palpare anterioară, test de impingement pozitiv. Fără semne clare de ruptură la testele clinice efectuate.\nObiective terapeutice: Reducerea inflamației, refacerea mobilității umărului stâng, reintegrarea treptată a activității fizice. Recomandare ecografie umăr stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere aici la umăr, umărul stâng, de vreo două săptămâni",
+      "m-am trezit într-o dimineață și mă durea",
+      "se lasă un pic și pe braț, da, pe partea de aici, pe exterior. Nu până la mână, mai mult pe braț, pe la jumătate",
+      "Nu pot să dorm pe partea stângă deloc. Mă trezesc din somn"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în repaus, poate un 3. Dar dacă ridic mâna, mai ales dacă o duc în spate, ăla e poate un 7."
+    ],
+    "localizarea_durerii": [
+      "am o durere aici la umăr, umărul stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "se lasă un pic și pe braț, da, pe partea de aici, pe exterior. Nu până la mână, mai mult pe braț, pe la jumătate"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "am pus un Voltaren, ăla gel, câteva zile"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem un arc dureros la abducție, plus sensibilitate la nivelul tendoanelor coafei rotatorilor. Pare o tendinopatie sau o mică inflamație la nivelul coafei rotatorilor, umărul stâng, posibil și un conflict subacomial.",
+      "Nu avem semne clare de ruptură la testele pe care le-am făcut.",
+      "O să lucrăm să reducem inflamația și să recuperăm mobilitatea.",
+      "ar fi util să faceți și o ecografie de umăr",
+      "Obiectivul nostru e să scădem durerea, să refacem mobilitatea și apoi reintegrăm activitatea fizică treptat."
+    ]
+  }
+}

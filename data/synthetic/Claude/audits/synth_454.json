@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_454",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "De vreo două săptămâni.",
+      "m-am trezit dimineața și era acolo",
+      "Mai mult pe umărul drept.",
+      "Dimineața.",
+      "Vreo opt, nouă ore."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Mai mult pe umărul drept."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Mă trage.",
+      "Mai bine.",
+      "Au, da, acolo doare.",
+      "Un 7 la palpare pe trapez dreapta.",
+      "Mai puțin, un 4.",
+      "Deci tensiunea mai mare în musculatură decât pe coloana propriu-zisă.",
+      "Vom lucra pe relaxarea musculaturii cervicale și a trapezului drept și vom vedea și cum stă mobilitatea după câteva ședințe."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13861,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 2107,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne confruntăm azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, un efort, o mișcare bruscă?\nSPEAKER_01: Am zugrăvit.\nSPEAKER_00: Ah, deci cu mâna ridicată mult timp sus.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât estimați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Vă doare tot timpul sau doar la anumite mișcări?\nSPEAKER_01: Când ridic mâna sus mai ales.\nSPEAKER_00: Și când o coborâți?\nSPEAKER_01: Și atunci, un pic.\nSPEAKER_00: Noaptea vă deranjează, vă treziți din somn?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Pe care parte dormiți?\nSPEAKER_01: Pe dreapta de obicei.\nSPEAKER_00: Asta agravează, cel mai probabil. Se lasă durerea și pe braț, pe cot, pe mână?\nSPEAKER_01: Nu, stă doar acolo.\nSPEAKER_00: Deci locală, fără iradiere. Amorțesc degetele vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ați mai avut ceva la umărul ăsta înainte?\nSPEAKER_01: Nu, prima dată.\nSPEAKER_00: Ați luat ceva pentru durere, vreun antiinflamator?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, niciun gel?\nSPEAKER_01: Nimic.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, probleme la inimă?\nSPEAKER_01: Nu, sunt sănătos.\nSPEAKER_00: Bun. Ce muncă faceți?\nSPEAKER_01: Constructor.\nSPEAKER_00: Deci munca fizică frecventă cu brațele.\nSPEAKER_01: Da.\nSPEAKER_00: Haideți să facem câteva teste. Ridicați brațul drept în față, încet.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare la aproximativ 90 de grade?\nSPEAKER_01: Da, cam de acolo.\nSPEAKER_00: Și dacă continuați mai sus?\nSPEAKER_01: Mai rău.\nSPEAKER_00: Acum ridicați lateral, în cruce.\nSPEAKER_01: La fel, de pe la jumătate începe.\nSPEAKER_00: Bun. Stați puțin, vă apăs ușor pe zona asta de deasupra umărului, pe coifa rotatorilor. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și mai jos, pe biceps?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Acum duceti mâna la spate, ca și cum ați prinde centura.\nSPEAKER_01: Ajung cam până aici.\nSPEAKER_00: Limitat și în rotație internă. Bun, am înțeles tabloul. Avem un sindrom de impingement la nivelul umărului drept, inflamație la nivelul coifei rotatorilor, cel mai probabil supraspinosul. Mobilitatea e limitată de la 90 de grade în sus, atât în flexie cât și în abducție. Vom lucra să reducem inflamația și să recuperăm mobilitatea completă.\nSPEAKER_01: Cât durează?\nSPEAKER_00: Depinde, dar cu câteva ședințe ar trebui să simțiți o diferență. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Pacient acuză durere la nivelul umărului drept, instalată în urmă cu aproximativ două săptămâni după activitate de zugrăvit (mâna ridicată prelungit). Durere prezentă la ridicarea brațului, mai ales de la 90 de grade în sus, atât în flexie cât și în abducție. Durere ocazională și noaptea, agravată de dormitul pe partea dreaptă. Fără iradiere, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații funcționale:\nMobilitate limitată în flexie și abducție umăr drept de la aproximativ 90 de grade. Limitare în rotație internă (testul mâinii la spate). Durere la palpare pe zona coifei rotatorilor. Mai puțin sensibil pe zona bicipitală.\nDiagnostic:\nSindrom de impingement umăr drept, inflamație coifa rotatorilor (supraspinat probabil).\nObiective terapeutice:\nReducerea inflamației; recuperarea mobilității complete a umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Vreo două săptămâni.",
+      "Am zugrăvit.",
+      "Când ridic mâna sus mai ales.",
+      "Câteodată.",
+      "Nu, stă doar acolo."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Dreptul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Doare la aproximativ 90 de grade?",
+      "Da, cam de acolo.",
+      "La fel, de pe la jumătate începe.",
+      "Ajung cam până aici.",
+      "Limitat și în rotație internă.",
+      "Avem un sindrom de impingement la nivelul umărului drept, inflamație la nivelul coifei rotatorilor, cel mai probabil supraspinosul. Mobilitatea e limitată de la 90 de grade în sus, atât în flexie cât și în abducție. Vom lucra să reducem inflamația și să recuperăm mobilitatea completă."
+    ]
+  }
+}

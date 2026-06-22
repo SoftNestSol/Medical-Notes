@@ -1,0 +1,37 @@
+{
+  "conversation_id": "synth_231",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Dreptul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Cel mai probabil avem o tendinopatie la nivelul coafei rotatorilor, umărul drept. Mobilitatea e limitată la abducție și la rotație internă. Vom lucra să reducem inflamația și să recuperăm mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13674,
+    "inference_geo": "global",
+    "input_tokens": 309,
+    "output_tokens": 1542,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

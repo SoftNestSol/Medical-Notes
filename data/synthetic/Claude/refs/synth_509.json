@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Pacientă programator, prezintă durere la nivelul pumnului drept cu iradiere pe antebraț, instalată progresiv în urmă cu aproximativ 1,5–2 luni, asociată cu muncă intensă la calculator. Agravată la strângere și flexie palmară, redoare matinală de ~10 minute, amorțeli ocazionale ale degetului mic și inelarului drept la lucru îndelungat.",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "pumn_dr"
+  ],
+  "localizarea_durerii_alta": "antebraț drept, față dorsală",
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism (diagnosticat de ~7-8 ani)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "75 micrograme"
+    },
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: tendinopatie a extensorilor la nivelul pumnului drept, posibil iritație nerv ulnar. Sensibilitate pe fața dorsală a pumnului, iradiere pe antebraț, agravare la strângere și flexie palmară, redoare matinală.\nObiective terapeutice: reducerea inflamației locale; exerciții de stretching la birou; verificare control tiroidian."
+}

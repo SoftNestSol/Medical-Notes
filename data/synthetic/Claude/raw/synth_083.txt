@@ -1,0 +1,43 @@
+{
+  "conversation": "SPEAKER_00: Bună dimineața!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare genunchiul.\nSPEAKER_00: Care genunchi, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. S-a întâmplat ceva, ai căzut, ai lovit genunchiul?\nSPEAKER_01: Nu.\nSPEAKER_00: Nimic anume?\nSPEAKER_01: Nu știu, parcă după ce am stat mai mult pe scaun.\nSPEAKER_00: Deci a apărut după ce ai stat mult jos, la birou?\nSPEAKER_01: Da.\nSPEAKER_00: Doare când urci scări, când cobori?\nSPEAKER_01: Când cobor mai ales.\nSPEAKER_00: Când cobori. Doare și când stai jos mult?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde l-ai pune?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot genunchiul sau mai mult pe o parte?\nSPEAKER_01: Mai mult pe aici, în față.\nSPEAKER_00: În față, sub rotulă?\nSPEAKER_01: Da, cam acolo.\nSPEAKER_00: Genunchiul se umflă?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu s-a umflat deloc?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Amorțeală pe picior, pe gambă, pe laba piciorului?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală. Și spatele nu te deranjează?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Ai diabet, tensiune, osteoporoză, alte boli?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio afecțiune?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații la genunchi vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Iei vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să stăm un pic în picioare, să văd cum stați. Stai puțin pe piciorul drept singur... te ține?\nSPEAKER_01: Mă ține, da, dar simt acolo.\nSPEAKER_00: Simți presiune sub rotulă.\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Îndoaie puțin genunchiul drept. Doare la îndoire?\nSPEAKER_01: Puțin, da.\nSPEAKER_00: Hai să apăs puțin sub rotulă. Doare?\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Exact acolo. Deci avem o inflamație la nivelul tendonului rotulian. Se numește tendinopatie rotuliană. Asta apare destul de des când stăm mult pe scaun și nu mișcăm suficient piciorul. O să lucrăm să reducem inflamația și să mobilizăm articulația. Hai pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere genunchi drept, în față sub rotulă, de două săptămâni, apărută după stat prelungit pe scaun. Accentuată la coborârea scărilor și la șezut prelungit.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "genunchi_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinopatie rotuliană genunchi drept.\nObiective terapeutice: reducerea inflamației; mobilizarea articulației genunchiului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare genunchiul.",
+      "Dreptul.",
+      "De vreo două săptămâni.",
+      "parcă după ce am stat mai mult pe scaun",
+      "Când cobor mai ales.",
+      "Da, și atunci.",
+      "Mai mult pe aici, în față.",
+      "Da, cam acolo."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Mai mult pe aici, în față.",
+      "Da, cam acolo."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Deci avem o inflamație la nivelul tendonului rotulian. Se numește tendinopatie rotuliană.",
+      "O să lucrăm să reducem inflamația și să mobilizăm articulația."
+    ]
+  }
+}

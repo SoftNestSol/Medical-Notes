@@ -1,0 +1,46 @@
+{
+  "conversation_id": "synth_111",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul",
+      "parcă după ce am stat mult la birou",
+      "Și pe umărul drept un pic",
+      "dureri de cap unde, în ceafă",
+      "Da, în ceafă",
+      "dimineața când vă treziți, vă simțiți înțepenit",
+      "Da, cam da"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul",
+      "Și pe umărul drept un pic",
+      "Da, în ceafă"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți capul dus un pic în față față de umeri, postura de calculator.",
+      "avem o contractură musculară cervicală, cu limitarea rotației spre stânga",
+      "Pare o cervicalgie de postură, cu tensionare în zona trapezului și a musculaturii cervicale",
+      "O să lucrăm să reducem contractura și să recâștigăm mobilitatea pe rotație"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 21912
+    },
+    "cache_creation_input_tokens": 21912,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1732,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

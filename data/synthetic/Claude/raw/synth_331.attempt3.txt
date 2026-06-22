@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Ăsta, dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc, da.\nSPEAKER_00: S-a întâmplat ceva, un efort, o lovitură?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Și de atunci tot doare?\nSPEAKER_01: Da.\nSPEAKER_00: Vă doare și când ridicați mâna în sus?\nSPEAKER_01: Da, mai rău.\nSPEAKER_00: Și noaptea, vă deranjează?\nSPEAKER_01: Câteodată, dacă dorm pe el.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați acum?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Și când ridicați mâna?\nSPEAKER_01: Poate un 7.\nSPEAKER_00: Înțeles. Durerea rămâne în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne pe-aici, la umăr.\nSPEAKER_00: Bun. Amorțire la degete, la mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți vreo afecțiune, tensiune, diabet, ceva de genul?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să ridic puțin mâna dreaptă, să văd până unde merge. Spuneți-mi când doare.\nSPEAKER_01: Acum.\nSPEAKER_00: Aici, la 90 de grade, deja doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă rotim ușor astfel... doare mai tare?\nSPEAKER_01: Da, mult mai tare.\nSPEAKER_00: Înțeles. Lăsați mâna jos. Apăs puțin pe zona asta din față a umărului, doare?\nSPEAKER_01: Da, acolo e.\nSPEAKER_00: E sensibil. Și pe deasupra, pe acromion?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Deci avem o inflamație la nivelul tendonului supraspinat, cel mai probabil. Trebuie să reducem inflamația și să recuperăm mobilitatea umărului. Haideți să trecem la lucru.\nSPEAKER_01: Ok.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept, aparuta dupa efort fizic (mutat mobila), de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie tendon supraspinat\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Ăsta, dreptul.", "De vreo două săptămâni.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Un 5.", "Poate un 7."],
+    "localizarea_durerii": ["Ăsta, dreptul.", "Rămâne pe-aici, la umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu.", "Luați vreun medicament acum?"],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendonului supraspinat, cel mai probabil. Trebuie să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

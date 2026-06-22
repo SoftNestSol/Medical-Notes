@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți.\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut așa dintr-odată sau treptat?\nSPEAKER_01: Treptat, parcă.\nSPEAKER_00: Ați făcut ceva anume înainte să înceapă? Un efort, ați dormit prost, ceva?\nSPEAKER_01: Nu știu, poate de la birou.\nSPEAKER_00: De la stat la birou, da?\nSPEAKER_01: Da.\nSPEAKER_00: Mult timp stați la calculator?\nSPEAKER_01: Vreo opt ore pe zi.\nSPEAKER_00: Ok. Durerea e doar în gât sau se duce și în altă parte, spre umăr, spre cap?\nSPEAKER_01: Și un pic pe umărul drept.\nSPEAKER_00: Pe umărul drept. Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Dureri de cap?\nSPEAKER_01: Câteodată, da.\nSPEAKER_00: Mai des dimineața sau seara?\nSPEAKER_01: Seara mai mult.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde situați durerea din gât?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Și umărul?\nSPEAKER_01: Mai puțin, un 3.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, epilepsie, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin cu spatele la mine, da? Lăsați capul relaxat, umerii jos.\nSPEAKER_01: Așa?\nSPEAKER_00: Da, exact. Văd o ușoară redresare a curburii cervicale, gâtul e cam drept. Și umărul drept e puțin mai ridicat față de stânga.\nSPEAKER_00: Întoarceți capul spre dreapta, încet.\nSPEAKER_01: Doare puțin aici.\nSPEAKER_00: Da, e limitată rotația spre dreapta. Spre stânga merge mai bine?\nSPEAKER_01: Da, mai bine.\nSPEAKER_00: Bun. Vă apăs puțin musculatura laterală, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Pe trapez și ridicătorul scapulei, da, contractați. Deci avem o cervicalgie mecanică, probabil de postură. O să lucrăm să relaxăm musculatura, să recuperăm mobilitatea și să vedem și de umărul ăla drept. Bun, haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu cervicalgie instalată treptat de aproximativ două săptămâni, asociată cu munca la birou (~8 ore/zi la calculator). Durere cu iradiere pe umărul drept. Dureri de cap ocazionale, mai frecvente seara. Fără amorțeli.",
+    "evaluarea_durerii_vas": [5, 3],
+    "localizarea_durerii": ["cervical", "umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nRedresarea curburii cervicale. Umărul drept ușor ridicat față de stânga. Rotație cervicală limitată și dureroasă spre dreapta. Contractură trapez și ridicător scapulă.\nDiagnostic:\nCervicalgie mecanică de postură.\nObiective terapeutice:\nRelaxarea musculaturii contractate; recuperarea mobilității cervicale; evaluare și tratament umăr drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "De vreo două săptămâni.", "poate de la birou", "Vreo opt ore pe zi.", "Și un pic pe umărul drept.", "Câteodată, da.", "Seara mai mult.", "Nu."],
+    "evaluarea_durerii_vas": ["Vreo 5.", "Mai puțin, un 3."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și un pic pe umărul drept."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Văd o ușoară redresare a curburii cervicale, gâtul e cam drept.", "umărul drept e puțin mai ridicat față de stânga.", "e limitată rotația spre dreapta.", "Pe trapez și ridicătorul scapulei, da, contractați.", "avem o cervicalgie mecanică, probabil de postură.", "O să lucrăm să relaxăm musculatura, să recuperăm mobilitatea și să vedem și de umărul ăla drept."]
+  }
+}

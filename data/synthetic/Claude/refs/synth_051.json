@@ -1,0 +1,19 @@
+{
+  "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (carat saci), de aproximativ trei saptamani",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: Inflamatie tendon supraspinat si capul lung al bicepsului, umar drept. Mobilitate limitata in abductie (aprox. 90 grade) si rotatie interna.\nObiective terapeutice: reducerea inflamatiei; refacerea mobilitatii umarului drept."
+}

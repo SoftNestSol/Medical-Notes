@@ -1,0 +1,229 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 6.62,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua! Am venit că... păi nu știu de unde să încep, sincer."
+    },
+    {
+      "start": 6.74,
+      "end": 9.02,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi cu ce vă doare."
+    },
+    {
+      "start": 9.14,
+      "end": 31.18,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare umărul stâng. De vreo trei săptămâni, poate mai mult, nu știu exact. A început așa, dintr-o dată, dimineața când m-am trezit și n-am putut să ridic mâna. Adică nici să mă pieptăn nu puteam. Și m-am gândit că trece, că am stat pe el ciudat, știți cum e, dar n-a trecut."
+    },
+    {
+      "start": 31.3,
+      "end": 33.58,
+      "speaker": "SPEAKER_00",
+      "text": "Doare constant sau numai când mișcați?"
+    },
+    {
+      "start": 33.7,
+      "end": 53.46,
+      "speaker": "SPEAKER_01",
+      "text": "Și și. Adică doare și când stau liniștit, mai ales noaptea, nu pot să dorm pe partea stângă deloc. Și când ridic mâna sus, vai de mine, doare tare. Și mi-e teamă că e ceva grav, sincer, că am citit pe internet că poate fi ruptură de tendon și... nu știu."
+    },
+    {
+      "start": 53.58,
+      "end": 57.76,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cât e durerea?"
+    },
+    {
+      "start": 57.88,
+      "end": 66.62,
+      "speaker": "SPEAKER_01",
+      "text": "Când ridic mâna, un 8 sigur. Când stau jos, fără să fac nimic, poate un 4, un 5. Noaptea mai rău, poate 6."
+    },
+    {
+      "start": 66.74,
+      "end": 68.64,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și doar umărul stâng?"
+    },
+    {
+      "start": 68.76,
+      "end": 82.44,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, numai stângul. Dreptul e bine. Eu sunt dreptace, dar lucrez la calculator toată ziua și stau cu umărul ridicat, știți? Poate de la asta. Soțul meu zice că stau cocoșată, că are dreptate probabil."
+    },
+    {
+      "start": 82.56,
+      "end": 83.7,
+      "speaker": "SPEAKER_00",
+      "text": "Ce vârstă aveți?"
+    },
+    {
+      "start": 83.82,
+      "end": 84.96,
+      "speaker": "SPEAKER_01",
+      "text": "41 de ani."
+    },
+    {
+      "start": 85.08,
+      "end": 87.36,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți vreo boală, hipertensiune, diabet, ceva?"
+    },
+    {
+      "start": 87.48,
+      "end": 97.36,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic. Adică am avut tiroidă acum vreo cinci ani, hipotiroidism, și iau Euthyrox de atunci, în fiecare dimineață. În rest nu am nimic."
+    },
+    {
+      "start": 97.48,
+      "end": 99.0,
+      "speaker": "SPEAKER_00",
+      "text": "Euthyrox, știți ce doză?"
+    },
+    {
+      "start": 99.12,
+      "end": 100.64,
+      "speaker": "SPEAKER_01",
+      "text": "75, da, 75 micrograme."
+    },
+    {
+      "start": 100.76,
+      "end": 101.9,
+      "speaker": "SPEAKER_00",
+      "text": "Altceva mai luați?"
+    },
+    {
+      "start": 102.02,
+      "end": 107.72,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic altceva. Uneori un ibuprofen dacă mă doare tare, dar nu în fiecare zi."
+    },
+    {
+      "start": 107.84,
+      "end": 109.36,
+      "speaker": "SPEAKER_00",
+      "text": "Ibuprofen cât de des?"
+    },
+    {
+      "start": 109.48,
+      "end": 121.26,
+      "speaker": "SPEAKER_01",
+      "text": "Poate de două ori pe săptămână. Când nu mai suport. Dar mi-e teamă să iau mult că am citit că strică stomacul și eu am și gastrită și nu vreau..."
+    },
+    {
+      "start": 121.38,
+      "end": 125.94,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să ridic eu mâna în sus, îmi spuneți când doare."
+    },
+    {
+      "start": 126.06,
+      "end": 128.34,
+      "speaker": "SPEAKER_01",
+      "text": "Așa, așa... au! Cam pe aici."
+    },
+    {
+      "start": 128.46,
+      "end": 130.36,
+      "speaker": "SPEAKER_00",
+      "text": "La 90 de grade doare?"
+    },
+    {
+      "start": 130.48,
+      "end": 132.0,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam acolo începe."
+    },
+    {
+      "start": 132.12,
+      "end": 134.02,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă duc mai sus?"
+    },
+    {
+      "start": 134.14,
+      "end": 136.04,
+      "speaker": "SPEAKER_01",
+      "text": "Vai, da, mult mai tare."
+    },
+    {
+      "start": 136.16,
+      "end": 139.96,
+      "speaker": "SPEAKER_00",
+      "text": "Stați puțin cu mâna la spate, duceți-o spre coloană."
+    },
+    {
+      "start": 140.08,
+      "end": 145.02,
+      "speaker": "SPEAKER_01",
+      "text": "Nu pot... adică pot puțin, dar doare pe partea din spate a umărului."
+    },
+    {
+      "start": 145.14,
+      "end": 147.42,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Apăs puțin aici, doare?"
+    },
+    {
+      "start": 147.54,
+      "end": 149.44,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact acolo e sensibil."
+    },
+    {
+      "start": 149.56,
+      "end": 150.36,
+      "speaker": "SPEAKER_00",
+      "text": "Și aici?"
+    },
+    {
+      "start": 150.48,
+      "end": 152.0,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, dar tot."
+    },
+    {
+      "start": 152.12,
+      "end": 165.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Avem o inflamație la nivelul tendoanelor rotatorilor, cel mai probabil o tendinită de coafă rotatoare pe stânga. Postura la calculator și poziția umărului ridicat contribuie. O să lucrăm să reducem inflamația și să recuperăm mobilitatea."
+    },
+    {
+      "start": 165.92,
+      "end": 168.58,
+      "speaker": "SPEAKER_01",
+      "text": "Nu e ruptură? Că m-am speriat."
+    },
+    {
+      "start": 168.7,
+      "end": 174.78,
+      "speaker": "SPEAKER_00",
+      "text": "La palpare și la testele astea nu arată ruptură. Dar să vedem cum răspundeți la tratament."
+    },
+    {
+      "start": 174.9,
+      "end": 177.94,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine, mulțumesc. Și cât durează până trece?"
+    },
+    {
+      "start": 178.06,
+      "end": 180.72,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde, dar începem azi. Haideți pe masă."
+    }
+  ]
+}

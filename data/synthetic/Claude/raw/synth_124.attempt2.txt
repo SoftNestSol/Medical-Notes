@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, spuneți-mi cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: A fost vreun accident, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare constant sau doar la mișcare?\nSPEAKER_01: La mișcare mai mult.\nSPEAKER_00: Când ridicați brațul sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Doare și când îl duceți în spate?\nSPEAKER_01: Da, acolo mai tare.\nSPEAKER_00: Amorțește mâna sau brațul?\nSPEAKER_01: Nu.\nSPEAKER_00: Noaptea vă deranjează, vă treziți din cauza durerii?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Luați ceva pentru tensiune?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: Nu știu exact. O pastilă pe zi.\nSPEAKER_00: Ok. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la medicamente sau unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați brațul drept acum, încet, cât puteți de sus.\nSPEAKER_01: Până pe aici.\nSPEAKER_00: Doare de aici în sus?\nSPEAKER_01: Da.\nSPEAKER_00: Acum duceți-l în lateral, la orizontală. Doare?\nSPEAKER_01: Puțin.\nSPEAKER_00: Stați puțin. Vă apăs eu acum pe zona asta de aici, pe tendonul supraspinosului. Doare?\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: E o inflamație la nivelul umărului drept, cel mai probabil tendinită de supraspinat. Trebuie să reducem inflamația și să refacem mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Ați mai făcut terapie pentru asta?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun, trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa mutare de mobila, de aproximativ doua saptamani.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita supraspinat umar drept.\nObiective terapeutice: reducerea inflamatiei, refacerea mobilitatii."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "De vreo două săptămâni.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Enalapril."],
+    "evaluare_functionala_initiala": ["E o inflamație la nivelul umărului drept, cel mai probabil tendinită de supraspinat. Trebuie să reducem inflamația și să refacem mobilitatea."]
+  }
+}

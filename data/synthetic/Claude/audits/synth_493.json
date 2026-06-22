@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_493",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Am mutat niște mobilă.",
+      "Vreo două săptămâni.",
+      "Mai mult când mă ridic sau când stau mult jos.",
+      "Nu, rămâne jos la spate.",
+      "Un pic, da. Până mă pun în mișcare."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "rămâne jos la spate"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți bazinul ușor înclinat spre stânga.",
+      "Avem o contractură musculară paravertebrală, mai accentuată pe dreapta, și o ușoară dezaliniere de bazin.",
+      "Durerea e locală, fără iradiere, ceea ce e un semn bun.",
+      "testul acesta e negativ, deci nu avem iritație radiculară evidentă",
+      "Apăs paravertebral lombar, doare?",
+      "Pe dreapta.",
+      "Obiectivul nostru e să relaxăm musculatura din zona lombară, să reducem inflamația locală și să lucrăm mobilitatea ca să nu se cronicizeze."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 22994
+    },
+    "cache_creation_input_tokens": 22994,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 351,
+    "output_tokens": 2336,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

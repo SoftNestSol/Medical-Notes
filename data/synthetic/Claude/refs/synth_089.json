@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Durere lombară joasă dreaptă, apărută după efort fizic (carat cutii la mutare), de aproximativ trei săptămâni. Durere la aplecare și rotație spre dreapta, cu disconfort fesier drept asociat. Postură vicioasă la birou.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": "fesier drept",
+  "antecedente": [],
+  "antecedente_altele": "posibilă scolioză ușoară menționată de un medic în antecedente, fără diagnostic clar",
+  "medicatie_actuala": [
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    },
+    {
+      "denumire": "Voltaren gel",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice: bazin înclinat spre dreapta în ortostatism; durere la flexia anterioară a trunchiului și la rotația spre dreapta, mai puțin la rotația spre stânga; sensibilitate la palpare paravertebral lombar drept; test de ridicare a membrului inferior drept pozitiv pentru durere lombară fără iradiere pe membrul inferior.\nDiagnostic: lombalgie mecanică acută/subacută cu contractură musculară paravertebrală dreaptă și tensionare fesier/piriform drept, pe fond de postură vicioasă la birou.\nObiective terapeutice: reducerea contracturii musculare lombare; refacerea mobilității în rotație; echilibrarea bazinului; lucru pe musculatura fesieră dreaptă."
+}

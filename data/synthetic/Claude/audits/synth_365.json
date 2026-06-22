@@ -1,0 +1,43 @@
+{
+  "conversation_id": "synth_365",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere la umăr, la umărul drept, de vreo trei săptămâni",
+      "am mutat niște cutii, eram la un prieten, l-am ajutat să se mute. Și am carat cutii vreo câteva ore"
+    ],
+    "evaluarea_durerii_vas": [
+      "La mișcare... un 7. Da, un 7 bun.",
+      "Repaus aș zice un 2, 3 poate."
+    ],
+    "localizarea_durerii": [
+      "am o durere la umăr, la umărul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori o simt un pic pe partea de sus a brațului"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "am pus un gel, am pus Voltaren, câteva zile"
+    ],
+    "evaluare_functionala_initiala": [
+      "văd o limitare clară la abducție, se oprește undeva pe la 90 de grade, nu puteți duce mai sus. În flexie merge ceva mai bine.",
+      "Avem o inflamație la nivelul umărului drept, cel mai probabil o tendinopatie a manșetei rotatoare, posibil cu o bursită asociată.",
+      "Obiectivul nostru va fi să reducem inflamația, să recăpătăm mobilitatea și să restabilim forța în zona umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14094,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2467,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

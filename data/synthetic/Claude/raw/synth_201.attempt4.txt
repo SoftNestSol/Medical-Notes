@@ -1,0 +1,48 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, vă rog, cu ce problemă ați venit.\nSPEAKER_01: Spatele.\nSPEAKER_00: Spatele, zona de jos sau mai sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar, deci. De când vă doare?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc. Am ridicat ceva.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, 0 nu doare deloc, 10 e maxim, unde ați pune durerea?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Mai mult când mă mișc.\nSPEAKER_00: Când stați în picioare doare?\nSPEAKER_01: Da, dar mai puțin.\nSPEAKER_00: Durerea se lasă pe picior, pe fesă, pe coapsă?\nSPEAKER_01: Nu.\nSPEAKER_00: Sigur? Nicio senzație pe picior?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Bun. Amorțeli la picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Stați puțin cu spatele la mine. Haideți să aplecați ușor înainte... Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Mult?\nSPEAKER_01: Da, destul.\nSPEAKER_00: Și dacă vă îndreptați, mai încet... Acum?\nSPEAKER_01: Și așa doare.\nSPEAKER_00: Înțeleg. Apăs puțin aici, zona lombară... Simțiți?\nSPEAKER_01: Aoleu, da.\nSPEAKER_00: Și mai jos, zona sacrală, doare?\nSPEAKER_01: Nu, acolo nu.\nSPEAKER_00: Bun. Luați ceva medicamente acum, antiinflamatoare, ceva?\nSPEAKER_01: Am luat un ibuprofen, dar rar.\nSPEAKER_00: Ibuprofen. Ce doză?\nSPEAKER_01: Nu știu. Normal, din ăla de la farmacie.\nSPEAKER_00: Ok. Aveți tensiune arterială, diabet, probleme cu inima?\nSPEAKER_01: Nu.\nSPEAKER_00: Hernie de disc știți dacă aveți?\nSPEAKER_01: Nu știu, n-am făcut RMN.\nSPEAKER_00: Alte probleme cu spatele în trecut?\nSPEAKER_01: Am mai avut, acum vreo trei ani, tot așa.\nSPEAKER_00: Și atunci ce s-a întâmplat, a trecut singur?\nSPEAKER_01: Da, cu pastile.\nSPEAKER_00: Am înțeles. Deci avem o contractură lombară acută, apărută după efort fizic, ridicare de greutate. Mobilitatea e limitată la flexie și extensie. Musculatura paravertebrală e tensionată, sensibilă la palpare. O să lucrăm pe relaxarea musculaturii și reducerea inflamației locale. Bun?\nSPEAKER_01: Da.\nSPEAKER_00: Haideți pe masă atunci.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară acută apărută brusc în urmă cu două săptămâni, după ridicarea unei greutăți. VAS 6/10, accentuată la mișcare (flexie, extensie), prezentă și în ortostatism. Fără iradiere pe membrele inferioare, fără amorțeli.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": "Episod similar de durere lombară în urmă cu aproximativ trei ani, rezolvat cu medicație.",
+    "medicatie_actuala": [
+      {
+        "denumire": "ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractură lombară acută post-efort (ridicare greutate). Mobilitate limitată la flexie și extensie. Musculatura paravertebrală tensionată, sensibilă la palpare în zona lombară.\nObiective terapeutice: relaxarea musculaturii paravertebrale, reducerea inflamației locale."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Am ridicat ceva.",
+      "Vreo două săptămâni.",
+      "Mai mult când mă mișc.",
+      "Durerea se lasă pe picior, pe fesă, pe coapsă? Nu.",
+      "Amorțeli la picioare? Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 6."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Lombar, deci."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am mai avut, acum vreo trei ani, tot așa.",
+      "Da, cu pastile."
+    ],
+    "medicatie_actuala": [
+      "Am luat un ibuprofen, dar rar."
+    ],
+    "evaluare_functionala_initiala": [
+      "Deci avem o contractură lombară acută, apărută după efort fizic, ridicare de greutate. Mobilitatea e limitată la flexie și extensie. Musculatura paravertebrală e tensionată, sensibilă la palpare. O să lucrăm pe relaxarea musculaturii și reducerea inflamației locale."
+    ]
+  }
+}

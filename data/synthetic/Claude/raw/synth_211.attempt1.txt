@@ -1,0 +1,45 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și cum a apărut, dintr-o dată sau treptat?\nSPEAKER_01: Treptat, parcă.\nSPEAKER_00: Ați făcut ceva anume înainte să înceapă, un efort, o mișcare?\nSPEAKER_01: Am mutat niște cutii la serviciu.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e cel mai rău, unde vă situați acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Ce mișcări vă dor cel mai tare?\nSPEAKER_01: Când ridic mâna sus.\nSPEAKER_00: Și când duceți mâna în spate, spre spate?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală.\nSPEAKER_01: Nu.\nSPEAKER_00: Doare și în zona gâtului, a cefei?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Bun. Alte dureri în altă parte?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți afecțiuni cunoscute, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Nicio intervenție chirurgicală, nicio fractură?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați medicamente în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, nicio cremă?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să fac câteva teste. Ridicați mâna stângă în față, încet, până unde puteți.\nSPEAKER_01: Până pe aici.\nSPEAKER_00: Doare de pe aici?\nSPEAKER_01: Da.\nSPEAKER_00: Deci limitare la abducție, cam la 80 de grade, cu durere. Acum duceți-o lateral.\nSPEAKER_01: Asta doare mai rău.\nSPEAKER_00: Înțeles. Apăs acum pe tendonul supraspinos, spuneți-mi dacă simțiți.\nSPEAKER_01: Au, da, acolo.\nSPEAKER_00: Doare exact acolo, da?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Avem o inflamație la nivelul tendonului supraspinosului, cel mai probabil o tendinită de coafă a rotatorilor. Apare frecvent la efort brusc, la ridicat de greutăți. O să lucrăm să reducem inflamația și să refacem mobilitatea umărului.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng apărută treptat după efort fizic (mutat cutii la serviciu), de aproximativ două săptămâni. Durere la mișcare, în special la ridicarea brațului sus și ducerea mâinii în spate.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\nTendinită coafă rotatori umăr stâng (tendon supraspinos). Limitare la abducție ~80 grade cu durere. Durere la abducție laterală și la palparea tendonului supraspinosului.\nObiective terapeutice:\n- Reducerea inflamației\n- Refacerea mobilității umărului stâng"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Vreo două săptămâni.",
+      "Am mutat niște cutii la serviciu.",
+      "Mai mult la mișcare.",
+      "Când ridic mâna sus.",
+      "Da, și atunci."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nu.",
+      "Nicio pastilă, nicio cremă?"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o inflamație la nivelul tendonului supraspinosului, cel mai probabil o tendinită de coafă a rotatorilor.",
+      "Deci limitare la abducție, cam la 80 de grade, cu durere.",
+      "O să lucrăm să reducem inflamația și să refacem mobilitatea umărului."
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua!"
+    },
+    {
+      "start": 2.56,
+      "end": 6.36,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne vedem azi."
+    },
+    {
+      "start": 6.48,
+      "end": 28.52,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, uite, am o durere la umăr, la umărul drept, de vreo trei săptămâni. Adică a început mai ușor, credeam că trece singură, dar nu a trecut. Ba chiar mi se pare că s-a mai agravat în ultimele zile. Și am zis că mai bine vin, că nu e bine să las lucrurile să se complice, nu?"
+    },
+    {
+      "start": 28.64,
+      "end": 32.44,
+      "speaker": "SPEAKER_00",
+      "text": "Ați făcut ceva anume când a apărut durerea, vă amintiți?"
+    },
+    {
+      "start": 32.56,
+      "end": 58.02,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact, am mutat niște cutii, eram la un prieten, l-am ajutat să se mute. Și am carat cutii vreo câteva ore. Și a doua zi dimineața m-am trezit și simțeam că umărul e blocat, mă ținea tare. Nu știam dacă e musculatură sau ceva mai grav. M-am gândit la tot felul, că poate mi-am rupt ceva, că poate e tendon, nu știu."
+    },
+    {
+      "start": 58.14,
+      "end": 61.94,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și durerea e permanentă sau apare doar la mișcare?"
+    },
+    {
+      "start": 62.06,
+      "end": 84.1,
+      "speaker": "SPEAKER_01",
+      "text": "Apare mai mult când ridic brațul, mai ales când îl ridic lateral, în sus. Dacă stau liniștit, e un disconfort mic, suportabil. Dar dacă ridic mâna, de exemplu să iau ceva de pe raft, doare tare. Și noaptea am observat că mă trezesc dacă mă întorc pe partea dreaptă. Asta e cel mai nasol, că nu dorm bine."
+    },
+    {
+      "start": 84.22,
+      "end": 86.5,
+      "speaker": "SPEAKER_00",
+      "text": "Deci mai mult noaptea vă deranjează?"
+    },
+    {
+      "start": 86.62,
+      "end": 93.08,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și noaptea și la mișcare. Ziua mă mai descurc, dar noaptea e... da, e mai rău."
+    },
+    {
+      "start": 93.2,
+      "end": 103.08,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 înseamnă durere maximă, cum ați pune durerea la mișcare?"
+    },
+    {
+      "start": 103.2,
+      "end": 106.24,
+      "speaker": "SPEAKER_01",
+      "text": "La mișcare... un 7. Da, un 7 bun."
+    },
+    {
+      "start": 106.36,
+      "end": 107.5,
+      "speaker": "SPEAKER_00",
+      "text": "Și în repaus?"
+    },
+    {
+      "start": 107.62,
+      "end": 112.94,
+      "speaker": "SPEAKER_01",
+      "text": "Repaus aș zice un 2, 3 poate. E ca o tensiune, nu durere clară."
+    },
+    {
+      "start": 113.06,
+      "end": 118.38,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea rămâne în umăr sau se lasă și pe braț, pe cot, mai jos?"
+    },
+    {
+      "start": 118.5,
+      "end": 127.24,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, stă la umăr. Poate uneori o simt un pic pe partea de sus a brațului, dar nu mai jos de atât."
+    },
+    {
+      "start": 127.36,
+      "end": 134.2,
+      "speaker": "SPEAKER_00",
+      "text": "Pe partea de sus a brațului, înțeles. Și ați aplicat ceva pe zona asta, vreun gel, vreun unguent?"
+    },
+    {
+      "start": 134.32,
+      "end": 148.38,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am pus un gel, am pus Voltaren, câteva zile. Mi-a mai dat o ușoară ameliorare, dar nu a rezolvat nimic. Și nu voiam să iau pastile, că nu îmi place să iau pastile în general."
+    },
+    {
+      "start": 148.5,
+      "end": 153.44,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Aveți vreo afecțiune despre care știți, tensiune, diabet, probleme la coloană, ceva?"
+    },
+    {
+      "start": 153.56,
+      "end": 169.14,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic. Sunt sănătos tun, mulțumesc lui Dumnezeu. Adică mai am dureri de spate din când în când, ca toată lumea, dar nu am nimic diagnosticat oficial. Nu am fost la doctor de ani de zile înainte de asta."
+    },
+    {
+      "start": 169.26,
+      "end": 170.4,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Vârsta dumneavoastră?"
+    },
+    {
+      "start": 170.52,
+      "end": 171.66,
+      "speaker": "SPEAKER_01",
+      "text": "38 de ani."
+    },
+    {
+      "start": 171.78,
+      "end": 178.24,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să facem câteva mișcări să vedem cum stăm. Ridicați brațul drept lateral, ușor, până unde puteți."
+    },
+    {
+      "start": 178.36,
+      "end": 181.78,
+      "speaker": "SPEAKER_01",
+      "text": "Până cam pe aici... mai sus nu pot, doare."
+    },
+    {
+      "start": 181.9,
+      "end": 184.94,
+      "speaker": "SPEAKER_00",
+      "text": "Opriți-vă acolo. Și acum în față, ridicați."
+    },
+    {
+      "start": 185.06,
+      "end": 189.24,
+      "speaker": "SPEAKER_01",
+      "text": "În față merge un pic mai bine, dar tot se oprește."
+    },
+    {
+      "start": 189.36,
+      "end": 199.24,
+      "speaker": "SPEAKER_00",
+      "text": "Da, văd o limitare clară la abducție, se oprește undeva pe la 90 de grade, nu puteți duce mai sus. În flexie merge ceva mai bine."
+    },
+    {
+      "start": 199.36,
+      "end": 215.7,
+      "speaker": "SPEAKER_01",
+      "text": "Exact, exact. Și mai e ceva, îmi e teamă că dacă fac ceva greșit acum agravez situația. Am citit pe internet, știți cum e, și am găsit tot felul de lucruri grave. Că poate e ruptură de manșetă rotatoare, că poate trebuie operație..."
+    },
+    {
+      "start": 215.82,
+      "end": 223.42,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg că vă îngrijorați. Haideți să apăs puțin în zona aceasta, pe capul humeral, și îmi spuneți dacă simțiți durere."
+    },
+    {
+      "start": 223.54,
+      "end": 225.06,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo da, doare."
+    },
+    {
+      "start": 225.18,
+      "end": 228.98,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă fac mișcarea asta cu brațul, rotație internă... doare?"
+    },
+    {
+      "start": 229.1,
+      "end": 231.0,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, destul de tare."
+    },
+    {
+      "start": 231.12,
+      "end": 253.16,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Avem o inflamație la nivelul umărului drept, cel mai probabil o tendinopatie a manșetei rotatoare, posibil cu o bursită asociată. Asta explică și durerea nocturnă, și limitarea la abducție. Nu este neapărat o ruptură, sunt semne de inflamație locală. Obiectivul nostru va fi să reducem inflamația, să recăpătăm mobilitatea și să restabilim forța în zona umărului."
+    },
+    {
+      "start": 253.28,
+      "end": 254.8,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu trebuie operație?"
+    },
+    {
+      "start": 254.92,
+      "end": 261.38,
+      "speaker": "SPEAKER_00",
+      "text": "Nu e cazul să vorbim de operație acum. Vom vedea cum răspundeți la terapie în primele ședințe."
+    },
+    {
+      "start": 261.5,
+      "end": 265.3,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine, mă bucur. Că mă speriasem rău de tot."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua! Cu ce problemă ne vedem?\nSPEAKER_01: Bună ziua. Deci... am o durere de umăr, umărul stâng, de vreo trei săptămâni. Dar înainte să vă spun, vreau să vă zic că am mai fost la un medic și mi-a zis că ar putea fi ceva la tendoane, dar nu știu, nu m-a convins prea mult și am zis să vin și pe la dumneavoastră să văd ce ziceți.\nSPEAKER_00: Înțeles. Și cum a apărut durerea asta?\nSPEAKER_01: Păi... lucrez la birou, stau foarte mult la calculator, și cred că de la poziție, dar nu știu sigur. La un moment dat m-am trezit dimineața și pur și simplu mă durea. Nu am căzut, nu am lovit nimic. Poate și pentru că am și mutat niște cutii mai grele cu o săptămână înainte, nu știu dacă e de la aia. Soția mea zice că dorm prost, pe partea aia, dar eu nu cred că ăsta e motivul, deși cine știe.\nSPEAKER_00: Ok. Doare constant sau doar la anumite mișcări?\nSPEAKER_01: Mai mult la mișcări. Adică dacă stau liniștit nu simt mare lucru, dar când ridic mâna în sus sau când încerc să ajung la ceva pe spate, atunci doare rău. Și noaptea, dacă mă întorc pe partea stângă, mă trezesc din somn.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare când ridici mâna în sus?\nSPEAKER_01: Când ridic mâna... un 7, aș zice. Da, 7.\nSPEAKER_00: Bun. Și în repaus?\nSPEAKER_01: În repaus un 2, maxim.\nSPEAKER_00: Ai mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu, niciodată. Adică am mai avut dureri de spate, lombarul mă mai supără din când în când, dar la umăr e prima dată. Și vă zic sincer, mă tem că e ceva grav, că o fi rupt ceva acolo, de aia am venit mai repede.\nSPEAKER_00: Înțeles, hai să vedem. Ai tensiune, diabet, osteoporoză, ceva de genul ăsta?\nSPEAKER_01: Am tensiune, da. Iau tratament pentru asta. Iau Prestarium, o pastilă pe zi, de vreo doi ani.\nSPEAKER_00: Altceva mai iei?\nSPEAKER_01: Nu, doar aia. A, și vitamina D, că mi-a zis doctorul, dar aia nu e chiar medicament, nu?\nSPEAKER_00: O notăm oricum. Ce doză la vitamina D?\nSPEAKER_01: Nu știu exact doza, îmi pare rău, am acasă cutia.\nSPEAKER_00: Ok. Ridică brațul pentru mine încet... până unde poți. Bun. Simți că se blochează undeva?\nSPEAKER_01: Da, cam pe la 90 de grade începe să doară, și mai sus de atât nu prea mai pot.\nSPEAKER_00: Și dacă duci mâna în spate, ca să ajungi la umărul drept?\nSPEAKER_01: Ăsta e cel mai rău, da. Nu pot deloc, mă ia o durere ascuțită.\nSPEAKER_00: Am înțeles. O să lucrăm pe zona de umăr stâng, pe rotatori și pe capsula articulară. Limitarea asta de mobilitate, mai ales la rotația internă, arată că avem o inflamație în zonă și o tensionare a capsulei. Obiectivul nostru e să reducem inflamația și să recuperăm amplitudinea de mișcare.\nSPEAKER_01: Și credezi că se rezolvă? Că mă tem că dacă e rupt ceva...\nSPEAKER_00: Din ce am văzut acum nu e o ruptură, dar ca să fim siguri ar fi bine să faci și o ecografie pe umăr. Deocamdată începem și vedem cum răspunde.\nSPEAKER_01: Ok, bine. Da, fac ecografia, bineînțeles.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng, apărută progresiv, fără traumatism direct, de aproximativ trei săptămâni",
+    "evaluarea_durerii_vas": [7, 2],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Prestarium",
+        "doza": "o pastilă pe zi"
+      },
+      {
+        "denumire": "vitamina D",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare de mobilitate la abducție (blocaj la aproximativ 90 de grade) și la rotație internă (imposibilitate de a duce mâna la umărul opus pe la spate). Diagnostic: inflamație și tensionare capsulă articulară umăr stâng. Obiective terapeutice: reducerea inflamației și recuperarea amplitudinii de mișcare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["am o durere de umăr, umărul stâng, de vreo trei săptămâni"],
+    "evaluarea_durerii_vas": ["când ridic mâna... un 7, aș zice. Da, 7.", "În repaus un 2, maxim."],
+    "localizarea_durerii": ["am o durere de umăr, umărul stâng"],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Am tensiune, da."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Iau Prestarium, o pastilă pe zi, de vreo doi ani.", "A, și vitamina D, că mi-a zis doctorul"],
+    "evaluare_functionala_initiala": ["cam pe la 90 de grade începe să doară, și mai sus de atât nu prea mai pot", "Nu pot deloc, mă ia o durere ascuțită", "O să lucrăm pe zona de umăr stâng, pe rotatori și pe capsula articulară. Limitarea asta de mobilitate, mai ales la rotația internă, arată că avem o inflamație în zonă și o tensionare a capsulei. Obiectivul nostru e să reducem inflamația și să recuperăm amplitudinea de mișcare."]
+  }
+}

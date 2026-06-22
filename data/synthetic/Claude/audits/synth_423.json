@@ -1,0 +1,42 @@
+{
+  "conversation_id": "synth_423",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Vreo două săptămâni.",
+      "Am mutat niște mobilă.",
+      "Da, un dulap.",
+      "Câteodată, dacă stau pe partea aia."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un șase.",
+      "Poate un șapte, opt."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Stângul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Aceasta arată că avem o inflamație la nivelul tendoanelor rotatorilor, cel mai probabil supraspinosul. E o tendinopatie de coafă rotatorie, apărută după efort brusc cu greutate mare. Obiectivul nostru e să reducem inflamația în primele ședințe și apoi să recuperăm mobilitatea completă a umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21395,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 1926,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

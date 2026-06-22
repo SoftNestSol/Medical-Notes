@@ -1,0 +1,42 @@
+{
+  "conversation_id": "synth_075",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept. De vreo trei săptămâni, poate patru. De fapt, a început după ce am mutat niște cutii mari la birou"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când ridic brațul sus, un 7. Da, un 7.",
+      "Ăă, 2, maxim 3."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt ceva până la cot, uite, pe partea asta exterioară"
+    ],
+    "antecedente": [
+      "Tensiune am, da."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Amlodipină, 5 mg pe zi"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o inflamație la nivelul tendoanelor din umăr, cel mai probabil o tendinită de supraspinos, apărută după efort mecanic. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22731,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 1959,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

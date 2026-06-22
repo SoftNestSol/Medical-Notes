@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, vă rog, cu ce problemă ați venit.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Spatele... unde anume? Mai sus, mai jos?\nSPEAKER_01: Jos.\nSPEAKER_00: Zona lombară. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc. Am ridicat ceva.\nSPEAKER_00: Ați ridicat ceva greu, da? Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde ați pune durerea acum?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Doare tot timpul sau numai când faceți ceva anume?\nSPEAKER_01: Când mă mișc. Când stau nu prea.\nSPEAKER_00: Se lasă durerea și pe picior, jos?\nSPEAKER_01: Nu.\nSPEAKER_00: Numai în zona de jos a spatelui.\nSPEAKER_01: Da.\nSPEAKER_00: Amorțesc picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Aveți tensiune, diabet, osteoporoză, vreo afecțiune pe care o știți?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio operație, nicio fractură?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum, orice?\nSPEAKER_01: Ibuprofen.\nSPEAKER_00: Cât luați?\nSPEAKER_01: 400. Când mă doare tare.\nSPEAKER_00: Ok. Vă ajută?\nSPEAKER_01: Un pic.\nSPEAKER_00: Înțeleg. Haideți să fac câteva teste rapide. Întoarceți-vă cu spatele la mine. Stați drept, relaxat.\nSPEAKER_00: Îndoiți-vă puțin în față. Doare?\nSPEAKER_01: Da, aici.\nSPEAKER_00: Da, și mușchii sunt foarte încordați pe lateral. Ridicați piciorul drept pentru mine, țineți drept.\nSPEAKER_01: Au.\nSPEAKER_00: Doare? Până unde simțiți?\nSPEAKER_01: Până aici, în spate.\nSPEAKER_00: Numai în spate, nu coboară pe picior.\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Și stângul.\nSPEAKER_01: La fel.\nSPEAKER_00: La fel, tot numai în spate. Ok. Deci avem o contractură musculară lombară destul de serioasă, apărută după efort. Testele pentru nerv sunt negative, deci fără iradiere, fără compresie radiculară momentan. Obiectivul nostru e să reducem contractura și inflamația și să recâștigăm mobilitatea. Da?\nSPEAKER_01: Da.\nSPEAKER_00: Bun, haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară acută apărută brusc după ridicat greutăți, de aproximativ două săptămâni. Durere prezentă la mișcare, mai redusă în repaus, fără iradiere pe membrul inferior, fără amorțeli.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nContractură musculară paravertebrală lombară bilaterală. Test Lasègue negativ bilateral (durere doar lombară la ridicarea membrului inferior, fără iradiere distală).\nDiagnostic:\nContractură musculară lombară acută post-efort, fără semne de compresie radiculară.\nObiective terapeutice:\nReducerea contracturii și a inflamației; recâștigarea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele.", "Jos.", "Brusc. Am ridicat ceva.", "Când mă mișc. Când stau nu prea.", "Nu.", "Nu."],
+    "evaluarea_durerii_vas": ["Vreo 7."],
+    "localizarea_durerii": ["Zona lombară.", "Da, și mușchii sunt foarte încordați pe lateral."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Ibuprofen.", "400. Când mă doare tare."],
+    "evaluare_functionala_initiala": ["Deci avem o contractură musculară lombară destul de serioasă, apărută după efort. Testele pentru nerv sunt negative, deci fără iradiere, fără compresie radiculară momentan. Obiectivul nostru e să reducem contractura și inflamația și să recâștigăm mobilitatea."]
+  }
+}

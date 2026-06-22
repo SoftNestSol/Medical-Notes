@@ -1,0 +1,46 @@
+{
+  "conversation_id": "synth_496",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare jos, chiar la baza coloanei, știți, acolo unde se termină coloana, parcă mă ține tot timpul și nu pot să stau pe scaun mai mult de zece minute că mă apucă durerea",
+      "a început după ce am stat vreo două zile aproape non-stop la calculator",
+      "de vreo trei săptămâni"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când stau jos, pe scaun sau pe canapea, ajunge la un 7, chiar 8",
+      "Când merg sau stau în picioare e mai suportabil, aș zice un 4"
+    ],
+    "localizarea_durerii": [
+      "mă doare jos, chiar la baza coloanei",
+      "Mă mai doare spatele câteodată, lombar, dar asta e de la stat la birou"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori se duce și pe fesă, mai mult pe stânga",
+      "simt o presiune, cum să zic, ca o greutate în zona de fesă stângă"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Nurofen sau două acum vreo săptămână când n-am mai putut"
+    ],
+    "evaluare_functionala_initiala": [
+      "Cel mai probabil avem o iritație la nivelul articulației sacrococcigiene și o tensiune musculară în zona piriformului și fesierului stâng",
+      "O să lucrăm să reducem tensiunea musculară și iritația locală",
+      "dacă durerea nu cedează, vă recomand o radiografie să excludem orice problemă osoasă"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22994,
+    "inference_geo": "global",
+    "input_tokens": 360,
+    "output_tokens": 2388,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

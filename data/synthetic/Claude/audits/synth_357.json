@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_357",
+  "evidence": {
+    "motivul_prezentarii": [
+      "de vreo trei săptămâni mă doare umărul drept destul de rău",
+      "când încerc să ridic ceva greu, ajunge la 8",
+      "am mutat niște mobilă cu un prieten, rafturi, o bibliotecă mare, și după vreo două zile a apărut durerea",
+      "noaptea mă trezesc, că nu pot să stau pe partea dreaptă",
+      "Asta e cea mai nasoală mișcare. Nu reușesc să ajung sus."
+    ],
+    "evaluarea_durerii_vas": [
+      "Ziua, când mă mișc normal, un 5. Dar noaptea, sau când încerc să ridic ceva greu, ajunge la 8."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept destul de rău",
+      "Se lasă și pe braț, în jos, până pe la cot, uneori"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Am o scolioză ușoară, mi s-a spus când eram adolescent"
+    ],
+    "antecedente_altele": [
+      "acum vreo zece ani am avut o fractură la claviculă, tot pe dreapta. Am căzut de pe bicicletă, mi-am rupt clavicula. A fost operație, cu placă și șuruburi, dar placa a fost scoasă după doi ani."
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Deci limitare la flexia anterioară, durere la aproximativ 90 de grade.",
+      "Rotația internă limitată, înțeles.",
+      "am sesizat și eu o ușoară instabilitate",
+      "avem de-a face cel mai probabil cu o inflamație la nivelul coafei rotatorilor, cu implicarea tendonului supraspinatus în principal, posibil și o ușoară bursită subacromială asociată",
+      "Obiectivul nostru în primele ședințe va fi reducerea inflamației, recuperarea mobilității și stabilizarea articulației scapulo-humerale."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13861,
+    "inference_geo": "global",
+    "input_tokens": 318,
+    "output_tokens": 3500,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

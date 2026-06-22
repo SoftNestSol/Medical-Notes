@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și ce s-a întâmplat acum două săptămâni, a fost ceva anume?\nSPEAKER_01: Am mutat niște mobilă. Am cărat cutii grele.\nSPEAKER_00: Am înțeles. Doare constant sau doar când mișcați brațul?\nSPEAKER_01: Când îl ridic.\nSPEAKER_00: Când îl ridicați. Și sus de tot sau de la un punct anume începe durerea?\nSPEAKER_01: Cam de la jumătate în sus.\nSPEAKER_00: De la jumătate în sus. Doare și noaptea, când stați pe el?\nSPEAKER_01: Da, dacă stau pe partea aia nu pot dormi.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare când ridicați brațul?\nSPEAKER_01: Un 6.\nSPEAKER_00: 6. Dar noaptea?\nSPEAKER_01: Tot 6, poate un 7.\nSPEAKER_00: Înțeles. Se lasă durerea și pe braț în jos, pe cot, pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Aveți amorțeli în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, probleme la inimă?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să ridicăm brațul drept, ușor. Până unde putem ajunge?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci cam la 90 de grade și se oprește. Doare chiar acum?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă apăs aici pe capul humeral, pe zona asta laterală?\nSPEAKER_01: Au, da.\nSPEAKER_00: Sensibil. Acum încerc să ridic eu brațul menținând umărul fix. Doare mai mult sau la fel?\nSPEAKER_01: Mai mult.\nSPEAKER_00: Mai mult. Înțeles. Avem o limitare clară a abducției umărului drept și o sensibilitate la nivelul capului humeral. Cel mai probabil avem o inflamație a tendonului supraspinos. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Ați mai făcut kinetoterapie sau terapie manuală vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Prima dată. Bun, haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutat mobila, caratat cutii grele), de aproximativ doua saptamani.",
+    "evaluarea_durerii_vas": [6, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Limitare clara a abductiei umarului drept (aproximativ 90 de grade). Sensibilitate la palparea capului humeral zona laterala. Diagnostic: inflamatie tendon supraspinos. Obiective terapeutice: reducerea inflamatiei si recuperarea mobilitatii umarului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă. Am cărat cutii grele.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un 6.", "Tot 6, poate un 7."],
+    "localizarea_durerii": ["Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu.", "Nu, nimic."],
+    "evaluare_functionala_initiala": ["Avem o limitare clară a abducției umărului drept și o sensibilitate la nivelul capului humeral. Cel mai probabil avem o inflamație a tendonului supraspinos. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

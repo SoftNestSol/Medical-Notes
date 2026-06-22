@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "Durere umăr drept cu iradiere pe fața anterioară a brațului până la cot, apărută după efort de zugrăvit cu brațul ridicat, cu durată de aproximativ trei-patru săptămâni. Agravare nocturnă și la ridicarea brațului.",
+  "evaluarea_durerii_vas": [
+    4,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "fața anterioară a brațului drept până la cot",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Amlodipină",
+      "doza": "5 mg dimineața"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații funcționale: limitarea abducției și flexiei brațului drept la aproximativ 80-90 de grade, cu arc dureros în segmentul mediu al abducției; sensibilitate la palparea acromionului și a tendonului supraspinosului; test de adducție orizontală pozitiv cu durere pe fața anterioară a brațului; forță de abducție prezentă contra rezistență, cu durere asociată — fără semne de ruptură completă.\nDiagnostic: Tendinopatie supraspinoș cu posibilă iritație bursă subacromială, secundar efort de zugrăvit și postură prelungită la birou.\nObiective terapeutice: reducerea inflamației locale; recâștigarea mobilității umărului drept; corectarea posturii la birou."
+}

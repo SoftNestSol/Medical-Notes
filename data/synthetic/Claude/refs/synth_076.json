@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "Durere umăr drept de aproximativ trei săptămâni, apărută după activitate cu brațul ridicat (zugrăvit), accentuată la abducție și noaptea la decubit pe partea dreaptă.",
+  "evaluarea_durerii_vas": [
+    3,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "cot drept (iradiere ocazională menționată de pacient)",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "colesterol (fără tratament medicamentos); operație menisc genunchi stâng (veche, fără simptome actuale)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame dimineața"
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitarea abducției brațului drept; durere la palpare pe fața anterioară a umărului și la mișcarea brațului în extensie posterioară. Diagnostic: tendinită manșetă rotatori umăr drept. Obiective terapeutice: reducerea inflamației, redobândirea mobilității complete a umărului drept."
+}

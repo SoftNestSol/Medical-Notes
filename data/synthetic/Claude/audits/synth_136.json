@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_136",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul stâng, și nu de ieri de azi, adică e de vreo trei săptămâni deja",
+      "după ce am mutat niște cutii, niște dosare grele, cam de atunci a început"
+    ],
+    "evaluarea_durerii_vas": [
+      "un 7, zic eu. Când ridic mâna sus, da, un 7",
+      "Mai puțin, vreo 3, poate 4, depinde"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "pe umăr și un pic pe braț în jos, dar nu până la cot"
+    ],
+    "antecedente": [
+      "am tensiune, am de câțiva ani, iau pastile pentru ea"
+    ],
+    "antecedente_altele": [
+      "mai am colesterolul un pic mărit, dar nu iau nimic pentru asta"
+    ],
+    "medicatie_actuala": [
+      "Iau Enalapril, 10 miligrame, în fiecare dimineață"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem cel mai probabil o inflamație la nivelul tendoanelor din umăr, zona de coafă a rotatorilor, și o limitare a mobilității",
+      "O să lucrăm mai întâi să reducem inflamația și după să recuperăm mișcarea completă",
+      "Cam 90 de grade, da"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13528,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 2143,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

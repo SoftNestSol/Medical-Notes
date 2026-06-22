@@ -1,0 +1,283 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună."
+    },
+    {
+      "start": 1.84,
+      "end": 3.74,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă veniți azi?"
+    },
+    {
+      "start": 3.86,
+      "end": 5.0,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare umărul."
+    },
+    {
+      "start": 5.12,
+      "end": 5.92,
+      "speaker": "SPEAKER_00",
+      "text": "Care umăr?"
+    },
+    {
+      "start": 6.04,
+      "end": 6.84,
+      "speaker": "SPEAKER_01",
+      "text": "Stângul."
+    },
+    {
+      "start": 6.96,
+      "end": 8.48,
+      "speaker": "SPEAKER_00",
+      "text": "De când vă doare?"
+    },
+    {
+      "start": 8.6,
+      "end": 10.12,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo două săptămâni."
+    },
+    {
+      "start": 10.24,
+      "end": 14.42,
+      "speaker": "SPEAKER_00",
+      "text": "Și s-a întâmplat ceva, ați căzut, ați ridicat ceva greu?"
+    },
+    {
+      "start": 14.54,
+      "end": 16.82,
+      "speaker": "SPEAKER_01",
+      "text": "Am mutat niște cutii la serviciu."
+    },
+    {
+      "start": 16.94,
+      "end": 26.44,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare vă doare acum?"
+    },
+    {
+      "start": 26.56,
+      "end": 27.36,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 5."
+    },
+    {
+      "start": 27.48,
+      "end": 29.38,
+      "speaker": "SPEAKER_00",
+      "text": "Și când ridicați mâna sus?"
+    },
+    {
+      "start": 29.5,
+      "end": 30.3,
+      "speaker": "SPEAKER_01",
+      "text": "Mai rău."
+    },
+    {
+      "start": 30.42,
+      "end": 33.46,
+      "speaker": "SPEAKER_00",
+      "text": "Mai rău, cât, tot 5 sau mai mult?"
+    },
+    {
+      "start": 33.58,
+      "end": 34.38,
+      "speaker": "SPEAKER_01",
+      "text": "Poate 7."
+    },
+    {
+      "start": 34.5,
+      "end": 38.68,
+      "speaker": "SPEAKER_00",
+      "text": "Doare undeva anume, aici în față, sau mai sus, în vârf?"
+    },
+    {
+      "start": 38.8,
+      "end": 41.08,
+      "speaker": "SPEAKER_01",
+      "text": "Aici, în față, cam pe aici."
+    },
+    {
+      "start": 41.2,
+      "end": 45.38,
+      "speaker": "SPEAKER_00",
+      "text": "Pe partea anterioară. Și se lasă cumva pe braț în jos?"
+    },
+    {
+      "start": 45.5,
+      "end": 46.3,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 46.42,
+      "end": 47.56,
+      "speaker": "SPEAKER_00",
+      "text": "Nu amorțește nimic?"
+    },
+    {
+      "start": 47.68,
+      "end": 48.48,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 48.6,
+      "end": 52.4,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Noaptea vă deranjează, nu puteți dormi pe partea stângă?"
+    },
+    {
+      "start": 52.52,
+      "end": 54.8,
+      "speaker": "SPEAKER_01",
+      "text": "Da, nu pot sta pe el."
+    },
+    {
+      "start": 54.92,
+      "end": 57.96,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Alte probleme de sănătate, tensiune, diabet, osteoporoză?"
+    },
+    {
+      "start": 58.08,
+      "end": 58.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 59.0,
+      "end": 60.14,
+      "speaker": "SPEAKER_00",
+      "text": "Niciuna? Operații, fracturi?"
+    },
+    {
+      "start": 60.26,
+      "end": 61.06,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 61.18,
+      "end": 62.7,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreo medicație acum?"
+    },
+    {
+      "start": 62.82,
+      "end": 65.48,
+      "speaker": "SPEAKER_01",
+      "text": "Iau un ibuprofen din când în când."
+    },
+    {
+      "start": 65.6,
+      "end": 66.74,
+      "speaker": "SPEAKER_00",
+      "text": "Cât de des?"
+    },
+    {
+      "start": 66.86,
+      "end": 70.28,
+      "speaker": "SPEAKER_01",
+      "text": "Când mă doare mai tare. Nu în fiecare zi."
+    },
+    {
+      "start": 70.4,
+      "end": 72.3,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Alergii la creme, unguente?"
+    },
+    {
+      "start": 72.42,
+      "end": 73.22,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 73.34,
+      "end": 79.42,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să stați în picioare să fac câteva teste. Ridicați mâna stângă în față, încet. Doare?"
+    },
+    {
+      "start": 79.54,
+      "end": 81.06,
+      "speaker": "SPEAKER_01",
+      "text": "Da, de pe aici."
+    },
+    {
+      "start": 81.18,
+      "end": 86.88,
+      "speaker": "SPEAKER_00",
+      "text": "De la aproximativ 60 de grade începe durerea. Bun. Acum duceti-o lateral, în lateral."
+    },
+    {
+      "start": 87.0,
+      "end": 88.52,
+      "speaker": "SPEAKER_01",
+      "text": "Asta doare mai tare."
+    },
+    {
+      "start": 88.64,
+      "end": 94.72,
+      "speaker": "SPEAKER_00",
+      "text": "Mai tare pe lateral. Bun. Apăs acum pe bicepsul lung, pe tendon, spuneți-mi dacă doare."
+    },
+    {
+      "start": 94.84,
+      "end": 95.64,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo."
+    },
+    {
+      "start": 95.76,
+      "end": 99.94,
+      "speaker": "SPEAKER_00",
+      "text": "Doare la palpare pe bicepsul lung. Rotația internă o puteți face?"
+    },
+    {
+      "start": 100.06,
+      "end": 101.2,
+      "speaker": "SPEAKER_01",
+      "text": "Merge, dar puțin."
+    },
+    {
+      "start": 101.32,
+      "end": 117.28,
+      "speaker": "SPEAKER_00",
+      "text": "Limitată. Bun. Deci avem o inflamație la nivelul tendonului bicepsului lung și posibil și a bursei subacromiale. Asta înseamnă că tendonul s-a inflamat din cauza efortului respectiv cu cutiile. O să lucrăm să reducem inflamația și să refacem mobilitatea umărului. Da?"
+    },
+    {
+      "start": 117.4,
+      "end": 118.2,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 118.32,
+      "end": 123.64,
+      "speaker": "SPEAKER_00",
+      "text": "Și pentru ibuprofen, dacă aveți nevoie, îl puteți lua, dar nu pe stomacul gol."
+    },
+    {
+      "start": 123.76,
+      "end": 124.56,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua!"
+    },
+    {
+      "start": 2.56,
+      "end": 5.22,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi cu ce problemă ne vedem."
+    },
+    {
+      "start": 5.34,
+      "end": 19.78,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, am o durere jos, la coadă, știți, chiar la capătul coloanei, acolo. De vreo trei săptămâni mă tot chinuie și nu știu ce să fac cu ea. M-am gândit că o trece singură, dar nu trece."
+    },
+    {
+      "start": 19.9,
+      "end": 22.18,
+      "speaker": "SPEAKER_00",
+      "text": "La coadă, deci zona de coccis."
+    },
+    {
+      "start": 22.3,
+      "end": 28.38,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact acolo, coccisul, da. Și un pic mai sus, poate, dar mai mult acolo jos."
+    },
+    {
+      "start": 28.5,
+      "end": 33.44,
+      "speaker": "SPEAKER_00",
+      "text": "Și a apărut din senin sau a fost ceva, o căzătură, o lovitură?"
+    },
+    {
+      "start": 33.56,
+      "end": 55.98,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nicio căzătură. Adică, stați să mă gândesc... eu stau mult pe scaun, lucrez la birou, cam opt-nouă ore pe zi, și după o ședință mai lungă am simțit că mă strânge acolo jos. La început credeam că e de la scaun, că e mai tare scaunul, dar acum doare și când mă ridic, nu numai când stau."
+    },
+    {
+      "start": 56.1,
+      "end": 59.14,
+      "speaker": "SPEAKER_00",
+      "text": "Deci doare și la ridicarea de pe scaun."
+    },
+    {
+      "start": 59.26,
+      "end": 78.26,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, tocmai asta e cel mai deranjant. Adică, stau jos și mă ține, după aia când mă ridic, primii pași sunt îngrozitori. Și mai am și frica asta că poate e ceva grav, nu știu, am citit pe internet tot felul de lucruri și m-am speriat un pic."
+    },
+    {
+      "start": 78.38,
+      "end": 86.36,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Pe o scară de la zero la zece, unde zero nu doare deloc și zece doare maxim, cum estimați durerea?"
+    },
+    {
+      "start": 86.48,
+      "end": 92.56,
+      "speaker": "SPEAKER_01",
+      "text": "Când stau jos, poate un cinci. Dar când mă ridic, acolo e un șapte, șapte solid."
+    },
+    {
+      "start": 92.68,
+      "end": 95.72,
+      "speaker": "SPEAKER_00",
+      "text": "Deci cinci când stați și șapte la ridicare."
+    },
+    {
+      "start": 95.84,
+      "end": 113.7,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam așa. Și noaptea mai am și eu o problemă, că nu știu cum să stau. Dacă stau pe spate, apasă direct acolo și mă trezesc. Am pus o pernă sub genunchi, am văzut pe internet, și mai ajută un pic, dar tot nu e bine."
+    },
+    {
+      "start": 113.82,
+      "end": 117.24,
+      "speaker": "SPEAKER_00",
+      "text": "Doare și în zona fesieră sau strict la coccis?"
+    },
+    {
+      "start": 117.36,
+      "end": 124.96,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult la coccis, dar uneori simt că se întinde un pic și în fesă, pe partea stângă mai ales."
+    },
+    {
+      "start": 125.08,
+      "end": 128.12,
+      "speaker": "SPEAKER_00",
+      "text": "Și în picior se lasă ceva? Amorțeală, durere?"
+    },
+    {
+      "start": 128.24,
+      "end": 132.42,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, picioarele sunt ok. Adică, nu simt nimic în picioare."
+    },
+    {
+      "start": 132.54,
+      "end": 134.82,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Ați luat ceva pentru durere?"
+    },
+    {
+      "start": 134.94,
+      "end": 149.0,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat un Voltaren gel, am dat pe acolo, de câteva ori. Și o dată am luat și un Nurofen că nu mai puteam, dar nu prea des, că nu-mi place să mă încarc cu pastile."
+    },
+    {
+      "start": 149.12,
+      "end": 152.16,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Alte afecțiuni aveți, tensiune, diabet, osteoporoză, ceva?"
+    },
+    {
+      "start": 152.28,
+      "end": 163.3,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea. Sunt sănătos, în rest, sau cel puțin asta cred. Am 34 de ani, nu ar trebui să am probleme, dar uite că am."
+    },
+    {
+      "start": 163.42,
+      "end": 164.56,
+      "speaker": "SPEAKER_00",
+      "text": "Nici operații, fracturi?"
+    },
+    {
+      "start": 164.68,
+      "end": 172.28,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Ah, mi-am rupt un deget la picior acum vreo zece ani, dar asta nu are legătură, nu?"
+    },
+    {
+      "start": 172.4,
+      "end": 178.86,
+      "speaker": "SPEAKER_00",
+      "text": "Nu are legătură, da. Bine, haideți să facem câteva verificări. Stați puțin în picioare lângă masă, relaxat."
+    },
+    {
+      "start": 178.98,
+      "end": 179.78,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, gata."
+    },
+    {
+      "start": 179.9,
+      "end": 182.18,
+      "speaker": "SPEAKER_00",
+      "text": "Vă aplecați ușor înainte, cât puteți."
+    },
+    {
+      "start": 182.3,
+      "end": 184.96,
+      "speaker": "SPEAKER_01",
+      "text": "Da... doare un pic jos, dar merge."
+    },
+    {
+      "start": 185.08,
+      "end": 186.6,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe spate, ușor."
+    },
+    {
+      "start": 186.72,
+      "end": 190.9,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, pe spate doare mai tare, da. Chiar acolo la coadă."
+    },
+    {
+      "start": 191.02,
+      "end": 199.0,
+      "speaker": "SPEAKER_00",
+      "text": "Da, extensia lombară accentuează durerea la coccis. Acum stați pe masă. Vă apăs ușor pe zona sacrală, îmi spuneți ce simțiți."
+    },
+    {
+      "start": 199.12,
+      "end": 201.4,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, acolo e. Exact acolo."
+    },
+    {
+      "start": 201.52,
+      "end": 203.8,
+      "speaker": "SPEAKER_00",
+      "text": "Și mai sus, pe lombarul jos?"
+    },
+    {
+      "start": 203.92,
+      "end": 206.2,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, da, e mai suportabil."
+    },
+    {
+      "start": 206.32,
+      "end": 222.28,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Avem o sensibilitate clară la nivelul coccisului și sacrului. Pare o coccidinii, adică o inflamație a zonei coccisiene, cel mai probabil instalată din cauza posturii prelungite la birou. O să lucrăm să reducem inflamația și să ameliorăm mobilitatea în acea zonă."
+    },
+    {
+      "start": 222.4,
+      "end": 228.48,
+      "speaker": "SPEAKER_01",
+      "text": "Și o să treacă? Pentru că m-am tot gândit că poate trebuie radiografie sau ceva..."
+    },
+    {
+      "start": 228.6,
+      "end": 239.62,
+      "speaker": "SPEAKER_00",
+      "text": "Deocamdată nu avem semne care să impună investigații imagistice. Dacă după câteva ședințe nu se ameliorează, discutăm și de o radiografie. Dar cel mai probabil e o problemă funcțională."
+    },
+    {
+      "start": 239.74,
+      "end": 244.3,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine, mă bucur că nu e ceva grav. Mă speriasem eu."
+    },
+    {
+      "start": 244.42,
+      "end": 245.56,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să începem."
+    }
+  ]
+}

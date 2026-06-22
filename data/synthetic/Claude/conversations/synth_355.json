@@ -1,0 +1,217 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 5.22,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi numele și vârsta, vă rog."
+    },
+    {
+      "start": 5.34,
+      "end": 12.18,
+      "speaker": "SPEAKER_01",
+      "text": "Mă numesc Gheorghe Tănase, am 38 de ani. Lucrez la birou, dacă contează, stau toată ziua la calculator."
+    },
+    {
+      "start": 12.3,
+      "end": 15.72,
+      "speaker": "SPEAKER_00",
+      "text": "Contează, da. Și cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 15.84,
+      "end": 31.42,
+      "speaker": "SPEAKER_01",
+      "text": "Păi mă doare umărul drept, de vreo trei săptămâni. La început am zis că trece, că poate am dormit prost sau ceva, dar nu trece. Ba chiar mi se pare că s-a înrăutățit un pic față de acum o săptămână."
+    },
+    {
+      "start": 31.54,
+      "end": 36.86,
+      "speaker": "SPEAKER_00",
+      "text": "Umărul drept. Și durerea e locală sau se lasă și pe braț în jos?"
+    },
+    {
+      "start": 36.98,
+      "end": 44.58,
+      "speaker": "SPEAKER_01",
+      "text": "Se lasă puțin, da, pe... pe partea din față a brațului, până pe la cot, cam așa. Nu mai jos."
+    },
+    {
+      "start": 44.7,
+      "end": 48.5,
+      "speaker": "SPEAKER_00",
+      "text": "Până la cot, pe față. Și amorțeală sau furnicături simt?"
+    },
+    {
+      "start": 48.62,
+      "end": 56.6,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, amorțeală nu. Furnicături uneori, dar nu știu dacă e de la asta sau că stau mult cu mâna pe mouse."
+    },
+    {
+      "start": 56.72,
+      "end": 64.7,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare maxim, unde ne situăm?"
+    },
+    {
+      "start": 64.82,
+      "end": 75.84,
+      "speaker": "SPEAKER_01",
+      "text": "Zilnic, în repaus, cam un 4. Dar dacă ridic brațul sau încerc să pun mâna la spate, sar la un 7, poate 8. E deranjant, mai ales la muncă."
+    },
+    {
+      "start": 75.96,
+      "end": 81.66,
+      "speaker": "SPEAKER_00",
+      "text": "Deci în repaus 4, la mișcare 7-8. Ce anume declanșează durerea cel mai des?"
+    },
+    {
+      "start": 81.78,
+      "end": 95.46,
+      "speaker": "SPEAKER_01",
+      "text": "Când ridic ceva, chiar și ceva ușor, cum ar fi o sticlă de apă. Sau când întorc brațul, nu știu cum să zic, spre interior. Și dimineața e mai rău, primele minute după ce mă trezesc."
+    },
+    {
+      "start": 95.58,
+      "end": 100.9,
+      "speaker": "SPEAKER_00",
+      "text": "Dimineața mai rău. A existat vreun traumatism, vreo lovitură, ceva anume înainte să apară?"
+    },
+    {
+      "start": 101.02,
+      "end": 113.18,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu că să-mi aduc aminte. Adică am fost la sală acum vreo lună, am tras mai mult la exerciții pentru umăr, tracțiuni și flotări, poate de atunci. Nu știu sigur."
+    },
+    {
+      "start": 113.3,
+      "end": 118.24,
+      "speaker": "SPEAKER_00",
+      "text": "Poate de la sală, înțeles. Ați mai avut dureri la umărul ăsta înainte?"
+    },
+    {
+      "start": 118.36,
+      "end": 127.86,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată. La umărul stâng am mai simțit ceva în urmă cu doi ani, dar a trecut singur în câteva zile, n-am făcut nimic."
+    },
+    {
+      "start": 127.98,
+      "end": 130.26,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Tensiune, diabet, alte boli cronice?"
+    },
+    {
+      "start": 130.38,
+      "end": 145.58,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Sunt destul de sănătos în rest. Mă tem puțin că e ceva grav, că am citit pe internet și am văzut că pot fi tot felul de probleme la umăr, rupturi și chestii... sper că nu e cazul."
+    },
+    {
+      "start": 145.7,
+      "end": 148.36,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Luați vreun medicament în perioada asta?"
+    },
+    {
+      "start": 148.48,
+      "end": 154.18,
+      "speaker": "SPEAKER_01",
+      "text": "Am pus un gel, Voltaren, când mă doare mai rău seara. Nu iau pastile, nu."
+    },
+    {
+      "start": 154.3,
+      "end": 158.1,
+      "speaker": "SPEAKER_00",
+      "text": "Voltaren gel, aplicat local. De câte ori pe zi aproximativ?"
+    },
+    {
+      "start": 158.22,
+      "end": 162.78,
+      "speaker": "SPEAKER_01",
+      "text": "Poate de două ori, nu regulat, mai mult când nu mai suport."
+    },
+    {
+      "start": 162.9,
+      "end": 170.12,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Hai să facem câteva teste acum. Ridicați brațul drept lateral, încet, și spuneți-mi când apare durerea."
+    },
+    {
+      "start": 170.24,
+      "end": 173.28,
+      "speaker": "SPEAKER_01",
+      "text": "Acum... cam pe la jumătate, da. Uite, aici."
+    },
+    {
+      "start": 173.4,
+      "end": 177.2,
+      "speaker": "SPEAKER_00",
+      "text": "Deci în arcul de mișcare mijlociu. Continuați mai sus... dispare?"
+    },
+    {
+      "start": 177.32,
+      "end": 180.74,
+      "speaker": "SPEAKER_01",
+      "text": "Da, ciudat, mai sus nu mai doare la fel."
+    },
+    {
+      "start": 180.86,
+      "end": 185.42,
+      "speaker": "SPEAKER_00",
+      "text": "Arc dureros la abducție, mijlociu. Acum puneți mâna la spate, cât puteți."
+    },
+    {
+      "start": 185.54,
+      "end": 189.72,
+      "speaker": "SPEAKER_01",
+      "text": "Uf, asta doare. Nu pot să urc mai sus de șold."
+    },
+    {
+      "start": 189.84,
+      "end": 196.3,
+      "speaker": "SPEAKER_00",
+      "text": "Rotație internă limitată și dureroasă. Apăs acum pe zona asta, pe tendoanele de la umăr, spuneți-mi."
+    },
+    {
+      "start": 196.42,
+      "end": 198.32,
+      "speaker": "SPEAKER_01",
+      "text": "Acolo doare, da. Chiar acolo."
+    },
+    {
+      "start": 198.44,
+      "end": 220.86,
+      "speaker": "SPEAKER_00",
+      "text": "Sensibilitate la palparea tendonului supraspinat. Bun, pot să vă spun că avem un tablou specific unui sindrom de impingement subacromial, cu afectare la nivelul tendonului supraspinat. Nu e o ruptură, nu vă îngrijorați. Obiectivul nostru va fi să reducem inflamația locală, să refacem mobilitatea umărului și să lucrăm și postura, că statul la calculator contribuie la toată treaba asta."
+    },
+    {
+      "start": 220.98,
+      "end": 223.64,
+      "speaker": "SPEAKER_01",
+      "text": "Adică o să-mi treacă? Câte ședințe?"
+    },
+    {
+      "start": 223.76,
+      "end": 230.6,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde cum răspunde, dar în general 4-6 ședințe ar trebui să aducem îmbunătățiri clare. Haideți să începem."
+    }
+  ]
+}

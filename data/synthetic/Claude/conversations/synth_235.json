@@ -1,0 +1,205 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 4.84,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem azi?"
+    },
+    {
+      "start": 4.96,
+      "end": 27.0,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare umărul drept de vreo trei săptămâni, nu știu exact de ce, adică nu am căzut sau ceva, pur și simplu a început să doară, poate de la calculator, stau mult la birou, lucrezi mult la calculator și... nu știu, la un moment dat m-am trezit că nu mai pot să ridic mâna deasupra capului."
+    },
+    {
+      "start": 27.12,
+      "end": 33.2,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și durerea e localizată doar la umăr sau se lasă și pe braț în jos?"
+    },
+    {
+      "start": 33.32,
+      "end": 42.06,
+      "speaker": "SPEAKER_01",
+      "text": "Pe braț, da, uneori se lasă, cam până la cot, dar mai mult umărul în sine, în față, aici, mă doare mai rău."
+    },
+    {
+      "start": 42.18,
+      "end": 44.08,
+      "speaker": "SPEAKER_00",
+      "text": "În față, pe zona anterioară."
+    },
+    {
+      "start": 44.2,
+      "end": 59.02,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact, și mai ales noaptea e groaznic, mă trezesc din somn, nu știu pe ce parte să stau, pe dreapta nu pot deloc, nici pe stânga nu-i bine că tot trag de braț... e o nebunie, sincer."
+    },
+    {
+      "start": 59.14,
+      "end": 68.26,
+      "speaker": "SPEAKER_00",
+      "text": "Da, înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum ați situa durerea?"
+    },
+    {
+      "start": 68.38,
+      "end": 74.08,
+      "speaker": "SPEAKER_01",
+      "text": "Ziua, când nu fac nimic special, un 4. Noaptea când mă trezesc, lejer un 8."
+    },
+    {
+      "start": 74.2,
+      "end": 77.62,
+      "speaker": "SPEAKER_00",
+      "text": "4 ziua, 8 noaptea. Ați luat ceva pentru durere?"
+    },
+    {
+      "start": 77.74,
+      "end": 87.62,
+      "speaker": "SPEAKER_01",
+      "text": "Am pus un gel, Diclofenac, câteodată când nu mai pot, dar nu prea ajută, sau poate ajută puțin și eu nu-mi dau seama. Nu știu."
+    },
+    {
+      "start": 87.74,
+      "end": 89.64,
+      "speaker": "SPEAKER_00",
+      "text": "Și oral nu luați nimic?"
+    },
+    {
+      "start": 89.76,
+      "end": 96.98,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, nu vreau să iau pastile dacă nu e cazul, am o teamă față de medicamente în general."
+    },
+    {
+      "start": 97.1,
+      "end": 99.38,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Alte afecțiuni, tensiune, diabet, osteoporoză?"
+    },
+    {
+      "start": 99.5,
+      "end": 110.14,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic din astea, sunt relativ sănătos, adică am 38 de ani, mă consider ok, poate un pic de stres la muncă dar asta nu e o boală."
+    },
+    {
+      "start": 110.26,
+      "end": 113.3,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Intervenții chirurgicale, fracturi la umăr sau braț?"
+    },
+    {
+      "start": 113.42,
+      "end": 116.84,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată, nici măcar o fractură n-am avut."
+    },
+    {
+      "start": 116.96,
+      "end": 120.38,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți să ridicați brațul drept în față, ușor."
+    },
+    {
+      "start": 120.5,
+      "end": 123.16,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, mai sus deja doare."
+    },
+    {
+      "start": 123.28,
+      "end": 125.94,
+      "speaker": "SPEAKER_00",
+      "text": "Cam la 90 de grade se oprește."
+    },
+    {
+      "start": 126.06,
+      "end": 129.86,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam așa, și dacă forțez mai sus e rău."
+    },
+    {
+      "start": 129.98,
+      "end": 131.88,
+      "speaker": "SPEAKER_00",
+      "text": "Acum duceți mâna în lateral."
+    },
+    {
+      "start": 132.0,
+      "end": 136.56,
+      "speaker": "SPEAKER_01",
+      "text": "Lateral e ceva mai bine, dar tot nu ajung sus de tot."
+    },
+    {
+      "start": 136.68,
+      "end": 139.34,
+      "speaker": "SPEAKER_00",
+      "text": "Apăs puțin aici pe tendonul bicepsului, doare?"
+    },
+    {
+      "start": 139.46,
+      "end": 141.36,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, acolo doare tare."
+    },
+    {
+      "start": 141.48,
+      "end": 144.9,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă apăs în zona de acromion, mai sus..."
+    },
+    {
+      "start": 145.02,
+      "end": 146.54,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și acolo, da."
+    },
+    {
+      "start": 146.66,
+      "end": 162.62,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Deci avem o inflamație la nivelul tendonului supraspinatus și posibil și o tendinită a capului lung al bicepsului. Asta explică și durerea nocturnă, și limitarea la ridicarea brațului. Va trebui în prima fază să reducem inflamația și să recuperăm mobilitatea articulară."
+    },
+    {
+      "start": 162.74,
+      "end": 173.38,
+      "speaker": "SPEAKER_01",
+      "text": "Dar o să treacă, nu? Adică nu e ceva grav? Mă tot gândesc că poate am rupt ceva, că nu mă pot mișca bine și îmi e teamă."
+    },
+    {
+      "start": 173.5,
+      "end": 181.48,
+      "speaker": "SPEAKER_00",
+      "text": "Fără panică, nu pare o ruptură, dar dacă vreți liniște putem recomanda o ecografie ulterior. Deocamdată lucrăm și vedem cum răspunde."
+    },
+    {
+      "start": 181.6,
+      "end": 184.64,
+      "speaker": "SPEAKER_01",
+      "text": "Da, ok, asta mă liniștește un pic, mulțumesc."
+    },
+    {
+      "start": 184.76,
+      "end": 188.18,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă, vă rog, cu fața în sus."
+    }
+  ]
+}

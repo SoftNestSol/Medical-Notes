@@ -1,0 +1,46 @@
+{
+  "conversation_id": "synth_205",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, umărul stâng, de vreo două săptămâni",
+      "dacă ridic mâna sus, spre exemplu să iau ceva de pe raft, înjunghie tare",
+      "noaptea mă trezește, nu pot să dorm pe partea aia",
+      "la muncă eu stau mult la birou, la calculator",
+      "eu folosesc mouse-ul cu stânga"
+    ],
+    "evaluarea_durerii_vas": [
+      "Cam 7. Da, un 7."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, umărul stâng"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am, da. Iau tratament pentru ea de vreo trei ani încoace."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Amlodipină, 5 mg pe zi. Atât."
+    ],
+    "evaluare_functionala_initiala": [
+      "Cam la 90 de grade se oprește.",
+      "durere la palpare la nivelul tendonului supraspinos",
+      "Pare o tendinopatie de supraspinos, posibil cu inflamație subacromială.",
+      "O să lucrăm să reducem inflamația și să recuperăm mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22928,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 1958,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_142",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "stau mult la birou",
+      "Și în umăr.",
+      "Dreptul."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Și în umăr.",
+      "Dreptul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau ibuprofen când mă doare rău.",
+      "400."
+    ],
+    "evaluare_functionala_initiala": [
+      "Contracturi mari pe trapez și pe ridicătorul scapulei pe dreapta. Mobilitatea cervicală e limitată, mai ales la rotație dreapta și extensie.",
+      "Vom lucra să reducem contractura și să refacem mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13612,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1849,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

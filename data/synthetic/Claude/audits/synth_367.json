@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_367",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept de vreo... nu știu, de vreo trei săptămâni, poate mai mult",
+      "Se lasă și pe braț, da. Până pe la cot, cam pe acolo se oprește",
+      "Am mutat niște cutii, că ne-am mutat biroul cu totul într-o altă clădire, acum vreo lună",
+      "Și un pic de ceafă, da. Că mă și trezesc noaptea uneori"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când fac mișcarea aia, la spate, spre opt, zic eu. Da, opt.",
+      "Trei, patru, ceva de genul. Nu mă omoară, dar mă ține, mă jenează."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept",
+      "Și un pic de ceafă, da."
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă și pe braț, da. Până pe la cot, cam pe acolo se oprește.",
+      "simt și un fel de... nu știu cum să spun, ca un curent, ca o furnicătură pe brațul ăsta"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "am avut o operație la menisc la genunchiul stâng, acum vreo șapte ani",
+      "am avut o fractură la claviculă, tot pe dreapta, de la un accident de mașină"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Cam la nouăzeci de grade se blochează",
+      "văd că mobilitatea e limitată atât în flexie cât și în abducție",
+      "Trage pe dreapta la rotație",
+      "tensiune în trapezul superior și supraspinos, și o restricție de rotație cervicală spre dreapta",
+      "Cel mai probabil vorbim de o tendinopatie la nivelul coifului rotatorilor, combinată cu o contractură musculară cervico-scapulară",
+      "Obiectivul nostru va fi să reducem inflamația din tendoane, să relaxăm musculatura cervicală și a umărului și să recuperăm amplitudinea de mișcare treptat."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14094,
+    "inference_geo": "global",
+    "input_tokens": 318,
+    "output_tokens": 3504,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

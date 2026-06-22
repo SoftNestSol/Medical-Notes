@@ -1,0 +1,83 @@
+SPEAKER_00: Bună ziua!
+SPEAKER_01: Bună ziua, bună ziua.
+SPEAKER_00: Spuneți-mi numele complet, vă rog.
+SPEAKER_01: Radu Ionescu.
+SPEAKER_00: Și vârsta?
+SPEAKER_01: 38 de ani.
+SPEAKER_00: Mulțumesc. Cu ce problemă ne vedem astăzi?
+SPEAKER_01: Păi... mă doare pe aici, la umăr, în zona asta, și mai jos un pic, nu știu exact cum să vă descriu, că-i cam pe toată partea asta.
+SPEAKER_00: Pe care parte, dreapta sau stânga?
+SPEAKER_01: Dreapta, pe partea dreaptă, da.
+SPEAKER_00: Și durerea e doar la umăr sau se lasă și mai jos, pe braț?
+SPEAKER_01: Păi... uneori simt ceva și pe braț, dar nu știu dacă e de la ăsta sau din altă parte. Nu e tot timpul.
+SPEAKER_00: Înțeles. De când vă doare?
+SPEAKER_01: Cam de vreo două, trei săptămâni, ceva de genul ăsta. De fapt poate mai mult, că la început nu am băgat seamă.
+SPEAKER_00: S-a întâmplat ceva anume? Vreun efort, vreo lovitură?
+SPEAKER_01: Nu știu, adică am cam stat mult la birou în ultima perioadă, am un proiect și stau cam... mult cu mâna pe mouse, pe dreapta, și cred că de la aia, dar nu știu sigur.
+SPEAKER_00: Înțeles. Și durerea asta apare mai mult când faceți ceva anume sau și în repaus?
+SPEAKER_01: Apare mai rău când ridic mâna, când vreau să iau ceva de pe raft, de sus. În rest, mai mult când fac mișcări, nu știu, rotații, ceva de genul. La repaus e mai bine, dar nu dispare complet.
+SPEAKER_00: Există și noaptea durere? Vă treziți din somn?
+SPEAKER_01: Da, asta e enervant, că uneori mă trezesc dacă dorm pe partea aia. Adică îmi schimb poziția și se mai duce.
+SPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim suportabil, cum ați aprecia durerea acum, în momentul de față?
+SPEAKER_01: Acum? Acum e cam... nu știu, pe la 3, 4, ceva așa. Nu e îngrozitor acum.
+SPEAKER_00: Și când e la cel mai rău, când ridicați brațul de exemplu?
+SPEAKER_01: Atunci e mai rău, vreo 6, 7 poate.
+SPEAKER_00: Înțeles. Mai aveți vreo altă zonă care vă deranjează? Gâtul, spatele?
+SPEAKER_01: Păi... mai am un pic și la gât, în zona ceafei, dar asta e de mult, nu mai bag seamă. E ca și cum e normal deja.
+SPEAKER_00: De cât timp aveți la ceafă?
+SPEAKER_01: De ani de zile, nu știu, de când lucrez la birou. Ani de zile.
+SPEAKER_00: Și doare constant sau apare și dispare?
+SPEAKER_01: Apare și dispare. Când sunt stresat mai tare, simt că se strânge acolo. Altfel mai scapă.
+SPEAKER_00: Ok. Haideți să verific un pic mișcarea. Ridicați brațul drept în față pentru mine, lent.
+SPEAKER_01: Până aci pot... mai sus deja mă strânge.
+SPEAKER_00: Cam la ce unghi simțiți că apare?
+SPEAKER_01: Nu știu unghiuri, dar pe la jumătatea drumului, undeva pe acolo.
+SPEAKER_00: Acum în lateral, ridicați lateral brațul drept.
+SPEAKER_01: La fel, cam pe la același loc.
+SPEAKER_00: Bun. Acum rotație internă, duceți mâna la spate, ca și cum ați prinde fermoarul.
+SPEAKER_01: Asta e greu, doare mai mult la mișcarea asta.
+SPEAKER_00: Am înțeles. O să apăs acum în câteva zone, spuneți-mi unde simțiți.
+SPEAKER_01: Da.
+SPEAKER_00: Aici, pe zona asta anterioară a umărului?
+SPEAKER_01: Da, acolo e sensibil, da.
+SPEAKER_00: Mai tare sau mai puțin?
+SPEAKER_01: Destul de tare, da.
+SPEAKER_00: Și acum mai sus, pe acromion.
+SPEAKER_01: Și acolo ceva, dar nu la fel de tare ca înainte.
+SPEAKER_00: Bun. Aveți antecedente medicale, afecțiuni cu care știți că trăiți de mai multă vreme?
+SPEAKER_01: Am tiroidă, de vreo patru ani. Hipotiroidism, cred că se zice. Da.
+SPEAKER_00: Luați tratament pentru asta?
+SPEAKER_01: Da, Euthyrox, o pastilă dimineața.
+SPEAKER_00: Știți doza?
+SPEAKER_01: 75, parcă. 75 micrograme, da, asta e.
+SPEAKER_00: Altceva mai luați?
+SPEAKER_01: Am luat niște antiinflamatoare acum vreo două săptămâni, când m-a durut mai rău, dar nu mai iau acum.
+SPEAKER_00: Ce antiinflamatoare ați luat?
+SPEAKER_01: Ketoprofen, cred. Da, ăla.
+SPEAKER_00: Și acum nu mai luați nimic pentru umăr?
+SPEAKER_01: Nu, nu mai iau.
+SPEAKER_00: Altceva cronic, altă boală cu care știți că aveți de a face?
+SPEAKER_01: Nu, nu cred. Asta-i singura, tiroida.
+SPEAKER_00: Tensiune, diabet?
+SPEAKER_01: Nu, nu am.
+SPEAKER_00: Operații, fracturi la umărul acesta?
+SPEAKER_01: Nu, nu am pățit nimic.
+SPEAKER_00: Ați mai făcut vreodată terapie manuală, kinetoterapie?
+SPEAKER_01: Nu, prima dată vin la ceva de genul ăsta.
+SPEAKER_00: Ok. Ce profesie aveți?
+SPEAKER_01: Sunt programator, deci mult la calculator, ore întregi, cam toată ziua.
+SPEAKER_00: Și mâna cu care lucrați cel mai mult e dreapta.
+SPEAKER_01: Da, da, dreapta, tot timpul.
+SPEAKER_00: Am înțeles. Haideți să mai fac un test rapid. Stați cu brațul pe lângă corp, bun, acum rezistați când împing eu în lateral.
+SPEAKER_01: Au, da, acolo doare.
+SPEAKER_00: Și acum ridic eu pasiv brațul și voi opriți când simțiți că apare durerea.
+SPEAKER_01: Acum, pe la aici.
+SPEAKER_00: La aproximativ 80-90 de grade, arc dureros prezent. Bun. Și rotația externă, rezistați.
+SPEAKER_01: Asta merge mai bine.
+SPEAKER_00: Da, rotația externă e mai liberă. Bun, am o imagine destul de clară. Pe baza a ceea ce ați descris și ce am văzut la testare, avem o inflamație la nivelul tendoanelor din umărul drept, cel mai probabil tendinita de supraspinos, cu posibilă afectare a bursei subacromiale. Arc dureros pozitiv la abducție 80-90 grade, durere la rotație internă și la presiune anterioară. Zona cervicală e tensionată, dar asta e secundar, din postură de birou.
+SPEAKER_01: Deci e de la stat la calculator?
+SPEAKER_00: Cel mai probabil da, postură prelungită cu brațul drept în rotație internă constantă pe mouse. Obiectivul nostru în prima fază e să reducem inflamația din umăr, să decontracturăm musculatura periscapulară și să recâștigăm amplitudinea de mișcare. O să lucrăm și puțin pe zona cervicală, că se leagă.
+SPEAKER_01: Ok, și cât durează?
+SPEAKER_00: Haideți să vedem după primele două, trei ședințe cum răspunde. Vă rugăm deocamdată să evitați să ridicați greutăți cu brațul drept și dacă puteți să mutați mouse-ul pe stânga pentru o perioadă.
+SPEAKER_01: Pe stânga? Greu, dar încerc.
+SPEAKER_00: Bun. Haideți să trecem la treabă.

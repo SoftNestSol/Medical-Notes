@@ -1,0 +1,463 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, doamnă."
+    },
+    {
+      "start": 1.26,
+      "end": 7.34,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua. Sper că am venit la locul potrivit, sincer nu mai știu ce să fac."
+    },
+    {
+      "start": 7.46,
+      "end": 11.64,
+      "speaker": "SPEAKER_00",
+      "text": "Hai să vedem. Spuneți-mi cu ce problemă ne vedem astăzi."
+    },
+    {
+      "start": 11.76,
+      "end": 20.88,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare spatele, jos, de vreo trei săptămâni. Și mă tem că e ceva grav, că nu mi-a mai trecut singur până acum."
+    },
+    {
+      "start": 21.0,
+      "end": 24.04,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Deci zona de jos a spatelui, lombarul."
+    },
+    {
+      "start": 24.16,
+      "end": 29.48,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, acolo. Și uneori simt că se duce și pe fesă, pe dreapta."
+    },
+    {
+      "start": 29.6,
+      "end": 33.4,
+      "speaker": "SPEAKER_00",
+      "text": "Pe fesă pe dreapta. Mai jos de fesă, pe picior?"
+    },
+    {
+      "start": 33.52,
+      "end": 39.98,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori, da, parcă merge puțin pe coapsă, dar nu ajunge jos, nu ajunge la genunchi sau ceva."
+    },
+    {
+      "start": 40.1,
+      "end": 48.84,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum ați situa durerea?"
+    },
+    {
+      "start": 48.96,
+      "end": 60.36,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... depinde. Dimineața când mă ridic din pat e cam un 7. Pe parcursul zilei mai scade, ajunge pe la 5. Dar dacă stau mult jos, la birou, iar crește."
+    },
+    {
+      "start": 60.48,
+      "end": 65.04,
+      "speaker": "SPEAKER_00",
+      "text": "Deci mai rău dimineața la sculat și după stat prelungit la birou."
+    },
+    {
+      "start": 65.16,
+      "end": 71.24,
+      "speaker": "SPEAKER_01",
+      "text": "Exact. Și mă îngrijorez că poate e ceva la coloană, nu știu, hernie sau... e grav?"
+    },
+    {
+      "start": 71.36,
+      "end": 76.68,
+      "speaker": "SPEAKER_00",
+      "text": "Hai să vedem mai întâi toate detaliile și după discutăm, da? Ce ocupație aveți?"
+    },
+    {
+      "start": 76.8,
+      "end": 81.36,
+      "speaker": "SPEAKER_01",
+      "text": "Sunt contabilă, stau toată ziua la calculator. Opt ore, uneori mai mult."
+    },
+    {
+      "start": 81.48,
+      "end": 86.04,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și această durere a apărut din senin sau după ceva anume?"
+    },
+    {
+      "start": 86.16,
+      "end": 97.94,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... nu știu sigur. Cred că am mutat niște cutii acasă, mai grele, cam cu două, trei săptămâni înainte să înceapă. Dar nu m-a durut imediat, a apărut mai târziu."
+    },
+    {
+      "start": 98.06,
+      "end": 100.34,
+      "speaker": "SPEAKER_00",
+      "text": "Și a apărut treptat sau brusc?"
+    },
+    {
+      "start": 100.46,
+      "end": 103.5,
+      "speaker": "SPEAKER_01",
+      "text": "Treptat. Întâi ușor, după s-a tot accentuat."
+    },
+    {
+      "start": 103.62,
+      "end": 104.76,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Amorțesc picioarele?"
+    },
+    {
+      "start": 104.88,
+      "end": 114.38,
+      "speaker": "SPEAKER_01",
+      "text": "Nu... adică uneori când stau mult pe scaun simt un pic piciorul drept, dar nu știu dacă e de la asta sau de la poziție."
+    },
+    {
+      "start": 114.5,
+      "end": 117.92,
+      "speaker": "SPEAKER_00",
+      "text": "Deci amorțeală la stat prelungit pe scaun, piciorul drept."
+    },
+    {
+      "start": 118.04,
+      "end": 121.46,
+      "speaker": "SPEAKER_01",
+      "text": "Da, dar rar. Mă îngrijorez că înseamnă ceva rău?"
+    },
+    {
+      "start": 121.58,
+      "end": 128.8,
+      "speaker": "SPEAKER_00",
+      "text": "Hai să terminăm anamneza și o să discutăm. Aveți alte afecțiuni, tensiune, diabet, epilepsie, cancer, osteoporoză, ceva de genul?"
+    },
+    {
+      "start": 128.92,
+      "end": 132.34,
+      "speaker": "SPEAKER_01",
+      "text": "Am tensiune, da. Iau pastile de vreo doi ani."
+    },
+    {
+      "start": 132.46,
+      "end": 133.26,
+      "speaker": "SPEAKER_00",
+      "text": "Tensiune arterială."
+    },
+    {
+      "start": 133.38,
+      "end": 142.5,
+      "speaker": "SPEAKER_01",
+      "text": "Da. Și mai am și o scolioză, mi-a spus medicul de familie acum câțiva ani, dar zicea că e mică, nu e gravă."
+    },
+    {
+      "start": 142.62,
+      "end": 144.9,
+      "speaker": "SPEAKER_00",
+      "text": "Scolioza. A precizat el ce grad?"
+    },
+    {
+      "start": 145.02,
+      "end": 148.44,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu mi-a zis. Zice că e ușoară."
+    },
+    {
+      "start": 148.56,
+      "end": 151.22,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, notat. Altceva? Hernie de disc, osteoporoză?"
+    },
+    {
+      "start": 151.34,
+      "end": 158.94,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu știu, nu mi-a zis nimeni de hernie. Asta mă tem eu că am, că citisem pe net..."
+    },
+    {
+      "start": 159.06,
+      "end": 160.2,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Intervenții chirurgicale?"
+    },
+    {
+      "start": 160.32,
+      "end": 164.12,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acum opt ani am avut o operație de apendicită."
+    },
+    {
+      "start": 164.24,
+      "end": 165.38,
+      "speaker": "SPEAKER_00",
+      "text": "Apendicectomie, ok. Altceva?"
+    },
+    {
+      "start": 165.5,
+      "end": 166.3,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 166.42,
+      "end": 167.22,
+      "speaker": "SPEAKER_00",
+      "text": "Fracturi, accidente?"
+    },
+    {
+      "start": 167.34,
+      "end": 168.14,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată."
+    },
+    {
+      "start": 168.26,
+      "end": 170.54,
+      "speaker": "SPEAKER_00",
+      "text": "Medicamente pe care le luați acum?"
+    },
+    {
+      "start": 170.66,
+      "end": 178.64,
+      "speaker": "SPEAKER_01",
+      "text": "Iau Prestarium, un sfert de pastilă dimineața, pentru tensiune. Și mai iau Ibuprofen când mă doare rău spatele, dar nu mereu."
+    },
+    {
+      "start": 178.76,
+      "end": 180.66,
+      "speaker": "SPEAKER_00",
+      "text": "Cât de des luați Ibuprofenul?"
+    },
+    {
+      "start": 180.78,
+      "end": 186.1,
+      "speaker": "SPEAKER_01",
+      "text": "Poate de două, trei ori pe săptămână când e mai rău. Câte un comprimat."
+    },
+    {
+      "start": 186.22,
+      "end": 187.36,
+      "speaker": "SPEAKER_00",
+      "text": "200 sau 400?"
+    },
+    {
+      "start": 187.48,
+      "end": 189.0,
+      "speaker": "SPEAKER_01",
+      "text": "400, cred. Da, 400."
+    },
+    {
+      "start": 189.12,
+      "end": 191.4,
+      "speaker": "SPEAKER_00",
+      "text": "Alergii la medicamente sau creme, unguente?"
+    },
+    {
+      "start": 191.52,
+      "end": 192.32,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 192.44,
+      "end": 196.62,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ați mai făcut terapie pentru spate până acum, kinetoterapie, masaj?"
+    },
+    {
+      "start": 196.74,
+      "end": 202.06,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată. Nu am știut că... adică am tot amânat, sperând că trece singur."
+    },
+    {
+      "start": 202.18,
+      "end": 205.6,
+      "speaker": "SPEAKER_00",
+      "text": "Și acum vă ridică cu greutate din pat, dimineața?"
+    },
+    {
+      "start": 205.72,
+      "end": 209.9,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mă ține un pic, sunt câteva minute până mă dezmorțesc."
+    },
+    {
+      "start": 210.02,
+      "end": 216.48,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Haideți să facem câteva teste. Stați în picioare cu spatele la mine, vă rog. Relaxați umerii."
+    },
+    {
+      "start": 216.6,
+      "end": 218.88,
+      "speaker": "SPEAKER_01",
+      "text": "Bine. E ceva grav ce vedeți?"
+    },
+    {
+      "start": 219.0,
+      "end": 227.74,
+      "speaker": "SPEAKER_00",
+      "text": "Vedem o ușoară asimetrie la nivelul bazinului, umărul drept puțin mai ridicat. Aplecați-vă ușor în față, să atingeți cu mâinile în jos."
+    },
+    {
+      "start": 227.86,
+      "end": 230.52,
+      "speaker": "SPEAKER_01",
+      "text": "Doare când fac asta, pe dreapta jos."
+    },
+    {
+      "start": 230.64,
+      "end": 234.82,
+      "speaker": "SPEAKER_00",
+      "text": "Pe dreapta jos, zona lombară. Reveniți. Aplecați-vă acum pe dreapta."
+    },
+    {
+      "start": 234.94,
+      "end": 236.84,
+      "speaker": "SPEAKER_01",
+      "text": "Și pe asta, da, doare."
+    },
+    {
+      "start": 236.96,
+      "end": 239.24,
+      "speaker": "SPEAKER_00",
+      "text": "Cât, de la 0 la 10?"
+    },
+    {
+      "start": 239.36,
+      "end": 240.16,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 6."
+    },
+    {
+      "start": 240.28,
+      "end": 241.42,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe stânga?"
+    },
+    {
+      "start": 241.54,
+      "end": 243.06,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, poate 3."
+    },
+    {
+      "start": 243.18,
+      "end": 247.36,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Puneți-vă pe masă cu fața în jos, vă rog."
+    },
+    {
+      "start": 247.48,
+      "end": 251.66,
+      "speaker": "SPEAKER_01",
+      "text": "Ok. Sper să nu fie hernie, mă tot gândesc la asta."
+    },
+    {
+      "start": 251.78,
+      "end": 255.2,
+      "speaker": "SPEAKER_00",
+      "text": "Vă apăs ușor zona lombară, spuneți-mi dacă doare."
+    },
+    {
+      "start": 255.32,
+      "end": 256.46,
+      "speaker": "SPEAKER_01",
+      "text": "Da, doare acolo."
+    },
+    {
+      "start": 256.58,
+      "end": 259.62,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe zona de piriform, pe fesă dreapta?"
+    },
+    {
+      "start": 259.74,
+      "end": 262.02,
+      "speaker": "SPEAKER_01",
+      "text": "Vai, da, asta doare mai tare."
+    },
+    {
+      "start": 262.14,
+      "end": 264.42,
+      "speaker": "SPEAKER_00",
+      "text": "Ridicați piciorul drept în sus, ușor."
+    },
+    {
+      "start": 264.54,
+      "end": 266.82,
+      "speaker": "SPEAKER_01",
+      "text": "Doare în fesă când fac asta."
+    },
+    {
+      "start": 266.94,
+      "end": 269.22,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, lăsați jos. Și piciorul stâng."
+    },
+    {
+      "start": 269.34,
+      "end": 270.48,
+      "speaker": "SPEAKER_01",
+      "text": "Acesta nu doare."
+    },
+    {
+      "start": 270.6,
+      "end": 272.5,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Puteți să vă ridicați."
+    },
+    {
+      "start": 272.62,
+      "end": 276.04,
+      "speaker": "SPEAKER_01",
+      "text": "E grav, domnule doctor? Adică trebuie să fac RMN?"
+    },
+    {
+      "start": 276.16,
+      "end": 303.14,
+      "speaker": "SPEAKER_00",
+      "text": "Ceea ce vedem în momentul de față este o inflamație la nivelul musculaturii lombare și a piriformului pe dreapta. Există o disfuncție de bazin, o mică asimetrie, probabil și din cauza posturii de la birou și a efortului de la ridicarea cutiilor. Nu avem semne clare de hernie în momentul acesta, dar dacă durerea nu cedează după câteva ședințe, o să vă recomand să faceți un RMN ca să fim siguri."
+    },
+    {
+      "start": 303.26,
+      "end": 305.16,
+      "speaker": "SPEAKER_01",
+      "text": "Adică nu e neapărat hernie?"
+    },
+    {
+      "start": 305.28,
+      "end": 318.58,
+      "speaker": "SPEAKER_00",
+      "text": "Nu neapărat. Scolioza ușoară pe care o aveți plus postura de la birou pot da exact ce descrie dumneavoastră. Obiectivul nostru este să reducem inflamația, să lucrăm mobilitatea lombară și să corectăm disfuncția de bazin."
+    },
+    {
+      "start": 318.7,
+      "end": 321.36,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, ok. Și o să-mi treacă?"
+    },
+    {
+      "start": 321.48,
+      "end": 327.18,
+      "speaker": "SPEAKER_00",
+      "text": "Da, cu tratamentul potrivit ar trebui să se amelioreze semnificativ. Haideți să trecem la treabă."
+    },
+    {
+      "start": 327.3,
+      "end": 329.96,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, mulțumesc. Mă bucur că am venit."
+    }
+  ]
+}

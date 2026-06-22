@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă venim azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Un 5.\nSPEAKER_00: Doare tot timpul sau doar la mișcare?\nSPEAKER_01: La mișcare mai mult.\nSPEAKER_00: Ridicați brațul sus, doare?\nSPEAKER_01: Da, aici.\nSPEAKER_00: Pe unde, pe față sau pe lateral?\nSPEAKER_01: Pe lateral.\nSPEAKER_00: Și dacă duceți brațul în spate?\nSPEAKER_01: Și acolo doare.\nSPEAKER_00: Amorțește brațul sau mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Și gâtul doare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, epilepsie, cancer?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere prin sânge, proteze metalice?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Stați puțin cu brațul pe lângă corp, relaxat. Vă apăs aici pe mușchiul de deasupra umărului, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și mai în față, pe biceps, doare?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Ridicați brațul lateral până unde puteți fără să doară.\nSPEAKER_01: Până pe aici cam.\nSPEAKER_00: Deci cam la 90 de grade se blochează. Înțeles. Pare a fi o inflamație la nivelul supraspinatus, posibil și bursită subacromială. Va trebui să reducem inflamația în primă fază și după să recuperăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "durere umar stang aparuta dupa mutarea de mobila, prezenta de doua saptamani",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie supraspinatus;\n- posibila bursita subacromiale;\nObiective terapeutice:\n- reducerea procesului inflamator;\n- recuperarea mobilitatii umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Vreo două săptămâni.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Pare a fi o inflamație la nivelul supraspinatus, posibil și bursită subacromială. Va trebui să reducem inflamația în primă fază și după să recuperăm mobilitatea umărului."]
+  }
+}

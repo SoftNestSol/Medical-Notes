@@ -1,0 +1,27 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Rotaru. Mihai.\nSPEAKER_00: Mulțumesc, domnule Rotaru. Vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem?\nSPEAKER_01: Mă doare ceafa.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și s-a întâmplat ceva anume sau a apărut din senin?\nSPEAKER_01: Stau mult la calculator la serviciu.\nSPEAKER_00: Înțeles. Doare doar în ceafă sau se lasă și în altă parte?\nSPEAKER_01: Și în umărul drept un pic.\nSPEAKER_00: În umărul drept. Se lasă pe braț în jos?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți dureri de cap din cauza asta?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare în ceafă?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. Doare mai tare când stați jos la calculator sau când vă mișcați?\nSPEAKER_01: Când stau jos.\nSPEAKER_00: Când întoarceți capul doare?\nSPEAKER_01: Da, mai ales la dreapta.\nSPEAKER_00: Bun. Alte afecțiuni aveți, tensiune, diabet, epilepsie?\nSPEAKER_01: Nu.\nSPEAKER_00: Fracturi, traumatisme la nivel de gât sau spate?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Stați drept, cu fața la mine. Voi apăsa ușor în zona de la baza cefei, spuneți-mi dacă doare.\nSPEAKER_01: Da, doare.\nSPEAKER_00: Cât de tare?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: Și pe trapez, aici pe dreapta?\nSPEAKER_01: Și acolo, da.\nSPEAKER_00: Pe stânga e la fel?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Acum întoarceți capul ușor la dreapta pentru mine.\nSPEAKER_01: Au.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: La stânga?\nSPEAKER_01: Merge.\nSPEAKER_00: Înțeles. Dați capul ușor pe spate.\nSPEAKER_01: Un pic doare tot în ceafă.\nSPEAKER_00: Da, e de așteptat. Bun. Ce pot să vă spun este că aveți o contractură destul de serioasă pe mușchii cervicali, în special pe trapez și pe suboccipitali. Limitarea de rotație pe dreapta e clară. Vom lucra să reducem contractura și să refacem mobilitatea cervicală. Probabil trei-patru ședințe și ar trebui să simțiți o diferență.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere ceafă și umăr drept, apărută în context de muncă la calculator",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: contractură musculară cervicală, trapez și suboccipitali; limitare rotație cervicală dreapta.\nObiective terapeutice: reducerea contracturii; refacerea mobilității cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare ceafa.", "Stau mult la calculator la serviciu.", "Și în umărul drept un pic."],
+    "evaluarea_durerii_vas": ["Un 6."],
+    "localizarea_durerii": ["Mă doare ceafa.", "Și în umărul drept un pic.", "Un pic doare tot în ceafă."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["aveți o contractură destul de serioasă pe mușchii cervicali, în special pe trapez și pe suboccipitali", "Limitarea de rotație pe dreapta e clară", "Vom lucra să reducem contractura și să refacem mobilitatea cervicală."]
+  }
+}

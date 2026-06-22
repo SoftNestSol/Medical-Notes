@@ -1,0 +1,47 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi și numele, vă rog.\nSPEAKER_01: Florescu, Andrei Florescu.\nSPEAKER_00: Andrei, vârsta?\nSPEAKER_01: 38 de ani. Păi, am 38, deși mă simt de 60 pe bucata asta de timp, sincer.\nSPEAKER_00: Cu ce problemă ne vedem?\nSPEAKER_01: Păi, mă doare umărul, cel drept, de ceva vreme. Adică am început să simt în urmă cu vreo trei săptămâni, după ce am mutat niște cutii mai grele, știți cum e, mutam niște lucruri prin casă, câteva rafturi, și a doua zi m-am trezit și nu mai puteam ridica brațul sus. Adică nu că nu puteam, dar doare groaznic când încerc să ridic.\nSPEAKER_00: Deci durerea a apărut după un efort, după mutatul cutiilor.\nSPEAKER_01: Exact, exact. Și la început am crezut că trece singură, știți, că mai am zile când mă mai dor mușchii după ce fac ceva mai greu. Dar de data asta nu a trecut. Ba chiar parcă s-a înrăutățit un pic.\nSPEAKER_00: Și acum, la momentul de față, unde exact simțiți durerea?\nSPEAKER_01: Aici, pe umărul drept, mai mult pe partea din față și lateral. Când ridic brațul în lateral sau când încerc să pun mâna la spate, îmi taie, nu pot.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, cât de tare doare când ridicați brațul?\nSPEAKER_01: Când ridic în sus, așa, aș zice un 7. Da, cam 7. La repaus mai mic, poate un 3, dar noaptea e mai rău, nu știu de ce, mă trezesc și nu pot sta pe partea dreaptă deloc.\nSPEAKER_00: Noaptea vă trezește durerea.\nSPEAKER_01: Da, da, de vreo două ori pe noapte. Și asta mă obosește și pe mine, sunt mai iritabil, soția spune că sunt de nesuportat, haha. Dar serios, mă îngrijorează că poate e ceva mai grav, nu știu, un tendon rupt sau ceva.\nSPEAKER_00: Înțeleg îngrijorarea. Durerea se lasă și pe braț în jos, pe cot, pe mână?\nSPEAKER_01: Nu, rămâne sus, pe umăr. Poate un pic spre ceafă uneori, dar mai rar.\nSPEAKER_00: Spre ceafă, pe partea dreaptă?\nSPEAKER_01: Da, da, dar asta mai rar, nu e problema principală.\nSPEAKER_00: Ați mai pățit ceva la umărul ăsta înainte? Vreo luxație, vreo lovitură?\nSPEAKER_01: Nu, niciodată. Umărul ăsta a fost bine mereu. Am mai avut o problemă cu genunchiul stâng acum câțiva ani, după ce am jucat fotbal, dar s-a rezolvat singur.\nSPEAKER_00: Înțeles. Tensiune, diabet, boli de inimă, osteoporoză, ceva de genul?\nSPEAKER_01: Nu, nu am nimic din astea. Sunt destul de sănătos în rest, merg la sală ocazional, nu fumez.\nSPEAKER_00: Bun. Luați vreun medicament în mod curent?\nSPEAKER_01: Nu, nimic curent. Am luat un Voltaren gel pe umăr, de vreo câteva ori, că aveam în casă, dar nu știu dacă a ajutat cu ceva. Nu am luat pastile.\nSPEAKER_00: Gel antiinflamator, deci. Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Haideți să facem câteva mișcări, să vedem cum stăm. Ridicați brațul drept încet, în față, cât puteți.\nSPEAKER_01: Până pe aici, cam atât. Mai mult doare.\nSPEAKER_00: Până la aproximativ 90 de grade. Acum în lateral.\nSPEAKER_01: Uite, pe aici se oprește, cam la același unghi, și trage foarte tare.\nSPEAKER_00: Da. Și acum puneți mâna la spate, ca și cum ați prinde centura.\nSPEAKER_01: Asta nu pot aproape deloc, mă doare imediat.\nSPEAKER_00: Am înțeles. Apăs un pic aici pe zona de sus a umărului, spuneți-mi dacă doare.\nSPEAKER_01: Au, da, acolo e sensibil.\nSPEAKER_00: Și aici, pe bureletul din față?\nSPEAKER_01: Și acolo, da. Ăsta e mai sensibil.\nSPEAKER_00: Bun. Ce pot să vă spun în momentul de față este că avem o inflamație la nivelul tendoanelor din umăr, zona de coafă a rotatorilor, cel mai probabil. Mobilitatea e limitată destul de clar pe rotație internă și pe abducție. Nu e ceva care să mă îngrijoreze în sensul că e ireversibil, dar trebuie să lucrăm. Obiectivul nostru pentru început este să reducem inflamația locală și să recuperăm mobilitatea. Ar fi util și un RMN dacă durerea nu cedează în câteva ședințe, să excludem o ruptură parțială de tendon, dar putem începe terapia de azi.\nSPEAKER_01: Da, bine, vreau să scăpăm de ea, că mă afectează și la muncă, lucrez la birou și nu pot sta cu mâna pe mouse mai mult de o oră fără să mă doară.\nSPEAKER_00: Înțeles. Haideți pe masă atunci.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutat cutii grele), limitarea mobilitatii la ridicarea bratului",
+    "evaluarea_durerii_vas": [7, 3],
+    "localizarea_durerii": [
+      "umar_dr",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie tendoane umar drept, zona coafa a rotatorilor; limitare mobilitate pe rotatie interna si abductie.\nObiective terapeutice: reducerea inflamatiei locale, recuperarea mobilitatii."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel drept, de ceva vreme",
+      "am mutat niște cutii mai grele",
+      "a doua zi m-am trezit și nu mai puteam ridica brațul sus"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când ridic în sus, așa, aș zice un 7",
+      "La repaus mai mic, poate un 3"
+    ],
+    "localizarea_durerii": [
+      "pe umărul drept, mai mult pe partea din față și lateral",
+      "Poate un pic spre ceafă uneori, dar mai rar"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Voltaren gel pe umăr, de vreo câteva ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendoanelor din umăr, zona de coafă a rotatorilor, cel mai probabil",
+      "Mobilitatea e limitată destul de clar pe rotație internă și pe abducție",
+      "obiectivul nostru pentru început este să reducem inflamația locală și să recuperăm mobilitatea"
+    ]
+  }
+}

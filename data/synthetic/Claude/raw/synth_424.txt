@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă venim astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Cel drept.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, un efort, o lovitură?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Singur?\nSPEAKER_01: Da.\nSPEAKER_00: Și imediat după a început să doară sau a doua zi?\nSPEAKER_01: A doua zi.\nSPEAKER_00: Pe o scară de la 0 la 10, 0 nu doare deloc, 10 doare foarte rău, unde vă situați acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Și în mișcare, când ridicați brațul?\nSPEAKER_01: Mai tare, 7 poate.\nSPEAKER_00: Doare mai mult când ridicați brațul în față sau în lateral?\nSPEAKER_01: În lateral.\nSPEAKER_00: Până la ce unghi reușiți să îl ridicați?\nSPEAKER_01: Până pe la mijloc, cam atât.\nSPEAKER_00: Amorțește brațul sau mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Vă doare și noaptea, când stați pe el?\nSPEAKER_01: Da, mă trezesc.\nSPEAKER_00: Se lasă durerea și pe gât sau pe braț în jos?\nSPEAKER_01: Nu, rămâne la umăr.\nSPEAKER_00: Bun. Umărul stâng nu vă doare?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză, ceva la inimă?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații anterioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Fracturi, accidente?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere prin sânge?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați medicamente în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme sau unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să facem câteva teste. Ridicați brațul drept în lateral, încet.\nSPEAKER_01: Până aici.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da, mai tare pe la jumătate.\nSPEAKER_00: Stați puțin. Dacă apăs aici, pe capul humerusului, doare?\nSPEAKER_01: Da, da doare.\nSPEAKER_00: Și dacă rotesc brațul în interior, cu cotul îndoit?\nSPEAKER_01: Ați, da, doare și acolo.\nSPEAKER_00: Rotație externă, și în cealaltă parte?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Ce pot să vă spun deocamdată este că avem o inflamație la nivelul coafei rotatorilor, cel mai probabil supraspinosul. Durerea la abducție în arc și la rotație internă confirmă asta. Vom lucra să reducem inflamația, să refacem mobilitatea și să întărim musculatura din jur ca să nu revină.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în sus să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după mutarea de mobilă, de aproximativ două săptămâni. Durere la abducție și rotație internă, treziri nocturne.",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: inflamație coafă rotatori, cel mai probabil supraspinosul.\nObiective terapeutice: reducerea inflamației, refacerea mobilității, întărirea musculaturii periarticulare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Cel drept.", "De vreo două săptămâni.", "Am mutat niște mobilă.", "mă trezesc"],
+    "evaluarea_durerii_vas": ["Vreo 5.", "Mai tare, 7 poate."],
+    "localizarea_durerii": ["Cel drept.", "rămâne la umăr"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul coafei rotatorilor, cel mai probabil supraspinosul", "Vom lucra să reducem inflamația, să refacem mobilitatea și să întărim musculatura din jur"]
+  }
+}

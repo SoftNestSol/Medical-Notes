@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce vă pot ajuta?\nSPEAKER_01: Bună ziua, da, mă numesc Radu Ionescu, am 38 de ani și vin pentru că mă doare umărul stâng de vreo trei săptămâni și sincer m-am speriat un pic, că eu lucrez la calculator toată ziua și mă gândeam dacă nu e ceva grav, știți cum e, am citit pe internet și am găsit tot felul de lucruri...\nSPEAKER_00: Înțeles. Pe ce parte doare mai exact?\nSPEAKER_01: Stânga, da. Și mai ales când ridic mâna, adică dacă vreau să iau ceva de pe raft sau să mă pieptăn dimineața, e nasol. Seara e mai rău, când stau în pat pe partea aia nu pot deloc.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Păi depinde. Când stau liniștit, poate un 3. Dar când ridic mâna sus sau fac o mișcare mai bruscă, ajunge la un 7.\nSPEAKER_00: Durerea se lasă undeva, pe braț în jos, pe gât?\nSPEAKER_01: Nu, rămâne acolo, în umăr. Poate uneori simt ceva pe partea asta de sus a brațului, dar nu coboară mai jos de cot.\nSPEAKER_00: Ați mai avut probleme la umărul acesta înainte?\nSPEAKER_01: Nu, niciodată. Eu am o postură proastă, știu asta, că toți îmi spun, șef, soție, mama, toți. Stau aplecat la birou și nu fac sport deloc, poate asta e problema, nu?\nSPEAKER_00: Poate contribuie, da. Ați făcut vreun efort mai intens înainte să înceapă?\nSPEAKER_01: Da, de fapt acum că ziceți, am mutat mobilă acum vreo patru săptămâni, am carat niște cutii grele, și după câteva zile a început. Dar m-am gândit că trece și n-am dat importanță.\nSPEAKER_00: Înțeles. Luați ceva pentru durere?\nSPEAKER_01: Am pus un gel, Voltaren, câteodată seara, că altfel nu pot dormi. Nu iau pastile.\nSPEAKER_00: Ok. Tensiune, diabet, alte afecțiuni?\nSPEAKER_01: Nu, nimic. Sunt sănătos tun, în afară de umărul ăsta.\nSPEAKER_00: Bun. Ridicați mâna în față pentru mine, așa, sus.\nSPEAKER_01: Până pe la înălțimea asta pot, mai sus deja doare.\nSPEAKER_00: Stați, vă opresc eu. Simiți că vă scârțâie sau trosnește ceva?\nSPEAKER_01: Da, parcă se aude ceva câteodată, un fel de frecare.\nSPEAKER_00: Rotim puțin brațul spre interior. Doare?\nSPEAKER_01: Da, da, asta e mișcarea cea mai dureroasă.\nSPEAKER_00: Și spre exterior?\nSPEAKER_01: Mai puțin, dar tot simt.\nSPEAKER_00: Bine. Apăs aici pe tendonul supraspinos, spuneți-mi dacă doare.\nSPEAKER_01: Au, da, exact acolo e.\nSPEAKER_00: Pare o tendinită la nivelul coifului rotatorilor, cel mai probabil supraspinos-ul afectat. Probabil din efortul acela cu mutatul mobilei, combinat cu postura de la birou care nu ajută deloc. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea completă a umărului.\nSPEAKER_01: Și o să pot să ridic mâna normal? Că mă deranjează îngrozitor dimineața, mai ales la duș.\nSPEAKER_00: Da, cu tratament adecvat da. Dar o să fie nevoie de câteva ședințe și de niște exerciții pe care o să vi le arăt.\nSPEAKER_01: Ok, înțeles. Și cu Voltaren-ul pot să mai pun?\nSPEAKER_00: Puteți, nu e o problemă.\nSPEAKER_01: Bun, bun. Mă bucur că nu e ceva grav, că m-am tot gândit la toate scenariile.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang de aproximativ trei saptamani, aparuta dupa efort fizic intens (mutat mobila/carate cutii grele), accentuata la ridicarea bratului si la rotatia interna, mai intensa seara.",
+    "evaluarea_durerii_vas": [3, 7],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": "partea superioara a bratului stang (nu coboara sub cot)",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita coif rotatori, supraspinos afectat.\nObiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii complete a umarului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul stâng de vreo trei săptămâni", "am mutat mobilă acum vreo patru săptămâni, am carat niște cutii grele, și după câteva zile a început", "când ridic mâna sus sau fac o mișcare mai bruscă"],
+    "evaluarea_durerii_vas": ["Când stau liniștit, poate un 3. Dar când ridic mâna sus sau fac o mișcare mai bruscă, ajunge la un 7."],
+    "localizarea_durerii": ["mă doare umărul stâng"],
+    "localizarea_durerii_alta": ["uneori simt ceva pe partea asta de sus a brațului, dar nu coboară mai jos de cot"],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am pus un gel, Voltaren, câteodată seara"],
+    "evaluare_functionala_initiala": ["Pare o tendinită la nivelul coifului rotatorilor, cel mai probabil supraspinos-ul afectat.", "Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea completă a umărului."]
+  }
+}

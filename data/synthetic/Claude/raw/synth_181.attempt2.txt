@@ -1,0 +1,50 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți la noi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva? Ați căzut, ați ridicat ceva?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare constant sau numai când faceți ceva?\nSPEAKER_01: Numai când ridic mâna.\nSPEAKER_00: Când ridicați mâna în față, în lateral, cum?\nSPEAKER_01: Mai mult în lateral.\nSPEAKER_00: Ridicați mâna ușor în lateral acum. Până unde puteți?\nSPEAKER_01: Până aici, cam.\nSPEAKER_00: Deci cam 90 de grade și după aceea doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și noaptea vă deranjează?\nSPEAKER_01: Dacă stau pe umărul ăla, da.\nSPEAKER_00: Amorțește vreodată brațul?\nSPEAKER_01: Nu.\nSPEAKER_00: Durerea se lasă și pe braț sau e strict în umăr?\nSPEAKER_01: E mai mult aici, în umăr.\nSPEAKER_00: Ați mai pățit asta cu umărul?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți hipertensiune, diabet, alte probleme de sănătate?\nSPEAKER_01: Am tensiunea un pic ridicată.\nSPEAKER_00: Luați medicamente pentru tensiune?\nSPEAKER_01: Da, Prestarium.\nSPEAKER_00: Ce doză?\nSPEAKER_01: Nu știu exact. 5, parcă.\nSPEAKER_00: 5 mg. Altceva luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vedem puțin umărul. Stați așa, relaxat.\nSPEAKER_00: Apăs aici, doare?\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Pe zona asta de sus a umărului. Și dacă apăs mai spre față?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Am înțeles. Ridicați mâna din nou în lateral pentru mine, ușor.\nSPEAKER_01: Au.\nSPEAKER_00: Doare exact la 90 de grade, după aceea mai puțin?\nSPEAKER_01: Da, exact.\nSPEAKER_00: Ăsta e un semn specific. Avem o inflamație la nivelul tendonului de supraspinat. Se numește tendinită de supraspinat, posibil și un conflict subacomial. Asta apare de obicei după un efort brusc, cum a fost cu mobila.\nSPEAKER_00: O să lucrăm să reducem inflamația și să redăm mobilitatea completă a umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng apărută după mutarea mobilei, de aproximativ două săptămâni. Durere la abducție, limitată la circa 90 de grade.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Prestarium",
+        "doza": "5 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinită de supraspinat, posibil conflict subacomial.\nObiective terapeutice: reducerea inflamației; redarea mobilității complete a umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Am mutat niște mobilă.",
+      "Vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "E mai mult aici, în umăr."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Am tensiunea un pic ridicată."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Prestarium.",
+      "Nu știu exact. 5, parcă."
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o inflamație la nivelul tendonului de supraspinat. Se numește tendinită de supraspinat, posibil și un conflict subacomial.",
+      "O să lucrăm să reducem inflamația și să redăm mobilitatea completă a umărului."
+    ]
+  }
+}

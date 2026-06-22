@@ -1,0 +1,54 @@
+{
+  "conversation_id": "synth_400",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, umărul drept. De vreo două săptămâni, poate mai mult",
+      "nu pot să-l ridic sus",
+      "doare și dacă încerc să duc mâna la spate",
+      "n-am făcut nimic special. A apărut din senin",
+      "lucrez la birou, stau mult la calculator",
+      "mai ales seara. Dar mai puțin decât umărul"
+    ],
+    "evaluarea_durerii_vas": [
+      "Eu aș zice un 7, dar noaptea ajunge poate și la 8"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, umărul drept",
+      "Și acolo mai am ceva tensiune, da, mai ales seara"
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori simt ceva și pe braț, pe partea din față"
+    ],
+    "antecedente": [
+      "am tensiune. Adică am hipertensiune, mi-a descoperit-o acum doi ani"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Perindopril, 5 miligrame, o dată pe zi, dimineața",
+      "mai iau uneori câte un ibuprofen când mă doare umărul"
+    ],
+    "evaluare_functionala_initiala": [
+      "Cam la 90 de grade vă opriți",
+      "abducția este mai dureroasă",
+      "Nu pot aproape deloc. Simt că se blochează și doare foarte tare",
+      "Aveți o limitare destul de clară a mobilității umărului drept, mai ales la abducție și rotație internă",
+      "Asta, coroborat cu durerea nocturnă și cu debutul fără traumatism, mă face să mă gândesc la o tendinopatie sau la o inflamație la nivelul manșetei rotatorilor",
+      "Astăzi lucrăm să reducem inflamația și să relaxăm musculatura din jur, trapezul, ridicătorul scapulei, și să mobilizăm puțin articulația",
+      "Obiectivul nostru pe termen scurt este să reducem durerea nocturnă și să recâștigăm mobilitatea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22994,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 3615,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

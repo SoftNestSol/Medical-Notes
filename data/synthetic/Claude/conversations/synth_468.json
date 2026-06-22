@@ -1,0 +1,451 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 4.12,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, numele dumneavoastră."
+    },
+    {
+      "start": 4.24,
+      "end": 5.04,
+      "speaker": "SPEAKER_01",
+      "text": "Gheorghe Toma."
+    },
+    {
+      "start": 5.16,
+      "end": 6.68,
+      "speaker": "SPEAKER_00",
+      "text": "Și vârsta, domnule Toma?"
+    },
+    {
+      "start": 6.8,
+      "end": 7.94,
+      "speaker": "SPEAKER_01",
+      "text": "47 de ani."
+    },
+    {
+      "start": 8.06,
+      "end": 11.1,
+      "speaker": "SPEAKER_00",
+      "text": "Mulți înainte. Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 11.22,
+      "end": 15.02,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare genunchiul, ăsta din dreapta. De ceva vreme deja."
+    },
+    {
+      "start": 15.14,
+      "end": 17.04,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp mai exact?"
+    },
+    {
+      "start": 17.16,
+      "end": 24.0,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... nu știu exact. Vreo două luni, poate mai mult. A început ușor, și acum parcă se agravează."
+    },
+    {
+      "start": 24.12,
+      "end": 28.68,
+      "speaker": "SPEAKER_00",
+      "text": "Și cum a început? A fost vreo căzătură, vreun efort, ceva anume?"
+    },
+    {
+      "start": 28.8,
+      "end": 42.48,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, sincer. Nu am căzut, nu m-am lovit. Poate de la urcatul scărilor, am serviciu la etajul trei și nu e lift. Sau poate de la mersul pe jos, că merg destul de mult."
+    },
+    {
+      "start": 42.6,
+      "end": 45.64,
+      "speaker": "SPEAKER_00",
+      "text": "Deci nu există un moment clar, un eveniment."
+    },
+    {
+      "start": 45.76,
+      "end": 50.7,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, a venit din senin, parcă. Dimineața mă scol și-l simt."
+    },
+    {
+      "start": 50.82,
+      "end": 54.24,
+      "speaker": "SPEAKER_00",
+      "text": "Unde anume vă doare pe genunchi? Îmi puteți arăta?"
+    },
+    {
+      "start": 54.36,
+      "end": 63.86,
+      "speaker": "SPEAKER_01",
+      "text": "Cam pe aici, pe partea din față, și un pic pe interior. Uneori simt și pe dedesubt, sub rotulă parcă, nu știu cum să spun."
+    },
+    {
+      "start": 63.98,
+      "end": 66.64,
+      "speaker": "SPEAKER_00",
+      "text": "Pe fața anterioară și pe marginea internă."
+    },
+    {
+      "start": 66.76,
+      "end": 72.08,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam pe acolo, deși variază. Uneori e mai sus, alteori simt mai jos."
+    },
+    {
+      "start": 72.2,
+      "end": 75.24,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Durerea este continuă sau vine și trece?"
+    },
+    {
+      "start": 75.36,
+      "end": 86.38,
+      "speaker": "SPEAKER_01",
+      "text": "Vine și trece. Când stau jos, în repaus, nu mă deranjează atât de mult. Dar când mă ridic, primii pași sunt groaznici. Și la scări, mai ales la coborât."
+    },
+    {
+      "start": 86.5,
+      "end": 89.16,
+      "speaker": "SPEAKER_00",
+      "text": "La coborât mai tare decât la urcat?"
+    },
+    {
+      "start": 89.28,
+      "end": 91.94,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, la coborât e mai rău."
+    },
+    {
+      "start": 92.06,
+      "end": 94.72,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă mergeți mult pe teren plat?"
+    },
+    {
+      "start": 94.84,
+      "end": 100.54,
+      "speaker": "SPEAKER_01",
+      "text": "La început merge, dar după vreo jumătate de oră începe să mă doară din nou."
+    },
+    {
+      "start": 100.66,
+      "end": 111.3,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 doare cel mai rău, cum ați situa durerea când coborâți scările?"
+    },
+    {
+      "start": 111.42,
+      "end": 116.74,
+      "speaker": "SPEAKER_01",
+      "text": "Pe scări... pe la 7, să zic. Sau poate 6-7, nu știu exact."
+    },
+    {
+      "start": 116.86,
+      "end": 119.9,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să rămânem la 7. Și în repaus?"
+    },
+    {
+      "start": 120.02,
+      "end": 123.06,
+      "speaker": "SPEAKER_01",
+      "text": "În repaus e suportabil, vreo 2, poate 3."
+    },
+    {
+      "start": 123.18,
+      "end": 125.46,
+      "speaker": "SPEAKER_00",
+      "text": "Ați observat dacă genunchiul se umflă?"
+    },
+    {
+      "start": 125.58,
+      "end": 133.94,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori mi se pare că e un pic mai umflat seara, față de dimineața. Sau poate e în capul meu, nu știu."
+    },
+    {
+      "start": 134.06,
+      "end": 137.1,
+      "speaker": "SPEAKER_00",
+      "text": "Auziti vreun pocnet, vreun trosnet când îl mișcați?"
+    },
+    {
+      "start": 137.22,
+      "end": 141.4,
+      "speaker": "SPEAKER_01",
+      "text": "Da, trosănește uneori, mai ales când mă ridic de pe scaun."
+    },
+    {
+      "start": 141.52,
+      "end": 144.56,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Celălalt genunchi, stângul, vă mai doare?"
+    },
+    {
+      "start": 144.68,
+      "end": 147.72,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, ăla e bine. Cel drept mă supără."
+    },
+    {
+      "start": 147.84,
+      "end": 152.78,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Aveți vreo problemă cu șoldul sau cu spatele, simțiți ceva și acolo?"
+    },
+    {
+      "start": 152.9,
+      "end": 157.08,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, spatele e bine. Șoldul nu, nu simt nimic special acolo."
+    },
+    {
+      "start": 157.2,
+      "end": 161.76,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Acum câteva întrebări de rutină. Aveți tensiune, diabet, vreo boală cronică?"
+    },
+    {
+      "start": 161.88,
+      "end": 165.68,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea. Sunt relativ sănătos altfel."
+    },
+    {
+      "start": 165.8,
+      "end": 167.7,
+      "speaker": "SPEAKER_00",
+      "text": "Operații, fracturi, ceva în antecedente?"
+    },
+    {
+      "start": 167.82,
+      "end": 175.04,
+      "speaker": "SPEAKER_01",
+      "text": "Am avut o fractură la gleznă, la piciorul stâng, acum vreo zece ani. Dar a trecut, s-a vindecat."
+    },
+    {
+      "start": 175.16,
+      "end": 178.96,
+      "speaker": "SPEAKER_00",
+      "text": "La glezna stângă. A necesitat operație sau a fost conservator?"
+    },
+    {
+      "start": 179.08,
+      "end": 182.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu operație. Cu ghips, vreo șase săptămâni, și gata."
+    },
+    {
+      "start": 183.0,
+      "end": 183.8,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Altceva?"
+    },
+    {
+      "start": 183.92,
+      "end": 185.06,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic altceva."
+    },
+    {
+      "start": 185.18,
+      "end": 187.84,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament în momentul de față?"
+    },
+    {
+      "start": 187.96,
+      "end": 191.0,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Nu-mi place să iau pastile."
+    },
+    {
+      "start": 191.12,
+      "end": 194.16,
+      "speaker": "SPEAKER_00",
+      "text": "Ați luat ceva pentru genunchi, un antiinflamator, ceva?"
+    },
+    {
+      "start": 194.28,
+      "end": 202.26,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat un Nurofen acum vreo lună, o dată sau de două ori, că mă durea tare. Dar nu iau regulat."
+    },
+    {
+      "start": 202.38,
+      "end": 205.8,
+      "speaker": "SPEAKER_00",
+      "text": "Deci nu e un tratament curent, a fost ocazional."
+    },
+    {
+      "start": 205.92,
+      "end": 206.72,
+      "speaker": "SPEAKER_01",
+      "text": "Exact, ocazional."
+    },
+    {
+      "start": 206.84,
+      "end": 211.4,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Ați mai făcut vreo investigație? Radiografie, RMN, ceva la genunchi?"
+    },
+    {
+      "start": 211.52,
+      "end": 215.32,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am făcut nimic. Poate ar trebui, nu știu."
+    },
+    {
+      "start": 215.44,
+      "end": 224.94,
+      "speaker": "SPEAKER_00",
+      "text": "Vedem noi ce e cazul după evaluare. Haideți acum să facem câteva teste. Ridicați-vă, vă rog, și mergeți puțin până la perete și înapoi."
+    },
+    {
+      "start": 225.06,
+      "end": 225.86,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 225.98,
+      "end": 230.92,
+      "speaker": "SPEAKER_00",
+      "text": "Văd că la mers aveți un ușor antalgism pe dreapta, ocoliți puțin genunchiul."
+    },
+    {
+      "start": 231.04,
+      "end": 233.32,
+      "speaker": "SPEAKER_01",
+      "text": "Da, simt că mă feresc instinctiv."
+    },
+    {
+      "start": 233.44,
+      "end": 236.48,
+      "speaker": "SPEAKER_00",
+      "text": "Normal. Acum stați pe piciorul drept singur, puteți?"
+    },
+    {
+      "start": 236.6,
+      "end": 241.16,
+      "speaker": "SPEAKER_01",
+      "text": "Pot, dar nu e comod, simt că mă trage ceva pe interior."
+    },
+    {
+      "start": 241.28,
+      "end": 247.74,
+      "speaker": "SPEAKER_00",
+      "text": "Pe interior, da. Acum o să apăs eu ușor pe linia articulară internă. Spuneți-mi dacă doare."
+    },
+    {
+      "start": 247.86,
+      "end": 250.9,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo doare. Pe acolo e mai sensibil."
+    },
+    {
+      "start": 251.02,
+      "end": 254.44,
+      "speaker": "SPEAKER_00",
+      "text": "Pe linia articulară medială. Și dacă apăs sub rotulă?"
+    },
+    {
+      "start": 254.56,
+      "end": 256.84,
+      "speaker": "SPEAKER_01",
+      "text": "Și acolo simt, dar mai puțin."
+    },
+    {
+      "start": 256.96,
+      "end": 260.38,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să îndoiți genunchiul cât puteți. Până unde merge?"
+    },
+    {
+      "start": 260.5,
+      "end": 265.44,
+      "speaker": "SPEAKER_01",
+      "text": "Cam până pe aici, nu mai pot mai mult, că înțepeneșe și doare."
+    },
+    {
+      "start": 265.56,
+      "end": 268.98,
+      "speaker": "SPEAKER_00",
+      "text": "Deci flexia e limitată. Și extensia, îl îndreptați complet?"
+    },
+    {
+      "start": 269.1,
+      "end": 271.0,
+      "speaker": "SPEAKER_01",
+      "text": "Da, drept îl pot face."
+    },
+    {
+      "start": 271.12,
+      "end": 281.76,
+      "speaker": "SPEAKER_00",
+      "text": "Extensia completă, flexia limitată. Bine. Acum o să fac un test în care o să fixez genunchiul și o să apăs ușor. Spuneți dacă simțiți o durere ascuțită."
+    },
+    {
+      "start": 281.88,
+      "end": 283.78,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic da, pe interior."
+    },
+    {
+      "start": 283.9,
+      "end": 286.94,
+      "speaker": "SPEAKER_00",
+      "text": "Pe interior, linia meniscală medială. Ok, am înțeles."
+    },
+    {
+      "start": 287.06,
+      "end": 289.34,
+      "speaker": "SPEAKER_00",
+      "text": "Puteți să vă așezați, vă rog."
+    },
+    {
+      "start": 289.46,
+      "end": 291.36,
+      "speaker": "SPEAKER_01",
+      "text": "Și ce credeți că am?"
+    },
+    {
+      "start": 291.48,
+      "end": 324.92,
+      "speaker": "SPEAKER_00",
+      "text": "Uitați, tabloul clinic pe care îl văd acum arată o iritație la nivelul meniscului medial, posibil și la nivelul cartilajului rotulian, dat fiind că simțiți și sub rotulă. Mobilitatea e limitată la flexie, durere la coborâtul scărilor, sensibilitate pe linia articulară internă. Ar trebui să reducem inflamația din articulație, să lucrăm musculatura din jurul genunchiului, cvasii și ischio-gambieri, ca să descărcăm articulația. Și, dacă durerea nu cedează în câteva ședințe, ar fi bine să faceți și un RMN ca să vedem exact ce se întâmplă cu meniscul."
+    },
+    {
+      "start": 325.04,
+      "end": 326.94,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, înțeleg. Deci putem începe?"
+    },
+    {
+      "start": 327.06,
+      "end": 329.34,
+      "speaker": "SPEAKER_00",
+      "text": "Da, putem începe chiar de astăzi."
+    }
+  ]
+}

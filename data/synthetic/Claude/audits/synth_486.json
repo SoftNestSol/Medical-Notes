@@ -1,0 +1,42 @@
+{
+  "conversation_id": "synth_486",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere jos, la coadă, știți, chiar la capătul coloanei, acolo. De vreo trei săptămâni mă tot chinuie",
+      "stau mult pe scaun, lucrez la birou, cam opt-nouă ore pe zi, și după o ședință mai lungă am simțit că mă strânge acolo jos"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când stau jos, poate un cinci. Dar când mă ridic, acolo e un șapte, șapte solid."
+    ],
+    "localizarea_durerii": [
+      "Da, exact acolo, coccisul, da.",
+      "Au, da, acolo e. Exact acolo."
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt că se întinde un pic și în fesă, pe partea stângă mai ales"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Voltaren gel, am dat pe acolo, de câteva ori. Și o dată am luat și un Nurofen că nu mai puteam"
+    ],
+    "evaluare_functionala_initiala": [
+      "extensia lombară accentuează durerea la coccis",
+      "Avem o sensibilitate clară la nivelul coccisului și sacrului. Pare o coccidinii, adică o inflamație a zonei coccisiene, cel mai probabil instalată din cauza posturii prelungite la birou. O să lucrăm să reducem inflamația și să ameliorăm mobilitatea în acea zonă."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23237,
+    "inference_geo": "global",
+    "input_tokens": 360,
+    "output_tokens": 2442,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

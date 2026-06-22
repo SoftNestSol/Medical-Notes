@@ -1,0 +1,46 @@
+{
+  "conversation_id": "synth_405",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere aici la umăr, umărul stâng, de vreo două săptămâni",
+      "m-am trezit într-o dimineață și mă durea",
+      "se lasă un pic și pe braț, da, pe partea de aici, pe exterior. Nu până la mână, mai mult pe braț, pe la jumătate",
+      "Nu pot să dorm pe partea stângă deloc. Mă trezesc din somn"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în repaus, poate un 3. Dar dacă ridic mâna, mai ales dacă o duc în spate, ăla e poate un 7."
+    ],
+    "localizarea_durerii": [
+      "am o durere aici la umăr, umărul stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "se lasă un pic și pe braț, da, pe partea de aici, pe exterior. Nu până la mână, mai mult pe braț, pe la jumătate"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "am pus un Voltaren, ăla gel, câteva zile"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem un arc dureros la abducție, plus sensibilitate la nivelul tendoanelor coafei rotatorilor. Pare o tendinopatie sau o mică inflamație la nivelul coafei rotatorilor, umărul stâng, posibil și un conflict subacomial.",
+      "Nu avem semne clare de ruptură la testele pe care le-am făcut.",
+      "O să lucrăm să reducem inflamația și să recuperăm mobilitatea.",
+      "ar fi util să faceți și o ecografie de umăr",
+      "Obiectivul nostru e să scădem durerea, să refacem mobilitatea și apoi reintegrăm activitatea fizică treptat."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23139,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2581,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

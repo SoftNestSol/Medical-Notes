@@ -1,0 +1,34 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua! Îmi pare bine că am găsit un loc liber, am sunat de vreo două ori săptămâna trecută și era tot ocupat.\nSPEAKER_00: Da, a fost o perioadă aglomerată. Și cu ce problemă veniți?\nSPEAKER_01: Păi mă doare umărul stâng, de vreo trei săptămâni. Adică a început mai ușor, mă gândeam că trece singur, că am mai avut câte ceva și a trecut, dar de data asta nu mai trece.\nSPEAKER_00: Trei săptămâni, bun. Și durerea e constantă sau apare la anumite mișcări?\nSPEAKER_01: Mai mult la mișcări, da. Când ridic mâna sus sau când încerc să ajung, știți, aș... în spate, ca să mă scarp sau să prind centura la mașină. Aia e groaznică, sincer.\nSPEAKER_00: Și durerea rămâne în umăr sau coboară și pe braț?\nSPEAKER_01: Coboară un pic pe braț, da, pe partea de afară. Nu până la cot, mai sus. Dar mai ales în umăr.\nSPEAKER_00: Pe o scară de la 0 la 10, cât e durerea când faceți mișcările astea care dor?\nSPEAKER_01: Când ridic mâna sus forțat, ajunge la un 7, sigur. Când stau liniștit, adică mă doare și în repaus un pic, dar mai slab, poate un 3.\nSPEAKER_00: A apărut după ceva anume, după un efort, o lovitură?\nSPEAKER_01: Nu, nici un pic de... nu am căzut, nu m-am lovit. Eu lucrez la birou, stau mult la calculator, și stau cam strâmb, știu, colegii mi-au mai zis. Poate de la asta? Nu știu. Și înainte cu vreo două zile dormisem prost, pe o parte, mă trezisem cu umărul puțin țepăn, poate de acolo a pornit.\nSPEAKER_00: Posibil. Ați mai avut dureri la umărul ăsta înainte?\nSPEAKER_01: Nu, la umărul stâng nu. La dreapta am avut acum doi ani ceva, dar mi-a trecut repede, nu știu ce a fost.\nSPEAKER_00: Altă afecțiune, tensiune, diabet, probleme cu oasele?\nSPEAKER_01: Nu, nu am nimic din astea. Sunt relativ sănătos, mă duc la analize o dată pe an și nu iese nimic îngrijorător.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Am luat un ibuprofen acum vreo zece zile, un singur comprimat că nu mai suportam, dar nu iau în mod regulat nimic. Am și un gel, Voltaren, pe care l-am mai pus seara, dar nu știu dacă ajută mare lucru sincer.\nSPEAKER_00: Bun. Haideți să facem câteva mișcări să văd exact unde e problema. Ridicați mâna stângă în față, încet.\nSPEAKER_01: Până aici merge... au, de aici începe.\nSPEAKER_00: Deci undeva pe la 90 de grade apare durerea.\nSPEAKER_01: Da, da, exact. Mai mult de atât deja simt că trage rău.\nSPEAKER_00: Acum duceți mâna lateral, în lateral, încerc eu să o ghidez. Spuneți dacă doare.\nSPEAKER_01: Și pe asta o simt, da, dar mai puțin ca la cea dinainte.\nSPEAKER_00: Bun. Stați puțin, apăs eu pe umăr, îmi spuneți dacă găsesc zona dureroasă.\nSPEAKER_01: Ah, acolo da, aia doare. Chiar acolo.\nSPEAKER_00: Deci pe tendonul supraspinos e sensibil. Și când rotesc brațul, brațul lippit de corp, simțiți?\nSPEAKER_01: Aia nu doare, nu.\nSPEAKER_00: Bun. Pare o tendinopatie a coifului rotatorilor, cel mai probabil supraspinatus, cu un mic sindrom de impingement. Nu e ceva grav, dar trebuie lucrat.\nSPEAKER_01: Adică nu e ruptură sau ceva? Că m-am speriat, am căutat pe internet și am văzut tot felul de lucruri groaznice.\nSPEAKER_00: La testele astea nu am semne de ruptură. Postura de la birou contribuie cu siguranță, umărul e ușor proiectat înainte.\nSPEAKER_01: Aha, da, îmi tot zice nevasta să stau drept, dar în momentul în care mă concentrez pe muncă uit complet.\nSPEAKER_00: O să lucrăm pe reducerea inflamației, o să mobilizăm articulația și o să corectăm puțin postura. Câteva ședințe ar trebui să simțiți îmbunătățire.\nSPEAKER_01: Și pot să mai pun Voltaren seara?\nSPEAKER_00: Da, puteți continua cu gelul, nu deranjează.\nSPEAKER_01: Super. Și să evit să ridic greutăți cu mâna asta?\nSPEAKER_00: Deocamdată da, evitați mișcările forțate deasupra capului. Haideți pe masă să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang de aproximativ 3 saptamani, aparuta insidios, accentuata la ridicarea bratului si la rotatia posterioara, cu iradiere partiala pe brat",
+    "evaluarea_durerii_vas": [7, 3],
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": "brat stang (partial, pe partea exterioara)",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "un singur comprimat (ocazional, acum ~10 zile)"
+      },
+      {
+        "denumire": "Voltaren gel",
+        "doza": "aplicat seara, la nevoie"
+      }
+    ],
+    "evaluare_functionala_initiala": "Durere la abductie activa de la ~90 de grade. Abductie in plan frontal mai putin dureroasa. Sensibilitate la palpare pe tendonul supraspinos. Rotatie interna cu bratul lipit de corp nedureroasa. Umar proiectat anterior (postura birou). Diagnostic: tendinopatie coif rotatori (supraspinatus), sindrom de impingement. Obiective: reducerea inflamatiei, mobilizarea articulatiei, corectare posturala."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul stâng, de vreo trei săptămâni", "Când ridic mâna sus sau când încerc să ajung, știți, aș... în spate, ca să mă scarp sau să prind centura la mașină"],
+    "evaluarea_durerii_vas": ["Când ridic mâna sus forțat, ajunge la un 7, sigur. Când stau liniștit, adică mă doare și în repaus un pic, dar mai slab, poate un 3."],
+    "localizarea_durerii": ["mă doare umărul stâng"],
+    "localizarea_durerii_alta": ["Coboară un pic pe braț, da, pe partea de afară. Nu până la cot, mai sus."],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am luat un ibuprofen acum vreo zece zile, un singur comprimat că nu mai suportam", "Am și un gel, Voltaren, pe care l-am mai pus seara"],
+    "evaluare_functionala_initiala": ["Deci undeva pe la 90 de grade apare durerea.", "Deci pe tendonul supraspinos e sensibil.", "Aia nu doare, nu.", "Pare o tendinopatie a coifului rotatorilor, cel mai probabil supraspinatus, cu un mic sindrom de impingement.", "umărul e ușor proiectat înainte", "O să lucrăm pe reducerea inflamației, o să mobilizăm articulația și o să corectăm puțin postura."]
+  }
+}

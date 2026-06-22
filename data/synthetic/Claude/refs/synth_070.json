@@ -1,0 +1,23 @@
+{
+  "motivul_prezentarii": "Durere cervicală cu iradiere pe umărul stâng și amorțeală pe braț și degete stânga, debut de aproximativ 10 zile, agravată dimineața și după orele petrecute la birou.",
+  "evaluarea_durerii_vas": [
+    8,
+    5
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "braț stâng, primele două degete mâna stângă",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Amlodipină",
+      "doza": "5 miligrame pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUmărul stâng mai jos decât cel drept. Postură antalgică la birou cu capul aplecat în față, ecran poziționat sub nivelul ochilor. Obicei de somn în decubit ventral. Mobilitate cervicală limitată, mai ales la rotația spre stânga.\nDiagnostic:\nCervicalgie cu iritație radiculară C5-C6 stânga, cu amorțeală pe braț și primele două degete mâna stângă. Reproducerea simptomelor la presiune pe C5-C6.\nObiective terapeutice:\nReducerea contracturii musculare cervicale; mobilizarea articulară cervicală; decompresia radiculară C5-C6; corecție posturală pentru birou și dormit."
+}

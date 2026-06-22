@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: A apărut brusc sau treptat?\nSPEAKER_01: Treptat, parcă.\nSPEAKER_00: A existat vreun efort, ceva ce ați ridicat, un accident?\nSPEAKER_01: Am mutat niște cutii la muncă. Grele.\nSPEAKER_00: Și după aia a început?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare vă doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare constant sau numai la mișcare?\nSPEAKER_01: Numai când mișc.\nSPEAKER_00: Când ridicați brațul, de exemplu?\nSPEAKER_01: Da, mai ales când îl ridic în sus.\nSPEAKER_00: Doare și când îl duceți în lateral?\nSPEAKER_01: Și acolo, da.\nSPEAKER_00: Se lasă durerea și pe braț, pe cot, mai jos?\nSPEAKER_01: Nu, stă la umăr.\nSPEAKER_00: Amorțeli în mână, în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Noaptea vă deranjează, dacă stați pe partea stângă?\nSPEAKER_01: Da, nu pot să dorm pe acea parte.\nSPEAKER_00: Înțeleg. Haideți să facem câteva teste. Ridicați brațul ușor, așa, în față. Doare?\nSPEAKER_01: Da, cam de aici începe.\nSPEAKER_00: Deci pe la 90 de grade începe durerea. Acum duceți-l lateral, tot așa, lent. Și aici?\nSPEAKER_01: Da, la fel.\nSPEAKER_00: Bun. Apăs puțin pe zona de sus a umărului, pe acromion. Doare?\nSPEAKER_01: Da, acolo e mai rău.\nSPEAKER_00: Și dacă apăs aici, pe capul humeral, față?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Ok. Deci avem o sensibilitate la acromion, arc dureros la abducție și la flexie anterioară. Pare a fi o tendinită la nivelul manșetei rotatorilor, posibil o iritație subacromială. Afecțiuni cunoscute, tensiune, diabet, osteoporoză, altceva?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci ce avem de făcut e să reducem inflamația din zona subacromială, să lucrăm musculatura manșetei rotatorilor și să recăpătați mobilitatea completă a umărului. O să facem terapie manuală, câteva mobilizări și o să vă arăt și niște exerciții pe care să le faceți acasă. Da?\nSPEAKER_01: Da, bine.\nSPEAKER_00: Haideți atunci.",
+  "note": {
+    "motivul_prezentarii": "Pacient acuză durere la nivelul umărului stâng, instalată treptat în urmă cu aproximativ două săptămâni, după efort fizic (mutarea unor cutii grele la locul de muncă). Durerea apare la mișcare, în special la ridicarea brațului anterior și lateral, cu sensibilitate maximă la acromion. Nu permite somnul pe partea stângă.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații funcționale:\nArc dureros la abducție și flexie anterioară, durere debutând aproximativ la 90 de grade. Sensibilitate marcată la palparea acromionului. Capul humeral anterior mai puțin sensibil.\nDiagnostic:\nTendinită manșetă rotatorilor, posibilă iritație subacromială.\nObiective terapeutice:\nReducerea inflamației subacromiale; lucru pe musculatura manșetei rotatorilor; recuperarea mobilității complete a umărului; terapie manuală, mobilizări și program de exerciții la domiciliu."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "De vreo două săptămâni.", "Am mutat niște cutii la muncă. Grele.", "Numai când mișc.", "mai ales când îl ridic în sus.", "nu pot să dorm pe acea parte."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Deci pe la 90 de grade începe durerea.", "Apăs puțin pe zona de sus a umărului, pe acromion. Doare?", "Da, acolo e mai rău.", "avem o sensibilitate la acromion, arc dureros la abducție și la flexie anterioară.", "Pare a fi o tendinită la nivelul manșetei rotatorilor, posibil o iritație subacromială.", "să reducem inflamația din zona subacromială, să lucrăm musculatura manșetei rotatorilor și să recăpătați mobilitatea completă a umărului."]
+  }
+}

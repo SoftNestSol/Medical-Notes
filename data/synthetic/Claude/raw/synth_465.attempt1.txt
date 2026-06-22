@@ -1,0 +1,26 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Păi, mă doare ceafa de vreo două săptămâni, adică nu e prima oară, dar acum parcă e mai rău ca de obicei. Stau mult la birou, știți cum e, și cred că de acolo vine tot răul, sincer.\nSPEAKER_00: Înțeles. Și durerea asta e locală, în ceafă, sau se lasă și în altă parte?\nSPEAKER_01: Se lasă și pe cap, adică îmi vine un fel de durere de cap din ceafă în sus, până la tâmple uneori. Nu știu dacă e de la ceafă sau e altceva, m-am tot întrebat.\nSPEAKER_00: Da, înțeleg. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Păi, în momentele grele, când stau mult la calculator, aș zice un 7. Dimineața când mă trezesc e mai suportabil, vreo 4. Dar după ore de stat la ecran ajunge la 7, chiar și 8 uneori.\nSPEAKER_00: Deci fluctuează între 4 și 7-8.\nSPEAKER_01: Da, exact. Și mai am și o... nu știu cum să zic, un fel de tensiune în mușchii ăia de la ceafă, parcă îi simt tot timpul încordați. Soția mea zice că stau cu umerii ridicați tot timpul, dar pe mine nu mă doare umărul propriu-zis, e mai sus, în ceafă.\nSPEAKER_00: Ok. Și de două săptămâni spuneți că a început mai intens. A existat vreun moment anume, vreun efort, o mișcare?\nSPEAKER_01: Nu știu exact. Am avut o săptămână mai aglomerată la serviciu, am stat poate 10-12 ore pe zi la calculator. Și la un moment dat am simțit că am o durere mai ascuțită când întorc capul la dreapta. De atunci parcă s-a menținut.\nSPEAKER_00: Când întoarceți capul la dreapta doare mai tare?\nSPEAKER_01: Da, da. La stânga merge mai bine, dar la dreapta simt ceva, o rezistență și o durere.\nSPEAKER_00: Bun. Amorțeli pe braț, pe mână, aveți?\nSPEAKER_01: Nu, nu am simțit așa ceva, nu. Mă gândeam eu că poate am ceva mai grav, am citit pe internet tot felul de lucruri și m-am speriat un pic, dar amorțeli nu.\nSPEAKER_00: Bine. Și dureri de cap aveți frecvent sau mai rar?\nSPEAKER_01: Mai des de când cu ceafa asta. Înainte mai rar, acum parcă sunt legate.\nSPEAKER_00: Alergii, afecțiuni cunoscute, tensiune, diabet?\nSPEAKER_01: Nu, nimic din astea. Sunt relativ sănătos, nu am nimic diagnosticat. Am 34 de ani, nu iau nimic în mod regulat.\nSPEAKER_00: Ați luat vreun medicament pentru durerea asta, vreun antiinflamator?\nSPEAKER_01: Am luat un Nurofen acum vreo 5 zile când a fost mai rău, dar nu în mod regulat, doar atunci. Și mai am un gel, Voltaren, pe care l-am pus seara de câteva ori.\nSPEAKER_00: Înțeles. Hai să facem câteva mișcări simple. Întoarceți capul ușor la dreapta acum.\nSPEAKER_01: Ah, da, acolo e, simțiți?\nSPEAKER_00: Da. Și la stânga e mai liber.\nSPEAKER_01: Da, mult mai liber.\nSPEAKER_00: Aplecați capul înainte, bărbia spre piept.\nSPEAKER_01: Merge, dar simt tensiune în ceafă.\nSPEAKER_00: Bun. Apăs puțin pe mușchii paravertebrali cervicali, spuneți-mi dacă doare.\nSPEAKER_01: Au, da, acolo doare, pe partea dreaptă mai tare.\nSPEAKER_00: Pe dreapta mai sensibil. Bun. Privind ce mi-ați povestit și ce văd acum, avem o contractură musculară cervicală, mai pronunțată pe dreapta, cu limitarea rotației la dreapta. Pare o cervicalgie de tip postural, legată de postura la birou. Vom lucra să reducem tensiunea musculară și să refacem mobilitatea.\nSPEAKER_01: Și durerile de cap dispar și ele dacă rezolvăm ceafa?\nSPEAKER_00: De obicei da, dacă sunt legate de tensiunea musculară cervicală, ceea ce pare cazul. Trebuie să vedem cum evoluează după primele ședințe.\nSPEAKER_01: Bine, mă bucur. Mă speriasem că e ceva mai serios.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală și ceafă cu iradiere spre cap, agravată de postura la birou, de aproximativ două săptămâni",
+    "evaluarea_durerii_vas": [4, 7],
+    "localizarea_durerii": ["cervical", "cap_ceafa"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      { "denumire": "Nurofen", "doza": null },
+      { "denumire": "Voltaren gel", "doza": null }
+    ],
+    "evaluare_functionala_initiala": "Contractură musculară cervicală paravertebrală, mai pronunțată pe dreapta, cu limitarea rotației cervicale la dreapta. Diagnostic: cervicalgie posturală. Obiective terapeutice: reducerea tensiunii musculare cervicale și refacerea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare ceafa de vreo două săptămâni", "Stau mult la birou, știți cum e, și cred că de acolo vine tot răul"],
+    "evaluarea_durerii_vas": ["dimineața când mă trezesc e mai suportabil, vreo 4", "după ore de stat la ecran ajunge la 7, chiar și 8 uneori"],
+    "localizarea_durerii": ["mă doare ceafa", "îmi vine un fel de durere de cap din ceafă în sus, până la tâmple uneori"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am luat un Nurofen acum vreo 5 zile când a fost mai rău", "mai am un gel, Voltaren, pe care l-am pus seara de câteva ori"],
+    "evaluare_functionala_initiala": ["avem o contractură musculară cervicală, mai pronunțată pe dreapta, cu limitarea rotației la dreapta", "Pare o cervicalgie de tip postural, legată de postura la birou", "Vom lucra să reducem tensiunea musculară și să refacem mobilitatea"]
+  }
+}

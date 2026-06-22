@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_494",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare ceafa.",
+      "Vreo două săptămâni.",
+      "Treptat, cred.",
+      "Uneori urcă pe cap, în spate.",
+      "La birou, când stau mult.",
+      "Da, mai ales în dreapta.",
+      "Un pic, da. Trece."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare ceafa.",
+      "Uneori urcă pe cap, în spate."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Da, acolo se simte.",
+      "E cam tare.",
+      "Nu, mai puțin.",
+      "avem un spasm muscular mai pronunțat pe dreapta, la nivel cervical",
+      "statul prelungit în față la calculator creează o tensionare a musculaturii paravertebrale cervicale",
+      "O să lucrăm să relaxăm zona asta, să recuperăm mobilitatea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22994,
+    "inference_geo": "global",
+    "input_tokens": 357,
+    "output_tokens": 2012,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

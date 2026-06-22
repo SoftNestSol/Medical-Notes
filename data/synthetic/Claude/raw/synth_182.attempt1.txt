@@ -1,0 +1,49 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți la noi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau a venit treptat?\nSPEAKER_01: Brusc. Am ridicat ceva.\nSPEAKER_00: Ce ați ridicat?\nSPEAKER_01: Un sac de ciment.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde situați durerea?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Doare tot timpul sau numai când ridicați mâna?\nSPEAKER_01: Mai mult când ridic.\nSPEAKER_00: Ridicați mâna deasupra capului fără probleme sau nu reușiți?\nSPEAKER_01: Nu reușesc complet. Se oprește pe la... nu știu, pe la jumătate.\nSPEAKER_00: Deci avem o limitare a mișcării. Doare și noaptea, când stați pe partea dreaptă?\nSPEAKER_01: Da, mă trezesc.\nSPEAKER_00: Mă trezesc, deci noaptea doare. Bun. Se lasă durerea pe braț în jos, simțiți ceva spre cot sau mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală în mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte boli, tensiune, diabet, osteoporoză, ceva diagnosticat?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament?\nSPEAKER_01: Iau un ibuprofen din când în când.\nSPEAKER_00: Câte miligrame?\nSPEAKER_01: Nu știu. Cel normal de la farmacie.\nSPEAKER_00: Ok. Și mai ajută?\nSPEAKER_01: Puțin.\nSPEAKER_00: Haideți să facem câteva teste. Ridicați mâna dreaptă lateral, încet. Doare?\nSPEAKER_01: Da, de pe la jumătate în sus.\nSPEAKER_00: Și dacă ridic eu mâna în locul dumneavoastră, pasiv, tot doare?\nSPEAKER_01: Da, la fel.\nSPEAKER_00: Și dacă apăs aici pe capul humerusului, simțiți?\nSPEAKER_01: Au, da.\nSPEAKER_00: Sensibil la palpare. Rotație internă, duceți mâna la spate, ca și cum ați prinde fermoarul.\nSPEAKER_01: Ajung, dar doare.\nSPEAKER_00: Ajungeți, bine. Rotație externă, duceți cotul în spate.\nSPEAKER_01: Asta merge mai bine.\nSPEAKER_00: Merge mai bine. Deci avem o limitare selectivă, mai ales pe abducție și rotație internă. Pare a fi o inflamație la nivelul tendonului supraspinosului, un sindrom de impingement subacromial. O să lucrăm să reducem inflamația și să recuperăm mobilitatea. Aveți radiografie la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok, deocamdată mergem fără. Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta brusc dupa ridicarea unui sac de ciment, de aproximativ doua saptamani. Limitare de mobilitate la abductie si rotatie interna, durere nocturna.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: sindrom de impingement subacromial, inflamatie tendon supraspinos.\nObiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii umarul drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Brusc. Am ridicat ceva.",
+      "Un sac de ciment.",
+      "Vreo două săptămâni.",
+      "Nu reușesc complet. Se oprește pe la... nu știu, pe la jumătate.",
+      "Da, mă trezesc."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Dreptul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau un ibuprofen din când în când."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o inflamație la nivelul tendonului supraspinosului, un sindrom de impingement subacromial.",
+      "O să lucrăm să reducem inflamația și să recuperăm mobilitatea.",
+      "avem o limitare selectivă, mai ales pe abducție și rotație internă"
+    ]
+  }
+}

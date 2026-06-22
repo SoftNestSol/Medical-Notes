@@ -1,0 +1,169 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua. Spuneți-mi cu ce problemă ne vedem azi."
+    },
+    {
+      "start": 3.92,
+      "end": 27.1,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua. Păi, mă doare umărul stâng de vreo două săptămâni. Adică nu știu exact cum am pățit-o, poate de la serviciu, stau mult la birou, am un laptop și mereu întorc capul să mă uit la al doilea monitor care e în stânga mea și... nu știu, m-am trezit într-o dimineață și nu mai puteam ridica brațul."
+    },
+    {
+      "start": 27.22,
+      "end": 32.16,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Pe o scară de la 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 32.28,
+      "end": 45.2,
+      "speaker": "SPEAKER_01",
+      "text": "Aș zice un 7. Adică nu mă lasă să dorm pe partea stângă, mă trezesc noaptea. Și ieri am vrut să pun ceva pe raft sus și... nu, n-a mers, a durut tare."
+    },
+    {
+      "start": 45.32,
+      "end": 48.74,
+      "speaker": "SPEAKER_00",
+      "text": "Doare doar umărul sau se lasă și pe braț?"
+    },
+    {
+      "start": 48.86,
+      "end": 57.22,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult umărul, pe aici, pe partea din față. Dar uneori simt ceva și până la cot, nu știu dacă e legat."
+    },
+    {
+      "start": 57.34,
+      "end": 59.62,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeală în braț sau în mână?"
+    },
+    {
+      "start": 59.74,
+      "end": 62.78,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, amorțeală nu. Cel puțin nu am observat."
+    },
+    {
+      "start": 62.9,
+      "end": 65.18,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Alte afecțiuni, tensiune, diabet, osteoporoză?"
+    },
+    {
+      "start": 65.3,
+      "end": 83.16,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Iau Enalapril de vreo trei ani. Altceva... hm, nu cred. A, și am făcut acum doi ani o ecografie la umăr că mă mai durea și atunci, și mi-a zis doctorul că am o mică tendinită la biceps, dar a trecut singură atunci."
+    },
+    {
+      "start": 83.28,
+      "end": 84.8,
+      "speaker": "SPEAKER_00",
+      "text": "Și acum, aceeași parte?"
+    },
+    {
+      "start": 84.92,
+      "end": 97.84,
+      "speaker": "SPEAKER_01",
+      "text": "Da, tot stângul. Mă gândeam dacă nu e ceva mai grav acum, că nu mai trece singur ca data trecută. Soția mea zice să mă duc la ortoped, dar am venit mai întâi aici."
+    },
+    {
+      "start": 97.96,
+      "end": 100.62,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Altă medicație în afară de Enalapril?"
+    },
+    {
+      "start": 100.74,
+      "end": 106.06,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic altceva. Uneori iau un ibuprofen când mă doare tare, dar nu regulat."
+    },
+    {
+      "start": 106.18,
+      "end": 109.98,
+      "speaker": "SPEAKER_00",
+      "text": "Ridicați brațul, vă rog, încet în față... până unde puteți."
+    },
+    {
+      "start": 110.1,
+      "end": 112.76,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe aici. Mai sus deja doare."
+    },
+    {
+      "start": 112.88,
+      "end": 114.02,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și lateral?"
+    },
+    {
+      "start": 114.14,
+      "end": 117.18,
+      "speaker": "SPEAKER_01",
+      "text": "Ăsta și mai puțin, mai doare pe lateral."
+    },
+    {
+      "start": 117.3,
+      "end": 119.96,
+      "speaker": "SPEAKER_00",
+      "text": "Stați puțin, apăs pe zona asta... doare?"
+    },
+    {
+      "start": 120.08,
+      "end": 124.26,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact acolo e. Și dacă apăsați mai sus, pe vârf?"
+    },
+    {
+      "start": 124.38,
+      "end": 125.52,
+      "speaker": "SPEAKER_00",
+      "text": "Și acolo, da?"
+    },
+    {
+      "start": 125.64,
+      "end": 128.3,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic mai puțin. Dar tot doare."
+    },
+    {
+      "start": 128.42,
+      "end": 137.92,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Pare o inflamație la nivelul umărului stâng, probabil tendinopatia coifului rotatorilor sau bursită subacromială. O să lucrăm să reducem inflamația și să recuperăm mobilitatea."
+    },
+    {
+      "start": 138.04,
+      "end": 144.5,
+      "speaker": "SPEAKER_01",
+      "text": "Ok. Adică nu e ceva rupt? Că mă gândeam că poate am rupt ceva și nu știu."
+    },
+    {
+      "start": 144.62,
+      "end": 153.74,
+      "speaker": "SPEAKER_00",
+      "text": "Din ce văd la testare nu pare o ruptură completă, dar dacă nu răspunde la tratament, o să vă recomand să faceți o ecografie."
+    },
+    {
+      "start": 153.86,
+      "end": 156.9,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine. Și cât timp durează până trece?"
+    },
+    {
+      "start": 157.02,
+      "end": 162.34,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde, dar cu câteva ședințe ar trebui să simțiți o îmbunătățire. Haideți pe masă."
+    }
+  ]
+}

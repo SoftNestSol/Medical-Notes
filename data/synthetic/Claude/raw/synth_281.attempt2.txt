@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă veniți azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Și de atunci doare?\nSPEAKER_01: Da.\nSPEAKER_00: Doare constant sau numai când faceți ceva anume?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Până la ce înălțime reușiți să ridicați?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci cam la nivelul umărului, da?\nSPEAKER_01: Da, cam așa.\nSPEAKER_00: Mai sus doare?\nSPEAKER_01: Foarte tare.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare cel mai tare, cum estimați durerea?\nSPEAKER_01: Un 7.\nSPEAKER_00: 7. Doare și noaptea, când stați pe partea stângă?\nSPEAKER_01: Da, nu pot dormi pe ea.\nSPEAKER_00: Înțeleg. Se lasă și pe braț durerea, coboară?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeli în mână, degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Tensiune, diabet, osteoporoză, alte afecțiuni?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, niciun antiinflamator?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Haideți să vedem puțin cum stăm. Ridicați brațul în față, încet.\nSPEAKER_01: Până aici.\nSPEAKER_00: Da, vedem că se oprește. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Acum lateral, în lateral ridicați.\nSPEAKER_01: Și asta doare.\nSPEAKER_00: La fel, în jur de 80-90 de grade și se blochează. Apăs puțin pe zona asta de sus a umărului, doare?\nSPEAKER_01: Uh, da.\nSPEAKER_00: Pe lângă corp, dacă rotesc brațul spre exterior, doare?\nSPEAKER_01: Un pic.\nSPEAKER_00: Mai puțin ca la ridicare.\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Avem o limitare la abducție și la flexie, cu sensibilitate la nivelul acromionului. Cel mai probabil e o tendinită a coafei rotatorilor, posibil și un sindrom de impingement. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea. Da?\nSPEAKER_01: Da, bine.\nSPEAKER_00: Haideți pe masă cu fața în sus, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng după efort fizic (mutat mobilă), de aproximativ două săptămâni. Limitarea ridicării brațului, cu durere nocturnă.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Limitare la abducție și flexie (aproximativ 80-90 de grade), sensibilitate la nivelul acromionului. Diagnostic: tendinită a coafei rotatorilor, posibil sindrom de impingement. Obiective terapeutice: reducerea inflamației și recâștigarea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Am mutat niște mobilă.", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un 7."],
+    "localizarea_durerii": ["Stângul.", "Mă doare umărul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu.", "Nicio pastilă, niciun antiinflamator?", "Nu."],
+    "evaluare_functionala_initiala": ["Avem o limitare la abducție și la flexie, cu sensibilitate la nivelul acromionului. Cel mai probabil e o tendinită a coafei rotatorilor, posibil și un sindrom de impingement. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea."]
+  }
+}

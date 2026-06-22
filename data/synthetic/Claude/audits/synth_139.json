@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_139",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare undeva pe aici, pe zona asta de sus a spatelui, și se tot întinde",
+      "A început încet și acum e mai supărătoare",
+      "uneori simt ceva și pe aici, la ceafă, mai ales dimineața când mă trezesc"
+    ],
+    "evaluarea_durerii_vas": [
+      "cam la jumătate? Poate un 5, ceva de genul",
+      "dimineața e mai rău, poate un 7, nu știu exact"
+    ],
+    "localizarea_durerii": [
+      "pe zona asta de sus a spatelui",
+      "undeva pe acolo",
+      "uneori simt ceva și pe aici, la ceafă"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am, da. Am de vreo doi ani, iau și pastile pentru ea"
+    ],
+    "antecedente_altele": [
+      "Am operat de apendicită acum mulți ani"
+    ],
+    "medicatie_actuala": [
+      "Nebilet, mi-a prescris cardiologul, iau o pastilă pe zi",
+      "mai iau uneori câte un ibuprofen când mă doare prea tare"
+    ],
+    "evaluare_functionala_initiala": [
+      "umerii sunt ușor duși în față, mai ales cel stâng",
+      "Capul e dus puțin în față față de axa corpului",
+      "mobilitatea e restricționată în rotația stângă",
+      "avem o contractură musculară la nivel cervical și toracal superior",
+      "Umărul stâng e coborât față de cel drept",
+      "Obiectivul nostru în primele ședințe va fi să reducem contractura și să recuperăm mobilitatea la nivelul cervical, în special rotația stângă. Ulterior vom lucra și pe postură."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13528,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3083,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

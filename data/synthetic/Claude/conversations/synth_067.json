@@ -1,0 +1,343 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 4.46,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi numele, vă rog."
+    },
+    {
+      "start": 4.58,
+      "end": 5.38,
+      "speaker": "SPEAKER_01",
+      "text": "Mihai Dănilă."
+    },
+    {
+      "start": 5.5,
+      "end": 8.54,
+      "speaker": "SPEAKER_00",
+      "text": "Domnule Dănilă, cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 8.66,
+      "end": 30.7,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, de unde să încep... am o durere în zona de jos a spatelui, de ceva timp deja, și sincer nu știu cum s-a întâmplat, poate de la birou, poate de la altceva, nu știu exact. Stau mult la birou, vreo opt, nouă ore pe zi, și cred că de acolo vine totul, dar nu sunt sigur."
+    },
+    {
+      "start": 30.82,
+      "end": 32.72,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp aveți durerea?"
+    },
+    {
+      "start": 32.84,
+      "end": 56.02,
+      "speaker": "SPEAKER_01",
+      "text": "Cam de trei săptămâni, poate mai mult. A început mai ușor, m-am gândit că trece de la sine, mi-am zis lasă că se rezolvă, dar n-a trecut și acum e mai rău decât la început. Mai ales dimineața când mă ridic din pat, e groaznic, stau câteva minute pe marginea patului înainte să pot să mă ridic efectiv."
+    },
+    {
+      "start": 56.14,
+      "end": 60.7,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Doare doar în zona lombară sau se lasă și pe picior?"
+    },
+    {
+      "start": 60.82,
+      "end": 76.78,
+      "speaker": "SPEAKER_01",
+      "text": "În general stă acolo jos, în spate, dar câteodată parcă simt ceva și pe fesă dreapta. Nu știu dacă e de la durere sau e altceva, nu știu să explic. Nu coboară mai jos de fesă, cel puțin nu am observat eu."
+    },
+    {
+      "start": 76.9,
+      "end": 80.7,
+      "speaker": "SPEAKER_00",
+      "text": "Pe fesa dreaptă. Mai jos de fesă nu se lasă?"
+    },
+    {
+      "start": 80.82,
+      "end": 83.86,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, cel puțin nu am observat eu."
+    },
+    {
+      "start": 83.98,
+      "end": 95.0,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 înseamnă durere maximă, unde ați situa durerea acum, în momentul ăsta?"
+    },
+    {
+      "start": 95.12,
+      "end": 107.66,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, stând aici? Să zic un șase. Dar dimineața când mă ridic din pat e un opt, sigur. Și dacă stau mai mult de o oră la birou tot ajunge spre șapte, opt."
+    },
+    {
+      "start": 107.78,
+      "end": 110.82,
+      "speaker": "SPEAKER_00",
+      "text": "Deci un șase acum, și dimineața un opt."
+    },
+    {
+      "start": 110.94,
+      "end": 112.08,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam așa."
+    },
+    {
+      "start": 112.2,
+      "end": 118.28,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea este mai mult ca o înțepătură, ca o presiune sau ca o senzație de arsură?"
+    },
+    {
+      "start": 118.4,
+      "end": 133.6,
+      "speaker": "SPEAKER_01",
+      "text": "E mai mult o greutate, o apăsare, și uneori simt că mă ia și-n bară, știți, ca și cum ar fi o bară de fier acolo jos. Nu e înțepătură, nu e arsură, e mai mult o greutate continuă."
+    },
+    {
+      "start": 133.72,
+      "end": 139.42,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Spuneți-mi, ați mai avut probleme cu spatele înainte de aceste trei săptămâni?"
+    },
+    {
+      "start": 139.54,
+      "end": 156.64,
+      "speaker": "SPEAKER_01",
+      "text": "Păi acum vreo doi ani am avut ceva similar, dar a trecut singur după vreo săptămână și am uitat de el. Atunci lucram mult în picioare, nu la birou, și cred că m-am suprasolicitat. Acum e cu totul altceva, acum e mult mai persistent."
+    },
+    {
+      "start": 156.76,
+      "end": 160.56,
+      "speaker": "SPEAKER_00",
+      "text": "Dar altfel, boli cronice aveți? Tensiune, diabet, ceva de genul?"
+    },
+    {
+      "start": 160.68,
+      "end": 181.96,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da, de vreo patru ani. Iau pastile pentru ea. Și mai am și colesterol mărit, iau și pentru asta ceva. În rest nu știu, la genunchi am mai simțit câteodată o durere, mai ales pe cel drept, când urc scările, dar nu m-am dus niciodată la doctor pentru asta, nu știu ce e."
+    },
+    {
+      "start": 182.08,
+      "end": 185.88,
+      "speaker": "SPEAKER_00",
+      "text": "Tensiunea și colesterolul. Pastilele pentru tensiune știți cum se numesc?"
+    },
+    {
+      "start": 186.0,
+      "end": 192.46,
+      "speaker": "SPEAKER_01",
+      "text": "Da, iau Enalapril, zece miligrame, dimineața. Și pentru colesterol iau Rosuvastatin, parcă zece miligrame și aia, seara."
+    },
+    {
+      "start": 192.58,
+      "end": 196.38,
+      "speaker": "SPEAKER_00",
+      "text": "Enalapril zece miligrame și Rosuvastatin zece miligrame. Altceva mai luați?"
+    },
+    {
+      "start": 196.5,
+      "end": 197.64,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, altceva nu."
+    },
+    {
+      "start": 197.76,
+      "end": 201.18,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ați făcut vreo radiografie sau RMN la coloană?"
+    },
+    {
+      "start": 201.3,
+      "end": 229.04,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, n-am făcut nimic. M-am gândit să merg la medicul de familie, dar mi-a fost lene, sincer. Și mai am și o teamă, să nu îmi spună că am ceva grav, știți cum e. Un coleg de-al meu a avut hernie de disc și a stat trei luni acasă, și mi-a intrat frica în oase când m-a povestit. Sper să nu fie ceva de genul la mine."
+    },
+    {
+      "start": 229.16,
+      "end": 236.0,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Haideți să facem câteva teste și vedem ce se întâmplă. Ridicați-vă puțin în picioare, vă rog."
+    },
+    {
+      "start": 236.12,
+      "end": 236.92,
+      "speaker": "SPEAKER_01",
+      "text": "Da, sigur."
+    },
+    {
+      "start": 237.04,
+      "end": 239.32,
+      "speaker": "SPEAKER_00",
+      "text": "Aplecați-vă ușor înainte, cât puteți."
+    },
+    {
+      "start": 239.44,
+      "end": 243.24,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, mai mult nu reușesc, mă ia durerea."
+    },
+    {
+      "start": 243.36,
+      "end": 246.78,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și dacă vă întoarceți ușor spre dreapta, doare?"
+    },
+    {
+      "start": 246.9,
+      "end": 249.94,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, imediat. Pe dreapta e mai rău."
+    },
+    {
+      "start": 250.06,
+      "end": 250.86,
+      "speaker": "SPEAKER_00",
+      "text": "Spre stânga?"
+    },
+    {
+      "start": 250.98,
+      "end": 253.64,
+      "speaker": "SPEAKER_01",
+      "text": "Și pe stânga doare, dar mai puțin."
+    },
+    {
+      "start": 253.76,
+      "end": 257.94,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Acum puneți-vă pe masă, vă rog, pe burtă."
+    },
+    {
+      "start": 258.06,
+      "end": 259.96,
+      "speaker": "SPEAKER_01",
+      "text": "Pe burtă, da, o secundă."
+    },
+    {
+      "start": 260.08,
+      "end": 263.88,
+      "speaker": "SPEAKER_00",
+      "text": "Vă apăs acum pe coloana lombară, îmi spuneți dacă doare."
+    },
+    {
+      "start": 264.0,
+      "end": 267.04,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo, acolo doare. Chiar acolo la mijloc."
+    },
+    {
+      "start": 267.16,
+      "end": 270.2,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă apăs puțin mai jos, spre sacru?"
+    },
+    {
+      "start": 270.32,
+      "end": 272.22,
+      "speaker": "SPEAKER_01",
+      "text": "Acolo mai puțin, e suportabil."
+    },
+    {
+      "start": 272.34,
+      "end": 276.52,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum o să ridic ușor piciorul drept, să rămâneți relaxat."
+    },
+    {
+      "start": 276.64,
+      "end": 277.44,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, da."
+    },
+    {
+      "start": 277.56,
+      "end": 278.7,
+      "speaker": "SPEAKER_00",
+      "text": "Doare când ridic?"
+    },
+    {
+      "start": 278.82,
+      "end": 282.62,
+      "speaker": "SPEAKER_01",
+      "text": "Da, apare ceva în fesă, pe dreapta, exact ce simțeam."
+    },
+    {
+      "start": 282.74,
+      "end": 285.78,
+      "speaker": "SPEAKER_00",
+      "text": "Pe fesă dreapta. Bun. Același lucru pe stânga."
+    },
+    {
+      "start": 285.9,
+      "end": 289.32,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, pe stânga nu simt nimic în mod deosebit."
+    },
+    {
+      "start": 289.44,
+      "end": 291.72,
+      "speaker": "SPEAKER_00",
+      "text": "Perfect. Puteți să vă ridicați ușor."
+    },
+    {
+      "start": 291.84,
+      "end": 310.84,
+      "speaker": "SPEAKER_01",
+      "text": "Mulțumesc. Și ce credeți, e ceva grav? Mă gândeam că poate e hernie, de la colegul ăla tot mi-a rămas în minte. Sau poate e altceva? Știți, soția mea zice că dorm într-o poziție proastă și că asta e problema, dar eu cred că e de la birou."
+    },
+    {
+      "start": 310.96,
+      "end": 338.7,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să vă explic ce am observat. Mobilitatea lombară este limitată, mai ales la flexie înainte și la rotație spre dreapta. Mușchii paravertebrali lombari sunt contractați, mai ales pe dreapta, și există o sensibilitate locală pe coloana lombară. Durerea care apare pe fesa dreaptă la ridicarea piciorului drept sugerează o iritație a mușchiului piriform pe dreapta. Obiectivul nostru principal va fi să reducem contractura musculară și inflamația locală și să refacem mobilitatea lombară."
+    },
+    {
+      "start": 338.82,
+      "end": 342.62,
+      "speaker": "SPEAKER_01",
+      "text": "Bun, bun. Și cât timp credeți că durează până trece?"
+    },
+    {
+      "start": 342.74,
+      "end": 350.34,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde de cum răspundeți la terapie. Hai să vedem primele două-trei ședințe și ne facem o idee mai clară."
+    },
+    {
+      "start": 350.46,
+      "end": 360.72,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, înțeleg. Și pot să fac ceva acasă între ședințe? Că stau mult la birou și mi-e teamă că o să stric ce facem noi aici."
+    },
+    {
+      "start": 360.84,
+      "end": 369.96,
+      "speaker": "SPEAKER_00",
+      "text": "O să vă dau câteva exerciții simple de mobilizare. Și, important, să faceți pauze la birou la fiecare oră, să vă ridicați câteva minute."
+    },
+    {
+      "start": 370.08,
+      "end": 373.5,
+      "speaker": "SPEAKER_01",
+      "text": "Da, asta pot să fac. Bine, mulțumesc, să începem."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "motivul_prezentarii": "Durere la nivelul genunchiului drept, pe partea laterală, apărută după efort prelungit pe vine (montare plăci terasă), de aproximativ trei săptămâni. Durere la mișcare, mai ales la urcat scări și stat în genunchi.",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "genunchi_dr"
+  ],
+  "localizarea_durerii_alta": "coapsa, lateral extern",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "episod lombar acut în antecedente (rezolvat), entorsă gleznă stângă în antecedente",
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 mg/zi"
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Rotație externă ușoară a piciorului drept la mers. Sensibilitate la palparea benzii ilio-tibiale. Diagnostic: sindrom de bandă ilio-tibială. Obiective terapeutice: reducerea inflamației și relaxarea fasciei."
+}

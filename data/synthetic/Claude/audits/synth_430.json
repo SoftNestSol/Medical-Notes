@@ -1,0 +1,56 @@
+{
+  "conversation_id": "synth_430",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel drept, de vreo... nu știu exact, poate două luni, poate mai mult",
+      "a venit treptat",
+      "la început simțeam doar când ridicam mâna, și acum parcă mă doare și când stau liniștită",
+      "Lucrez la un birou, stau mult la calculator",
+      "Câteodată simt ceva pe... cum să zic, pe partea de sus a brațului, dar la mână nu",
+      "gâtul mă mai supără, da. Mai ales când stau mult la calculator și mă uit un pic în jos, mă ține un pic pe ceafă",
+      "asta e mai veche, nu știu, de ani de zile parcă"
+    ],
+    "evaluarea_durerii_vas": [
+      "poate un 4, dar noaptea e mult mai rău, poate 7-8"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel drept",
+      "mă ține un pic pe ceafă",
+      "gâtul mă mai supără"
+    ],
+    "localizarea_durerii_alta": [
+      "Câteodată simt ceva pe... cum să zic, pe partea de sus a brațului, dar la mână nu"
+    ],
+    "antecedente": [
+      "am tensiunea un pic mărită, de vreo doi ani"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "iau Perindopril, 5 miligrame, o dată pe zi",
+      "Da, dimineața"
+    ],
+    "evaluare_functionala_initiala": [
+      "Doare undeva pe la 90 de grade, când ajungeți la nivelul umărului",
+      "Trage ceva la rotație externă",
+      "Vai, acolo e rău, da",
+      "pare a fi o tendinopatie sau o inflamație la nivelul tendoanelor manșetei rotatorilor, cel mai probabil supraspinosul",
+      "O să vedem cum evoluați în primele ședințe",
+      "Haideți să lucrăm la reducerea inflamației și la refacerea mobilității",
+      "Cervicalul îl adresăm și pe el, că oricum are legătură cu postura la birou"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21395,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 3755,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

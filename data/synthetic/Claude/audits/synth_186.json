@@ -1,0 +1,45 @@
+{
+  "conversation_id": "synth_186",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel stâng. De vreo trei săptămâni acum",
+      "Seara e mai rău, când mă bag în pat și mă întorc pe partea aia, nu pot să stau deloc",
+      "dacă ridic brațul sus, cum să fac să pun ceva pe raft, doare destul",
+      "Stau cam strâmb, recunosc",
+      "mai am și un geantoi pe care îl port pe umărul stâng"
+    ],
+    "evaluarea_durerii_vas": [
+      "Aș zice un 5, că nu e insuportabil"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel stâng",
+      "mai am și gâtul uneori, tot pe partea stângă"
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori mai simt ceva și pe braț, în jos",
+      "doare și puțin trage și pe braț"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o limitare de mobilitate la umărul stâng, cu durere la abducție și la rotația internă, și sensibilitate la nivelul tendonului din față",
+      "Pare o tendinopatie la nivelul umărului stâng, cel mai probabil tendonul supraspinos",
+      "O să lucrăm să reducem inflamația și să recuperăm mobilitatea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23026,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 2098,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

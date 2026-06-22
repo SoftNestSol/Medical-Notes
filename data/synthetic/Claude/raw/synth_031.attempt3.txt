@@ -1,0 +1,31 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi și mie cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc, dimineața m-am trezit și nu mai puteam întoarce capul.\nSPEAKER_00: Înțeles. Și acum mai aveți limitare când întoarceți capul?\nSPEAKER_01: Da.\nSPEAKER_00: Spre dreapta, spre stânga sau în ambele direcții?\nSPEAKER_01: Mai mult spre dreapta.\nSPEAKER_00: Spre dreapta. Și durerea rămâne în gât sau se lasă și pe umăr, pe braț?\nSPEAKER_01: Și pe umăr un pic.\nSPEAKER_00: Pe care umăr?\nSPEAKER_01: Drept.\nSPEAKER_00: Pe umărul drept. Amorțește ceva, vreun deget, mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare vă doare acum?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Dimineața când vă treziți e mai rău sau pe parcursul zilei?\nSPEAKER_01: Dimineața mai rău.\nSPEAKER_00: Înțeles. Ce fel de muncă faceți?\nSPEAKER_01: Stau mult la calculator.\nSPEAKER_00: Mult la calculator, deci poziție statică, ore întregi. Și vârsta dacă se poate?\nSPEAKER_01: 38.\nSPEAKER_00: 38 de ani. Alte afecțiuni aveți, tensiune, diabet, probleme la coloană?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio operație, nicio fractură la coloana cervicală?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Iau nurofen când doare prea tare.\nSPEAKER_00: Nurofen. O pastilă sau mai multe pe zi?\nSPEAKER_01: Una, una singură.\nSPEAKER_00: O pastilă de Nurofen când doare. Bun. Haideți să vă rog să stați puțin în picioare. Întoarceți capul spre dreapta, ușor.\nSPEAKER_01: Au.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: Merge mai bine.\nSPEAKER_00: Merge mai bine, da. Aplecați capul în față, bărbia la piept.\nSPEAKER_01: Doare un pic în ceafă.\nSPEAKER_00: În ceafă, sus, jos?\nSPEAKER_01: Sus.\nSPEAKER_00: Bun. Apăs un pic pe mușchii de aici, zona cervicală dreaptă, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo e.\nSPEAKER_00: Acolo e, deci exact pe trapez și pe mușchii cervicali drepți. Bun, înțeleg situația. Avem o contractură musculară cervicală cu iradiere spre umărul drept, probabil din cauza posturii la calculator. Va trebui să lucrăm pe relaxarea musculaturii cervicale și să recâștigăm mobilitatea. Câteva ședințe și ar trebui să se îmbunătățească situația.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, fața în sus, vă rog.",
+  "note": {
+    "motivul_prezentarii": "durere cervicala cu iradiere umar drept",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": "o pastila cand doare"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractura musculara cervicala cu iradiere umar drept\nObiective terapeutice: relaxarea musculaturii cervicale, recastigarea mobilitatii"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "Și pe umăr un pic.", "Drept."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și pe umăr un pic.", "Pe umărul drept."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Iau nurofen când doare prea tare.", "Una, una singură."],
+    "evaluare_functionala_initiala": ["Avem o contractură musculară cervicală cu iradiere spre umărul drept, probabil din cauza posturii la calculator. Va trebui să lucrăm pe relaxarea musculaturii cervicale și să recâștigăm mobilitatea."]
+  }
+}

@@ -1,51 +1,51 @@
-conversation_id	richness	patient_style
-synth_001	scurt_rar	tacut
-synth_002	scurt_rar	tacut
-synth_003	scurt_rar	tacut
-synth_004	scurt_rar	tacut
-synth_005	scurt_rar	vorbaret
-synth_006	scurt_rar	vorbaret
-synth_007	detaliat_lung	vorbaret
-synth_008	detaliat_lung	vag
-synth_009	detaliat_lung	vag
-synth_010	detaliat_lung	anxios
-synth_011	scurt_rar	tacut
-synth_012	scurt_rar	tacut
-synth_013	scurt_rar	tacut
-synth_014	scurt_rar	tacut
-synth_015	scurt_rar	vorbaret
-synth_016	scurt_rar	vorbaret
-synth_017	detaliat_lung	vorbaret
-synth_018	detaliat_lung	vag
-synth_019	detaliat_lung	vag
-synth_020	detaliat_lung	anxios
-synth_021	scurt_rar	tacut
-synth_022	scurt_rar	tacut
-synth_023	scurt_rar	tacut
-synth_024	scurt_rar	tacut
-synth_025	scurt_rar	vorbaret
-synth_026	scurt_rar	vorbaret
-synth_027	detaliat_lung	vorbaret
-synth_028	detaliat_lung	vag
-synth_029	detaliat_lung	vag
-synth_030	detaliat_lung	anxios
-synth_031	scurt_rar	tacut
-synth_032	scurt_rar	tacut
-synth_033	scurt_rar	tacut
-synth_034	scurt_rar	tacut
-synth_035	scurt_rar	vorbaret
-synth_036	scurt_rar	vorbaret
-synth_037	detaliat_lung	vorbaret
-synth_038	detaliat_lung	vag
-synth_039	detaliat_lung	vag
-synth_040	detaliat_lung	anxios
-synth_041	scurt_rar	tacut
-synth_042	scurt_rar	tacut
-synth_043	scurt_rar	tacut
-synth_044	scurt_rar	tacut
-synth_045	scurt_rar	vorbaret
-synth_046	scurt_rar	vorbaret
-synth_047	detaliat_lung	vorbaret
-synth_048	detaliat_lung	vag
-synth_049	detaliat_lung	vag
-synth_050	detaliat_lung	anxios
+conversation_id	richness	patient_style	background_profile	region_profile
+synth_462	scurt_rar	tacut	fara_antecedente_fara_medicatie	lombar
+synth_463	scurt_rar	tacut	fara_antecedente_fara_medicatie	lombar
+synth_464	scurt_rar	tacut	fara_antecedente_fara_medicatie	cervical_ceafa
+synth_465	scurt_rar	vorbaret	fara_antecedente_otc_rar	cervical_ceafa
+synth_466	scurt_rar	vorbaret	fara_antecedente_otc_rar	sacral_coccis
+synth_467	detaliat_lung	vorbaret	istoric_minor_fara_medicatie	toracal
+synth_468	detaliat_lung	vag	istoric_minor_fara_medicatie	genunchi
+synth_469	detaliat_lung	vag	cronic_non_hta	cot_pumn
+synth_470	detaliat_lung	anxios	hta_permisa_rar	sold
+synth_471	scurt_rar	tacut	fara_antecedente_fara_medicatie	lombar
+synth_472	scurt_rar	tacut	fara_antecedente_fara_medicatie	lombar
+synth_473	scurt_rar	tacut	fara_antecedente_fara_medicatie	lombar
+synth_474	scurt_rar	tacut	fara_antecedente_fara_medicatie	cervical_ceafa
+synth_475	scurt_rar	vorbaret	fara_antecedente_otc_rar	cervical_ceafa
+synth_476	scurt_rar	vorbaret	fara_antecedente_otc_rar	sacral_coccis
+synth_477	detaliat_lung	vorbaret	istoric_minor_fara_medicatie	toracal
+synth_478	detaliat_lung	vag	istoric_minor_fara_medicatie	genunchi
+synth_479	detaliat_lung	vag	cronic_non_hta	cot_pumn
+synth_480	detaliat_lung	anxios	hta_permisa_rar	sold
+synth_481	scurt_rar	tacut	fara_antecedente_fara_medicatie	lombar
+synth_482	scurt_rar	tacut	fara_antecedente_fara_medicatie	lombar
+synth_483	scurt_rar	tacut	fara_antecedente_fara_medicatie	lombar
+synth_484	scurt_rar	tacut	fara_antecedente_fara_medicatie	cervical_ceafa
+synth_485	scurt_rar	vorbaret	fara_antecedente_otc_rar	cervical_ceafa
+synth_486	scurt_rar	vorbaret	fara_antecedente_otc_rar	sacral_coccis
+synth_487	detaliat_lung	vorbaret	istoric_minor_fara_medicatie	toracal
+synth_488	detaliat_lung	vag	istoric_minor_fara_medicatie	genunchi
+synth_489	detaliat_lung	vag	cronic_non_hta	cot_pumn
+synth_490	detaliat_lung	anxios	hta_permisa_rar	sold
+synth_491	scurt_rar	tacut	fara_antecedente_fara_medicatie	lombar
+synth_492	scurt_rar	tacut	fara_antecedente_fara_medicatie	lombar
+synth_493	scurt_rar	tacut	fara_antecedente_fara_medicatie	lombar
+synth_494	scurt_rar	tacut	fara_antecedente_fara_medicatie	cervical_ceafa
+synth_495	scurt_rar	vorbaret	fara_antecedente_otc_rar	cervical_ceafa
+synth_496	scurt_rar	vorbaret	fara_antecedente_otc_rar	sacral_coccis
+synth_497	detaliat_lung	vorbaret	istoric_minor_fara_medicatie	toracal
+synth_498	detaliat_lung	vag	istoric_minor_fara_medicatie	genunchi
+synth_499	detaliat_lung	vag	cronic_non_hta	cot_pumn
+synth_500	detaliat_lung	anxios	hta_permisa_rar	sold
+synth_501	scurt_rar	tacut	fara_antecedente_fara_medicatie	lombar
+synth_502	scurt_rar	tacut	fara_antecedente_fara_medicatie	lombar
+synth_503	scurt_rar	tacut	fara_antecedente_fara_medicatie	lombar
+synth_504	scurt_rar	tacut	fara_antecedente_fara_medicatie	cervical_ceafa
+synth_505	scurt_rar	vorbaret	fara_antecedente_otc_rar	cervical_ceafa
+synth_506	scurt_rar	vorbaret	fara_antecedente_otc_rar	sacral_coccis
+synth_507	detaliat_lung	vorbaret	istoric_minor_fara_medicatie	toracal
+synth_508	detaliat_lung	vag	istoric_minor_fara_medicatie	genunchi
+synth_509	detaliat_lung	vag	cronic_non_hta	cot_pumn
+synth_510	detaliat_lung	anxios	hta_permisa_rar	sold
+synth_511	scurt_rar	tacut	fara_antecedente_fara_medicatie	lombar

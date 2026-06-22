@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "Durere umăr drept cu iradiere pe fața externă a brațului, debut treptat în ultimele 3-4 luni, posibil declanșat de efort fizic (mutat mobilă). Asociază durere cervicală/ceafă spre seară. Ocupație sedentară (contabilitate), postură deficitară la birou.",
+  "evaluarea_durerii_vas": null,
+  "localizarea_durerii": [
+    "umar_dr",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": "fața externă a brațului drept (mijlocul brațului)",
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism (de aproximativ 2 ani)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "50 micrograme dimineața"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUmeri proiectați anterior, cap ușor avansat față de ax. Arc dureros prezent în abducție activă (durere de la ~90 de grade în sus). Limitare la rotație internă (mâna la spate dificilă). Sensibilitate la palpare cap humeral și subacrominal. Durere la rezistență în abducție.\nDiagnostic:\nTendinopatie manșeta rotatorilor (posibil supraspinat), sindrom de impingement subacromial.\nObiective terapeutice:\nReducerea inflamației și a durerii; recuperarea amplitudinii de mișcare; corectarea posturii."
+}

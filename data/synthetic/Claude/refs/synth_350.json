@@ -1,0 +1,27 @@
+{
+  "motivul_prezentarii": "Durere umar drept cu limitarea mobilitatii, aparuta dupa efort cu bratul ridicat (varuit), prezenta de circa 3-4 saptamani",
+  "evaluarea_durerii_vas": [
+    8,
+    3
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cot_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "colecistectomie (vezicua biliara extrasa acum ~10 ani)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Lozartan",
+      "doza": "50 mg dimineata"
+    },
+    {
+      "denumire": "Diclofenac",
+      "doza": "50 mg la nevoie"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: tendinopatie coafa rotatori, in special supraspinos; afectare tendon lung biceps.\nObiective terapeutice: reducerea inflamatiei, refacerea mobilitatii umărului drept, reantarirea musculaturii periarticulare."
+}

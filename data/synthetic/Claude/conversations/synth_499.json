@@ -1,0 +1,385 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 5.64,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi."
+    },
+    {
+      "start": 5.76,
+      "end": 9.18,
+      "speaker": "SPEAKER_01",
+      "text": "Păi mă doare... mâna, la încheietură, pe aici undeva."
+    },
+    {
+      "start": 9.3,
+      "end": 11.58,
+      "speaker": "SPEAKER_00",
+      "text": "La pumn, mâna dreaptă sau stânga?"
+    },
+    {
+      "start": 11.7,
+      "end": 12.5,
+      "speaker": "SPEAKER_01",
+      "text": "Dreapta, da."
+    },
+    {
+      "start": 12.62,
+      "end": 15.28,
+      "speaker": "SPEAKER_00",
+      "text": "Dreapta. De cât timp aveți această durere?"
+    },
+    {
+      "start": 15.4,
+      "end": 20.34,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo... nu știu exact, câteva săptămâni poate, o lună, ceva de genul."
+    },
+    {
+      "start": 20.46,
+      "end": 24.64,
+      "speaker": "SPEAKER_00",
+      "text": "O lună aproximativ. Și a apărut brusc sau a venit treptat?"
+    },
+    {
+      "start": 24.76,
+      "end": 31.22,
+      "speaker": "SPEAKER_01",
+      "text": "Treptat, treptat. Nu știu, nu m-am lovit sau ceva. Pur și simplu a început să doară."
+    },
+    {
+      "start": 31.34,
+      "end": 34.38,
+      "speaker": "SPEAKER_00",
+      "text": "Nu ați căzut, nu ați avut niciun traumatism?"
+    },
+    {
+      "start": 34.5,
+      "end": 40.58,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic din astea. Poate de la... lucrez mult la calculator, nu știu dacă are legătură."
+    },
+    {
+      "start": 40.7,
+      "end": 44.88,
+      "speaker": "SPEAKER_00",
+      "text": "Are, are legătură. Deci lucrați mult cu mouse-ul, cu tastatura?"
+    },
+    {
+      "start": 45.0,
+      "end": 49.94,
+      "speaker": "SPEAKER_01",
+      "text": "Da, toată ziua practic. Stau cam opt, nouă ore pe zi la birou."
+    },
+    {
+      "start": 50.06,
+      "end": 58.8,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde situați această durere?"
+    },
+    {
+      "start": 58.92,
+      "end": 63.1,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... nu știu, depinde. Uneori e mai mult, uneori mai puțin."
+    },
+    {
+      "start": 63.22,
+      "end": 66.64,
+      "speaker": "SPEAKER_00",
+      "text": "Când e cel mai rău, la cât ați spune?"
+    },
+    {
+      "start": 66.76,
+      "end": 71.7,
+      "speaker": "SPEAKER_01",
+      "text": "Poate un 6, 7, pe acolo. Când scriu mult sau când întorc mâna."
+    },
+    {
+      "start": 71.82,
+      "end": 76.0,
+      "speaker": "SPEAKER_00",
+      "text": "Și când e mai liniștit, să zicem dimineața când vă treziți?"
+    },
+    {
+      "start": 76.12,
+      "end": 81.44,
+      "speaker": "SPEAKER_01",
+      "text": "Dimineața e chiar mai rău un pic, mă ține, amorțesc și degetele un pic."
+    },
+    {
+      "start": 81.56,
+      "end": 82.7,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțesc. Care degete?"
+    },
+    {
+      "start": 82.82,
+      "end": 86.24,
+      "speaker": "SPEAKER_01",
+      "text": "Ăsta, ăsta și ăsta. Pe aici, primele trei, parcă."
+    },
+    {
+      "start": 86.36,
+      "end": 87.88,
+      "speaker": "SPEAKER_00",
+      "text": "Deci policele, indexul, mediusul."
+    },
+    {
+      "start": 88.0,
+      "end": 89.9,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam pe acolo, da."
+    },
+    {
+      "start": 90.02,
+      "end": 94.96,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și amorțeala asta dimineața trece după ce vă mișcați mâna sau rămâne?"
+    },
+    {
+      "start": 95.08,
+      "end": 99.64,
+      "speaker": "SPEAKER_01",
+      "text": "Trece, da. Scutur un pic mâna și trece, în zece minute poate."
+    },
+    {
+      "start": 99.76,
+      "end": 103.94,
+      "speaker": "SPEAKER_00",
+      "text": "În zece minute. Doare și pe antebraț sau numai la încheietură?"
+    },
+    {
+      "start": 104.06,
+      "end": 110.9,
+      "speaker": "SPEAKER_01",
+      "text": "Și pe antebraț un pic, pe față, pe partea asta de aici. Nu tot antebrațul, doar pe față."
+    },
+    {
+      "start": 111.02,
+      "end": 114.06,
+      "speaker": "SPEAKER_00",
+      "text": "Pe fața anterioară, pe partea internă sau externă?"
+    },
+    {
+      "start": 114.18,
+      "end": 116.46,
+      "speaker": "SPEAKER_01",
+      "text": "Hmm... internă parcă, da, pe-acolo."
+    },
+    {
+      "start": 116.58,
+      "end": 119.24,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Dacă strângeți pumnul tare, doare?"
+    },
+    {
+      "start": 119.36,
+      "end": 120.5,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, doare."
+    },
+    {
+      "start": 120.62,
+      "end": 123.66,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă îndoiți încheietura în jos, spre palmă?"
+    },
+    {
+      "start": 123.78,
+      "end": 125.68,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da. Asta chiar doare."
+    },
+    {
+      "start": 125.8,
+      "end": 131.88,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Stați puțin, vreau să apăs un pic pe zona asta. Spuneți-mi dacă simțiți ceva."
+    },
+    {
+      "start": 132.0,
+      "end": 133.9,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo, pe acolo doare."
+    },
+    {
+      "start": 134.02,
+      "end": 136.68,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă apăs mai sus, pe antebraț?"
+    },
+    {
+      "start": 136.8,
+      "end": 139.84,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin. Dar tot se simte un pic."
+    },
+    {
+      "start": 139.96,
+      "end": 144.52,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Ați mai avut ceva similar și în trecut la această mână?"
+    },
+    {
+      "start": 144.64,
+      "end": 145.44,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată."
+    },
+    {
+      "start": 145.56,
+      "end": 148.22,
+      "speaker": "SPEAKER_00",
+      "text": "La cotul drept simțiți ceva, vreun disconfort?"
+    },
+    {
+      "start": 148.34,
+      "end": 149.86,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, cotul nu, nu."
+    },
+    {
+      "start": 149.98,
+      "end": 155.3,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Vă întreb câteva lucruri legate de sănătatea generală. Aveți tensiune, diabet, probleme cardiace?"
+    },
+    {
+      "start": 155.42,
+      "end": 160.36,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am. Am în schimb... tiroida. Am hipotiroidism, de vreo trei ani."
+    },
+    {
+      "start": 160.48,
+      "end": 162.76,
+      "speaker": "SPEAKER_00",
+      "text": "Hipotiroidism. Și luați medicație pentru asta?"
+    },
+    {
+      "start": 162.88,
+      "end": 165.16,
+      "speaker": "SPEAKER_01",
+      "text": "Da, iau Euthyrox. În fiecare dimineață."
+    },
+    {
+      "start": 165.28,
+      "end": 166.8,
+      "speaker": "SPEAKER_00",
+      "text": "Ce doză, dacă știți?"
+    },
+    {
+      "start": 166.92,
+      "end": 168.82,
+      "speaker": "SPEAKER_01",
+      "text": "75, cred că 75 micrograme."
+    },
+    {
+      "start": 168.94,
+      "end": 171.22,
+      "speaker": "SPEAKER_00",
+      "text": "Euthyrox 75 micrograme. Altceva mai luați?"
+    },
+    {
+      "start": 171.34,
+      "end": 172.48,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic altceva."
+    },
+    {
+      "start": 172.6,
+      "end": 175.26,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Intervenții chirurgicale, fracturi la mâna asta?"
+    },
+    {
+      "start": 175.38,
+      "end": 176.18,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată."
+    },
+    {
+      "start": 176.3,
+      "end": 178.2,
+      "speaker": "SPEAKER_00",
+      "text": "Alergii la medicamente sau unguente?"
+    },
+    {
+      "start": 178.32,
+      "end": 180.98,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, nu am mai pățit nimic."
+    },
+    {
+      "start": 181.1,
+      "end": 195.92,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Deci cel mai probabil ne confruntăm cu o sindrom de tunel carpian, din cauza posturii la calculator și a utilizării intense a mâinii. Amorțeala aceea dimineața la primele trei degete, durerea la flexia pumnului, toate astea sunt sugestive."
+    },
+    {
+      "start": 196.04,
+      "end": 197.56,
+      "speaker": "SPEAKER_01",
+      "text": "Și e ceva grav?"
+    },
+    {
+      "start": 197.68,
+      "end": 212.88,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, nu e grav dacă ne ocupăm de ea acum. Obiectivul nostru principal e să reducem inflamația din zona tunelului carpian, să relaxăm musculatura flexorilor, și să vedem dacă nu avem și o tensiune venind mai sus, de pe antebraț."
+    },
+    {
+      "start": 213.0,
+      "end": 215.28,
+      "speaker": "SPEAKER_01",
+      "text": "Deci e de la calculator chiar?"
+    },
+    {
+      "start": 215.4,
+      "end": 224.52,
+      "speaker": "SPEAKER_00",
+      "text": "Foarte probabil. Poziția mâinii la mouse, tastatura, orele lungi. Apar tensiuni în flexorii degetelor, se inflamează tendonul, și tunelul carpian se îngustează un pic."
+    },
+    {
+      "start": 224.64,
+      "end": 225.78,
+      "speaker": "SPEAKER_01",
+      "text": "Și ce facem?"
+    },
+    {
+      "start": 225.9,
+      "end": 239.2,
+      "speaker": "SPEAKER_00",
+      "text": "Lucrăm pe relaxarea musculaturii flexorilor de pe antebraț, mobilizăm articulația radiocarpală, și facem și un pic de terapie pe tunelul carpian propriu-zis. Puteți să vă întindeți pe masă cu mâna dreaptă ușor în afară?"
+    },
+    {
+      "start": 239.32,
+      "end": 240.12,
+      "speaker": "SPEAKER_01",
+      "text": "Așa?"
+    },
+    {
+      "start": 240.24,
+      "end": 241.04,
+      "speaker": "SPEAKER_00",
+      "text": "Exact, perfect."
+    }
+  ]
+}

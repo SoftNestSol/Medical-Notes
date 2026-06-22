@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Durere umar drept aparuta dupa ridicare de saci la serviciu, de aproximativ doua saptamani.",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare abductie umar drept la aproximativ 80 de grade, durere la apasare pe capul humerusului, limitare rotatie interna (manevra mana la spate imposibila). Diagnostic: inflamatie tendoane coafa rotatorilor umar drept. Obiective terapeutice: reducerea inflamatiei, recapatarea mobilitatii."
+}

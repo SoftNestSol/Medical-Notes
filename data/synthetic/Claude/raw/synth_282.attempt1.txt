@@ -1,0 +1,44 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare genunchiul.\nSPEAKER_00: Care genunchi, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și ce s-a întâmplat acum două săptămâni? A fost o lovitură, un efort, ceva?\nSPEAKER_01: Am alergat mai mult.\nSPEAKER_00: Deci după alergat a apărut durerea.\nSPEAKER_01: Da.\nSPEAKER_00: Doare constant sau numai când mergeți, când urcați scări?\nSPEAKER_01: Când merg mult și la scări.\nSPEAKER_00: Când stați jos, în repaus, dispare?\nSPEAKER_01: Da, dispare.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum apreciați durerea când urcați scările?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Și când mergeți mai mult?\nSPEAKER_01: Cam la fel.\nSPEAKER_00: Doare în față, la rotulă, sau pe lateral, sau în spate la genunchi?\nSPEAKER_01: Mai mult în față, aici.\nSPEAKER_00: Înțeles. Și doare și în interior, pe partea asta?\nSPEAKER_01: Un pic, da.\nSPEAKER_00: Genunchiul s-a umflat?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Pocnește, trosnește?\nSPEAKER_01: Da, câteodată.\nSPEAKER_00: Bun. Afecțiuni, tensiune, diabet, osteoporoză, ceva de genul?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Nicio operație la genunchi, nicio fractură?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să stați puțin în picioare, drept. Stați pe piciorul drept, vă ține?\nSPEAKER_01: Mă ține, dar simt o presiune.\nSPEAKER_00: O presiune. Înțeleg. Acum îndoiți ușor genunchiul, da, așa. Doare?\nSPEAKER_01: Da, un pic aici în față.\nSPEAKER_00: Deci doare la compresie rotuliană. Apăs acum sub rotulă. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și pe interior?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeles. Deci avem o inflamație la nivelul tendonului rotulian și o posibilă iritație a cartilajului. Genunchiul drept e mai rigid dimineața?\nSPEAKER_01: Dimineața da, puțin.\nSPEAKER_00: Trece după câteva minute?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Haideți pe masă, o să lucrăm zona asta să reducem inflamația.",
+  "note": {
+    "motivul_prezentarii": "Durere genunchi drept apărută după alergat, de aproximativ două săptămâni. Durere în față la rotulă și ușor pe interior, prezentă la mers prelungit și urcat scări, dispare în repaus. Redoare matinală ușoară.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "genunchi_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: inflamație tendon rotulian, posibilă iritație cartilaj rotulian.\nObiective terapeutice: reducerea inflamației."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare genunchiul.",
+      "Dreptul.",
+      "De vreo două săptămâni.",
+      "Am alergat mai mult.",
+      "Când merg mult și la scări.",
+      "Da, dispare.",
+      "Mai mult în față, aici.",
+      "Dimineața da, puțin."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare genunchiul.",
+      "Dreptul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nu."
+    ],
+    "evaluare_functionala_initiala": [
+      "Deci doare la compresie rotuliană.",
+      "Deci avem o inflamație la nivelul tendonului rotulian și o posibilă iritație a cartilajului."
+    ]
+  }
+}

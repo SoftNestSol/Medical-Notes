@@ -1,0 +1,56 @@
+{
+  "conversation_id": "synth_230",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare gâtul, de vreo trei săptămâni",
+      "se duce un pic pe umărul drept",
+      "capul mă doare",
+      "amețeli câteodată",
+      "dimineața parcă am degetele mai amorțite, mâna dreaptă",
+      "A început după ce am stat la calculator foarte mult"
+    ],
+    "evaluarea_durerii_vas": [
+      "acum la repaus poate un 4",
+      "când mă mișc, când îmi întorc capul, ajunge și la 7, poate chiar 8"
+    ],
+    "localizarea_durerii": [
+      "mă doare gâtul",
+      "pe ceafă",
+      "se duce un pic pe umărul drept",
+      "capul mă doare"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Am tensiune, da. De vreo cinci ani am tensiune arterială."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Lorista, 50 de miligrame, o dată pe zi",
+      "Mai iau Algocalmin uneori, când mă doare gâtul tare, dar nu în fiecare zi"
+    ],
+    "evaluare_functionala_initiala": [
+      "umărul drept e puțin mai ridicat decât cel stâng",
+      "capul e ușor dus înainte",
+      "doare, și parcă se blochează la un moment dat",
+      "Auziți cum pocnește?",
+      "acolo doare, pe mijloc și pe dreapta",
+      "avem o contractură musculară la nivel cervical, mai accentuată pe dreapta, cu o limitare de mobilitate în rotație",
+      "Amorțelile de dimineață la mâna dreaptă sugerează o ușoară iritație pe traseul nervos, cel mai probabil C5-C6 sau C6-C7",
+      "vom începe cu reducerea contracturii și a inflamației musculare, apoi lucrăm mobilitatea cervicală și corectăm postura"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21330,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 3445,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

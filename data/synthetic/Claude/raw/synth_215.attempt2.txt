@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, spuneți-mi vă rog cu ce problemă ne vedem azi.\nSPEAKER_01: Bună ziua. Deci mă doare umărul stâng de vreo trei săptămâni, poate mai bine, de fapt de când am mutat niște cutii la muncă, am mișcat o cutie grea și a doua zi m-am trezit că nu mai pot să ridic mâna. Inițial m-am gândit că trece singur, că și altădată am mai tras câte un curent și mi-a trecut, dar acum nu trece.\nSPEAKER_00: Înțeles. Deci e vorba de umărul stâng.\nSPEAKER_01: Da, stângul. Dreptul e bine, nu mă deranjează nimic.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, cât de tare doare?\nSPEAKER_01: Păi depinde. Dacă stau liniștit, nu prea, poate un 3. Dar dacă ridic mâna în sus sau încerc să apuc ceva din spate, mă doare rău, aș zice un 7 acolo.\nSPEAKER_00: Bun. Doare și în repaus, noaptea de exemplu?\nSPEAKER_01: Da, asta e problema, noaptea e cel mai rău. Nu pot să dorm pe partea stângă deloc, mă trezesc. Și stau ghemuit, încerc să găsesc o poziție, oricum nu merge. Soția mea zice că mă foiesc toată noaptea, e și ea deranjată, dar nu e despre asta.\nSPEAKER_00: Am înțeles. Doare și pe braț în jos, sau numai în umăr?\nSPEAKER_01: Nu, nu coboară. Rămâne sus, în zona asta.\nSPEAKER_00: Amorțeli la degete, la mână?\nSPEAKER_01: Nu, nu, nimic de felul ăsta.\nSPEAKER_00: Ați mai pățit ceva similar la umărul ăsta înainte?\nSPEAKER_01: Nu chiar, asta e prima oară atât de rău. Că mai am câteodată dureri de spate, dar la umăr n-am mai pățit.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, ceva?\nSPEAKER_01: Nu, sunt relativ sănătos, nu am nimic deosebit.\nSPEAKER_00: Medicamente luați în momentul de față?\nSPEAKER_01: Nu iau nimic regulat. Am dat cu un gel antiinflamator câteva zile, am cumpărat de la farmacie, Voltaren, dar nu știu dacă a ajutat cu ceva, tot mă doare.\nSPEAKER_00: Cât timp ați folosit gelul?\nSPEAKER_01: Vreo patru-cinci zile, pe urmă m-am oprit că n-am simțit mare diferență.\nSPEAKER_00: Bun. Vârsta dumneavoastră?\nSPEAKER_01: 38 de ani.\nSPEAKER_00: Ocupația?\nSPEAKER_01: Lucrez într-un depozit, operez marfă. Deci mult ridicat, mult împins.\nSPEAKER_00: Înțeles. Stați puțin cu fața la mine, ridicați mâna stângă înainte, încet.\nSPEAKER_01: Până pe aici pot, după aia mă doare.\nSPEAKER_00: Bun, până la aproximativ 90 de grade. Și lateral?\nSPEAKER_01: Iarăși, tot cam până pe-aici se blochează.\nSPEAKER_00: Apăs puțin aici, pe capul humerusului. Doare?\nSPEAKER_01: Da, da, fix acolo e, exact punctul ăla.\nSPEAKER_00: Am înțeles. Avem o limitare de mobilitate destul de clară și durere la palpare pe tendonul supraspinatus. Pare o tendinopatie de supraspinatus, posibil cu o ușoară inflamație a bursei. O să lucrăm să reducem inflamația și să refacem mobilitatea umărului.\nSPEAKER_01: Și o să pot ridica mâna normal? Că la serviciu e cam greu acum, îmi dau colegii o mână de ajutor dar tot îmi e jenă.\nSPEAKER_00: Da, obiectivul nostru e tocmai asta, să recuperăm mobilitatea și să dispară durerea. O să avem nevoie de câteva ședințe.\nSPEAKER_01: Bine, bine, am înțeles. Sper să meargă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng apărută după efort fizic (mutare cutii grele la muncă), prezentă de aproximativ trei săptămâni. Durere accentuată la ridicarea brațului și noaptea, cu imposibilitatea de a dormi pe partea stângă.",
+    "evaluarea_durerii_vas": [3, 7],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinopatie supraspinatus stâng, posibil cu inflamație bursă\nObiective terapeutice:\n- reducerea inflamației\n- refacerea mobilității umărului stâng"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul stâng de vreo trei săptămâni", "de când am mutat niște cutii la muncă, am mișcat o cutie grea și a doua zi m-am trezit că nu mai pot să ridic mâna", "noaptea e cel mai rău. Nu pot să dorm pe partea stângă deloc"],
+    "evaluarea_durerii_vas": ["dacă stau liniștit, nu prea, poate un 3", "dacă ridic mâna în sus sau încerc să apuc ceva din spate, mă doare rău, aș zice un 7 acolo"],
+    "localizarea_durerii": ["mă doare umărul stâng", "Da, stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am dat cu un gel antiinflamator câteva zile, am cumpărat de la farmacie, Voltaren"],
+    "evaluare_functionala_initiala": ["Avem o limitare de mobilitate destul de clară și durere la palpare pe tendonul supraspinatus. Pare o tendinopatie de supraspinatus, posibil cu o ușoară inflamație a bursei. O să lucrăm să reducem inflamația și să refacem mobilitatea umărului."]
+  }
+}

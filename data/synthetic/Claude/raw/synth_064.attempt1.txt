@@ -1,0 +1,52 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut după ceva anume sau din senin?\nSPEAKER_01: Am cărăt niște cutii mai grele.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde situați durerea acum?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Și doare constant sau doar când mișcați brațul?\nSPEAKER_01: Când îl ridic mai sus.\nSPEAKER_00: Adică doare când ridicați brațul deasupra capului?\nSPEAKER_01: Da.\nSPEAKER_00: Noaptea vă deranjează? Vă treziți din cauza durerii?\nSPEAKER_01: Uneori.\nSPEAKER_00: Și pe ce parte dormiți de obicei?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Aha, deci dormiți pe umărul care doare. Asta poate agrava situația. Simțiți și o senzație de amorțeală pe braț sau pe degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ați mai avut probleme la umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, ceva de genul?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune arterială ridicată?\nSPEAKER_01: Da.\nSPEAKER_00: Luați ceva pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: Zece miligrame.\nSPEAKER_00: O dată pe zi?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să facem câteva mișcări. Ridicați brațul drept înainte, încet. Până unde puteți.\nSPEAKER_01: Până cam aici.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă ridicați lateral?\nSPEAKER_01: Mai rău.\nSPEAKER_00: Am înțeles. Acum apăs puțin aici, pe capul humerusului. Doare?\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: Și dacă apăs aici, pe tendonul supraspinosului?\nSPEAKER_01: Au, da.\nSPEAKER_00: Bun. Mobilitatea e limitată la abducție și la flexie, cu durere la palpare pe supraspinat și pe capul humeral. Avem o inflamație la nivelul coafei rotatorilor, cel mai probabil tendinita de supraspinos. Vom lucra să reducem inflamația și să recâștigăm mobilitatea umărului. Are sens?\nSPEAKER_01: Da, ok.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (caratul de cutii grele), de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame, o dată pe zi"
+      }
+    ],
+    "evaluare_functionala_initiala": "Mobilitatea limitata la abductie si flexie, cu durere la palpare pe supraspinat si pe capul humeral. Diagnostic: tendinita de supraspinos, inflamatie coafa rotatorilor. Obiective terapeutice: reducerea inflamatiei, recastigarea mobilitatii umarului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Am cărăt niște cutii mai grele.",
+      "Vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 6."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am.",
+      "Tensiune arterială ridicată? Da."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Enalapril.",
+      "Zece miligrame.",
+      "O dată pe zi? Da."
+    ],
+    "evaluare_functionala_initiala": [
+      "Mobilitatea e limitată la abducție și la flexie, cu durere la palpare pe supraspinat și pe capul humeral.",
+      "Avem o inflamație la nivelul coafei rotatorilor, cel mai probabil tendinita de supraspinos.",
+      "Vom lucra să reducem inflamația și să recâștigăm mobilitatea umărului."
+    ]
+  }
+}

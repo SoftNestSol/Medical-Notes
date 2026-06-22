@@ -1,0 +1,16 @@
+{
+  "motivul_prezentarii": "Pacientă cu durere lombară joasă, cu iradiere ocazională în fesa stângă, instalată progresiv în ultimele săptămâni, pusă pe seama sedentarismului prelungit la birou și a unui efort de ridicare a greutăților. Durere mai intensă seara după stat prelungit pe scaun, redoare ușoară matinală. Asociază cervicalgie cronică ușoară cu iradiere ocazională pe umărul drept.",
+  "evaluarea_durerii_vas": null,
+  "localizarea_durerii": [
+    "lombar",
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "fesa stanga",
+  "antecedente": [
+    "scolioza_cifoza"
+  ],
+  "antecedente_altele": "apendicectomie in antecedente; fractura mana stanga in copilarie",
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Observatii posturale / biomecanice:\nAsimetrie la nivelul umerilor, umarul drept mai ridicat. Bazin usor deviat spre stanga. Durere la flexia trunchiului si la revenire. Contractura musculara paravertebrala lombara, mai accentuata pe stanga. Durere la palpare piriform stang, mai putin pe dreapta. Durere fesiera stanga la statul pe piciorul stang.\nDiagnostic:\nContractura musculara lombara cu iritare piriform stang; dezechilibru postural pe fond de scolioza usoara; cervicalgie posturala cronica cu iradiere pe umar drept.\nObiective terapeutice:\nRelaxarea musculaturii lombare si a piriformului stang; corectie posturala; reevaluare cervical dupa primele sedinte."
+}

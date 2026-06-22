@@ -1,0 +1,26 @@
+{
+  "motivul_prezentarii": "Durere umar drept aparuta dupa efort de ridicare (mutat mobila), cu iradiere pe fata anterioara a bratului pana la cot, limitarea marcata a mobilitatii, dificultate la activitatile zilnice, durere nocturna.",
+  "evaluarea_durerii_vas": [
+    4,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "fata anterioara a bratului pana la cot",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Perindopril",
+      "doza": "5 miligrame"
+    },
+    {
+      "denumire": "Ketoprofen",
+      "doza": "100 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observatii functionale: abductie limitata sub orizontala, rotatie interna limitata (mana ajunge doar pana la fesa), forta redusa la rezistenta in abductie la 90 de grade. Sensibilitate la presiune sub acromion (VAS 7) si pe tendonul lung al bicepsului (VAS 5-6). Diagnostic: tendinita coafa rotatori umar drept, cu impingement subacromian. Obiective terapeutice: reducerea inflamatiei, decomprimarea spatiului subacromian, recuperarea amplitudinii de miscare."
+}

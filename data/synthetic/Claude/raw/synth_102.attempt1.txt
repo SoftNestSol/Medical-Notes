@@ -1,0 +1,49 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: Doare tot timpul sau doar când mișcați?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Când ridicați brațul în față sau în lateral?\nSPEAKER_01: Mai mult în lateral.\nSPEAKER_00: Și noaptea vă deranjează?\nSPEAKER_01: Da, dacă stau pe el.\nSPEAKER_00: Înțeles. Se lasă durerea pe braț, pe cot, pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeli?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați brațul acum în lateral, cât puteți.\nSPEAKER_01: Până pe aici.\nSPEAKER_00: La aproximativ 90 de grade se oprește. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Stați puțin, apăs aici pe zona de deasupra umărului.\nSPEAKER_01: Au, da, acolo e.\nSPEAKER_00: Înțeles. Alte zone dau durere, spate, gât?\nSPEAKER_01: Nu, numai umărul.\nSPEAKER_00: Aveți tensiune, diabet, osteoporoză, ceva de genul?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați medicamente acum?\nSPEAKER_01: Nurofen, când nu mai suport.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Nu știu, de vreo două trei ori pe săptămână.\nSPEAKER_00: Doza?\nSPEAKER_01: Un comprimat.\nSPEAKER_00: Ok. Altceva nu luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Înțeles. Deci avem o durere la nivelul umărului stâng, apărută după efort fizic, cu limitare la abducție și sensibilitate la palpare pe zona supraspinosului. Pare o tendinită de supraspinos, posibil cu o mică iritație subacromială. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea.",
+  "note": {
+    "motivul_prezentarii": "Pacient acuză durere la nivelul umărului stâng, instalată de aproximativ două săptămâni după mutarea mobilei. Durere la abducție (mai ales în lateral), cu limitare la aproximativ 90 de grade. Deranjează și noaptea la culcat pe umărul afectat. Fără iradiere, fără amorțeli.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": "un comprimat"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinită de supraspinos, posibil cu iritație subacromială\nObiective terapeutice:\n- reducerea inflamației și recuperarea mobilității"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "De vreo două săptămâni.",
+      "Am mutat niște mobilă.",
+      "Când ridic mâna.",
+      "Mai mult în lateral.",
+      "Da, dacă stau pe el.",
+      "Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Stângul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nurofen, când nu mai suport.",
+      "Un comprimat."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare o tendinită de supraspinos, posibil cu o mică iritație subacromială. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea."
+    ]
+  }
+}

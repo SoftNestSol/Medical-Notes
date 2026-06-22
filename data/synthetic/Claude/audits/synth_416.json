@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_416",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel stâng, de vreo două săptămâni și jumătate",
+      "Am mutat niște mobilă, eram singur acasă, am tras un dulap greu. A doua zi dimineață m-am trezit cu umărul cam țeapăn și de atunci tot mai rău",
+      "Apare mai mult la mișcare, când ridic mâna, mai ales când încerc să ajung la ceva sus",
+      "Amorțeală nu am. Degetele nu, nimic din astea."
+    ],
+    "evaluarea_durerii_vas": [
+      "Când ridic mâna sus aș zice un 7. Noaptea, când mă culc pe el, poate chiar un 8. Când stau liniștit, dacă nu-l mișc, e un 2, maxim 3."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori simt ceva și spre ceafă, dar nu știu dacă e legat sau e de la stres"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel, Voltaren, seara, câteva zile."
+    ],
+    "evaluare_functionala_initiala": [
+      "abducția anterioară e limitată cam la 90 de grade, dincolo de orizontală durere",
+      "abducția e limitată și dureroasă",
+      "rotația internă e prezentă, dar abducția e limitată și dureroasă. Asta sugerează o inflamație la nivelul tendoanelor manșetei rotatorilor, cel mai probabil supraspinosul. Vrem să reducem inflamația și să recuperăm mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22123,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2524,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

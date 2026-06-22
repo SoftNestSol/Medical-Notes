@@ -1,0 +1,55 @@
+{
+  "conversation_id": "synth_210",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel stâng, de vreo două săptămâni",
+      "Am mutat niște cutii acum vreo trei săptămâni, mai grele. Am tras de ele și din seara aia a început să doară.",
+      "Lucrez la birou, stau mult pe calculator.",
+      "51 de ani",
+      "am tensiune. De vreo patru ani iau pastile pentru asta",
+      "am făcut o radiografie la coloană acum doi ani și mi-au zis ceva de scolioză, dar mică, că nu e gravă"
+    ],
+    "evaluarea_durerii_vas": [
+      "undeva la 5. Dar uneori, mai ales noaptea, ajunge la 7, poate chiar 8"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel stâng",
+      "Mă mai doare ceafa, dar aia e de mult"
+    ],
+    "localizarea_durerii_alta": [
+      "coboară pe... pe brațul ăsta, până pe la cot aproximativ",
+      "parcă până la încheietură, dar nu mereu",
+      "amorțesc, inelar și cel mic"
+    ],
+    "antecedente": [
+      "am tensiune. De vreo patru ani iau pastile pentru asta",
+      "mi-au zis ceva de scolioză, dar mică, că nu e gravă"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Lorista 50. O dată pe zi",
+      "mai iau uneori câte un Algocalmin când mă doare rău umărul. Dar nu în fiecare zi, doar când nu mai pot"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem un arc dureros la abducție, undeva pe la 70-80 de grade",
+      "s-au suprasolicitat tendoanele din zona umărului, mai exact ce numim zona manșetei rotatorilor, și în același timp s-a blocat și musculatura cervicală",
+      "Avem o inflamație la nivelul tendoanelor, posibil o tendinopatie de supraspinos, plus o blocare musculară cervicală",
+      "ar fi util un RMN de umăr",
+      "putem lucra să reducem inflamația și să deblochăm musculatura"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 23074
+    },
+    "cache_creation_input_tokens": 23074,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 3710,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

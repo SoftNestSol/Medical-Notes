@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă venim astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ai lovit, ai căzut, ai ridicat ceva greu?\nSPEAKER_01: Am ridicat niște saci la serviciu.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde situezi durerea?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: Doare constant sau doar când miști brațul?\nSPEAKER_01: Când îl ridic mai ales.\nSPEAKER_00: Ridici brațul în față, în lateral, în spate, care mișcare doare cel mai tare?\nSPEAKER_01: În lateral.\nSPEAKER_00: Și în față?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Durerea rămâne în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne acolo.\nSPEAKER_00: Ok. Noaptea te trezești din cauza ei?\nSPEAKER_01: Da, uneori.\nSPEAKER_00: Când stai pe partea dreaptă?\nSPEAKER_01: Da.\nSPEAKER_00: Înțeles. Ai mai pățit asta vreodată, cu același umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte probleme de sănătate, tensiune, diabet, probleme cu oasele?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Iei vreun medicament acum?\nSPEAKER_01: Nurofen, când nu mai pot.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Nu știu, de două, trei ori pe săptămână.\nSPEAKER_00: Ok. Alergii la medicamente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Hai să facem câteva mișcări să văd cum stăm. Ridică brațul drept în lateral pentru mine, încet.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: La aproximativ 80 de grade se oprește. Acum ridică și brațul stâng, comparat.\nSPEAKER_01: Ăsta merge normal.\nSPEAKER_00: Da, stângul merge complet. Acum pune mâna dreaptă la spate, ca și cum ai prinde ceva de jos.\nSPEAKER_01: Au, nu pot.\nSPEAKER_00: Înțeles. Și dacă apăs aici, pe capul humerusului, doare?\nSPEAKER_01: Da, tare.\nSPEAKER_00: Mă gândesc că avem o inflamație la nivelul tendoanelor din umăr, zona de coafă a rotatorilor. Limitarea aceea de mișcare în abducție și durerea la apăsare sunt tipice. O să lucrăm să reducem inflamația și să recăpătăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Să știi că Nurofen-ul ajută pe moment, dar nu rezolvă cauza. O să vedem după primele două ședințe cum răspunde.\nSPEAKER_01: Bine.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa ridicare de saci la serviciu, de aproximativ doua saptamani.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare abductie umar drept la aproximativ 80 de grade, durere la apasare pe capul humerusului, limitare rotatie interna (manevra mana la spate imposibila). Diagnostic: inflamatie tendoane coafa rotatorilor umar drept. Obiective terapeutice: reducerea inflamatiei, recapatarea mobilitatii."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Am ridicat niște saci la serviciu.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 6."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nurofen, când nu mai pot."],
+    "evaluare_functionala_initiala": ["La aproximativ 80 de grade se oprește.", "Da, stângul merge complet.", "Au, nu pot.", "Da, tare.", "Mă gândesc că avem o inflamație la nivelul tendoanelor din umăr, zona de coafă a rotatorilor. Limitarea aceea de mișcare în abducție și durerea la apăsare sunt tipice. O să lucrăm să reducem inflamația și să recăpătăm mobilitatea."]
+  }
+}

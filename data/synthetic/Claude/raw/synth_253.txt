@@ -1,0 +1,37 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Umărul drept sau stâng?\nSPEAKER_01: Drept.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo trei săptămâni.\nSPEAKER_00: Trei săptămâni. A apărut după ceva anume, după un efort, după o mișcare?\nSPEAKER_01: Nu știu exact. Parcă după ce am cărat niște cutii.\nSPEAKER_00: Deci după un efort de ridicat, de cărat.\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Durerea stă doar în umăr sau coboară pe braț în jos?\nSPEAKER_01: Mai mult în umăr. Câteodată un pic pe braț.\nSPEAKER_00: Pe braț până unde, cam la cot sau mai jos?\nSPEAKER_01: Cam pe la cot, nu mai jos.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e cel mai rău, cât estimați?\nSPEAKER_01: Un 6.\nSPEAKER_00: 6. Noaptea vă trezeşte durerea?\nSPEAKER_01: Da, dacă stau pe partea dreaptă.\nSPEAKER_00: Dacă stați pe umărul drept. Pe stânga dormiți bine?\nSPEAKER_01: Da.\nSPEAKER_00: Ridicarea brațului dreapta, o puteți face?\nSPEAKER_01: Greu. Până pe la nivelul ăsta.\nSPEAKER_00: Cam la 90 de grade. Mai sus doare?\nSPEAKER_01: Da, mult.\nSPEAKER_00: Am înțeles. Rotația, dacă ducem mâna la spate, doare?\nSPEAKER_01: Da, nu ajung.\nSPEAKER_00: Bun. Tensiune, diabet, alte afecțiuni?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi în zona asta?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați ceva medicamente în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun fel de antiinflamator, nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să pun mâna puțin pe zona de umăr, îmi spuneți unde simțiți durerea mai exact.\nSPEAKER_01: Aici, în față.\nSPEAKER_00: În zona anterioară, acolo unde e bicepsul și tendonul lui. Doare și când apăs aici?\nSPEAKER_01: Da.\nSPEAKER_00: Și pe deasupra, pe acromion?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Deci avem o tendinopatie de biceps brahial cu posibil conflict subacromio-clavicular. Vom lucra să reducem inflamația și să recuperăm amplitudinea de mișcare.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept, apărută după efort de cărat cutii, de aproximativ trei săptămâni",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Tendinopatie biceps brahial; posibil conflict subacromio-clavicular.\nObiective terapeutice: reducerea inflamației; recuperarea amplitudinii de mișcare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Drept.",
+      "Vreo trei săptămâni.",
+      "Parcă după ce am cărat niște cutii."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Drept."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Deci avem o tendinopatie de biceps brahial cu posibil conflict subacromio-clavicular. Vom lucra să reducem inflamația și să recuperăm amplitudinea de mișcare."
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Cel drept.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva? Ați ridicat ceva, ați căzut?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Deci după ce ați ridicat mobilă a apărut durerea.\nSPEAKER_01: Da.\nSPEAKER_00: Și de atunci doare constant sau numai la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Când ridicați brațul sus doare?\nSPEAKER_01: Da, doare.\nSPEAKER_00: Și dacă duceți mâna la spate?\nSPEAKER_01: Și acolo, da.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare când ridicați brațul?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Și în repaus, noaptea de exemplu, vă deranjează?\nSPEAKER_01: Câteodată, când stau pe partea dreaptă.\nSPEAKER_00: Deci pe partea dreaptă nu puteți dormi bine.\nSPEAKER_01: Nu prea.\nSPEAKER_00: Durerea rămâne în umăr sau coboară pe braț?\nSPEAKER_01: Rămâne acolo sus.\nSPEAKER_00: Bun. Amorțeală în mână sau în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală, ok. Ați mai pățit asta la umărul drept sau e prima dată?\nSPEAKER_01: Prima dată.\nSPEAKER_00: Alte probleme de sănătate, tensiune, diabet, ceva de inimă?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Nimic.\nSPEAKER_00: Ok. Haideți să vedem puțin cum mișcați umărul. Ridicați brațul drept în față, ușor.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare din punctul ăsta?\nSPEAKER_01: Da.\nSPEAKER_00: Vedem o limitare la ridicarea brațului, cam la 90 de grade începe durerea. Acum duceți brațul lateral.\nSPEAKER_01: Au, da.\nSPEAKER_00: La fel, undeva la 90 de grade se blochează. Rotiți ușor umărul spre interior, mâna la spate.\nSPEAKER_01: Greu, nu ajung jos.\nSPEAKER_00: Rotația internă e limitată și dureroasă. Acum apăs ușor pe umăr, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo sus.\nSPEAKER_00: Sensibilitate pe acromion. Bun, avem o tendinopatie de supraspinos cel mai probabil, apărută după efortul de la mutat mobilă. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului drept. O să lucrăm zona în câteva ședințe și o să vedem cum răspunde.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în sus, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa mutarea de mobila, de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Limitare la ridicarea brațului (flexie și abducție) aproximativ 90 de grade cu debut dureros. Rotație internă limitată și dureroasă. Sensibilitate la palpare pe acromion. Diagnostic: tendinopatie de supraspinos. Obiective terapeutice: reducerea inflamației și recuperarea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Cel drept.", "Am mutat niște mobilă.", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 7."],
+    "localizarea_durerii": ["Cel drept.", "Rămâne acolo sus."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Vedem o limitare la ridicarea brațului, cam la 90 de grade începe durerea.", "La fel, undeva la 90 de grade se blochează.", "Rotația internă e limitată și dureroasă.", "Sensibilitate pe acromion.", "avem o tendinopatie de supraspinos cel mai probabil", "Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului drept."]
+  }
+}

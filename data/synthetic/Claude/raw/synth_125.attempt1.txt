@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce problemă ne vedem azi?\nSPEAKER_01: Bună ziua, da, deci mă doare umărul, cel drept, de vreo trei săptămâni, dar să vă explic și eu cum s-a întâmplat că nu e chiar simplu.\nSPEAKER_00: Da, spuneți.\nSPEAKER_01: Deci eu lucrez la birou toată ziua, stau la calculator, și acum trei săptămâni am ajutat un prieten să mute niște mobilă, și am ridicat un dulap, și parcă am simțit ceva acolo, nu știu, nu știu dacă am rupt ceva sau ce, mă gândeam că trece singur dar nu a trecut, și soția mea zice du-te la doctor, du-te la doctor, și eu am zis că nu e nevoie, dar iată că tot nu trece.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Păi depinde, adică dacă stau liniștit, pe la 3, dar dacă ridic mâna sau fac mișcări mai ample, ajunge la 7-8, mai ales dacă duc brațul în spate, atunci mă ține rău de tot.\nSPEAKER_00: Se lasă durerea și pe braț în jos, pe antebraț?\nSPEAKER_01: Nu, nu, rămâne sus, la umăr, cel mult se duce puțin pe lateral, pe deltoid, pe acolo.\nSPEAKER_00: Amorțește mâna?\nSPEAKER_01: Nu, nu amorțește.\nSPEAKER_00: Ați mai pățit ceva similar la umărul acesta?\nSPEAKER_01: Nu la umăr, dar acum câțiva ani am avut o problemă la cervicală, am stat vreo două săptămâni cu gâtul blocat, dar a trecut singur atunci, nu am făcut nimic special.\nSPEAKER_00: Și acum nu vă doare cervicala?\nSPEAKER_01: Nu, acum nu, acum mă doare doar umărul.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Am tensiune, da, iau și medicamente pentru ea. Iau Prestarium, o pastilă pe zi, de vreo doi ani.\nSPEAKER_00: Bun. Altceva?\nSPEAKER_01: Nu, nu, în rest sunt bine, fac și sport, adică făceam, acum nu mai pot din cauza umărului, mergeam la sală de două ori pe săptămână, și asta mă și îngrijorează, că nu mai pot să fac nimic cu brațul drept, nici nu pot să dorm pe partea dreaptă, mă trezesc noaptea de la durere.\nSPEAKER_00: Înțeles. Ridicați brațul în față, sus, încet.\nSPEAKER_01: Până aici pot, mai sus doare.\nSPEAKER_00: Cam la 90 de grade se oprește, da. Acum duceți brațul lateral.\nSPEAKER_01: Da, și aici, cam la fel, după 90 de grade deja mă ține.\nSPEAKER_00: Stați puțin, apăs eu aici pe tendonul supraspinatus.\nSPEAKER_01: Au, da, exact acolo e.\nSPEAKER_00: Da. Și dacă rotim intern?\nSPEAKER_01: Asta doare mai puțin, pot să fac mai mult.\nSPEAKER_00: Bun. Pare a fi o tendinopatie de supraspinatus, cel mai probabil inflamație acolo după efortul cu dulapul. Nu e ceva grav, dar trebuie lucrat.\nSPEAKER_01: Adică nu am rupt nimic? Că m-am tot gândit că am rupt ceva și mi-a fost teamă să vin.\nSPEAKER_00: Nu, din ce testez eu acum nu pare o ruptură. Vom reduce inflamația și refacem mobilitatea.\nSPEAKER_01: Slavă Domnului, că mi-era frică să nu mă opereze cineva.\nSPEAKER_00: Nu ne gândim la operație. Vom începe cu câteva ședințe, vedem cum evoluează.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (ridicare dulap), de trei saptamani. Durere la miscari ample, mai ales la ducerea bratului in spate. Nu poate dormi pe partea dreapta.",
+    "evaluarea_durerii_vas": [3, 8],
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "deltoid lateral",
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": "episod de cervicalgie cu blocaj in antecedente (rezolvat spontan)",
+    "medicatie_actuala": [
+      {
+        "denumire": "Prestarium",
+        "doza": "o pastila pe zi"
+      }
+    ],
+    "evaluare_functionala_initiala": "Abductie si flexie activa limitate la aproximativ 90 de grade cu durere. Rotatie interna pastrata mai bine. Durere la palparea tendonului supraspinatus. Diagnostic: tendinopatie supraspinatus drept, inflamatie post-efort. Obiective terapeutice: reducerea inflamatiei, refacerea mobilitatii articulare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul, cel drept, de vreo trei săptămâni", "am ridicat un dulap, și parcă am simțit ceva acolo", "nici nu pot să dorm pe partea dreaptă, mă trezesc noaptea de la durere"],
+    "evaluarea_durerii_vas": ["dacă stau liniștit, pe la 3, dar dacă ridic mâna sau fac mișcări mai ample, ajunge la 7-8"],
+    "localizarea_durerii": ["mă doare umărul, cel drept"],
+    "localizarea_durerii_alta": ["se duce puțin pe lateral, pe deltoid, pe acolo"],
+    "antecedente": ["Am tensiune, da, iau și medicamente pentru ea"],
+    "antecedente_altele": ["acum câțiva ani am avut o problemă la cervicală, am stat vreo două săptămâni cu gâtul blocat, dar a trecut singur atunci"],
+    "medicatie_actuala": ["Iau Prestarium, o pastilă pe zi, de vreo doi ani"],
+    "evaluare_functionala_initiala": ["Cam la 90 de grade se oprește", "apăs eu aici pe tendonul supraspinatus", "Pare a fi o tendinopatie de supraspinatus, cel mai probabil inflamație acolo după efortul cu dulapul", "vom reduce inflamația și refacem mobilitatea"]
+  }
+}

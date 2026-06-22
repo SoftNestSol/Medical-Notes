@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Durere la cotul drept, cu iradiere ocazională pe fața externă a antebrațului, de aproximativ o lună. Apare la apucare, ridicare, strângerea mâinii și la apăsare locală. Posibil legată de muncă la calculator (utilizare mouse cu mâna dreaptă, mișcări repetitive din încheietură) sau efort fizic anterior.",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "cot_dr"
+  ],
+  "localizarea_durerii_alta": "antebraț drept, față externă",
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidie",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": null
+    },
+    {
+      "denumire": "Voltaren gel",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: Epicondilită laterală dreaptă (cotul tenismenului). Durere reproductibilă la palparea epicondilului lateral, la testul de extensie a pumnului cu cotul întins și la compresia degetului mijlociu. Mișcarea de pronație-supinație contra rezistență și ridicarea cu cotul extins sunt dureroase. Obiective terapeutice: reducerea inflamației locale; detensionarea musculaturii extensorilor antebrațului; exerciții de stretching la domiciliu; reducerea factorilor mecanici repetitivi (mouse)."
+}

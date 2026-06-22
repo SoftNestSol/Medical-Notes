@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_419",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, pe partea asta dreaptă, de ceva vreme, și nu mai pot să ridic mâna sus",
+      "a început ușor, ușor, nu m-am băgat în seamă și acum... nu mai pot nici să mă pieptăn dimineața",
+      "mai mult când mișc, da. Dacă stau liniștită nu prea simt, dar noaptea mă trezesc uneori, mai ales dacă stau pe partea aia",
+      "Am fost la medicul de familie, mi-a dat niște antiinflamatoare, le-am luat câteva zile, am simțit că mai trece, dar după ce am terminat pastilele a revenit"
+    ],
+    "evaluarea_durerii_vas": [
+      "Cam pe la... 7, 7 și ceva."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, pe partea asta dreaptă"
+    ],
+    "localizarea_durerii_alta": [
+      "se lasă un pic pe aici, pe braț, pe lateral, dar nu prea jos. Până pe la cot, cred, nu mai jos."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "am tiroida... hipotiroidism, de vreo 3 ani",
+      "Am avut o operație la genunchi, genunchiul stâng, acum vreo 5 ani. Menisc."
+    ],
+    "medicatie_actuala": [
+      "Euthyrox. Iau în fiecare dimineață.",
+      "75, 75 micrograme."
+    ],
+    "evaluare_functionala_initiala": [
+      "flexia e cam limitată pe la 90 de grade, mai sus apare durerea",
+      "abducția e și ea limitată",
+      "Rotația internă limitată și dureroasă",
+      "pare a fi o inflamație a tendoanelor din umăr, cel mai probabil la nivelul coafei rotatorilor, cu o posibilă afectare a tendonului supraspinat",
+      "am văzut că aveți și o limitare de mobilitate destul de clară la flexie și abducție",
+      "Obiectivul nostru în primă fază este să reducem inflamația, să eliberăm articulația și să recuperăm mobilitatea",
+      "văd că aveți umerii un pic aduși în față, probabil de la calculator"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22123,
+    "inference_geo": "global",
+    "input_tokens": 334,
+    "output_tokens": 3662,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

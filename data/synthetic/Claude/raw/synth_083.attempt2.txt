@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă vă vedeți astăzi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, zona de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Deci zona lombară. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc. Am ridicat ceva.\nSPEAKER_00: Ați ridicat ceva, am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum e acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Și când e mai rău, dimineața sau seara?\nSPEAKER_01: Dimineața.\nSPEAKER_00: Dimineața. Durerea se lasă și pe picior, pe fesă?\nSPEAKER_01: Nu.\nSPEAKER_00: Strict jos în spate?\nSPEAKER_01: Da.\nSPEAKER_00: Amorțeli la picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Altundeva mai doare ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Ibuprofen.\nSPEAKER_00: Ibuprofen. Ce doză?\nSPEAKER_01: 400.\nSPEAKER_00: De câte ori pe zi?\nSPEAKER_01: Una, două. Nu știu exact.\nSPEAKER_00: Cam o dată, două pe zi. Altceva nu luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Antecedente, boli cunoscute? Tensiune, diabet, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Hernie de disc știți dacă aveți?\nSPEAKER_01: Nu știu.\nSPEAKER_00: RMN, radiografie ați făcut vreodată la coloană?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să stați puțin în picioare, cu spatele la mine.\nSPEAKER_01: Bine.\nSPEAKER_00: Relaxați umerii. O să apăs puțin pe zona lombară și îmi spuneți unde doare mai tare.\nSPEAKER_01: Aha.\nSPEAKER_00: Aici doare?\nSPEAKER_01: Da.\nSPEAKER_00: Mai jos?\nSPEAKER_01: Tot acolo.\nSPEAKER_00: Deci mai mult pe centru, nu lateral.\nSPEAKER_01: Da, pe mijloc.\nSPEAKER_00: Înclinați-vă puțin spre dreapta, vă rog.\nSPEAKER_01: Doare un pic.\nSPEAKER_00: Un pic. Spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Am înțeles. Deci avem o contractură paravertebrală lombară, mai accentuată pe dreapta. Pare o lombalgie mecanică acută, apărută după efort. O să lucrăm să reducem contractura și să eliberăm mobilitatea. Câteva ședințe și ar trebui să se simtă mai bine.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în jos, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară acută apărută după ridicare de greutate, prezentă de aproximativ două săptămâni.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: Lombalgie mecanică acută, contractură paravertebrală lombară mai accentuată pe dreapta.\nObiective terapeutice: reducerea contracturii musculare, eliberarea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele.", "Am ridicat ceva.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Jos.", "Strict jos în spate?", "Da."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Ibuprofen.", "400."],
+    "evaluare_functionala_initiala": ["Deci avem o contractură paravertebrală lombară, mai accentuată pe dreapta. Pare o lombalgie mecanică acută, apărută după efort. O să lucrăm să reducem contractura și să eliberăm mobilitatea."]
+  }
+}

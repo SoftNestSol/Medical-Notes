@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_070",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere în zona gâtului, de câteva zile",
+      "acum zece zile am observat că nu mai pot întoarce capul normal",
+      "se lasă și pe umăr, pe cel stâng, și uneori simt un fel de amorțeală pe braț, tot stânga"
+    ],
+    "evaluarea_durerii_vas": [
+      "Dimineața, când mă trezesc, e mai rău, aș zice un 8. În cursul zilei mai trece, ajunge la un 5, poate."
+    ],
+    "localizarea_durerii": [
+      "am o durere în zona gâtului",
+      "se lasă și pe umăr, pe cel stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt un fel de amorțeală pe braț, tot stânga",
+      "simt că mi se amorțesc degetele, primele două degete de la mâna stângă"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Mi-a descoperit-o acum doi ani."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Amlodipină, 5 miligrame pe zi."
+    ],
+    "evaluare_functionala_initiala": [
+      "observ că umărul stâng e puțin mai jos decât cel drept",
+      "Avem o mobilitate cervicală limitată destul de clar, mai ales la rotația spre stânga. Presiunea pe zona C5-C6 reproduce amorțeala pe braț, ceea ce înseamnă că avem o iritație la nivelul rădăcinii nervoase în acea zonă.",
+      "Vom lucra pe reducerea contracturii musculare cervicale, pe mobilizarea articulară și pe decompresia radiculară C5-C6."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13854,
+    "inference_geo": "global",
+    "input_tokens": 276,
+    "output_tokens": 3676,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

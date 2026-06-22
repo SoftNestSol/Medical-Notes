@@ -1,0 +1,409 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, doamnă."
+    },
+    {
+      "start": 1.26,
+      "end": 2.06,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 2.18,
+      "end": 5.98,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne vedem azi."
+    },
+    {
+      "start": 6.1,
+      "end": 14.08,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare umărul, cel stâng, de vreo două săptămâni. Și nu știu, mă îngrijorez un pic, că nu-mi trece."
+    },
+    {
+      "start": 14.2,
+      "end": 18.38,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și durerea asta a apărut brusc sau a venit treptat?"
+    },
+    {
+      "start": 18.5,
+      "end": 26.86,
+      "speaker": "SPEAKER_01",
+      "text": "Treptat, adică... la început simțeam ceva mic, o jenă. Și acum s-a accentuat. Nu știu dacă e ceva grav, doamnă doctor."
+    },
+    {
+      "start": 26.98,
+      "end": 41.04,
+      "speaker": "SPEAKER_00",
+      "text": "Nu sunt doctor, sunt terapeut, dar hai să vedem exact ce se întâmplă. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare extrem de rău, cât ați pune durerea acum?"
+    },
+    {
+      "start": 41.16,
+      "end": 46.86,
+      "speaker": "SPEAKER_01",
+      "text": "Acum... undeva la 5. Dar uneori, mai ales noaptea, ajunge la 7, poate chiar 8."
+    },
+    {
+      "start": 46.98,
+      "end": 48.88,
+      "speaker": "SPEAKER_00",
+      "text": "Deci fluctuează. Mai tare noaptea."
+    },
+    {
+      "start": 49.0,
+      "end": 53.56,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact. Mă trezesc din somn câteodată. Și asta mă sperie, sincer."
+    },
+    {
+      "start": 53.68,
+      "end": 59.38,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg că vă îngrijorează. Durerea rămâne strict în umăr sau se lasă și pe braț?"
+    },
+    {
+      "start": 59.5,
+      "end": 67.48,
+      "speaker": "SPEAKER_01",
+      "text": "Se lasă, da. Adică coboară pe... pe brațul ăsta, până pe la cot aproximativ. Uneori și mai jos, dar mai rar."
+    },
+    {
+      "start": 67.6,
+      "end": 69.88,
+      "speaker": "SPEAKER_00",
+      "text": "Mai jos de cot, până unde?"
+    },
+    {
+      "start": 70.0,
+      "end": 76.46,
+      "speaker": "SPEAKER_01",
+      "text": "Păi nu știu sigur, parcă până la încheietură, dar nu mereu. Nu știu dacă am spus bine."
+    },
+    {
+      "start": 76.58,
+      "end": 78.48,
+      "speaker": "SPEAKER_00",
+      "text": "Bine ați spus. Amorțesc degetele?"
+    },
+    {
+      "start": 78.6,
+      "end": 82.4,
+      "speaker": "SPEAKER_01",
+      "text": "Da, câteodată amorțesc, inelar și cel mic. Asta e grav?"
+    },
+    {
+      "start": 82.52,
+      "end": 87.46,
+      "speaker": "SPEAKER_00",
+      "text": "Vom lămuri. Există o cauză clară, ceva ce ați făcut înainte să înceapă?"
+    },
+    {
+      "start": 87.58,
+      "end": 95.94,
+      "speaker": "SPEAKER_01",
+      "text": "Am mutat niște cutii acum vreo trei săptămâni, mai grele. Am tras de ele și din seara aia a început să doară."
+    },
+    {
+      "start": 96.06,
+      "end": 102.14,
+      "speaker": "SPEAKER_00",
+      "text": "Deci a apărut după un efort fizic, un travaliu de... cum ați spus, niște cutii grele."
+    },
+    {
+      "start": 102.26,
+      "end": 108.72,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, exact. Am ridicat și am tras de ele, nu știu, poate n-am stat bine."
+    },
+    {
+      "start": 108.84,
+      "end": 111.12,
+      "speaker": "SPEAKER_00",
+      "text": "Când ridicați brațul stâng sus, doare?"
+    },
+    {
+      "start": 111.24,
+      "end": 119.6,
+      "speaker": "SPEAKER_01",
+      "text": "Da, foarte tare, nu pot să ridic brațul deasupra capului. Adică ajung până pe la nivelul ăsta, și gata, nu mai merge."
+    },
+    {
+      "start": 119.72,
+      "end": 122.0,
+      "speaker": "SPEAKER_00",
+      "text": "Și când duceți brațul în spate?"
+    },
+    {
+      "start": 122.12,
+      "end": 124.78,
+      "speaker": "SPEAKER_01",
+      "text": "Și aia doare, da. Mă cam blochează."
+    },
+    {
+      "start": 124.9,
+      "end": 130.22,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Stați puțin, ridic eu brațul... spuneți-mi când simțiți că doare mai tare."
+    },
+    {
+      "start": 130.34,
+      "end": 133.0,
+      "speaker": "SPEAKER_01",
+      "text": "Acum... acum! Pe la jumătate, da. Aoleo."
+    },
+    {
+      "start": 133.12,
+      "end": 138.82,
+      "speaker": "SPEAKER_00",
+      "text": "Deci avem un arc dureros la abducție, undeva pe la 70-80 de grade. Bine."
+    },
+    {
+      "start": 138.94,
+      "end": 140.46,
+      "speaker": "SPEAKER_01",
+      "text": "E grav ce am?"
+    },
+    {
+      "start": 140.58,
+      "end": 146.66,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să terminăm testarea și vă explic tot. Ați mai avut probleme cu umărul ăsta înainte?"
+    },
+    {
+      "start": 146.78,
+      "end": 150.58,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată. Ăsta e prima dată. Asta mă și miră."
+    },
+    {
+      "start": 150.7,
+      "end": 153.74,
+      "speaker": "SPEAKER_00",
+      "text": "Alte dureri în afară de umăr și braț?"
+    },
+    {
+      "start": 153.86,
+      "end": 158.8,
+      "speaker": "SPEAKER_01",
+      "text": "Mă mai doare ceafa, dar aia e de mult. De ani de zile."
+    },
+    {
+      "start": 158.92,
+      "end": 164.62,
+      "speaker": "SPEAKER_00",
+      "text": "De mult timp cervicalul. Și în ultima perioadă s-a accentuat sau e la fel?"
+    },
+    {
+      "start": 164.74,
+      "end": 170.06,
+      "speaker": "SPEAKER_01",
+      "text": "La fel, nu s-a schimbat mare lucru. E o durere surdă, stă acolo."
+    },
+    {
+      "start": 170.18,
+      "end": 172.46,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Vârstă dacă pot să întreb?"
+    },
+    {
+      "start": 172.58,
+      "end": 173.72,
+      "speaker": "SPEAKER_01",
+      "text": "51 de ani."
+    },
+    {
+      "start": 173.84,
+      "end": 174.98,
+      "speaker": "SPEAKER_00",
+      "text": "Mulțumesc. Și ocupația?"
+    },
+    {
+      "start": 175.1,
+      "end": 177.76,
+      "speaker": "SPEAKER_01",
+      "text": "Lucrez la birou, stau mult pe calculator."
+    },
+    {
+      "start": 177.88,
+      "end": 183.58,
+      "speaker": "SPEAKER_00",
+      "text": "Deci postură statică multe ore. Antecedente medicale, aveți ceva diagnosticat? Tensiune, diabet, probleme cu oasele?"
+    },
+    {
+      "start": 183.7,
+      "end": 187.88,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am tensiune. De vreo patru ani iau pastile pentru asta."
+    },
+    {
+      "start": 188.0,
+      "end": 190.66,
+      "speaker": "SPEAKER_00",
+      "text": "Ce pastile luați pentru tensiune, dacă știți?"
+    },
+    {
+      "start": 190.78,
+      "end": 194.58,
+      "speaker": "SPEAKER_01",
+      "text": "Iau... Lorista, parcă. Da, Lorista 50. O dată pe zi."
+    },
+    {
+      "start": 194.7,
+      "end": 196.6,
+      "speaker": "SPEAKER_00",
+      "text": "Altceva în afară de Lorista?"
+    },
+    {
+      "start": 196.72,
+      "end": 204.7,
+      "speaker": "SPEAKER_01",
+      "text": "Mai iau uneori câte un Algocalmin când mă doare rău umărul. Dar nu în fiecare zi, doar când nu mai pot."
+    },
+    {
+      "start": 204.82,
+      "end": 207.1,
+      "speaker": "SPEAKER_00",
+      "text": "Deci Algocalmin la nevoie. Bine. Diabet?"
+    },
+    {
+      "start": 207.22,
+      "end": 208.74,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am diabet."
+    },
+    {
+      "start": 208.86,
+      "end": 210.76,
+      "speaker": "SPEAKER_00",
+      "text": "Osteoporoză, artroză, hernie de disc?"
+    },
+    {
+      "start": 210.88,
+      "end": 222.66,
+      "speaker": "SPEAKER_01",
+      "text": "Nu mi s-a spus nimic din astea. Deși... am făcut o radiografie la coloană acum doi ani și mi-au zis ceva de scolioză, dar mică, că nu e gravă."
+    },
+    {
+      "start": 222.78,
+      "end": 224.68,
+      "speaker": "SPEAKER_00",
+      "text": "Scolioză ușoară. Ok. Intervenții chirurgicale?"
+    },
+    {
+      "start": 224.8,
+      "end": 225.94,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nicio operație."
+    },
+    {
+      "start": 226.06,
+      "end": 227.2,
+      "speaker": "SPEAKER_00",
+      "text": "Boli autoimune, cancer?"
+    },
+    {
+      "start": 227.32,
+      "end": 228.46,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, doamne ferește."
+    },
+    {
+      "start": 228.58,
+      "end": 229.38,
+      "speaker": "SPEAKER_00",
+      "text": "Alergii?"
+    },
+    {
+      "start": 229.5,
+      "end": 231.02,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu de niciuna."
+    },
+    {
+      "start": 231.14,
+      "end": 237.98,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Haideți să vă apăs puțin pe umăr, pe zona asta de aici, și îmi spuneți dacă doare."
+    },
+    {
+      "start": 238.1,
+      "end": 239.62,
+      "speaker": "SPEAKER_01",
+      "text": "Da, doare. Chiar tare."
+    },
+    {
+      "start": 239.74,
+      "end": 242.4,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe zona asta, mai spre ceafă?"
+    },
+    {
+      "start": 242.52,
+      "end": 245.94,
+      "speaker": "SPEAKER_01",
+      "text": "Și aia doare, da. E legată una de alta?"
+    },
+    {
+      "start": 246.06,
+      "end": 266.96,
+      "speaker": "SPEAKER_00",
+      "text": "Cel mai probabil, da. Vedeți, mușchii de la nivelul gâtului și umărului lucrează împreună. Când s-a produs efortul ăla cu cutiile, cel mai probabil s-au suprasolicitat tendoanele din zona umărului, mai exact ce numim zona manșetei rotatorilor, și în același timp s-a blocat și musculatura cervicală care era deja sensibilă la dumneavoastră."
+    },
+    {
+      "start": 267.08,
+      "end": 270.12,
+      "speaker": "SPEAKER_01",
+      "text": "Adică am ceva rupt acolo? Mă sperie tare."
+    },
+    {
+      "start": 270.24,
+      "end": 282.02,
+      "speaker": "SPEAKER_00",
+      "text": "Nu neapărat rupt. Avem o inflamație la nivelul tendoanelor, posibil o tendinopatie de supraspinos, plus o blocare musculară cervicală. Dar pentru a fi siguri, ar fi util un RMN de umăr."
+    },
+    {
+      "start": 282.14,
+      "end": 284.42,
+      "speaker": "SPEAKER_01",
+      "text": "Deci trebuie să merg la doctor?"
+    },
+    {
+      "start": 284.54,
+      "end": 292.9,
+      "speaker": "SPEAKER_00",
+      "text": "Recomand să faceți investigația, da. Între timp putem lucra să reducem inflamația și să deblochăm musculatura, să nu stea lucrurile pe loc."
+    },
+    {
+      "start": 293.02,
+      "end": 294.54,
+      "speaker": "SPEAKER_01",
+      "text": "Și o să treacă?"
+    },
+    {
+      "start": 294.66,
+      "end": 301.12,
+      "speaker": "SPEAKER_00",
+      "text": "Cu terapia corectă, da, în general se ameliorează bine. Dar depinde și de ce arată RMN-ul."
+    },
+    {
+      "start": 301.24,
+      "end": 303.52,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, am înțeles. Mă liniștesc puțin."
+    },
+    {
+      "start": 303.64,
+      "end": 305.92,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Haideți să trecem la treabă."
+    }
+  ]
+}

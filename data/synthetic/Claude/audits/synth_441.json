@@ -1,0 +1,42 @@
+{
+  "conversation_id": "synth_441",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "Stau mult la calculator.",
+      "Și pe umăr. Pe partea dreaptă."
+    ],
+    "evaluarea_durerii_vas": [
+      "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare e durerea acum?\nSPEAKER_01: Un 5.",
+      "Și la cel mai rău moment al zilei?\nSPEAKER_01: Un 7."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Și pe umăr. Pe partea dreaptă."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară în zona cervicală, pe trapez și ridicătorul scapulei, predominant pe dreapta",
+      "Mobilitatea e redusă spre dreapta și postura la calculator agravează tot",
+      "O să lucrăm să reducem contractura, să refacem mobilitatea și o să vorbim și despre poziția la birou",
+      "Umerii sunt puțin ridicați și capul e dus înainte față de linia umerilor"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 13823
+    },
+    "cache_creation_input_tokens": 13823,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 2189,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

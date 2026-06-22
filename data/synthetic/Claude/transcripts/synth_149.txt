@@ -1,0 +1,75 @@
+SPEAKER_00: Bună ziua, doamnă!
+SPEAKER_01: Bună ziua.
+SPEAKER_00: Spuneți-mi, vă rog, cum vă numiți?
+SPEAKER_01: Ionescu Mihaela.
+SPEAKER_00: Ionescu Mihaela, bun. Și vârsta, dacă se poate?
+SPEAKER_01: Am 47 de ani.
+SPEAKER_00: Mulțumesc. Și cu ce problemă ne vedem astăzi, doamna Ionescu?
+SPEAKER_01: Păi, mă doare... undeva pe la spate, pe partea asta, cam de vreo câteva săptămâni. Nu știu exact cum să zic, e un fel de... mă ține, mă strânge.
+SPEAKER_00: Pe la spate, adică mai sus, mai jos, pe mijloc?
+SPEAKER_01: Mai degrabă pe la mijloc, jos, pe aici, undeva pe la... nu știu exact cum se numește.
+SPEAKER_00: Zona lombară, mai jos de talie.
+SPEAKER_01: Da, da, cam pe acolo. Și uneori mai simt ceva și mai sus, dar mai rar.
+SPEAKER_00: Mai sus, adică în zona umerilor, a toracelui, sau chiar sus?
+SPEAKER_01: Pe la mijlocul spatelui, nu chiar sus la gât. Undeva pe acolo, pe la omoplați poate.
+SPEAKER_00: Între omoplați, zona toracală.
+SPEAKER_01: Da, ceva de genul, dar mai rar zic, mai ales lombarul mă deranjează.
+SPEAKER_00: Bun. Și aceste dureri s-au instalat treptat sau au apărut brusc la un moment dat?
+SPEAKER_01: Treptat, cred. Adică nu am căzut, nu am ridicat nimic special, pur și simplu a început să mă doară din ce în ce mai tare. Stau foarte mult pe scaun la serviciu, probabil de aia.
+SPEAKER_00: Cât stați pe scaun în mod obișnuit pe zi?
+SPEAKER_01: Păi, opt, nouă ore, uneori chiar mai mult. Lucrez la calculator.
+SPEAKER_00: Înțeles. Și durerea se lasă undeva în jos, pe picior, pe fesă?
+SPEAKER_01: Uneori simt ceva și pe aici, pe partea stângă, pe fesă, dar nu știu dacă e legat sau nu.
+SPEAKER_00: Și mai departe de fesă coboară, spre coapsă, spre genunchi?
+SPEAKER_01: Nu știu... câteodată parcă simt ceva pe coapsă dar trece repede, nu sunt sigură. Poate îmi imaginez.
+SPEAKER_00: Ok, notăm și asta. Durerea este mai rea dimineața, seara, sau constant?
+SPEAKER_01: Dimineața mă trezesc și parcă mă ține, mă mișc greu vreo jumătate de oră. Și după ce stau mult pe scaun iar apare.
+SPEAKER_00: Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e durerea maximă, cât ați pune-o?
+SPEAKER_01: Hmm, nu știu, e greu de zis. Uneori e suportabilă, alteori mă enervează. Cam pe la... nu știu, pe la un 5, 6, ceva de genul.
+SPEAKER_00: Un 5-6. Dimineața când vă treziți?
+SPEAKER_01: Dimineața e mai rău, poate un 7, nu știu sigur.
+SPEAKER_00: Înțeles. Și ați mai avut această problemă în trecut sau e prima dată?
+SPEAKER_01: Am mai avut acum vreo doi ani ceva la spate, dar a trecut singur. Acum e mai persistent.
+SPEAKER_00: Ați făcut vreun tratament atunci, vreun RMN, radiografie?
+SPEAKER_01: Nu, nu am facut nimic atunci. De data asta am facut o radiografie acum vreo lună.
+SPEAKER_00: Aveți radiografia la dumneavoastră?
+SPEAKER_01: Nu am adus-o, am uitat. Dar mi-a spus medicul că am o mică hernie de disc.
+SPEAKER_00: O hernie de disc, bun, ați menționat asta. La ce nivel v-a spus, L4, L5, L5-S1?
+SPEAKER_01: Nu mai știu exact, undeva pe la baza spatelui mi-a zis. Nu am înțeles prea bine.
+SPEAKER_00: Ok. Alte afecțiuni mai aveți, cum ar fi tensiune arterială, diabet, osteoporoză, probleme la inimă?
+SPEAKER_01: Tensiune am, da. Mi s-a zis că am tensiune un pic mai mare, iau și pastile pentru asta.
+SPEAKER_00: Ce pastile luați pentru tensiune, știți cum se numesc?
+SPEAKER_01: Stai să mă gândesc... Perindopril, cred că se numesc. Iau o pastilă pe zi dimineața.
+SPEAKER_00: Perindopril, o dată pe zi. Orice altceva luați?
+SPEAKER_01: Mai iau uneori câte un ibuprofen când mă doare prea tare spatele, dar nu în fiecare zi.
+SPEAKER_00: Ibuprofen, la nevoie, bun. Altceva?
+SPEAKER_01: Nu, cred că atât.
+SPEAKER_00: Diabet?
+SPEAKER_01: Nu.
+SPEAKER_00: Osteoporoză diagnosticată?
+SPEAKER_01: Nu, nu mi s-a spus nimic.
+SPEAKER_00: Epilepsie, cancer, boli autoimune?
+SPEAKER_01: Nu, nu, nimic din astea.
+SPEAKER_00: Intervenții chirurgicale?
+SPEAKER_01: Am avut o operație de apendicită acum mulți ani. Atât.
+SPEAKER_00: Bun. Alergii la creme, unguente?
+SPEAKER_01: Nu știu, nu am folosit prea mult. Nu cred.
+SPEAKER_00: Bun. Haideți să facem câteva teste funcționale, dacă sunteți de acord. Ridicați-vă în picioare, vă rog.
+SPEAKER_01: Da.
+SPEAKER_00: Aplecați-vă ușor în față, cât puteți, fără să forțați.
+SPEAKER_01: Ah, da, aici apare, pe la spate jos.
+SPEAKER_00: Simțiți că se lasă și pe fesa stângă când vă aplecați?
+SPEAKER_01: Da, un pic, pe acolo.
+SPEAKER_00: Îndreptați-vă. Acum aplecați-vă ușor spre dreapta. Doare?
+SPEAKER_01: Nu prea, nu.
+SPEAKER_00: Spre stânga.
+SPEAKER_01: Ah, da, ici simț ceva, pe partea stângă jos.
+SPEAKER_00: Pe zona lombară stângă. Bun. Stați așa, nu vă mișcați. Voi apăsa acum pe mușchii paravertebrali. Spuneți-mi dacă doare.
+SPEAKER_01: Auuu, da, acolo e, pe stânga jos.
+SPEAKER_00: Pe stânga, zona lombară, piriform mai jos doare?
+SPEAKER_01: Da, și acolo ceva.
+SPEAKER_00: Bun. Mergeți câțiva pași, normal, stați pe piciorul stâng, vă simțiți bine în echilibru?
+SPEAKER_01: Cam da, dar mi se pare că mă înclini un pic.
+SPEAKER_00: Observ că aveți o ușoară înclinare a bazinului spre stânga și o tensionare evidentă pe toată zona lombară. Mușchii paravertebrali sunt contractați bilateral, mai mult pe stânga. Piriformul stâng este și el sensibil. Combinat cu hernia de disc pe care ați menționat-o, obiectivul principal va fi să reducem contractura musculară și inflamația, ca să avem o bază mai bună pentru mobilizare. Vom lucra progresiv, cu blândețe, mai ales că avem și tensiunea arterială în calcul.
+SPEAKER_01: Da, înțeleg. Și credeți că o să treacă?
+SPEAKER_00: Cu siguranță putem să îmbunătățim semnificativ, da. Haideți să trecem la treabă.

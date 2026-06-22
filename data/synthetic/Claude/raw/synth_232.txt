@@ -1,0 +1,27 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut din senin sau după ceva anume?\nSPEAKER_01: Nu știu, m-am trezit dimineața și era.\nSPEAKER_00: Înțeles. Doare și în ceafă sau mai jos, spre umăr?\nSPEAKER_01: Mai mult în ceafă. Și puțin pe umărul stâng.\nSPEAKER_00: Pe umărul stâng. Se lasă durerea și pe braț, amorțește ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maximul, unde vă situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare mai tare când întoarceți capul sau când stați nemișcat?\nSPEAKER_01: Când îl întorc.\nSPEAKER_00: În ce parte?\nSPEAKER_01: Mai mult spre dreapta.\nSPEAKER_00: Spre dreapta. Și la calculator sau la birou stați mult?\nSPEAKER_01: Da.\nSPEAKER_00: Cât pe zi aproximativ?\nSPEAKER_01: Vreo opt ore.\nSPEAKER_00: Opt ore la birou. Înțeles. Alte afecțiuni, tensiune, diabet, epilepsie, osteoporoză?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme sau unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva verificări. Întoarceți capul ușor spre dreapta pentru mine.\nSPEAKER_01: Pân-aici pot.\nSPEAKER_00: Da, vedem că rotația spre dreapta e limitată. Acum spre stânga.\nSPEAKER_01: Asta merge mai bine.\nSPEAKER_00: Da, stânga e mai liberă. Aplecați capul puțin spre piept.\nSPEAKER_01: Doare puțin în ceafă.\nSPEAKER_00: Doare în ceafă la flexie. Bun. O să apăs puțin pe mușchii de lângă coloana cervicală, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Contractură musculară destul de pronunțată pe zona cervicală, mai ales pe dreapta. Și pe umărul stâng o să apăs puțin.\nSPEAKER_01: Mmm, doare.\nSPEAKER_00: Doare. Trapezul stâng e și el încordat. Ce pot să vă spun este că avem o contractură cervicală cu iradiere spre umărul stâng, cel mai probabil legată și de postura la birou. Va trebui să lucrăm la reducerea tensiunii musculare și să îmbunătățim mobilitatea pe rotație dreaptă. Câteva ședințe ar trebui să rezolve lucrurile.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "durere cervicala si umar stang",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa",
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- contractura cervicala cu iradiere spre umar stang\n- rotatie dreapta limitata\n- trapez stang incordat\nObiective terapeutice:\n- reducerea tensiunii musculare\n- imbunatatirea mobilitatii pe rotatie dreapta"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul", "Mai mult în ceafă. Și puțin pe umărul stâng."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare gâtul", "Mai mult în ceafă. Și puțin pe umărul stâng.", "Mai mult în ceafă"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Contractură musculară destul de pronunțată pe zona cervicală, mai ales pe dreapta.", "Trapezul stâng e și el încordat.", "avem o contractură cervicală cu iradiere spre umărul stâng", "Va trebui să lucrăm la reducerea tensiunii musculare și să îmbunătățim mobilitatea pe rotație dreaptă.", "vedem că rotația spre dreapta e limitată"]
+  }
+}

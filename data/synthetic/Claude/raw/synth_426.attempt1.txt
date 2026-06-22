@@ -1,0 +1,53 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamnă. Spuneți-mi vă rog cum vă numiți.\nSPEAKER_01: Bună ziua. Mă numesc Andreea Ionescu.\nSPEAKER_00: Bine ați venit, doamnă Andreea. Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul stâng de ceva vreme, și sincer nu știu dacă e de la serviciu sau de la altceva. Adică eu stau mult la birou, am laptop, și în general tot timpul mâna stângă e undeva mai sus, ținând telefonul sau... nu știu, probabil de acolo.\nSPEAKER_00: De cât timp vă doare?\nSPEAKER_01: Păi de vreo trei săptămâni, poate patru. A început ușor, ziceam că trece, dar nu a trecut. Ba chiar dimineața e mai rău, când mă ridic din pat și încerc să mă îmbrac, că nu pot să ridic mâna sus. Adică ridic, dar mă ține.\nSPEAKER_00: Înțeles. Vă doare și în repaus sau doar la mișcare?\nSPEAKER_01: Și în repaus uneori, mai ales noaptea când stau pe partea stângă. Trebuie să mă întorc. Dar cel mai rău e când ridic brațul sau când încerc să pun ceva pe raft sus, de exemplu.\nSPEAKER_00: Durerea coboară pe braț în jos sau rămâne în umăr?\nSPEAKER_01: Păi uneori simt ceva și pe... pe-aici, pe braț, în sus, nu mai jos de cot. Dar în principal e la umăr.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 doare foarte rău, unde vă situați?\nSPEAKER_01: Așa, la mișcare aș zice un 7. În repaus poate un 3, 4.\nSPEAKER_00: Și cel mai rău e când ridicați brațul?\nSPEAKER_01: Da, da, sus mai ales. Și când încerc să ajung la spate, să mă prind, știți, cu mâna la spate. Aia nu pot deloc.\nSPEAKER_00: Ați căzut, ați lovit umărul, ceva traumatism?\nSPEAKER_01: Nu, nimic. Nu am căzut, nu m-am lovit. Pur și simplu a apărut. Poate că am dormit strâmb la un moment dat, nu știu, sau am stat prea mult cu laptopul ridic... am stat cu umărul ridicat, știți cum faci când ești tensionat la muncă.\nSPEAKER_00: Da, înțeleg. Alte afecțiuni aveți, tensiune, diabet, osteoporoză, ceva de genul?\nSPEAKER_01: Nu, nu am nimic. Sunt sănătoasă, mulțumesc lui Dumnezeu. Adică mai am și eu câte un episod de spate jos când stau prea mult, dar aia trece de la sine.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Ei, am luat un Diclofenac acum vreo două săptămâni, vreo două-trei zile, că m-am gândit că ajută. A mai calmat un pic, dar după ce am oprit a revenit.\nSPEAKER_00: Altceva, gel, unguent?\nSPEAKER_01: Am mai pus un gel, un Voltaren, dar rar, nu regulat.\nSPEAKER_00: Ok. Haideți să facem câteva teste acum. Ridicați brațul stâng în față, încet, și spuneți-mi unde apare durerea.\nSPEAKER_01: Apare pe-aici, cam la jumătate... cam când mâna e la nivelul umărului, de acolo începe să doară. Mai sus doare mai rău.\nSPEAKER_00: Înțeles. Acum lăsați brațul în jos și încercați să-l ridicați lateral, ca o aripă.\nSPEAKER_01: Asta doare imediat ce ridic. Da, chiar de jos doare puțin, dar la mijloc mai rău.\nSPEAKER_00: Bun. O să apăs ușor pe zona asta de sub acromion. Doare?\nSPEAKER_01: Da, doare, da. Acolo exact.\nSPEAKER_00: Și dacă apăs ici, mai spre biceps?\nSPEAKER_01: Da, și acolo simt ceva, dar mai puțin.\nSPEAKER_00: Rotiți brațul spre interior, ca și cum ați băga mâna la spate.\nSPEAKER_01: Asta nu pot. Adică încerc, dar mă blochează. Și mă tem să forțez, că mi-e că fac ceva rău, nu știu.\nSPEAKER_00: Nu forțați, e în regulă, oprim aici. Deci ce pot să vă spun este că avem o inflamație la nivelul tendoanelor din umăr, ce numim în general tendinopatie a coifului rotatorilor, probabil și o iritație a bursei subacromiale. Asta explică durerea la ridicarea brațului și limitarea rotației.\nSPEAKER_01: Și se poate rezolva? Că mă gândeam că poate trebuie operație sau ceva și mă speriasem.\nSPEAKER_00: În marea majoritate a cazurilor, cu terapie manuală și exerciții specifice se rezolvă fără intervenție chirurgicală. O să lucrăm pe reducerea inflamației și pe refacerea mobilității umărului.\nSPEAKER_01: Bine, mă bucur. Că mă tot gândeam noaptea la asta și nu știam ce să cred.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang de aproximativ 3-4 saptamani, aparuta spontan, agravata la ridicarea bratului si rotatia interna, prezenta si in repaus nocturn.",
+    "evaluarea_durerii_vas": [7, 3],
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": "braț stâng superior (deasupra cotului)",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Diclofenac",
+        "doza": null
+      },
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinopatie coif rotatori; iritatie bursa subacomiala stanga.\nObiective terapeutice: reducerea inflamatiei; refacerea mobilitatii umarului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul stâng de ceva vreme",
+      "de vreo trei săptămâni, poate patru",
+      "cel mai rău e când ridic brațul sau când încerc să pun ceva pe raft sus",
+      "noaptea când stau pe partea stângă"
+    ],
+    "evaluarea_durerii_vas": [
+      "la mișcare aș zice un 7",
+      "În repaus poate un 3, 4"
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul stâng",
+      "în principal e la umăr"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt ceva și pe... pe-aici, pe braț, în sus, nu mai jos de cot"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "am luat un Diclofenac acum vreo două săptămâni",
+      "Am mai pus un gel, un Voltaren, dar rar, nu regulat"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendoanelor din umăr, ce numim în general tendinopatie a coifului rotatorilor, probabil și o iritație a bursei subacromiale",
+      "O să lucrăm pe reducerea inflamației și pe refacerea mobilității umărului"
+    ]
+  }
+}

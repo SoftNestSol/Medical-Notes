@@ -1,0 +1,45 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamnă.\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă vă confruntați.\nSPEAKER_01: Păi, mă doare ceafa îngrozitor, adică nu mai pot să dorm noaptea, mă trezesc, întorc capul și parcă mă împunge ceva acolo, în ceafă, pe partea dreaptă mai mult, dar uneori și tot gâtul, nu știu cum să explic.\nSPEAKER_00: Ok. De cât timp aveți această durere?\nSPEAKER_01: De vreo două săptămâni, da, cam așa. Deși, dacă stau să mă gândesc, am mai avut și înainte, dar nu așa tare. Acum parcă s-a înrăutățit brusc, nu știu de ce, poate de la frig, sau poate că stau prea mult la calculator la serviciu, că lucrez în contabilitate și stau opt ore cu capul plecat, nu știu.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum apreciați durerea?\nSPEAKER_01: Acum în momentul ăsta, cam un 5. Dar noaptea sau dimineața când mă trezesc, ajunge la un 8, e mult mai rău. Dimineața e cel mai greu.\nSPEAKER_00: Dimineața e mai intensă, deci.\nSPEAKER_01: Da, da. Și când mă uit în lateral, mai ales spre dreapta, mă doare tare. Spre stânga merge mai bine.\nSPEAKER_00: Durerea se lasă undeva, pe umăr, pe braț, simțiți ceva?\nSPEAKER_01: Nu, nu, nu coboară. Adică uneori am un pic de tensiune în umărul drept, dar nu e o durere, e mai mult o greutate, nu știu dacă e legat. Durerea e sus, în ceafă.\nSPEAKER_00: Bun. Amorțeli la mâini, degete?\nSPEAKER_01: Nu, nu am. Cel puțin nu am observat.\nSPEAKER_00: Dureri de cap asociate?\nSPEAKER_01: Da, și asta voiam să zic, că am și dureri de cap, mai ales la baza craniului, uite, pe aici. Câteodată urcă și pe ceafă în sus. Nu știu dacă e din cauza cefei sau e altceva, că m-am gândit și la tensiune, dar nu am tensiune, mi-am măsurat.\nSPEAKER_00: Înțeleg. Amețeli, vertij?\nSPEAKER_01: Nu, nu am amețeli. Ei, poate o dată sau de două ori am simțit ceva când mă ridic repede, dar trece imediat, nu știu dacă contează.\nSPEAKER_00: Alte afecțiuni știute, diabet, tensiune, probleme de coloană diagnosticate?\nSPEAKER_01: Nu, nu am nimic din astea. Sunt relativ sănătoasă, nu iau nimic regulat. Am folosit un gel, un Voltaren, când mă doare, îl pun seara pe ceafă, mai ajută un pic. Dar asta-i tot.\nSPEAKER_00: Câte ședințe pe zi petreceți la calculator, aproximativ?\nSPEAKER_01: Opt ore, uneori și mai mult. Și am și telefonul, știți cum e, și acasă mai stau, deci capul e mereu puțin apleat în față. Soțul meu îmi zice mereu că stau strâmb.\nSPEAKER_00: Ok. Stați puțin dreaptă, cu spatele la mine.\nSPEAKER_01: Așa?\nSPEAKER_00: Da. Vedem că aveți capul ușor proiectat în față, postura e înaintată față de linia de greutate. Mușchii cefei sunt contracturați bilateral, mai accentuat pe dreapta. Când fac presiune aici, la baza craniului, doare?\nSPEAKER_01: Au, da, doare, exact acolo e.\nSPEAKER_00: Și dacă duceți bărbia spre piept?\nSPEAKER_01: Merge, dar simt o tracțiune în ceafă.\nSPEAKER_00: Spre dreapta?\nSPEAKER_01: Ah, asta deja doare mai tare, da.\nSPEAKER_00: Înțeleg. Avem o contractură cervicală marcată, mai ales suboccipital și paravertebral cervical pe dreapta, cu limitare a rotației drepte. Cel mai probabil e o disfuncție cervicală superioară pe fond postural, agravată de poziția îndelungată la calculator. Vom lucra pe reducerea contracturii și pe mobilizarea segmentelor cervicale, iar pe termen mai lung trebuie să corectăm și postura.\nSPEAKER_01: Și o să treacă? Că mă tem că e ceva mai grav, că am citit pe internet tot felul de lucruri.\nSPEAKER_00: Înțeleg teama, dar ce vedem la examinare e consistent cu o problemă musculo-articulară cervicală, fără semne de iritație nervoasă la moment. Mergem pas cu pas.\nSPEAKER_01: Ok, bine, am înțeles. Mulțumesc.",
+  "note": {
+    "motivul_prezentarii": "Pacienta acuză durere cervicală posterioară (ceafă), predominant pe dreapta, de aproximativ două săptămâni, cu agravare nocturnă și matinală (VAS 8/10 dimineața, 5/10 în repaus). Asociază dureri de cap la baza craniului. Lucrează 8 ore/zi la calculator în poziție cu capul aplecat.",
+    "evaluarea_durerii_vas": [5, 8],
+    "localizarea_durerii": ["cervical", "cap_ceafa"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nCap proiectat anterior față de linia de greutate. Contractură musculară bilaterală cervicală, mai accentuată pe dreapta. Durere la presiune suboccipitală. Limitarea rotației cervicale drepte.\nDiagnostic:\nDisfuncție cervicală superioară pe fond postural, cu contractură paravertebrală cervicală și suboccipitală, fără semne de iritație nervoasă.\nObiective terapeutice:\nReducerea contracturii cervicale; mobilizarea segmentelor cervicale; corectarea posturii."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare ceafa îngrozitor, adică nu mai pot să dorm noaptea, mă trezesc, întorc capul și parcă mă împunge ceva acolo, în ceafă, pe partea dreaptă mai mult",
+      "De vreo două săptămâni, da, cam așa",
+      "stau opt ore cu capul plecat, nu știu"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum în momentul ăsta, cam un 5. Dar noaptea sau dimineața când mă trezesc, ajunge la un 8"
+    ],
+    "localizarea_durerii": [
+      "mă doare ceafa îngrozitor",
+      "am și dureri de cap, mai ales la baza craniului, uite, pe aici"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am folosit un gel, un Voltaren, când mă doare, îl pun seara pe ceafă"
+    ],
+    "evaluare_functionala_initiala": [
+      "aveți capul ușor proiectat în față, postura e înaintată față de linia de greutate",
+      "Mușchii cefei sunt contracturați bilateral, mai accentuat pe dreapta",
+      "Avem o contractură cervicală marcată, mai ales suboccipital și paravertebral cervical pe dreapta, cu limitare a rotației drepte",
+      "cel mai probabil e o disfuncție cervicală superioară pe fond postural, agravată de poziția îndelungată la calculator",
+      "Vom lucra pe reducerea contracturii și pe mobilizarea segmentelor cervicale, iar pe termen mai lung trebuie să corectăm și postura"
+    ]
+  }
+}

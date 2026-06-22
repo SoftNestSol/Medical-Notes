@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "Pacient cu durere cervicală și ceafă, cu propagare spre cap (senzație de presiune craniană), debut acut acum 10 zile după efort prelungit la calculator, pe fond de muncă sedentară la birou (contabilitate). Redoare matinală prezentă, cedează parțial după 30-60 minute. Episod similar în urmă cu 2 ani, rezolvat spontan.",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "cervical",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nPostură cu cap proiectat anterior față de linia umerilor. Limitarea rotației cervicale drepte (dureroasă), rotație stângă parțial conservată. Contractură musculară la nivelul mușchilor suboccipitali și paravertebrali cervicali dreapta la palpare.\nDiagnostic:\nContractură musculară cervicală acutizată pe fond postural (muncă la birou, postura cu capul dus în față), cu cefalee de tensiune secundară.\nObiective terapeutice:\nRelaxarea musculaturii cervicale contracturate; corectarea posturii; ameliorarea durerii și a cefaleei asociate; recuperarea mobilității cervicale."
+}

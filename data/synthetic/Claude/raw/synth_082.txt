@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște cutii.\nSPEAKER_00: Și de atunci doare?\nSPEAKER_01: Da.\nSPEAKER_00: Doare tot timpul sau numai când mișcați brațul?\nSPEAKER_01: Când îl ridic.\nSPEAKER_00: Când îl ridicați sus, da?\nSPEAKER_01: Da, și când dau brațul în spate.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde situați durerea?\nSPEAKER_01: Un 7.\nSPEAKER_00: 7. Doare și în repaus, noaptea?\nSPEAKER_01: Noaptea un pic, dacă stau pe el.\nSPEAKER_00: Înțeles. Se lasă durerea și pe braț în jos, pe cot, pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeli în mână, degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici antiinflamatoare, nimic?\nSPEAKER_01: Am luat un ibuprofen acum vreo săptămână, dar nu mai iau.\nSPEAKER_00: Înțeles. Haideți să ridicați brațul drept în față, sus. Doare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Acum stângul, ridicați-l la fel în față, ușor.\nSPEAKER_01: Au, de pe la jumătate în sus doare.\nSPEAKER_00: De pe la 90 de grade în sus se acutizează, da?\nSPEAKER_01: Da.\nSPEAKER_00: Acum duceți brațul în lateral, la fel.\nSPEAKER_01: La fel, de la jumătate doare.\nSPEAKER_00: Și dacă duceți brațul în spate, aici, doare?\nSPEAKER_01: Da, acolo doare mai tare.\nSPEAKER_00: Apăs puțin aici pe umăr, spuneți-mi unde simțiți.\nSPEAKER_01: Acolo, da, pe partea din față.\nSPEAKER_00: Pe partea anterioară. Bun. Deci avem o limitare de mobilitate la flexie și abducție de la 90 de grade în sus și durere la rotația internă. Pare o tendinopatie de supraspinos sau o iritație a bursei subacromiale. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng apărută după mutarea unor cutii, de aproximativ două săptămâni, accentuată la ridicarea și rotația brațului.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinopatie de supraspinos / iritație bursă subacromială stângă.\nObiective terapeutice: reducerea inflamației; recâștigarea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Am mutat niște cutii.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un 7."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Pare o tendinopatie de supraspinos sau o iritație a bursei subacromiale. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea."]
+  }
+}

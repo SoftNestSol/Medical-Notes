@@ -1,0 +1,325 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună."
+    },
+    {
+      "start": 1.84,
+      "end": 4.12,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă veniți la noi?"
+    },
+    {
+      "start": 4.24,
+      "end": 5.76,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare spatele jos."
+    },
+    {
+      "start": 5.88,
+      "end": 7.02,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp?"
+    },
+    {
+      "start": 7.14,
+      "end": 8.28,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo două săptămâni."
+    },
+    {
+      "start": 8.4,
+      "end": 12.2,
+      "speaker": "SPEAKER_00",
+      "text": "Și a apărut din senin sau ați făcut ceva anume?"
+    },
+    {
+      "start": 12.32,
+      "end": 14.6,
+      "speaker": "SPEAKER_01",
+      "text": "Am ridicat niște saci la serviciu."
+    },
+    {
+      "start": 14.72,
+      "end": 20.04,
+      "speaker": "SPEAKER_00",
+      "text": "Ah, deci după efort fizic. Și de atunci doare continuu sau vine și pleacă?"
+    },
+    {
+      "start": 20.16,
+      "end": 22.44,
+      "speaker": "SPEAKER_01",
+      "text": "Mai tot timpul. Mai tare dimineața."
+    },
+    {
+      "start": 22.56,
+      "end": 24.84,
+      "speaker": "SPEAKER_00",
+      "text": "Dimineața când vă ridicați din pat?"
+    },
+    {
+      "start": 24.96,
+      "end": 25.76,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 25.88,
+      "end": 28.54,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe parcursul zilei se mai ameliorează?"
+    },
+    {
+      "start": 28.66,
+      "end": 32.84,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic. Dar dacă stau mult pe scaun iar se înrăutățește."
+    },
+    {
+      "start": 32.96,
+      "end": 40.94,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde situați durerea?"
+    },
+    {
+      "start": 41.06,
+      "end": 41.86,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 7."
+    },
+    {
+      "start": 41.98,
+      "end": 47.3,
+      "speaker": "SPEAKER_00",
+      "text": "7. Și această durere se lasă și pe picior sau e doar în spate?"
+    },
+    {
+      "start": 47.42,
+      "end": 48.56,
+      "speaker": "SPEAKER_01",
+      "text": "Doar în spate."
+    },
+    {
+      "start": 48.68,
+      "end": 53.24,
+      "speaker": "SPEAKER_00",
+      "text": "Strict în zona de jos, de lombar, sau coboară și spre fese?"
+    },
+    {
+      "start": 53.36,
+      "end": 57.92,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult jos, în zona lombară. Uneori un pic pe fesă dreapta."
+    },
+    {
+      "start": 58.04,
+      "end": 62.22,
+      "speaker": "SPEAKER_00",
+      "text": "Pe fesa dreaptă. Și pe picior nu coboară, nu amorțește nimic?"
+    },
+    {
+      "start": 62.34,
+      "end": 63.14,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 63.26,
+      "end": 66.68,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ați mai avut episoade de genul ăsta înainte?"
+    },
+    {
+      "start": 66.8,
+      "end": 69.84,
+      "speaker": "SPEAKER_01",
+      "text": "Acum doi ani ceva, dar a trecut singur."
+    },
+    {
+      "start": 69.96,
+      "end": 73.38,
+      "speaker": "SPEAKER_00",
+      "text": "A trecut de la sine. Și acum nu trece?"
+    },
+    {
+      "start": 73.5,
+      "end": 74.3,
+      "speaker": "SPEAKER_01",
+      "text": "Nu prea."
+    },
+    {
+      "start": 74.42,
+      "end": 77.84,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Luați vreun medicament acum, ceva pentru durere?"
+    },
+    {
+      "start": 77.96,
+      "end": 78.76,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 78.88,
+      "end": 80.4,
+      "speaker": "SPEAKER_00",
+      "text": "Nicio pastilă, niciun antiinflamator?"
+    },
+    {
+      "start": 80.52,
+      "end": 82.42,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, n-am luat nimic."
+    },
+    {
+      "start": 82.54,
+      "end": 84.82,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Tensiune, diabet, osteoporoză, alte boli?"
+    },
+    {
+      "start": 84.94,
+      "end": 85.74,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic."
+    },
+    {
+      "start": 85.86,
+      "end": 86.66,
+      "speaker": "SPEAKER_00",
+      "text": "Operații, fracturi?"
+    },
+    {
+      "start": 86.78,
+      "end": 87.58,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 87.7,
+      "end": 94.92,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți să vă rog să stați în picioare, cu fața la mine. Relaxat, cu mâinile pe lângă corp."
+    },
+    {
+      "start": 95.04,
+      "end": 95.84,
+      "speaker": "SPEAKER_01",
+      "text": "Bun."
+    },
+    {
+      "start": 95.96,
+      "end": 99.38,
+      "speaker": "SPEAKER_00",
+      "text": "Aplecați-vă puțin înainte, spre podea. Doare mai tare?"
+    },
+    {
+      "start": 99.5,
+      "end": 101.02,
+      "speaker": "SPEAKER_01",
+      "text": "Da, simț că trage."
+    },
+    {
+      "start": 101.14,
+      "end": 103.8,
+      "speaker": "SPEAKER_00",
+      "text": "Trage. Și dacă vă aplecați pe spate?"
+    },
+    {
+      "start": 103.92,
+      "end": 104.72,
+      "speaker": "SPEAKER_01",
+      "text": "Și acolo."
+    },
+    {
+      "start": 104.84,
+      "end": 108.64,
+      "speaker": "SPEAKER_00",
+      "text": "Și la extensie. Acum întoarceți-vă ușor spre dreapta. Doare?"
+    },
+    {
+      "start": 108.76,
+      "end": 109.9,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic, da."
+    },
+    {
+      "start": 110.02,
+      "end": 110.82,
+      "speaker": "SPEAKER_00",
+      "text": "Spre stânga?"
+    },
+    {
+      "start": 110.94,
+      "end": 111.74,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 111.86,
+      "end": 119.46,
+      "speaker": "SPEAKER_00",
+      "text": "Deci rotația spre dreapta provoacă mai mult disconfort. Am înțeles. Haideți pe masă acum, cu fața în jos, vă rog."
+    },
+    {
+      "start": 119.58,
+      "end": 120.38,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 120.5,
+      "end": 125.06,
+      "speaker": "SPEAKER_00",
+      "text": "Vă apăs puțin pe zona lombară, îmi spuneți unde doare mai tare."
+    },
+    {
+      "start": 125.18,
+      "end": 126.7,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, acolo. Pe dreapta."
+    },
+    {
+      "start": 126.82,
+      "end": 134.42,
+      "speaker": "SPEAKER_00",
+      "text": "Pe dreapta, da. E o contractură destul de evidentă a musculaturii paravertebrale pe dreapta. Și mai jos, spre sacru, doare?"
+    },
+    {
+      "start": 134.54,
+      "end": 136.06,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic și acolo."
+    },
+    {
+      "start": 136.18,
+      "end": 162.4,
+      "speaker": "SPEAKER_00",
+      "text": "Un pic și acolo. Bun. Vedem că avem o contractură musculară paravertebrală lombară dreaptă, cu iritație și în zona sacrală. Combinată cu rigiditatea de dimineață și cu durerea la flexie și extensie, e o lombalgie acută mecanică, cel mai probabil instalată după efortul cu sacii. O să lucrăm să reducem contractura, să scădem inflamația și să recăpătăm mobilitatea. Ar trebui să simțiți o ușurare după primele două-trei ședințe."
+    },
+    {
+      "start": 162.52,
+      "end": 163.32,
+      "speaker": "SPEAKER_01",
+      "text": "Bine."
+    },
+    {
+      "start": 163.44,
+      "end": 164.58,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să începem."
+    }
+  ]
+}

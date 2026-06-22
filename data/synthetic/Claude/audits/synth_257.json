@@ -1,0 +1,54 @@
+{
+  "conversation_id": "synth_257",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel stâng, de mai mult timp, dar acum s-a agravat și nu mai pot dormi pe partea aia deloc",
+      "Am zugrăvit în casă, cam în perioada aia a început. Eu am stat cu mâna sus mult",
+      "E mai rău dacă încerc să o duc la spate, cum faci când îți pui haina. Asta mă omoară."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 8. Da, 8, că e foarte neplăcut.",
+      "Atunci e cam 3, 3 și ceva."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel stâng",
+      "E mai mult pe umăr, pe partea din față și pe lateral."
+    ],
+    "localizarea_durerii_alta": [
+      "Câteodată simt că merge și puțin pe braț în jos, până pe la cot, dar nu tot timpul."
+    ],
+    "antecedente": [
+      "am un pic de scolioză, mi-a zis un medic acum mulți ani"
+    ],
+    "antecedente_altele": [
+      "am căzut pe gheață și mi-am rupt claviculele, tot pe stânga. S-a vindecat singur, nu am operat",
+      "am puțin probleme cu tiroida, iau pastile de mult timp"
+    ],
+    "medicatie_actuala": [
+      "Euthyrox. Iau în fiecare dimineață.",
+      "75, parcă. Da, 75 de micrograme."
+    ],
+    "evaluare_functionala_initiala": [
+      "mobilitatea umărului stâng e limitată, în special la ridicare și la rotație internă",
+      "Avem durere la palpare pe tendonul mușchiului supraspinos și în zona subacromială",
+      "tabloul clinic sugerează o tendinopatie la nivelul coafei rotatorilor, cu probabilă bursită subacromială asociată",
+      "Obiectivul nostru principal o să fie să reducem inflamația locală, să recuperăm mobilitatea și să restabilim forța în zona umărului",
+      "Simțiți că cedează un pic?",
+      "L-am simțit, da."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13796,
+    "inference_geo": "global",
+    "input_tokens": 318,
+    "output_tokens": 3599,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_458",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele de ceva vreme, mai ales pe aici, pe partea asta de jos, și nu știu, uneori se duce și mai jos, pe... pe șold, pe acolo",
+      "am mutat niște mobilă acum vreo trei săptămâni, și de atunci parcă s-a agravat mai tare",
+      "când mă ridic de pe scaun, aia e groaznică",
+      "dimineața e cam rău, primele, nu știu, zece, cincisprezece minute sunt grele"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, stând jos, un... un 4, zic eu.",
+      "Uf, atunci e un 7, 8, nu știu exact."
+    ],
+    "localizarea_durerii": [
+      "mă doare spatele de ceva vreme, mai ales pe aici, pe partea asta de jos",
+      "uneori se duce și mai jos, pe... pe șold, pe acolo",
+      "mai mult pe dreapta, zic eu"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt ceva și pe coapsă, pe partea din spate, dar nu știu dacă e de la spate sau nu"
+    ],
+    "antecedente": [
+      "mi-a zis un doctor acum câțiva ani că am o scolioză mică, ușoară"
+    ],
+    "antecedente_altele": [
+      "Am avut... acum mulți ani, vreo zece ani, o operație la menisc, la genunchiul stâng."
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "bazinul e ușor aplecat anterior, și umărul drept e ușor coborât față de cel stâng",
+      "Un 6 la palpare pe lombarul drept",
+      "Rotația spre dreapta e dureroasă",
+      "Mobilitate limitată la flexie anterioară",
+      "avem o lombalgie cu contractură musculară paravertebrală și o iritație pe zona de piriform dreapta",
+      "Obiectivul nostru va fi să reducem inflamația și contractura musculară, să refacem mobilitatea lombară și să corectăm dezechilibrul postural"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13861,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 3747,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

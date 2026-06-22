@@ -1,0 +1,31 @@
+{
+  "motivul_prezentarii": "Pacient cu durere lombară joasă cu debut de 3-4 săptămâni, persistentă, accentuată dimineața la sculare și după stat prelungit pe scaun. Iradiere pe fesa stângă și coapsa anterioară stângă, fără coborâre sub genunchi. Episod similar cu 2 ani în urmă, rezolvat spontan.",
+  "evaluarea_durerii_vas": [
+    6,
+    8
+  ],
+  "localizarea_durerii": [
+    "lombar",
+    "sacral_coccis"
+  ],
+  "localizarea_durerii_alta": "fesa stângă, coapsa anterioară stângă",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "apendicectomie în antecedente",
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400 mg, ocazional 1-2 ori pe săptămână"
+    },
+    {
+      "denumire": "Voltaren gel",
+      "doza": "aplicat aproape în fiecare seară"
+    },
+    {
+      "denumire": "Enalapril",
+      "doza": "10 mg dimineața"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nContractură musculară paravertebrală lombară marcată, predominant stânga. Flexia lombară limitată cu accentuarea durerii. Extensia relativ păstrată. Test Lasègue pozitiv pe stânga la aproximativ 40 de grade cu durere lombară și fesieră. Lasègue drept negativ.\nDiagnostic:\nLombalgie cu iritație radiculară stângă, sugestiv pentru hernie sau protruziune discală lombară L4-L5 sau L5-S1 stânga. Recomandare RMN lombar.\nObiective terapeutice:\nReducerea inflamației și a contracturii musculare paravertebrale; decompresia rădăcinii nervoase stângi; recuperarea mobilității lombare."
+}

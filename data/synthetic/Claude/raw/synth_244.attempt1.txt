@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Georgescu. Andrei.\nSPEAKER_00: Mulțumesc, domnule Georgescu. Vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: Vreo trei zile.\nSPEAKER_00: S-a întâmplat ceva anume, v-ați lovit, ați dormit prost, ați dus ceva greu?\nSPEAKER_01: Nu știu, probabil am dormit prost.\nSPEAKER_00: Probabil dormit prost. Și doare doar în zona gâtului sau se lasă și pe umăr, pe braț?\nSPEAKER_01: Și pe umăr. Pe dreapta.\nSPEAKER_00: Și pe umărul drept. Amorțeli în mână, în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât ați pune durerea?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. Doare mai tare când întoarceți capul sau când stați la birou?\nSPEAKER_01: Când întorc capul.\nSPEAKER_00: Când întoarceți capul. Lucrați mult la calculator?\nSPEAKER_01: Da.\nSPEAKER_00: Câte ore pe zi aproximativ?\nSPEAKER_01: Vreo opt, nouă.\nSPEAKER_00: Opt, nouă ore. Am înțeles. Alte afecțiuni, tensiune, diabet, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Stați drept, vă rog. O să vă rog să întoarceți capul spre dreapta încet.\nSPEAKER_01: Doare.\nSPEAKER_00: Doare. Cât de tare?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: Un 7 la rotație spre dreapta. Spre stânga acum.\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin spre stânga. Acum aplecați capul ușor spre umărul drept.\nSPEAKER_01: Da, doare și așa.\nSPEAKER_00: Doare și la înclinare laterală dreapta. O să apăs acum pe mușchii de la baza gâtului, spuneți-mi dacă simțiți ceva.\nSPEAKER_01: Da, acolo e rău.\nSPEAKER_00: Exact în trapez, pe dreapta. O să apăs și pe umăr.\nSPEAKER_01: Și acolo.\nSPEAKER_00: Da, mușchiul trapez și ridicătorul scapulei sunt contractați destul de tare pe dreapta. Probabil din poziția de la calculator, coroborat cu somnul. Ce pot să vă spun este că avem o contractură musculară cervicală, mai ales pe dreapta, cu iradiere spre umărul drept. Vom lucra să reducem această contractură și să recâștigăm mobilitatea. Haideți pe masă, vă rog.\nSPEAKER_01: Ok.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicala cu iradiere in umar drept",
+    "evaluarea_durerii_vas": [6, 7],
+    "localizarea_durerii": ["cervical", "umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Contractura musculara cervicala dreapta, iradiere umar drept; contractura trapez si ridicator scapula dreapta.\nObiective terapeutice: - reducerea contracturii musculare; - recastigarea mobilitatii cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "Și pe umăr. Pe dreapta."],
+    "evaluarea_durerii_vas": ["Un 6.", "Vreo 7."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și pe umăr. Pe dreapta."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["mușchiul trapez și ridicătorul scapulei sunt contractați destul de tare pe dreapta", "avem o contractură musculară cervicală, mai ales pe dreapta, cu iradiere spre umărul drept. Vom lucra să reducem această contractură și să recâștigăm mobilitatea."]
+  }
+}

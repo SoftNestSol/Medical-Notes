@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere cervicală pe dreapta cu iradiere pe umărul drept, apărută brusc dimineața, de aproximativ două săptămâni",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: Contractură musculară cervicală dreaptă (trapez, ridicător scapulă); mobilitate cervicală redusă la rotație dreapta.\nObiective terapeutice: reducerea contracturii musculare; creșterea amplitudinii de mișcare cervicală."
+}

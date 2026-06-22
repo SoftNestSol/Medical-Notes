@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutat cutii grele), limitarea mobilitatii la ridicarea bratului",
+  "evaluarea_durerii_vas": [
+    7,
+    3
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren gel",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: inflamatie tendoane umar drept, zona coafa a rotatorilor; limitare mobilitate pe rotatie interna si abductie.\nObiective terapeutice: reducerea inflamatiei locale, recuperarea mobilitatii."
+}

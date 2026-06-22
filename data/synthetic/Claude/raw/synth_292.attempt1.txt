@@ -1,0 +1,43 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și ce s-a întâmplat acum două săptămâni? Ați căzut, ați ridicat ceva?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Aha. Și de atunci doare?\nSPEAKER_01: Da.\nSPEAKER_00: Continuu sau doar când mișcați brațul?\nSPEAKER_01: Doar când ridic.\nSPEAKER_00: Când ridicați brațul sus?\nSPEAKER_01: Da, și când îl duc în spate.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare și în repaus, noaptea?\nSPEAKER_01: Noaptea uneori.\nSPEAKER_00: Doare mai tare când stați pe partea stângă?\nSPEAKER_01: Da.\nSPEAKER_00: Se lasă durerea pe braț în jos, pe cot, pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeli?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Aveți tensiune, diabet, osteoporoză, epilepsie, cancer?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la unguente, creme?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați brațul stâng în față, încet. Până unde puteți.\nSPEAKER_01: Până aici cam.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da, de aici în sus.\nSPEAKER_00: Deci undeva pe la 90 de grade apare durerea. Acum duceți brațul lateral.\nSPEAKER_01: Asta mai greu.\nSPEAKER_00: Doare mai tare lateral?\nSPEAKER_01: Da.\nSPEAKER_00: Stați puțin, apăs eu aici pe umăr. Doare?\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: Și aici?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeleg. Avem o inflamație la nivelul tendonului supraspinos, cel mai probabil. E o tendinopatie de coafă a rotatorilor. S-a întâmplat din efort, din mutatul mobilei. Va trebui să reducem inflamația și după aceea lucrăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng apărută după efort fizic (mutat mobilă), de aproximativ două săptămâni. Durere la ridicarea și ducerea brațului în spate, exacerbată noaptea la decubit pe partea stângă.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinopatie coafă rotatori stâng (tendon supraspinos)\nObiective terapeutice:\n- reducerea inflamației\n- recuperarea mobilității umărului stâng"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Am mutat niște mobilă.",
+      "Vreo două săptămâni.",
+      "Noaptea uneori.",
+      "Da, când stați pe partea stângă?"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "apăs eu aici pe umăr. Doare?"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Medicamente luați în prezent?\nSPEAKER_01: Nu."
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o inflamație la nivelul tendonului supraspinos, cel mai probabil.",
+      "E o tendinopatie de coafă a rotatorilor.",
+      "Va trebui să reducem inflamația și după aceea lucrăm mobilitatea umărului."
+    ]
+  }
+}

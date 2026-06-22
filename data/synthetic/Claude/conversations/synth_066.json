@@ -1,0 +1,163 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.18,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua! Spuneți-mi, vă rog, cu ce problemă ne vedem?"
+    },
+    {
+      "start": 4.3,
+      "end": 22.92,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua! Păi, mă doare umărul stâng de vreo două săptămâni, dar sincer mă tot gândeam că trece singur, știți cum e, nu vrei să dai alarma degeaba, și soția mea tot zicea să vin, și am tot amânat, și acum nu mai pot să ridic mâna deloc sus."
+    },
+    {
+      "start": 23.04,
+      "end": 27.6,
+      "speaker": "SPEAKER_00",
+      "text": "Da, înțeleg. Și ce s-a întâmplat, a apărut după ceva anume?"
+    },
+    {
+      "start": 27.72,
+      "end": 47.48,
+      "speaker": "SPEAKER_01",
+      "text": "Păi am cărat niște cutii la mutat, am ajutat un prieten, a fost weekend-ul de acum două săptămâni, și am simțit că ceva s-a tras acolo, dar nu a durut chiar imediat tare, a doua zi dimineața m-am trezit și nu mai puteam să ridic brațul, parcă era blocat."
+    },
+    {
+      "start": 47.6,
+      "end": 53.68,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Pe o scară de la 0 la 10, cât de tare doare în momentul ăsta?"
+    },
+    {
+      "start": 53.8,
+      "end": 73.56,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, dacă stau liniștit, poate un 4. Dar dacă încerc să ridic ceva sau să mă întorc noaptea pe partea stângă, ajunge la 8, 9, e destul de rău. Noaptea e cel mai greu, de fapt de asta am venit, că nu mai dorm bine și soția e nervoasă că o trezesc."
+    },
+    {
+      "start": 73.68,
+      "end": 79.0,
+      "speaker": "SPEAKER_00",
+      "text": "Da, înțeleg. Durerea rămâne în umăr sau se lasă și pe braț, pe cot?"
+    },
+    {
+      "start": 79.12,
+      "end": 90.9,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu coboară, e fix acolo în umăr, pe partea din față și un pic pe deasupra. Nu știu cum să explic exact, e ca un junghi când încerc să mișc."
+    },
+    {
+      "start": 91.02,
+      "end": 95.58,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și mai aveți alte dureri în altă parte sau numai umărul?"
+    },
+    {
+      "start": 95.7,
+      "end": 105.96,
+      "speaker": "SPEAKER_01",
+      "text": "Numai umărul stâng. Mai am și ceva la spate câteodată, în zona de mijloc, dar aia e mai veche și nu mă deranjează acum, mă deranjează umărul."
+    },
+    {
+      "start": 106.08,
+      "end": 109.88,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Alte afecțiuni, boli despre care știți, tensiune, diabet, ceva?"
+    },
+    {
+      "start": 110.0,
+      "end": 120.26,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da, hipertensiune, de vreo trei ani. Iau tratament pentru asta. Altceva nu știu să am, am făcut analize acum câteva luni și era totul bine."
+    },
+    {
+      "start": 120.38,
+      "end": 122.28,
+      "speaker": "SPEAKER_00",
+      "text": "Ce medicament luați pentru tensiune?"
+    },
+    {
+      "start": 122.4,
+      "end": 125.44,
+      "speaker": "SPEAKER_01",
+      "text": "Perindopril, 5 miligrame, o dată pe zi, dimineața."
+    },
+    {
+      "start": 125.56,
+      "end": 130.12,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Mai luați altceva în momentul ăsta, vreun antiinflamator, ceva pentru umăr?"
+    },
+    {
+      "start": 130.24,
+      "end": 152.66,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat Ibuprofen câteva zile când a început, 400, dar acum nu mai iau că mi-a spus cineva că nu e bine pe termen lung și m-am speriat. Sincer m-am speriat și că poate am rupt ceva acolo, asta e marea mea teamă, că am auzit de rupturi de tendon și nu știu, poate trebuie operație."
+    },
+    {
+      "start": 152.78,
+      "end": 160.0,
+      "speaker": "SPEAKER_00",
+      "text": "Da, înțeleg îngrijorarea. Haideți să facem câteva teste să vedem cum stăm. Ridicați brațul ușor în față, cât puteți."
+    },
+    {
+      "start": 160.12,
+      "end": 163.92,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici, cam până la orizontală, mai sus doare tare."
+    },
+    {
+      "start": 164.04,
+      "end": 168.22,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, rămâneți așa. Apăs acum în zona asta pe umăr, doare?"
+    },
+    {
+      "start": 168.34,
+      "end": 170.24,
+      "speaker": "SPEAKER_01",
+      "text": "Da, fix acolo, aia e."
+    },
+    {
+      "start": 170.36,
+      "end": 174.54,
+      "speaker": "SPEAKER_00",
+      "text": "Și acum rotație externă, cotul lângă corp, întoarceți palma în afară."
+    },
+    {
+      "start": 174.66,
+      "end": 176.56,
+      "speaker": "SPEAKER_01",
+      "text": "Merge, dar trage un pic."
+    },
+    {
+      "start": 176.68,
+      "end": 189.6,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Avem o limitare a abducției și o sensibilitate la nivelul umărului stâng. Probabil tendinită de supraspinos, vom vedea cum evoluează după primele ședințe. Obiectivul principal e să reducem inflamația și să recuperăm mobilitatea."
+    },
+    {
+      "start": 189.72,
+      "end": 193.52,
+      "speaker": "SPEAKER_01",
+      "text": "Și nu e ceva mai grav? Adică nu trebuie radiografie?"
+    },
+    {
+      "start": 193.64,
+      "end": 199.72,
+      "speaker": "SPEAKER_00",
+      "text": "Deocamdată putem să începem terapia și vedem cum răspunde. Dacă nu se îmbunătățește, discutăm despre imagistică."
+    },
+    {
+      "start": 199.84,
+      "end": 202.12,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, bine, mă bazez pe dumneavoastră."
+    }
+  ]
+}

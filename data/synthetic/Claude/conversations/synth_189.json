@@ -1,0 +1,397 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 5.6,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi cu ce vă putem ajuta astăzi."
+    },
+    {
+      "start": 5.72,
+      "end": 15.98,
+      "speaker": "SPEAKER_01",
+      "text": "Păi am o durere, nu știu exact cum să o descriu, pe undeva pe aici, pe zona asta de spate, mai sus, mai spre umăr, undeva acolo."
+    },
+    {
+      "start": 16.1,
+      "end": 19.9,
+      "speaker": "SPEAKER_00",
+      "text": "Adică zona cervicală, gâtul, sau mai jos, zona de torace?"
+    },
+    {
+      "start": 20.02,
+      "end": 29.52,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, e cam la mijloc, pe undeva. Adică nu e chiar la gât, e mai jos, dar nu e nici chiar jos de tot."
+    },
+    {
+      "start": 29.64,
+      "end": 31.54,
+      "speaker": "SPEAKER_00",
+      "text": "Între omoplați, ceva de genul?"
+    },
+    {
+      "start": 31.66,
+      "end": 37.74,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, cam pe acolo. Și un pic și spre umăr, pe stânga, spre umărul stâng."
+    },
+    {
+      "start": 37.86,
+      "end": 43.18,
+      "speaker": "SPEAKER_00",
+      "text": "Și umărul stâng doare sau e mai mult senzația care se trage dinspre spate?"
+    },
+    {
+      "start": 43.3,
+      "end": 51.66,
+      "speaker": "SPEAKER_01",
+      "text": "E mai mult dinspre spate, dar câteodată simt ceva și în umăr, nu știu, parcă se trage, nu știu cum să zic."
+    },
+    {
+      "start": 51.78,
+      "end": 54.06,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp aveți senzația asta?"
+    },
+    {
+      "start": 54.18,
+      "end": 62.92,
+      "speaker": "SPEAKER_01",
+      "text": "Oof, de ceva timp. Poate de vreo două luni, trei, nu știu exact. A început mai ușor și acum parcă e mai des."
+    },
+    {
+      "start": 63.04,
+      "end": 67.22,
+      "speaker": "SPEAKER_00",
+      "text": "A apărut după ceva anume, după un efort, după o mișcare?"
+    },
+    {
+      "start": 67.34,
+      "end": 74.94,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, nu am făcut nimic special. Stau mult la birou, la calculator, cam toată ziua, și poate de acolo."
+    },
+    {
+      "start": 75.06,
+      "end": 79.62,
+      "speaker": "SPEAKER_00",
+      "text": "Și când stați la birou doare mai tare sau nu simțiți diferența?"
+    },
+    {
+      "start": 79.74,
+      "end": 89.62,
+      "speaker": "SPEAKER_01",
+      "text": "Parcă da, spre seară mai ales. Dimineața când mă trezesc e mai ok, dar dacă stau mult, spre prânz, spre seară, parcă se strânge tot acolo."
+    },
+    {
+      "start": 89.74,
+      "end": 93.92,
+      "speaker": "SPEAKER_00",
+      "text": "Se strânge, ca o tensiune, ca o durere ascuțită sau cum?"
+    },
+    {
+      "start": 94.04,
+      "end": 105.82,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult ca o tensiune, ca și cum ai fi... nu știu, ca și cum s-ar strange ceva. Câteodată și o durere, dar nu e foarte ascuțită, e mai surdă."
+    },
+    {
+      "start": 105.94,
+      "end": 114.68,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cam unde ați pune durerea?"
+    },
+    {
+      "start": 114.8,
+      "end": 125.44,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, e greu de zis, că nu e constantă. Uneori e poate un 4, alteori e mai mult, dar nu știu, cam pe acolo, undeva la mijloc."
+    },
+    {
+      "start": 125.56,
+      "end": 132.02,
+      "speaker": "SPEAKER_00",
+      "text": "Dar la cel mai rău moment, când doare cel mai tare, ajunge și la 6, la 7?"
+    },
+    {
+      "start": 132.14,
+      "end": 137.08,
+      "speaker": "SPEAKER_01",
+      "text": "Poate, da, la 6 cred că da, câteodată. Nu mai mult de atât."
+    },
+    {
+      "start": 137.2,
+      "end": 145.18,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și durerea asta rămâne acolo în zona dintre omoplați sau se lasă și în altă parte, pe braț, pe gât?"
+    },
+    {
+      "start": 145.3,
+      "end": 154.42,
+      "speaker": "SPEAKER_01",
+      "text": "Câteodată simt ceva și pe gât, mai sus, dar nu știu dacă e aceeași durere sau e altceva. Și în umărul stâng am zis."
+    },
+    {
+      "start": 154.54,
+      "end": 156.82,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeală aveți? La mână, la degete?"
+    },
+    {
+      "start": 156.94,
+      "end": 159.22,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, amorțeală nu, nu simt asta."
+    },
+    {
+      "start": 159.34,
+      "end": 162.0,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Dureri de cap mai aveți? Migrene?"
+    },
+    {
+      "start": 162.12,
+      "end": 168.2,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mai am câteodată dureri de cap, dar nu știu dacă are legătură. Nu des, rar."
+    },
+    {
+      "start": 168.32,
+      "end": 174.4,
+      "speaker": "SPEAKER_00",
+      "text": "Și durerile de cap apar mai ales când aveți și durerea asta la spate sau separat?"
+    },
+    {
+      "start": 174.52,
+      "end": 180.22,
+      "speaker": "SPEAKER_01",
+      "text": "Nu m-am gândit la asta, nu știu. Poate mai des seara, când sunt obosit."
+    },
+    {
+      "start": 180.34,
+      "end": 184.9,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Alte zone vă mai dau probleme? Zona lombară, jos de tot?"
+    },
+    {
+      "start": 185.02,
+      "end": 191.86,
+      "speaker": "SPEAKER_01",
+      "text": "Ei, și acolo mai am câte ceva, nu prea rău, dar câteodată simt ceva. Nu e principala problemă."
+    },
+    {
+      "start": 191.98,
+      "end": 194.26,
+      "speaker": "SPEAKER_00",
+      "text": "Dar mă spuneți, doare și acolo?"
+    },
+    {
+      "start": 194.38,
+      "end": 200.46,
+      "speaker": "SPEAKER_01",
+      "text": "Da, uneori, mai ales dacă stau mult în picioare sau merg mult. Nu e nicio dramă."
+    },
+    {
+      "start": 200.58,
+      "end": 206.66,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și dacă ar fi să comparați, unde doare mai tare, sus între omoplați sau jos?"
+    },
+    {
+      "start": 206.78,
+      "end": 207.92,
+      "speaker": "SPEAKER_01",
+      "text": "Sus, definitiv sus."
+    },
+    {
+      "start": 208.04,
+      "end": 213.74,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Aveți vreo boală de care știți, ceva cu tensiunea, cu inima, diabet, ceva diagnosticat?"
+    },
+    {
+      "start": 213.86,
+      "end": 220.7,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiunea mi-a zis doctorul că e puțin mai mare, am hipertensiune, da, iau și ceva pentru asta."
+    },
+    {
+      "start": 220.82,
+      "end": 222.34,
+      "speaker": "SPEAKER_00",
+      "text": "Ce luați pentru tensiune?"
+    },
+    {
+      "start": 222.46,
+      "end": 227.4,
+      "speaker": "SPEAKER_01",
+      "text": "Iau Enalapril, un comprimat pe zi, cred că e de 10, 10 miligrame."
+    },
+    {
+      "start": 227.52,
+      "end": 228.66,
+      "speaker": "SPEAKER_00",
+      "text": "Altceva mai luați?"
+    },
+    {
+      "start": 228.78,
+      "end": 229.92,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, altceva nu."
+    },
+    {
+      "start": 230.04,
+      "end": 236.12,
+      "speaker": "SPEAKER_00",
+      "text": "Și altă boală, ceva cu oasele, cu discurile, ați mai avut probleme la spate diagnosticate vreodată?"
+    },
+    {
+      "start": 236.24,
+      "end": 246.5,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am făcut nicio investigație. Am fost la medicul de familie, mi-a zis că probabil e de la postură, să stau drept, și cam atât."
+    },
+    {
+      "start": 246.62,
+      "end": 248.52,
+      "speaker": "SPEAKER_00",
+      "text": "Nicio radiografie, nicio rezonanță magnetică?"
+    },
+    {
+      "start": 248.64,
+      "end": 250.16,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am făcut."
+    },
+    {
+      "start": 250.28,
+      "end": 251.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Faceți sport, mișcare?"
+    },
+    {
+      "start": 251.92,
+      "end": 255.72,
+      "speaker": "SPEAKER_01",
+      "text": "Nu prea. Merg pe jos uneori, dar sport organizat nu."
+    },
+    {
+      "start": 255.84,
+      "end": 269.9,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să vă uit puțin cum stați. Ridicați-vă în picioare o secundă. Uite, observ că umărul stâng e ușor mai căzut față de dreptul, și capul e un pic dus în față. Ați mai observat asta?"
+    },
+    {
+      "start": 270.02,
+      "end": 273.06,
+      "speaker": "SPEAKER_01",
+      "text": "Nu m-am uitat așa de atent, nu."
+    },
+    {
+      "start": 273.18,
+      "end": 278.88,
+      "speaker": "SPEAKER_00",
+      "text": "E specific celor care stau mult la birou. Aplecați-vă ușor înainte, cu spatele, doare?"
+    },
+    {
+      "start": 279.0,
+      "end": 280.9,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic, da, simt acolo."
+    },
+    {
+      "start": 281.02,
+      "end": 284.82,
+      "speaker": "SPEAKER_00",
+      "text": "Bine, îndreptați-vă. Întoarceți capul ușor spre stânga, cât puteți."
+    },
+    {
+      "start": 284.94,
+      "end": 287.98,
+      "speaker": "SPEAKER_01",
+      "text": "Cam până aici, mai mult nu prea pot."
+    },
+    {
+      "start": 288.1,
+      "end": 289.62,
+      "speaker": "SPEAKER_00",
+      "text": "Doare sau se blochează?"
+    },
+    {
+      "start": 289.74,
+      "end": 295.44,
+      "speaker": "SPEAKER_01",
+      "text": "Se mai blochează, nu doare foarte tare, dar simt că nu se duce mai departe."
+    },
+    {
+      "start": 295.56,
+      "end": 299.74,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Apăs puțin aici între omoplați, spuneți-mi dacă simțiți ceva."
+    },
+    {
+      "start": 299.86,
+      "end": 302.14,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, acolo e. Acolo doare."
+    },
+    {
+      "start": 302.26,
+      "end": 310.62,
+      "speaker": "SPEAKER_00",
+      "text": "Da, simt că musculatura e contractată în zona toracală superioară, paravertebral. Și cervical, în zona asta de C6-C7, e și tensiune."
+    },
+    {
+      "start": 310.74,
+      "end": 325.94,
+      "speaker": "SPEAKER_00",
+      "text": "Deci, ce avem noi aici e o contractură musculară în zona toracală superioară, cu iradiere spre umărul stâng, și o tensiune cervicală jos, posibil legată de postura la birou. Nu e ceva grav, dar dacă nu tratăm poate deveni cronic."
+    },
+    {
+      "start": 326.06,
+      "end": 332.9,
+      "speaker": "SPEAKER_00",
+      "text": "O să lucrăm să relaxăm musculatura de acolo, să ameliorăm mobilitatea cervicală și să corectăm un pic postura."
+    },
+    {
+      "start": 333.02,
+      "end": 334.54,
+      "speaker": "SPEAKER_01",
+      "text": "Și o să treacă?"
+    },
+    {
+      "start": 334.66,
+      "end": 344.16,
+      "speaker": "SPEAKER_00",
+      "text": "Cu câteva ședințe, da, ar trebui să simțiți o îmbunătățire clară. Și o să vă arăt și câteva exerciții pe care să le faceți acasă."
+    },
+    {
+      "start": 344.28,
+      "end": 345.08,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, bine."
+    },
+    {
+      "start": 345.2,
+      "end": 347.1,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă, vă rog."
+    }
+  ]
+}

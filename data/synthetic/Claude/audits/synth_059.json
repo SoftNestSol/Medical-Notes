@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_059",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele de ceva vreme, da, și nu știu exact de unde vine, adică... pe undeva pe la mijloc, pe la spate, și uneori simț și pe aici, pe umăr, pe partea asta stângă",
+      "stau mult. Uneori simt că mă ține chiar și când stau jos"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum... un 5, poate 5. Nu e groaznic, dar deranjează.",
+      "Aia e mai rău, poate un 7 când ridic brațul."
+    ],
+    "localizarea_durerii": [
+      "pe undeva pe la mijloc, pe la spate",
+      "pe umăr, pe partea asta stângă",
+      "simț ceva acolo, în umăr și puțin pe la ceafă"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Am tensiune, da, de vreo doi ani.",
+      "acum câțiva ani mi-a spus cineva că am o mică hernie la coloană"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Prestarium, cred că 5 miligrame. Da, asta iau dimineața.",
+      "Mai iau câte un ibuprofen când mă doare mai rău spatele, dar nu regulat."
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ că umărul stâng e ușor coborât față de cel drept și capul e dus un pic înainte.",
+      "apare o tensiune în trapez și în ridicătorul scapulei pe stânga",
+      "La 90 de grade apare durerea, mai sus nu puteți duce confortabil.",
+      "E o zonă contractată, cu punct trigger activ.",
+      "avem o blocadă articulară în zona toracală medie și o contractură musculară trapez și ridicătorul scapulei pe stânga"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13621,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3529,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, cu ce vă pot ajuta?"
+    },
+    {
+      "start": 2.78,
+      "end": 25.2,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, da, mă numesc Radu Ionescu, am 38 de ani și vin pentru că mă doare umărul stâng de vreo trei săptămâni și sincer m-am speriat un pic, că eu lucrez la calculator toată ziua și mă gândeam dacă nu e ceva grav, știți cum e, am citit pe internet și am găsit tot felul de lucruri..."
+    },
+    {
+      "start": 25.32,
+      "end": 27.98,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Pe ce parte doare mai exact?"
+    },
+    {
+      "start": 28.1,
+      "end": 42.54,
+      "speaker": "SPEAKER_01",
+      "text": "Stânga, da. Și mai ales când ridic mâna, adică dacă vreau să iau ceva de pe raft sau să mă pieptăn dimineața, e nasol. Seara e mai rău, când stau în pat pe partea aia nu pot deloc."
+    },
+    {
+      "start": 42.66,
+      "end": 47.22,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 47.34,
+      "end": 56.08,
+      "speaker": "SPEAKER_01",
+      "text": "Păi depinde. Când stau liniștit, poate un 3. Dar când ridic mâna sus sau fac o mișcare mai bruscă, ajunge la un 7."
+    },
+    {
+      "start": 56.2,
+      "end": 60.0,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea se lasă undeva, pe braț în jos, pe gât?"
+    },
+    {
+      "start": 60.12,
+      "end": 68.86,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, rămâne acolo, în umăr. Poate uneori simt ceva pe partea asta de sus a brațului, dar nu coboară mai jos de cot."
+    },
+    {
+      "start": 68.98,
+      "end": 72.02,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai avut probleme la umărul acesta înainte?"
+    },
+    {
+      "start": 72.14,
+      "end": 83.92,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată. Eu am o postură proastă, știu asta, că toți îmi spun, șef, soție, mama, toți. Stau aplecat la birou și nu fac sport deloc, poate asta e problema, nu?"
+    },
+    {
+      "start": 84.04,
+      "end": 88.6,
+      "speaker": "SPEAKER_00",
+      "text": "Poate contribuie, da. Ați făcut vreun efort mai intens înainte să înceapă?"
+    },
+    {
+      "start": 88.72,
+      "end": 102.02,
+      "speaker": "SPEAKER_01",
+      "text": "Da, de fapt acum că ziceți, am mutat mobilă acum vreo patru săptămâni, am carat niște cutii grele, și după câteva zile a început. Dar m-am gândit că trece și n-am dat importanță."
+    },
+    {
+      "start": 102.14,
+      "end": 104.04,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Luați ceva pentru durere?"
+    },
+    {
+      "start": 104.16,
+      "end": 109.86,
+      "speaker": "SPEAKER_01",
+      "text": "Am pus un gel, Voltaren, câteodată seara, că altfel nu pot dormi. Nu iau pastile."
+    },
+    {
+      "start": 109.98,
+      "end": 111.88,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Tensiune, diabet, alte afecțiuni?"
+    },
+    {
+      "start": 112.0,
+      "end": 115.8,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Sunt sănătos tun, în afară de umărul ăsta."
+    },
+    {
+      "start": 115.92,
+      "end": 119.34,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ridicați mâna în față pentru mine, așa, sus."
+    },
+    {
+      "start": 119.46,
+      "end": 123.26,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe la înălțimea asta pot, mai sus deja doare."
+    },
+    {
+      "start": 123.38,
+      "end": 127.56,
+      "speaker": "SPEAKER_00",
+      "text": "Stați, vă opresc eu. Simiți că vă scârțâie sau trosnește ceva?"
+    },
+    {
+      "start": 127.68,
+      "end": 131.48,
+      "speaker": "SPEAKER_01",
+      "text": "Da, parcă se aude ceva câteodată, un fel de frecare."
+    },
+    {
+      "start": 131.6,
+      "end": 133.88,
+      "speaker": "SPEAKER_00",
+      "text": "Rotim puțin brațul spre interior. Doare?"
+    },
+    {
+      "start": 134.0,
+      "end": 137.04,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, asta e mișcarea cea mai dureroasă."
+    },
+    {
+      "start": 137.16,
+      "end": 138.3,
+      "speaker": "SPEAKER_00",
+      "text": "Și spre exterior?"
+    },
+    {
+      "start": 138.42,
+      "end": 140.32,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, dar tot simt."
+    },
+    {
+      "start": 140.44,
+      "end": 144.24,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Apăs aici pe tendonul supraspinos, spuneți-mi dacă doare."
+    },
+    {
+      "start": 144.36,
+      "end": 146.26,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, exact acolo e."
+    },
+    {
+      "start": 146.38,
+      "end": 162.72,
+      "speaker": "SPEAKER_00",
+      "text": "Pare o tendinită la nivelul coifului rotatorilor, cel mai probabil supraspinos-ul afectat. Probabil din efortul acela cu mutatul mobilei, combinat cu postura de la birou care nu ajută deloc. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea completă a umărului."
+    },
+    {
+      "start": 162.84,
+      "end": 169.3,
+      "speaker": "SPEAKER_01",
+      "text": "Și o să pot să ridic mâna normal? Că mă deranjează îngrozitor dimineața, mai ales la duș."
+    },
+    {
+      "start": 169.42,
+      "end": 178.54,
+      "speaker": "SPEAKER_00",
+      "text": "Da, cu tratament adecvat da. Dar o să fie nevoie de câteva ședințe și de niște exerciții pe care o să vi le arăt."
+    },
+    {
+      "start": 178.66,
+      "end": 182.46,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, înțeles. Și cu Voltaren-ul pot să mai pun?"
+    },
+    {
+      "start": 182.58,
+      "end": 184.48,
+      "speaker": "SPEAKER_00",
+      "text": "Puteți, nu e o problemă."
+    },
+    {
+      "start": 184.6,
+      "end": 191.06,
+      "speaker": "SPEAKER_01",
+      "text": "Bun, bun. Mă bucur că nu e ceva grav, că m-am tot gândit la toate scenariile."
+    }
+  ]
+}

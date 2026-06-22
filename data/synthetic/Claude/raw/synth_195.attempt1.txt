@@ -1,0 +1,59 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua, bună ziua. Am venit că mă doare genunchiul, cel drept, de vreo trei săptămâni deja și nu mai știu ce să fac cu el.\nSPEAKER_00: Trei săptămâni. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Păi... undeva la un 5, poate 6 când merg pe scări. Adică nu e insuportabil, dar mă enervează teribil, știți? Am 52 de ani, nu sunt chiar bătrân, nu fumez, mă mișc, și totuși...\nSPEAKER_00: Înțeleg. Doare permanent sau doar la mișcare?\nSPEAKER_01: Mai mult la mișcare, da. La urcat scări, la stat în genunchi... am o terasă pe care lucrez la ea în weekend-uri și acolo trebuie să stau mult pe vine. Ei bine, de acolo cred că a pornit, că am pus niște plăci, am stat câteva ore... Nu știu dacă asta a cauzat-o, dar cam de atunci a început.\nSPEAKER_00: Deci după un efort pe genunchi?\nSPEAKER_01: Exact, exact. Și acum mă tem că e ceva grav, știți? Fratele meu a avut artrită și a suferit mult, eu nu vreau să ajung acolo. Deja mi-am căutat pe internet și m-am speriat.\nSPEAKER_00: Ok. Doare mai mult în față, pe lateral, în spate?\nSPEAKER_01: Pe partea asta, laterală, pe exterior. Aici, cam pe aici.\nSPEAKER_00: Pe exterior, pe dreapta.\nSPEAKER_01: Da, da. Și uneori simt că trage și puțin spre coapsă, în sus, dar nu știu dacă e de la asta sau e altceva. Mă gândeam, nu știu, poate e nervul?\nSPEAKER_00: Și dacă apăs here, doare?\nSPEAKER_01: Au, da, chiar acolo.\nSPEAKER_00: Genunchiul se umflă?\nSPEAKER_01: Nu, umflat nu l-am văzut. Poate puțin mai cald uneori, dar umflat nu.\nSPEAKER_00: Alte probleme de sănătate, tensiune, diabet, ceva?\nSPEAKER_01: Tensiune am, da. Iau Enalapril de vreo doi ani, 10 miligrame pe zi. Altceva nu. Adică am avut și un episod cu coloana acum vreo patru ani, lombar, dar a trecut, nu mai am nimic acolo acum.\nSPEAKER_00: A trecut complet?\nSPEAKER_01: Da, da, complet. Mi-a zis medicul că a fost o contractură și cu câteva ședințe de masaj a trecut. Nu mai am nimic pe spate acum, mulțumesc lui Dumnezeu.\nSPEAKER_00: Operații, fracturi la genunchi vreodată?\nSPEAKER_01: Nu, niciodată. Nici fracturi. Cel mult o entorsă la gleznă acum vreo zece ani, dar la gleznă stângă, nu are legătură.\nSPEAKER_00: Medicamente altele în afară de Enalapril?\nSPEAKER_01: Nu, nimic. Uneori iau un Ibuprofen când mă doare tare, dar nu regulat.\nSPEAKER_00: Ok. Stați puțin în picioare, cu spatele la mine.\nSPEAKER_01: Așa?\nSPEAKER_00: Da. Acum mergeți câțiva pași.\nSPEAKER_01: Simțiți ceva? Eu simt că oare mai tare când plec de pe loc.\nSPEAKER_00: Da, văd că aveți o ușoară rotație externă a piciorului drept. Și la palparea benzii ilio-tibiale avem sensibilitate, cum ați simțit mai devreme. Cel mai probabil e un sindrom de bandă ilio-tibială, apărut după efortul respectiv pe terasă.\nSPEAKER_01: Și e grav? Adică... trebuie operație?\nSPEAKER_00: Nu, deloc. O să lucrăm să reducem inflamația și să relaxăm fascia. Câteva ședințe și o să se rezolve.\nSPEAKER_01: Slavă Domnului. Mă speriasem degeaba atunci.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere la nivelul genunchiului drept, pe partea laterală, apărută după efort prelungit pe vine (montare plăci terasă), de aproximativ trei săptămâni. Durere la mișcare, mai ales la urcat scări și stat în genunchi.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "genunchi_dr"
+    ],
+    "localizarea_durerii_alta": "coapsa, lateral extern",
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": "episod lombar acut în antecedente (rezolvat), entorsă gleznă stângă în antecedente",
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 mg/zi"
+      },
+      {
+        "denumire": "Ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Rotație externă ușoară a piciorului drept la mers. Sensibilitate la palparea benzii ilio-tibiale. Diagnostic: sindrom de bandă ilio-tibială. Obiective terapeutice: reducerea inflamației și relaxarea fasciei."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare genunchiul, cel drept, de vreo trei săptămâni deja",
+      "am pus niște plăci, am stat câteva ore... Nu știu dacă asta a cauzat-o, dar cam de atunci a început",
+      "Mai mult la mișcare, da. La urcat scări, la stat în genunchi"
+    ],
+    "evaluarea_durerii_vas": [
+      "undeva la un 5, poate 6 când merg pe scări"
+    ],
+    "localizarea_durerii": [
+      "Pe partea asta, laterală, pe exterior. Aici, cam pe aici"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt că trage și puțin spre coapsă, în sus"
+    ],
+    "antecedente": [
+      "Tensiune am, da."
+    ],
+    "antecedente_altele": [
+      "am avut și un episod cu coloana acum vreo patru ani, lombar, dar a trecut",
+      "o entorsă la gleznă acum vreo zece ani, dar la gleznă stângă"
+    ],
+    "medicatie_actuala": [
+      "Iau Enalapril de vreo doi ani, 10 miligrame pe zi",
+      "Uneori iau un Ibuprofen când mă doare tare, dar nu regulat"
+    ],
+    "evaluare_functionala_initiala": [
+      "văd că aveți o ușoară rotație externă a piciorului drept",
+      "la palparea benzii ilio-tibiale avem sensibilitate",
+      "Cel mai probabil e un sindrom de bandă ilio-tibială, apărut după efortul respectiv pe terasă",
+      "O să lucrăm să reducem inflamația și să relaxăm fascia"
+    ]
+  }
+}

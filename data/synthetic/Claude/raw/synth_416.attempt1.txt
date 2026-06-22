@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce vă pot ajuta?\nSPEAKER_01: Bună ziua, da, m-a trimis un coleg de-al meu, Andrei, zice că l-ați ajutat cu spatele și el, și eu am o problemă cam de același fel, mă doare și pe mine spatele, dar mai jos, adică exact în zona aia de... nu știu cum se numește, jos de tot, chiar deasupra... păi nu știu, e jos.\nSPEAKER_00: Zona lombară, jos de tot?\nSPEAKER_01: Da, exact, acolo, și pe partea stângă mai mult, adică nu e egal, pe stânga mă doare mai rău.\nSPEAKER_00: De când a apărut durerea asta?\nSPEAKER_01: Păi uite, săptămâna trecută am stat să montez niște dulapuri în baie, am stat mult aplecat, cu mâinile sus, și după, seara, am simțit că mă strânge acolo. Dimineața m-am trezit și abia am putut să mă ridic din pat, era îngrozitor. Și acum mai e, nu a trecut.\nSPEAKER_00: Deci a apărut după efortul ăla cu dulapurile.\nSPEAKER_01: Da, da, atunci clar a pornit. Deși, dacă stau să mă gândesc, mă mai durea și înainte câteodată după ce stăteam mult la birou, dar nu așa, nu atât de tare.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare insuportabil, unde v-ați situa acum?\nSPEAKER_01: Acum, în momentul ăsta, poate un 5. Dar dimineața aia a fost un 8 sigur, nu glumă.\nSPEAKER_00: Înțeles. Și durerea rămâne doar acolo jos, pe stânga, sau se lasă cumva și pe picior?\nSPEAKER_01: Nu, nu coboară pe picior, rămâne acolo. Cel mult simt că mă trage puțin în fesă, pe stânga, dar pe picior nu.\nSPEAKER_00: Amorțeli, furnicături la picior?\nSPEAKER_01: Nu, nimic de genul.\nSPEAKER_00: Bun. Când doare mai tare, când stați în picioare sau când stați jos?\nSPEAKER_01: Când mă ridic din scaun e cel mai rău, și când mă aplec. Dacă stau culcat pe spate cu picioarele puțin îndoite, trece mai mult.\nSPEAKER_00: Ați luat ceva pentru durere?\nSPEAKER_01: Am pus un gel, un Voltaren, de vreo două ori, dar nu prea m-a ajutat sincer. Nu am luat pastile, mi-e un pic frică de stomac.\nSPEAKER_00: Înțeles. Alte afecțiuni, tensiune, diabet, probleme la inimă?\nSPEAKER_01: Nu, nu am nimic din astea, sunt relativ sănătos, mai mult mă lovesc și eu... adică nu am boli cronice dacă ăsta e întrebarea.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu. Am căzut de pe bicicletă acum vreo zece ani, mi-am zgâriat genunchii, dar nimic serios.\nSPEAKER_00: Bun. Ce muncă faceți?\nSPEAKER_01: Stau mult la calculator, birou, cam opt ore pe zi, uneori și mai mult. Și acasă fac tot felul de treabă, nu stau degeaba, dar poate asta e problema, nu știu, că n-am o postură bună la birou, mi-a zis și soția mea.\nSPEAKER_00: Hai să vă rog să stați în picioare, cu spatele la mine, relaxat.\nSPEAKER_01: Așa?\nSPEAKER_00: Da, perfect. Vedeți că aveți umărul stâng puțin mai jos și bazinul ușor înclinat tot spre stânga. Stați puțin pe piciorul stâng... vă ține?\nSPEAKER_01: Da, mă ține, dar simt că mă trage acolo unde doare.\nSPEAKER_00: Normal. Aplecați-vă ușor în față, cât puteți.\nSPEAKER_01: Doare, da, simțit imediat.\nSPEAKER_00: Până unde ajungeți cu mâinile?\nSPEAKER_01: Cam la genunchi, mai jos nu pot.\nSPEAKER_00: Bun. Deci avem o limitare de flexie. Vă rotesc ușor bazinul spre stânga... doare?\nSPEAKER_01: Da, acolo, fix acolo.\nSPEAKER_00: Spre dreapta?\nSPEAKER_01: Mai puțin, da.\nSPEAKER_00: Înțeles. Deci ce avem noi aici este o contractură musculară paravertebrală pe stânga, zona lombară, apărută după un efort în poziție vicioasă. Nu pare să existe iradiere radiculară, ceea ce e bine. Obiectivul nostru e să reducem contractura și inflamația locală și să redobândim mobilitatea normală a coloanei. O să lucrăm și puțin pe postură, că din ce îmi spuneți, statul la birou contribuie.\nSPEAKER_01: Deci nu e ceva grav? Că m-am speriat puțin, am căutat pe internet și am găsit tot felul de lucruri îngrozitoare.\nSPEAKER_00: Nu, la ce vedem acum nu e o situație gravă. Să nu mai căutați pe internet, înrăutățiți lucrurile inutil.\nSPEAKER_01: Bine, bine, v-am ascultat, mulțumesc.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă pe partea stângă, apărută după efort fizic în poziție vicioasă (montare dulapuri cu aplecări repetate), cu limitarea flexiei și senzație de tracțiune în fesă stângă. Fără iradiere pe membrul inferior.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": "fesă stângă",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUmăr stâng coborât, bazin ușor înclinat spre stânga. Limitare de flexie anterioară (ajunge cu mâinile la nivelul genunchilor). Durere la flexie anterioară și la rotația bazinului spre stânga. Rotația spre dreapta mai puțin dureroasă.\nDiagnostic:\nContractură musculară paravertebrală stângă zona lombară, post-efort în poziție vicioasă. Fără iradiere radiculară.\nObiective terapeutice:\nReducerea contracturii și a inflamației locale; redobândirea mobilității normale a coloanei; corectare posturală."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare și pe mine spatele, dar mai jos",
+      "pe stânga mă doare mai rău",
+      "am stat să montez niște dulapuri în baie, am stat mult aplecat, cu mâinile sus, și după, seara, am simțit că mă strânge acolo",
+      "simt că mă trage puțin în fesă, pe stânga, dar pe picior nu",
+      "Nu, nu coboară pe picior, rămâne acolo"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în momentul ăsta, poate un 5."
+    ],
+    "localizarea_durerii": [
+      "mă doare spatele, dar mai jos, adică exact în zona aia de... nu știu cum se numește, jos de tot",
+      "Zona lombară, jos de tot? Da, exact, acolo"
+    ],
+    "localizarea_durerii_alta": [
+      "simt că mă trage puțin în fesă, pe stânga"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel, un Voltaren, de vreo două ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "aveți umărul stâng puțin mai jos și bazinul ușor înclinat tot spre stânga",
+      "avem o limitare de flexie",
+      "ce avem noi aici este o contractură musculară paravertebrală pe stânga, zona lombară, apărută după un efort în poziție vicioasă",
+      "Nu pare să existe iradiere radiculară",
+      "Obiectivul nostru e să reducem contractura și inflamația locală și să redobândim mobilitatea normală a coloanei. O să lucrăm și puțin pe postură"
+    ]
+  }
+}

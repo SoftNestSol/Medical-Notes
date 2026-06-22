@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Durere lombară joasă instalată treptat după efort fizic (mutat mobilă), cu iradiere pe fesa dreaptă și uneori pe coapsă, accentuată la stat pe scaun prelungit și la ridicarea din pat dimineața.",
+  "evaluarea_durerii_vas": [
+    6,
+    7
+  ],
+  "localizarea_durerii": [
+    "lombar",
+    "sacral_coccis"
+  ],
+  "localizarea_durerii_alta": "fesă dreaptă, coapsă dreaptă",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Nurofen",
+      "doza": "400"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale/biomecanice: pacient cu tendință de aplecare anterioară la ridicare de pe scaun, limitare la flexie anterioară lombară (aproximativ o treime din amplitudine). Sensibilitate marcată la palpare paravertebrală lombară și la nivelul mușchiului piriform drept (VAS 7-8 la presiune). Test Lasègue pozitiv pe dreapta la aproximativ 45 de grade, negativ pe stânga. Diagnostic: contractură paravertebrală lombară cu iritație piriform drept. Obiective terapeutice: reducerea inflamației lombare, relaxarea musculaturii contractate, recuperarea mobilității."
+}

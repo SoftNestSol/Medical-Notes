@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "Durere cervicala si ceafa, legata de postura la birou",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "cervical",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Nurofen",
+      "doza": "1 comprimat"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: Cervicalgie posturala;\n- contractura trapez si suboccipitali dreapta;\n- mobilitate redusa rotatie dreapta\nObiective terapeutice: - reducerea contracturii musculare;\n- recuperarea mobilitatii pe rotatie"
+}

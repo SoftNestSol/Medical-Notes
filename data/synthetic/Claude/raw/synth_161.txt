@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Umărul drept sau stâng?\nSPEAKER_01: Drept.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut din senin sau după ceva, un efort, o lovitură?\nSPEAKER_01: Am mutat niște cutii grele.\nSPEAKER_00: Deci după un efort fizic. Bun. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo șase.\nSPEAKER_00: Șase. Doare constant sau doar când mișcați brațul?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Când ridicați brațul în sus sau și în lateral?\nSPEAKER_01: Și în sus și în lateral.\nSPEAKER_00: Noaptea vă deranjează, când stați pe partea dreaptă?\nSPEAKER_01: Da, nu pot sta pe partea aia.\nSPEAKER_00: Am înțeles. Și în față, spre piept, mișcarea asta doare?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Ok. Durerea rămâne în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne acolo, nu coboară.\nSPEAKER_00: Bun. Alte probleme de sănătate, tensiune, diabet, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio afecțiune?\nSPEAKER_01: Nu știu, nimic deosebit.\nSPEAKER_00: Luați vreo pastilă în momentul ăsta, ceva pentru durere?\nSPEAKER_01: Ibuprofen, un comprimat când mă doare tare.\nSPEAKER_00: Câte miligrame?\nSPEAKER_01: Nu știu, cel obișnuit din farmacie.\nSPEAKER_00: Am înțeles. Haideți să facem câteva mișcări, ridicați brațul drept în sus cât puteți.\nSPEAKER_01: Până pe la nivelul ăsta.\nSPEAKER_00: Deci undeva la nouăzeci de grade și deja apare durerea?\nSPEAKER_01: Da.\nSPEAKER_00: Acum în lateral la fel, ridicați.\nSPEAKER_01: Da, cam la fel.\nSPEAKER_00: Deci arc dureros prezent atât la flexie cât și la abducție. Apăs acum ușor pe acromion... doare?\nSPEAKER_01: Da, acolo fix.\nSPEAKER_00: Și dacă apăs pe tendonul bicepsului, în față?\nSPEAKER_01: Și acolo puțin.\nSPEAKER_00: Ok. Avem o inflamație la nivelul umărului drept, cel mai probabil tendonul supraspinatusului și poate o tendinită de biceps asociată. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea completă a umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Vom începe ușor, câteva ședințe, și vedem cum răspunde. Aveți radiografie sau ecografie făcută?\nSPEAKER_01: Nu.\nSPEAKER_00: Ar fi util să facem o ecografie de umăr pe viitor ca să confirmăm. Dar pentru moment trecem la treabă.\nSPEAKER_01: Bine.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după efort fizic (mutat cutii grele), de aproximativ două săptămâni",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Arc dureros prezent la flexie și abducție umăr drept (limitat la aproximativ 90 de grade). Sensibilitate la palpare pe acromion și tendonul bicepsului. Diagnostic: inflamație umăr drept, suspiciune tendinită supraspinat și tendinită biceps. Obiective terapeutice: reducerea inflamației și recuperarea mobilității complete a umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Drept.", "Vreo două săptămâni.", "Am mutat niște cutii grele."],
+    "evaluarea_durerii_vas": ["Vreo șase."],
+    "localizarea_durerii": ["Mă doare umărul.", "Umărul drept sau stâng?", "Drept."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Ibuprofen, un comprimat când mă doare tare."],
+    "evaluare_functionala_initiala": ["Deci undeva la nouăzeci de grade și deja apare durerea?", "Deci arc dureros prezent atât la flexie cât și la abducție.", "Apăs acum ușor pe acromion... doare?", "Da, acolo fix.", "Și dacă apăs pe tendonul bicepsului, în față?", "Avem o inflamație la nivelul umărului drept, cel mai probabil tendonul supraspinatusului și poate o tendinită de biceps asociată. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea completă a umărului."]
+  }
+}

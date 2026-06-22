@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Durere lombară apărută după ridicare de saci la muncă, de aproximativ două săptămâni. Durere la mișcare (aplecare, ridicare) și la stat pe scaun prelungit, fără iradiere pe membre.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": "Episod similar de lombalgalgie acum doi ani, tratat cu antiinflamatoare.",
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400 mg, o pastilă pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: lombalghe acută mecanică, contractură paravertebrală lombară mai accentuată pe dreapta (L4-L5).\nObiective terapeutice: reducerea contracturii și a inflamației, recuperarea mobilității lombare."
+}

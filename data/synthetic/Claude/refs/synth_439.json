@@ -1,0 +1,25 @@
+{
+  "motivul_prezentarii": "Durere umar stang cu iradiere cervicala, agravata la miscare si noapte, aparuta posibil dupa dormit pe perna necorespunzatoare; limitarea mobilitatii bratului stang.",
+  "evaluarea_durerii_vas": [
+    4,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_stg",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "50 micrograme zilnic"
+    },
+    {
+      "denumire": "Nurofen",
+      "doza": "ocazional"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: tendinita umar stang, posibila iritatie manseta rotatori; componenta cervicala C5-C6.\nObiective terapeutice: reducerea inflamatiei, recastigarea mobilitatii, corectarea posturii."
+}

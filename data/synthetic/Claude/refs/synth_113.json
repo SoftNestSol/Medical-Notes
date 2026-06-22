@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere cervicală de aproximativ două săptămâni, instalată treptat, asociată cu munca la birou. Iradiere spre umărul stâng, amorțeli ocazionale ale mâinii noaptea, dureri de cap uneori.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "5 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contractură musculară cervicală cu iradiere spre umărul stâng; tensionare trapez.\nMobilitate limitată în rotație și înclinare laterală stânga.\nObiective terapeutice: reducerea contracturii, redarea mobilității cervicale."
+}

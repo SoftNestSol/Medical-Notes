@@ -1,0 +1,337 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua!"
+    },
+    {
+      "start": 2.56,
+      "end": 6.74,
+      "speaker": "SPEAKER_00",
+      "text": "Luați loc, vă rog. Spuneți-mi cu ce problemă veniți azi."
+    },
+    {
+      "start": 6.86,
+      "end": 20.92,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, uite, mă doare mijlocul spatelui de ceva vreme și sincer nu știam dacă să vin sau nu, că ziceam că poate trece de la sine, dar nu a trecut, ba chiar parcă s-a mai accentuat."
+    },
+    {
+      "start": 21.04,
+      "end": 22.94,
+      "speaker": "SPEAKER_00",
+      "text": "Mijlocul spatelui, deci zona toracală."
+    },
+    {
+      "start": 23.06,
+      "end": 33.32,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, exact pe acolo, între omoplați, cam în zona aia. Adică nu e jos, nu e sus la gât, e fix la mijloc, cum ar veni."
+    },
+    {
+      "start": 33.44,
+      "end": 34.96,
+      "speaker": "SPEAKER_00",
+      "text": "Și de când durează?"
+    },
+    {
+      "start": 35.08,
+      "end": 52.94,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo trei săptămâni. Sau poate mai bine de o lună, că nu știu exact când a început. Parcă a apărut treptat, nu dintr-odată. Adică nu am căzut, nu am ridicat ceva, pur și simplu am simțit că mă ține din ce în ce mai tare."
+    },
+    {
+      "start": 53.06,
+      "end": 58.76,
+      "speaker": "SPEAKER_00",
+      "text": "Și ce fel de durere e? E o durere ascuțită, e o apăsare, o tensiune?"
+    },
+    {
+      "start": 58.88,
+      "end": 72.56,
+      "speaker": "SPEAKER_01",
+      "text": "E mai degrabă ca o apăsare, ca și cum ai sta cu ceva greu pe spate. Câteodată mai simt și un fel de arsură acolo, dar nu mereu. Asta mă deranjează mai mult, apăsarea aia continuă."
+    },
+    {
+      "start": 72.68,
+      "end": 75.72,
+      "speaker": "SPEAKER_00",
+      "text": "E mai rău în anumite momente ale zilei?"
+    },
+    {
+      "start": 75.84,
+      "end": 92.18,
+      "speaker": "SPEAKER_01",
+      "text": "Da, dimineața când mă trezesc e mai rău, dar și după ce stau mult la birou. Eu lucrez la calculator, stau cam opt-nouă ore pe zi, și spre seară mă chinuie mai tare. Înainte de culcare e probabil cel mai rău moment."
+    },
+    {
+      "start": 92.3,
+      "end": 95.72,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă vă ridicați, mergeți un pic, se ameliorează?"
+    },
+    {
+      "start": 95.84,
+      "end": 106.1,
+      "speaker": "SPEAKER_01",
+      "text": "Hmm, oarecum, da. Dacă mă plimb un pic sau dacă mă întind pe spate pe podea, mai trece. Dar repede revine când mă pun iar la birou."
+    },
+    {
+      "start": 106.22,
+      "end": 113.06,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cât de intensă e durerea în momentul cel mai rău?"
+    },
+    {
+      "start": 113.18,
+      "end": 121.92,
+      "speaker": "SPEAKER_01",
+      "text": "Aș zice un 6. Nu e insuportabilă, dar e deranjantă. Adică nu pot să mă concentrez la muncă, mă tot foiesc pe scaun."
+    },
+    {
+      "start": 122.04,
+      "end": 126.22,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și durerea rămâne locală, între omoplați, sau se lasă undeva?"
+    },
+    {
+      "start": 126.34,
+      "end": 141.54,
+      "speaker": "SPEAKER_01",
+      "text": "Câteodată simt că urcă un pic spre ceafă, dar nu mă doare ceafa propriu-zis. Și mai rar simt că se extinde un pic pe coaste, pe lateral, nu știu cum să descriu. E ca o tensiune care se răspândește."
+    },
+    {
+      "start": 141.66,
+      "end": 144.32,
+      "speaker": "SPEAKER_00",
+      "text": "Deci uneori și pe coaste, pe lateral."
+    },
+    {
+      "start": 144.44,
+      "end": 148.62,
+      "speaker": "SPEAKER_01",
+      "text": "Da, dar nu mereu. Rar, mai ales când stau mult strâmb."
+    },
+    {
+      "start": 148.74,
+      "end": 152.92,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți dificultăți la respirație, simțiți că nu puteți trage aer complet?"
+    },
+    {
+      "start": 153.04,
+      "end": 162.92,
+      "speaker": "SPEAKER_01",
+      "text": "Nu chiar dificultăți, dar câteodată simt că trebuie să trag un aer mai adânc, că parcă nu e suficient. Dar nu mă sufoc sau ceva, nu."
+    },
+    {
+      "start": 163.04,
+      "end": 168.74,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Și cum stați de obicei la birou? Cu spatele drept sau mai ghemuit?"
+    },
+    {
+      "start": 168.86,
+      "end": 181.78,
+      "speaker": "SPEAKER_01",
+      "text": "Sincer... ghemuit. Adică știu că nu e bine, îmi zice și soția mereu, dar mă prind mereu cu umerii duși în față și cu capul în față. Pur și simplu uit să stau drept."
+    },
+    {
+      "start": 181.9,
+      "end": 188.36,
+      "speaker": "SPEAKER_00",
+      "text": "Clar. Aveți vreun antecedent, vreo operație sau vreo problemă de sănătate despre care ar trebui să știu?"
+    },
+    {
+      "start": 188.48,
+      "end": 210.52,
+      "speaker": "SPEAKER_01",
+      "text": "Operație nu am avut niciodată. Am avut o fractură la mâna dreaptă acum vreo zece ani, dar a trecut, n-am mai avut probleme cu ea. Și mi s-a spus la un control acum câțiva ani că am o ușoară scolioză, dar mi-au zis că nu e gravă și că nu trebuie să fac nimic special."
+    },
+    {
+      "start": 210.64,
+      "end": 214.82,
+      "speaker": "SPEAKER_00",
+      "text": "Scolioză ușoară, da. La nivel lombar sau toracal s-a spus?"
+    },
+    {
+      "start": 214.94,
+      "end": 226.34,
+      "speaker": "SPEAKER_01",
+      "text": "Nu mai știu exact, cred că toracal, dar nu sunt sigur. Mi-a arătat pe radiografie, era o curbură mică, mi-a zis să fac sport, să înot, și gata."
+    },
+    {
+      "start": 226.46,
+      "end": 228.74,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Tensiune arterială, diabet, altceva?"
+    },
+    {
+      "start": 228.86,
+      "end": 235.7,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea. Sunt relativ sănătos, nu merg des la medic sincer. Poate prea rar."
+    },
+    {
+      "start": 235.82,
+      "end": 237.72,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament în prezent?"
+    },
+    {
+      "start": 237.84,
+      "end": 246.58,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. M-am gândit să iau un antiinflamator, dar n-am luat, am vrut să vin mai întâi să văd ce e."
+    },
+    {
+      "start": 246.7,
+      "end": 250.5,
+      "speaker": "SPEAKER_00",
+      "text": "Bine că ați venit. Faceți vreun sport, vreun exercițiu fizic?"
+    },
+    {
+      "start": 250.62,
+      "end": 264.68,
+      "speaker": "SPEAKER_01",
+      "text": "Nu prea. Adică merg pe jos uneori, dar sport organizat nu fac. Am zis de multe ori că mă apuc, că mă duc la sală, dar tot amân. Munca mă obosește și seara nu mai am chef."
+    },
+    {
+      "start": 264.8,
+      "end": 265.94,
+      "speaker": "SPEAKER_00",
+      "text": "Câți ani aveți?"
+    },
+    {
+      "start": 266.06,
+      "end": 266.86,
+      "speaker": "SPEAKER_01",
+      "text": "38."
+    },
+    {
+      "start": 266.98,
+      "end": 271.92,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți să vă rog să stați în picioare cu spatele la mine."
+    },
+    {
+      "start": 272.04,
+      "end": 272.84,
+      "speaker": "SPEAKER_01",
+      "text": "Sigur, poftim."
+    },
+    {
+      "start": 272.96,
+      "end": 285.12,
+      "speaker": "SPEAKER_00",
+      "text": "Stați relaxat, mâinile pe lângă corp. Văd că într-adevăr umerii sunt duși în față, și capul e ușor proiectat înainte. E o postură caracteristică pentru cineva care stă mult la calculator."
+    },
+    {
+      "start": 285.24,
+      "end": 289.42,
+      "speaker": "SPEAKER_01",
+      "text": "Da, știu, e un viciu al meu. Soția îmi zice constant."
+    },
+    {
+      "start": 289.54,
+      "end": 294.1,
+      "speaker": "SPEAKER_00",
+      "text": "Acum puneți mâinile la ceafă și aplecați-vă ușor în față. Doare?"
+    },
+    {
+      "start": 294.22,
+      "end": 296.5,
+      "speaker": "SPEAKER_01",
+      "text": "Da, simt ceva acolo la mijloc."
+    },
+    {
+      "start": 296.62,
+      "end": 298.9,
+      "speaker": "SPEAKER_00",
+      "text": "Și înapoi, ușor pe spate. Doare?"
+    },
+    {
+      "start": 299.02,
+      "end": 301.3,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, dar simt o tensiune."
+    },
+    {
+      "start": 301.42,
+      "end": 304.84,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum vă apăs puțin paravertebral... Aici simțiți ceva?"
+    },
+    {
+      "start": 304.96,
+      "end": 306.86,
+      "speaker": "SPEAKER_01",
+      "text": "Aoleo, da, acolo e sensibil."
+    },
+    {
+      "start": 306.98,
+      "end": 308.12,
+      "speaker": "SPEAKER_00",
+      "text": "Pe ambele părți?"
+    },
+    {
+      "start": 308.24,
+      "end": 309.76,
+      "speaker": "SPEAKER_01",
+      "text": "Pe dreapta mai tare."
+    },
+    {
+      "start": 309.88,
+      "end": 319.0,
+      "speaker": "SPEAKER_00",
+      "text": "Deci sensibilitate mai accentuată paravertebral dreapta în zona toracală medie. Haideți să tragem și un aer... Îmi spuneți dacă simțiți că se accentuează durerea."
+    },
+    {
+      "start": 319.12,
+      "end": 322.92,
+      "speaker": "SPEAKER_01",
+      "text": "La respirația adâncă? Un pic, da, simt că trage acolo."
+    },
+    {
+      "start": 323.04,
+      "end": 350.4,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Deci avem o contractură musculară toracală destul de clară, pe fond de postură deficitară și muncă sedentară prelungită. Combinat cu scolioza ușoară pe care o aveți, musculatura paravertebrală toracală se suprasolicitează asimetric. Asta explică și tensiunea pe care o simțiți uneori spre coaste. Obiectivul nostru va fi să reducem contractura asta, să lucrăm mobilitatea coloanei toracale și să vă dăm și câteva exerciții posturale pe care să le faceți acasă."
+    },
+    {
+      "start": 350.52,
+      "end": 360.78,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu e ceva grav? Că m-am tot gândit, poate e ceva la inimă sau la plămâni, că am citit pe internet și m-am speriat."
+    },
+    {
+      "start": 360.9,
+      "end": 374.96,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg îngrijorarea, dar din ce testăm astăzi tabloul e musculo-scheletal. Evident, dacă aveați și alte simptome, durere în piept, palpitații, vă trimiteam la medic. Dar la dumneavoastră e o problemă de postură și de tensiune musculară."
+    },
+    {
+      "start": 375.08,
+      "end": 380.4,
+      "speaker": "SPEAKER_01",
+      "text": "Uf, mă bucur să aud asta. Serios, am stat cu gândul ăsta o săptămână."
+    },
+    {
+      "start": 380.52,
+      "end": 383.94,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă, vă rog, cu fața în jos."
+    }
+  ]
+}

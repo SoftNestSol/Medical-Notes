@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți la noi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați lovit, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Și imediat după a început să doară?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde ați situa durerea?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Doare constant sau numai când mișcați brațul?\nSPEAKER_01: Când mișc.\nSPEAKER_00: Când ridicați brațul în sus doare?\nSPEAKER_01: Da, mai ales acolo.\nSPEAKER_00: Și când îl duceți în spate?\nSPEAKER_01: Și acolo.\nSPEAKER_00: Noaptea vă treziți din cauza durerii?\nSPEAKER_01: Uneori.\nSPEAKER_00: Doare și în repaus sau numai când vă mișcați?\nSPEAKER_01: Mai mult când mă mișc.\nSPEAKER_00: Durerea rămâne la umăr sau coboară pe braț?\nSPEAKER_01: Rămâne acolo.\nSPEAKER_00: Bun. Aveți tensiune, diabet, osteoporoză, altceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să facem câteva teste. Ridicați brațul drept în față, încet.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și în lateral, ridicați-l lateral?\nSPEAKER_01: Același lucru.\nSPEAKER_00: Vedem că mișcarea e limitată și doare în ambele planuri. Acum apăs pe zona de deasupra umărului, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Exact în vârful umărului sau mai în față?\nSPEAKER_01: Mai în față.\nSPEAKER_00: Bun. Acesta pare a fi tendonul supraspinosului inflamat, posibil și o iritație a bursei subacromiale. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului drept.\nSPEAKER_01: Ok.\nSPEAKER_00: Începem astăzi.\nSPEAKER_01: Bine.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa mutare de mobila, de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Mobilitate limitata si dureroasa in flexie si abductie umar drept. Sensibilitate la palpare anterior subacromial. Diagnostic: inflamatie tendon supraspinos si posibila iritatie bursa subacomiala. Obiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii umarului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 6."],
+    "localizarea_durerii": ["Dreptul.", "Rămâne acolo."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Vedem că mișcarea e limitată și doare în ambele planuri.", "Exact în vârful umărului sau mai în față?", "Mai în față.", "Acesta pare a fi tendonul supraspinosului inflamat, posibil și o iritație a bursei subacromiale. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului drept."]
+  }
+}

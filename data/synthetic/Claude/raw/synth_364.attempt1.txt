@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi cum vă numiți, vă rog.\nSPEAKER_01: Ionescu Mihai.\nSPEAKER_00: Domnule Ionescu, cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, o lovitură, un efort mai mare?\nSPEAKER_01: Am zugrăvit acasă.\nSPEAKER_00: Deci lucru deasupra capului. Și de atunci a pornit?\nSPEAKER_01: Da.\nSPEAKER_00: Doare constant sau doar când mișcați brațul?\nSPEAKER_01: Când îl ridic.\nSPEAKER_00: Când îl ridicați. Și dacă ridic eu brațul în față, doare?\nSPEAKER_01: Da, cam de pe la jumătate în sus.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare în momentul ăla?\nSPEAKER_01: Un 6.\nSPEAKER_00: 6. Și în repaus?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Nu prea. Noaptea vă treziți din somn din cauza durerii?\nSPEAKER_01: Uneori, dacă stau pe acea parte.\nSPEAKER_00: Dacă stați pe umărul drept. Bun. Durerea rămâne locală în umăr sau se lasă pe braț în jos?\nSPEAKER_01: Rămâne sus, în umăr.\nSPEAKER_00: Amorțeală sau furnicături pe braț sau mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bine. Ați mai avut această problemă cu umărul anterior?\nSPEAKER_01: Nu.\nSPEAKER_00: Prima dată. Alte afecțiuni știute, tensiune, diabet, probleme osoase?\nSPEAKER_01: Nu, sunt sănătos.\nSPEAKER_00: Bine. Luați vreo medicație în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun fel de pastilă, antiinflamator?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Aveți radiografie sau ecografie la umăr?\nSPEAKER_01: Nu am făcut.\nSPEAKER_00: Nu aveți. Haideți să vedem câteva mișcări. Ridicați brațul în față, cât puteți. Opriți-vă unde simțiți durere.\nSPEAKER_01: Până cam aici.\nSPEAKER_00: Deci cam la 90 de grade. Acum ridicați în lateral.\nSPEAKER_01: La fel, cam tot pe aici.\nSPEAKER_00: La fel. Limitare la abducție și flexie în jur de 90 de grade. Acum puneți mâna la spate, cât ajungeți.\nSPEAKER_01: Greu, nu prea ajung sus.\nSPEAKER_00: Limitare și la rotație internă. Apăs acum pe zona asta din față, sub claviculă. Doare?\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Acolo exact. Și lateral, pe lateral umărului?\nSPEAKER_01: Și acolo da.\nSPEAKER_00: Bun. Domnule Ionescu, ceea ce vedem este o inflamație la nivelul tendoanelor din zona umărului drept, cel mai probabil la nivelul manșetei rotatorilor, declanșată după efortul de zugrăvit. Avem o limitare clară a mișcării de ridicare a brațului și o sensibilitate la palpare anterioară și laterală. Obiectivul nostru este să reducem această inflamație și să recuperăm mobilitatea umărului, astfel încât să puteți ridica brațul fără durere. Vom începe cu câteva ședințe, vedem cum răspundeți și mergem mai departe.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după efort de zugrăvit, de aproximativ două săptămâni",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Limitare la abducție și flexie aproximativ 90 de grade; limitare la rotație internă. Sensibilitate la palpare anterioară (sub claviculă) și laterală. Diagnostic: inflamație tendoane manșetă rotatori umăr drept, declanșată după efort repetitiv deasupra capului. Obiective terapeutice: reducerea inflamației și recuperarea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Am zugrăvit acasă.", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un 6."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Limitare la abducție și flexie în jur de 90 de grade.", "Limitare și la rotație internă.", "Apăs acum pe zona asta din față, sub claviculă. Doare? Da, acolo doare.", "ceea ce vedem este o inflamație la nivelul tendoanelor din zona umărului drept, cel mai probabil la nivelul manșetei rotatorilor", "Obiectivul nostru este să reducem această inflamație și să recuperăm mobilitatea umărului"]
+  }
+}

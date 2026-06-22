@@ -1,0 +1,19 @@
+{
+  "motivul_prezentarii": "Pacient cu durere la nivelul umărului stâng de aproximativ două săptămâni, accentuată la ridicarea brațului și la extensia anterioară, cu treziri nocturne. Lucrează la birou, utilizează mouse-ul cu mâna stângă.",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Amlodipină",
+      "doza": "5 mg pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nLimitare mobilitate umăr stâng la aproximativ 90 de grade în flexie anterioară; abducție ușor mai puțin limitată. Durere la palpare pe vârful umărului, la nivelul tendonului supraspinos.\nDiagnostic:\nTendinopatie de supraspinos, posibil cu inflamație subacromială.\nObiective terapeutice:\nReducerea inflamației; recuperarea mobilității umărului stâng."
+}

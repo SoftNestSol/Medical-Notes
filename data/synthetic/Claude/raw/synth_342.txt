@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Gheorghe Stancu.\nSPEAKER_00: Stancu, și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Bun. Cu ce problemă vă vedem azi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. A apărut dintr-o dată sau treptat?\nSPEAKER_01: Dintr-o dată, dimineața m-am trezit și nu mai puteam întoarce capul.\nSPEAKER_00: Înțeles. Și acum, în momentul de față, puteți întoarce capul sau tot vă blochează?\nSPEAKER_01: Merge ceva mai bine, dar tot mă ține.\nSPEAKER_00: Vă ține. Doare mai mult pe o parte sau pe ambele?\nSPEAKER_01: Mai mult pe dreapta.\nSPEAKER_00: Pe dreapta. Durerea rămâne la gât sau se lasă undeva, pe umăr, pe braț?\nSPEAKER_01: Uneori pe umăr, pe dreapta.\nSPEAKER_00: Pe umărul drept. Mai jos de umăr, pe braț, simțiți ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală, niciun furnicătură?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât e durerea acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Un 5. Și când v-ați trezit prima dată, cum era?\nSPEAKER_01: Atunci era mai rău, vreo 8.\nSPEAKER_00: Un 8 la debut, acum un 5. Lucrați la birou sau mai mult în mișcare?\nSPEAKER_01: La birou, mult pe calculator.\nSPEAKER_00: Mult pe calculator. Cum stați de obicei, cu monitorul drept în față sau cam pe o parte?\nSPEAKER_01: Puțin pe stânga, că așa e biroul meu.\nSPEAKER_00: Înțeles, deci capul ușor rotit spre stânga ore întregi. Aveți și dureri de cap din cauza asta?\nSPEAKER_01: Câteodată, da.\nSPEAKER_00: Câteodată. Și durerea de cap apare mai mult în zona cefei sau în frunte?\nSPEAKER_01: La ceafă.\nSPEAKER_00: La ceafă. Bun. Haideți să stați puțin în picioare și faceți o rotație ușoară spre dreapta.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare când opriți?\nSPEAKER_01: Da.\nSPEAKER_00: Da. Și spre stânga, la fel?\nSPEAKER_01: Mai bine spre stânga.\nSPEAKER_00: Mai bine spre stânga. Acum aplecați capul ușor spre umărul drept.\nSPEAKER_01: Au, da, doare acolo.\nSPEAKER_00: Doare. Bun. Voi apăsa acum puțin în zona de cervical, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo sus doare.\nSPEAKER_00: Sus, la C2, C3. Mai jos?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin. Bun. Afecțiuni aveți, tensiune, diabet, epilepsie, altceva?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații, traumatisme, accidente?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Ce vă pot spune este că avem o contractură destul de pronunțată pe mușchii ridicători ai scapulei și pe trapezul superior drept, iar zona cervicală sus, C2-C3, e inflamată și blocată. Postura la birou a contribuit sigur la asta. O să lucrăm în primul rând să reducem contractura și inflamația și să recuperăm mobilitatea de rotație spre dreapta.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicala cu iradiere in umar drept, debut acut acum doua saptamani",
+    "evaluarea_durerii_vas": [5, 8],
+    "localizarea_durerii": ["cervical", "umar_dr", "cap_ceafa"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: contractura ridicatori scapula si trapez superior drept; inflamatie si blocaj cervical C2-C3\nObiective terapeutice: reducerea contracturii si inflamatiei; recuperarea mobilitatii de rotatie spre dreapta"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "dimineața m-am trezit și nu mai puteam întoarce capul", "De vreo două săptămâni"],
+    "evaluarea_durerii_vas": ["Vreo 5.", "Atunci era mai rău, vreo 8."],
+    "localizarea_durerii": ["Mai mult pe dreapta.", "Uneori pe umăr, pe dreapta.", "La ceafă."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o contractură destul de pronunțată pe mușchii ridicători ai scapulei și pe trapezul superior drept, iar zona cervicală sus, C2-C3, e inflamată și blocată", "O să lucrăm în primul rând să reducem contractura și inflamația și să recuperăm mobilitatea de rotație spre dreapta"]
+  }
+}

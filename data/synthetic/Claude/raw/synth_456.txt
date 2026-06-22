@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua!\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Gheorghe Matei.\nSPEAKER_00: Și vârsta, dacă se poate.\nSPEAKER_01: 38 de ani. Mă simt de 60, sincer.\nSPEAKER_00: Și cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi, mă doare umărul drept de vreo trei săptămâni. Am zis că trece, că poate am dormit strâmb, dar nu trece. Ba chiar mi se pare că s-a înrăutățit puțin față de început. Și am venit că mi-a zis și soția mea să nu mai amân, că eu tot zic că trece și nu trece niciodată de la sine.\nSPEAKER_00: Înțeles. Și durerea asta e locală la umăr sau se lasă și în jos pe braț?\nSPEAKER_01: Se lasă și pe braț, da, cam până la cot. Nu mai jos. Adică dacă ridic mâna sau o duc în spate simt că mă fulgera așa, pe partea din afară a brațului.\nSPEAKER_00: Pe partea din afară.\nSPEAKER_01: Da, exact. Și noaptea mă trezesc câteodată pentru că nu știu pe ce parte să dorm. Dacă mă întorc pe dreapta, mă doare imediat.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare cel mai rău, cum e durerea acum?\nSPEAKER_01: Acum, în repaus, vreo 4. Dar dacă ridic brațul sau îl duc în spate, ajunge ușor la 7, poate chiar 8 în unele mișcări.\nSPEAKER_00: Deci un 4 în repaus și un 7-8 la mișcare.\nSPEAKER_01: Da, cam așa.\nSPEAKER_00: Și cum a apărut? A existat vreun traumatism, vreo lovitură, ceva ce ați ridicat greu?\nSPEAKER_01: Nu știu exact. Adică, eu lucrez în construcții, duc lucruri mai grele câteodată, dar nu îmi amintesc să fi făcut ceva anume. Poate am exagerat într-o zi, nu știu. A apărut treptat.\nSPEAKER_00: Deci fără un moment clar de debut.\nSPEAKER_01: Nu, nu, nimic dramatic. Parcă dimineața mă trezeam și era tot mai rigid.\nSPEAKER_00: Ați pus ceva pe el, vreun gel, vreo cremă?\nSPEAKER_01: Da, am folosit Voltaren, gelul ăla, câteva zile. A ajutat un pic, dar nu a rezolvat problema. Am mai luat și un Nurofen o dată când nu mai puteam de durere, dar nu iau regulat.\nSPEAKER_00: Înțeles. Voltaren gel și un Nurofen ocazional.\nSPEAKER_01: Da, nu mai mult. Nu prea îmi place să iau pastile.\nSPEAKER_00: Aveți alte probleme de sănătate, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu, nimic. Sunt sănătos tun, în rest. Poate puțin stresat, dar asta e altă poveste.\nSPEAKER_00: Nicio operație, nicio fractură pe zona asta?\nSPEAKER_01: Nu, n-am pățit nimic la umăr până acum. Ăsta e primul semnal.\nSPEAKER_00: Ok. Haideți să vă verific puțin mișcările. Ridicați brațul în față, încet.\nSPEAKER_01: Până aici pot, mai sus deja mă fulgera.\nSPEAKER_00: Și până unde ajungeți aproximativ?\nSPEAKER_01: Cam la orizontală, poate un pic mai sus, dar nu prea.\nSPEAKER_00: Bun. Acum duceți mâna în spate, ca și cum ați prinde centura.\nSPEAKER_01: Aaah, asta doare mai rău. Nu ajung, nu pot.\nSPEAKER_00: Am înțeles. Stați puțin, apăs acum pe zona de sub acromion, în zona supraspinosului. Doare?\nSPEAKER_01: Da, da, chiar acolo mă doare cel mai tare.\nSPEAKER_00: Exact acolo. Și dacă apăs pe biceps, pe tendonul bicipital aici?\nSPEAKER_01: Mai puțin, dar și acolo simt ceva.\nSPEAKER_00: Ok. Deci avem o limitare clară a abducției și a rotației interne, cu durere maximă subacromială. Pare o tendinopatia a coifului rotatorilor, supraspinos în principal. Vom lucra pe reducerea inflamației din zonă și pe recuperarea mobilității umărului.\nSPEAKER_01: Și credeți că se poate rezolva? Că mă tem că o să rămân cu ea, că am auzit că umărul e complicat.\nSPEAKER_00: Da, cu siguranță putem reduce durerea și reda mobilitatea. O să avem nevoie de câteva ședințe, dar rezultatele apar.\nSPEAKER_01: Bine, bine. Și să evit să ridic greutăți la muncă?\nSPEAKER_00: Deocamdată da, cât timp lucrăm pe inflamație, evitați solicitările mari pe umărul drept.\nSPEAKER_01: Ok, înțeles. Mulțumesc.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept cu iradiere pe brat pana la cot, aparuta treptat de aproximativ trei saptamani, agravata la ridicarea bratului si rotatia interna, cu treziri nocturne.",
+    "evaluarea_durerii_vas": [4, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": "brat drept pana la cot (fata laterala)",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      },
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare abductie si rotatie interna umar drept; durere maxima subacromiana la palparea supraspinosului; sensibilitate pe tendonul bicipital. Diagnostic: tendinopatie coif rotatori (supraspinos). Obiective terapeutice: reducerea inflamatiei si recuperarea mobilitatii umarului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul drept de vreo trei săptămâni", "A apărut treptat", "noaptea mă trezesc câteodată pentru că nu știu pe ce parte să dorm. Dacă mă întorc pe dreapta, mă doare imediat"],
+    "evaluarea_durerii_vas": ["Acum, în repaus, vreo 4. Dar dacă ridic brațul sau îl duc în spate, ajunge ușor la 7, poate chiar 8 în unele mișcări"],
+    "localizarea_durerii": ["mă doare umărul drept"],
+    "localizarea_durerii_alta": ["Se lasă și pe braț, da, cam până la cot. Nu mai jos. Adică dacă ridic mâna sau o duc în spate simt că mă fulgera așa, pe partea din afară a brațului"],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["am folosit Voltaren, gelul ăla, câteva zile", "Am mai luat și un Nurofen o dată când nu mai puteam de durere, dar nu iau regulat"],
+    "evaluare_functionala_initiala": ["avem o limitare clară a abducției și a rotației interne, cu durere maximă subacromială. Pare o tendinopatia a coifului rotatorilor, supraspinos în principal. Vom lucra pe reducerea inflamației din zonă și pe recuperarea mobilității umărului", "apăs acum pe zona de sub acromion, în zona supraspinosului. Doare?", "Da, da, chiar acolo mă doare cel mai tare"]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_258",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare... pe aici, pe partea asta de sus a spatelui, și un pic și în zona gâtului",
+      "uneori simt ceva pe... pe umărul stâng, pe acolo",
+      "de vreo... nu știu, câteva săptămâni cel puțin",
+      "după ce stau mult la calculator"
+    ],
+    "evaluarea_durerii_vas": [
+      "Poate un 5, ceva de genul ăsta."
+    ],
+    "localizarea_durerii": [
+      "zona cervicală și zona dorsală superioară",
+      "uneori simt ceva pe... pe umărul stâng, pe acolo",
+      "acolo da, e sensibil",
+      "la trapez superior pe stânga"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "mi s-a spus la un moment dat că am o ușoară scolioză"
+    ],
+    "antecedente_altele": [
+      "Am avut o fractură la mână când eram mai mică, dar aia e de mult, s-a rezolvat."
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Observ că umărul stâng e ușor mai căzut față de cel drept. Și capul e ușor proiectat în față.",
+      "rotația spre stânga e limitată și dureroasă",
+      "La trapez superior pe stânga?",
+      "apăs la baza gâtului, zona C6-C7, doare?",
+      "avem o tensionare musculară importantă în zona trapezului superior și a paravertebralilor cervicali, cu o mobilitate cervicală redusă, mai ales în rotație spre stânga"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13796,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 3129,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

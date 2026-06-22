@@ -1,0 +1,57 @@
+{
+  "conversation_id": "synth_460",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept de ceva vreme",
+      "am ridicat ceva mai greu și atunci parcă am simțit ceva",
+      "a doua zi m-am trezit și nu mai puteam ridica brațul",
+      "se simte și pe braț, pe partea din față, cam până la cot",
+      "Mă trezesc și nu pot să mă pun la loc ușor"
+    ],
+    "evaluarea_durerii_vas": [
+      "dacă stau liniștită, poate un 4",
+      "dacă ridic brațul sau încerc să ajung la ceva sus, se duce la 8, poate chiar 9"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept",
+      "doare chiar tare",
+      "în zona aceasta de sub acromion"
+    ],
+    "localizarea_durerii_alta": [
+      "se simte și pe braț, pe partea din față, cam până la cot"
+    ],
+    "antecedente": [
+      "am tensiune arterială, am de vreo câțiva ani"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Perindopril, 5 miligrame, în fiecare dimineață",
+      "mai iau câte un calmant când mă doare tare umărul, un Ketoprofen",
+      "100 de miligrame cred"
+    ],
+    "evaluare_functionala_initiala": [
+      "abducția e limitată",
+      "nu pot peste orizontală",
+      "Și mă doare și în zona asta din față a umărului",
+      "Un 7 la presiune sub acromion",
+      "și acolo doare, un 5-6",
+      "forța e redusă și e dureroasă",
+      "avem de-a face cu o inflamație la nivelul umărului drept, mai exact tendinita de coafă a rotatorilor",
+      "o să lucrăm pe reducerea inflamației, pe decomprimarea zonei de sub acromion și pe recuperarea amplitudinii de mișcare"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13861,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 3698,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

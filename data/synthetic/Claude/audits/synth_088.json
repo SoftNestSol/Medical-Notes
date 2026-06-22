@@ -1,0 +1,45 @@
+{
+  "conversation_id": "synth_088",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare pe aici, prin zona de spate, mai jos, și nu știu exact, uneori e și pe lateral",
+      "Am simțit prima oară când... am stat mult jos la birou și m-am ridicat și m-a cam ținut. Și după aia a rămas",
+      "Dimineața când mă trezesc mă mai ține un pic, și dacă stau mult jos la birou iarăși apare. Dacă mă mișc, nu știu, pare că mai trece",
+      "gâtul uneori mă mai trage, mai ales la sfârșit de zi",
+      "uneori parcă simt ceva pe... pe coapsa asta, pe stânga, dar nu știu dacă e legat"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "mă doare pe aici, prin zona de spate, mai jos",
+      "Da, cred că da, lombar, nu știu cum îi zice",
+      "gâtul uneori mă mai trage, mai ales la sfârșit de zi"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori parcă simt ceva pe... pe coapsa asta, pe stânga"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Uneori iau câte un Nurofen când mă doare rău, dar nu des"
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți umărul stâng puțin mai sus decât cel drept",
+      "Și bazinul e puțin înclinat, pe stânga jos",
+      "Avem o contractură paravertebrală lombară destul de clară, mai ales pe stânga, cu o înclinare de bazin. Și la cervical o tensiune musculară, probabil din postură. O să încercăm să reducem contractura, să eliberăm zona lombară și să lucrăm și gâtul puțin"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23026,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3465,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

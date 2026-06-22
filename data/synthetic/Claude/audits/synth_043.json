@@ -1,0 +1,43 @@
+{
+  "conversation_id": "synth_043",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "Și în umăr, pe dreapta."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Și în umăr, pe dreapta."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Am tensiune.",
+      "Aveți tensiune arterială crescută?\nSPEAKER_01: Da."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Enalapril.",
+      "10 miligrame."
+    ],
+    "evaluare_functionala_initiala": [
+      "Deci avem o contractură la nivelul musculaturii cervicale și a trapezului drept, mobilitate redusă în rotație spre dreapta. O să lucrăm să reducem contractura și să redobândim mobilitatea normală."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 13583
+    },
+    "cache_creation_input_tokens": 13583,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1785,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 10.04,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua! Mă bucur că am găsit un loc liber, am sunat de vreo trei ori, era ocupat, noroc că am insistat."
+    },
+    {
+      "start": 10.16,
+      "end": 14.34,
+      "speaker": "SPEAKER_00",
+      "text": "Bine că ați ajuns. Spuneți-mi, cu ce problemă ne vedem?"
+    },
+    {
+      "start": 14.46,
+      "end": 29.66,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare umărul stâng, de vreo două săptămâni și ceva. Adică, a început mai ușor, credeam că trece singur, și eu tot am amânat să vin, că nu-mi place să merg la doctori în general, știți cum e."
+    },
+    {
+      "start": 29.78,
+      "end": 33.2,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și acum doare mai tare decât la început?"
+    },
+    {
+      "start": 33.32,
+      "end": 44.72,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, s-a agravat. Mai ales noaptea nu pot dormi pe partea stângă, mă trezesc. Și dimineața când încerc să ridic mâna, e ca și cum ceva blochează acolo."
+    },
+    {
+      "start": 44.84,
+      "end": 46.74,
+      "speaker": "SPEAKER_00",
+      "text": "Deci dimineața e mai rău?"
+    },
+    {
+      "start": 46.86,
+      "end": 56.36,
+      "speaker": "SPEAKER_01",
+      "text": "Dimineața și noaptea, da. Ziua mai merge, dacă nu ridic mâna sus. Dar dacă încerc să iau ceva de pe raft, de pildă, trage imediat."
+    },
+    {
+      "start": 56.48,
+      "end": 62.18,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cât de tare doare când ridicați mâna?"
+    },
+    {
+      "start": 62.3,
+      "end": 69.9,
+      "speaker": "SPEAKER_01",
+      "text": "Când ridic mâna sus, un 8 cel puțin. Și noaptea mă doare și când stau liniștit, acolo undeva la 5."
+    },
+    {
+      "start": 70.02,
+      "end": 75.34,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. S-a întâmplat ceva înainte să înceapă? O lovitură, un efort mai mare?"
+    },
+    {
+      "start": 75.46,
+      "end": 92.56,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu exact. Am mutat niște mobilă cu vreo trei săptămâni în urmă, cutii grele, rafturi. Cred că de atunci, dar nu mi-am dat seama imediat. Și mai am și un copil mic, îl car destul de mult în brațe, poate și aia contribuie."
+    },
+    {
+      "start": 92.68,
+      "end": 98.0,
+      "speaker": "SPEAKER_00",
+      "text": "Posibil, da. Durerea rămâne la umăr sau se lasă și pe braț în jos?"
+    },
+    {
+      "start": 98.12,
+      "end": 103.44,
+      "speaker": "SPEAKER_01",
+      "text": "Rămâne la umăr, cel mult până la jumătatea brațului, dar nu ajunge la mână."
+    },
+    {
+      "start": 103.56,
+      "end": 104.36,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeli avem?"
+    },
+    {
+      "start": 104.48,
+      "end": 105.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, amorțeli nu."
+    },
+    {
+      "start": 105.74,
+      "end": 108.02,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ați luat ceva pentru durere?"
+    },
+    {
+      "start": 108.14,
+      "end": 116.5,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat Nurofen, câte un comprimat seara când nu puteam dormi. Nu zilnic, dar de vreo patru-cinci ori în ultima săptămână."
+    },
+    {
+      "start": 116.62,
+      "end": 117.42,
+      "speaker": "SPEAKER_00",
+      "text": "Doar Nurofen?"
+    },
+    {
+      "start": 117.54,
+      "end": 118.68,
+      "speaker": "SPEAKER_01",
+      "text": "Da, altceva nu."
+    },
+    {
+      "start": 118.8,
+      "end": 121.46,
+      "speaker": "SPEAKER_00",
+      "text": "Alte afecțiuni, tensiune, diabet, probleme la inimă?"
+    },
+    {
+      "start": 121.58,
+      "end": 129.94,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, mi s-a spus acum vreo doi ani, iau Amlodipină, 5 miligrame, o dată pe zi. Diabet nu, inimă nu."
+    },
+    {
+      "start": 130.06,
+      "end": 132.72,
+      "speaker": "SPEAKER_00",
+      "text": "Amlodipină 5 miligrame. Bine. Altceva la sănătate?"
+    },
+    {
+      "start": 132.84,
+      "end": 149.94,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic altceva serios. Am mai avut ceva la spate acum mulți ani, o hernie, mi s-a spus, dar de atunci nu m-a mai deranjat, a trecut de la sine sau nu știu. Mă rog, poate e tot acolo, dar nu mă doare."
+    },
+    {
+      "start": 150.06,
+      "end": 155.0,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Haideți să vedem puțin cum stăm. Ridicați brațul stâng în față, încet."
+    },
+    {
+      "start": 155.12,
+      "end": 157.78,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe aici pot, după aia trage."
+    },
+    {
+      "start": 157.9,
+      "end": 159.04,
+      "speaker": "SPEAKER_00",
+      "text": "Stați. Și lateral?"
+    },
+    {
+      "start": 159.16,
+      "end": 163.34,
+      "speaker": "SPEAKER_01",
+      "text": "Lateral e mai rău, stați că... au, da, acolo doare imediat."
+    },
+    {
+      "start": 163.46,
+      "end": 168.4,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. O să apăs ușor pe zona tendonului supraspinos, spuneți-mi dacă doare."
+    },
+    {
+      "start": 168.52,
+      "end": 171.56,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo e, exact acolo, aia e zona."
+    },
+    {
+      "start": 171.68,
+      "end": 184.6,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Avem o limitare clară de mobilitate la abducție și o sensibilitate pe tendonul supraspinos. Probabil o tendinopatie la nivelul coafei rotatorilor, umăr stâng. O să lucrăm să reducem inflamația și să recuperăm mobilitatea."
+    },
+    {
+      "start": 184.72,
+      "end": 194.98,
+      "speaker": "SPEAKER_01",
+      "text": "Și credeți că trece? Că mă tem că ajung la operație, am auzit că la umăr se ajunge ușor la operație și mă sperie tare treaba asta."
+    },
+    {
+      "start": 195.1,
+      "end": 199.66,
+      "speaker": "SPEAKER_00",
+      "text": "Deocamdată nu avem indicii pentru asta. Vedem cum răspunde după primele ședințe."
+    },
+    {
+      "start": 199.78,
+      "end": 203.2,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine, sper. Și cu Nurofenul mai pot continua?"
+    },
+    {
+      "start": 203.32,
+      "end": 206.36,
+      "speaker": "SPEAKER_00",
+      "text": "Puteți, dar să nu exagerați. Haideți să începem."
+    }
+  ]
+}

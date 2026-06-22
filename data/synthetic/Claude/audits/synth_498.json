@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_498",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare genunchiul. De ceva vreme deja.",
+      "poate vreo două luni, ceva de genul. A început mai ușor și acum e mai... mai constant.",
+      "Când cobor scările e cel mai rău. Și când mă ridic de pe scaun după ce stau mult.",
+      "pe aici, mai mult pe partea din față și un pic pe lateralul ăsta intern",
+      "Parcă da, puțin, dimineața mai ales.",
+      "Da, trosnește."
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "mă doare genunchiul",
+      "Ăsta, dreptul.",
+      "pe aici, mai mult pe partea din față și un pic pe lateralul ăsta intern"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Mi-au zis la un control că am o ușoară scolioză, dar că nu e gravă."
+    ],
+    "antecedente_altele": [
+      "Am avut o operație la menisc, la celălalt genunchi, cel stâng. Dar a fost acum mulți ani, vreo zece ani sau mai mult."
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți o ușoară rotație internă a piciorului drept față de stâng.",
+      "flexia genunchiului se limitează undeva la aproximativ nouăzeci de grade din cauza durerii",
+      "Pe compartimentul medial. Și deasupra rotulei?",
+      "pare că avem o suferință la nivel de compartiment medial al genunchiului drept, posibil o iritație a ligamentului colateral intern sau o afectare a cartilajului medial, asociată cu o dezaliniere ușoară la nivelul membrului inferior drept",
+      "o să trebuiască să reducem inflamația din zona respectivă și să lucrăm și musculatura de susținere a genunchiului, în special cvadricepsul și musculatura internă a coapsei",
+      "Ar fi util pe viitor să faceți și o ecografie sau un RMN la genunchi"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22994,
+    "inference_geo": "global",
+    "input_tokens": 353,
+    "output_tokens": 3545,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

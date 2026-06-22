@@ -1,0 +1,15 @@
+{
+  "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic la mutat mobila",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic:\n- Inflamatie tendon supraspinat;\n- Posibil tendon bicipital afectat;\nObiective terapeutice:\n- Reducerea inflamatiei;\n- Recuperarea mobilitatii umarului drept"
+}

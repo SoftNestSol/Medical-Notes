@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stângul sau dreptul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume, după un efort, după o mișcare?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Și de atunci doare constant sau numai la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Când ridicați mâna în sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Pe unde, mai mult în față, în lateral?\nSPEAKER_01: Pe aici, în față.\nSPEAKER_00: Pe zona anterioară a umărului, da?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât e durerea acum?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Și când ridicați mâna?\nSPEAKER_01: Atunci mai rău, un 7.\nSPEAKER_00: Un 7, bine. Amorțește ceva, degetele, brațul?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Vă doare și în zona gâtului, a cefei?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Bun. Ridică-ți mâna pentru mine, ușor, cât puteți.\nSPEAKER_01: Până pe-aici pot.\nSPEAKER_00: Până la orizontală aproximativ. Dincolo de orizontală nu mai merge.\nSPEAKER_01: Nu.\nSPEAKER_00: Am înțeles. Rotație internă, duceți mâna la spate.\nSPEAKER_01: Puțin, da, dar doare.\nSPEAKER_00: Doare. Și rotație externă, puneți mâna așa, cu cotul la corp.\nSPEAKER_01: Asta merge.\nSPEAKER_00: Asta merge mai bine, bine. Alte afecțiuni, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale la umăr sau în altă parte?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Am înțeles. Proteze metalice, stimulator cardiac?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Ce pot să vă spun este că avem o inflamație la nivelul tendonului supraspinos, cel mai probabil. Limitarea asta la abducție și la rotație internă e specifică. Vom lucra să reducem inflamația și să recâștigăm mobilitatea umărului. Începem azi?\nSPEAKER_01: Da.\nSPEAKER_00: Bun, haideți pe masă vă rog.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept, aparuta dupa efort fizic (mutat mobila), de doua saptamani",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie tendon supraspinos\nLimitare abductie (pana la orizontala) si rotatie interna umar dr.\nObiective terapeutice: reducerea inflamatiei; recastigarea mobilitatii umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "De vreo două săptămâni.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Un 5.", "Atunci mai rău, un 7."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul.", "Pe zona anterioară a umărului, da?", "Da."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu.", "Nicio pastilă?", "Nu, nimic."],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendonului supraspinos, cel mai probabil", "Limitarea asta la abducție și la rotație internă e specifică", "Vom lucra să reducem inflamația și să recâștigăm mobilitatea umărului", "Până la orizontală aproximativ. Dincolo de orizontală nu mai merge.", "Rotație internă, duceți mâna la spate.", "Puțin, da, dar doare."]
+  }
+}

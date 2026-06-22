@@ -1,0 +1,45 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă v-ați prezentat astăzi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Treptat, parcă.\nSPEAKER_00: A existat vreun efort, ceva ce ați făcut înainte să înceapă?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Deci după ce ați mutat mobila a început să doară.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât îi dați?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Doar când ridic mâna.\nSPEAKER_00: Când ridicați mâna. Și dacă stați cu mâna jos, nu doare?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Doare și noaptea, dacă vă culcați pe partea stângă?\nSPEAKER_01: Da, noaptea mă trezesc.\nSPEAKER_00: Deci noaptea se accentuează. Durerea rămâne localizată în umăr sau se lasă și pe braț?\nSPEAKER_01: Rămâne pe aici.\nSPEAKER_00: Locală. Amorțeală în mână, în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală. Bun. Ați mai avut ceva similar la acest umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Prima dată. Ați luat ceva pentru durere, vreun antiinflamator?\nSPEAKER_01: Nu am luat nimic.\nSPEAKER_00: Nimic. Alte afecțiuni, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Nicio intervenție chirurgicală la umăr, fractură?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Ridicați ușor brațul în față, până unde puteți.\nSPEAKER_01: Până pe aici ajung.\nSPEAKER_00: Deci undeva la 90 de grade și se oprește. Doare când ajungeți acolo?\nSPEAKER_01: Da.\nSPEAKER_00: Și lateral, ridicați brațul lateral.\nSPEAKER_01: La fel, cam pe același loc.\nSPEAKER_00: Aceeași limitare. Stați puțin, vă pun mâna pe umăr și vă mișc eu ușor. Spuneți-mi dacă doare când apăs aici, pe zona asta de deasupra.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Pe zona supraspinatus. Și dacă apăs mai în față?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin. Bun. Faceți ușor rotație internă, ca și cum ați duce mâna la spate.\nSPEAKER_01: Greu, nu prea ajung.\nSPEAKER_00: Deci rotația internă limitată. Am înțeles. Tabloul acesta, cu debutul după efort fizic, durerea la ridicarea brațului și limitarea mișcării, și sensibilitatea pe zona supraspinatus, indică o tendinopatie a manșetei rotatorilor, cel mai probabil la nivelul tendonului supraspinatus. Vom lucra pe reducerea inflamației locale și pe recuperarea mobilității umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Pacient acuză durere la nivelul umărului stâng, instalată treptat după un efort fizic (mutare mobilă), de aproximativ două săptămâni. Durerea apare la ridicarea brațului și se accentuează noaptea la culcat pe partea stângă. Fără iradiere pe braț, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații funcționale:\nLimitarea abducției și flexiei active la aproximativ 90 de grade, cu durere la capătul arcului de mișcare. Rotație internă limitată. Sensibilitate la palpare pe zona supraspinatus. Mai puțin sensibil anterior.\nDiagnostic:\nTendinopatie manșetă rotatori, nivel tendon supraspinatus stâng.\nObiective terapeutice:\nReducerea inflamației locale; recuperarea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Vreo două săptămâni.",
+      "Am mutat niște mobilă.",
+      "Doar când ridic mâna.",
+      "Da, noaptea mă trezesc.",
+      "Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Deci undeva la 90 de grade și se oprește.",
+      "Aceeași limitare.",
+      "Pe zona supraspinatus.",
+      "Deci rotația internă limitată.",
+      "Tabloul acesta, cu debutul după efort fizic, durerea la ridicarea brațului și limitarea mișcării, și sensibilitatea pe zona supraspinatus, indică o tendinopatie a manșetei rotatorilor, cel mai probabil la nivelul tendonului supraspinatus.",
+      "Vom lucra pe reducerea inflamației locale și pe recuperarea mobilității umărului."
+    ]
+  }
+}

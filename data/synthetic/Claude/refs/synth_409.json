@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "Pacientă cu durere la nivelul umărului stâng de aproximativ două luni, cu iradiere pe brațul stâng până la cot (pe exterior), amorțeli matinale la nivelul inelarului și degetului mic stâng. Durere accentuată la ridicarea brațului și la rotație internă. Asociază tensiune cervicală și cefalee occipitală ocazională. Activitate sedentară la birou (tastatură).",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "umar_stg",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "braț stâng până la cot (exterior), inelar și deget mic stâng",
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism (diagnosticat de aproximativ 3 ani)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "75 micrograme"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUmăr stâng ușor căzut față de dreptul. Arc dureros la abducția brațului stâng la aproximativ 80-90 de grade, cu ameliorare dincolo de acel unghi. Blocaj la rotația internă (mâna la spate, jumătatea spatelui). Durere la palparea acromionului. Limitare la testul mâinii la ceafă. Tensiune cervicală cu iradiere la înclinarea laterală dreaptă a capului. Amorțeli pe inelar și deget mic stâng - sugestive pentru iritație C8.\nDiagnostic:\nTendinopatie a supraspinosului, posibil cu bursită subacromială; iritație radiculară cervicală nivel C8.\nObiective terapeutice:\nReducerea inflamației bursei subacromiale; recuperarea mobilității umărului stâng; decompresia cervicală; ameliorarea amorțelilor; recomandare ecografie umăr."
+}

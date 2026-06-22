@@ -1,0 +1,50 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua!\nSPEAKER_00: Cu ce problemă vă vedem astăzi?\nSPEAKER_01: Păi, de vreo trei săptămâni mă doare umărul drept. Și inițial am crezut că o să treacă, că am mai pățit-o, dar nu trece. Adică am stat, am așteptat, am pus niște gheață, am pus un gel, Voltaren am pus, nu știu dacă a ajutat sau nu, dar tot mă doare.\nSPEAKER_00: Ok. Și unde exact doare, mai precis?\nSPEAKER_01: Aici, în față, pe partea din față a umărului. Și câteodată se lasă și pe braț în jos, dar nu tot timpul. Adică uneori e doar aici, fix în umăr, alteori simt că merge pe braț.\nSPEAKER_00: Pe braț cât de jos coboară?\nSPEAKER_01: Până pe la jumătatea brațului, până pe la biceps, nu mai jos.\nSPEAKER_00: Nu coboară în cot, în mână?\nSPEAKER_01: Nu, nu, în cot nu. Doar până acolo.\nSPEAKER_00: Bine. Și cum a apărut? A fost ceva anume, o mișcare, un efort?\nSPEAKER_01: Asta e chestia, nu știu exact. Eu lucrez în depozit, car cutii tot timpul, și probabil de acolo. Dar nu m-am lovit, nu am căzut, nu știu să fi făcut o mișcare greșită anume. Adică a apărut treptat, într-o dimineață m-am trezit și deja mă durea.\nSPEAKER_00: Deci a apărut progresiv.\nSPEAKER_01: Da, exact. Și acum e tot mai deranjant, mai ales dimineața. Dimineața e cel mai rău, mă trezesc și parcă nu pot să ridic brațul. Și mă mai doare când îl duc în spate, când încerc să îl pun la spate.\nSPEAKER_00: Pe o scară de la 0 la 10, cum ați evalua durerea?\nSPEAKER_01: Dimineața un 7, aș zice. Pe parcursul zilei se mai liniștește, poate 4-5, dar tot e acolo.\nSPEAKER_00: Bun. Amorțeli în braț, în degete?\nSPEAKER_01: Nu, amorțeală nu am.\nSPEAKER_00: Alte probleme, tensiune, diabet, ceva care să fie important să știu?\nSPEAKER_01: Nu, sunt sănătos, nu am nimic din astea. Adică poate un pic de gastrită, dar nu e relevan pentru umăr, nu? Și am mai mers la un ortoped acum două săptămâni, mi-a zis să iau antiinflamatorii și să stau liniștit, dar nu s-a îmbunătățit mare lucru.\nSPEAKER_00: Ok, înțeleg. Și în afară de Voltaren gel, ați luat ceva oral?\nSPEAKER_01: Nu, nu, gel am pus, nu am luat pastile. Mi-a recomandat ortopedul Ibuprofen, dar nu am luat, nu prea îmi place să iau pastile dacă pot să evit.\nSPEAKER_00: Am înțeles. Stați puțin, ridicați brațul în față, încet.\nSPEAKER_01: Până aici pot, după aia mă doare.\nSPEAKER_00: Deci limitare la ridicarea anterioară. Acum duceți brațul lateral, în abducție.\nSPEAKER_01: Aaah, asta doare mai tare, da. Pe la 80-90 de grade cam așa doare rău.\nSPEAKER_00: Și dacă continuați mai sus?\nSPEAKER_01: Dacă îmi dau seama că trec de acel punct doare mai puțin, da, e ciudat.\nSPEAKER_00: Înțeles. Asta e semn că avem un conflict în spațiul subacromial. Acum puneți mâna la spate, ca și cum v-ați prinde centura.\nSPEAKER_01: Nu pot, doare, mă opresc aici.\nSPEAKER_00: Da, rotația internă e limitată. Și dacă apăs aici, sub acromion?\nSPEAKER_01: Da, doare, da.\nSPEAKER_00: Bun. Deci ce vedem noi aici este o inflamație la nivelul tendoanelor din umărul drept, cel mai probabil o tendinopatie de supraspinos, cu un sindrom de impingement subacromial. Mișcarea este limitată și dureroasă pe abducție și rotație internă. Vom lucra să reducem inflamația, să eliberăm spațiul subacromial și să redobândim mobilitatea completă a umărului.\nSPEAKER_01: Și cât durează, credeți? Că eu am nevoie să pot munci, la serviciu ridic tot timpul și mă îngrijorează.\nSPEAKER_00: Depinde cum răspunde țesutul la terapie, dar în general cu câteva ședințe vedem o îmbunătățire. Important e să nu forțați mișcările dureroase deocamdată.\nSPEAKER_01: Ok, înțeleg. Și cu Voltaren pot să mai pun?\nSPEAKER_00: Puteți, nu strică.\nSPEAKER_01: Bun, bun. Mulțumesc.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept de aproximativ trei săptămâni, apărută progresiv în context de efort fizic repetat (muncă în depozit), localizată anterior pe umăr cu iradiere ocazională pe braț până la nivelul bicepsului. Durere accentuată dimineața și la mișcări specifice.",
+    "evaluarea_durerii_vas": [7, 4],
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "braț drept (față anterioară, până la nivelul bicepsului)",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinopatie de supraspinos cu sindrom de impingement subacromial la nivelul umărului drept. Limitare și durere la abducție (arc dureros 80-90 grade), limitare la rotație internă, sensibilitate la palpare subacromial. Obiective terapeutice: reducerea inflamației, eliberarea spațiului subacromial, redobândirea mobilității complete a umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "de vreo trei săptămâni mă doare umărul drept",
+      "a apărut treptat, într-o dimineață m-am trezit și deja mă durea",
+      "eu lucrez în depozit, car cutii tot timpul, și probabil de acolo"
+    ],
+    "evaluarea_durerii_vas": [
+      "Dimineața un 7, aș zice",
+      "Pe parcursul zilei se mai liniștește, poate 4-5"
+    ],
+    "localizarea_durerii": [
+      "Aici, în față, pe partea din față a umărului"
+    ],
+    "localizarea_durerii_alta": [
+      "se lasă și pe braț în jos",
+      "Până pe la jumătatea brațului, până pe la biceps, nu mai jos"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Voltaren am pus",
+      "gel am pus, nu am luat pastile"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem un conflict în spațiul subacromial",
+      "o inflamație la nivelul tendoanelor din umărul drept, cel mai probabil o tendinopatie de supraspinos, cu un sindrom de impingement subacromial",
+      "Mișcarea este limitată și dureroasă pe abducție și rotație internă",
+      "Vom lucra să reducem inflamația, să eliberăm spațiul subacromial și să redobândim mobilitatea completă a umărului"
+    ]
+  }
+}

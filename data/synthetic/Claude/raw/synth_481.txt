@@ -1,0 +1,46 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți la noi?\nSPEAKER_01: Mă doare spatele jos.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut din senin sau ați făcut ceva anume?\nSPEAKER_01: Am ridicat niște saci la serviciu.\nSPEAKER_00: Ah, deci după efort fizic. Și de atunci doare continuu sau vine și pleacă?\nSPEAKER_01: Mai tot timpul. Mai tare dimineața.\nSPEAKER_00: Dimineața când vă ridicați din pat?\nSPEAKER_01: Da.\nSPEAKER_00: Și pe parcursul zilei se mai ameliorează?\nSPEAKER_01: Un pic. Dar dacă stau mult pe scaun iar se înrăutățește.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde situați durerea?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Și această durere se lasă și pe picior sau e doar în spate?\nSPEAKER_01: Doar în spate.\nSPEAKER_00: Strict în zona de jos, de lombar, sau coboară și spre fese?\nSPEAKER_01: Mai mult jos, în zona lombară. Uneori un pic pe fesă dreapta.\nSPEAKER_00: Pe fesa dreaptă. Și pe picior nu coboară, nu amorțește nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ați mai avut episoade de genul ăsta înainte?\nSPEAKER_01: Acum doi ani ceva, dar a trecut singur.\nSPEAKER_00: A trecut de la sine. Și acum nu trece?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Am înțeles. Luați vreun medicament acum, ceva pentru durere?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, niciun antiinflamator?\nSPEAKER_01: Nu, n-am luat nimic.\nSPEAKER_00: Bun. Tensiune, diabet, osteoporoză, alte boli?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să vă rog să stați în picioare, cu fața la mine. Relaxat, cu mâinile pe lângă corp.\nSPEAKER_01: Bun.\nSPEAKER_00: Aplecați-vă puțin înainte, spre podea. Doare mai tare?\nSPEAKER_01: Da, simț că trage.\nSPEAKER_00: Trage. Și dacă vă aplecați pe spate?\nSPEAKER_01: Și acolo.\nSPEAKER_00: Și la extensie. Acum întoarceți-vă ușor spre dreapta. Doare?\nSPEAKER_01: Un pic, da.\nSPEAKER_00: Spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Deci rotația spre dreapta provoacă mai mult disconfort. Am înțeles. Haideți pe masă acum, cu fața în jos, vă rog.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă apăs puțin pe zona lombară, îmi spuneți unde doare mai tare.\nSPEAKER_01: Ah, acolo. Pe dreapta.\nSPEAKER_00: Pe dreapta, da. E o contractură destul de evidentă a musculaturii paravertebrale pe dreapta. Și mai jos, spre sacru, doare?\nSPEAKER_01: Un pic și acolo.\nSPEAKER_00: Un pic și acolo. Bun. Vedem că avem o contractură musculară paravertebrală lombară dreaptă, cu iritație și în zona sacrală. Combinată cu rigiditatea de dimineață și cu durerea la flexie și extensie, e o lombalgie acută mecanică, cel mai probabil instalată după efortul cu sacii. O să lucrăm să reducem contractura, să scădem inflamația și să recăpătăm mobilitatea. Ar trebui să simțiți o ușurare după primele două-trei ședințe.\nSPEAKER_01: Bine.\nSPEAKER_00: Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă apărută după ridicare de saci la serviciu, cu iradiere ocazională pe fesa dreaptă, prezentă de aproximativ două săptămâni, mai intensă dimineața și după stat prelungit pe scaun.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "lombar",
+      "sacral_coccis"
+    ],
+    "localizarea_durerii_alta": "fesa dreaptă",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nContractură musculară paravertebrală lombară dreaptă evidentă la palpare; sensibilitate și în zona sacrală. Durere la flexie anterioară și extensie lombară. Rotație mai dureroasă spre dreapta decât spre stânga.\nDiagnostic:\nLombalgie acută mecanică, instalată după efort fizic (ridicare greutăți), cu contractură paravertebrală lombară dreaptă și iritație sacrală.\nObiective terapeutice:\nReducerea contracturii musculare paravertebrale; scăderea inflamației; recăpătarea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele jos.",
+      "Am ridicat niște saci la serviciu.",
+      "Vreo două săptămâni.",
+      "Mai tare dimineața.",
+      "dacă stau mult pe scaun iar se înrăutățește",
+      "Uneori un pic pe fesă dreapta."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Mai mult jos, în zona lombară.",
+      "Un pic și acolo.",
+      "mai jos, spre sacru, doare?"
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori un pic pe fesă dreapta."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "E o contractură destul de evidentă a musculaturii paravertebrale pe dreapta.",
+      "Vedem că avem o contractură musculară paravertebrală lombară dreaptă, cu iritație și în zona sacrală.",
+      "e o lombalgie acută mecanică, cel mai probabil instalată după efortul cu sacii.",
+      "O să lucrăm să reducem contractura, să scădem inflamația și să recăpătăm mobilitatea."
+    ]
+  }
+}

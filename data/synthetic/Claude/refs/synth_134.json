@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "durere umar drept aparuta dupa efort fizic (carate cutii grele), de doua saptamani",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "ibuprofen",
+      "doza": "400 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: inflamatie coafa rotatori, tendon supraspinos afectat\nObiective terapeutice: reducerea inflamatiei; recastigarea amplitudinii de miscare\nObservatii functionale: mobilitate limitata, abductie limitata la ~90 grade, rotatie externa dureroasa"
+}

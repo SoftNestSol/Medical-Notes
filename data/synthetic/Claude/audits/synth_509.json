@@ -1,0 +1,53 @@
+{
+  "conversation_id": "synth_509",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare la mână, pe aici, la încheietură",
+      "am lucrat mai mult la calculator în perioada aia, am avut un proiect mai intens",
+      "A început mai ușor și după a tot rămas",
+      "dimineața când mă trezesc, îi cam înțepenită, un pic",
+      "mai ales degetul ăsta mic și inelarele, parcă"
+    ],
+    "evaluarea_durerii_vas": [
+      "șase, șase aș zice"
+    ],
+    "localizarea_durerii": [
+      "mă doare la mână, pe aici, la încheietură",
+      "Dreapta mă deranjează mai rău"
+    ],
+    "localizarea_durerii_alta": [
+      "Se mai duce și pe aici, pe antebraț, în sus, pe partea asta",
+      "Pe dos, mai mult pe dos, da"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "am tiroidă",
+      "Hipotiroidism",
+      "De vreo șapte ani, opt"
+    ],
+    "medicatie_actuala": [
+      "Iau Euthyrox în fiecare dimineață",
+      "75, 75 de micrograme",
+      "am luat un Nurofen din când în când"
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare mai degrabă o tendinopatie a extensorilor la nivelul pumnului drept, posibil și o iritație a nervului ulnar din cauza poziției la calculator",
+      "O să lucrăm în prima fază la reducerea inflamației locale",
+      "o să vă arăt și câteva exerciții de întindere pe care să le faceți la birou"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23139,
+    "inference_geo": "global",
+    "input_tokens": 364,
+    "output_tokens": 3321,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

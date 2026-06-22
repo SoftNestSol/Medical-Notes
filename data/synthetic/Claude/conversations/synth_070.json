@@ -1,0 +1,403 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua! Poftiți, luați loc."
+    },
+    {
+      "start": 2.02,
+      "end": 3.16,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, mulțumesc."
+    },
+    {
+      "start": 3.28,
+      "end": 7.08,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 7.2,
+      "end": 18.22,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... am o durere în zona gâtului, de câteva zile, și sincer m-am speriat un pic și nu știam dacă să vin sau nu, dacă e ceva grav."
+    },
+    {
+      "start": 18.34,
+      "end": 22.52,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Hai să vedem împreună. De câte zile ziceți că doare?"
+    },
+    {
+      "start": 22.64,
+      "end": 32.52,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo zece zile, cred. Poate unsprezece. Nu știu exact când a început, dar acum zece zile am observat că nu mai pot întoarce capul normal."
+    },
+    {
+      "start": 32.64,
+      "end": 39.1,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și durerea asta e locală, adică stă pe gât, sau se lasă și în altă parte?"
+    },
+    {
+      "start": 39.22,
+      "end": 50.62,
+      "speaker": "SPEAKER_01",
+      "text": "Se lasă și pe umăr, pe cel stâng, și uneori simt un fel de amorțeală pe braț, tot stânga. Asta m-a speriat cel mai tare, sincer. E ceva grav?"
+    },
+    {
+      "start": 50.74,
+      "end": 56.06,
+      "speaker": "SPEAKER_00",
+      "text": "Hai să facem mai întâi evaluarea completă și după vă spun ce cred. Ok?"
+    },
+    {
+      "start": 56.18,
+      "end": 57.32,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, da, scuzați."
+    },
+    {
+      "start": 57.44,
+      "end": 68.46,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, nicio problemă. Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 înseamnă durere maximă, unde situați durerea de la gât?"
+    },
+    {
+      "start": 68.58,
+      "end": 77.32,
+      "speaker": "SPEAKER_01",
+      "text": "Depinde când. Dimineața, când mă trezesc, e mai rău, aș zice un 8. În cursul zilei mai trece, ajunge la un 5, poate."
+    },
+    {
+      "start": 77.44,
+      "end": 80.1,
+      "speaker": "SPEAKER_00",
+      "text": "Deci dimineața 8, în cursul zilei 5."
+    },
+    {
+      "start": 80.22,
+      "end": 85.92,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam așa. Dimineața e îngrozitor, sincer, mă trezesc și nu pot întoarce capul deloc."
+    },
+    {
+      "start": 86.04,
+      "end": 90.6,
+      "speaker": "SPEAKER_00",
+      "text": "Și amorțeala pe braț apare și ea dimineața sau la orice oră?"
+    },
+    {
+      "start": 90.72,
+      "end": 101.36,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult seara, după ce stau mult la birou. Muncesc mult la calculator și seara simt că mi se amorțesc degetele, primele două degete de la mâna stângă."
+    },
+    {
+      "start": 101.48,
+      "end": 111.74,
+      "speaker": "SPEAKER_00",
+      "text": "Primele două degete de la mâna stângă. Înțeleg. Și dacă treci cu degetul peste piele, simți că e ciudat, ca și cum n-ar fi pielea ta?"
+    },
+    {
+      "start": 111.86,
+      "end": 120.22,
+      "speaker": "SPEAKER_01",
+      "text": "Da! Exact asta! Adică e ciudat, nu doare dar e... nu știu cum să descriu, e ca și cum e amortit acolo."
+    },
+    {
+      "start": 120.34,
+      "end": 123.76,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Acum spuneți-mi, ce faceți ca profesie?"
+    },
+    {
+      "start": 123.88,
+      "end": 130.34,
+      "speaker": "SPEAKER_01",
+      "text": "Sunt programator, stau cam opt-nouă ore pe zi la calculator. Asta cred că e problema, nu?"
+    },
+    {
+      "start": 130.46,
+      "end": 136.16,
+      "speaker": "SPEAKER_00",
+      "text": "Poate contribui, da. Stați cum? Cu ecranul la același nivel cu ochii sau mai jos?"
+    },
+    {
+      "start": 136.28,
+      "end": 143.5,
+      "speaker": "SPEAKER_01",
+      "text": "Mai jos, ecranul e pe birou și eu mă aplec puțin în față, am conștientizat că stau cam strâmb."
+    },
+    {
+      "start": 143.62,
+      "end": 146.66,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și dormitul cum e? Pe ce doarmeți?"
+    },
+    {
+      "start": 146.78,
+      "end": 151.34,
+      "speaker": "SPEAKER_01",
+      "text": "Pe o pernă, una normală. Soția zice că dorm pe burtă uneori."
+    },
+    {
+      "start": 151.46,
+      "end": 160.2,
+      "speaker": "SPEAKER_00",
+      "text": "Pe burtă, da. Poate fi relevant. Bun, acum vă pun câteva întrebări despre sănătatea în general. Aveți tensiune arterială, diabet, vreo afecțiune cronică?"
+    },
+    {
+      "start": 160.32,
+      "end": 165.64,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Mi-a descoperit-o acum doi ani. Iau medicamente pentru ea."
+    },
+    {
+      "start": 165.76,
+      "end": 167.66,
+      "speaker": "SPEAKER_00",
+      "text": "Ce medicamente luați pentru tensiune?"
+    },
+    {
+      "start": 167.78,
+      "end": 170.06,
+      "speaker": "SPEAKER_01",
+      "text": "Iau Amlodipină, 5 miligrame pe zi."
+    },
+    {
+      "start": 170.18,
+      "end": 174.36,
+      "speaker": "SPEAKER_00",
+      "text": "Amlodipină 5 miligrame. Altceva mai luați, vreun antiinflamator, ceva pentru durere?"
+    },
+    {
+      "start": 174.48,
+      "end": 187.02,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat Ibuprofen câteva zile când m-a durut mai tare, dar nu l-am mai luat de vreo trei zile că mi-a spus cineva că nu e bine să iau mult."
+    },
+    {
+      "start": 187.14,
+      "end": 189.8,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, deci Ibuprofen luați sau ați luat?"
+    },
+    {
+      "start": 189.92,
+      "end": 192.58,
+      "speaker": "SPEAKER_01",
+      "text": "Acum nu mai iau, l-am oprit."
+    },
+    {
+      "start": 192.7,
+      "end": 199.16,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Altceva în antecedente, vreo operație, vreo lovitură la coloană, hernie de disc știți dacă aveți?"
+    },
+    {
+      "start": 199.28,
+      "end": 209.92,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu dacă am hernie, nu am făcut nicio investigație. M-am gândit să fac un RMN dar nu știam dacă e necesar, e grav dacă am hernie?"
+    },
+    {
+      "start": 210.04,
+      "end": 220.3,
+      "speaker": "SPEAKER_00",
+      "text": "Să vedem mai întâi ce găsim la evaluare și după discutăm dacă e nevoie de investigații suplimentare. Ați mai avut dureri de gât în trecut, episoade similare?"
+    },
+    {
+      "start": 220.42,
+      "end": 231.44,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acum vreo doi ani am mai avut ceva asemănător, dar a trecut singur după câteva zile. Atunci nu mi-a amorțit nimic, deci m-am speriat mai puțin."
+    },
+    {
+      "start": 231.56,
+      "end": 238.78,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și acum să facem câteva testări. Rămâneți jos pe scaun. Vă rog să întoarceți capul ușor spre dreapta."
+    },
+    {
+      "start": 238.9,
+      "end": 241.18,
+      "speaker": "SPEAKER_01",
+      "text": "Aoleu, da, cam până aici pot."
+    },
+    {
+      "start": 241.3,
+      "end": 242.44,
+      "speaker": "SPEAKER_00",
+      "text": "Doare când întoarceți?"
+    },
+    {
+      "start": 242.56,
+      "end": 245.22,
+      "speaker": "SPEAKER_01",
+      "text": "Da, simte o strângere puternică pe stânga."
+    },
+    {
+      "start": 245.34,
+      "end": 246.48,
+      "speaker": "SPEAKER_00",
+      "text": "Acum spre stânga."
+    },
+    {
+      "start": 246.6,
+      "end": 249.64,
+      "speaker": "SPEAKER_01",
+      "text": "Asta e și mai greu... pot cu greu."
+    },
+    {
+      "start": 249.76,
+      "end": 252.8,
+      "speaker": "SPEAKER_00",
+      "text": "Am văzut. Acum lăsați capul ușor pe spate."
+    },
+    {
+      "start": 252.92,
+      "end": 254.44,
+      "speaker": "SPEAKER_01",
+      "text": "Doare mai puțin asta."
+    },
+    {
+      "start": 254.56,
+      "end": 257.22,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și în față, bărbia spre piept."
+    },
+    {
+      "start": 257.34,
+      "end": 260.0,
+      "speaker": "SPEAKER_01",
+      "text": "Și asta doare puțin, simte pe ceafă."
+    },
+    {
+      "start": 260.12,
+      "end": 266.58,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Acum apăs puțin pe vertebrele de la baza gâtului, îmi spuneți dacă simțiți ceva pe braț."
+    },
+    {
+      "start": 266.7,
+      "end": 270.88,
+      "speaker": "SPEAKER_01",
+      "text": "Au! Da, s-a dus ceva pe braț stâng, pe dinafară."
+    },
+    {
+      "start": 271.0,
+      "end": 272.9,
+      "speaker": "SPEAKER_00",
+      "text": "Pe dinafară, pe partea laterală?"
+    },
+    {
+      "start": 273.02,
+      "end": 276.06,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact, pe lateral, până la cot aproximativ."
+    },
+    {
+      "start": 276.18,
+      "end": 280.74,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Și dacă apăs mai sus, la C4-C5, simțiți ceva?"
+    },
+    {
+      "start": 280.86,
+      "end": 283.14,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, un pic de presiune."
+    },
+    {
+      "start": 283.26,
+      "end": 292.76,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum vreau să stați puțin în picioare. Uitați-vă drept înainte. Stai puțin... observ că umărul stâng e puțin mai jos decât cel drept."
+    },
+    {
+      "start": 292.88,
+      "end": 295.16,
+      "speaker": "SPEAKER_01",
+      "text": "Da? Nu știam asta. E grav?"
+    },
+    {
+      "start": 295.28,
+      "end": 302.5,
+      "speaker": "SPEAKER_00",
+      "text": "Nu e grav, dar e o observație importantă pentru noi. Acum stai puțin pe piciorul stâng singur... te ține?"
+    },
+    {
+      "start": 302.62,
+      "end": 304.14,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mă ține, da."
+    },
+    {
+      "start": 304.26,
+      "end": 305.78,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și pe dreptul."
+    },
+    {
+      "start": 305.9,
+      "end": 307.8,
+      "speaker": "SPEAKER_01",
+      "text": "Și pe acesta mă ține."
+    },
+    {
+      "start": 307.92,
+      "end": 332.24,
+      "speaker": "SPEAKER_00",
+      "text": "Perfect. Haideți să ne așezăm. Vă explic ce observ. Avem o mobilitate cervicală limitată destul de clar, mai ales la rotația spre stânga. Presiunea pe zona C5-C6 reproduce amorțeala pe braț, ceea ce înseamnă că avem o iritație la nivelul rădăcinii nervoase în acea zonă. Postura la birou, plus obiceiul de a dormi pe burtă, contribuie la toată această tensiune acumulată în gât."
+    },
+    {
+      "start": 332.36,
+      "end": 336.16,
+      "speaker": "SPEAKER_01",
+      "text": "Și e ceva grav? Adică trebuie să fac RMN acum?"
+    },
+    {
+      "start": 336.28,
+      "end": 348.44,
+      "speaker": "SPEAKER_00",
+      "text": "Deocamdată putem începe terapia și vedem cum răspundeți în primele două-trei ședințe. Dacă simptomele nu cedează sau se agravează, atunci vom recomanda investigații imagistice. Nu este o urgență în acest moment."
+    },
+    {
+      "start": 348.56,
+      "end": 352.74,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, mă bucur că nu e ceva groaznic. Deci ce facem?"
+    },
+    {
+      "start": 352.86,
+      "end": 363.5,
+      "speaker": "SPEAKER_00",
+      "text": "Vom lucra pe reducerea contracturii musculare cervicale, pe mobilizarea articulară și pe decompresia radiculară C5-C6. Totodată vă voi da câteva recomandări posturale pentru birou și pentru dormit."
+    },
+    {
+      "start": 363.62,
+      "end": 366.28,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, înțeleg. Și cât durează până trece?"
+    },
+    {
+      "start": 366.4,
+      "end": 373.62,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde de cum răspunde corpul, dar în general la câteva ședințe se simte o ameliorare semnificativă. Hai să începem."
+    },
+    {
+      "start": 373.74,
+      "end": 376.02,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, vă mulțumesc, sper să meargă."
+    }
+  ]
+}

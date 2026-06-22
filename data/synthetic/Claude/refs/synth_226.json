@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere umar stang cu limitarea ridicarii bratului, aparuta dupa efort fizic (mutat mobilier greu), de aproximativ trei saptamani.",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "brat stang pe partea superioara (fara iradiere sub cot)",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren gel",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: inflamatie tendon supraspinatus, posibila inflamatie bursa subacomiala.\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii umarului stang."
+}

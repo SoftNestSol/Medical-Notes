@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume sau a apărut din senin?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Ați cărat, ați ridicat ceva greu?\nSPEAKER_01: Da, un dulap.\nSPEAKER_00: Singur?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Și de atunci doare continuu sau doar la anumite mișcări?\nSPEAKER_01: La mișcări mai mult.\nSPEAKER_00: La care mișcări? Când ridicați brațul în față, în lateral?\nSPEAKER_01: Lateral mai rău.\nSPEAKER_00: Lateral mai rău. Puteți să ridicați brațul complet sus?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci cam la nouăzeci de grade se oprește, da?\nSPEAKER_01: Da, cam așa.\nSPEAKER_00: Și noaptea vă deranjează, vă treziți din somn?\nSPEAKER_01: Câteodată, dacă stau pe partea aia.\nSPEAKER_00: Pe umărul stâng dacă stați vă trezește.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la zero la zece, unde zero înseamnă că nu doare deloc și zece doare îngrozitor, cât e acum?\nSPEAKER_01: Un șase.\nSPEAKER_00: Șase. Și când faceți mișcarea aia laterală, urcă?\nSPEAKER_01: Poate un șapte, opt.\nSPEAKER_00: Înțeles. Amorțește cumva mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală. Aveți vreun antecedent medical, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio afecțiune.\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun medicament. Ați mai avut probleme la umărul acesta înainte?\nSPEAKER_01: Nu, prima dată.\nSPEAKER_00: Prima dată. Ok, haideți să facem câteva teste. Ridicați brațul în față, încet.\nSPEAKER_01: Până cam pe-aici.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Puțin.\nSPEAKER_00: Puțin în față. Acum lateral, la fel, încet.\nSPEAKER_01: Aici se simte mai tare.\nSPEAKER_00: Da, se oprește la nouăzeci. Acum întoarceți brațul în afară, cotul îndoit.\nSPEAKER_01: Au, da, doare.\nSPEAKER_00: Doare la rotație externă. Bun. Stați puțin, vă apăs pe zona asta de sub acromial.\nSPEAKER_01: Da, acolo e.\nSPEAKER_00: Exact acolo. Aceasta arată că avem o inflamație la nivelul tendoanelor rotatorilor, cel mai probabil supraspinosul. E o tendinopatie de coafă rotatorie, apărută după efort brusc cu greutate mare. Obiectivul nostru e să reducem inflamația în primele ședințe și apoi să recuperăm mobilitatea completă a umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: N-ați făcut niciun RMN sau radiografie la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Ar fi util pe viitor, dacă nu se ameliorează rapid. Deocamdată putem să începem terapia. Aveți alergii la creme sau unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang aparuta dupa mutarea unui dulap greu, de aproximativ doua saptamani. Durere la miscari, mai ales la abductie laterala cu limitarea miscarii la 90 de grade. Treziri nocturne la stat pe umarul stang.",
+    "evaluarea_durerii_vas": [6, 7, 8],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- Tendinopatie coafa rotatorie (supraspinat), umar stang; inflamatie subacromiala\nObiective terapeutice:\n- Reducerea inflamatiei\n- Recuperarea mobilitatii complete a umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Vreo două săptămâni.", "Am mutat niște mobilă.", "Da, un dulap.", "Câteodată, dacă stau pe partea aia."],
+    "evaluarea_durerii_vas": ["Un șase.", "Poate un șapte, opt."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Aceasta arată că avem o inflamație la nivelul tendoanelor rotatorilor, cel mai probabil supraspinosul. E o tendinopatie de coafă rotatorie, apărută după efort brusc cu greutate mare. Obiectivul nostru e să reducem inflamația în primele ședințe și apoi să recuperăm mobilitatea completă a umărului."]
+  }
+}

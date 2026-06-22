@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut după ceva anume, după un efort, după o mișcare?\nSPEAKER_01: Am mutat niște cutii grele la serviciu.\nSPEAKER_00: Înțeles. Și doare tot timpul sau numai când faceți anumite mișcări?\nSPEAKER_01: Mai mult când ridic mâna.\nSPEAKER_00: Când ridicați mâna în sus sau când o duceți în lateral?\nSPEAKER_01: În sus mai ales.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde vă situați?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Doare și noaptea, când stați culcat pe el?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Un pic. Dar vă trezește din somn?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Amorțește mâna sau degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Durerea rămâne în umăr sau coboară pe braț?\nSPEAKER_01: Rămâne acolo.\nSPEAKER_00: Doar în umăr. Ați mai avut probleme cu umărul acesta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciodată. Tensiune, diabet, vreo altă afecțiune?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, nicio injecție, nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme sau unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să fac câteva teste, dacă sunteți de acord.\nSPEAKER_01: Da.\nSPEAKER_00: Ridicați brațul drept în față, încet, cât puteți de sus. Până unde ajungeți?\nSPEAKER_01: Cam până aici, nu mai pot mai sus.\nSPEAKER_00: Doare chiar de la început sau numai de la un unghi?\nSPEAKER_01: De pe la jumătate.\nSPEAKER_00: De pe la jumătate, înțeles. Acum duceți brațul în lateral.\nSPEAKER_01: Au, da, asta doare mai tare.\nSPEAKER_00: Doare mai tare în lateral. Bine. Apăs acum pe zona asta de sub acromion, spuneți-mi dacă doare.\nSPEAKER_01: Da, doare.\nSPEAKER_00: Doare direct acolo. Și dacă apăs mai spre biceps?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin, bun. Ce pot să vă spun este că avem o inflamație la nivelul tendonului supraspinos, cel mai probabil un sindrom de impingement. Asta înseamnă că tendonul se prinde atunci când ridicați brațul și provoacă durerea aceasta. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului, ca să puteți ridica brațul fără durere.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: - sindrom de impingement umar dr.; inflamatie tendon supraspinos\nObiective terapeutice: - reducerea inflamatiei; - recuperarea mobilitatii umarului dr."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendonului supraspinos, cel mai probabil un sindrom de impingement", "Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului"]
+  }
+}

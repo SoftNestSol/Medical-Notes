@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, un accident, o lovitură?\nSPEAKER_01: Nu... am ridicat niște cutii.\nSPEAKER_00: Cutii grele?\nSPEAKER_01: Da.\nSPEAKER_00: Și de atunci a rămas durerea?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde ați situa durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare constant sau numai la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Ce fel de mișcare? Când ridicați brațul, când îl duceți în spate?\nSPEAKER_01: Când îl ridic sus.\nSPEAKER_00: Doare și noaptea, când stați pe el?\nSPEAKER_01: Da, câteodată.\nSPEAKER_00: Amorțeli pe braț, pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte dureri în afară de umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Antecedente medicale? Tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Tensiune, da.\nSPEAKER_00: Luați medicamente pentru tensiune?\nSPEAKER_01: Da, Prestarium.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 5 miligrame.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva mișcări. Ridicați brațul drept în față, ușor.\nSPEAKER_01: Până aici merge.\nSPEAKER_00: Da, doare de la vreo 90 de grade în sus, da?\nSPEAKER_01: Da.\nSPEAKER_00: Acum duceți-l lateral.\nSPEAKER_01: Au, da, doare.\nSPEAKER_00: Doare mai tare lateral decât în față?\nSPEAKER_01: Cam la fel.\nSPEAKER_00: Bun. Stați puțin, apăs aici pe umăr. Doare?\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Avem o limitare a mobilității umărului drept, durere la abducție și flexie de la 90 de grade, sensibilitate la palpare în zona subacromială. Pare o tendinopatie a coafei rotatorilor. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Radiografie sau RMN ați făcut la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept, apărută după ridicare de cutii grele, de aproximativ două săptămâni",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Prestarium",
+        "doza": "5 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinopatie coafă rotatori umăr drept. Limitare mobilitate umăr drept, durere la abducție și flexie de la 90 de grade, sensibilitate la palpare în zona subacromială. Obiective terapeutice: reducerea inflamației, recâștigarea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "am ridicat niște cutii", "De vreo două săptămâni"],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Dreptul.", "Mă doare umărul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune, da."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Prestarium.", "5 miligrame."],
+    "evaluare_functionala_initiala": ["Avem o limitare a mobilității umărului drept, durere la abducție și flexie de la 90 de grade, sensibilitate la palpare în zona subacromială. Pare o tendinopatie a coafei rotatorilor. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea."]
+  }
+}

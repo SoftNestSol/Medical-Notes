@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_074",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Am zugrăvit.",
+      "Asta doare mai tare."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6.",
+      "Poate un 8."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Doare strict în umăr sau se lasă și pe braț în jos?"
+    ],
+    "localizarea_durerii_alta": [
+      "Și puțin pe braț, dar mai mult în umăr.",
+      "Pe față."
+    ],
+    "antecedente": [
+      "Tensiune am."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Enalapril.",
+      "10 miligrame, o dată pe zi."
+    ],
+    "evaluare_functionala_initiala": [
+      "arc dureros la abducție, aproximativ de la 90 de grade în sus",
+      "Pe tendonul bicepsului în șanțul bicipital. Și la capul lateral al umărului dacă apăs?",
+      "avem o inflamație la nivelul tendonului supraspinosului și posibil al bicepsului. Arc dureros prezent, sensibilitate la palpare. O să lucrăm să reducem inflamația și să redăm mobilitatea completă a umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22731,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1904,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

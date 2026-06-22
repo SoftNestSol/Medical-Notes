@@ -1,0 +1,66 @@
+SPEAKER_00: Bună ziua, doamna!
+SPEAKER_01: Bună ziua.
+SPEAKER_00: Spuneți-mi și prenumele, vă rog.
+SPEAKER_01: Andreea. Andreea Vintilă.
+SPEAKER_00: Andreea, mulțumesc. Și vârsta dacă se poate?
+SPEAKER_01: 38 de ani.
+SPEAKER_00: Bun. Cu ce problemă ne vedem astăzi, doamna Andreea?
+SPEAKER_01: Păi... mă doare undeva pe aici, la gât, și se lasă cam pe umărul ăsta, pe stânga. De vreo câteva zile nu mai pot să-mi întorc capul.
+SPEAKER_00: Înțeleg. Când ziceți câteva zile, mai exact?
+SPEAKER_01: Nu știu exact... cred că de vreo săptămână, poate puțin mai mult. Nu-mi aduc aminte precis când a început.
+SPEAKER_00: Și a apărut brusc sau treptat, ați simțit că vine?
+SPEAKER_01: A apărut cam brusc, mă trezisem dimineața și simțeam că nu pot să mă mișc. Nu știu dacă am dormit strâmb sau ce s-o fi întâmplat.
+SPEAKER_00: Am înțeles. Deci dimineața era mai rău?
+SPEAKER_01: Da, dimineața e cel mai rău. Parcă mă mai dezmorțesc pe parcursul zilei, dar nu trece complet.
+SPEAKER_00: Durerea aceasta de la gât se lasă pe umăr, ați spus. Se lasă și mai jos, pe braț, pe antebraț, degete?
+SPEAKER_01: Hmm... pe umăr da, sigur. Mai jos... nu știu, câteodată simt ceva pe aici, pe brațul ăsta, dar nu știu dacă e legat.
+SPEAKER_00: Când ziceți pe braț, e mai mult pe față sau pe partea din spate?
+SPEAKER_01: Pe față, parcă. Pe aici. Nu pot să spun exact.
+SPEAKER_00: Și amorțeli aveți? Furnicături în degete?
+SPEAKER_01: Uneori, da, mai ales noaptea. Mă trezesc și simt că mi-a amorțit mâna, dar trece repede.
+SPEAKER_00: Mâna dreaptă sau stângă?
+SPEAKER_01: Stânga. Că tot pe stânga îmi dă și durerile astea.
+SPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum ați pune durerea?
+SPEAKER_01: Păi... nu știu... dimineața e mai rău, pe la... nu știu, un 7? Și ziua mai scade, pe la 4, 5, ceva de genul.
+SPEAKER_00: Deci 7 dimineața și cam 4-5 pe parcursul zilei. Am notat.
+SPEAKER_01: Da, cam așa.
+SPEAKER_00: Lucrați la birou, la calculator?
+SPEAKER_01: Da, toată ziua practic. Stau mult cu capul în jos, și la telefon, și la laptop. Îmi dau seama că nu e bine, dar ce să fac.
+SPEAKER_00: Și în ultimele zile, postura s-a schimbat, v-ați simțit mai rigidă?
+SPEAKER_01: Da, țin capul cam strâmb, parcă mă ferez de durere și stau mai mult pe o parte.
+SPEAKER_00: Am înțeles. Haideți să facem câteva mișcări simple. Întoarceți ușor capul spre dreapta.
+SPEAKER_01: Merge, nu doare tare.
+SPEAKER_00: Bun. Acum spre stânga, încet.
+SPEAKER_01: Au. Da, aici se simte. Nu pot să duc capul departe.
+SPEAKER_00: Bun, am văzut. Limitare clară la rotație stângă. Acum plecați capul puțin în față.
+SPEAKER_01: Merge, dar trage un pic pe gât, pe spate.
+SPEAKER_00: Pe ceafă?
+SPEAKER_01: Da, pe ceafă și pe umăr.
+SPEAKER_00: Am înțeles. Voi apăsa ușor pe mușchii de pe ceafă, spuneți-mi dacă doare.
+SPEAKER_01: Da, acolo e tare, au.
+SPEAKER_00: Doare tare aici.
+SPEAKER_01: Da, mai ales pe stânga.
+SPEAKER_00: Bun. Și pe umărul stâng, sus, dacă apăs?
+SPEAKER_01: Și acolo, da. Simtit.
+SPEAKER_00: Bine. Vă rog să-mi spuneți, aveți alte probleme de sănătate, cum ar fi tensiune, diabet, boli de inimă?
+SPEAKER_01: Nu, nu am nimic din astea.
+SPEAKER_00: Operații, fracturi, ceva mai vechi?
+SPEAKER_01: Am avut o operație la menisc, la genunchiul drept, acum vreo cinci ani. Dar a trecut, nu mai am probleme acolo.
+SPEAKER_00: La meniscul drept, acum cinci ani. Altceva?
+SPEAKER_01: Nu... ah, stați. Mi s-a spus acum mulți ani, pe la liceu, că am o ușoară scolioză. Dar nu m-a deranjat niciodată, nu m-am mai dus la nimeni pentru asta.
+SPEAKER_00: O ușoară scolioză, diagnosticată la liceu. Am înțeles. Epilepsie, cancer, boli autoimune?
+SPEAKER_01: Nu, nimic.
+SPEAKER_00: Medicamente luați în prezent?
+SPEAKER_01: Nu, nu iau nimic. Poate un paracetamol din când în când pentru durere, dar rar.
+SPEAKER_00: Un paracetamol ocazional. Altceva regulat?
+SPEAKER_01: Nu.
+SPEAKER_00: Alergii la creme, unguente?
+SPEAKER_01: Nu știu să am.
+SPEAKER_00: Ați mai făcut terapie de genul acesta înainte, masaj terapeutic, chiropractică?
+SPEAKER_01: Am mai făcut masaj de relaxare, de câteva ori. Chiropractică prima dată.
+SPEAKER_00: Bun. Aveți radiografii sau RMN de coloană cervicală?
+SPEAKER_01: Nu, nu am făcut nimic.
+SPEAKER_00: Am înțeles. Vă spun ce observ eu. Avem o contractură musculară destul de importantă pe zona cervicală, mai ales pe stânga, cu afectarea trapezului superior și a ridicătorului scapular. Mobilitatea la rotație stângă e limitată vizibil. Amorțelile nocturne din mâna stângă sugerează că trebuie să fim atenți și la o posibilă iritație pe rădăcina nervoasă, dar fără RMN nu putem spune sigur. În primă fază, obiectivul nostru este să reducem contractura și inflamația musculară și să recâștigăm mobilitatea cervicală. Ulterior vedem cum evoluează și dacă mai e nevoie de investigații suplimentare.
+SPEAKER_01: Bine, înțeleg. Și credeți că trece?
+SPEAKER_00: Da, cu câteva ședințe ar trebui să simțiți o îmbunătățire clară. Hai să începem.
+SPEAKER_01: Ok, mulțumesc.

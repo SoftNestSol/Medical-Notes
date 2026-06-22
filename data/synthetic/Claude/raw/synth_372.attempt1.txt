@@ -1,0 +1,44 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva în perioada aia, un efort, o lovitură?\nSPEAKER_01: Am vopsit tavanul acasă. Vreo două zile la rând.\nSPEAKER_00: Deci cu brațul ridicat mult timp.\nSPEAKER_01: Da.\nSPEAKER_00: Și de atunci doare?\nSPEAKER_01: Da.\nSPEAKER_00: Doare constant sau doar la mișcare?\nSPEAKER_01: La mișcare mai mult. Noaptea mă mai trezește.\nSPEAKER_00: Noaptea vă trezește când vă întoarceți pe partea dreaptă?\nSPEAKER_01: Da, exact.\nSPEAKER_00: Pe o scară de la 0 la 10, cât estimați durerea?\nSPEAKER_01: Cam un 6.\nSPEAKER_00: Când ridicați brațul în sus, ajunge sus?\nSPEAKER_01: Nu prea. Mă doare și mă opresc.\nSPEAKER_00: Aproximativ la ce înălțime vă opriți?\nSPEAKER_01: Până pe la umăr, cam atât.\nSPEAKER_00: Și dacă duceți brațul în lateral?\nSPEAKER_01: Și acolo doare.\nSPEAKER_00: Se lasă durerea pe braț în jos, spre cot sau spre mână?\nSPEAKER_01: Nu, rămâne în umăr.\nSPEAKER_00: Bun. Amorțeli în mână, degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți tensiune, diabet, osteoporoză, vreo afecțiune mai veche?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu iau nimic.\nSPEAKER_00: Nici antiinflamator, nurofen, ceva?\nSPEAKER_01: Nu, n-am luat.\nSPEAKER_00: Bun. Lăsați-mă să verific puțin zona. Ridicați brațul înainte, încet.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Apăs puțin aici pe umăr. Doare?\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: Și mai jos, pe mușchiul ăsta lateral?\nSPEAKER_01: Puțin, mai puțin.\nSPEAKER_00: Dacă pun rezistență și împingeți brațul în lateral față de mine, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Vedeți, durerea asta localizată sus pe umăr, la mișcarea cu brațul ridicat și la apăsare, arată o inflamație la nivelul tendoanelor de acolo, probabil tendonul supraspinosului. Asta s-a iritat din efortul cu brațul sus la vopsit.\nSPEAKER_01: Deci nu e ceva grav?\nSPEAKER_00: Nu, e tratabil. O să lucrăm să reducem inflamația și să recuperăm mișcarea. Primele ședințe cu blândețe, fără să forțăm.\nSPEAKER_01: Ok.\nSPEAKER_00: Evitați deocamdată să ridicați brațul drept deasupra capului, mai ales cu greutăți. Și pe partea dreaptă la dormit încercați să nu stați.\nSPEAKER_01: Bine.\nSPEAKER_00: Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după efort cu brațul ridicat (vopsit tavan), de aproximativ două săptămâni. Durere la mișcare și nocturnă la decubit lateral drept, cu limitarea abducției și flexiei brațului.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Tendinopatie/inflamatie tendon supraspinos umar drept.\nObiective terapeutice: reducerea inflamatiei; recuperarea amplitudinii de miscare a umarului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Vreo două săptămâni.",
+      "Am vopsit tavanul acasă. Vreo două zile la rând.",
+      "La mișcare mai mult. Noaptea mă mai trezește.",
+      "Da, când vă întoarceți pe partea dreaptă."
+    ],
+    "evaluarea_durerii_vas": [
+      "Cam un 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Nu, rămâne în umăr."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nu iau nimic.",
+      "Nu, n-am luat."
+    ],
+    "evaluare_functionala_initiala": [
+      "durerea asta localizată sus pe umăr, la mișcarea cu brațul ridicat și la apăsare, arată o inflamație la nivelul tendoanelor de acolo, probabil tendonul supraspinosului",
+      "O să lucrăm să reducem inflamația și să recuperăm mișcarea."
+    ]
+  }
+}

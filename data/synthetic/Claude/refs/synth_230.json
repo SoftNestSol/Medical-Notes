@@ -1,0 +1,28 @@
+{
+  "motivul_prezentarii": "Durere cervicală cu iradiere în umărul drept, dureri de cap asociate, amețeli la schimbarea poziției capului și la ridicare din pat, amorțeli matinale la mâna dreaptă. Debut acum trei săptămâni, posibil legat de postura la calculator.",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "cap_ceafa",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Lorista",
+      "doza": "50 mg, o dată pe zi"
+    },
+    {
+      "denumire": "Algocalmin",
+      "doza": "la nevoie"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale/biomecanice: umărul drept mai ridicat față de stânga, cap dus anterior. Limitare de mobilitate cervicală în rotație dreapta cu senzație de blocare, rotație stânga parțial limitată. Crepitații la flexia capului. Palpare dureroasă cervical median și paravertebral dreapta.\nDiagnostic: contractură musculară cervicală, mai accentuată pe dreapta, cu limitare de mobilitate în rotație; posibilă iritație nervoasă C5-C6 sau C6-C7 (amorțeli mâna dreaptă matinal).\nObiective terapeutice: reducerea contracturii și inflamației musculare cervicale; refacerea mobilității cervicale; corectarea posturii; ameliorarea amețelilor de origine cervicală."
+}

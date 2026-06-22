@@ -1,0 +1,47 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamna!\nSPEAKER_01: Bună ziua, bună ziua!\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Ionescu Mihaela.\nSPEAKER_00: Mulțumesc, doamna Ionescu. Și vârsta?\nSPEAKER_01: 38 de ani. Deși mă simt de 60 în momentul ăsta, vă spun sincer.\nSPEAKER_00: Înțeleg. Cu ce problemă ne vedem azi?\nSPEAKER_01: Păi, mă doare umărul drept de ceva vreme. Și nu e o durere oarecare, adică mă trezesc noaptea din cauza ei. Soțul meu zice că mă foiesc toată noaptea și nu pot să stau pe partea dreaptă deloc. Dar și ziua e rău, mai ales când ridic mâna, să zic... când vreau să pun ceva pe raft sau când mă pieptăn dimineața.\nSPEAKER_00: De cât timp aveți durerea asta?\nSPEAKER_01: De vreo trei săptămâni, cam așa. A început după ce am mutat niște cutii grele la birou. Am vrut să ajut și eu, că nu era nimeni altcineva și am cam forțat, cred. Și după aia a doua zi m-am trezit și gata, nu mai puteam ridica mâna.\nSPEAKER_00: Deci a apărut brusc, după un efort.\nSPEAKER_01: Da, exact. Brusc. Nu am simțit nimic în momentul respectiv, dar a doua zi dimineața... vai.\nSPEAKER_00: Durerea e doar la umăr sau se duce și pe braț în jos?\nSPEAKER_01: Uneori simt ceva și pe braț, pe partea asta din față, așa, dar mai rar. Umărul e cel care mă omoară.\nSPEAKER_00: Pe ce parte a umărului doare mai tare? În față, în spate, deasupra?\nSPEAKER_01: Mai mult deasupra și puțin în față. Dacă apăs eu singură pe-acolo, doare imediat.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e cel mai rău, cât e durerea în momentul de față?\nSPEAKER_01: Acum, stând liniștită, un 4. Dar dacă ridic mâna sau dorm pe ea, ușor un 8.\nSPEAKER_00: Deci 4 în repaus și 8 la mișcare.\nSPEAKER_01: Da, cam așa. Și noaptea e 8 sigur.\nSPEAKER_00: Ați încercat ceva pentru durere până acum?\nSPEAKER_01: Am pus un gel, Voltaren, de câteva ori. Ajută un pic pe moment, dar nu rezolvă nimic. Nu am luat pastile că nu prea îmi place să iau pastile.\nSPEAKER_00: Bine. Aveți alte afecțiuni, cum ar fi tensiune, diabet, probleme osoase?\nSPEAKER_01: Nu, nu am nimic din astea. Sunt sănătoasă toasă, cum s-ar spune, doar umărul ăsta acum m-a cam doborât. Mă gândeam că poate am rupt ceva sau nu știu, asta mă sperie cel mai tare, că poate e ceva grav.\nSPEAKER_00: Înțeleg îngrijorarea. Haideți să vedem. Ridicați brațul drept înainte, încet, cât puteți.\nSPEAKER_01: Până pe-aci pot. Mai sus nu mai merge, mă doare.\nSPEAKER_00: Bine. Și în lateral?\nSPEAKER_01: Lateral e și mai rău. Înainte merge ceva, dar în lateral... nu pot nici jumătate.\nSPEAKER_00: Rotiți brațul ușor spre interior, ca și cum ați băga mâna la spate.\nSPEAKER_01: Ah, asta doare tare. Nu prea pot.\nSPEAKER_00: Bun. Vă apăs acum puțin pe zona de deasupra umărului, pe tendonul supraspinatus. Doare?\nSPEAKER_01: Da! Chiar acolo e. Acolo mă doare tot timpul.\nSPEAKER_00: Și aici, pe fața anterioară a umărului?\nSPEAKER_01: Da, și-acolo, dar mai puțin.\nSPEAKER_00: Am înțeles. Vă spun ce observ eu: aveți o inflamație la nivelul tendonului supraspinatus, cel mai probabil o tendinopatie produsă de efortul respectiv cu cutiile. Mobilitatea e redusă pe rotație internă și pe abducție. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Și nu e ruptură? Că m-am tot gândit la asta.\nSPEAKER_00: Fără o ecografie nu pot exclude complet, dar semnele nu indică o ruptură completă. Vă recomand să faceți o ecografie de umăr ca să fim siguri.\nSPEAKER_01: Da, bine, o fac. Mă bucur că nu e ceva îngrozitor. Deci ce facem azi?\nSPEAKER_00: Azi începem cu reducerea inflamației și câteva tehnici manuale pe zona de umăr și pe musculatura din jur. Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutarea cutiilor grele), cu limitarea miscarii si durere nocturna",
+    "evaluarea_durerii_vas": [4, 8],
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinopatie supraspinatus umar drept; mobilitate redusa pe rotatie interna si abductie.\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii umarului.\nRecomandare: ecografie umar."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept de ceva vreme",
+      "A început după ce am mutat niște cutii grele la birou",
+      "mă trezesc noaptea din cauza ei",
+      "nu pot să stau pe partea dreaptă deloc"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, stând liniștită, un 4. Dar dacă ridic mâna sau dorm pe ea, ușor un 8."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept",
+      "Mai mult deasupra și puțin în față"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel, Voltaren, de câteva ori."
+    ],
+    "evaluare_functionala_initiala": [
+      "aveți o inflamație la nivelul tendonului supraspinatus, cel mai probabil o tendinopatie produsă de efortul respectiv cu cutiile",
+      "Mobilitatea e redusă pe rotație internă și pe abducție",
+      "Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului",
+      "Vă recomand să faceți o ecografie de umăr ca să fim siguri"
+    ]
+  }
+}

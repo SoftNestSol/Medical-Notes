@@ -1,0 +1,41 @@
+{
+  "conversation_id": "synth_226",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel stâng, și de vreo trei săptămâni nu mai pot să ridic mâna sus",
+      "A început după ce am mutat niște mobilă, am cărăt cutii grele pe scări"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, așa în repaus, poate un 4. Dar dacă încerc să ridic mâna sau să mă îmbrac, ajunge ușor la 7"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă un pic pe braț, pe aici, pe partea de sus, da, dar nu mai jos de cot"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "am luat un Voltaren gel câteva zile"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendonului supraspinatus, probabil și a bursei subacromiale",
+      "O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21330,
+    "inference_geo": "global",
+    "input_tokens": 314,
+    "output_tokens": 1799,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

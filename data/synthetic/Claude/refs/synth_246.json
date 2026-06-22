@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Durere umar drept dupa zugrăvit, limitarea miscarii brațului",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: - inflamatie manșeta rotatorilor, supraspinatus;\nObiective terapeutice: - reducerea inflamatiei;\n- refacerea mobilitatii umarului drept"
+}

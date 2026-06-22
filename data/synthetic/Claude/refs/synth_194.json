@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Durere umăr drept apărută după zugrăvit (muncă cu brațul ridicat), de aproximativ două săptămâni. Durere la mișcare, limitare de rotație internă, disconfort nocturn în decubit pe partea dreaptă.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Nurofen",
+      "doza": "o dată, de două ori pe săptămână"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- tendinită de supraspinat, posibil iritație bursă subacromială\nObiective terapeutice:\n- reducerea inflamației, eliberarea musculaturii periarticulare, recâștigarea mobilității umărului drept"
+}

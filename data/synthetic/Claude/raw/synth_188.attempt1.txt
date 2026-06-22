@@ -1,0 +1,61 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce vă pot ajuta astăzi?\nSPEAKER_01: Păi, mă doare spatele de ceva vreme și... nu știu, nu mai pot.\nSPEAKER_00: Spatele, da. Mai exact unde? Sus, jos, la mijloc?\nSPEAKER_01: Mai jos, pe aici, zona asta... nu știu cum să zic, undeva la mijloc sau poate puțin mai jos.\nSPEAKER_00: Deci zona lombară, cam la baza coloanei.\nSPEAKER_01: Da, da, cam pe acolo.\nSPEAKER_00: Și de când o aveți?\nSPEAKER_01: Ei, de ceva timp. Câteva săptămâni, poate o lună, nu știu exact. A început ușor și după s-a tot... a tot crescut.\nSPEAKER_00: A crescut în intensitate.\nSPEAKER_01: Da, exact. La început nu mă deranja atât de tare, dar acum e mai greu.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, cum ați descrie durerea în momentul de față?\nSPEAKER_01: Hmm. Greu de zis. Depinde când. Câteodată e suportabilă, câteodată mai puțin. Nu știu, undeva pe la... pe la mijloc? Nu știu exact.\nSPEAKER_00: Cam 5, 4, 6, ceva de genul ăsta?\nSPEAKER_01: Da, pe acolo. Poate un 5, poate un 6. Nu știu sigur.\nSPEAKER_00: Ok, înțeleg. Și durerea rămâne localizată acolo, la spate, sau se duce și în altă parte? Pe picior, pe fesă, pe undeva?\nSPEAKER_01: Păi... câteodată simt ceva și pe... pe partea asta, aici, pe fesă, mai mult pe dreapta.\nSPEAKER_00: Pe fesă dreapta.\nSPEAKER_01: Da, dar nu tot timpul. Uneori.\nSPEAKER_00: Coboară și mai jos, pe pulpă, pe picior?\nSPEAKER_01: Nu știu... uneori simt ceva, dar nu e clar. Nu e o durere, e mai mult așa, o senzație ciudată.\nSPEAKER_00: O senzație ciudată. Amorțeală, furnicături?\nSPEAKER_01: Poate furnicături, da, dar rar. Și nu știu dacă e de la spate sau de la altceva.\nSPEAKER_00: Înțeleg. Și ce anume o declanșează sau o înrăutățește? Statul jos, statul în picioare, mersul?\nSPEAKER_01: Statul mult jos, da. La birou, dacă stau mult, după o oră sau ceva, începe să mă țină. Și dimineața când mă scol e mai rău un pic.\nSPEAKER_00: Dimineața e mai rău.\nSPEAKER_01: Da, primele minute, după trece. Mă mișc un pic și trece.\nSPEAKER_00: Bun. Și când mergeți sau vă mișcați, se ameliorează?\nSPEAKER_01: Da, mai mult sau mai puțin. Nu complet, dar mai bine.\nSPEAKER_00: Ok. Ați făcut vreun efort fizic mai deosebit înainte să înceapă? Ați cărat ceva, ați stat în o poziție ciudată?\nSPEAKER_01: Păi, lucrez la birou toată ziua. Stau mult. Și mai am și o perioadă cu mai mult de lucru, stresantă, și poate de atunci.\nSPEAKER_00: De la stat mult la birou.\nSPEAKER_01: Probabil, da.\nSPEAKER_00: Înțeleg. Și serviciul cum e, lucrați la calculator?\nSPEAKER_01: Da, contabil, stau toată ziua la calculator.\nSPEAKER_00: Bun. Haideți să vă întreb și de sănătatea dumneavoastră în general. Aveți vreo afecțiune despre care să știm? Tensiune, diabet, ceva la coloană diagnosticat?\nSPEAKER_01: Tensiune am, da. Mi-a spus medicul de familie că am tensiune un pic mai mare.\nSPEAKER_00: Hipertensiune arteriala.\nSPEAKER_01: Da, ceva de genul. Nu e mare brânză, dar am.\nSPEAKER_00: Altceva? Osteoporoză, hernie de disc, ceva diagnosticat la coloană?\nSPEAKER_01: Nu știu sigur. Adică am făcut o radiografie acum câțiva ani și mi-a zis cineva ceva de scolioză, dar nu știu, nu am mers mai departe cu asta.\nSPEAKER_00: A menționat cineva scolioză.\nSPEAKER_01: Da, dar nu știu dacă e ceva serios. Nu am luat în seamă.\nSPEAKER_00: Ok, înțeleg. Altceva în rest?\nSPEAKER_01: Nu, nu cred.\nSPEAKER_00: Luați medicamente în prezent?\nSPEAKER_01: Iau ceva pentru tensiune, da. Amlodipină mi-a dat doctorul.\nSPEAKER_00: Amlodipină. Știți ce doză?\nSPEAKER_01: Cinci, ceva de cinci. Cinci miligerame, da.\nSPEAKER_00: Amlodipină 5 miligrame. Altceva?\nSPEAKER_01: Mai iau câteodată ceva de durere, un ibuprofen, când nu mai pot. Dar nu în fiecare zi.\nSPEAKER_00: Ibuprofen când e nevoie.\nSPEAKER_01: Da, la nevoie.\nSPEAKER_00: Bun. Ați mai făcut vreodată kinetoterapie, fizioterapie, masaj pentru spatele ăsta?\nSPEAKER_01: Nu, e prima oară când vin la ceva de genul ăsta. Prietena mea m-a trimis, a venit și ea la dumneavoastră.\nSPEAKER_00: Bine că ați venit. Haideți să facem câteva mișcări acum, să vedem cam cum e mobilitatea. Stați puțin în picioare.\nSPEAKER_01: Da.\nSPEAKER_00: Aplecați-vă ușor în față, cât puteți, fără să forțați.\nSPEAKER_01: Cam până aici pot.\nSPEAKER_00: Doare când faceți asta?\nSPEAKER_01: Da, trage pe aici, la spate.\nSPEAKER_00: Trage. Și dacă vă aplecați lateral, spre dreapta?\nSPEAKER_01: Hmm, un pic, da.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: Mai puțin, stânga merge mai bine.\nSPEAKER_00: Bine. Vedeți că flexia e un pic limitată, și mai ales spre dreapta aveți o ușoară restricție de mobilitate. Mă așteptam. Stați puțin pe piciorul drept, ridicați stângul... vă ține bine?\nSPEAKER_01: Da, da, mă ține.\nSPEAKER_00: Bun. Acum pe celălalt.\nSPEAKER_01: Și ăsta merge.\nSPEAKER_00: Ok. Haideți să stați pe masă, cu fața în jos.\nSPEAKER_01: Bine.\nSPEAKER_00: O să apăs puțin pe coloana lombară, îmi spuneți unde simțiți ceva.\nSPEAKER_01: Aici... și mai sus un pic... pe acolo.\nSPEAKER_00: Bun. Există o tensiune musculară destul de clară paravertebral, mai ales pe dreapta. Se vede că mușchii sunt contractați, nu sunt relaxați.\nSPEAKER_01: Da, mă ține mereu acolo.\nSPEAKER_00: Da. Pe baza a ce am văzut acum, avem o lombalgie de postură, probabil accentuată de statul prelungit la birou, cu o contractură musculară paravertebrală în zona lombară, mai pronunțată pe dreapta. Obiectivul nostru este să reducem contractura asta, să îmbunătățim mobilitatea lombară și să vă ajutăm să stați mai bine în postură la birou.\nSPEAKER_01: Și credeți că trece?\nSPEAKER_00: Cu tratament adecvat și cu câteva schimbări la birou, da, ar trebui să se amelioreze semnificativ. Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară de câteva săptămâni, apărută probabil din cauza statului prelungit la birou, cu iradiere ocazională pe fesa dreaptă și furnicături rare pe membrul inferior.",
+    "evaluarea_durerii_vas": null,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": "fesă dreaptă, membru inferior (furnicături rare)",
+    "antecedente": [
+      "hipertensiune_arteriala",
+      "scolioza_cifoza"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Amlodipină",
+        "doza": "5 miligrame"
+      },
+      {
+        "denumire": "Ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: Lombalgie de postură cu contractură musculară paravertebrală lombară, mai pronunțată pe dreapta.\nObiective terapeutice: reducerea contracturii musculare; îmbunătățirea mobilității lombare; corectarea posturii la birou."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele de ceva vreme",
+      "Mai jos, pe aici, zona asta... nu știu cum să zic, undeva la mijloc sau poate puțin mai jos",
+      "câteodată simt ceva și pe... pe partea asta, aici, pe fesă, mai mult pe dreapta",
+      "uneori simt ceva, dar nu e clar. Nu e o durere, e mai mult așa, o senzație ciudată",
+      "Poate furnicături, da, dar rar"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "Mai jos, pe aici, zona asta... nu știu cum să zic, undeva la mijloc sau poate puțin mai jos",
+      "Deci zona lombară, cam la baza coloanei"
+    ],
+    "localizarea_durerii_alta": [
+      "câteodată simt ceva și pe... pe partea asta, aici, pe fesă, mai mult pe dreapta",
+      "Poate furnicături, da, dar rar. Și nu știu dacă e de la spate sau de la altceva"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Mi-a spus medicul de familie că am tensiune un pic mai mare",
+      "am făcut o radiografie acum câțiva ani și mi-a zis cineva ceva de scolioză"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Amlodipină mi-a dat doctorul",
+      "Cinci, ceva de cinci. Cinci miligerame, da",
+      "Mai iau câteodată ceva de durere, un ibuprofen, când nu mai pot"
+    ],
+    "evaluare_functionala_initiala": [
+      "Există o tensiune musculară destul de clară paravertebral, mai ales pe dreapta. Se vede că mușchii sunt contractați, nu sunt relaxați",
+      "avem o lombalgie de postură, probabil accentuată de statul prelungit la birou, cu o contractură musculară paravertebrală în zona lombară, mai pronunțată pe dreapta",
+      "Obiectivul nostru este să reducem contractura asta, să îmbunătățim mobilitatea lombară și să vă ajutăm să stați mai bine în postură la birou",
+      "flexia e un pic limitată, și mai ales spre dreapta aveți o ușoară restricție de mobilitate"
+    ]
+  }
+}

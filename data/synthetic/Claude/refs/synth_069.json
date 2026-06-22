@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere toracală medie, zona mijlocului spatelui, cu iradiere ocazională spre lombar, apărută insidios în context de muncă sedentară prelungită (birou, calculator).",
+  "evaluarea_durerii_vas": null,
+  "localizarea_durerii": [
+    "toracal",
+    "lombar"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Postură cifotică cu proiecție anterioară a capului și umerilor. Hipomobilitate și sensibilitate la presiune în zona toracalului inferior. Limitare la extensia coloanei. Obiective: mobilizarea segmentelor toracale, reducerea tensiunii musculare paravertebrale, corectarea posturii."
+}

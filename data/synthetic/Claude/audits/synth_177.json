@@ -1,0 +1,56 @@
+{
+  "conversation_id": "synth_177",
+  "evidence": {
+    "motivul_prezentarii": [
+      "de vreo trei săptămâni mă doare umărul drept",
+      "se lasă și pe braț, până pe la cot, dar nu tot timpul",
+      "Dimineața e groaznică, sincer",
+      "și la gât mai simt câteodată o tensiune",
+      "mă doare și puțin capul uneori, în ceafă, mai ales seara",
+      "stau mult la birou, vreo 8-9 ore pe zi",
+      "îl port în brațul drept de obicei"
+    ],
+    "evaluarea_durerii_vas": [
+      "Dimineața, când ridic brațul, e un 8 clar",
+      "Când stau liniștit, la birou, poate un 3, 4"
+    ],
+    "localizarea_durerii": [
+      "pe umărul drept, în față",
+      "se lasă și pe braț, până pe la cot",
+      "și la gât mai simt câteodată o tensiune",
+      "mă doare și puțin capul uneori, în ceafă, mai ales seara"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "am o hernie de disc la lombar, diagnosticată acum doi ani",
+      "mi-au făcut RMN, a zis că e hernie la L4-L5"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Nurofen când nu mai pot",
+      "400, cred. Cel normal, de la farmacie",
+      "iau magneziu",
+      "scrie 375 mg pe cutie"
+    ],
+    "evaluare_functionala_initiala": [
+      "Aveți o limitare de mobilitate la umărul drept, cu durere accentuată la abducție și la flexie",
+      "durere la palparea tendonului supraspinatus și a tendonului bicepsului lung",
+      "Scăderea de forță la abducție activă cu rezistență sugerează o posibilă afectare a manșetei rotatorilor, probabil o inflamație sau o tendinopatie",
+      "Obiectivul nostru e să reducem inflamația, să recuperăm mobilitatea și să corectăm postura"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22760,
+    "inference_geo": "global",
+    "input_tokens": 271,
+    "output_tokens": 3821,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

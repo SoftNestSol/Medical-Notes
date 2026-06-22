@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_417",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele de vreo două săptămâni, zona de jos",
+      "A doua zi dimineața m-am trezit și mă ținea, așa, în zona de jos a spatelui",
+      "dacă stau jos la birou mai mult, iarăși începe"
+    ],
+    "evaluarea_durerii_vas": [
+      "vreo șase, zic eu",
+      "Dimineața e mai rău, mai 7, poate"
+    ],
+    "localizarea_durerii": [
+      "mă doare spatele de vreo două săptămâni, zona de jos",
+      "Stă acolo, în zona de jos a spatelui"
+    ],
+    "localizarea_durerii_alta": [
+      "câteodată simt ceva pe fesă, dar nu jos de tot, nu pe picior"
+    ],
+    "antecedente": [
+      "acum vreo cinci ani mi-am făcut o radiografie, că tot mă durea, și doctorul mi-a spus că am o scolioză ușoară"
+    ],
+    "antecedente_altele": [
+      "am și căzut, mi-am rupt o coastă, nu lombar, dar tot zona spatelui, și am stat vreo lună"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți o ușoară aplecare spre stânga",
+      "Musculatura paravertebrală e contractată bilateral, mai mult pe stânga",
+      "avem o contractură musculară importantă în zona lombară, legată probabil de efortul de la mutat mobila și agravată de postura de la birou",
+      "Scolioza ușoară pe care v-a zis-o doctorul poate contribui și ea",
+      "Obiectivul nostru acum e să reducem contractura, să relaxăm musculatura și să vedem cum eliberăm coloana"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22123,
+    "inference_geo": "global",
+    "input_tokens": 318,
+    "output_tokens": 3686,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

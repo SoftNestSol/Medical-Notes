@@ -1,0 +1,53 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Ionescu Radu.\nSPEAKER_00: Și vârsta?\nSPEAKER_01: 38 de ani. Păi da, 38, deși mă simt de 60 acum, sincer.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare gâtul, adică zona asta de ceafă și umărul drept. Și... păi de vreo trei săptămâni, poate mai mult. A început undeva după ce am stat o zi întreagă la birou, aveam un deadline, stați așa, nu m-am mișcat deloc. A doua zi m-am trezit și nu mai puteam să mă întorc cu capul. Am zis că trece, am mai luat un gel, dar nu a trecut. Soția mea mi-a zis să vin mai devreme, eu am tot amânat.\nSPEAKER_00: Înțeles. Deci a început după o zi lungă la birou.\nSPEAKER_01: Exact, exact. Și stau mult la calculator, nu e o noutate, dar de data asta parcă m-a prins mai rău.\nSPEAKER_00: Doare și umărul sau mai mult gâtul și ceafa?\nSPEAKER_01: Păi ambele, dar mai rău e ceafa și gâtul. Umărul drept mă doare și el, dar mai puțin, mai ales când ridic mâna sau când dorm pe partea dreaptă.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare ceafa?\nSPEAKER_01: Acum, în repaus, undeva la un 5. Dar dacă mă întorc capul sau dacă stau la birou câteva ore, ajunge lejer la un 7, 8.\nSPEAKER_00: Deci 5 în repaus și 7-8 la mișcare sau efort.\nSPEAKER_01: Da, da, cam așa.\nSPEAKER_00: Durerea se lasă și pe braț în jos, amorțeli, furnicături?\nSPEAKER_01: Câteodată simt ceva pe braț, pe partea asta exterioară, dar nu știu dacă e amorțeală sau ce e. Nu e tot timpul.\nSPEAKER_00: Pe brațul drept.\nSPEAKER_01: Da, dreptul.\nSPEAKER_00: Și gelul pe care l-ați folosit, ce gel a fost?\nSPEAKER_01: Voltaren, cel clasic. L-am pus de câteva ori, mai ajuta puțin dar nu a rezolvat nimic.\nSPEAKER_00: Altceva luați, pastile, tratamente?\nSPEAKER_01: Nu, nimic altceva. Nu sunt genul care ia pastile, mă feresc.\nSPEAKER_00: Aveți tensiune, diabet, alte probleme?\nSPEAKER_01: Nu, nu am nimic din astea. Sunt sănătos tun, în afară de gâtul ăsta acum.\nSPEAKER_00: Intervenții chirurgicale, accidente?\nSPEAKER_01: Nu, niciodată.\nSPEAKER_00: Bun. Haideți să fac câteva teste. Stați drept, vă rog. Întoarceți capul spre dreapta încet.\nSPEAKER_01: Până aici pot, mai departe doare.\nSPEAKER_00: Da, ok. Și spre stânga?\nSPEAKER_01: Stânga merge mai bine, da.\nSPEAKER_00: Bun. Apăs acum pe zona de cervical, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo, acolo doare. Și un pic mai jos, pe partea dreaptă mai ales.\nSPEAKER_00: Și pe trapez, pe umărul drept.\nSPEAKER_01: Au, da. E foarte încordat, nu? Eu simțeam că e ceva acolo dar nu știam că e chiar așa.\nSPEAKER_00: Da, e contractură destul de puternică. Vă spun eu ce văd: aveți o contractură musculară semnificativă în zona cervicală și pe trapezul drept, cu limitarea rotației spre dreapta. Cel mai probabil pornit din postura de la birou, poziție menținută mult timp. Obiectivul nostru va fi să reducem contractura, să eliberăm mobilitatea și să vedem dacă e nevoie și de alte investigații pentru brațul drept.\nSPEAKER_01: Deci nu e ceva grav? Că mă gândeam că poate am o hernie sau nu știu ce, soția mea a zis că ar putea fi hernie de disc și m-a speriat.\nSPEAKER_00: Nu putem spune sigur fără imagistică, dar deocamdată tabloul clinic sugerează contractură și posibil iritație la nivel cervical. Haideți să începem și vedem cum răspundeți.\nSPEAKER_01: Ok, bine, haideți.",
+
+  "note": {
+    "motivul_prezentarii": "Durere cervicala, ceafa si umar drept, aparuta dupa zi lunga la birou, de aproximativ 3 saptamani",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "antebrat drept (amorteala/furnicaturi ocasionale pe partea exterioara)",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractura musculara cervicala si trapez drept; limitarea rotatiei cervicale spre dreapta; posibila iritatie cervicala\nObiective terapeutice: reducerea contracturii, eliberarea mobilitatii cervicale, evaluarea simptomelor pe brat drept"
+  },
+
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul, adică zona asta de ceafă și umărul drept",
+      "de vreo trei săptămâni, poate mai mult. A început undeva după ce am stat o zi întreagă la birou"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în repaus, undeva la un 5",
+      "dacă mă întorc capul sau dacă stau la birou câteva ore, ajunge lejer la un 7, 8"
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul, adică zona asta de ceafă și umărul drept",
+      "mai rău e ceafa și gâtul",
+      "Umărul drept mă doare și el"
+    ],
+    "localizarea_durerii_alta": [
+      "Câteodată simt ceva pe braț, pe partea asta exterioară",
+      "Da, dreptul"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Voltaren, cel clasic. L-am pus de câteva ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "aveți o contractură musculară semnificativă în zona cervicală și pe trapezul drept, cu limitarea rotației spre dreapta",
+      "Cel mai probabil pornit din postura de la birou, poziție menținută mult timp",
+      "Obiectivul nostru va fi să reducem contractura, să eliberăm mobilitatea și să vedem dacă e nevoie și de alte investigații pentru brațul drept"
+    ]
+  }
+}

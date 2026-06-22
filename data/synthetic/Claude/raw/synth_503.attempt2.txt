@@ -1,0 +1,43 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, vă rog, cu ce problemă veniți.\nSPEAKER_01: Mă doare spatele. Jos.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva înainte să apară durerea? Ați ridicat ceva, ați stat mult jos?\nSPEAKER_01: Am stat mult la birou. Mai mult ca de obicei.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât estimați durerea?\nSPEAKER_01: Un 5.\nSPEAKER_00: Deci un 5. Durerea se lasă și pe fese, pe picior?\nSPEAKER_01: Nu. Rămâne jos, în spate.\nSPEAKER_00: Strict în zona lombară, da? Nu coboară nicăieri?\nSPEAKER_01: Nu.\nSPEAKER_00: Este o durere constantă sau apare la anumite mișcări?\nSPEAKER_01: Când stau mult jos. Și când mă ridic.\nSPEAKER_00: Când vă ridicați din scaun doare mai tare?\nSPEAKER_01: Da, primele secunde.\nSPEAKER_00: Și dacă mergeți puțin, cedează?\nSPEAKER_01: Da, trece.\nSPEAKER_00: Dimineața, când vă treziți, simțiți o înțepenire?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Trece repede sau durează?\nSPEAKER_01: Vreo zece minute, după aia e ok.\nSPEAKER_00: Bun. Amorțeală la picioare, ați simțit vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Ați mai avut episoade similare în trecut?\nSPEAKER_01: Acum doi ani, ceva asemănător. A trecut singur.\nSPEAKER_00: A trecut fără tratament?\nSPEAKER_01: Da.\nSPEAKER_00: Înțeles. Tensiune arterială, diabet, alte afecțiuni?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu iau nimic.\nSPEAKER_00: Nici antiinflamatoare, nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ce ocupație aveți?\nSPEAKER_01: Lucrez la calculator. Programator.\nSPEAKER_00: Deci stat mult în șezut zilnic.\nSPEAKER_01: Da, vreo opt-nouă ore.\nSPEAKER_00: Haideți să facem câteva teste. Stați în picioare, cu spatele la mine. Relaxați umerii.\nSPEAKER_01: Bun.\nSPEAKER_00: Observ că bazinul e ușor basculat anterior. Vă aplecați în față, încet, cât puteți.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare când vă aplecați?\nSPEAKER_01: Da, pe la jumătate.\nSPEAKER_00: Și dacă vă îndreptați, doare la revenire?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Ok. Înclnați-vă lateral spre dreapta.\nSPEAKER_01: Doare un pic.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: La fel.\nSPEAKER_00: Simetric, bun. Haideți pe masă, cu fața în jos.\nSPEAKER_01: Ok.\nSPEAKER_00: Apăs paravertebral pe dreapta, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Mai tare ca pe stânga?\nSPEAKER_01: Parcă da.\nSPEAKER_00: Deci sensibilitate mai mare paravertebral dreapta. Ridic piciorul drept sus, îmi spuneți dacă doare în spate.\nSPEAKER_01: Nu.\nSPEAKER_00: Stângul?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun, Lasègue negativ bilateral. Ce pot să vă spun este că avem o contractură musculară paravertebrală lombară, mai accentuată pe dreapta, fără iradiere, fără compresie nervoasă. Cel mai probabil apărută din postura prelungită la birou. O să lucrăm să reducem contractura, să mobilizăm zona lombară și o să vă arăt și câteva exerciții pentru acasă.\nSPEAKER_01: Ok.\nSPEAKER_00: Aveți răbdare, nu e ceva grav. Dar trebuie să lucrăm și la postură.\nSPEAKER_01: Înțeles.",
+  "note": {
+    "motivul_prezentarii": "Pacient programator, acuză durere lombară joasă de aproximativ două săptămâni, apărută după perioade prelungite de stat la birou. Durere VAS 5/10, accentuată la ridicarea din scaun și la flexia anterioară, cu redoare matinală de circa 10 minute. Fără iradiere pe membre inferioare, fără amorțeli. Episod similar în urmă cu doi ani, remis spontan.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nBazin basculat anterior în ortostatism. Mobilitate în flexie lombară limitată cu durere la jumătatea amplitudinii. Înclinare laterală bilaterală dureroasă simetric. Sensibilitate paravertebrală lombară mai accentuată pe dreapta. Test Lasègue negativ bilateral.\nDiagnostic:\nContractură musculară paravertebrală lombară, predominant pe dreapta, fără iradiere și fără compresie nervoasă, pe fond postural (sedentarism profesional prelungit).\nObiective terapeutice:\nReducerea contracturii musculare paravertebrale; mobilizarea zonei lombare; corectarea posturii; exerciții de întreținere pentru acasă."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele. Jos.",
+      "De vreo două săptămâni.",
+      "Am stat mult la birou. Mai mult ca de obicei.",
+      "Când stau mult jos. Și când mă ridic.",
+      "Acum doi ani, ceva asemănător. A trecut singur."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Rămâne jos, în spate.",
+      "Strict în zona lombară, da? Nu coboară nicăieri?"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Observ că bazinul e ușor basculat anterior.",
+      "Doare când vă aplecați? Da, pe la jumătate.",
+      "Apăs paravertebral pe dreapta, doare? Da. Mai tare ca pe stânga? Parcă da.",
+      "Ridic piciorul drept sus, îmi spuneți dacă doare în spate. Nu. Stângul? Nu.",
+      "avem o contractură musculară paravertebrală lombară, mai accentuată pe dreapta, fără iradiere, fără compresie nervoasă",
+      "O să lucrăm să reducem contractura, să mobilizăm zona lombară și o să vă arăt și câteva exerciții pentru acasă."
+    ]
+  }
+}

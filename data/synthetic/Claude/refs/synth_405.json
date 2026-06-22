@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Pacient de 38 de ani, activ fizic, cu durere la nivelul umărului stâng de aproximativ două săptămâni, cu debut insidios (fără traumatism identificat). Durere accentuată la mișcările deasupra capului și la ducerea brațului în spate, perturbă somnul pe partea afectată. Iradiere parțială pe braț, pe portion externă, fără amorțeală.",
+  "evaluarea_durerii_vas": [
+    3,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "braț stâng, portion externă, până la jumătate",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren gel",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: Tendinopatie/inflamație la nivelul coafei rotatorilor umăr stâng, posibil conflict subacomial. Arc dureros la abducție (simptom din ~90 grade), sensibilitate la palpare anterioară, test de impingement pozitiv. Fără semne clare de ruptură la testele clinice efectuate.\nObiective terapeutice: Reducerea inflamației, refacerea mobilității umărului stâng, reintegrarea treptată a activității fizice. Recomandare ecografie umăr stâng."
+}

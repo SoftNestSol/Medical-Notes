@@ -1,0 +1,349 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, domnule!"
+    },
+    {
+      "start": 1.26,
+      "end": 2.78,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.9,
+      "end": 4.8,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi numele, vă rog."
+    },
+    {
+      "start": 4.92,
+      "end": 5.72,
+      "speaker": "SPEAKER_01",
+      "text": "Florentin Achim."
+    },
+    {
+      "start": 5.84,
+      "end": 6.98,
+      "speaker": "SPEAKER_00",
+      "text": "Florentin, și vârsta?"
+    },
+    {
+      "start": 7.1,
+      "end": 9.38,
+      "speaker": "SPEAKER_01",
+      "text": "38 de ani. Păi, 38, da."
+    },
+    {
+      "start": 9.5,
+      "end": 12.92,
+      "speaker": "SPEAKER_00",
+      "text": "Și cu ce problemă ne vedem astăzi, domnule Achim?"
+    },
+    {
+      "start": 13.04,
+      "end": 36.22,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, uite, de vreo trei săptămâni mă doare gâtul și umărul drept și sincer am tot amânat să vin, am zis că trece singur, dar nu trece. Ba chiar mi se pare că s-a mai agravat față de cum era la început. La început credeam că am dormit strâmb, dar a trecut o săptămână, două, trei și tot mă ține."
+    },
+    {
+      "start": 36.34,
+      "end": 39.0,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Deci zona cervicală și umărul drept."
+    },
+    {
+      "start": 39.12,
+      "end": 45.96,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact. Și uneori simt că se duce și spre omoplat, pe partea dreaptă, știți, acolo în spate."
+    },
+    {
+      "start": 46.08,
+      "end": 47.98,
+      "speaker": "SPEAKER_00",
+      "text": "Spre omoplat pe dreapta, da."
+    },
+    {
+      "start": 48.1,
+      "end": 63.68,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și mai ales dimineața când mă trezesc e cel mai rău, abia mă pot întoarce cu capul. Și la serviciu stau mult la calculator, vreo opt ore, poate mai mult, și spre seară simt că mă strânge tot aici sus."
+    },
+    {
+      "start": 63.8,
+      "end": 64.94,
+      "speaker": "SPEAKER_00",
+      "text": "Lucrați la birou?"
+    },
+    {
+      "start": 65.06,
+      "end": 77.98,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, sunt programator, deci toată ziua la ecran, câteodată și acasă mai continuu. Soția mă tot ceartă că nu mă ridic de pe scaun, are dreptate, dar ce să fac, termenele sunt termenele."
+    },
+    {
+      "start": 78.1,
+      "end": 83.8,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și această durere se lasă cumva pe braț în jos, pe mână, simțiți amorțeală?"
+    },
+    {
+      "start": 83.92,
+      "end": 94.18,
+      "speaker": "SPEAKER_01",
+      "text": "Amorțeală nu prea, dar câteodată simt un fel de furnicătură aici, pe partea din afară a brațului drept, nu știu, vine și pleacă, nu e tot timpul."
+    },
+    {
+      "start": 94.3,
+      "end": 105.7,
+      "speaker": "SPEAKER_00",
+      "text": "Pe partea externă a brațului drept, da. Pe scară de la 0 la 10, unde 0 nu doare deloc și 10 doare extrem de tare, cât de tare e durerea?"
+    },
+    {
+      "start": 105.82,
+      "end": 118.36,
+      "speaker": "SPEAKER_01",
+      "text": "Păi în zona gâtului aș zice un 6, poate 7 dimineața. La umăr e mai mult un 5, dar câteodată dacă întorc capul brusc sau dacă stau mult într-o parte, mai urcă."
+    },
+    {
+      "start": 118.48,
+      "end": 123.04,
+      "speaker": "SPEAKER_00",
+      "text": "Deci un 6-7 pe zona cervicală și un 5 pe umăr."
+    },
+    {
+      "start": 123.16,
+      "end": 124.3,
+      "speaker": "SPEAKER_01",
+      "text": "Cam așa, da."
+    },
+    {
+      "start": 124.42,
+      "end": 127.84,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți cumva și dureri de cap din cauza asta?"
+    },
+    {
+      "start": 127.96,
+      "end": 154.56,
+      "speaker": "SPEAKER_01",
+      "text": "Da! Asta vroiam să spun și eu, am și dureri de cap, mai ales la ceafă, știți, nu e o durere pulsatilă, e mai mult o tensiune, o greutate în ceafă și câteodată îmi merge și pe deasupra capului spre frunte. Și m-am speriat puțin de asta, m-am gândit, nu știu, poate e ceva mai grav, am căutat pe internet și asta nu e o idee bună niciodată."
+    },
+    {
+      "start": 154.68,
+      "end": 161.52,
+      "speaker": "SPEAKER_00",
+      "text": "Da, înțeleg că v-ați îngrijorat. Durerile de cap apar mai ales după o zi lungă la calculator?"
+    },
+    {
+      "start": 161.64,
+      "end": 168.1,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, exact, spre seară mai ales. Dimineața sunt mai ok, dar pe la prânz deja încep."
+    },
+    {
+      "start": 168.22,
+      "end": 174.68,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Și dacă îmi spuneți, aveți vreo afecțiune despre care știți, tensiune arterială, diabet, vreo boală cardiacă?"
+    },
+    {
+      "start": 174.8,
+      "end": 193.04,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, sunt sănătos altfel. Adică, știți, am mai avut o problemă acum vreo zece ani, mi-am rupt claviculele, claviculele drepte, la fotbal, o tâmpenie. Am căzut prost și pac. A trebuit să port atelă vreo șase săptămâni. A trecut, nu mai am probleme cu ea acum."
+    },
+    {
+      "start": 193.16,
+      "end": 195.82,
+      "speaker": "SPEAKER_00",
+      "text": "Clavicula dreaptă, acum zece ani. Și altceva?"
+    },
+    {
+      "start": 195.94,
+      "end": 214.94,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, când eram mic, la vreo 14 ani, mi s-a spus că am o ușoară scolioză, dar n-a fost niciodată gravă, nu am purtat corset sau ceva, mi s-a spus să fac înot. Am făcut o perioadă, după am lăsat-o baltă, știți cum e la tineri."
+    },
+    {
+      "start": 215.06,
+      "end": 219.62,
+      "speaker": "SPEAKER_00",
+      "text": "Da, înțeleg. Deci scolioză ușoară diagnosticată. Medicație luați în momentul de față?"
+    },
+    {
+      "start": 219.74,
+      "end": 231.52,
+      "speaker": "SPEAKER_01",
+      "text": "Nu iau nimic. Am încercat câteodată un paracetamol când mă doare capul prea rău, dar nici aia nu iau regulat, doar din când în când, și oricum nu prea ajută mult."
+    },
+    {
+      "start": 231.64,
+      "end": 233.16,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Intervenții chirurgicale?"
+    },
+    {
+      "start": 233.28,
+      "end": 234.42,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nicio operație."
+    },
+    {
+      "start": 234.54,
+      "end": 241.0,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Haideți să fac câteva teste acum, dacă sunteți de acord. Ridicați-vă în picioare, vă rog."
+    },
+    {
+      "start": 241.12,
+      "end": 241.92,
+      "speaker": "SPEAKER_01",
+      "text": "Da, sigur."
+    },
+    {
+      "start": 242.04,
+      "end": 245.08,
+      "speaker": "SPEAKER_00",
+      "text": "Vreau să întoarceți ușor capul spre dreapta. Doare?"
+    },
+    {
+      "start": 245.2,
+      "end": 247.1,
+      "speaker": "SPEAKER_01",
+      "text": "Da, aici, simțit o tensiune."
+    },
+    {
+      "start": 247.22,
+      "end": 248.36,
+      "speaker": "SPEAKER_00",
+      "text": "Și spre stânga?"
+    },
+    {
+      "start": 248.48,
+      "end": 250.38,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, merge mai bine."
+    },
+    {
+      "start": 250.5,
+      "end": 253.54,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Acum aplecați ușor capul spre umărul drept."
+    },
+    {
+      "start": 253.66,
+      "end": 255.18,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, acolo trage."
+    },
+    {
+      "start": 255.3,
+      "end": 257.96,
+      "speaker": "SPEAKER_00",
+      "text": "Trage și se duce și în umăr?"
+    },
+    {
+      "start": 258.08,
+      "end": 261.88,
+      "speaker": "SPEAKER_01",
+      "text": "Da, se duce și în umăr și puțin în omoplat."
+    },
+    {
+      "start": 262.0,
+      "end": 266.56,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Stați așa, vă apăs puțin pe mușchii trapezului, pe dreapta. Doare?"
+    },
+    {
+      "start": 266.68,
+      "end": 269.34,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mult. Adică e sensibil acolo, da."
+    },
+    {
+      "start": 269.46,
+      "end": 271.36,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe stânga la fel?"
+    },
+    {
+      "start": 271.48,
+      "end": 274.14,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, nu la fel de rău."
+    },
+    {
+      "start": 274.26,
+      "end": 276.92,
+      "speaker": "SPEAKER_00",
+      "text": "Mhm. Ridicați brațul drept în față, ușor."
+    },
+    {
+      "start": 277.04,
+      "end": 278.94,
+      "speaker": "SPEAKER_01",
+      "text": "Merge, merge, da. Spre lateral?"
+    },
+    {
+      "start": 279.06,
+      "end": 280.2,
+      "speaker": "SPEAKER_00",
+      "text": "Și lateral, da."
+    },
+    {
+      "start": 280.32,
+      "end": 286.4,
+      "speaker": "SPEAKER_01",
+      "text": "Lateral e ok, nu doare la ridicare, doare mai mult la rotație, când întorc așa brațul."
+    },
+    {
+      "start": 286.52,
+      "end": 287.66,
+      "speaker": "SPEAKER_00",
+      "text": "La rotație internă?"
+    },
+    {
+      "start": 287.78,
+      "end": 290.06,
+      "speaker": "SPEAKER_01",
+      "text": "Da, parcă acolo simțit că trage."
+    },
+    {
+      "start": 290.18,
+      "end": 344.14,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Deci, domnule Achim, ce pot să vă spun în urma a ceea ce am văzut și a ce mi-ați povestit este că avem o contractură importantă la nivelul musculaturii cervicale, în special trapezul superior și ridicătorul scapulei pe partea dreaptă. Probabil că postura de la birou a contribuit mult la asta în timp. Furnicătura pe care o simțiți pe braț sugerează că există și o iritație la nivel cervical, poate C5-C6, dar ar fi util să avem și o radiografie sau un RMN ca să fim siguri. Durerile de cap pe care le descrieți sunt cel mai probabil de tip tensional, generate de această contractură cervicală. Obiectivul nostru în primele ședințe va fi să reducem contractura musculară și să eliberăm mobilitatea coloanei cervicale, și după să lucrăm și pe postura generală ca să nu revenim în același punct."
+    },
+    {
+      "start": 344.26,
+      "end": 350.34,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu e ceva grav? Mă bucur. M-am tot gândit la tot felul de scenarii."
+    },
+    {
+      "start": 350.46,
+      "end": 356.54,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg îngrijorarea, dar deocamdată nu avem semne de alarmă. Facem investigația aia și vedem mai departe."
+    },
+    {
+      "start": 356.66,
+      "end": 361.22,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, perfect. Și când credeți că o să se vadă o îmbunătățire?"
+    },
+    {
+      "start": 361.34,
+      "end": 368.18,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde de fiecare, dar de obicei după două-trei ședințe se simte o diferență. Haideți să începem astăzi."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_407",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere în zona asta, la umăr, umărul stâng, da, și... de fapt mă doare și puțin pe aici, pe sub omoplat, când mă mișc",
+      "a început, de fapt, dacă stau bine să mă gândesc, după ce am zugrăvit apartamentul. Am stat cu mâna sus foarte mult, zile în șir",
+      "noaptea mai mă trezesc, mai ales dacă mă întorc pe partea stângă"
+    ],
+    "evaluarea_durerii_vas": [
+      "în repaus, e poate un 3, un 4",
+      "când ridic mâna sus sau când încerc să ajung cu mâna la spate la centură, de exemplu, ajunge ușor la 7, poate chiar 8"
+    ],
+    "localizarea_durerii": [
+      "am o durere în zona asta, la umăr, umărul stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "mă doare și puțin pe aici, pe sub omoplat, când mă mișc",
+      "uneori simt că merge pe partea asta de sus a brațului, pe biceps, mai jos de umăr"
+    ],
+    "antecedente": [
+      "am o scolioză, mi s-a spus demult, ușoară",
+      "Mi-a spus un doctor de atunci că e ușoară"
+    ],
+    "antecedente_altele": [
+      "atunci am căzut, m-am și operat, am avut o luxație, la umărul drept",
+      "Am avut o fractură la gleznă, piciorul drept, de la fotbal, eram tânăr, la vreo 25 de ani"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Doare la ridicarea activă la aproximativ 90 de grade",
+      "Apăs puțin pe capul humerusului, spuneți-mi dacă doare",
+      "Apăs zona aceasta, tendoanele de pe sus",
+      "ce avem noi aici e cel mai probabil o tendinopatie a coifului rotatorilor pe partea stângă, posibil și o inflamație la nivelul bursei subacromiale",
+      "o să lucrăm să reducem inflamația, să mobilizăm articulația și să recuperăm amplitudinea de mișcare",
+      "o să vă recomand și o ecografie de umăr stâng"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23139,
+    "inference_geo": "global",
+    "input_tokens": 318,
+    "output_tokens": 3792,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, doamnă!"
+    },
+    {
+      "start": 1.26,
+      "end": 2.78,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.9,
+      "end": 4.8,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi numele, vă rog."
+    },
+    {
+      "start": 4.92,
+      "end": 5.72,
+      "speaker": "SPEAKER_01",
+      "text": "Ionescu Mihaela."
+    },
+    {
+      "start": 5.84,
+      "end": 7.36,
+      "speaker": "SPEAKER_00",
+      "text": "Ionescu Mihaela. Și vârsta?"
+    },
+    {
+      "start": 7.48,
+      "end": 8.62,
+      "speaker": "SPEAKER_01",
+      "text": "48 de ani."
+    },
+    {
+      "start": 8.74,
+      "end": 12.54,
+      "speaker": "SPEAKER_00",
+      "text": "Mulțumesc. Și cu ce problemă ne vedem astăzi, doamna Ionescu?"
+    },
+    {
+      "start": 12.66,
+      "end": 22.92,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... mă doare spatele de ceva vreme. Nu știu exact cum să vă spun, e undeva pe la mijloc, poate mai jos, nu știu să zic precis."
+    },
+    {
+      "start": 23.04,
+      "end": 26.08,
+      "speaker": "SPEAKER_00",
+      "text": "Deci zona lombară, zona de jos a spatelui?"
+    },
+    {
+      "start": 26.2,
+      "end": 33.42,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cred că da, mai jos. Și un pic pe aici și pe aici, adică și mai sus câteodată."
+    },
+    {
+      "start": 33.54,
+      "end": 36.2,
+      "speaker": "SPEAKER_00",
+      "text": "Și mai sus, deci și zona toracală?"
+    },
+    {
+      "start": 36.32,
+      "end": 40.88,
+      "speaker": "SPEAKER_01",
+      "text": "Poate, nu știu cum se cheamă. Pe la mijlocul spatelui câteodată, da."
+    },
+    {
+      "start": 41.0,
+      "end": 44.04,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. De cât timp aveți această durere?"
+    },
+    {
+      "start": 44.16,
+      "end": 51.76,
+      "speaker": "SPEAKER_01",
+      "text": "Ei, de mai multă vreme. Nu știu exact, câteva luni, poate mai mult. A venit treptat, nu a fost brusc."
+    },
+    {
+      "start": 51.88,
+      "end": 57.58,
+      "speaker": "SPEAKER_00",
+      "text": "Câteva luni, înțeleg. Și s-a înrăutățit în ultima perioadă sau stă cam la fel?"
+    },
+    {
+      "start": 57.7,
+      "end": 64.16,
+      "speaker": "SPEAKER_01",
+      "text": "Parcă e mai rău în ultima lună. Adică înainte mai trecea, acum parcă nu mai trece deloc."
+    },
+    {
+      "start": 64.28,
+      "end": 68.46,
+      "speaker": "SPEAKER_00",
+      "text": "Nu mai trece. Și doare constant sau mai vine și pleacă?"
+    },
+    {
+      "start": 68.58,
+      "end": 74.28,
+      "speaker": "SPEAKER_01",
+      "text": "E acolo mereu, da. Câteodată e mai suportabilă, câteodată nu mai pot să stau deloc."
+    },
+    {
+      "start": 74.4,
+      "end": 79.34,
+      "speaker": "SPEAKER_00",
+      "text": "Când e mai rea, când stați jos, când stați în picioare, când mergeți?"
+    },
+    {
+      "start": 79.46,
+      "end": 90.48,
+      "speaker": "SPEAKER_01",
+      "text": "Hmm... când stau jos mult, da, mai rău. Și dimineața când mă trezesc e groaznică, abia mă dau jos din pat. Dar și dacă stau prea mult în picioare."
+    },
+    {
+      "start": 90.6,
+      "end": 93.26,
+      "speaker": "SPEAKER_00",
+      "text": "Și după ce vă mișcați puțin, trece?"
+    },
+    {
+      "start": 93.38,
+      "end": 99.46,
+      "speaker": "SPEAKER_01",
+      "text": "Da, după ce mă mișc un pic se mai dezmorțește, dar nu dispare. Rămâne ceva acolo."
+    },
+    {
+      "start": 99.58,
+      "end": 104.52,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Se lasă durerea și pe picior în jos, pe fesă, pe coapsă?"
+    },
+    {
+      "start": 104.64,
+      "end": 111.48,
+      "speaker": "SPEAKER_01",
+      "text": "Câteodată simt ceva pe partea asta, pe stânga, nu știu, ceva ca o apăsare, dar nu tot timpul."
+    },
+    {
+      "start": 111.6,
+      "end": 115.78,
+      "speaker": "SPEAKER_00",
+      "text": "Pe stânga, pe fesă, și mai jos de fesă se duce?"
+    },
+    {
+      "start": 115.9,
+      "end": 121.6,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu exact, parcă pe coapsă un pic, dar nu ajunge la picior mai jos."
+    },
+    {
+      "start": 121.72,
+      "end": 133.5,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Acum, pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e cea mai mare durere, cam unde ați pune-o în momentul ăsta?"
+    },
+    {
+      "start": 133.62,
+      "end": 138.94,
+      "speaker": "SPEAKER_01",
+      "text": "Acum? Acum e suportabilă, nu știu, poate un 4, un 5, nu știu exact."
+    },
+    {
+      "start": 139.06,
+      "end": 144.76,
+      "speaker": "SPEAKER_00",
+      "text": "Deci undeva pe la 4-5. Și când e cea mai rea, dimineața de exemplu?"
+    },
+    {
+      "start": 144.88,
+      "end": 148.68,
+      "speaker": "SPEAKER_01",
+      "text": "Dimineața e mult mai rău, atunci poate un 8, da."
+    },
+    {
+      "start": 148.8,
+      "end": 152.6,
+      "speaker": "SPEAKER_00",
+      "text": "Un 8 dimineața. Am înțeles. Și ce muncă faceți, doamnă?"
+    },
+    {
+      "start": 152.72,
+      "end": 157.28,
+      "speaker": "SPEAKER_01",
+      "text": "Stau la birou toată ziua, la calculator. Opt ore, uneori mai mult."
+    },
+    {
+      "start": 157.4,
+      "end": 161.96,
+      "speaker": "SPEAKER_00",
+      "text": "La birou opt ore. Și cum stați, cu spatele drept, aplecată înainte?"
+    },
+    {
+      "start": 162.08,
+      "end": 166.64,
+      "speaker": "SPEAKER_01",
+      "text": "Aplecată, sigur. Nu stau eu dreaptă, cum să stau dreaptă opt ore."
+    },
+    {
+      "start": 166.76,
+      "end": 173.22,
+      "speaker": "SPEAKER_00",
+      "text": "Da, înțeleg. Ați observat dacă durerea s-a declanșat după ceva anume, un efort, o mișcare greșită?"
+    },
+    {
+      "start": 173.34,
+      "end": 180.18,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu cred. A venit pur și simplu, treptat. Poate de la stat atât la birou, nu știu."
+    },
+    {
+      "start": 180.3,
+      "end": 184.86,
+      "speaker": "SPEAKER_00",
+      "text": "Probabil. Alte simptome mai aveți, amețeli, amorțeli în mâini sau în picioare?"
+    },
+    {
+      "start": 184.98,
+      "end": 191.82,
+      "speaker": "SPEAKER_01",
+      "text": "Câteodată mai amețesc dimineața când mă ridic repede, dar asta e de mult. Și mâinile nu, picioarele nu."
+    },
+    {
+      "start": 191.94,
+      "end": 198.78,
+      "speaker": "SPEAKER_00",
+      "text": "Amețeli la sculat, de mult timp, am notat. Alte afecțiuni mai aveți, tensiune, diabet, ceva la coloană diagnosticat?"
+    },
+    {
+      "start": 198.9,
+      "end": 201.56,
+      "speaker": "SPEAKER_01",
+      "text": "Da, tensiune am. Iau pastile pentru asta."
+    },
+    {
+      "start": 201.68,
+      "end": 203.58,
+      "speaker": "SPEAKER_00",
+      "text": "Hipertensiune arterială. Ce pastile luați?"
+    },
+    {
+      "start": 203.7,
+      "end": 206.74,
+      "speaker": "SPEAKER_01",
+      "text": "Amlodipină... cred că 5 miligrame. Da, 5 miligrame."
+    },
+    {
+      "start": 206.86,
+      "end": 209.14,
+      "speaker": "SPEAKER_00",
+      "text": "Amlodipină 5 mg. Altceva mai luați?"
+    },
+    {
+      "start": 209.26,
+      "end": 215.72,
+      "speaker": "SPEAKER_01",
+      "text": "Mai iau câteodată ceva pentru durere, un antiinflamator, când nu mai suport. Nu îl iau tot timpul."
+    },
+    {
+      "start": 215.84,
+      "end": 216.64,
+      "speaker": "SPEAKER_00",
+      "text": "Ce antiinflamator?"
+    },
+    {
+      "start": 216.76,
+      "end": 220.56,
+      "speaker": "SPEAKER_01",
+      "text": "Ibuprofen. Nu știu câte miligrame are, ce scrie pe cutie."
+    },
+    {
+      "start": 220.68,
+      "end": 225.62,
+      "speaker": "SPEAKER_00",
+      "text": "Ibuprofen, doza nu știți exact. Am înțeles. Altceva diagnosticat de medic, oase, articulații?"
+    },
+    {
+      "start": 225.74,
+      "end": 234.48,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, de la medic mi s-a spus că am ceva la coloană, nu știu cum se cheamă, că e uzată sau ceva."
+    },
+    {
+      "start": 234.6,
+      "end": 238.4,
+      "speaker": "SPEAKER_00",
+      "text": "V-a spus artroza sau hernia de disc, ceva concret?"
+    },
+    {
+      "start": 238.52,
+      "end": 243.46,
+      "speaker": "SPEAKER_01",
+      "text": "Parcă artroză, da. Dar nu știu sigur, nu am mai mers la el."
+    },
+    {
+      "start": 243.58,
+      "end": 246.62,
+      "speaker": "SPEAKER_00",
+      "text": "Artroză, am înțeles. Intervenții chirurgicale ați avut vreodată?"
+    },
+    {
+      "start": 246.74,
+      "end": 247.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nicio operație."
+    },
+    {
+      "start": 248.0,
+      "end": 248.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Alergii?"
+    },
+    {
+      "start": 248.92,
+      "end": 250.82,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, nu am observat."
+    },
+    {
+      "start": 250.94,
+      "end": 264.24,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți, doamnă, ridicați-vă în picioare un moment, vă rog. Stați puțin așa normal... Observ că umărul stâng e puțin mai jos față de cel drept. Vă aplecați în față, vă rog, cât puteți."
+    },
+    {
+      "start": 264.36,
+      "end": 266.64,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, mai mult nu."
+    },
+    {
+      "start": 266.76,
+      "end": 269.42,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Doare când vă aplecați în față?"
+    },
+    {
+      "start": 269.54,
+      "end": 272.2,
+      "speaker": "SPEAKER_01",
+      "text": "Da, trage pe acolo, pe spate jos."
+    },
+    {
+      "start": 272.32,
+      "end": 275.74,
+      "speaker": "SPEAKER_00",
+      "text": "Pe spate jos, zona lombară. Și spre dreapta, ușor."
+    },
+    {
+      "start": 275.86,
+      "end": 276.66,
+      "speaker": "SPEAKER_01",
+      "text": "Merge."
+    },
+    {
+      "start": 276.78,
+      "end": 277.92,
+      "speaker": "SPEAKER_00",
+      "text": "Spre stânga acum."
+    },
+    {
+      "start": 278.04,
+      "end": 280.32,
+      "speaker": "SPEAKER_01",
+      "text": "Au! Pe stânga trage mai tare."
+    },
+    {
+      "start": 280.44,
+      "end": 289.18,
+      "speaker": "SPEAKER_00",
+      "text": "Deci spre stânga avem limitare și durere. Am înțeles. Mă duc acum pe mușchii de lângă coloană, spuneți-mi dacă doare când apăs."
+    },
+    {
+      "start": 289.3,
+      "end": 291.2,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo doare, mai tare."
+    },
+    {
+      "start": 291.32,
+      "end": 295.88,
+      "speaker": "SPEAKER_00",
+      "text": "Pe zona lombară paravertebrală, mai mult pe stânga. Da, și mai sus?"
+    },
+    {
+      "start": 296.0,
+      "end": 298.66,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, dar tot mai simț ceva."
+    },
+    {
+      "start": 298.78,
+      "end": 332.6,
+      "speaker": "SPEAKER_00",
+      "text": "Pe zona toracală inferioară, usor. Bun. Doamna Ionescu, ce vă pot spune după ce am ascultat și am verificat puțin este că avem o contractură destul de serioasă a musculaturii paravertebrale lombare, mai pronunțată pe stânga, și o mobilitate redusă în zona lombară. Ținând cont și de ce spune medicul dumneavoastră cu artroza, trebuie să lucrăm cu grijă. Scopul nostru pentru început este să reducem contractura musculară, să mai eliberăm un pic mobilitatea și să vedem cum răspundeți. Câteva ședințe și vedem dacă mai e nevoie de investigații suplimentare."
+    },
+    {
+      "start": 332.72,
+      "end": 334.24,
+      "speaker": "SPEAKER_01",
+      "text": "Și o să treacă?"
+    },
+    {
+      "start": 334.36,
+      "end": 341.2,
+      "speaker": "SPEAKER_00",
+      "text": "Trebuie să avem răbdare, dar cu siguranță o să fie mai bine. Haideți să ne așezăm pe masă."
+    }
+  ]
+}

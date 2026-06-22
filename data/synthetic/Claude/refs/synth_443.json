@@ -1,0 +1,16 @@
+{
+  "motivul_prezentarii": "Durere cervicala cu iradiere spre umar drept",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic:\n- Contractura musculara cervicala trapez superior si ridicator scapulei dreapta;\n- Limitare rotatie cervicala spre dreapta\nObiective terapeutice:\n- Reducerea contracturii musculare;\n- Refacerea mobilitatii cervicale pe partea dreapta"
+}

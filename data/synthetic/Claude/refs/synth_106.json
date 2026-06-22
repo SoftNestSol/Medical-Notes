@@ -1,0 +1,19 @@
+{
+  "motivul_prezentarii": "Pacient cu durere lombară joasă de aproximativ două săptămâni, VAS 5/10, accentuată dimineața la trezire și la statul prelungit în șezut (birou). Redoare matinală care cedează după 10-15 minute de mișcare. Fără iradiere pe membrul inferior. Episod similar în antecedente acum doi ani (rezolvat spontan).",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "o pastilă pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nBlocaj muscular paravertebral lombar, mai accentuat pe dreapta. Mobilitate lombară redusă la flexie.\nObiective terapeutice:\nReducerea blocajului muscular paravertebral lombar; recuperarea mobilității lombare."
+}

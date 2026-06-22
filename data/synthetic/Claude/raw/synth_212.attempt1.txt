@@ -1,0 +1,43 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Ce s-a întâmplat, v-ați lovit, ați căzut, ați ridicat ceva?\nSPEAKER_01: Nu știu exact. Parcă am dormit prost și de atunci mă doare.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare îl situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Când ridicați brațul în sus, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Până unde puteți să ridicați?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci cam la 90 de grade, aproximativ. Și dacă duceți brațul în spate?\nSPEAKER_01: Aia doare mai tare.\nSPEAKER_00: Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală, bun. Și în repaus, noaptea vă trezește durerea?\nSPEAKER_01: Uneori.\nSPEAKER_00: Când stați pe umărul stâng noaptea.\nSPEAKER_01: Da, exact.\nSPEAKER_00: Am înțeles. Alte dureri în afară de umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Tensiune, diabet, epilepsie, cancer, osteoporoză?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați ceva în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Ridicați brațul stâng în față pentru mine, încet. Doare acum?\nSPEAKER_01: Da, pe la jumătate.\nSPEAKER_00: Pe la jumătate, deci pe la 90 de grade apare durerea. Și duceți-l lateral, în laterală. Doare?\nSPEAKER_01: Da, la fel.\nSPEAKER_00: Acum pun mâna pe umărul dumneavoastră și apăs puțin aici pe zona asta de deasupra. Doare?\nSPEAKER_01: Da, acolo e.\nSPEAKER_00: Exact. Și rotire internă, duceți mâna la spate ca și cum v-ați prinde centura. Puteți?\nSPEAKER_01: Puțin, dar mă doare.\nSPEAKER_00: Deci avem o limitare clară la rotire internă și la abducție. Pare a fi o tendinită la nivelul coifului rotatorilor, umărul stâng. Cel mai probabil supraspinatul e afectat. Vom lucra să reducem inflamația și să recuperăm mobilitatea.\nSPEAKER_01: Cât durează?\nSPEAKER_00: Depinde, dar dacă venim de câteva ori, în două, trei săptămâni ar trebui să simțiți o diferență. Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng, apărută de aproximativ două săptămâni, posibil după o noapte cu poziție proastă. Durere la mișcare (abducție și rotire internă), cu treziri nocturne când doarme pe umărul afectat.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinită coif rotatori umăr stâng, posibil supraspinat afectat\nObiective terapeutice:\n- reducerea inflamației\n- recuperarea mobilității"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "De vreo două săptămâni.",
+      "Parcă am dormit prost și de atunci mă doare.",
+      "Da, exact."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Stângul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Medicamente luați ceva în prezent?\nSPEAKER_01: Nu."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o tendinită la nivelul coifului rotatorilor, umărul stâng.",
+      "Cel mai probabil supraspinatul e afectat.",
+      "Vom lucra să reducem inflamația și să recuperăm mobilitatea.",
+      "Deci avem o limitare clară la rotire internă și la abducție."
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamnă!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi numele dvs., vă rog.\nSPEAKER_01: Ionescu Maria.\nSPEAKER_00: Și vârsta, doamnă Ionescu?\nSPEAKER_01: 51 de ani.\nSPEAKER_00: Mulțumesc. Și cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi... mă doare umărul, cel drept, de mai mult timp. Și m-am tot gândit dacă să vin sau nu, că mi-e teamă că e ceva grav, știți cum e...\nSPEAKER_00: Înțeleg. Haideți să vedem împreună. De cât timp exact vă doare umărul?\nSPEAKER_01: De vreo trei luni, cred. Poate mai mult. La început era ceva mai ușor, credeam că trece de la sine, dar nu a trecut. Acum e mai rău decât la început.\nSPEAKER_00: A apărut după ceva anume, după un efort, o mișcare greșită?\nSPEAKER_01: Nu știu exact... adică nu am căzut sau ceva. Dar țin minte că am mutat niște cutii mai grele la muncă și cam pe atunci a început. Nu știu dacă e de acolo sau e coincidență.\nSPEAKER_00: Probabil de acolo, da. Și durerea e localizată în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Se lasă și pe braț, până cam pe la cot, pe partea din față. Uneori și mai jos, dar mai rar.\nSPEAKER_00: Și noaptea, vă deranjează? Vă treziți din cauza ei?\nSPEAKER_01: Da, asta e cel mai rău, noaptea. Dacă stau pe partea dreaptă nu pot deloc. Mă întorc pe stânga și tot simt ceva. E îngrijorător asta, nu?\nSPEAKER_00: E un simptom frecvent în problemele de umăr, nu vă panicați. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, cum ați pune durerea în momentul cel mai rău?\nSPEAKER_01: Noaptea ajunge la un 8, aș zice. Ziua, când nu fac nimic special, e pe la 4, poate 5.\nSPEAKER_00: Deci un 8 noaptea și un 4-5 ziua. Și ridicați brațul sus fără probleme sau doare?\nSPEAKER_01: Doare dacă ridic, mai ales când duc mâna în spate, să prind ceva. Asta nu pot face aproape deloc. Mă îngrijorez că nu mai pot să-mi pun sutienul singură, e ridicol, nu?\nSPEAKER_00: Nu e ridicol, e un simptom important care ne ajută să înțelegem problema. Aveți și amorțeli pe braț, pe mână?\nSPEAKER_01: Nu, amorțeli nu prea, nu cred. Uneori simt un pic de furnicătură, dar trece repede.\nSPEAKER_00: Am înțeles. Ați luat ceva pentru durere, vreun medicament?\nSPEAKER_01: Da, iau Voltaren, gel, pe umăr. Și uneori, când e mai rău, iau și Algocalmin, câte un comprimat.\nSPEAKER_00: Deci Voltaren gel local și Algocalmin la nevoie.\nSPEAKER_01: Da, exact. Algocalmin iau rar, nu vreau să mă obișnuiesc.\nSPEAKER_00: Bine că nu îl luați frecvent. Alte medicamente luați în mod regulat?\nSPEAKER_01: Da, pentru tensiune. Am tensiune mare de vreo doi ani, iau Perindopril, 5 miligrame, în fiecare dimineață.\nSPEAKER_00: Perindopril 5 mg, dimineața. Tensiunea e ținută sub control cu el?\nSPEAKER_01: Da, în general da. Doctorul mi-a zis că e bine acum.\nSPEAKER_00: Perfect. Și altceva, alte afecțiuni? Diabet, probleme cu oasele, articulații?\nSPEAKER_01: Nu, diabet nu am. Am osteoporoză, mi-a spus medicul de familie acum vreun an, după o densitometrie. De aia mă și îngrijorez, că dacă am osteoporoză, înseamnă că e mai rău?\nSPEAKER_00: Osteoporoza trebuie luată în calcul, da, dar nu înseamnă că nu putem lucra. Lucrăm diferit, mai atent. Asta e tot ca antecedente?\nSPEAKER_01: Cred că da. Ah, și am colesterol un pic mărit, dar nu iau nimic special pentru el, îmi zice doctorul să mă feresc de grăsimi.\nSPEAKER_00: Înțeles. Și la muncă ce faceți, doamnă Ionescu?\nSPEAKER_01: Sunt contabilă, stau mult la birou. Toată ziua la calculator, cu mâna pe mouse. Poate și de aia...\nSPEAKER_00: Probabil contribuie și postura, da. Bun, haideți să facem câteva mișcări și teste ca să văd exact ce se întâmplă. Ridicați brațul drept înainte, încet.\nSPEAKER_01: Până aici pot... mai sus începe să doară.\nSPEAKER_00: Am văzut, vreo 90 de grade. Duceți-l acum lateral, în sus.\nSPEAKER_01: Asta doare mai tare, da. Cam pe la jumătate simț un junghi.\nSPEAKER_00: Exact, am înțeles. Acum lăsați mâna jos și întoarceți-o, ca și cum ați turna apă dintr-un pahar.\nSPEAKER_01: Asta o pot face, da.\nSPEAKER_00: Bine. Acum mă duc cu mâna pe zona de sus a umărului, spuneți-mi dacă doare când apăs.\nSPEAKER_01: Au, da, acolo e sensibil.\nSPEAKER_00: Și mai jos, pe mușchi, spuneți.\nSPEAKER_01: Mai puțin, dar tot simt.\nSPEAKER_00: Am înțeles. Doamnă Ionescu, avem o limitare destul de clară a mișcării la abducție și rotație internă, și există sensibilitate la nivelul tendoanelor din zona supraspinatus. Combinat cu durerea nocturnă pe care o descrieți, mă gândesc la o inflamație la nivelul coafei rotatorilor, posibil și o mică bursită subacromială.\nSPEAKER_01: Bursită? E grav? Înseamnă că trebuie operat?\nSPEAKER_00: Nu neapărat, cele mai multe cazuri se rezolvă fără operație. Vom lucra progresiv, obiectivul principal acum este să reducem inflamația și să recuperăm mobilitatea. Cu osteoporoza în vedere, vom evita tehnicile cu impact și vom fi atenți la presiunile pe care le aplicăm.\nSPEAKER_01: Bine, mă bucur. Și în cât timp, aproximativ, pot să mă aștept la îmbunătățiri?\nSPEAKER_00: E greu de spus exact, depinde cum răspunde corpul, dar în 4-6 ședințe ar trebui să simțiți o diferență. Haideți să și începem astăzi dacă ești de acord.\nSPEAKER_01: Da, da, desigur. Îmi pare bine că nu e ceva și mai grav.\nSPEAKER_00: Înțeleg că v-a îngrijorat. Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept cu iradiere pe braț până la cot, debut la aproximativ 3 luni în urmă după efort fizic (mutare cutii grele), agravată nocturn și la mișcări de abducție și rotație internă",
+    "evaluarea_durerii_vas": [8, 4],
+    "localizarea_durerii": [
+      "umar_dr",
+      "cot_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala",
+      "osteoporoza"
+    ],
+    "antecedente_altele": "colesterol marit",
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": "local pe umăr"
+      },
+      {
+        "denumire": "Algocalmin",
+        "doza": "1 comprimat la nevoie"
+      },
+      {
+        "denumire": "Perindopril",
+        "doza": "5 mg dimineața"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații funcționale: limitare la abducție (aproximativ 90 grade) și rotație internă; sensibilitate la palpare în zona supraspinatus; durere la abducție activă laterală (arc dureros la jumătatea amplitudinii). Diagnostic: inflamație coafa rotatorilor, posibil bursită subacromială. Obiective terapeutice: reducerea inflamației, recuperarea mobilității; tehnică adaptată cu evitarea presiunilor de impact datorită osteoporozei."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel drept, de mai mult timp",
+      "De vreo trei luni, cred",
+      "am mutat niște cutii mai grele la muncă și cam pe atunci a început",
+      "Se lasă și pe braț, până cam pe la cot, pe partea din față",
+      "Noaptea ajunge la un 8",
+      "doare dacă ridic, mai ales când duc mâna în spate"
+    ],
+    "evaluarea_durerii_vas": [
+      "Noaptea ajunge la un 8, aș zice",
+      "Ziua, când nu fac nimic special, e pe la 4, poate 5"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel drept",
+      "Se lasă și pe braț, până cam pe la cot, pe partea din față"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Am tensiune mare de vreo doi ani",
+      "Am osteoporoză, mi-a spus medicul de familie acum vreun an, după o densitometrie"
+    ],
+    "antecedente_altele": [
+      "am colesterol un pic mărit, dar nu iau nimic special pentru el"
+    ],
+    "medicatie_actuala": [
+      "iau Voltaren, gel, pe umăr",
+      "iau și Algocalmin, câte un comprimat",
+      "iau Perindopril, 5 miligrame, în fiecare dimineață"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o limitare destul de clară a mișcării la abducție și rotație internă, și există sensibilitate la nivelul tendoanelor din zona supraspinatus",
+      "mă gândesc la o inflamație la nivelul coafei rotatorilor, posibil și o mică bursită subacromială",
+      "obiectivul principal acum este să reducem inflamația și să recuperăm mobilitatea",
+      "Cu osteoporoza în vedere, vom evita tehnicile cu impact și vom fi atenți la presiunile pe care le aplicăm"
+    ]
+  }
+}

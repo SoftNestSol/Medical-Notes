@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_495",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare ceafa de vreo trei săptămâni",
+      "stau toată ziua la calculator",
+      "am și dureri de cap destul de frecvente, mai ales spre seară",
+      "Dimineața mă trezesc și parcă am gâtul înțepenit, mă rog, după vreo oră trece"
+    ],
+    "evaluarea_durerii_vas": [
+      "în mod normal ar fi un 5",
+      "când am durerile de cap mai puternice urcă spre un 7"
+    ],
+    "localizarea_durerii": [
+      "mă doare ceafa",
+      "am și dureri de cap destul de frecvente"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "am luat de câteva ori un ibuprofen când mă durea mai tare capul"
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți capul un pic dus în față față de umeri, o postură de tip computer",
+      "Musculatura suboccipitală și paravertebrală cervicală e contractată, și de acolo pleacă și durerile de cap",
+      "E o cefalee de tensiune, ce se cheamă cefalee cervicogenă",
+      "Doare un pic, da, chiar pe lateral",
+      "Au, da, acolo doare",
+      "da, acolo și mai tare, mai ales pe dreapta"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22994,
+    "inference_geo": "global",
+    "input_tokens": 362,
+    "output_tokens": 2255,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

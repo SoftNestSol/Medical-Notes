@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere umăr stâng de aproximativ trei săptămâni, apărută după efort fizic cu căratul de cutii grele. Durere la ridicarea brațului lateral și anterior, accentuată noaptea în decubit pe partea stângă. Iradiere parțială pe fața anterioară a brațului stâng, fără amorțeală.",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "față anterioară a brațului stâng",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare la abducție sub 90 de grade cu durere. Sensibilitate la palpare în zona marelui tubercul. Rotație internă relativ păstrată. Diagnostic: tendinopatie / iritație manșon rotatori, posibil conflict subacrom ial. Obiectiv: reducerea inflamației, recuperarea amplitudinii de mișcare, prevenirea cronicizării."
+}

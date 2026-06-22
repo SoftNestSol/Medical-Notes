@@ -1,0 +1,289 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună."
+    },
+    {
+      "start": 1.84,
+      "end": 3.74,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă veniți azi?"
+    },
+    {
+      "start": 3.86,
+      "end": 5.0,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare spatele."
+    },
+    {
+      "start": 5.12,
+      "end": 7.4,
+      "speaker": "SPEAKER_00",
+      "text": "Zona de jos, de sus, mijloc?"
+    },
+    {
+      "start": 7.52,
+      "end": 8.32,
+      "speaker": "SPEAKER_01",
+      "text": "Jos."
+    },
+    {
+      "start": 8.44,
+      "end": 10.72,
+      "speaker": "SPEAKER_00",
+      "text": "De jos, lombar. De cât timp?"
+    },
+    {
+      "start": 10.84,
+      "end": 11.98,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo două săptămâni."
+    },
+    {
+      "start": 12.1,
+      "end": 16.28,
+      "speaker": "SPEAKER_00",
+      "text": "Și a apărut din senin sau după ceva, după un efort?"
+    },
+    {
+      "start": 16.4,
+      "end": 18.68,
+      "speaker": "SPEAKER_01",
+      "text": "Am ridicat niște saci la muncă."
+    },
+    {
+      "start": 18.8,
+      "end": 28.68,
+      "speaker": "SPEAKER_00",
+      "text": "Ah, deci după ridicat greutăți. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e insuportabil, unde e durerea acum?"
+    },
+    {
+      "start": 28.8,
+      "end": 29.6,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 5."
+    },
+    {
+      "start": 29.72,
+      "end": 33.9,
+      "speaker": "SPEAKER_00",
+      "text": "5. Și când e mai rău, dimineața, seara, când stați jos?"
+    },
+    {
+      "start": 34.02,
+      "end": 35.54,
+      "speaker": "SPEAKER_01",
+      "text": "Când stau jos mult."
+    },
+    {
+      "start": 35.66,
+      "end": 39.46,
+      "speaker": "SPEAKER_00",
+      "text": "Când stați pe scaun mult timp. Și când vă ridicați?"
+    },
+    {
+      "start": 39.58,
+      "end": 41.48,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și când mă ridic."
+    },
+    {
+      "start": 41.6,
+      "end": 46.16,
+      "speaker": "SPEAKER_00",
+      "text": "Se lasă durerea și pe picior, pe fesă, pe undeva mai jos?"
+    },
+    {
+      "start": 46.28,
+      "end": 47.08,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 47.2,
+      "end": 49.86,
+      "speaker": "SPEAKER_00",
+      "text": "Numai în zona de jos a spatelui."
+    },
+    {
+      "start": 49.98,
+      "end": 50.78,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 50.9,
+      "end": 53.18,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțește ceva, vreun picior, vreo mână?"
+    },
+    {
+      "start": 53.3,
+      "end": 54.1,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 54.22,
+      "end": 58.4,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Aveți tensiune, diabet, osteoporoză, vreo boală pe care o știți?"
+    },
+    {
+      "start": 58.52,
+      "end": 59.32,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 59.44,
+      "end": 60.58,
+      "speaker": "SPEAKER_00",
+      "text": "Niciuna. Operații, fracturi?"
+    },
+    {
+      "start": 60.7,
+      "end": 61.5,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic."
+    },
+    {
+      "start": 61.62,
+      "end": 64.28,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament acum, ceva pentru durere?"
+    },
+    {
+      "start": 64.4,
+      "end": 66.68,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat un ibuprofen, dar rar."
+    },
+    {
+      "start": 66.8,
+      "end": 68.32,
+      "speaker": "SPEAKER_00",
+      "text": "Ibuprofen, știți câte miligrame?"
+    },
+    {
+      "start": 68.44,
+      "end": 69.24,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu."
+    },
+    {
+      "start": 69.36,
+      "end": 73.54,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți să stați în picioare puțin, cu spatele la mine."
+    },
+    {
+      "start": 73.66,
+      "end": 74.46,
+      "speaker": "SPEAKER_01",
+      "text": "Bun."
+    },
+    {
+      "start": 74.58,
+      "end": 81.04,
+      "speaker": "SPEAKER_00",
+      "text": "Relaxați umerii. Văd că aveți bazinul puțin înclinat pe stânga. Aplecați-vă ușor în față, cât puteți."
+    },
+    {
+      "start": 81.16,
+      "end": 82.3,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot."
+    },
+    {
+      "start": 82.42,
+      "end": 84.32,
+      "speaker": "SPEAKER_00",
+      "text": "Simțiți durere când vă aplecați?"
+    },
+    {
+      "start": 84.44,
+      "end": 85.24,
+      "speaker": "SPEAKER_01",
+      "text": "Da, trage."
+    },
+    {
+      "start": 85.36,
+      "end": 89.92,
+      "speaker": "SPEAKER_00",
+      "text": "Trage în zona lombară. Și în spate când vă dați pe spate?"
+    },
+    {
+      "start": 90.04,
+      "end": 90.84,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic."
+    },
+    {
+      "start": 90.96,
+      "end": 97.42,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă, cu fața în jos. O să apăs puțin pe zone, îmi spuneți unde simțiți."
+    },
+    {
+      "start": 97.54,
+      "end": 98.34,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 98.46,
+      "end": 99.26,
+      "speaker": "SPEAKER_00",
+      "text": "Aici doare?"
+    },
+    {
+      "start": 99.38,
+      "end": 100.18,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 100.3,
+      "end": 102.96,
+      "speaker": "SPEAKER_00",
+      "text": "Pe dreapta sau pe stânga mai mult?"
+    },
+    {
+      "start": 103.08,
+      "end": 103.88,
+      "speaker": "SPEAKER_01",
+      "text": "Dreapta."
+    },
+    {
+      "start": 104.0,
+      "end": 105.9,
+      "speaker": "SPEAKER_00",
+      "text": "Paravertebral dreapta, da. Și aici?"
+    },
+    {
+      "start": 106.02,
+      "end": 106.82,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 106.94,
+      "end": 117.2,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Deci avem o contractură paravertebrală lombară, mai ales pe dreapta, apărută după efort fizic. O să lucrăm să relaxăm musculatura și să reducem inflamația din zonă."
+    }
+  ]
+}

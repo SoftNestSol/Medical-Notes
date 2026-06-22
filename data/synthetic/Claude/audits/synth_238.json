@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_238",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare... pe aici, pe zona asta de umăr, de gât, pe partea asta dreaptă",
+      "A început pe nesimțite",
+      "dimineața e mai rău, când mă ridic din pat e vai de mine",
+      "dacă stau mult la birou, după vreo oră-două la calculator, simte că mă înțepenesc pe partea asta"
+    ],
+    "evaluarea_durerii_vas": [
+      "când mă trezesc dimineața poate un... nu știu, undeva pe la 6, 7, ceva de genul ăsta"
+    ],
+    "localizarea_durerii": [
+      "mă doare... pe aici, pe zona asta de umăr, de gât, pe partea asta dreaptă",
+      "Mai mult gâtul, dar și umărul simte și el ceva"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "mi-au spus ceva de o ușoară scolioză"
+    ],
+    "antecedente_altele": [
+      "Am operat de apendicită acum vreo zece ani"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o tensionare musculară importantă la nivel cervical cu iradiere spre umărul drept, contractura trapezului drept, și limitare de mobilitate de rotație și flexie laterală spre dreapta",
+      "să lucrăm pe zona cervicală să reducem contractura musculară, să recuperăm mobilitatea, și ulterior vedem dacă e nevoie și de o ajustare manuală pe coloana cervicală"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13674,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2980,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

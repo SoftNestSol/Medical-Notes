@@ -1,0 +1,48 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am zugrăvit.\nSPEAKER_00: Aha, deci cu brațul sus mult timp.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum e durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: La mișcare mai mult.\nSPEAKER_00: Când ridicați brațul în sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și când îl duceți în spate?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Doare și pe braț în jos sau doar în umăr?\nSPEAKER_01: Doar pe aici.\nSPEAKER_00: Pe umăr strict.\nSPEAKER_01: Da.\nSPEAKER_00: Noaptea vă deranjează, nu puteți dormi pe partea dreaptă?\nSPEAKER_01: Nu prea pot, da.\nSPEAKER_00: Am înțeles. Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față, orice?\nSPEAKER_01: Nurofen, când nu mai pot.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Rar. O dată, de două ori pe săptămână.\nSPEAKER_00: Și vă ajută?\nSPEAKER_01: Un pic.\nSPEAKER_00: Alte afecțiuni, diabet, tensiune, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să fac câteva teste. Ridicați brațul drept încet în față. Până unde puteți.\nSPEAKER_01: Până pe-aici.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Pe la 90 de grade începe durerea?\nSPEAKER_01: Cam da.\nSPEAKER_00: Stați. Apăs eu aici pe mușchiul ăsta, pe supraspinat. Doare?\nSPEAKER_01: Da, acolo e.\nSPEAKER_00: Da, acolo e exact. Duceți mâna la spate, ca și cum vreți să vă prindeți centura.\nSPEAKER_01: Au, nu prea pot.\nSPEAKER_00: Nu prea puteți, am înțeles. Avem o limitare de rotație internă.\nSPEAKER_00: Pare a fi o tendinită de supraspinat, posibil și o iritație a bursei subacromiale, din cauza muncii cu brațul ridicat. E un lucru frecvent după zugrăvit, după munci deasupra capului.\nSPEAKER_00: O să lucrăm să reducem inflamația, să eliberăm musculatura din jurul umărului și să recâștigăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în sus, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după zugrăvit (muncă cu brațul ridicat), de aproximativ două săptămâni. Durere la mișcare, limitare de rotație internă, disconfort nocturn în decubit pe partea dreaptă.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": "o dată, de două ori pe săptămână"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinită de supraspinat, posibil iritație bursă subacromială\nObiective terapeutice:\n- reducerea inflamației, eliberarea musculaturii periarticulare, recâștigarea mobilității umărului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Am zugrăvit.",
+      "Vreo două săptămâni.",
+      "Nu prea pot, da."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Doar pe aici.",
+      "Pe umăr strict."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nurofen, când nu mai pot.",
+      "O dată, de două ori pe săptămână."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o tendinită de supraspinat, posibil și o iritație a bursei subacromiale, din cauza muncii cu brațul ridicat.",
+      "O să lucrăm să reducem inflamația, să eliberăm musculatura din jurul umărului și să recâștigăm mobilitatea."
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_127",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, umărul ăsta stâng, de vreo trei săptămâni",
+      "noaptea nu mai pot să dorm pe partea aia",
+      "când ridic mâna, adică dacă fac așa... aoleu, da, asta doare",
+      "mă tot aplecam să-l ridic și probabil am forțat ceva"
+    ],
+    "evaluarea_durerii_vas": [
+      "Ziua, când stau liniștită, poate un 4-5",
+      "noaptea, sau când fac mișcarea aia cu mâna la spate, ajunge la 8, chiar 8"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, umărul ăsta stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă puțin, da, până pe la aici, pe la mijlocul brațului",
+      "câteodată simt și un pic în față, în zona asta"
+    ],
+    "antecedente": [
+      "am tensiune, am hipertensiune",
+      "mi-a zis cineva că am o ușoară scolioză la un control, acum vreo zece ani"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat Ibuprofen, 400, de vreo patru zile încoace",
+      "mai dau și cu Voltaren pe umăr seara",
+      "iau Enalapril, 10 miligrame pe zi"
+    ],
+    "evaluare_functionala_initiala": [
+      "pare o inflamație a tendoanelor din umăr, zona de manșetă a rotatorilor, în special supraspinosul",
+      "Obiectivul nostru în primele ședințe e să reducem inflamația, să recuperăm mobilitatea umărului",
+      "vă recomand să faceți o ecografie de umăr ca să vedem exact"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21184,
+    "inference_geo": "global",
+    "input_tokens": 271,
+    "output_tokens": 3500,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

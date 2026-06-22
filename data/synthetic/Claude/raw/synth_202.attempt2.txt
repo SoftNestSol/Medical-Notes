@@ -1,0 +1,46 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, vă rog, cu ce problemă ați venit.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, mijloc, sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar. De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume, un efort, o poziție mai lungă?\nSPEAKER_01: Am stat mult la birou.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare doar acolo sau se lasă și pe picior?\nSPEAKER_01: Doar acolo.\nSPEAKER_00: Amorțește vreun picior, vreun deget?\nSPEAKER_01: Nu.\nSPEAKER_00: Doare mai rău când stați jos sau când vă ridicați?\nSPEAKER_01: Când mă ridic.\nSPEAKER_00: Când vă ridicați din scaun. Și după ce mergeți câțiva pași trece?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Bun. Dimineața, la trezire, vă ține?\nSPEAKER_01: Da, puțin.\nSPEAKER_00: Ok. Alte zone mai dor, genunchi, umăr, ceafă?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați ceva medicamente acum, antiinflamatoare, altceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici măcar un ibuprofen?\nSPEAKER_01: Nu, nu am luat nimic.\nSPEAKER_00: Ok. Aveți vreo boală despre care știți, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă uitați cu spatele la mine, stați drepți, relaxați.\nSPEAKER_00: Văd o ușoară tensionare pe partea dreaptă a lombei. Stați puțin pe piciorul drept... vă ține?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Aplecați-vă în față ușor.\nSPEAKER_01: Doare aici când mă aplec.\nSPEAKER_00: Exact acolo, lombar. Ok, am înțeles. Și la extensie, dați capul coloanei pe spate?\nSPEAKER_01: Doare mai tare.\nSPEAKER_00: La extensie doare mai tare, la flexie mai puțin. Bun. Și o mică presiune aici... doare?\nSPEAKER_01: Da.\nSPEAKER_00: E o blocare musculară, contractură paravertebrală lombară, cel mai probabil din postura de la birou. O să lucrăm să reducem contractura și să redăm mobilitatea. Nu e ceva grav.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară joasă, instalată de aproximativ două săptămâni după stat prelungit la birou. Durere VAS 5/10, accentuată la ridicarea din scaun și la extensia coloanei, redoare matinală prezentă. Fără iradiere pe membrul inferior, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară tensionare paravertebrală dreaptă la inspecție statică. Durere la flexia anterioară a coloanei și mai accentuată la extensie. Durere la presiune directă lombară.\nDiagnostic:\nBlockaj muscular, contractură paravertebrală lombară, cel mai probabil postural (birou).\nObiective terapeutice:\nReducerea contracturii și redarea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "De vreo două săptămâni.",
+      "Am stat mult la birou.",
+      "Când mă ridic.",
+      "Da, puțin.",
+      "Da, puțin."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "Lombar."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nu, nu am luat nimic."
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară tensionare pe partea dreaptă a lombei.",
+      "Doare mai tare.",
+      "La extensie doare mai tare, la flexie mai puțin.",
+      "E o blocare musculară, contractură paravertebrală lombară, cel mai probabil din postura de la birou. O să lucrăm să reducem contractura și să redăm mobilitatea."
+    ]
+  }
+}

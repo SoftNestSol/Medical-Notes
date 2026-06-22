@@ -1,0 +1,46 @@
+{
+  "conversation_id": "synth_193",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele",
+      "Am mutat niște cutii",
+      "Două săptămâni",
+      "Când mă aplec",
+      "Și atunci, da",
+      "Puțin. Trece."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Strict în zona lombară."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Enalapril",
+      "10 miligrame"
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare o lombalgie acută pe fond de contractură musculară după efort. Nu avem iradiere, nu avem radiculopatie. O să lucrăm zona lombară să relaxăm musculatura și să recuperăm mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22783,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1817,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

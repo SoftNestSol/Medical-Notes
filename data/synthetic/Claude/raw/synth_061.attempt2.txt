@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Umărul drept sau stâng?\nSPEAKER_01: Drept.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut după ceva anume, după un efort, o lovitură?\nSPEAKER_01: Am cărat niște saci.\nSPEAKER_00: Saci grei.\nSPEAKER_01: Da.\nSPEAKER_00: Și imediat după sau a doua zi a apărut durerea?\nSPEAKER_01: A doua zi.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde situați durerea acum?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Și dacă ridicați brațul, se intensifică?\nSPEAKER_01: Da, mai rău.\nSPEAKER_00: Doare doar în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Doar în umăr, pe aici.\nSPEAKER_00: Local, bine. Noaptea vă deranjează, vă treziți din somn?\nSPEAKER_01: Uneori.\nSPEAKER_00: Dacă stați pe partea dreaptă?\nSPEAKER_01: Da.\nSPEAKER_00: Am înțeles. Luați ceva pentru durere, vreun antiinflamator?\nSPEAKER_01: Ibuprofen, când nu mai pot.\nSPEAKER_00: Știți ce doză?\nSPEAKER_01: Nu știu, ce e la blister, 400 cred.\nSPEAKER_00: Ok. Alte probleme de sănătate, tensiune, diabet, ceva la oase?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio operație, niciun accident mai vechi la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva mișcări. Ridicați brațul drept înainte, încet.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Se oprește la aproximativ 90 de grade, deci avem o limitare a flexiei. Acum duceți brațul lateral.\nSPEAKER_01: Au.\nSPEAKER_00: Doare la abducție. Și dacă duceți mâna la spate, ca să vă scărpinați?\nSPEAKER_01: Nu ajung.\nSPEAKER_00: Nu ajungeți. Bun. Apăs acum pe zona de deasupra umărului, pe tendoanele de aici.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Exact pe inserția coifului rotatorilor. Vreau să ridicați brațul cu rezistență, împotriva mâinii mele.\nSPEAKER_01: Slăbiciune, nu pot la fel ca pe stânga.\nSPEAKER_00: Se observă o diferență de forță față de partea stângă. Eu zic că avem o inflamație la nivelul coifului rotatorilor, posibil tendință, și asta explică și limitarea de mișcare și durerea nocturnă. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Ați mai făcut vreodată fizioterapie sau chiropractică?\nSPEAKER_01: Nu.\nSPEAKER_00: Atunci începem astăzi. Vă rog să vă așezați pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (caratat saci grei), de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400"
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare flexie umar drept la aproximativ 90 de grade; durere la abductie; limitare rotatie interna (nu ajunge mana la spate); sensibilitate la palpare pe insertia coifului rotatorilor; deficit de forta la abductie cu rezistenta fata de partea stanga. Diagnostic: inflamatie coif rotatori, posibil tendinita. Obiective terapeutice: reducerea inflamatiei si recuperarea mobilitatii umarului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am cărat niște saci.", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 6."],
+    "localizarea_durerii": ["Umărul drept sau stâng?", "Drept.", "Doar în umăr, pe aici."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Ibuprofen, când nu mai pot.", "Nu știu, ce e la blister, 400 cred."],
+    "evaluare_functionala_initiala": ["Se oprește la aproximativ 90 de grade, deci avem o limitare a flexiei.", "Doare la abducție.", "Nu ajungeți.", "Exact pe inserția coifului rotatorilor.", "Se observă o diferență de forță față de partea stângă.", "Eu zic că avem o inflamație la nivelul coifului rotatorilor, posibil tendință, și asta explică și limitarea de mișcare și durerea nocturnă. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

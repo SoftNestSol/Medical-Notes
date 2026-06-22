@@ -1,0 +1,54 @@
+{
+  "conversation_id": "synth_209",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul. De mai mult timp, de fapt. Nu știu exact de când, parcă de vreo două luni, poate mai mult",
+      "pe lateral, și uneori se duce și un pic în față",
+      "Treptat, adică nu știu să zic că am făcut ceva anume și a apărut. Poate de la serviciu, stau mult la birou",
+      "dacă stau pe partea dreaptă mă trezesc. Nu pot dormi pe partea aia",
+      "Dimineața e mai înțepenit, parcă. Adică nu doare foarte tare, dar e rigid, nu se mișcă bine vreo jumătate de oră",
+      "gâtul mai mă supără și el. Nu tare, dar câteodată la sfârșitul zilei simt că mă ține pe aici, pe spate, pe ceafă"
+    ],
+    "evaluarea_durerii_vas": [
+      "un 4, dar dacă ridic mâna sus sau încerc să ajung cu ea la spate, ajunge la 7, poate"
+    ],
+    "localizarea_durerii": [
+      "Cel drept. Ăsta",
+      "gâtul mai mă supără și el. Nu tare, dar câteodată la sfârșitul zilei simt că mă ține pe aici, pe spate, pe ceafă"
+    ],
+    "localizarea_durerii_alta": [
+      "Pe fața laterală a brațului, ok",
+      "Pe aici, pe fața asta de... cum îi zice... pe exterior, sus"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "am la tiroidă ceva, hipotiroidism, de vreo doi ani. Iau tratament pentru asta"
+    ],
+    "medicatie_actuala": [
+      "Euthyrox. Un comprimat în fiecare dimineață. 75 de micrograme"
+    ],
+    "evaluare_functionala_initiala": [
+      "Până pe aici merge, după aia doare",
+      "La cam 90 de grade te blochezi, da?",
+      "Da, da doare",
+      "Parcă da, simt ceva",
+      "pare că avem o tendinopatie la nivelul coifului rotatorilor, cel mai probabil supraspinosul. Limitarea e prezentă atât activ cât și la rezistență, și avem și o posibilă bursită subacromială asociată",
+      "Zona cervicală o să o privim și pe ea, că redoarea de pe ceafă pe care o simți seara poate să contribuie la tabloul de acolo",
+      "Ce ne propunem să facem este să reducem inflamația locală, să lucrăm mobilitatea umărului și să relaxăm musculatura cervicală și a umărului"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 23074
+    },
+    "cache_creation_input_tokens": 23074,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 334,
+    "output_tokens": 3644,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

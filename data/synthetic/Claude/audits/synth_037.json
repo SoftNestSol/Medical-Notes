@@ -1,0 +1,53 @@
+{
+  "conversation_id": "synth_037",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare cervicalul, zona gâtului, adică de vreo trei săptămâni nu mai pot să dorm, mă trezesc noaptea, întorc capul și parcă îmi intră un cuțit pe după ureche, pe partea stângă",
+      "la început era mai ușor și nu i-am dat importanță. Dar acum e mai rău, mai ales dimineața când mă scol din pat"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în momentul ăsta, e cam un 5"
+    ],
+    "localizarea_durerii": [
+      "mă doare cervicalul, zona gâtului",
+      "se lasă și pe umărul stâng, da",
+      "am și dureri de cap, mai la baza craniului, la ceafă"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "am și tensiunea un pic ridicată",
+      "Da, am, am. Iau și pastile pentru asta"
+    ],
+    "antecedente_altele": [
+      "La genunchi am avut o operație, acum vreo zece ani, la meniscul drept",
+      "o fractură la mână stângă, de demult, din tinerețe",
+      "mai am colesterolul un pic mărit"
+    ],
+    "medicatie_actuala": [
+      "iau Enalapril, 10 miligrame, în fiecare dimineața",
+      "Mai iau uneori Ibuprofen când mă doare mai tare",
+      "Cam 400 de miligrame"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o tensionare importantă a musculaturii cervicale, mai ales pe partea stângă, și o mobilitate redusă la rotație",
+      "Cel mai probabil avem de-a face cu o contractură musculară cervicală, probabil și cu un pic de iritație la nivel de C5, C6, de unde se explică și iradierea spre umărul stâng",
+      "Observ că aveți capul dus un pic în față față de umeri, poziție de cap anterior",
+      "Ce ne propunem acum este să reducem contractura musculară, să recuperăm mobilitatea în rotație și să ameliorăm durerea",
+      "voi recomanda totuși să faceți un RMN cervical"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 13499
+    },
+    "cache_creation_input_tokens": 13499,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 271,
+    "output_tokens": 3642,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

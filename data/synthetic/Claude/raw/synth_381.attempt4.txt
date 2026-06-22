@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume, după un efort, după o mișcare?\nSPEAKER_01: Am carat niște cutii mai grele la muncă.\nSPEAKER_00: Înțeleg. Și doare constant sau numai când mișcați?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Când ridicați mâna sus, da? Doare și noaptea, când stați pe partea stângă?\nSPEAKER_01: Da, și noaptea.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Un 7.\nSPEAKER_00: 7. Doare strict în umăr sau se lasă și pe braț?\nSPEAKER_01: Mai mult în umăr. Un pic și pe braț.\nSPEAKER_00: Pe braț, pe ce parte, pe față, pe spate?\nSPEAKER_01: Așa, lateral.\nSPEAKER_00: Lateral, ok. Amorțeli în mână, în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ați mai avut umărul ăsta dureros înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciodată.\nSPEAKER_01: Nu.\nSPEAKER_00: Afecțiuni cunoscute, tensiune, diabet, ceva de genul?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Medicamente luați acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva mișcări să văd ce se întâmplă. Ridicați mâna în față, încet.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: De la ce unghi?\nSPEAKER_01: De la mijloc cam.\nSPEAKER_00: Deci doare la ridicare cam de la 90 de grade în sus. Acum duceți mâna lateral.\nSPEAKER_01: Și așa doare.\nSPEAKER_00: La fel, cam de la jumătate. Și înapoi?\nSPEAKER_01: Asta mai puțin.\nSPEAKER_00: Mai puțin, bun. Apăs puțin pe umăr, spuneți-mi dacă doare.\nSPEAKER_01: Uh, da, acolo.\nSPEAKER_00: Exact pe capul humeral, doare la palpare. Asta seamănă cu o tendinopatie de supraspinos, posibil cu o bursită ușoară. Trebuie să reducem inflamația și să recăpătăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă rog să vă așezați pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng apărută după efort fizic (cărat cutii grele), de aproximativ două săptămâni.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": "braț lateral stâng",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinopatie supraspinos, posibil bursită ușoară umăr stâng. Mobilitate limitată la abducție și flexie din aproximativ 90 de grade, mai puțin limitată la extensie. Durere la palpare pe capul humeral. Obiective terapeutice: reducerea inflamației și recăpătarea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Am carat niște cutii mai grele la muncă.", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un 7."],
+    "localizarea_durerii": ["Stângul.", "Mai mult în umăr."],
+    "localizarea_durerii_alta": ["Un pic și pe braț.", "Așa, lateral."],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Asta seamănă cu o tendinopatie de supraspinos, posibil cu o bursită ușoară.", "Exact pe capul humeral, doare la palpare.", "Deci doare la ridicare cam de la 90 de grade în sus.", "Trebuie să reducem inflamația și să recăpătăm mobilitatea."]
+  }
+}

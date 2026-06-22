@@ -1,0 +1,42 @@
+{
+  "conversation_id": "synth_225",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul stâng de vreo trei săptămâni",
+      "am mutat mobilă acum vreo patru săptămâni, am carat niște cutii grele, și după câteva zile a început",
+      "când ridic mâna sus sau fac o mișcare mai bruscă"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când stau liniștit, poate un 3. Dar când ridic mâna sus sau fac o mișcare mai bruscă, ajunge la un 7."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt ceva pe partea asta de sus a brațului, dar nu coboară mai jos de cot"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel, Voltaren, câteodată seara"
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare o tendinită la nivelul coifului rotatorilor, cel mai probabil supraspinos-ul afectat.",
+      "Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea completă a umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21330,
+    "inference_geo": "global",
+    "input_tokens": 314,
+    "output_tokens": 1947,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

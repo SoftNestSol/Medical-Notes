@@ -1,0 +1,40 @@
+{
+  "conversation_id": "synth_426",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o problemă cu umărul, umărul drept, și mă doare de vreo trei săptămâni deja",
+      "eram la sală, am ridicat niște gantere, nu chiar grele, adică eu ridic de obicei mai mult, dar am simțit pe moment ceva",
+      "Doar durerea."
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum în repaus un 3, dar când mă mișc, când ridic ceva, 7 ușor."
+    ],
+    "localizarea_durerii": [
+      "am o problemă cu umărul, umărul drept"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "mai iau câteodată un Voltaren gel, pun pe umăr seara"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem durere la palpare subacromială și limitare de mobilitate la flexie și abducție. Pare o tendinopatie a manșetei rotatorii, probabil supraspinatus, cu o componentă de bursită subacromială.",
+      "o să reducem inflamația și refacem mobilitatea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21395,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2094,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamna.\nSPEAKER_01: Bună ziua, bună ziua. Scuzați că am întârziat un pic, am venit cu metroul și știți cum e, o linie era blocată și am stat vreo douăzeci de minute în tunel, nici nu știam dacă mai ajung.\nSPEAKER_00: Nici o problemă. Spuneți-mi numele, vă rog.\nSPEAKER_01: Ionescu Mihaela.\nSPEAKER_00: Și vârsta?\nSPEAKER_01: 38 de ani. Tânără încă, nu? Deși mă simt de vreo optzeci acum.\nSPEAKER_00: Cu ce problemă ne vedem?\nSPEAKER_01: Păi, mă doare gâtul îngrozitor, cervicalele, și capul, adică la ceafă mai ales. Și am dureri de cap din cauza asta, cel puțin asta cred eu. Am zis că poate e de la stres, că am multă treabă la birou, stau toată ziua la calculator, dar nu trece deloc.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo trei săptămâni. Dar de fapt mai demult îl simt, poate două luni, numai că în ultimele trei săptămâni s-a agravat. Inițial era mai mult dimineața, mă trezeam cu gâtul țeapăn, ziceam că am dormit prost și gata. Acum e tot timpul.\nSPEAKER_00: Doare și pe umăr sau strict pe gât și ceafă?\nSPEAKER_01: Și pe umăr, da, pe partea dreaptă. Ăla e mai mult o tensiune, știți, ca și cum ar fi ceva încordat acolo. Și uneori simt că îmi merge până în omoplat, pe partea dreaptă. Dar gâtul e cel mai rău.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare îngrozitor, câte dați durerii de acum?\nSPEAKER_01: Acum, în momentul ăsta? Aș zice un 6. Dar dimineața când mă trezesc poate fi și 8, că nu pot să-mi întorc capul deloc. Seara după birou iarăși 7-8.\nSPEAKER_00: Aveți amorțeli pe braț sau pe mână?\nSPEAKER_01: Nu, amorțeli nu. Adică uneori simt că îmi gâdilă puțin degetele, dar nu știu dacă e asta sau e de la faptul că stau pe calculator cu mâna pe mouse tot timpul. Nu știu sigur.\nSPEAKER_00: Am înțeles. Luați vreun medicament în prezent?\nSPEAKER_01: Am luat Nurofen când mă durea foarte tare, câte unul-două, dar nu în fiecare zi. Nu e medicație fixă. Și mai iau Magne B6, că mi-a zis o colegă că e bun pentru stres și mușchi. Astea-s tot ce iau.\nSPEAKER_00: Doza de Magne B6?\nSPEAKER_01: Câte o pastilă pe zi, dimineața.\nSPEAKER_00: Alte afecțiuni, tensiune arterială, diabet, probleme la coloană diagnosticate?\nSPEAKER_01: Tensiune nu am, diabet nu. Am tensiunea mică uneori, dar nu e diagnosticată nimic. Ah, și mi-a spus medicul de familie că am o ușoară cifoză toracală, de la postura de la birou probabil. Dar nu am facut nimic pentru asta pana acum.\nSPEAKER_00: Cifoză toracală, da. Și coloana lombară, vă doare?\nSPEAKER_01: Nu, lombarul nu. Adică dacă stau mult în picioare mă mai obosește, dar nu aș spune că doare. Nu ăla e motivul pentru care am venit.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu, nimic. Ah, ba da, am avut o fractură la mâna dreaptă acum vreo zece ani, la pumn, de la o căzătură, dar s-a vindecat complet. Nu știu dacă contează.\nSPEAKER_00: Mulțumesc. Haideți să vă ridic puțin în picioare, vreau să văd cum stați.\nSPEAKER_01: Sigur, sigur. Vă spun că mă și tem un pic, o prietenă mi-a zis că i-ați trosnit gâtul și i-a fost frică, sper că nu... adică știu că e normal, dar.\nSPEAKER_00: O să vă explic tot ce facem înainte, nu vă faceți griji. Priviți înainte... acum întoarceți capul spre dreapta, ușor.\nSPEAKER_01: Până aici pot, mai mult doare.\nSPEAKER_00: Bine. Spre stânga.\nSPEAKER_01: Asta merge mai bine, da.\nSPEAKER_00: Văd o restricție clară de rotație spre dreapta. Aplecați capul spre umărul drept.\nSPEAKER_01: Au, da, acolo trage.\nSPEAKER_00: Dă și în umăr?\nSPEAKER_01: Da, chiar acum da.\nSPEAKER_00: Bine. Deci avem o tensionare a musculaturii cervicale, mai ales pe partea dreaptă, cu iradiere spre umărul drept și omoplat. Mobilitatea rotatorie spre dreapta e limitată. O să începem cu relaxarea musculaturii cervicale și a trapezului, și urmărim cum evoluează în două-trei ședințe.\nSPEAKER_01: Și durerile de cap dispar și ele?\nSPEAKER_00: Cel mai probabil da, odată ce reducem tensiunea musculară din zonă. Haideți să ne așezăm pe masă.",
+  "note": {
+    "motivul_prezentarii": "Dureri cervicale, ceafă, iradiere umăr drept și omoplat drept, dureri de cap asociate",
+    "evaluarea_durerii_vas": [6, 8],
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "omoplat drept",
+    "antecedente": [
+      "scolioza_cifoza"
+    ],
+    "antecedente_altele": "fractură pumn drept în antecedente (vindecată)",
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      },
+      {
+        "denumire": "Magne B6",
+        "doza": "o pastilă pe zi"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tensionare musculatură cervicală dreaptă cu iradiere umăr drept și omoplat; restricție rotație cervicală spre dreapta.\nObiective terapeutice: relaxarea musculaturii cervicale și a trapezului; reducerea tensiunii musculare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare gâtul îngrozitor, cervicalele, și capul, adică la ceafă mai ales",
+      "Și pe umăr, da, pe partea dreaptă",
+      "Am dureri de cap din cauza asta"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în momentul ăsta? Aș zice un 6",
+      "dimineața când mă trezesc poate fi și 8"
+    ],
+    "localizarea_durerii": [
+      "mă doare gâtul îngrozitor, cervicalele, și capul, adică la ceafă mai ales",
+      "Și pe umăr, da, pe partea dreaptă"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt că îmi merge până în omoplat, pe partea dreaptă"
+    ],
+    "antecedente": [
+      "mi-a spus medicul de familie că am o ușoară cifoză toracală"
+    ],
+    "antecedente_altele": [
+      "am avut o fractură la mâna dreaptă acum vreo zece ani, la pumn, de la o căzătură, dar s-a vindecat complet"
+    ],
+    "medicatie_actuala": [
+      "Am luat Nurofen când mă durea foarte tare",
+      "mai iau Magne B6",
+      "Câte o pastilă pe zi, dimineața"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o tensionare a musculaturii cervicale, mai ales pe partea dreaptă, cu iradiere spre umărul drept și omoplat",
+      "Mobilitatea rotatorie spre dreapta e limitată",
+      "O să începem cu relaxarea musculaturii cervicale și a trapezului"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "motivul_prezentarii": "Durere umar stang aparuta dupa efort fizic (mutare mobilier greu), de aproximativ doua saptamani, cu limitarea ridicarii bratului.",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "braț stâng (iradiere partiala pana la jumatate)",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "colesterol crescut (fara medicatie, regim dietetic)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Lisinopril",
+      "doza": "10 mg dimineata"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie tendoane umar stang, zona manseta rotatorilor\n- limitare abductie si rotatie externa, durere la palpare subacromiana\nObiective terapeutice:\n- reducerea inflamatiei\n- recuperarea mobilitatii"
+}

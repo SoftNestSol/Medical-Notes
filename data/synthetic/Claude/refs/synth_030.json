@@ -1,0 +1,28 @@
+{
+  "motivul_prezentarii": "Contabilă, 8 ore/zi la calculator. Durere lombară joasă cu iradiere pe fesa dreaptă și coapsă dreaptă (fără a ajunge la genunchi), apărută treptat în urmă cu aproximativ 3 săptămâni, posibil declanșată de ridicarea de cutii grele. Mai intensă dimineața la sculat și după statul prelungit pe scaun. Amorțeală ocazională picior drept la stat prelungit pe scaun. Redoare matinală cu dezmorțire în câteva minute.",
+  "evaluarea_durerii_vas": [
+    7,
+    5
+  ],
+  "localizarea_durerii": [
+    "lombar",
+    "sold_dr"
+  ],
+  "localizarea_durerii_alta": "coapsă dreaptă, piriform dreapta",
+  "antecedente": [
+    "hipertensiune_arteriala",
+    "scolioza_cifoza"
+  ],
+  "antecedente_altele": "apendicectomie acum opt ani",
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "un sfert de pastilă dimineața"
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400 mg, de două trei ori pe săptămână când e mai rău"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- inflamație musculatură lombară și piriform dreapta;\n- disfuncție de bazin cu asimetrie (umăr drept mai ridicat);\n- scolioză ușoară în antecedente;\nObiective terapeutice:\n- reducerea inflamației;\n- refacerea mobilității lombare;\n- corectarea disfuncției de bazin;\nRecomandare RMN dacă durerea nu cedează după câteva ședințe."
+}

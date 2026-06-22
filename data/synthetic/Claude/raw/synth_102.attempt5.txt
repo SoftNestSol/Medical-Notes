@@ -1,0 +1,55 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Cum vă numiți?\nSPEAKER_01: Ionescu.\nSPEAKER_00: Prenume?\nSPEAKER_01: Gheorghe.\nSPEAKER_00: Mulțumesc, domnule Ionescu. Spuneți-mi, cu ce problemă veniți azi.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar, deci. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde v-ați situa?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare constant sau numai la mișcare?\nSPEAKER_01: La mișcare mai mult.\nSPEAKER_00: Când vă ridicați din scaun, de exemplu?\nSPEAKER_01: Da.\nSPEAKER_00: Durerea se lasă și pe picior, pe fesă, pe undeva mai jos?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțesc picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Dimineața când vă treziți, vă simțiți blocat?\nSPEAKER_01: Un pic, da. Trece.\nSPEAKER_00: Trece după ce vă mișcați?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Alte zone dor, gât, umeri?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți tensiune, diabet, osteoporoză, vreo altă boală?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: De mult?\nSPEAKER_01: Câțiva ani.\nSPEAKER_00: Luați ceva pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: Zilnic?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați, antiinflamator, ceva pentru spate?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio intervenție chirurgicală, nicio fractură?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă examineze puțin. Stați drept, cu spatele la mine. Relaxați umerii.\nSPEAKER_01: Ok.\nSPEAKER_00: Văd o ușoară tensionare pe partea dreaptă, musculatura paravertebrală. Aplecați-vă puțin în față.\nSPEAKER_01: Doare când mă aplec.\nSPEAKER_00: Doare. Cât, față de cele 5 pe care mi le-ați spus?\nSPEAKER_01: La fel.\nSPEAKER_00: La fel, ok. Reveniți. Acum aplecați-vă lateral, spre dreapta.\nSPEAKER_01: Merge.\nSPEAKER_00: Spre stânga?\nSPEAKER_01: Și asta merge.\nSPEAKER_00: Bun. Vă apăs puțin pe zona lombară, îmi spuneți unde simțiți cel mai mult.\nSPEAKER_01: Aici, pe mijloc.\nSPEAKER_00: Pe mijloc, paravertebral bilateral. Ok. Deci avem o contractură musculară lombară apărută după efort, după mutatul mobilei. Nu e o durere iradiantă, nu avem semne de nerv prins. E o lombalgie acută musculară. O să lucrăm să relaxăm musculatura și să reducem inflamația locală.\nSPEAKER_01: Bine.\nSPEAKER_00: Câte ședințe pot să dureze?\nSPEAKER_01: Nu știu.\nSPEAKER_00: Probabil 3-4 ședințe și ar trebui să vă simțiți semnificativ mai bine. Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă apărută după mutatul mobilei, de aproximativ două săptămâni. Durere la mișcare, mai ales la ridicarea din scaun. Redoare matinală care cedează la încălzire. Fără iradiere pe membre, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame zilnic"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: lombalgie acută musculară, contractură paravertebrală bilaterală lombară, fără iradiere, fără semne de compresie radiculară. Obiective terapeutice: relaxarea musculaturii lombare și reducerea inflamației locale."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "Am mutat niște mobilă.",
+      "La mișcare mai mult.",
+      "Un pic, da. Trece.",
+      "Trece după ce vă mișcați?",
+      "Nu.",
+      "Amorțesc picioarele?\nSPEAKER_01: Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Lombar, deci."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Enalapril.",
+      "10 miligrame.",
+      "Da."
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară tensionare pe partea dreaptă, musculatura paravertebrală.",
+      "Deci avem o contractură musculară lombară apărută după efort, după mutatul mobilei. Nu e o durere iradiantă, nu avem semne de nerv prins. E o lombalgie acută musculară. O să lucrăm să relaxăm musculatura și să reducem inflamația locală."
+    ]
+  }
+}

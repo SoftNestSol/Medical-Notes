@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_219",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, de ceva timp. Adică nu știu exact de când, poate vreo două luni, poate mai mult. Pe aici, pe partea asta.",
+      "mai am și gâtul, câteodată. Adică mă trezesc dimineața și îl simt înțepenit, nu pot să mă uit bine în dreapta.",
+      "și acolo, pe aici undeva. Dar mai mult umărul."
+    ],
+    "evaluarea_durerii_vas": [
+      "dacă stau liniștită, poate un 3, 4. Dar dacă ridic ceva sau mă întind, poate ajunge la un 7."
+    ],
+    "localizarea_durerii": [
+      "Stânga. Stângul.",
+      "mai am și gâtul, câteodată."
+    ],
+    "localizarea_durerii_alta": [
+      "și acolo, pe aici undeva",
+      "Deci și omoplatul stâng vă deranjează puțin.",
+      "Da, dar nu știu dacă e același lucru sau e separat."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "am tiroida. Adică hipotiroidism, iau pastile pentru ea."
+    ],
+    "medicatie_actuala": [
+      "Euthyrox. 75 de micrograme, dimineața.",
+      "Uneori iau un Paracetamol, dar nu regulat. Când nu mai pot."
+    ],
+    "evaluare_functionala_initiala": [
+      "umărul stâng e puțin mai ridicat decât cel drept",
+      "de pe la jumătate în sus doare, acolo.",
+      "asta chiar nu pot bine. Mă trage foarte tare.",
+      "avem o tensionare destul de mare a musculaturii din jurul umărului, mai ales trapeziusul și musculatura rotatorie. Vedem și o limitare a mobilității, mai ales la rotația internă și la ridicarea brațului. Cel mai probabil e vorba de o tendinopatie sau o bursită la nivelul umărului stâng, posibil și cu un conflict subacromian.",
+      "Ce trebuie să facem e să reducem inflamația din zona respectivă, să eliberăm musculatura, trapezul mai ales, și să recuperăm mobilitatea, în special rotația internă. O să lucrăm și puțin pe cervicală"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22058,
+    "inference_geo": "global",
+    "input_tokens": 334,
+    "output_tokens": 3536,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

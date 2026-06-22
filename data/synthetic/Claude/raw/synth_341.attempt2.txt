@@ -1,0 +1,26 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamna.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Cristea.\nSPEAKER_00: Cristea, și prenumele?\nSPEAKER_01: Mihaela.\nSPEAKER_00: Mulțumesc, doamna Mihaela. Cu ce problemă ne vedem?\nSPEAKER_01: Mă doare ceafa.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. S-a întâmplat ceva, ați avut vreun traumatism, vreo lovitură?\nSPEAKER_01: Nu, nu știu, s-a trezit dimineața și era.\nSPEAKER_00: S-a trezit dimineața și era durerea. Doare constant sau numai când mișcați capul?\nSPEAKER_01: Când mișc.\nSPEAKER_00: Când mișcați capul. Spre care parte doare mai tare, spre dreapta sau spre stânga?\nSPEAKER_01: Spre dreapta.\nSPEAKER_00: Spre dreapta. Durerea rămâne în ceafă sau se lasă și pe umăr, pe braț?\nSPEAKER_01: Puțin pe umăr.\nSPEAKER_00: Pe umărul drept?\nSPEAKER_01: Da.\nSPEAKER_00: Pe scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare doare acum?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Și când mișcați spre dreapta?\nSPEAKER_01: Poate 7.\nSPEAKER_00: 7 spre dreapta. Stați mult la birou, la calculator?\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Toată ziua la birou. Cum stați, aplecată în față, sau...?\nSPEAKER_01: Cam aplecată, da.\nSPEAKER_00: Înțeles. Amorțeli în mâini, în degete, aveți?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Dureri de cap mai aveți odată cu asta?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Câteodată. Tensiune, diabet, epilepsie, altceva din astea?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun medicament. Haideți, stați puțin în picioare. O să apăs ușor pe zona de cervical și îmi spuneți dacă doare. Doare aici?\nSPEAKER_01: Da.\nSPEAKER_00: Și pe mușchiul trapez, în zona asta de dreapta?\nSPEAKER_01: Au, da, acolo doare mai tare.\nSPEAKER_00: Acolo doare mai tare, da. Întoarceți capul ușor spre dreapta.\nSPEAKER_01: Au.\nSPEAKER_00: E limitată mișcarea. Spre stânga acum.\nSPEAKER_01: Merge mai bine.\nSPEAKER_00: Merge mai bine spre stânga. Deci avem o blocare în zona cervicală cu inflamație pe trapez și ridicătorul scapulei, de partea dreaptă. Cel mai probabil din cauza posturii de la birou. Va trebui să lucrăm să reducem inflamația și să recuperăm mobilitatea în cervical. Haideți să ne așezăm pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere ceafa si umar drept",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: - Blocare cervicala;\n- Inflamatie trapez si ridicator scapula dreapta;\nObiective terapeutice: - Reducerea inflamatiei;\n- Recuperarea mobilitatii cervicale"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare ceafa.", "Puțin pe umăr.", "Pe umărul drept?", "Da."],
+    "evaluarea_durerii_vas": ["Un 5.", "Poate 7."],
+    "localizarea_durerii": ["Mă doare ceafa.", "Puțin pe umăr.", "Pe umărul drept?", "Da."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o blocare în zona cervicală cu inflamație pe trapez și ridicătorul scapulei, de partea dreaptă", "Va trebui să lucrăm să reducem inflamația și să recuperăm mobilitatea în cervical"]
+  }
+}

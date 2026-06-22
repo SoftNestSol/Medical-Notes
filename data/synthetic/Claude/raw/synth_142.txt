@@ -1,0 +1,31 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamnă.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Mureșan.\nSPEAKER_00: Prenumele?\nSPEAKER_01: Ioana.\nSPEAKER_00: Doamna Ioana, cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut dintr-o dată sau treptat?\nSPEAKER_01: Treptat.\nSPEAKER_00: A apărut după ceva anume, un efort, o lovitură, ceva?\nSPEAKER_01: Nu știu, stau mult la birou.\nSPEAKER_00: La birou, la calculator?\nSPEAKER_01: Da.\nSPEAKER_00: Înțeles. Doare doar în zona de gât sau se lasă și în umăr, în braț?\nSPEAKER_01: Și în umăr.\nSPEAKER_00: Ce umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: Dreptul. Și în braț mai jos nu se lasă?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare doare?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. Și când e mai rău, dimineața sau seara, după birou?\nSPEAKER_01: Seara.\nSPEAKER_00: Seara, după ce stați mult. Amorțește mâna sau degetele?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Câteodată. Mâna dreaptă?\nSPEAKER_01: Da.\nSPEAKER_00: Înțeles. Tensiune arterială, diabet, epilepsie, alte afecțiuni?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciuna. Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați medicamente în momentul de față?\nSPEAKER_01: Iau ibuprofen când mă doare rău.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Cam o dată la două zile.\nSPEAKER_00: Doza?\nSPEAKER_01: 400.\nSPEAKER_00: 400 mg, înțeles. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Stați dreaptă, vă rog. Întoarceți capul ușor spre dreapta. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Dați capul pe spate.\nSPEAKER_01: Acolo doare și în umăr.\nSPEAKER_00: Se duce durerea în umărul drept când dați capul pe spate, da?\nSPEAKER_01: Da.\nSPEAKER_00: O să apăs acum pe mușchii de pe ceafă, îmi spuneți dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Aici pe trapez doare?\nSPEAKER_01: Foarte tare.\nSPEAKER_00: Pe dreapta mai tare ca pe stânga?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Contracturi mari pe trapez și pe ridicătorul scapulei pe dreapta. Mobilitatea cervicală e limitată, mai ales la rotație dreapta și extensie. Ce pot să vă spun e că avem o tensiune musculară serioasă în zona cervicală, cu iradiere în umărul drept. Vom lucra să reducem contractura și să refacem mobilitatea. O să vedeți diferența după primele două-trei ședințe.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicala cu iradiere in umar drept, aparuta dupa stat mult la birou",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "ibuprofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contracturi trapez si ridicator scapula dreapta; limitare mobilitate cervicala la rotatie dreapta si extensie\nObiective terapeutice: reducerea contracturii musculare; refacerea mobilitatii cervicale"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "stau mult la birou", "Și în umăr.", "Dreptul."],
+    "evaluarea_durerii_vas": ["Un 6."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și în umăr.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Iau ibuprofen când mă doare rău.", "400."],
+    "evaluare_functionala_initiala": ["Contracturi mari pe trapez și pe ridicătorul scapulei pe dreapta. Mobilitatea cervicală e limitată, mai ales la rotație dreapta și extensie.", "Vom lucra să reducem contractura și să refacem mobilitatea."]
+  }
+}

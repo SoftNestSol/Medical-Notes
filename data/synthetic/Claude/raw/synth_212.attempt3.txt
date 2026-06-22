@@ -1,0 +1,26 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și ce a declanșat, știți cumva?\nSPEAKER_01: Nu știu exact. Poate de la calculator.\nSPEAKER_00: Mult timp la calculator?\nSPEAKER_01: Da, toată ziua la serviciu.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare constant sau mai mult la mișcare?\nSPEAKER_01: La mișcare mai mult. Când întorc capul.\nSPEAKER_00: Spre stânga, dreapta sau ambele?\nSPEAKER_01: Mai mult spre dreapta.\nSPEAKER_00: Vă iradiază durerea undeva, spre umăr, spre cap?\nSPEAKER_01: Puțin spre ceafă.\nSPEAKER_00: Amorțesc mâinile?\nSPEAKER_01: Nu.\nSPEAKER_00: Dureri de cap?\nSPEAKER_01: Rar.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă uit puțin cum stați. Rămâneți drept, cu fața în față.\nSPEAKER_00: Văd o ușoară aplecare a capului spre stânga. Umărul drept e puțin ridicat față de stânga.\nSPEAKER_00: Întoarceți capul spre dreapta, încet.\nSPEAKER_01: Au, doare.\nSPEAKER_00: Da, mobilitatea e limitată pe rotația dreaptă. Spre stânga merge mai bine?\nSPEAKER_01: Da, mai bine.\nSPEAKER_00: Bun. Apăs puțin aici, pe mușchii gâtului, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Pe trapez de asemenea?\nSPEAKER_01: Da.\nSPEAKER_00: Deci avem o contractură musculară la nivel cervical, cu limitarea rotației drepte și tensiune în trapezul superior drept. Cel mai probabil de la postura la calculator. O să lucrăm să reducem contractura și să redăm mobilitatea.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală de aproximativ două săptămâni, posibil declanșată de postura la calculator. Durere la mișcare, mai ales la rotația capului spre dreapta, cu iradiere spre ceafă.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nAplecare ușoară a capului spre stânga, umăr drept ridicat față de stânga. Mobilitate cervicală limitată pe rotația dreaptă, rotația stângă păstrată. Durere la palpare musculatură cervicală și trapez superior drept.\nDiagnostic:\nContractură musculară cervicală cu limitarea rotației drepte și tensiune trapez superior drept, pe fond postural (muncă la calculator).\nObiective terapeutice:\nReducerea contracturii musculare; refacerea mobilității cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "De vreo două săptămâni.", "Poate de la calculator.", "La mișcare mai mult. Când întorc capul.", "Puțin spre ceafă."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Puțin spre ceafă."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Medicamente luați în prezent?\nSPEAKER_01: Nu."],
+    "evaluare_functionala_initiala": ["Văd o ușoară aplecare a capului spre stânga. Umărul drept e puțin ridicat față de stânga.", "mobilitatea e limitată pe rotația dreaptă", "avem o contractură musculară la nivel cervical, cu limitarea rotației drepte și tensiune în trapezul superior drept", "O să lucrăm să reducem contractura și să redăm mobilitatea."]
+  }
+}

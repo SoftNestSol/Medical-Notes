@@ -1,0 +1,45 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi și mie numele, vă rog.\nSPEAKER_01: Ionescu Mihai.\nSPEAKER_00: Vârsta?\nSPEAKER_01: 38 de ani.\nSPEAKER_00: Bun. Cu ce problemă ne vedem?\nSPEAKER_01: Păi, mă doare umărul, cel drept, de vreo trei săptămâni. Adică a început mai ușor, nu i-am dat importanță, ziceam că trece singur, dar nu a trecut. Dimpotrivă, s-a mai agravat puțin. Lucrez la birou, stau foarte mult la calculator, și colegii mei mi-au zis că probabil de la poziție, dar nu știu, eu am mai ridicat și niște cutii grele acum vreo lună la mutat.\nSPEAKER_00: Înțeles. Deci umărul drept de trei săptămâni. Doare și în repaus sau mai mult când faceți mișcări?\nSPEAKER_01: Mai mult când fac mișcări, da. Când ridic mâna în sus sau când încerc să o duc în spate, mă frige. Dar și noaptea mai am un disconfort, mai ales când mă culc pe partea aia, pe dreapta.\nSPEAKER_00: Și durerea se lasă cumva pe braț în jos, spre cot, spre mână?\nSPEAKER_01: Nu, nu, rămâne acolo sus, în zona umărului și puțin spre gât, poate, când mă întorc capul uneori simt ceva. Dar mai puțin, nu e ca la umăr.\nSPEAKER_00: Spre gât în ce sens, doare sau e o tensiune?\nSPEAKER_01: Mai mult tensiune, o strângere. Nu știu dacă contează, dar am stat la calculator vreo zece ore pe zi în ultimele luni, proiect mare, și stau cu umerii cam așa, ridicați, probabil.\nSPEAKER_00: Da, contează. Și pe scara de la 0 la 10, unde 0 nu doare deloc și 10 doare cel mai tare, cum ați pune durerea de la umăr acum?\nSPEAKER_01: Acum, în repaus, poate un 3. Dar când ridic mâna, un 7 ușor.\nSPEAKER_00: Un 7 la mișcare. Și ați făcut ceva pentru durere până acum, ați luat ceva?\nSPEAKER_01: Am pus un gel, un Voltaren, am pus de câteva ori, pare că mai ajută puțin pe moment, dar nu rezolvă. Nu am luat pastile, nu vreau să mă încarc cu medicamente.\nSPEAKER_00: Înțeles. Aveți alte afecțiuni cunoscute, tensiune, diabet, probleme cardiace?\nSPEAKER_01: Nu, nu am nimic din astea. Sunt destul de sănătos, mă mai duc la sală din când în când, sau mă duceam până a început să mă doară, că acum m-am oprit, mi-e teamă să nu agravez.\nSPEAKER_00: Bine că ați oprit pentru moment. Ați mai avut accidente, traumatisme la umăr, la coloană?\nSPEAKER_01: La umăr nu. Am avut acum vreo cinci ani o mică entorsă la gleznă, stângă, dar a trecut, nu mai am nimic de atunci. Altceva nu.\nSPEAKER_00: Ok. Haideți să mă ridicați puțin în picioare, vă rog. Întoarceți-vă cu fața la mine. Ridicați mâna dreaptă ușor în față, cât puteți.\nSPEAKER_01: Până aici cam pot... mai sus mă frige.\nSPEAKER_00: Cam la 90 de grade se blochează durerea. Acum ridicați-o lateral, depărtați-o de corp.\nSPEAKER_01: A, da, asta doare mai repede, pe la... nu știu, cam la jumătate de drum.\nSPEAKER_00: Da, înțeleg. Acum duceți mâna la spate, ca și cum ați prinde centura.\nSPEAKER_01: Asta e mai greu, mă trage rău acolo, undeva în față la umăr.\nSPEAKER_00: Bun. O să apăs puțin pe zona tendonului, spuneți-mi dacă doare.\nSPEAKER_01: Vai, da, acolo e sensibil rău de tot.\nSPEAKER_00: Da. Și pe zona de trapez superior, doare?\nSPEAKER_01: Și acolo, da. E foarte contractat, îl simt și eu când mă ating.\nSPEAKER_00: Bun, am înțeles tabloul. Avem o inflamație la nivelul tendonului supraspinosului, plus o contractură serioasă pe trapezul superior și pe ridicătorul scapulei, probabil din cauza posturii de la birou combinată cu acel efort la mutat. Nu e ceva grav, dar trebuie tratată, că altfel se cronicizează.\nSPEAKER_01: Credeți că e nevoie de ecografie sau ceva? Că am citit pe internet și mi-a fost teamă că poate e ruptură de coafă sau nu știu ce.\nSPEAKER_00: Deocamdată nu vedem semne care să indice o ruptură. Mișcarea e prezentă, e limitată de durere, nu de lipsă de forță. Vom începe cu câteva ședințe și dacă nu răspunde bine, atunci recomand ecografia. Obiectivul nostru acum e să reducem inflamația tendonului și să eliberăm contractura musculară ca să recâștigăm mobilitatea completă.\nSPEAKER_01: Ok, bine, mă liniștește că nu e ceva grav.\nSPEAKER_00: Nu vă panicați. Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept de aproximativ trei saptamani, agravata de miscare, posibil legata de postura la birou si efort fizic la mutat",
+    "evaluarea_durerii_vas": [3, 7],
+    "localizarea_durerii": [
+      "umar_dr",
+      "cervical"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: - Inflamatie tendon supraspinosus; - Contractura trapez superior si ridicator scapula\nObiective terapeutice: - reducerea inflamatiei tendonului; - eliberarea contracturii musculare; - recastigarea mobilitatii complete"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel drept, de vreo trei săptămâni",
+      "am mai ridicat și niște cutii grele acum vreo lună la mutat",
+      "stau foarte mult la calculator"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în repaus, poate un 3. Dar când ridic mâna, un 7 ușor."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel drept",
+      "puțin spre gât, poate, când mă întorc capul uneori simt ceva"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel, un Voltaren, am pus de câteva ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o inflamație la nivelul tendonului supraspinosului, plus o contractură serioasă pe trapezul superior și pe ridicătorul scapulei",
+      "Obiectivul nostru acum e să reducem inflamația tendonului și să eliberăm contractura musculară ca să recâștigăm mobilitatea completă"
+    ]
+  }
+}

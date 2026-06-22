@@ -1,0 +1,23 @@
+{
+  "motivul_prezentarii": "Durere cervicala cu iradiere pe umar stang",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contractura musculara cervicala cu iradiere trapez stang\nObiective terapeutice: reducerea tensiunii musculare, recastigarea mobilitatii cervicale"
+}

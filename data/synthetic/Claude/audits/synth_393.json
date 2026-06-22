@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_393",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Vreo două săptămâni.",
+      "Treptat.",
+      "Stau mult la birou, la calculator.",
+      "Când ridic mâna sus. Și când o duc în spate.",
+      "Da, nu pot."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "și gâtul mă mai ține câteodată."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Deci până la aproximativ 90 de grade și apare durerea.",
+      "Doare în același punct, pe vârful umărului?",
+      "Da, sus.",
+      "E sensibil la palpare.",
+      "Avem un conflict subacromial, cel mai probabil o tendinită a supraspinatului.",
+      "Va trebui să reducem inflamația, să relaxăm musculatura din jur și să recuperăm mobilitatea umărului.",
+      "văd că aveți și o ușoară tensiune pe trapez."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22994,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 2051,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

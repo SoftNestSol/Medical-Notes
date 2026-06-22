@@ -1,0 +1,46 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Păi, mă doare umărul, umărul stâng, de vreo trei săptămâni. Și am zis să vin, că inițial am crezut că trece de la sine, că am mai pățit, știți cum e, te mișci puțin și îți trece, dar de data asta nu a trecut și am tot amânat, am tot amânat și până la urmă m-a trimis soția mea aici, că ea a fost la voi acum câteva luni cu spatele și a zis că a mers bine.\nSPEAKER_00: Înțeles. Și ce vârstă aveți?\nSPEAKER_01: 47 de ani.\nSPEAKER_00: 47. Și ce s-a întâmplat cu umărul, a fost ceva anume sau a apărut din senin?\nSPEAKER_01: Păi cred că de la serviciu, eu lucrez în depozit, mișcăm marfă, cutii, paleți, și mi-aduc aminte că într-o zi am ridicat ceva mai greu și a doua zi m-am trezit cu umărul țepăn. Dar nu m-am oprit, am continuat să lucrez și cred că l-am cam forțat în continuare.\nSPEAKER_00: Da, înțeles. Și durerea e tot timpul sau mai mult când faceți anumite mișcări?\nSPEAKER_01: Când fac mișcări, da. Adică dacă stau liniștit nu prea simt, dar dacă ridic mâna sau încerc să ajung la ceva pe sus, mă ține rău. Și noaptea, dacă mă întorc pe partea stângă, mă trezește.\nSPEAKER_00: Vă trezește noaptea.\nSPEAKER_01: Da, de câteva ori pe noapte. Și asta e cel mai enervant, că nu dorm bine și mă trezesc obosit.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum ați situa durerea când ridicați mâna?\nSPEAKER_01: Când ridic mâna sus, așa un 7. Noaptea poate și mai mult, dar ziua când mă mișc cu grijă, mai puțin.\nSPEAKER_00: 7 când ridicați mâna. Și durerea e doar în umăr sau coboară și pe braț?\nSPEAKER_01: Se simte și pe braț, pe partea de sus, așa, pe biceps. Dar mai mult în umăr.\nSPEAKER_00: Pe biceps, da. Și în gât sau în ceafă nu simțiți nimic?\nSPEAKER_01: Nu, gâtul e bine, nu mă doare gâtul.\nSPEAKER_00: Bun. Ați aplicat ceva pe zona asta, vreun gel, vreun unguent?\nSPEAKER_01: Da, am pus un gel, Voltaren, de câteva ori, dar nu prea a ajutat mare lucru sincer. M-a mai alinat puțin, dar a doua zi tot la fel era.\nSPEAKER_00: Am înțeles. Altceva luați, vreo pastilă?\nSPEAKER_01: Nu, nu iau nimic altceva. Nu sunt fan pastile.\nSPEAKER_00: Bine. Alte afecțiuni, tensiune, diabet, probleme la inimă?\nSPEAKER_01: Nu, nu am nimic din astea, sunt relativ sănătos, doar umărul ăsta acum.\nSPEAKER_00: Fracturi, operații la umăr vreodată?\nSPEAKER_01: Nu, niciodată. Păi am mai avut o durere la umăr acum vreo zece ani, cealaltă parte, dreapta, dar a trecut singură atunci. Asta e prima dată când e atât de persistent.\nSPEAKER_00: Am înțeles. Haideți să vă ridic puțin brațul... până aici ajungeți?\nSPEAKER_01: Până acolo doare, da, nu mai pot mai sus.\nSPEAKER_00: Și dacă vă rog să duceți mâna în spate, ca să vă prindeți la spate?\nSPEAKER_01: Aoleo, asta e mai rău, nu ajung, mă doare când încerc.\nSPEAKER_00: Da, văd că rotația internă e limitată. Și acum... dacă apăs ușor aici, pe zona asta de sub umăr...\nSPEAKER_01: Au, da, acolo e sensibil.\nSPEAKER_00: Sensibil pe zona subacromiala. Bun, ce vă pot spune este că pare o inflamație la nivelul tendonului, cel mai probabil o tendinită de coafă a rotatorilor. Abducția și rotația internă sunt limitate, e clar că există și o componentă inflamatorie acolo. Va trebui să lucrăm în primă fază să reducem inflamația și să recuperăm mobilitatea.\nSPEAKER_01: Și o să treacă? Că mă gândeam eu, poate trebuie operație sau ceva, am citit pe internet și m-am speriat puțin.\nSPEAKER_00: Deocamdată nu avem imagistică, deci nu putem ști sigur gradul leziunii, dar tabloul clinic sugerează o tendinită, nu neapărat o ruptură. Vom vedea cum răspunde la primele ședințe.\nSPEAKER_01: Bine, bine, mă bucur că nu ziceți direct de operație. Că îmi era frică.\nSPEAKER_00: Haideți să ne apucăm de treabă atunci. Vă rog să vă așezați pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang, aparuta dupa efort fizic la serviciu, cu limitarea miscarii si treziri nocturne",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": "biceps stang",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita coafa rotatori umar stang; abductie si rotatie interna limitate; sensibilitate zona subacromiale.\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, umărul stâng, de vreo trei săptămâni",
+      "am ridicat ceva mai greu și a doua zi m-am trezit cu umărul țepăn",
+      "noaptea, dacă mă întorc pe partea stângă, mă trezește"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când ridic mâna sus, așa un 7."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, umărul stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "Se simte și pe braț, pe partea de sus, așa, pe biceps."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "am pus un gel, Voltaren, de câteva ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "pare o inflamație la nivelul tendonului, cel mai probabil o tendinită de coafă a rotatorilor",
+      "Abducția și rotația internă sunt limitate, e clar că există și o componentă inflamatorie acolo",
+      "Va trebui să lucrăm în primă fază să reducem inflamația și să recuperăm mobilitatea"
+    ]
+  }
+}

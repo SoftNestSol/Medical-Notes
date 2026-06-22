@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_188",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele de ceva vreme",
+      "Mai jos, pe aici, zona asta... nu știu cum să zic, undeva la mijloc sau poate puțin mai jos",
+      "câteodată simt ceva și pe... pe partea asta, aici, pe fesă, mai mult pe dreapta",
+      "uneori simt ceva, dar nu e clar. Nu e o durere, e mai mult așa, o senzație ciudată",
+      "Poate furnicături, da, dar rar"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "Mai jos, pe aici, zona asta... nu știu cum să zic, undeva la mijloc sau poate puțin mai jos",
+      "Deci zona lombară, cam la baza coloanei"
+    ],
+    "localizarea_durerii_alta": [
+      "câteodată simt ceva și pe... pe partea asta, aici, pe fesă, mai mult pe dreapta",
+      "Poate furnicături, da, dar rar. Și nu știu dacă e de la spate sau de la altceva"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Mi-a spus medicul de familie că am tensiune un pic mai mare",
+      "am făcut o radiografie acum câțiva ani și mi-a zis cineva ceva de scolioză"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Amlodipină mi-a dat doctorul",
+      "Cinci, ceva de cinci. Cinci miligerame, da",
+      "Mai iau câteodată ceva de durere, un ibuprofen, când nu mai pot"
+    ],
+    "evaluare_functionala_initiala": [
+      "Există o tensiune musculară destul de clară paravertebral, mai ales pe dreapta. Se vede că mușchii sunt contractați, nu sunt relaxați",
+      "avem o lombalgie de postură, probabil accentuată de statul prelungit la birou, cu o contractură musculară paravertebrală în zona lombară, mai pronunțată pe dreapta",
+      "Obiectivul nostru este să reducem contractura asta, să îmbunătățim mobilitatea lombară și să vă ajutăm să stați mai bine în postură la birou",
+      "flexia e un pic limitată, și mai ales spre dreapta aveți o ușoară restricție de mobilitate"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23026,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3666,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Gheorghe Matei.\nSPEAKER_00: Și vârsta, domnule Matei?\nSPEAKER_01: 47 de ani.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi, mă doare umărul drept de vreo trei săptămâni, cam de când am zugrăvit la baie. Eu am zugrăvit singur, am stat cu mâna sus cam două zile, și după aia a început să mă doară. La început am crezut că trece singur, am pus și un gel, Voltaren, dar nu a trecut.\nSPEAKER_00: Am înțeles. Deci a apărut după efortul de zugrăvit.\nSPEAKER_01: Da, exact, după aia. Că altfel nu mă durea nimic, adică umărul ăsta nu m-a deranjat niciodată înainte. Și eu, sincer, nu știam că se poate bloca un umăr pur și simplu din zugrăvit, îmi pare rău că am făcut-o singur.\nSPEAKER_00: Doare constant sau mai mult la mișcare?\nSPEAKER_01: Mai mult la mișcare, când ridic mâna sau când mă întind să iau ceva de pe raft, dar noaptea mai am și un fond de durere, mă mai trezesc câteodată, nu pot să stau pe partea dreaptă.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare când ridicați mâna?\nSPEAKER_01: La mișcare așa un 7, da. Când stau liniștit poate un 3, un 3 seara.\nSPEAKER_00: Deci 7 la mișcare și 3 în repaus.\nSPEAKER_01: Da, cam așa.\nSPEAKER_00: Durerea rămâne la umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne la umăr, pe partea din față, nu merge mai jos. Uneori simt și în zona asta, cum să zic, în zona de sus a brațului, dar nu mai jos de cot.\nSPEAKER_00: În zona de sus a brațului, deci deltoid.\nSPEAKER_01: Da, da, acolo.\nSPEAKER_00: Amorțeli, furnicături în mână sau degete?\nSPEAKER_01: Nu, nu am simțit asta.\nSPEAKER_00: Bun. Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, ceva cu oasele?\nSPEAKER_01: Nu, nu am nimic. Sunt relativ sănătos. Mai am un pic de colesterol ridicat dar iau ceva pentru aia, nu mai știu exact cum îl cheamă medicamentul, ceva de colesterol de la medicul de familie.\nSPEAKER_00: Și în afară de gelul Voltaren mai luați ceva pentru umăr?\nSPEAKER_01: Am luat un Nurofen acum vreo săptămână că nu mai puteam, dar rar, o dată.\nSPEAKER_00: Deci Nurofen o dată, la nevoie.\nSPEAKER_01: Da, o singură dată.\nSPEAKER_00: Și gelul Voltaren l-ați folosit mai des?\nSPEAKER_01: Da, câteva zile la rând, acum vreo două săptămâni, dar după am renunțat că tot nu trecea.\nSPEAKER_00: Înțeles. Haideți să facem câteva mișcări ca să vedem ce se întâmplă. Ridicați brațul drept în față, ușor.\nSPEAKER_01: Până aici pot, mai sus doare.\nSPEAKER_00: Doare undeva la 90 de grade, da?\nSPEAKER_01: Da, da, de acolo începe.\nSPEAKER_00: Acum duceți brațul lateral.\nSPEAKER_01: Și asta mă doare, tot cam pe la același nivel.\nSPEAKER_00: Am înțeles. Rotați brațul ușor în interior, ca și cum ați pune mâna la spate.\nSPEAKER_01: Asta e cel mai rău, asta nu pot aproape deloc. Și când mă îmbrac dimineața la tricou e un chin, să știți.\nSPEAKER_00: Acum apăs ușor aici, pe capul humeral, anterior. Doare?\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Și aici, în zona supraspinosului.\nSPEAKER_01: Au, da, chiar acolo.\nSPEAKER_00: Bun. Deci avem o limitare destul de clară a mobilității, mai ales la rotația internă și la abducție. Probabil avem o inflamație la nivelul coafei rotatorilor, cel mai probabil tendonul supraspinosului, din suprasolicitarea de la zugrăvit.\nSPEAKER_01: Și e grav? Adică o să treacă? Că eu mă tem că rămân cu umărul blocat.\nSPEAKER_00: Nu e o situație gravă, dar trebuie lucrat. O să începem cu reducerea inflamației și recuperarea mobilității.\nSPEAKER_01: Și câte ședințe credeți că îmi trebuie? Că am auzit că unii umblă luni de zile.\nSPEAKER_00: Depinde cum răspunde, dar în general în câteva săptămâni simțiți îmbunătățire. Haideți să trecem la evaluare.\nSPEAKER_01: Da, bine, bine, mulțumesc.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort sustinut (zugrăvit cu mana sus), de aproximativ trei saptamani",
+    "evaluarea_durerii_vas": [7, 3],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": "zona de sus a brațului (deltoid)",
+    "antecedente": [],
+    "antecedente_altele": "colesterol ridicat",
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      },
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      },
+      {
+        "denumire": "medicament pentru colesterol",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare mobilitate umar drept: abductie si flexie limitata de la aproximativ 90 de grade, rotatie interna sever limitata. Durere la palpare capul humeral anterior si zona supraspinosului. Diagnostic: inflamatie coafa rotatorilor, tendon supraspinos. Obiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii articulare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul drept de vreo trei săptămâni, cam de când am zugrăvit la baie", "am stat cu mâna sus cam două zile, și după aia a început să mă doară"],
+    "evaluarea_durerii_vas": ["La mișcare așa un 7, da. Când stau liniștit poate un 3, un 3 seara"],
+    "localizarea_durerii": ["mă doare umărul drept", "rămâne la umăr, pe partea din față"],
+    "localizarea_durerii_alta": ["simt și în zona asta, cum să zic, în zona de sus a brațului", "Da, da, acolo"],
+    "antecedente": [],
+    "antecedente_altele": ["Mai am un pic de colesterol ridicat"],
+    "medicatie_actuala": ["am pus și un gel, Voltaren", "Am luat un Nurofen acum vreo săptămână că nu mai puteam", "iau ceva pentru aia, nu mai știu exact cum îl cheamă medicamentul, ceva de colesterol de la medicul de familie"],
+    "evaluare_functionala_initiala": ["Deci avem o limitare destul de clară a mobilității, mai ales la rotația internă și la abducție. Probabil avem o inflamație la nivelul coafei rotatorilor, cel mai probabil tendonul supraspinosului, din suprasolicitarea de la zugrăvit", "O să începem cu reducerea inflamației și recuperarea mobilității"]
+  }
+}

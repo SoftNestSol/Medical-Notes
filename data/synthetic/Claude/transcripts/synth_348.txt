@@ -1,0 +1,65 @@
+SPEAKER_00: Bună ziua, doamnă!
+SPEAKER_01: Bună ziua.
+SPEAKER_00: Spuneți-mi și mie numele, vă rog.
+SPEAKER_01: Marinescu Gabriela.
+SPEAKER_00: Marinescu Gabriela. Și vârsta?
+SPEAKER_01: 38 de ani.
+SPEAKER_00: Mulțumesc. E prima dată când veniți la noi?
+SPEAKER_01: Da, da, prima dată. Mi-a recomandat o colegă de serviciu.
+SPEAKER_00: Înțeles. Și cu ce problemă ne vedem azi, doamna Marinescu?
+SPEAKER_01: Păi mă doare... cam pe la ceafă, pe partea asta, și coboară și pe umăr, nu știu exact cum să vă zic, e cam pe toată zona asta de sus.
+SPEAKER_00: Deci zona cervicală și umărul. E pe dreapta, pe stânga sau pe ambele părți?
+SPEAKER_01: Mai mult pe dreapta, da. Uneori simt și pe stânga ceva, dar mai puțin, nu e mare chestie.
+SPEAKER_00: Pe dreapta, bun. Și de când durează asta?
+SPEAKER_01: De vreo... nu știu exact, de câteva săptămâni. Poate o lună, poate mai mult, a venit treptat, nu am putut să zic o dată că de atunci a început.
+SPEAKER_00: A venit treptat, nu a fost ceva brusc, un accident sau o lovitură?
+SPEAKER_01: Nu, nu, nimic din astea. Stau mult la birou, la calculator, toată ziua practic. Și parcă s-a adunat.
+SPEAKER_00: Înțeles. Stați cum la birou, drept sau mai aplecat?
+SPEAKER_01: Păi... nu știu, nu stau chiar drept, cred că mă aplec un pic spre ecran, că nu văd bine poate.
+SPEAKER_00: Și durerea asta, simțiți că se lasă și pe braț în jos, sau rămâne la ceafă și umăr?
+SPEAKER_01: Câteodată simt ceva pe braț, pe partea asta, dar nu știu cum să zic, nu e o durere clară, e mai degrabă un fel de greutate, sau o amorțeală câteodată.
+SPEAKER_00: Amorțeală pe braț pe dreapta. Până unde coboară amorțeala, până la cot, până la mână?
+SPEAKER_01: Nu știu precis. Uneori până pe la cot, parcă. Alteori nu simt nimic acolo, e variabil.
+SPEAKER_00: Variabil, da. Durerea la ceafă e mai rea dimineața sau spre seară?
+SPEAKER_01: Spre seară, după ce stau mult la calculator, atunci e nasol. Dimineața mai bine.
+SPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare insuportabil, cum e durerea când e la maxim?
+SPEAKER_01: La maxim... păi e undeva pe la... nu știu, 6, 7, ceva pe acolo. E suportabilă dar mă deranjează.
+SPEAKER_00: 6-7. Și în general, când nu e la maxim, unde e?
+SPEAKER_01: Poate un 4, nu știu exact. E variabil.
+SPEAKER_00: Am înțeles. Aveți dureri de cap asociate?
+SPEAKER_01: Da, câteodată, mai ales când mă doare tare ceafa, vine și un fel de durere la ceafă care urcă spre cap, pe la spate.
+SPEAKER_00: Înțeles. Ați mai pățit vreodată ceva la gât sau la coloană, un accident, o fractură?
+SPEAKER_01: La gât nu. Am avut o fractură la gleznă acum vreo 10 ani, că am căzut pe scări. A trecut, e bine acum.
+SPEAKER_00: A trecut complet, nu mai aveți probleme la gleznă?
+SPEAKER_01: Nu, nu, de mult s-a rezolvat.
+SPEAKER_00: Bun. Alte probleme de sănătate, tensiune arterială, diabet, probleme cu inima, ceva de genul?
+SPEAKER_01: Nu, nu am nimic din astea. Sunt sănătoasă în rest.
+SPEAKER_00: Intervenții chirurgicale?
+SPEAKER_01: Am scos apendicele acum mulți ani, pe la 15 ani cred. Altceva nu.
+SPEAKER_00: Apendicectomie, înțeles. Luați vreun medicament în momentul de față, ceva pentru durere sau altceva?
+SPEAKER_01: Nu iau nimic. Uneori când mă doare mai tare iau un paracetamol, dar rar, nu am un tratament.
+SPEAKER_00: Rar, ocazional. Alergii?
+SPEAKER_01: Nu știu de niciuna.
+SPEAKER_00: Bun. Haideți să facem câteva teste ca să înțeleg mai bine ce se întâmplă. Stați puțin în picioare, vă rog.
+SPEAKER_01: Ok.
+SPEAKER_00: Vreau să întoarceți capul ușor spre dreapta, încet, cât puteți. Simțiți ceva?
+SPEAKER_01: Da, aici simț o blocare, pe zona asta de la ceafă, nu pot să duc mai departe.
+SPEAKER_00: Nu mergeți prea departe, da. Și spre stânga?
+SPEAKER_01: Merge mai bine spre stânga, da.
+SPEAKER_00: Mai bine spre stânga. Acum ușor dați capul pe spate, extensie.
+SPEAKER_01: Aoleu, asta doare, pe zona asta de la ceafă în jos.
+SPEAKER_00: Doare la extensie, pe zona cervicală inferioară. Bun, mulțumesc. Stați puțin, vă apăs în zona de ceafă, paravertebral, spuneți-mi dacă doare.
+SPEAKER_01: Da, acolo da, doare bine. Pe dreapta mai tare.
+SPEAKER_00: Pe dreapta mai tare. Și pe umăr aici, pe trapez?
+SPEAKER_01: Da, și acolo e o tensiune, da.
+SPEAKER_00: Contractură trapez drept, evident. Acum vă apăs un pic pe umăr pe stânga.
+SPEAKER_01: Mai puțin, da. E ceva dar nu la fel.
+SPEAKER_00: Mai puțin pe stânga. Bun. Acum aș vrea să ridicați brațul drept în față, ușor, cât puteți.
+SPEAKER_01: Merge, dar când ajung sus simt un pic acolo la umăr.
+SPEAKER_00: Simțiți la umăr sus. Și brațul stâng?
+SPEAKER_01: Merge normal.
+SPEAKER_00: Merge normal. Am înțeles. Doamna Marinescu, ce pot să vă spun este că avem o contractură musculară semnificativă la nivelul musculaturii cervicale și a trapezului pe dreapta, cu o mobilitate redusă a coloanei cervicale, mai ales la rotație spre dreapta și la extensie. Amorțeala pe braț sugerează că poate fi și o ușoară iritație pe traiectul nervos, probabil la nivel cervical inferior, dar pentru asta ar fi util să facem la un moment dat și un RMN ca să vedem exact. Ca prim obiectiv, vrem să reducem contractura și tensiunea musculară și să refacem mobilitatea coloanei cervicale.
+SPEAKER_01: Și o să îmi treacă amorțeala?
+SPEAKER_00: Pe măsură ce reducem presiunea pe zona cervicală, în general și amorțeala se ameliorează. Haideți să vedem cum răspundeți după primele ședințe.
+SPEAKER_01: Bine, bine.
+SPEAKER_00: Haideți pe masă, vă rog.

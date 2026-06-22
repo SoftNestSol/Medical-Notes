@@ -1,0 +1,31 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi.\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau a venit treptat?\nSPEAKER_01: Nu știu, treptat, cred.\nSPEAKER_00: A fost vreo lovitură, vreo căzătură, ceva care a declanșat?\nSPEAKER_01: Nu.\nSPEAKER_00: Stați mult la birou?\nSPEAKER_01: Da.\nSPEAKER_00: Câte ore pe zi aproximativ?\nSPEAKER_01: Vreo opt ore.\nSPEAKER_00: Opt ore. Și doare doar în zona gâtului sau se lasă și undeva în jos, pe umăr, pe braț?\nSPEAKER_01: Și pe umărul drept un pic.\nSPEAKER_00: Și pe umărul drept. Amorțeală în braț sau în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e cel mai rău, cum e durerea acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. E mai rău dimineața sau pe parcursul zilei?\nSPEAKER_01: Pe parcurs, după ore la calculator.\nSPEAKER_00: Am înțeles. Luați ceva pentru durere, vreun medicament?\nSPEAKER_01: Ibuprofenul câteodată.\nSPEAKER_00: Ibuprofen. Câtă doză luați?\nSPEAKER_01: Nu știu, cele normale, 400.\nSPEAKER_00: 400 de miligrame. Și luați regulat sau doar când e mai rău?\nSPEAKER_01: Doar când e mai rău.\nSPEAKER_00: Am înțeles. Alte afecțiuni, tensiune mare, diabet, osteoporoză, hernie de disc diagnosticată?\nSPEAKER_01: Nu.\nSPEAKER_00: Nimic. Bun. Haideți să vedem puțin cum stăm. Ridicați-vă, vă rog.\nSPEAKER_01: Da.\nSPEAKER_00: Văd că aveți capul dus un pic în față față de umeri. Încercați să întoarceți capul spre dreapta, cât puteți.\nSPEAKER_01: Până aici.\nSPEAKER_00: Doare?\nSPEAKER_01: Da, trage.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: Merge mai bine.\nSPEAKER_00: Deci rotația spre dreapta e limitată. Acum aplecați capul spre umărul drept.\nSPEAKER_01: Puțin doare.\nSPEAKER_00: Puțin. Apăs ușor pe musculatura din dreapta cefei, spuneți-mi dacă simțiți.\nSPEAKER_01: Da, acolo e.\nSPEAKER_00: Da, simt tensiune musculară clară pe toată zona paravertebrală cervicală dreaptă. Vă voi spune ce observ. Aveți o postură cu capul proiectat anterior, tipică pentru cei care stau mult la birou. Asta încarcă musculatura din ceafă și din umărul drept și de aceea aveți și limitarea spre dreapta. Lucrăm pe reducerea tensiunii musculare și pe corectarea posturii.\nSPEAKER_01: Ok.\nSPEAKER_00: Avem și radiografie sau RMN făcut vreodată pe coloana cervicală?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio investigație. Bun, atunci trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu iradiere în umărul drept, instalată treptat în ultimele două săptămâni, asociată cu munca prelungită la birou",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Postură cu capul proiectat anterior; rotație cervicală spre dreapta limitată și dureroasă; tensiune musculară paravertebrală cervicală dreaptă prezentă la palpare. Diagnostic: cervicalgie cu contractură musculară dreaptă, postură antalgică. Obiective terapeutice: reducerea tensiunii musculare, corectarea posturii."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "De vreo două săptămâni.", "treptat, cred.", "Și pe umărul drept un pic.", "Stați mult la birou?", "Da.", "Vreo opt ore."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și pe umărul drept un pic."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Ibuprofenul câteodată.", "cele normale, 400."],
+    "evaluare_functionala_initiala": ["Văd că aveți capul dus un pic în față față de umeri.", "rotația spre dreapta e limitată.", "simt tensiune musculară clară pe toată zona paravertebrală cervicală dreaptă.", "Aveți o postură cu capul proiectat anterior, tipică pentru cei care stau mult la birou.", "Lucrăm pe reducerea tensiunii musculare și pe corectarea posturii."]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "conversation_id": "synth_444",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "Sus, la ceafă mai mult.",
+      "poate de la calculator. Stau mult la birou."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Sus, la ceafă mai mult.",
+      "Uneori mă doare și capul.",
+      "În spate, la ceafă tot."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "observ că umerii sunt ușor căzuți în față și capul e dus puțin înainte față de linia umerilor",
+      "trapezul drept e mai contractat",
+      "Vom lucra să reducem contractura și să refacem mobilitatea pe rotația spre dreapta"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13823,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 1852,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

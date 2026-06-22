@@ -1,0 +1,46 @@
+{
+  "conversation_id": "synth_450",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere la gât, la ceafă, de vreo trei săptămâni",
+      "simt și umărul drept că trage"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum e cam un 5, dar dimineața când mă trezesc e mai rău, poate un 7"
+    ],
+    "localizarea_durerii": [
+      "am o durere la gât, la ceafă",
+      "Se duce uneori și în cap, la ceafă sus",
+      "simt și umărul drept că trage"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "am hipertensiune. De vreo doi ani de zile"
+    ],
+    "antecedente_altele": [
+      "am un pic de colesterol, mi-a zis doctorul, dar nu iau nimic pentru el momentan"
+    ],
+    "medicatie_actuala": [
+      "iau Amlodipină, cinci miligrame, în fiecare dimineață"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară destul de importantă la nivelul mușchilor cervicali, mai ales pe partea dreaptă, trapez și suboccipitali",
+      "Rotația spre dreapta e limitată față de cât ar trebui să fie",
+      "Obiectivul nostru în primele ședințe este să reducem contractura musculară și să refacem mobilitatea pe rotație spre dreapta. Lucrăm și pe postură."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13823,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 3520,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

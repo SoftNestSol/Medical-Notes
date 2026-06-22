@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "Durere cervicală cu iradiere pe umărul drept, apărută după somn viciat, de aproximativ două săptămâni",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Contractură trapez drept și paravertebrali cervicali; mobilitate de rotație cervicală spre dreapta limitată și dureroasă; extensie cervicală dureroasă. Obiective terapeutice: relaxarea musculaturii cervicale și a trapezului, reducerea durerii."
+}

@@ -1,0 +1,373 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 6.36,
+      "speaker": "SPEAKER_00",
+      "text": "Luați loc, vă rog. Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 6.48,
+      "end": 20.16,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, de unde să încep... Am o durere la umăr, la umărul drept, de vreo trei săptămâni încoace. Da' de fapt poate de mai mult, că eu am tot amânat să vin, ziceam că trece singură."
+    },
+    {
+      "start": 20.28,
+      "end": 22.18,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și nu a trecut."
+    },
+    {
+      "start": 22.3,
+      "end": 34.08,
+      "speaker": "SPEAKER_01",
+      "text": "Nu a trecut, ba chiar mi se pare că s-a mai înrăutățit în ultima săptămână. Mai ales că la serviciu stau mult la calculator și nu cred că mă ajută."
+    },
+    {
+      "start": 34.2,
+      "end": 39.52,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Durerea e strict la umăr sau se lasă și pe braț în jos?"
+    },
+    {
+      "start": 39.64,
+      "end": 48.76,
+      "speaker": "SPEAKER_01",
+      "text": "Se lasă și pe braț, da. Până pe la cot, cam așa. Uneori și mai jos, dar mai rar, nu știu dacă e legat."
+    },
+    {
+      "start": 48.88,
+      "end": 53.06,
+      "speaker": "SPEAKER_00",
+      "text": "Pe ce parte a brațului? Pe față, pe spate, pe lateral?"
+    },
+    {
+      "start": 53.18,
+      "end": 61.16,
+      "speaker": "SPEAKER_01",
+      "text": "Pe lateral, mai mult. Și un pic pe față. Da' în umăr e mai rău, acolo simt că mă strânge ceva."
+    },
+    {
+      "start": 61.28,
+      "end": 65.08,
+      "speaker": "SPEAKER_00",
+      "text": "Și când e mai rău? Dimineața, seara, în timpul mișcării?"
+    },
+    {
+      "start": 65.2,
+      "end": 77.74,
+      "speaker": "SPEAKER_01",
+      "text": "Când ridic mâna, când încerc să ajung ceva sus, de exemplu pe raftul de sus în bucătărie. Și noaptea, că mă trezesc dacă stau pe partea dreaptă. Deci dorm numai pe stânga acum."
+    },
+    {
+      "start": 77.86,
+      "end": 85.46,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Pe o scară de la 0 la 10, 0 fără durere, 10 durere maximă, cum ați evalua-o acum?"
+    },
+    {
+      "start": 85.58,
+      "end": 93.18,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, în repaus? Poate un 4. Dar când ridic mâna sau fac mișcarea aia, urcă la 7, 7 și jumătate."
+    },
+    {
+      "start": 93.3,
+      "end": 95.96,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, deci la mișcare ajunge la 7."
+    },
+    {
+      "start": 96.08,
+      "end": 99.12,
+      "speaker": "SPEAKER_01",
+      "text": "Da, 7 sigur. Câteodată mai mult, dar rar."
+    },
+    {
+      "start": 99.24,
+      "end": 104.56,
+      "speaker": "SPEAKER_00",
+      "text": "Există vreun eveniment care să fi declanșat durerea? O mișcare bruscă, o căzătură, ceva?"
+    },
+    {
+      "start": 104.68,
+      "end": 121.4,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, sincer. N-am căzut, n-am lovit nimic. Poate... am mutat niște cutii la birou, acum vreo lună, și am carat ceva mai greu. Dar nu m-a durut imediat, a apărut după câteva zile, de aia nu știam dacă e legat."
+    },
+    {
+      "start": 121.52,
+      "end": 127.6,
+      "speaker": "SPEAKER_00",
+      "text": "Posibil să fie legat, da. Și înainte de asta nu mai aveați dureri la umărul drept?"
+    },
+    {
+      "start": 127.72,
+      "end": 135.7,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu. Păi eu n-am mai avut probleme la umăr niciodată. La spate am mai avut, da' la umăr nu."
+    },
+    {
+      "start": 135.82,
+      "end": 138.1,
+      "speaker": "SPEAKER_00",
+      "text": "La spate unde, în ce zonă?"
+    },
+    {
+      "start": 138.22,
+      "end": 145.82,
+      "speaker": "SPEAKER_01",
+      "text": "Lombar, mai demult. Acum vreo doi ani am avut o perioadă mai nasoală, dar a trecut. Nu mai am acum."
+    },
+    {
+      "start": 145.94,
+      "end": 151.64,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și la umărul drept, simțiți și amorțeală sau furnicături pe braț sau pe mână?"
+    },
+    {
+      "start": 151.76,
+      "end": 160.5,
+      "speaker": "SPEAKER_01",
+      "text": "Furnicături nu prea, dar simt că brațul e mai... cum să zic... mai greu, mai obosit decât stângul. Parcă nu am aceeași forță."
+    },
+    {
+      "start": 160.62,
+      "end": 164.04,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Ați mai făcut radiografie sau RMN la umăr?"
+    },
+    {
+      "start": 164.16,
+      "end": 181.64,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am făcut nimic. Am zis să vin mai întâi la dumneavoastră să văd ce ziceți și după vedem. Soția mea a venit la dumneavoastră acum câteva luni pentru un genunchi și a zis că i-a prins bine, de aia am venit și eu."
+    },
+    {
+      "start": 181.76,
+      "end": 185.56,
+      "speaker": "SPEAKER_00",
+      "text": "Bine ați făcut. Alte afecțiuni aveți? Tensiune, diabet, probleme cardiace?"
+    },
+    {
+      "start": 185.68,
+      "end": 194.42,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea. Sunt relativ sănătos, mulțumesc lui Dumnezeu. Păi am 38 de ani, nu-mi permit să fiu bolnav."
+    },
+    {
+      "start": 194.54,
+      "end": 197.2,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și operații, fracturi, ceva în antecedente?"
+    },
+    {
+      "start": 197.32,
+      "end": 212.14,
+      "speaker": "SPEAKER_01",
+      "text": "Am avut o fractură la claviculă, la clavicula dreaptă, acum vreo zece ani, după un accident de bicicletă. S-a vindecat bine, mi-au zis că a mers bine fără operație. Da' mă gândesc eu, oare nu are legătură?"
+    },
+    {
+      "start": 212.26,
+      "end": 219.86,
+      "speaker": "SPEAKER_00",
+      "text": "E posibil să existe o legătură, da, mai ales că e tot pe partea dreaptă. Vom ține cont de asta."
+    },
+    {
+      "start": 219.98,
+      "end": 232.9,
+      "speaker": "SPEAKER_01",
+      "text": "Că eu asta mă tot întreb de când a început să mă doară, zic oare nu s-a stricat ceva pe acolo de atunci și acum iese la iveală. Nu știu, probabil sunt paranoic."
+    },
+    {
+      "start": 233.02,
+      "end": 237.58,
+      "speaker": "SPEAKER_00",
+      "text": "Nu sunteți paranoic, e o întrebare bună. Luați vreun medicament în prezent?"
+    },
+    {
+      "start": 237.7,
+      "end": 246.44,
+      "speaker": "SPEAKER_01",
+      "text": "Nu iau nimic. Am luat un ibuprofen acum vreo săptămână că m-a durut mai tare, o dată, dar asta a fost tot."
+    },
+    {
+      "start": 246.56,
+      "end": 248.46,
+      "speaker": "SPEAKER_00",
+      "text": "Deci nu aveți tratament continuu."
+    },
+    {
+      "start": 248.58,
+      "end": 252.76,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu. Eu nu prea iau pastile dacă nu e nevoie."
+    },
+    {
+      "start": 252.88,
+      "end": 253.68,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Alergii?"
+    },
+    {
+      "start": 253.8,
+      "end": 255.7,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu de nicio alergie."
+    },
+    {
+      "start": 255.82,
+      "end": 261.9,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să facem câteva mișcări să văd cum stăm. Ridicați brațul drept în față, încet."
+    },
+    {
+      "start": 262.02,
+      "end": 265.44,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici merge, mai sus deja... da, aici doare."
+    },
+    {
+      "start": 265.56,
+      "end": 268.6,
+      "speaker": "SPEAKER_00",
+      "text": "Deci la aproximativ 90 de grade apare durerea."
+    },
+    {
+      "start": 268.72,
+      "end": 271.76,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam de la nivelul ăsta în sus."
+    },
+    {
+      "start": 271.88,
+      "end": 274.54,
+      "speaker": "SPEAKER_00",
+      "text": "Acum duceți brațul pe lateral, în laterală."
+    },
+    {
+      "start": 274.66,
+      "end": 279.6,
+      "speaker": "SPEAKER_01",
+      "text": "La fel, cam la același nivel. Auuu, da, pe lateral e mai rău."
+    },
+    {
+      "start": 279.72,
+      "end": 287.32,
+      "speaker": "SPEAKER_00",
+      "text": "Pe lateral e mai intens. Bun. Acum puneți mâna la spate, ca și cum ați încerca să vă prindeți centura."
+    },
+    {
+      "start": 287.44,
+      "end": 293.9,
+      "speaker": "SPEAKER_01",
+      "text": "Asta merge mai bine, nu doare la fel de tare. Mai mult simt că mă trage ceva."
+    },
+    {
+      "start": 294.02,
+      "end": 298.96,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Stați un moment, vreau să apăs câteva zone. Spuneți-mi dacă doare."
+    },
+    {
+      "start": 299.08,
+      "end": 299.88,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 300.0,
+      "end": 302.66,
+      "speaker": "SPEAKER_00",
+      "text": "Aici, pe zona aceasta de sub acromion?"
+    },
+    {
+      "start": 302.78,
+      "end": 305.82,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo doare, da. Asta e exact punctul."
+    },
+    {
+      "start": 305.94,
+      "end": 308.22,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Și aici pe biceps, tendonul?"
+    },
+    {
+      "start": 308.34,
+      "end": 311.0,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic, nu la fel de tare."
+    },
+    {
+      "start": 311.12,
+      "end": 316.44,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ridicați brațul, eu îl țin, încercați să împingeți în sus contra rezistenței mele."
+    },
+    {
+      "start": 316.56,
+      "end": 323.78,
+      "speaker": "SPEAKER_01",
+      "text": "Simt că nu am forță la fel ca pe stânga. Nu doare când fac asta, dar e mai slab."
+    },
+    {
+      "start": 323.9,
+      "end": 328.84,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și o ultimă mișcare, duceți brațul drept peste corp, spre umărul stâng."
+    },
+    {
+      "start": 328.96,
+      "end": 332.0,
+      "speaker": "SPEAKER_01",
+      "text": "Da, asta doare și ea, pe aici undeva."
+    },
+    {
+      "start": 332.12,
+      "end": 372.02,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, am înțeles tabloul. Deci ceea ce avem pare a fi o afectare a manșetei rotatorilor, mai precis a tendonului supraspinosului, cu o posibilă iritație subacromială. Limitarea apare mai ales la abducție și flexie peste 90 de grade, și testul de compresie subacromială este pozitiv. Ținând cont că aveți în antecedente acea fractură de claviculă dreaptă, există posibilitatea unui mic dezechilibru biomecanic în zona umărului care a favorizat supraîncărcarea în timp. Obiectivul nostru va fi să reducem inflamația din spațiul subacromiai, să relaxăm musculatura periarticulară, trapez, deltoid, supraspinat, și să refacem mobilitatea completă a articulației. Probabil vor fi necesare câteva ședințe, să vedem cum răspundeți."
+    },
+    {
+      "start": 372.14,
+      "end": 379.74,
+      "speaker": "SPEAKER_01",
+      "text": "Și cât de repede poate să treacă? Că am un concediu în două luni și aș vrea să fiu ok."
+    },
+    {
+      "start": 379.86,
+      "end": 387.84,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde cum răspundeți la terapie, dar cu constanță în două luni ar trebui să fiți semnificativ mai bine. Haideți să începem."
+    },
+    {
+      "start": 387.96,
+      "end": 399.36,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, bun. Și să știți că am mai am puțin scolioză, mi-a spus un doctor acum mulți ani că am o curbură ușoară, da' nu m-a deranjat niciodată."
+    },
+    {
+      "start": 399.48,
+      "end": 407.46,
+      "speaker": "SPEAKER_00",
+      "text": "Am notat. O să țin cont și de asta când lucrăm pe postură. Bun, vă rog să vă dați jos tricoul."
+    }
+  ]
+}

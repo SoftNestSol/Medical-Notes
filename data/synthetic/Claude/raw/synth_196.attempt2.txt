@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi cu ce problemă ne vedem azi.\nSPEAKER_01: Bună ziua. Păi, mă doare umărul stâng de vreo două săptămâni. Adică nu știu exact cum am pățit-o, poate de la serviciu, stau mult la birou, am un laptop și mereu întorc capul să mă uit la al doilea monitor care e în stânga mea și... nu știu, m-am trezit într-o dimineață și nu mai puteam ridica brațul.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Aș zice un 7. Adică nu mă lasă să dorm pe partea stângă, mă trezesc noaptea. Și ieri am vrut să pun ceva pe raft sus și... nu, n-a mers, a durut tare.\nSPEAKER_00: Doare doar umărul sau se lasă și pe braț?\nSPEAKER_01: Mai mult umărul, pe aici, pe partea din față. Dar uneori simt ceva și până la cot, nu știu dacă e legat.\nSPEAKER_00: Amorțeală în braț sau în mână?\nSPEAKER_01: Nu, amorțeală nu. Cel puțin nu am observat.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am, da. Iau Enalapril de vreo trei ani. Altceva... hm, nu cred. A, și am făcut acum doi ani o ecografie la umăr că mă mai durea și atunci, și mi-a zis doctorul că am o mică tendinită la biceps, dar a trecut singură atunci.\nSPEAKER_00: Și acum, aceeași parte?\nSPEAKER_01: Da, tot stângul. Mă gândeam dacă nu e ceva mai grav acum, că nu mai trece singur ca data trecută. Soția mea zice să mă duc la ortoped, dar am venit mai întâi aici.\nSPEAKER_00: Înțeleg. Altă medicație în afară de Enalapril?\nSPEAKER_01: Nu, nimic altceva. Uneori iau un ibuprofen când mă doare tare, dar nu regulat.\nSPEAKER_00: Ridicați brațul, vă rog, încet în față... până unde puteți.\nSPEAKER_01: Până pe aici. Mai sus deja doare.\nSPEAKER_00: Ok. Și lateral?\nSPEAKER_01: Ăsta și mai puțin, mai doare pe lateral.\nSPEAKER_00: Stați puțin, apăs pe zona asta... doare?\nSPEAKER_01: Da, exact acolo e. Și dacă apăsați mai sus, pe vârf?\nSPEAKER_00: Și acolo, da?\nSPEAKER_01: Un pic mai puțin. Dar tot doare.\nSPEAKER_00: Bun. Pare o inflamație la nivelul umărului stâng, probabil tendinopatia coifului rotatorilor sau bursită subacromială. O să lucrăm să reducem inflamația și să recuperăm mobilitatea.\nSPEAKER_01: Ok. Adică nu e ceva rupt? Că mă gândeam că poate am rupt ceva și nu știu.\nSPEAKER_00: Din ce văd la testare nu pare o ruptură completă, dar dacă nu răspunde la tratament, o să vă recomand să faceți o ecografie.\nSPEAKER_01: Bine, bine. Și cât timp durează până trece?\nSPEAKER_00: Depinde, dar cu câteva ședințe ar trebui să simțiți o îmbunătățire. Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng de aproximativ două săptămâni, cu limitarea mobilității la ridicarea brațului, apărută probabil din postura la birou. Perturbă somnul pe partea stângă.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": "tendinită biceps stâng în antecedente (acum doi ani, remisie spontană)",
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinopatie coif rotatori / bursită subacromială umăr stâng\nObiective terapeutice:\n- reducerea inflamației\n- recuperarea mobilității umărului stâng"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul stâng de vreo două săptămâni",
+      "m-am trezit într-o dimineață și nu mai puteam ridica brațul",
+      "nu mă lasă să dorm pe partea stângă"
+    ],
+    "evaluarea_durerii_vas": [
+      "Aș zice un 7."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul stâng",
+      "Mai mult umărul, pe aici, pe partea din față"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am, da."
+    ],
+    "antecedente_altele": [
+      "mi-a zis doctorul că am o mică tendinită la biceps, dar a trecut singură atunci",
+      "acum doi ani o ecografie la umăr că mă mai durea și atunci"
+    ],
+    "medicatie_actuala": [
+      "Iau Enalapril de vreo trei ani."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare o inflamație la nivelul umărului stâng, probabil tendinopatia coifului rotatorilor sau bursită subacromială.",
+      "O să lucrăm să reducem inflamația și să recuperăm mobilitatea."
+    ]
+  }
+}

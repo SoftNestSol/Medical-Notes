@@ -1,0 +1,43 @@
+{
+  "conversation_id": "synth_185",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel stâng. De vreo trei săptămâni acum. A început cam pe la jumătatea lunii trecute, după ce am zugrăvit la baie. Am stat cu mâna ridicată ore întregi"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în momentul ăsta, dacă stau liniștit, un 3, poate. Dar dacă ridic brațul sau mă întind după ceva, ajunge la un 7, chiar 8."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel stâng"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "eu am tensiune, iau și pastile pentru asta",
+      "Doar tensiunea asta de vreo cinci ani."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Prestarium, 5 miligrame, în fiecare dimineață.",
+      "ibuprofenul ăla acum, de două zile"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o limitare importantă a mobilității pe toate planurile, cu durere la capătul de amplitudine. Pare o tendinopatie sau o inflamație la nivelul coafei rotatorilor. O să lucrăm să reducem inflamația și să recuperăm mișcarea.",
+      "Aproximativ 90 de grade.",
+      "Nu ajung nici la centură."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23026,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 1994,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

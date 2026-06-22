@@ -1,0 +1,49 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Păi, am o durere jos de tot, la baza coloanei, chiar pe coccis, adică exact acolo unde stau pe scaun. Și am stat să mă gândesc dacă merită să vin, pentru că ziceam că poate trece singură, dar iată că nu a trecut.\nSPEAKER_00: De cât timp o aveți?\nSPEAKER_01: De vreo trei săptămâni, poate patru. A început după ce am stat o zi întreagă în mașină, am mers cu soțul meu la Sibiu și înapoi, deci vreo opt ore pe scaun. Și de atunci mă doare, mai ales când stau jos.\nSPEAKER_00: Înțeleg. Și durerea e mai mult la stat pe scaun sau și în alte situații?\nSPEAKER_01: În principal când stau pe scaun, da. Dar și când mă ridic, în momentul ăla de tranziție, e groaznic, adică simt o înțepătură puternică exact acolo jos. Și mai e și noaptea, dacă mă întorc pe o parte, uneori mă trezesc din somn.\nSPEAKER_00: Înțepătură localizată sau se lasă și pe picior, pe fesă?\nSPEAKER_01: Nu, nu, rămâne acolo jos. Cel mult câteodată simt ceva și mai sus pe spate, dar asta cred că e de la tensiune, că și spatele mă mai supără uneori. Dar durerea principală e jos, pe coccis.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum o estimați?\nSPEAKER_01: Când stau pe scaun mai mult de zece minute, ușor zece. Adică nu mai pot sta. Dar dacă stau în picioare sau merg, e mai suportabil, un 3 poate.\nSPEAKER_00: Bun. Ați căzut vreodată pe acea zonă, vreun traumatism mai vechi?\nSPEAKER_01: Ah, da, bună întrebare, acum vreo cinci ani am alunecat pe gheață și am căzut exact pe fund. A durut câteva zile și a trecut. Nu m-am dus la doctor atunci, că m-am gândit că nu e nimic grav. Poate de-acolo a rămas ceva?\nSPEAKER_00: Posibil, da. Alte afecțiuni, tensiune, diabet, ceva de genul?\nSPEAKER_01: Nu, nimic. Sunt relativ sănătoasă, adică mai am eu câteodată dureri de cap, de la stres probabil, dar altceva nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Păi am luat Ibuprofen câteva zile la început, că nu mai puteam, dar acum nu mai iau nimic. Am și un gel, Voltaren, pe care îl pun seara, mai ajută un pic.\nSPEAKER_00: Înțeleg. Hai să facem câteva verificări. Puteți să vă ridicați, vă rog, în picioare?\nSPEAKER_01: Da. Uite, și când mă ridic acum doare.\nSPEAKER_00: Văd că aveți o ușoară anteversiede bazin. Stați puțin drept, cu mâinile pe lângă corp.\nSPEAKER_01: Aha, da, mi-a mai zis cineva că stau cocoșată.\nSPEAKER_00: Apăs acum ușor în zona coccisului, îmi spuneți dacă reproduce durerea.\nSPEAKER_01: Da, exact asta e, acolo.\nSPEAKER_00: Și mai sus, la sacral?\nSPEAKER_01: Mai puțin, dar e și acolo ceva.\nSPEAKER_00: Ok. Când vă aplecați în față, doare?\nSPEAKER_01: Nu, nu, în față e ok.\nSPEAKER_00: Bun. Deci avem o sensibilitate clară la nivelul coccisului și sacrului, cu un istoric de traumatism vechi. Cel mai probabil avem o coccigodinie, posibil pe fond de traumatism vechi, agravată acum de poziția prelungită în mașină. Trebuie să lucrăm zona pentru a reduce inflamația locală și să vedem cum răspunde.\nSPEAKER_01: Și o să treacă? Adică nu rămân cu asta toată viața?\nSPEAKER_00: Cu tratament adecvat ar trebui să se amelioreze semnificativ. Hai să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere la nivelul coccisului și sacrului, apărută după o călătorie lungă cu mașina (aproximativ 8 ore), prezentă de circa 3-4 săptămâni. Durere intensă la stat pe scaun și la trecerea din șezut în ortostatism; ameliorată în mers și ortostatism. Antecedent de cădere pe gheață cu traumatism direct pe coccis acum circa 5 ani.",
+    "evaluarea_durerii_vas": [10, 3],
+    "localizarea_durerii": ["sacral_coccis"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nAnteversie de bazin observată în ortostatism. Sensibilitate la palpare directă în zona coccisului și sacrului. Fără durere la flexia anterioară a trunchiului.\nDiagnostic:\nCoccigodinie, posibil pe fond de traumatism vechi, agravată de poziția prelungită în șezut.\nObiective terapeutice:\nReducerea inflamației locale la nivelul coccisului și sacrului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere jos de tot, la baza coloanei, chiar pe coccis, adică exact acolo unde stau pe scaun",
+      "A început după ce am stat o zi întreagă în mașină, am mers cu soțul meu la Sibiu și înapoi, deci vreo opt ore pe scaun",
+      "De vreo trei săptămâni, poate patru",
+      "acum vreo cinci ani am alunecat pe gheață și am căzut exact pe fund"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când stau pe scaun mai mult de zece minute, ușor zece",
+      "dacă stau în picioare sau merg, e mai suportabil, un 3 poate"
+    ],
+    "localizarea_durerii": [
+      "durerea principală e jos, pe coccis",
+      "Apăs acum ușor în zona coccisului, îmi spuneți dacă reproduce durerea",
+      "Da, exact asta e, acolo",
+      "Și mai sus, la sacral? Mai puțin, dar e și acolo ceva"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am și un gel, Voltaren, pe care îl pun seara, mai ajută un pic"
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți o ușoară anteversiede bazin",
+      "avem o sensibilitate clară la nivelul coccisului și sacrului, cu un istoric de traumatism vechi",
+      "Cel mai probabil avem o coccigodinie, posibil pe fond de traumatism vechi, agravată acum de poziția prelungită în mașină",
+      "Trebuie să lucrăm zona pentru a reduce inflamația locală",
+      "Când vă aplecați în față, doare? Nu, nu, în față e ok"
+    ]
+  }
+}

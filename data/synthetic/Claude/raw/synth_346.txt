@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamna!\nSPEAKER_01: Bună ziua!\nSPEAKER_00: Spuneți-mi și mie numele, vă rog.\nSPEAKER_01: Munteanu Raluca.\nSPEAKER_00: Munteanu Raluca, și vârsta dacă se poate?\nSPEAKER_01: 38 de ani. Nici nu se vede, nu?\nSPEAKER_00: Haha, nu, nu se vede deloc. Cu ce problemă ne vedem azi?\nSPEAKER_01: Păi, am o durere la umăr, la cel drept, de vreo trei săptămâni. Inițial am crezut că trece singură, că am mai avut și altădată câte ceva și a trecut, dar de data asta nu trece și a început să mă deranjeze destul de tare, mai ales noaptea când stau pe partea aia.\nSPEAKER_00: Înțeles. Și durerea e localizată fix la umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Se lasă și pe braț, da, pe partea din față, cam până la cot, dar la cot nu doare, adică se oprește undeva pe la mijlocul brațului.\nSPEAKER_00: Pe mijlocul brațului. Și în spate, spre omoplat, simțiți ceva?\nSPEAKER_01: Da, și acolo, că am o tensiune, cum să zic, parcă e o apăsare acolo. Nu neapărat durere, mai mult o senzație de tensiune.\nSPEAKER_00: Ok. De la ce a început, știți? Ați ridicat ceva greu, ați făcut vreun efort?\nSPEAKER_01: Sincer nu știu exact. Eu lucrez la birou, stau mult la calculator, și la un moment dat am simțit că mă doare. Nu am făcut nimic spectaculos. Poate de la statut, că stau cu umărul așa, un pic ridicat, și soțul meu zice mereu că am o postură greșită, dar eu nu cred că e chiar atât de... oricum.\nSPEAKER_00: Da, postura poate contribui. Ați făcut ceva pentru durere până acum?\nSPEAKER_01: Am pus un gel, un Voltaren, de câteva ori, și a mai ameliorat un pic, dar nu dispare. Și am evitat să ridic lucruri grele, că mă tem că agravez ceva.\nSPEAKER_00: Bine că ați venit. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare doare?\nSPEAKER_01: Ei, în mod normal, în timpul zilei, un 4. Noaptea când mă întorc pe partea dreaptă e un 7 și mă trezesc.\nSPEAKER_00: Deci 4 ziua și 7 noaptea.\nSPEAKER_01: Da, cam așa.\nSPEAKER_00: Alte afecțiuni aveți, tensiune, diabet, ceva de genul?\nSPEAKER_01: Nu, sunt sănătoasă, mulțumesc lui Dumnezeu. Adică am avut o perioadă cu ceva anemie ușoară, dar a trecut, acum e bine.\nSPEAKER_00: Medicamente luați în mod curent?\nSPEAKER_01: Nu, nimic în mod regulat. Doar Voltarenul ăla de care v-am spus, din când în când.\nSPEAKER_00: Înțeles. Haideți să facem câteva teste, ridicați-mi brațul drept în față, ușor.\nSPEAKER_01: Până aici pot, dincolo mă doare.\nSPEAKER_00: Până la orizontală merge, da? Peste orizontală apare durerea.\nSPEAKER_01: Exact, și mă mai e frică să forțez, că nu știu ce am acolo, nu am făcut ecografie sau nimic.\nSPEAKER_00: Acum o să apăs ușor în zona asta, pe tendonul bicepsului. Doare?\nSPEAKER_01: Ăăă, da, da, doare.\nSPEAKER_00: Și dacă apăs aici, pe supraspinat?\nSPEAKER_01: Acolo e mai rău, da.\nSPEAKER_00: Bun. Rotiți-mi brațul spre exterior, ușor.\nSPEAKER_01: Merge un pic, dar dacă forțez apare durerea pe față, la umăr.\nSPEAKER_00: Pe față la umăr. Ok. Ce pot să vă spun este că avem o inflamație la nivelul tendoanelor din zona umărului, mai precis la supraspinat și la capul lung al bicepsului. E o tendinopatie destul de comună, mai ales la cei care stau mult la birou și au o postură a umărului ridicat cum descrieți.\nSPEAKER_01: Serios? Adică e ceva grav? Că mă temeam că am rupt ceva, am citit pe internet și m-am speriat...\nSPEAKER_00: Nu, nu e ruptură, e o inflamație. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului. Ar fi util și o ecografie pentru a confirma, dar putem începe terapia și acum.\nSPEAKER_01: Ok, bine, mă bucur că nu e ceva grav. Și cât de multe ședințe credeti că îmi trebuie?\nSPEAKER_00: Depinde cum răspunde, dar în general 4-6 ședințe. Haideți să trecem la treabă.\nSPEAKER_01: Da, da, gata.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept, cu iradiere pe brat, de aproximativ trei saptamani",
+    "evaluarea_durerii_vas": [4, 7],
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "iradiere pe fata bratului drept pana la mijlocul bratului; tensiune zona omoplat drept",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinopatie supraspinat si cap lung biceps drept; inflamatie tendoane zona umar drept.\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii umárului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["am o durere la umăr, la cel drept, de vreo trei săptămâni"],
+    "evaluarea_durerii_vas": ["în mod normal, în timpul zilei, un 4. Noaptea când mă întorc pe partea dreaptă e un 7"],
+    "localizarea_durerii": ["am o durere la umăr, la cel drept"],
+    "localizarea_durerii_alta": ["Se lasă și pe braț, da, pe partea din față, cam până la cot", "am o tensiune, cum să zic, parcă e o apăsare acolo", "în spate, spre omoplat, simțiți ceva?", "Da, și acolo"],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am pus un gel, un Voltaren, de câteva ori"],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendoanelor din zona umărului, mai precis la supraspinat și la capul lung al bicepsului", "Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului"]
+  }
+}

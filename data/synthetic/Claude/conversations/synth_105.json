@@ -1,0 +1,157 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, spuneți-mi cu ce problemă vă confruntați."
+    },
+    {
+      "start": 3.54,
+      "end": 22.92,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua. Păi, mă doare umărul stâng de vreo două săptămâni, cam de când am mutat mobila, că mi-am schimbat apartamentul și am carat tot felul de lucruri grele, cutii, canapea, frigider, practic tot, nu am avut cine să mă ajute mai mult și acum mă doare rău de tot."
+    },
+    {
+      "start": 23.04,
+      "end": 27.98,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Pe o scară de la 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 28.1,
+      "end": 49.38,
+      "speaker": "SPEAKER_01",
+      "text": "Eu zic că un 7. Adică nu mă trezește noaptea, dar dacă ridic mâna sau fac o mișcare mai bruscă, mă ia un junghi. Și sincer mă tem că am rupt ceva acolo, un tendon sau nu știu, am citit pe internet și am văzut că se poate rupe manșeta rotatorilor și m-am speriat tare."
+    },
+    {
+      "start": 49.5,
+      "end": 52.16,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ridicați mâna stângă sus, cât puteți."
+    },
+    {
+      "start": 52.28,
+      "end": 59.5,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe aici pot, după aia doare. Cam la 90 de grade, deci orizontal, de acolo nu mai pot."
+    },
+    {
+      "start": 59.62,
+      "end": 63.04,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe lateral? Ridicați-o lateral, departe de corp."
+    },
+    {
+      "start": 63.16,
+      "end": 66.96,
+      "speaker": "SPEAKER_01",
+      "text": "La fel, cam pe aici se oprește, dă un junghi."
+    },
+    {
+      "start": 67.08,
+      "end": 69.74,
+      "speaker": "SPEAKER_00",
+      "text": "Doare și în repaus, când stați nemișcat?"
+    },
+    {
+      "start": 69.86,
+      "end": 81.26,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, da, o durere surdă. Adică dacă stau liniștit nu mă omoară, dar tot simt ceva acolo. Noaptea dacă mă întorc pe umărul ăsta mă doare și mă trezesc."
+    },
+    {
+      "start": 81.38,
+      "end": 85.56,
+      "speaker": "SPEAKER_00",
+      "text": "Pe unde doare mai exact, în față, în spate, în vârf?"
+    },
+    {
+      "start": 85.68,
+      "end": 94.8,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult pe aici, pe partea din față și puțin în sus, spre vârf. Nu se lasă pe braț în jos, rămâne acolo localizat."
+    },
+    {
+      "start": 94.92,
+      "end": 99.1,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Aveți și alte probleme de sănătate, tensiune, diabet, osteoporoză, ceva?"
+    },
+    {
+      "start": 99.22,
+      "end": 113.66,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da, de vreo trei ani. Iau Enalapril zilnic pentru asta. Altceva nu știu, mi s-a zis că am colesterolul puțin ridicat dar nu iau nimic pentru el deocamdată, medicul mi-a zis să țin dietă."
+    },
+    {
+      "start": 113.78,
+      "end": 116.06,
+      "speaker": "SPEAKER_00",
+      "text": "Fracturat sau operat vreodată la umăr?"
+    },
+    {
+      "start": 116.18,
+      "end": 134.8,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată. Dar am mai avut ceva dureri la umărul ăsta acum vreo doi ani, după ce am jucat tenis cu un prieten, și mi-a trecut singură după câteva zile, nu am mers la doctor atunci. Poate era ceva și atunci dar nu știu, nu m-am îngrijit."
+    },
+    {
+      "start": 134.92,
+      "end": 140.24,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Stați puțin cu brațul lângă corp și rezistați când împing eu spre interior."
+    },
+    {
+      "start": 140.36,
+      "end": 141.88,
+      "speaker": "SPEAKER_01",
+      "text": "Doare, da, simț acolo."
+    },
+    {
+      "start": 142.0,
+      "end": 149.22,
+      "speaker": "SPEAKER_00",
+      "text": "Și acum ridic eu brațul la 90 de grade și vă rog să rezistați când eu apas în jos."
+    },
+    {
+      "start": 149.34,
+      "end": 152.0,
+      "speaker": "SPEAKER_01",
+      "text": "Au. Da, doare, mai ales pe față."
+    },
+    {
+      "start": 152.12,
+      "end": 168.46,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Avem o inflamație la nivelul tendonului supraspinos, cel mai probabil, cu iritația bursei subacromiale. Nu e o ruptură, cel mai probabil, pentru că forța e prezentă, doar că doare la efort. O să lucrăm să reducem inflamația și să recuperăm mobilitatea completă."
+    },
+    {
+      "start": 168.58,
+      "end": 177.32,
+      "speaker": "SPEAKER_01",
+      "text": "Adică nu e ruptă manșeta? Mă bucur, că m-am speriat de moarte când am citit pe internet. Dar o să treacă sigur?"
+    },
+    {
+      "start": 177.44,
+      "end": 182.76,
+      "speaker": "SPEAKER_00",
+      "text": "Da, cu tratament corect evoluează bine. Evitați deocamdată mișcările cu mâna ridicată deasupra capului."
+    },
+    {
+      "start": 182.88,
+      "end": 187.44,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, înțeles. Și cu tenisul, pot să mai joc sau mă las?"
+    },
+    {
+      "start": 187.56,
+      "end": 189.08,
+      "speaker": "SPEAKER_00",
+      "text": "Deocamdată pauză la tenis."
+    }
+  ]
+}

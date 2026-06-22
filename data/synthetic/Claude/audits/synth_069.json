@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_069",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare pe aici, la spate, undeva la mijloc, nu știu exact cum să spun, un pic mai jos de omoplați, cam pe acolo",
+      "Stau mult la birou și poate de-acolo",
+      "Uneori simt că se trage și mai jos, spre brâu"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "un pic mai jos de omoplați, cam pe acolo",
+      "Uneori simt că se trage și mai jos, spre brâu, dar nu știu dacă e tot una sau altceva"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "tensiunea o am un pic mărită, medicul mi-a spus la ultimul control, dar nu iau nimic deocamdată"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau uneori un Ibuprofen când mă doare tare",
+      "cele normale, 400, cred"
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți umerii un pic căzuți înainte, capul avansat",
+      "Zona de toracal inferior prezintă hipomobilitate și sensibilitate la presiune, cu limitare la extensie",
+      "Postura voastră e cifotică, cu proiecție anterioară a capului și a umerilor",
+      "Avem de lucru în primul rând la mobilizarea segmentelor de toracal, la reducerea tensiunii musculare paravertebrale și la corectarea posturii"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13854,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 2883,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

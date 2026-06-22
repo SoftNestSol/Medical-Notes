@@ -1,0 +1,47 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce vă pot ajuta?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona lombară, jos?\nSPEAKER_01: Da.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A apărut dintr-o dată sau treptat?\nSPEAKER_01: Dintr-o dată. Am ridicat ceva.\nSPEAKER_00: Ce ați ridicat?\nSPEAKER_01: Niște saci.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde vă situați acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Durerea se lasă și pe picior sau rămâne doar în spate?\nSPEAKER_01: Doar în spate.\nSPEAKER_00: Bun. Dimineața când vă ridicați din pat, vă ține?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Și după ce vă mișcați trece?\nSPEAKER_01: Da.\nSPEAKER_00: Statul jos prelungit agravează?\nSPEAKER_01: Da, la birou mai ales.\nSPEAKER_00: Lucrați la birou?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Luați ceva medicamente acum, antiinflamatoare, ceva?\nSPEAKER_01: Am luat un ibuprofen când a fost mai rău.\nSPEAKER_00: Acum nu mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți probleme cu tensiunea, diabetul, ceva de inimă?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Hernie de disc pusă vreodată?\nSPEAKER_01: Nu știu, n-am făcut RMN.\nSPEAKER_00: Ok. Haideți să vă uit un pic. Întoarceți-vă cu spatele la mine. Stați drept. Văd o ușoară tensionare pe dreapta jos, musculatura paravertebrală. Aplecați-vă puțin în față, încet.\nSPEAKER_01: Doare.\nSPEAKER_00: Doare la aplecarea în față?\nSPEAKER_01: Da, acolo jos.\nSPEAKER_00: Și la extensie, dați capul pe spate, doare?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Apăs puțin aici, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Deci avem o contractură musculară paravertebrală lombară, cel mai probabil declanșată de efortul respectiv. Fără iradiere, fără semne de radiculopatie. O să lucrăm să reducem contractura și să redăm mobilitatea. Bine?\nSPEAKER_01: Da.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară apărută brusc în urmă cu aproximativ două săptămâni, la ridicarea unor saci. Durere locală, fără iradiere pe membre inferioare. Agravată de aplecarea în față și de statul prelungit la birou. Redoare matinală care cedează la mișcare.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară tensionare a musculaturii paravertebrale drepte lombare. Mobilitate în flexie lombară dureroasă, extensia mai puțin dureroasă. Durere la palparea paravertebrală lombară.\nDiagnostic:\nContractură musculară paravertebrală lombară, declanșată de efort (ridicare de greutăți). Fără iradiere, fără semne de radiculopatie.\nObiective terapeutice:\nReducerea contracturii musculare și redarea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Am ridicat ceva.",
+      "Niște saci.",
+      "Vreo două săptămâni.",
+      "Doar în spate.",
+      "Da, un pic.",
+      "Da, la birou mai ales."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Zona lombară, jos?",
+      "Da.",
+      "Doar în spate."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Acum nu mai luați?",
+      "Nu."
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară tensionare pe dreapta jos, musculatura paravertebrală.",
+      "Doare la aplecarea în față?",
+      "Da, acolo jos.",
+      "avem o contractură musculară paravertebrală lombară, cel mai probabil declanșată de efortul respectiv. Fără iradiere, fără semne de radiculopatie. O să lucrăm să reducem contractura și să redăm mobilitatea."
+    ]
+  }
+}

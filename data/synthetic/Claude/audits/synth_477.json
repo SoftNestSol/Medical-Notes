@@ -1,0 +1,54 @@
+{
+  "conversation_id": "synth_477",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere în mijlocul spatelui, cam pe zona asta, undeva între omoplați. De vreo trei săptămâni mă chinuie",
+      "acum vreo trei săptămâni am stat cam douăsprezece ore la calculator că aveam ceva de terminat urgent și dimineața m-am trezit și nu mai puteam să întorc gâtul bine și mă durea tot mijlocul spatelui",
+      "Dimineața e mai rău, sincer. Mă trezesc și simt că sunt rigid",
+      "parcă trage și spre gât un pic",
+      "Dacă trag aer adânc, simt că mă strânge și mai tare acolo, în mijloc"
+    ],
+    "evaluarea_durerii_vas": [
+      "Dimineața când mă trezesc aș pune un 7",
+      "Pe parcursul zilei dacă mă mișc poate un 4, 5",
+      "Seara după muncă iar urcă spre 6"
+    ],
+    "localizarea_durerii": [
+      "am o durere în mijlocul spatelui, cam pe zona asta, undeva între omoplați",
+      "parcă trage și spre gât un pic",
+      "Dacă trag aer adânc, simt că mă strânge și mai tare acolo, în mijloc",
+      "mai am senzația că mă strânge un pic în piept câteodată"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Am o scolioză ușoară, știu de la vreo 16 ani, că la școală ne-au verificat și mi-au zis că am o curbură mică"
+    ],
+    "antecedente_altele": [
+      "mai am o fractură veche la încheietura mâinii drepte, am căzut pe bicicletă acum șapte ani, s-a vindecat bine, nu mai am nicio problemă cu ea"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Vedem o ușoară rotație a umerilor spre interior, umerii sunt duși în față. Și zona toracală e ușor cifotizată",
+      "apăs ușor pe procesele spinoase în zona T5-T7, îmi spuneți dacă doare",
+      "reactivitate la T5-T7",
+      "Mai accentuat paravertebral stânga toracal",
+      "ceea ce aveți dumneavoastră este o contractură musculară și o blocare articulară la nivel toracal mediu, zona T5-T7, favorizată de postura prelungită la birou și de reducerea activității fizice",
+      "Scolioza ușoară din adolescență poate contribui și ea la o distribuție inegală a tensiunii musculare",
+      "Obiectivul nostru este să reducem contractura, să mobilizăm articulațiile blocate din zona toracală și să lucrăm și postura ca să nu recidiveze"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22971,
+    "inference_geo": "global",
+    "input_tokens": 352,
+    "output_tokens": 4086,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

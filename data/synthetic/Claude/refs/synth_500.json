@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "Durere la nivelul șoldului drept, pe fața laterală, cu iradiere spre coapsă, instalată progresiv de aproximativ două luni, accentuată de efort (mers, urcat scări), de decubitul lateral drept nocturn și de pozițiile statice prelungite (stat jos sau în picioare). Redoare matinală de 10-15 minute. Pacientă contabilă, 54 ani, mult stat pe scaun.",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "sold_dr"
+  ],
+  "localizarea_durerii_alta": "fața laterală a coapsei drepte",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Perindopril",
+      "doza": "5 mg, o dată pe zi, dimineața"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nDezechilibru de bazin cu șoldul drept mai sus față de cel stâng. Durere la ridicarea activă a membrului inferior drept. Durere la rotația internă pasivă a șoldului drept, mai redusă la rotația externă. Sensibilitate crescută la palparea tractului iliotibial și a marelui trohanter.\nDiagnostic:\nBursită trohanterică dreaptă cu tensionare a benzii iliotibiale și a mușchiului piriform; dezechilibru de bazin.\nObiective terapeutice:\nReducerea inflamației bursei trohanteriene; relaxarea tractului iliotibial și a piriformului; corectarea dezechilibrului de bazin; program de exerciții la domiciliu; educație posturală privind pauzele de la birou."
+}

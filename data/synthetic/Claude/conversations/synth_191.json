@@ -1,0 +1,349 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună."
+    },
+    {
+      "start": 1.84,
+      "end": 4.88,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi cu ce problemă ne vedem azi."
+    },
+    {
+      "start": 5.0,
+      "end": 6.14,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare spatele."
+    },
+    {
+      "start": 6.26,
+      "end": 9.3,
+      "speaker": "SPEAKER_00",
+      "text": "Spatele, zona de jos sau zona de sus?"
+    },
+    {
+      "start": 9.42,
+      "end": 10.22,
+      "speaker": "SPEAKER_01",
+      "text": "De jos."
+    },
+    {
+      "start": 10.34,
+      "end": 11.86,
+      "speaker": "SPEAKER_00",
+      "text": "Lombar. De cât timp?"
+    },
+    {
+      "start": 11.98,
+      "end": 13.12,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo două săptămâni."
+    },
+    {
+      "start": 13.24,
+      "end": 18.56,
+      "speaker": "SPEAKER_00",
+      "text": "Două săptămâni. A apărut din senin sau ați ridicat ceva, ați făcut un efort?"
+    },
+    {
+      "start": 18.68,
+      "end": 20.2,
+      "speaker": "SPEAKER_01",
+      "text": "Am ridicat niște saci."
+    },
+    {
+      "start": 20.32,
+      "end": 29.06,
+      "speaker": "SPEAKER_00",
+      "text": "Saci. Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde o situați?"
+    },
+    {
+      "start": 29.18,
+      "end": 29.98,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 7."
+    },
+    {
+      "start": 30.1,
+      "end": 33.14,
+      "speaker": "SPEAKER_00",
+      "text": "7. Doare tot timpul sau doar la mișcare?"
+    },
+    {
+      "start": 33.26,
+      "end": 36.68,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult când mă ridic sau când mă aplec."
+    },
+    {
+      "start": 36.8,
+      "end": 37.94,
+      "speaker": "SPEAKER_00",
+      "text": "Când stați culcat?"
+    },
+    {
+      "start": 38.06,
+      "end": 39.2,
+      "speaker": "SPEAKER_01",
+      "text": "E mai bine."
+    },
+    {
+      "start": 39.32,
+      "end": 43.12,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea rămâne în spate sau se lasă undeva, pe picior?"
+    },
+    {
+      "start": 43.24,
+      "end": 44.38,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, rămâne acolo."
+    },
+    {
+      "start": 44.5,
+      "end": 46.4,
+      "speaker": "SPEAKER_00",
+      "text": "Rămâne local. Bun. Amorțesc picioarele?"
+    },
+    {
+      "start": 46.52,
+      "end": 47.32,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 47.44,
+      "end": 48.24,
+      "speaker": "SPEAKER_00",
+      "text": "Niciodată?"
+    },
+    {
+      "start": 48.36,
+      "end": 49.16,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 49.28,
+      "end": 53.08,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Aveți vreo afecțiune, tensiune, diabet, ceva de coloană diagnosticat?"
+    },
+    {
+      "start": 53.2,
+      "end": 54.0,
+      "speaker": "SPEAKER_01",
+      "text": "Am tensiune."
+    },
+    {
+      "start": 54.12,
+      "end": 56.4,
+      "speaker": "SPEAKER_00",
+      "text": "Tensiune arterială. Luați medicamente pentru asta?"
+    },
+    {
+      "start": 56.52,
+      "end": 57.32,
+      "speaker": "SPEAKER_01",
+      "text": "Da, Enalapril."
+    },
+    {
+      "start": 57.44,
+      "end": 58.24,
+      "speaker": "SPEAKER_00",
+      "text": "Ce doză?"
+    },
+    {
+      "start": 58.36,
+      "end": 59.16,
+      "speaker": "SPEAKER_01",
+      "text": "10 miligrame."
+    },
+    {
+      "start": 59.28,
+      "end": 60.42,
+      "speaker": "SPEAKER_00",
+      "text": "10 miligrame, zilnic?"
+    },
+    {
+      "start": 60.54,
+      "end": 61.34,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 61.46,
+      "end": 62.6,
+      "speaker": "SPEAKER_00",
+      "text": "Altceva mai luați?"
+    },
+    {
+      "start": 62.72,
+      "end": 63.52,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 63.64,
+      "end": 65.16,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Alergii la medicamente?"
+    },
+    {
+      "start": 65.28,
+      "end": 66.08,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 66.2,
+      "end": 67.0,
+      "speaker": "SPEAKER_00",
+      "text": "Fracturi, operații?"
+    },
+    {
+      "start": 67.12,
+      "end": 67.92,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 68.04,
+      "end": 72.22,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să stați în picioare, cu spatele la mine, relaxat."
+    },
+    {
+      "start": 72.34,
+      "end": 73.14,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 73.26,
+      "end": 75.16,
+      "speaker": "SPEAKER_00",
+      "text": "Aplecați-vă încet în față."
+    },
+    {
+      "start": 75.28,
+      "end": 76.08,
+      "speaker": "SPEAKER_01",
+      "text": "Au."
+    },
+    {
+      "start": 76.2,
+      "end": 77.0,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 77.12,
+      "end": 77.92,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 78.04,
+      "end": 80.32,
+      "speaker": "SPEAKER_00",
+      "text": "La ce unghi aproximativ, la jumătate?"
+    },
+    {
+      "start": 80.44,
+      "end": 81.24,
+      "speaker": "SPEAKER_01",
+      "text": "Cam da."
+    },
+    {
+      "start": 81.36,
+      "end": 82.88,
+      "speaker": "SPEAKER_00",
+      "text": "Și înapoi, extensie, doare?"
+    },
+    {
+      "start": 83.0,
+      "end": 83.8,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 83.92,
+      "end": 88.86,
+      "speaker": "SPEAKER_00",
+      "text": "Mai puțin. Bun, puteți să vă întindeți pe masă cu fața în jos?"
+    },
+    {
+      "start": 88.98,
+      "end": 89.78,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 89.9,
+      "end": 91.42,
+      "speaker": "SPEAKER_00",
+      "text": "Apăs paravertebral stânga, doare?"
+    },
+    {
+      "start": 91.54,
+      "end": 92.68,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo doare."
+    },
+    {
+      "start": 92.8,
+      "end": 93.6,
+      "speaker": "SPEAKER_00",
+      "text": "Pe dreapta?"
+    },
+    {
+      "start": 93.72,
+      "end": 94.52,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 94.64,
+      "end": 110.6,
+      "speaker": "SPEAKER_00",
+      "text": "Deci mai mult pe stânga. Văd o contractură paravertebrală lombară, mai accentuată pe stânga. Mobilitate lombară limitată în flexie. Pare o lombalgie acută mecanică, cel mai probabil declanșată de ridicarea acelor saci. O să lucrăm să reducem contractura și să redăm mobilitatea."
+    },
+    {
+      "start": 110.72,
+      "end": 111.52,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 111.64,
+      "end": 113.54,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți vreo investigație, RMN, radiografie?"
+    },
+    {
+      "start": 113.66,
+      "end": 114.46,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 114.58,
+      "end": 116.1,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, rămânem pe masă."
+    }
+  ]
+}

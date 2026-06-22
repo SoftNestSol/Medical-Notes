@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi, am o durere la umăr, la cel drept, și mă chinuie de ceva timp. De fapt am și căzut acum vreo trei săptămâni, eram la munte cu familia, am alunecat pe o potecă și m-am sprijinit în mână și de atunci mi s-a declanșat toată treaba asta. Inițial credeam că trece de la sine, dar nu trece.\nSPEAKER_00: Înțeles. Și doare constant sau numai la mișcare?\nSPEAKER_01: Mai mult la mișcare, când ridic mâna în sus sau când mă întind să iau ceva de pe raft. Noaptea mă mai trezesc câteodată dacă stau pe partea aia, dar ziua dacă stau liniștit nu simt mare lucru.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât e durerea când ridicați mâna?\nSPEAKER_01: Când ridic mâna sus... un 7. Seara când mă trezesc poate și mai mult, un 8.\nSPEAKER_00: Un 7 la mișcare, un 8 noaptea. Înțeles. Și umărul stâng e bine?\nSPEAKER_01: Da, stângul e perfect, nu am nicio problemă acolo.\nSPEAKER_00: Durerea rămâne în umăr sau se lasă pe braț în jos?\nSPEAKER_01: Se lasă puțin pe braț, cam până la cot, dar mai rar. În principal e în umăr, chiar aici.\nSPEAKER_00: Bun. Ați mai făcut ceva pentru durere până acum?\nSPEAKER_01: Am pus un gel, Voltaren, de vreo câteva ori, dar nu m-a ajutat foarte mult. Și am luat o dată un Ketoprofen, o pastilă, că nu mai suportam, dar nu îl iau regulat.\nSPEAKER_00: Înțeles. Alte afecțiuni, tensiune, diabet, ceva la oase?\nSPEAKER_01: Nu, nu am nimic din astea. Sunt sănătos altfel, am 38 de ani, lucrez la birou, stau mult la calculator și... sincer, știu că postura mea nu e grozavă, stau cam cocoșat, dar asta e altă discuție. Mă temeam că mi-am rupt ceva când am căzut, dar m-a văzut medicul de familie și a zis că nu e fractură.\nSPEAKER_00: Bine. Intervenții chirurgicale, fracturi anterioare?\nSPEAKER_01: Nu, niciodată. Nici nu am mai pățit ceva la umăr până acum.\nSPEAKER_00: Ok. Haideți să fac câteva teste, vă rog ridicați brațul drept lateral, ușor.\nSPEAKER_01: Până aici pot... mai sus doare.\nSPEAKER_00: Bun. Puteți să duceți mâna la spate, la nivel de șold?\nSPEAKER_01: Da, asta pot, deși simt o presiune.\nSPEAKER_00: Apăs acum pe zona de rotator, spuneți-mi dacă doare.\nSPEAKER_01: Au, da, acolo doare tare.\nSPEAKER_00: Și dacă apăs mai sus, pe acromion?\nSPEAKER_01: Și acolo simt, da.\nSPEAKER_00: Înțeles. Deci avem o inflamație la nivelul manșetei rotatorilor, cel mai probabil o tendinopatie, posibil și o iritație la bursă. Obiectivul nostru în primele ședințe va fi să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Și o să pot ridica mâna normal? Că mă îngrijorează, fac și înot uneori și nu vreau să rămân cu sechele.\nSPEAKER_00: Da, cu tratament adecvat ar trebui să reveniți la activitate normală. Haideți să trecem la treabă.\nSPEAKER_01: Bine, bine, mulțumesc.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept, declansata dupa cadere la munte, de aproximativ trei saptamani",
+    "evaluarea_durerii_vas": [7, 8],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren",
+        "doza": null
+      },
+      {
+        "denumire": "Ketoprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinopatie manșeta rotatorilor;\n- posibila iritatie bursa;\nObiective terapeutice:\n- reducerea inflamatiei;\n- recuperarea mobilitatii umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["am o durere la umăr, la cel drept, și mă chinuie de ceva timp", "am căzut acum vreo trei săptămâni, eram la munte cu familia, am alunecat pe o potecă și m-am sprijinit în mână și de atunci mi s-a declanșat toată treaba asta"],
+    "evaluarea_durerii_vas": ["Când ridic mâna sus... un 7", "Seara când mă trezesc poate și mai mult, un 8"],
+    "localizarea_durerii": ["am o durere la umăr, la cel drept"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am pus un gel, Voltaren, de vreo câteva ori", "am luat o dată un Ketoprofen, o pastilă, că nu mai suportam"],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul manșetei rotatorilor, cel mai probabil o tendinopatie, posibil și o iritație la bursă", "Obiectivul nostru în primele ședințe va fi să reducem inflamația și să recuperăm mobilitatea umărului"]
+  }
+}

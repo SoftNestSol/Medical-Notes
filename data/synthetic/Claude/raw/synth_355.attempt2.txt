@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Gheorghe Tănase.\nSPEAKER_00: Și vârsta, domnule Tănase?\nSPEAKER_01: 38 de ani.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi, mă doare umărul drept de ceva vreme și sincer nu știu ce să mai fac cu el. Am încercat tot felul de lucruri, am pus gel, am pus comprese calde, dar nu trece. Și colegii m-au sfătuit să vin aici, că ei au venit și le-a folosit.\nSPEAKER_00: De cât timp vă doare umărul?\nSPEAKER_01: De vreo trei săptămâni, poate mai mult. A început după ce am mutat mobilă în casă, am cărăt cutii grele, am ridicat un dulap, și de atunci parcă s-a blocat ceva acolo. Inițial am crezut că trece singur, că am mai pățit chestii din astea și au trecut, dar de data asta nu.\nSPEAKER_00: Înțeles. Și durerea este locală, în zona umărului, sau se lasă undeva pe braț în jos?\nSPEAKER_01: Se lasă, da, pe braț, mai ales când ridic mâna sus sau când încerc să o duc la spate. Și noaptea mă doare mai tare, mă trezesc din somn, ceea ce e deranjant, că eu am un program deja încărcat.\nSPEAKER_00: Noaptea vă doare mai tare când stați pe acea parte sau indiferent de poziție?\nSPEAKER_01: Când stau pe partea dreaptă sigur, dar și când stau pe spate tot simt ceva. E ca o jenă constantă.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare maxim, cum estimați durerea?\nSPEAKER_01: Ziua, când stau liniștit, un 4. Când ridic mâna sau fac ceva, ajunge la 7, 8. Noaptea când mă trezesc, simt că e 8 sigur.\nSPEAKER_00: Deci în repaus 4, la mișcare 8.\nSPEAKER_01: Da, cam așa. Și mai am o frică, sincer, că poate m-am rupt ceva acolo și nu știu. Am un coleg care și-a rupt tendonul la umăr și a stat șase luni, și mă tem să nu fie la fel.\nSPEAKER_00: Înțeles, vom clarifica. Ați făcut vreo investigație până acum, radiografie, RMN?\nSPEAKER_01: Nu, n-am apucat, am tot amânat. Am zis că poate trece.\nSPEAKER_00: Ce muncă faceți, dacă pot să întreb?\nSPEAKER_01: Sunt tehnician, lucrez mult la calculator, stau la birou, dar mai ridic și echipamente din când în când. Nu e o muncă fizică grea, dar nici nu stau numai în scaun.\nSPEAKER_00: Ați mai luat ceva pentru durere?\nSPEAKER_01: Am luat Ibuprofen câteva zile la început, 400 de miligrame, când durea mai tare. Și am uns cu un gel antiinflamator, Diclofenac, dar nu l-am folosit prea mult, o săptămână, două.\nSPEAKER_00: Acum mai luați ceva?\nSPEAKER_01: Nu, acum nu mai iau nimic. Am oprit și ibuprofenul.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, ceva mai vechi?\nSPEAKER_01: Nu, nu am nimic din astea. Sunt sănătos în rest, cel puțin așa cred.\nSPEAKER_00: Haideți să facem câteva mișcări. Ridicați brațul drept în față, încet.\nSPEAKER_01: Până aici pot, mai sus doare.\nSPEAKER_00: Până unde? Aproximativ la 90 de grade?\nSPEAKER_01: Da, undeva pe acolo, mai sus nu mai pot, sau pot dar doare rău.\nSPEAKER_00: Acum duceți mâna la spate, ca și cum ați prinde centura.\nSPEAKER_01: Vai, asta e cea mai grea mișcare. Nu ajung deloc.\nSPEAKER_00: Și când apăs aici, pe capul humeral, doare?\nSPEAKER_01: Da, da, acolo e epicentrul.\nSPEAKER_00: Înțeles. Avem o limitare de mobilitate destul de clară la abducție și rotație internă, cu durere la palparea capului humeral. Probabil avem o inflamație la nivelul manșetei rotatorilor, cel mai probabil supraspinosul. E important să facem și un RMN ca să vedem exact ce se întâmplă acolo, dacă există o leziune parțială sau e pur inflamator. Deocamdată obiectivul nostru este să reducem inflamația și să recâștigăm mobilitatea.\nSPEAKER_01: Și cât durează să trec de chestia asta? Că eu am și o excursie cu familia peste o lună și aș vrea să fiu ok.\nSPEAKER_00: Depinde de ce găsim la RMN, dar dacă e inflamator fără ruptură, în câteva ședințe ar trebui să simțiți o îmbunătățire clară. Haideți să trecem la treabă.\nSPEAKER_01: Bun, da, să mergem.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept cu iradiere pe braț, debut după efort fizic (mutat mobilă), de aproximativ trei săptămâni, limitare de mobilitate și accentuare nocturnă",
+    "evaluarea_durerii_vas": [4, 8],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": "braț drept (iradiere)",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg"
+      },
+      {
+        "denumire": "Diclofenac gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare de mobilitate la abducție (până la aproximativ 90 de grade) și rotație internă; durere la palparea capului humeral. Diagnostic probabil: inflamație manșetă rotatori, supraspinosul. Recomandat RMN pentru diferențiere leziune parțială vs. inflamator pur. Obiective terapeutice: reducerea inflamației și recâștigarea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul drept de ceva vreme", "A început după ce am mutat mobilă în casă, am cărăt cutii grele, am ridicat un dulap", "De vreo trei săptămâni, poate mai mult", "Se lasă, da, pe braț, mai ales când ridic mâna sus sau când încerc să o duc la spate", "noaptea mă doare mai tare, mă trezesc din somn"],
+    "evaluarea_durerii_vas": ["Ziua, când stau liniștit, un 4. Când ridic mâna sau fac ceva, ajunge la 7, 8"],
+    "localizarea_durerii": ["mă doare umărul drept"],
+    "localizarea_durerii_alta": ["Se lasă, da, pe braț, mai ales când ridic mâna sus"],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am luat Ibuprofen câteva zile la început, 400 de miligrame", "am uns cu un gel antiinflamator, Diclofenac"],
+    "evaluare_functionala_initiala": ["Avem o limitare de mobilitate destul de clară la abducție și rotație internă, cu durere la palparea capului humeral. Probabil avem o inflamație la nivelul manșetei rotatorilor, cel mai probabil supraspinosul.", "obiectivul nostru este să reducem inflamația și să recâștigăm mobilitatea"]
+  }
+}

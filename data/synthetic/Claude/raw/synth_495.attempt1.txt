@@ -1,0 +1,58 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne confruntăm azi.\nSPEAKER_01: Păi, de vreo două săptămâni mă doare îngrozitor ceafa. Adică nu știu cum să vă explic, e o durere care stă acolo, în ceafă, și uneori simt că urcă și spre cap. Nu știu dacă e de la stres, că am avut o perioadă mai grea la serviciu, sau de la altceva. Mă tot gândeam că trece de la sine, dar nu trece.\nSPEAKER_00: Înțeleg. Și această durere e mai mult locală, în ceafă, sau se lasă undeva pe umăr, pe braț?\nSPEAKER_01: Nu, nu pe braț. Mai mult în ceafă și uneori simt că mă apasă și în cap, ici, la spate. Parcă o greutate.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 doare foarte rău, cum estimați această durere?\nSPEAKER_01: Aș zice un 6. Uneori 7, dar de obicei 6. Nu mă împiedică să merg la muncă, dar mă deranjează foarte tare, mai ales spre seară.\nSPEAKER_00: Deci se accentuează seara?\nSPEAKER_01: Da, da. Și dimineața mai am o rigiditate, adică mă trezesc și nu pot să întorc bine capul. Dar trece în vreo jumătate de oră.\nSPEAKER_00: Și la serviciu ce faceți? Stați mult la calculator?\nSPEAKER_01: Da, exact asta e problema, cred eu. Stau cam opt ore pe zi la birou, la calculator. Și mai vorbesc și la telefon, îl țin așa, între umăr și ureche, știți cum fac unii. Soția îmi tot zice să nu mai fac asta, dar mă prinde în treabă și uit.\nSPEAKER_00: Da, asta e o problemă frecventă. Aveți și dureri de cap asociate?\nSPEAKER_01: Da, tocmai voiam să vă zic. Am dureri de cap, mai ales în zona asta din spate, occipital, cum se zice. Nu sunt migrene, adică nu mă doboară, dar sunt supărătoare. Am crezut că e de la tensiune, dar am măsurat tensiunea și era normală.\nSPEAKER_00: Bine. Amorțeli la mâini, degete?\nSPEAKER_01: Nu, nu, asta nu. Nicio amorțeală.\nSPEAKER_00: Amețeli?\nSPEAKER_01: Rar, rar de tot. O dată am simțit ceva când am întors capul brusc, dar a trecut rapid. Nu e ceva constant.\nSPEAKER_00: Am înțeles. Ați luat ceva pentru durere?\nSPEAKER_01: Ei, am luat un Nurofen din când în când, când nu mai suportam. Și am un gel, Voltaren, pe care îl pun seara pe ceafă. Mai ajută un pic, dar a doua zi tot revine.\nSPEAKER_00: Deci nu constant, la nevoie.\nSPEAKER_01: Da, nu constant. Eu nu prea sunt fan medicamente.\nSPEAKER_00: Bine. Aveți alte afecțiuni, tensiune, diabet, ceva de care știți?\nSPEAKER_01: Nu, nu am nimic. Sunt sănătos, cel puțin până acum. Bine, mai am puțin colesterol crescut, doctorul de familie mi-a zis acum vreo șase luni, dar nu iau nimic pentru el, mi-a zis să mă uit la alimentație.\nSPEAKER_00: Intervenții chirurgicale, accidente?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Bun. Haideți să vă rog să stați drept puțin, cu fața la mine. Vreau să vedem cum mișcați capul. Duceți-l ușor în față.\nSPEAKER_01: Aha. Doare un pic la capăt.\nSPEAKER_00: Și acum pe spate.\nSPEAKER_01: Pe spate doare mai puțin.\nSPEAKER_00: Rotație spre dreapta.\nSPEAKER_01: Asta doare, da.\nSPEAKER_00: Și spre stânga.\nSPEAKER_01: La fel, cam la fel. Poate mai mult spre dreapta.\nSPEAKER_00: Am înțeles. Stați puțin, apăs ușor pe ceafă, spuneți-mi dacă e sensibil.\nSPEAKER_01: Ah, da, acolo e sensibil. Exact acolo.\nSPEAKER_00: Pe paravertebral cervical, la C4-C5, e contractură. Și mușchii suboccipitali sunt destul de tensionați. Asta explică și durerile de cap pe care le simțiți în zona occipitală. Vedem o limitare de mobilitate la rotație, mai accentuată pe dreapta. Cel mai probabil avem o cervicalgie cu contractură musculară, agravată de postura la birou și de obiceiul cu telefonul. Va trebui să lucrăm la relaxarea musculaturii cervicale și la îmbunătățirea mobilității.\nSPEAKER_01: Deci nu e ceva grav? Că mă tot gândeam dacă nu e vreo hernie sau ceva.\nSPEAKER_00: La momentul acesta tabloul clinic arată o contractură musculară, nu avem semne clare de hernie. Dacă după câteva ședințe nu evoluează bine, vă recomand un RMN cervical să vedem exact. Dar să nu alarmați deocamdată.\nSPEAKER_01: Bine, bine. Mă liniștește. Și cât durează, aproximativ, să trec?\nSPEAKER_00: Depinde și de dumneavoastră, de postură, de cum stați la birou. Dar cu câteva ședințe ar trebui să simțiți o ameliorare clară. Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală și ceafă de aproximativ două săptămâni, cu iradiere în zona occipitală (cap), accentuată seara; rigiditate matinală; limitarea rotației capului. Posibil corelată cu postura la birou și obiceiul de a ține telefonul între umăr și ureche.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": "colesterol crescut (fără medicație)",
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": "la nevoie"
+      },
+      {
+        "denumire": "Voltaren gel",
+        "doza": "seara, la nevoie"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice: contractură paravertebrală cervicală la C4-C5; tensiune musculară suboccipitală; limitare de mobilitate la rotație, mai accentuată pe dreapta.\nDiagnostic: cervicalgie cu contractură musculară, agravată de postură la birou.\nObiective terapeutice: relaxarea musculaturii cervicale și îmbunătățirea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "de vreo două săptămâni mă doare îngrozitor ceafa",
+      "uneori simt că urcă și spre cap",
+      "mă trezesc și nu pot să întorc bine capul",
+      "Stau cam opt ore pe zi la birou, la calculator",
+      "îl țin așa, între umăr și ureche"
+    ],
+    "evaluarea_durerii_vas": [
+      "Aș zice un 6"
+    ],
+    "localizarea_durerii": [
+      "mă doare îngrozitor ceafa",
+      "uneori simt că urcă și spre cap",
+      "Am dureri de cap, mai ales în zona asta din spate, occipital"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [
+      "mai am puțin colesterol crescut, doctorul de familie mi-a zis acum vreo șase luni, dar nu iau nimic pentru el"
+    ],
+    "medicatie_actuala": [
+      "am luat un Nurofen din când în când, când nu mai suportam",
+      "am un gel, Voltaren, pe care îl pun seara pe ceafă"
+    ],
+    "evaluare_functionala_initiala": [
+      "pe paravertebral cervical, la C4-C5, e contractură",
+      "mușchii suboccipitali sunt destul de tensionați",
+      "Vedem o limitare de mobilitate la rotație, mai accentuată pe dreapta",
+      "cel mai probabil avem o cervicalgie cu contractură musculară, agravată de postura la birou",
+      "Va trebui să lucrăm la relaxarea musculaturii cervicale și la îmbunătățirea mobilității"
+    ]
+  }
+}

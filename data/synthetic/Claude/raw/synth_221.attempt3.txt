@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva?\nSPEAKER_01: Am mutat niște cutii la serviciu.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare vă doare?\nSPEAKER_01: Un 5.\nSPEAKER_00: Doare tot timpul sau doar la mișcare?\nSPEAKER_01: La mișcare.\nSPEAKER_00: Când ridicați mâna, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Până unde puteți ridica?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci cam la orizontală. Se lasă durerea și pe braț, pe cot?\nSPEAKER_01: Nu, nu. Doar umărul.\nSPEAKER_00: Amorțeli în mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Noaptea vă deranjează?\nSPEAKER_01: Dacă stau pe partea aia, da.\nSPEAKER_00: Înțeles. Alte probleme de sănătate, tensiune, diabet, epilepsie?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere prin sânge, implanturi metalice?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin cu fața la mine. Ridic eu mâna, îmi spuneți când apare durerea.\nSPEAKER_01: Acum. Aici.\nSPEAKER_00: La abducție, cam la 80 de grade apare durerea. Doare când fac asta, rotație internă?\nSPEAKER_01: Da, doare.\nSPEAKER_00: Și dacă apăs aici pe tendon, sub acromion?\nSPEAKER_01: Da, acolo e.\nSPEAKER_00: Bine. Pare o inflamație la nivelul tendonului supraspinos, cel mai probabil tendinită de coafă. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "durere umar stang aparuta dupa mutatul cutiilor la serviciu",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinita coafa rotatori (supraspinos)\nObiective terapeutice:\n- reducerea inflamatiei;\n- recuperarea mobilitatii umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Am mutat niște cutii la serviciu."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul.", "Doar umărul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu.", "Medicamente luați ceva?"],
+    "evaluare_functionala_initiala": ["Pare o inflamație la nivelul tendonului supraspinos, cel mai probabil tendinită de coafă. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

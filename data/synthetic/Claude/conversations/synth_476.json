@@ -1,0 +1,283 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua!"
+    },
+    {
+      "start": 2.56,
+      "end": 4.46,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem?"
+    },
+    {
+      "start": 4.58,
+      "end": 23.2,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, am o durere... stați să vă zic, e cam de vreo trei săptămâni, poate mai mult, și mă doare jos de tot, chiar la baza coloanei, coccisul sau cum îi zice, acolo. Și când stau pe scaun e vai de mine, mai ales la serviciu că stau mult."
+    },
+    {
+      "start": 23.32,
+      "end": 24.84,
+      "speaker": "SPEAKER_00",
+      "text": "La baza coloanei, jos."
+    },
+    {
+      "start": 24.96,
+      "end": 37.12,
+      "speaker": "SPEAKER_01",
+      "text": "Da, fix acolo. Și mai am și senzația că mă doare și un pic mai sus, adică zona aia de sacru, nu știu cum exact să îi spun, dar în jur acolo."
+    },
+    {
+      "start": 37.24,
+      "end": 39.14,
+      "speaker": "SPEAKER_00",
+      "text": "Și coccisul și zona sacrală."
+    },
+    {
+      "start": 39.26,
+      "end": 63.96,
+      "speaker": "SPEAKER_01",
+      "text": "Exact, cam toată zona aia de jos a spatelui. Și am stat să mă gândesc de ce, și cred că am căzut acum vreo lună, am alunecat pe niște trepte și am căzut pe fund. Zic că de atunci a pornit, dar nu m-am dus nicăieri că mi-a trecut durerea inițială și credeam că e ok, și acuma m-a apucat din nou."
+    },
+    {
+      "start": 64.08,
+      "end": 66.74,
+      "speaker": "SPEAKER_00",
+      "text": "Deci ai căzut pe trepte, pe coccis."
+    },
+    {
+      "start": 66.86,
+      "end": 84.72,
+      "speaker": "SPEAKER_01",
+      "text": "Da, pe fund direct, a fost urât. Mi-a trecut după câteva zile, dar acum a revenit și nu mai trece. Și am și citit pe internet, și mi s-a pus în cap că poate e fractură sau nu știu ce, și m-am speriat puțin."
+    },
+    {
+      "start": 84.84,
+      "end": 89.02,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Durerea asta e mai tare când stai jos, pe scaun?"
+    },
+    {
+      "start": 89.14,
+      "end": 100.54,
+      "speaker": "SPEAKER_01",
+      "text": "Da, când stau pe scaun e cel mai rău. Și când mă ridic de pe scaun, câteva secunde mă ține tare. Când merg e mai bine, în picioare e suportabil."
+    },
+    {
+      "start": 100.66,
+      "end": 102.18,
+      "speaker": "SPEAKER_00",
+      "text": "Când dormi, te deranjează?"
+    },
+    {
+      "start": 102.3,
+      "end": 109.14,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă stau pe spate da, dar m-am obișnuit să mă întorc pe o parte și atunci merge."
+    },
+    {
+      "start": 109.26,
+      "end": 117.62,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cu 0 fără nicio durere și 10 cel mai rău, unde ai pune durerea?"
+    },
+    {
+      "start": 117.74,
+      "end": 125.34,
+      "speaker": "SPEAKER_01",
+      "text": "Când stau pe scaun aș zice un 7. Când merg sau stau în picioare poate un 3, ceva de genul."
+    },
+    {
+      "start": 125.46,
+      "end": 131.16,
+      "speaker": "SPEAKER_00",
+      "text": "7 pe scaun, 3 în picioare. Durerea se lasă pe picior în jos, pe fese?"
+    },
+    {
+      "start": 131.28,
+      "end": 134.32,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, rămâne acolo, jos, nu se duce nicăieri."
+    },
+    {
+      "start": 134.44,
+      "end": 135.58,
+      "speaker": "SPEAKER_00",
+      "text": "Nu se iradiază."
+    },
+    {
+      "start": 135.7,
+      "end": 142.92,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, stă fix acolo. Cel mult simt că mă ține și în zona de bazin, dar nu pe picior."
+    },
+    {
+      "start": 143.04,
+      "end": 147.22,
+      "speaker": "SPEAKER_00",
+      "text": "Ai mai pățit ceva similar înainte, sau alte probleme la coloană?"
+    },
+    {
+      "start": 147.34,
+      "end": 155.32,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am mai pățit nimic. Adică mai am câteodată o tensiune în spate, musculară, dar trece singură. Nimic ca asta."
+    },
+    {
+      "start": 155.44,
+      "end": 159.24,
+      "speaker": "SPEAKER_00",
+      "text": "Tensiune mai generală la spate, care trece de la sine."
+    },
+    {
+      "start": 159.36,
+      "end": 164.3,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mai ales după ce stau mult la birou. Dar aia e altceva."
+    },
+    {
+      "start": 164.42,
+      "end": 165.94,
+      "speaker": "SPEAKER_00",
+      "text": "Tensiune, diabet, alte boli?"
+    },
+    {
+      "start": 166.06,
+      "end": 177.84,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic. Sunt în general sănătos, nu iau nicio pastilă în mod regulat. Am luat un Nurofen acum vreo zece zile când durerea a fost mai mare, dar atât."
+    },
+    {
+      "start": 177.96,
+      "end": 179.86,
+      "speaker": "SPEAKER_00",
+      "text": "Nurofen o dată, la nevoie."
+    },
+    {
+      "start": 179.98,
+      "end": 184.16,
+      "speaker": "SPEAKER_01",
+      "text": "Da, un singur comprimat, și nu prea m-a ajutat sincer."
+    },
+    {
+      "start": 184.28,
+      "end": 185.08,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Alergii?"
+    },
+    {
+      "start": 185.2,
+      "end": 186.0,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 186.12,
+      "end": 188.02,
+      "speaker": "SPEAKER_00",
+      "text": "Radiografie sau RMN ai făcut?"
+    },
+    {
+      "start": 188.14,
+      "end": 198.78,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am făcut nimic. Asta mă și frământă, că nu știu dacă e ceva rupt acolo sau nu. Vă zic sincer mă gândesc la asta tot timpul."
+    },
+    {
+      "start": 198.9,
+      "end": 203.84,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg îngrijorarea. Hai să te palpez un pic, să vedem cum reacționează zona."
+    },
+    {
+      "start": 203.96,
+      "end": 204.76,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 204.88,
+      "end": 209.44,
+      "speaker": "SPEAKER_00",
+      "text": "Stai puțin pe picioare, relaxat. Apăs ușor pe zona asta, coccis, doare?"
+    },
+    {
+      "start": 209.56,
+      "end": 211.08,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, chiar acolo."
+    },
+    {
+      "start": 211.2,
+      "end": 213.48,
+      "speaker": "SPEAKER_00",
+      "text": "Și mai sus, sacru, apăs acum."
+    },
+    {
+      "start": 213.6,
+      "end": 215.5,
+      "speaker": "SPEAKER_01",
+      "text": "Și acolo, dar mai puțin."
+    },
+    {
+      "start": 215.62,
+      "end": 219.04,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Faci un pas mic, te apleci ușor înainte."
+    },
+    {
+      "start": 219.16,
+      "end": 221.82,
+      "speaker": "SPEAKER_01",
+      "text": "Uite că merge, nu doare când merg."
+    },
+    {
+      "start": 221.94,
+      "end": 225.36,
+      "speaker": "SPEAKER_00",
+      "text": "Da, văd. Și ridicarea din poziția aplecată cum e?"
+    },
+    {
+      "start": 225.48,
+      "end": 227.0,
+      "speaker": "SPEAKER_01",
+      "text": "Acolo simt ceva, da."
+    },
+    {
+      "start": 227.12,
+      "end": 256.0,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Zona sacrococcigiană prezintă sensibilitate la palpare directă, mai accentuată la nivelul coccisului. Mobilitate lombară păstrată, durerea nu iradiază. Cel mai probabil avem o contuzie la nivelul coccisului în urma căderii, posibil cu o inflamație locală persistentă. Nu prezinți semne de iradiere pe nervul sciatic, ceea ce e bine. Vom lucra pe reducerea inflamației locale și relaxarea musculaturii din jur, pirifor, fesier, zona sacrală. Dacă după câteva ședințe nu cedează, recomand și o radiografie de control."
+    },
+    {
+      "start": 256.12,
+      "end": 259.16,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu e ceva grav, fractură sau ceva?"
+    },
+    {
+      "start": 259.28,
+      "end": 265.36,
+      "speaker": "SPEAKER_00",
+      "text": "Nu am semne care să sugereze asta acum, dar radiografia ne va confirma. Deocamdată tratăm inflamația."
+    },
+    {
+      "start": 265.48,
+      "end": 268.9,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, mă liniștești un pic. Hai să începem atunci."
+    }
+  ]
+}

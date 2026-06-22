@@ -1,0 +1,361 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 17.26,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua. Am găsit cabinetul pe internet, am tot căutat, n-am știut exact unde să mă duc, am fost și la medicul de familie dar mi-a zis să iau niște antiinflamatoare și... nu știu, mi-a recomandat cineva chiropractica."
+    },
+    {
+      "start": 17.38,
+      "end": 20.42,
+      "speaker": "SPEAKER_00",
+      "text": "Bine ați venit. Spuneți-mi numele, vă rog."
+    },
+    {
+      "start": 20.54,
+      "end": 21.68,
+      "speaker": "SPEAKER_01",
+      "text": "Gheorghe. Gheorghe Matei."
+    },
+    {
+      "start": 21.8,
+      "end": 22.94,
+      "speaker": "SPEAKER_00",
+      "text": "Vârsta, domnule Matei?"
+    },
+    {
+      "start": 23.06,
+      "end": 26.1,
+      "speaker": "SPEAKER_01",
+      "text": "47. 47 de ani, în septembrie fac 48."
+    },
+    {
+      "start": 26.22,
+      "end": 28.88,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Cu ce problemă ne vedem azi?"
+    },
+    {
+      "start": 29.0,
+      "end": 47.24,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare spatele. Zona de jos, adică exact acolo la mijloc, jos. De vreo trei săptămâni, poate patru. A început mai ușor, credeam că trece, nu a trecut. Dimineața e mai rău, mă ridic din pat și... mă ține. Durează un sfert de oră până mă dezmorțesc."
+    },
+    {
+      "start": 47.36,
+      "end": 50.02,
+      "speaker": "SPEAKER_00",
+      "text": "Doare continuu sau apare la anumite mișcări?"
+    },
+    {
+      "start": 50.14,
+      "end": 71.04,
+      "speaker": "SPEAKER_01",
+      "text": "Ei, asta e bună întrebare. Adică e și continuu, dar se acutizează. Dacă stau mai mult jos, pe scaun la serviciu, după aia când mă ridic e rău de tot. Și dacă ridic ceva, chiar și ceva ușor... ieri am ridicat o pungă și am simțit că m-a luat ceva pe toată zona asta."
+    },
+    {
+      "start": 71.16,
+      "end": 72.68,
+      "speaker": "SPEAKER_00",
+      "text": "Arătați-mi unde exact."
+    },
+    {
+      "start": 72.8,
+      "end": 81.16,
+      "speaker": "SPEAKER_01",
+      "text": "Aici, zona asta lombară, da, și un pic mai jos, spre... nu știu cum se cheamă, fesele, cumva între fese și spate."
+    },
+    {
+      "start": 81.28,
+      "end": 90.02,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 doare foarte tare, cum estimați durerea?"
+    },
+    {
+      "start": 90.14,
+      "end": 103.06,
+      "speaker": "SPEAKER_01",
+      "text": "Așa în general, în cursul zilei, eu zic un 6. Dar dimineața când mă trezesc sau când mă ridic de pe scaun, ajunge la 8, uneori la 9 chiar. Ieri cu punga aia, 9."
+    },
+    {
+      "start": 103.18,
+      "end": 107.74,
+      "speaker": "SPEAKER_00",
+      "text": "Se lasă durerea și pe picior? Simțiți ceva pe fesă, pe coapsă?"
+    },
+    {
+      "start": 107.86,
+      "end": 119.64,
+      "speaker": "SPEAKER_01",
+      "text": "Da, pe fesa stângă. Câteodată se duce și puțin pe coapsa din față, din stânga. Dar nu mereu, nu e constant. Când mă aplec să leg șireturile, atunci cel mai tare."
+    },
+    {
+      "start": 119.76,
+      "end": 121.28,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeli? Furnicături pe picior?"
+    },
+    {
+      "start": 121.4,
+      "end": 132.04,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu. Adică... nu știu, o dată am simțit că mi-a amorțit puțin piciorul stâng noaptea, dar credeam că dorm pe el. Nu știu dacă are legătură."
+    },
+    {
+      "start": 132.16,
+      "end": 135.96,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Durerea de jos se lasă mai jos de genunchi?"
+    },
+    {
+      "start": 136.08,
+      "end": 141.02,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu coboară atât de jos. Cel mult la jumătatea coapsei, pe fesă."
+    },
+    {
+      "start": 141.14,
+      "end": 144.18,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ați mai avut episoade asemănătoare în trecut?"
+    },
+    {
+      "start": 144.3,
+      "end": 163.3,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, cu vreo doi ani în urmă am mai avut ceva similar, dar a trecut singur după o săptămână. Acum nu mai trece. Asta mă și îngrijorează, că de data asta parcă e mai persistent, mă gândesc să nu fie ceva grav, nu știu, hernie de disc sau ceva..."
+    },
+    {
+      "start": 163.42,
+      "end": 166.08,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Aveți investigații imagistice făcute? RMN, radiografie?"
+    },
+    {
+      "start": 166.2,
+      "end": 189.76,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Medicul de familie nu mi-a dat trimitere. Mi-a dat Ibuprofen și un gel, Voltaren, și mi-a zis să mă odihnesc. Am luat câteva zile dar nu m-a ajutat mai mult. Adică am luat Ibuprofen 400, câte una de trei ori pe zi, vreo cinci zile. Acum mai iau câteodată dacă e prea rău, nu mai constant."
+    },
+    {
+      "start": 189.88,
+      "end": 194.06,
+      "speaker": "SPEAKER_00",
+      "text": "Deci Ibuprofen 400 și Voltaren gel mai luați și acum, ocazional?"
+    },
+    {
+      "start": 194.18,
+      "end": 202.16,
+      "speaker": "SPEAKER_01",
+      "text": "Da, Voltaren îl pun aproape în fiecare seară, sincer. Ibuprofenul doar când nu mai pot, poate o dată-două pe săptămână."
+    },
+    {
+      "start": 202.28,
+      "end": 206.08,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Alte afecțiuni, tensiune arterială, diabet, probleme la inimă?"
+    },
+    {
+      "start": 206.2,
+      "end": 215.7,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Am hipertensiune de vreo trei ani. Iau pastile pentru asta, Enalapril 10 miligrame, dimineața. Altceva... nu. Diabet nu, inimă nu, Doamne ferește."
+    },
+    {
+      "start": 215.82,
+      "end": 218.1,
+      "speaker": "SPEAKER_00",
+      "text": "Osteoporoză, artroză, hernie de disc diagnosticată?"
+    },
+    {
+      "start": 218.22,
+      "end": 228.48,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu de hernie, că n-am făcut RMN. Artroză nu mi-a zis nimeni. Mama a avut artroză la genunchi, dar eu personal nu am diagnostic."
+    },
+    {
+      "start": 228.6,
+      "end": 229.4,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale?"
+    },
+    {
+      "start": 229.52,
+      "end": 233.7,
+      "speaker": "SPEAKER_01",
+      "text": "Am fost operat de apendicită acum vreo zece ani. Altceva nu."
+    },
+    {
+      "start": 233.82,
+      "end": 234.96,
+      "speaker": "SPEAKER_00",
+      "text": "Ce profesie aveți?"
+    },
+    {
+      "start": 235.08,
+      "end": 248.76,
+      "speaker": "SPEAKER_01",
+      "text": "Stau mult la birou, sunt contabil. Opt ore, uneori nouă-zece în perioadele aglomerate. Scaun de birou, nu e cel mai bun scaun din lume, mă tot gândesc să iau unul ergonomic dar n-am apucat."
+    },
+    {
+      "start": 248.88,
+      "end": 250.78,
+      "speaker": "SPEAKER_00",
+      "text": "Faceți sport sau mișcare regulată?"
+    },
+    {
+      "start": 250.9,
+      "end": 262.3,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... nu prea. Mergeam la sală acum doi ani, dar am lăsat-o. Acum merg pe jos câte un pic, nu mai mult. De când mă doare spatele nici atât."
+    },
+    {
+      "start": 262.42,
+      "end": 269.26,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să facem câteva teste. Stați în picioare, relaxat, cu mâinile pe lângă corp. Aplecați-vă ușor înainte."
+    },
+    {
+      "start": 269.38,
+      "end": 271.66,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, mai mult nu."
+    },
+    {
+      "start": 271.78,
+      "end": 274.44,
+      "speaker": "SPEAKER_00",
+      "text": "Se acutizează durerea la aplecarea în față?"
+    },
+    {
+      "start": 274.56,
+      "end": 277.22,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da. Uite, aici se simte tot."
+    },
+    {
+      "start": 277.34,
+      "end": 278.86,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum înapoi, ușor."
+    },
+    {
+      "start": 278.98,
+      "end": 281.64,
+      "speaker": "SPEAKER_01",
+      "text": "Înapoi e ok, nu doare la fel."
+    },
+    {
+      "start": 281.76,
+      "end": 284.04,
+      "speaker": "SPEAKER_00",
+      "text": "Stați pe piciorul stâng. Vă ține?"
+    },
+    {
+      "start": 284.16,
+      "end": 288.34,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mă ține, dar simt că... uite, apare ceva în fesă."
+    },
+    {
+      "start": 288.46,
+      "end": 295.3,
+      "speaker": "SPEAKER_00",
+      "text": "Întindeți-vă pe masă, pe spate. Ridic ușor piciorul stâng cu genunchiul drept. Îmi spuneți când apare durerea."
+    },
+    {
+      "start": 295.42,
+      "end": 298.08,
+      "speaker": "SPEAKER_01",
+      "text": "Deja la... nu știu, la unghiul ăsta."
+    },
+    {
+      "start": 298.2,
+      "end": 300.86,
+      "speaker": "SPEAKER_00",
+      "text": "Sub 45 de grade apare durerea lombară?"
+    },
+    {
+      "start": 300.98,
+      "end": 302.5,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și în fesă."
+    },
+    {
+      "start": 302.62,
+      "end": 309.84,
+      "speaker": "SPEAKER_00",
+      "text": "Test Lasègue pozitiv pe stânga la aproximativ 40 de grade, cu durere lombară și fesieră. Pe dreapta vedem acum."
+    },
+    {
+      "start": 309.96,
+      "end": 312.24,
+      "speaker": "SPEAKER_01",
+      "text": "Pe dreapta... nu, nu apare nimic."
+    },
+    {
+      "start": 312.36,
+      "end": 337.44,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Vă spun ce observ. Aveți o contractură musculară paravertebrală lombară destul de marcată, mai mult pe stânga. Mișcarea de flexie este limitată, extensia relativ păstrată. Testul pe care l-am făcut sugerează o iritație radiculară pe stânga, cel mai probabil la nivel L4-L5 sau L5-S1. Nu pot confirma fără RMN, dar imaginea clinică este sugestivă pentru o hernie sau protruziune discală lombară stângă."
+    },
+    {
+      "start": 337.56,
+      "end": 342.88,
+      "speaker": "SPEAKER_01",
+      "text": "Adică hernie de disc... serios? Asta mă temeam eu. Deci e grav? Trebuie operat?"
+    },
+    {
+      "start": 343.0,
+      "end": 361.24,
+      "speaker": "SPEAKER_00",
+      "text": "Nu neapărat operat. Marea majoritate a herniilor lombare răspund bine la terapie conservatoare, nu se ajunge la operație. Obiectivul nostru este să reducem inflamația, să relaxăm musculatura contracturată și să decomprimimăm un pic rădăcina nervoasă. Plus vă recomand să faceți un RMN lombar ca să avem imaginea completă."
+    },
+    {
+      "start": 361.36,
+      "end": 368.58,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, înțeleg. Și cât durează? Că eu am o perioadă grea la serviciu acum, nu pot să stau acasă..."
+    },
+    {
+      "start": 368.7,
+      "end": 373.26,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde cum răspunde. Începem cu reducerea durerii acute și vedem cum evoluează."
+    },
+    {
+      "start": 373.38,
+      "end": 378.32,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, ok. Și cu tensiunea, pot să fac terapie? Adică nu e contraindicat?"
+    },
+    {
+      "start": 378.44,
+      "end": 384.9,
+      "speaker": "SPEAKER_00",
+      "text": "Cu tensiunea controlată medicamentos nu avem o contraindicație pentru ce facem noi. Important e să continuați Enalaprilul."
+    },
+    {
+      "start": 385.02,
+      "end": 390.72,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, îl iau zilnic, nu uit niciodată. Mă speriasem că poate nu pot face."
+    },
+    {
+      "start": 390.84,
+      "end": 392.36,
+      "speaker": "SPEAKER_00",
+      "text": "Puteți. Haideți să începem."
+    }
+  ]
+}

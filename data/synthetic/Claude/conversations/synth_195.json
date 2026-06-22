@@ -1,0 +1,205 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 10.8,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua. Am venit că mă doare genunchiul, cel drept, de vreo trei săptămâni deja și nu mai știu ce să fac cu el."
+    },
+    {
+      "start": 10.92,
+      "end": 16.24,
+      "speaker": "SPEAKER_00",
+      "text": "Trei săptămâni. Pe o scară de la 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 16.36,
+      "end": 29.28,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... undeva la un 5, poate 6 când merg pe scări. Adică nu e insuportabil, dar mă enervează teribil, știți? Am 52 de ani, nu sunt chiar bătrân, nu fumez, mă mișc, și totuși..."
+    },
+    {
+      "start": 29.4,
+      "end": 32.06,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Doare permanent sau doar la mișcare?"
+    },
+    {
+      "start": 32.18,
+      "end": 55.36,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult la mișcare, da. La urcat scări, la stat în genunchi... am o terasă pe care lucrez la ea în weekend-uri și acolo trebuie să stau mult pe vine. Ei bine, de acolo cred că a pornit, că am pus niște plăci, am stat câteva ore... Nu știu dacă asta a cauzat-o, dar cam de atunci a început."
+    },
+    {
+      "start": 55.48,
+      "end": 57.76,
+      "speaker": "SPEAKER_00",
+      "text": "Deci după un efort pe genunchi?"
+    },
+    {
+      "start": 57.88,
+      "end": 71.56,
+      "speaker": "SPEAKER_01",
+      "text": "Exact, exact. Și acum mă tem că e ceva grav, știți? Fratele meu a avut artrită și a suferit mult, eu nu vreau să ajung acolo. Deja mi-am căutat pe internet și m-am speriat."
+    },
+    {
+      "start": 71.68,
+      "end": 75.48,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Doare mai mult în față, pe lateral, în spate?"
+    },
+    {
+      "start": 75.6,
+      "end": 79.4,
+      "speaker": "SPEAKER_01",
+      "text": "Pe partea asta, laterală, pe exterior. Aici, cam pe aici."
+    },
+    {
+      "start": 79.52,
+      "end": 81.04,
+      "speaker": "SPEAKER_00",
+      "text": "Pe exterior, pe dreapta."
+    },
+    {
+      "start": 81.16,
+      "end": 92.94,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da. Și uneori simt că trage și puțin spre coapsă, în sus, dar nu știu dacă e de la asta sau e altceva. Mă gândeam, nu știu, poate e nervul?"
+    },
+    {
+      "start": 93.06,
+      "end": 94.96,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă apăs here, doare?"
+    },
+    {
+      "start": 95.08,
+      "end": 96.6,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, chiar acolo."
+    },
+    {
+      "start": 96.72,
+      "end": 97.86,
+      "speaker": "SPEAKER_00",
+      "text": "Genunchiul se umflă?"
+    },
+    {
+      "start": 97.98,
+      "end": 103.3,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, umflat nu l-am văzut. Poate puțin mai cald uneori, dar umflat nu."
+    },
+    {
+      "start": 103.42,
+      "end": 106.08,
+      "speaker": "SPEAKER_00",
+      "text": "Alte probleme de sănătate, tensiune, diabet, ceva?"
+    },
+    {
+      "start": 106.2,
+      "end": 120.26,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Iau Enalapril de vreo doi ani, 10 miligrame pe zi. Altceva nu. Adică am avut și un episod cu coloana acum vreo patru ani, lombar, dar a trecut, nu mai am nimic acolo acum."
+    },
+    {
+      "start": 120.38,
+      "end": 121.52,
+      "speaker": "SPEAKER_00",
+      "text": "A trecut complet?"
+    },
+    {
+      "start": 121.64,
+      "end": 133.04,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, complet. Mi-a zis medicul că a fost o contractură și cu câteva ședințe de masaj a trecut. Nu mai am nimic pe spate acum, mulțumesc lui Dumnezeu."
+    },
+    {
+      "start": 133.16,
+      "end": 135.06,
+      "speaker": "SPEAKER_00",
+      "text": "Operații, fracturi la genunchi vreodată?"
+    },
+    {
+      "start": 135.18,
+      "end": 143.16,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată. Nici fracturi. Cel mult o entorsă la gleznă acum vreo zece ani, dar la gleznă stângă, nu are legătură."
+    },
+    {
+      "start": 143.28,
+      "end": 145.56,
+      "speaker": "SPEAKER_00",
+      "text": "Medicamente altele în afară de Enalapril?"
+    },
+    {
+      "start": 145.68,
+      "end": 150.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Uneori iau un Ibuprofen când mă doare tare, dar nu regulat."
+    },
+    {
+      "start": 150.74,
+      "end": 154.16,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Stați puțin în picioare, cu spatele la mine."
+    },
+    {
+      "start": 154.28,
+      "end": 155.08,
+      "speaker": "SPEAKER_01",
+      "text": "Așa?"
+    },
+    {
+      "start": 155.2,
+      "end": 157.1,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Acum mergeți câțiva pași."
+    },
+    {
+      "start": 157.22,
+      "end": 162.16,
+      "speaker": "SPEAKER_01",
+      "text": "Simțiți ceva? Eu simt că oare mai tare când plec de pe loc."
+    },
+    {
+      "start": 162.28,
+      "end": 177.48,
+      "speaker": "SPEAKER_00",
+      "text": "Da, văd că aveți o ușoară rotație externă a piciorului drept. Și la palparea benzii ilio-tibiale avem sensibilitate, cum ați simțit mai devreme. Cel mai probabil e un sindrom de bandă ilio-tibială, apărut după efortul respectiv pe terasă."
+    },
+    {
+      "start": 177.6,
+      "end": 179.88,
+      "speaker": "SPEAKER_01",
+      "text": "Și e grav? Adică... trebuie operație?"
+    },
+    {
+      "start": 180.0,
+      "end": 187.22,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, deloc. O să lucrăm să reducem inflamația și să relaxăm fascia. Câteva ședințe și o să se rezolve."
+    },
+    {
+      "start": 187.34,
+      "end": 189.62,
+      "speaker": "SPEAKER_01",
+      "text": "Slavă Domnului. Mă speriasem degeaba atunci."
+    },
+    {
+      "start": 189.74,
+      "end": 191.64,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă, vă rog."
+    }
+  ]
+}

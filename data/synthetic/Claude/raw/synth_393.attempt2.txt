@@ -1,0 +1,47 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Ionescu Marian.\nSPEAKER_00: Vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem azi, domnule Ionescu?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Cel drept.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume înainte să înceapă? Ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mișcat niște mobilă.\nSPEAKER_00: Ați mișcat mobilă și de atunci a început?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum e acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare constant sau doar când mișcați?\nSPEAKER_01: Când mișc. Și noaptea uneori.\nSPEAKER_00: Noaptea vă treziți din cauza durerii?\nSPEAKER_01: Da, dacă stau pe partea dreaptă.\nSPEAKER_00: Înțeleg. Durerea rămâne în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Se lasă puțin, până aici.\nSPEAKER_00: Până la cot?\nSPEAKER_01: Cam da.\nSPEAKER_00: Amorțeală, furnicături la nivelul brațului sau mâinii?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Puteți să ridicați brațul drept sus?\nSPEAKER_01: Până pe la orizontală, după aia doare.\nSPEAKER_00: Deci după 90 de grade doare mai tare?\nSPEAKER_01: Da.\nSPEAKER_00: Îl puteți duce în spate, ca atunci când vă legați centura la mașină?\nSPEAKER_01: Greu. Doare.\nSPEAKER_00: Înțeleg. Alte dureri în afară de umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Vă întreb câteva lucruri de rutină: tensiune, diabet, probleme la inimă?\nSPEAKER_01: Nu.\nSPEAKER_00: Epilepsie, cancer?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu am avut.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme sau unguente?\nSPEAKER_01: Nu știu. Cred că nu.\nSPEAKER_00: Ok. Haideți să vă examineze puțin. Stați drept, cu brațele pe lângă corp. Acum ridicați ușor brațul drept lateral... spuneți-mi când simțiți durerea.\nSPEAKER_01: Acum. Cam de aici.\nSPEAKER_00: Deci în jur de 80-90 de grade. Bun. Și dacă apăs aici, pe capul humeral, doare?\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Înțeleg. Pare a fi o tendinopatie a coifului rotator, cel mai probabil supraspinatus. Avem o inflamație la nivelul tendoanelor umărului drept, agravată de efortul cu mobila. Va trebui să lucrăm la reducerea inflamației și să recuperăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Vom face și un pic de masaj pe musculatura din jurul umărului, deltoid, trapez superior, și urmărim cum evoluează. Haideți pe masă cu fața în sus, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută în urmă cu aproximativ două săptămâni după efort fizic (mutat mobilă). Durere la mișcare și nocturnă (decubit pe partea dreaptă), cu iradiere ușoară până la cot. Limitarea abducției după 90 de grade.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "iradiere pe braț drept până la cot",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinopatie coif rotator (supraspinatus) umăr drept\n- inflamație tendoane umăr drept post-efort\nObiective terapeutice:\n- reducerea inflamației\n- recuperarea mobilității umărului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Cel drept.",
+      "Vreo două săptămâni.",
+      "Am mișcat niște mobilă.",
+      "Când mișc. Și noaptea uneori.",
+      "Până la cot.",
+      "Până pe la orizontală, după aia doare."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Cel drept.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă puțin, până aici.",
+      "Până la cot."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o tendinopatie a coifului rotator, cel mai probabil supraspinatus.",
+      "Avem o inflamație la nivelul tendoanelor umărului drept, agravată de efortul cu mobila.",
+      "Va trebui să lucrăm la reducerea inflamației și să recuperăm mobilitatea umărului.",
+      "Deci în jur de 80-90 de grade.",
+      "dacă apăs aici, pe capul humeral, doare?"
+    ]
+  }
+}

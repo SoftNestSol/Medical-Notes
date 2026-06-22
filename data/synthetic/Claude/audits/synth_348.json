@@ -1,0 +1,46 @@
+{
+  "conversation_id": "synth_348",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare... cam pe la ceafă, pe partea asta, și coboară și pe umăr, nu știu exact cum să vă zic, e cam pe toată zona asta de sus",
+      "Stau mult la birou, la calculator, toată ziua practic. Și parcă s-a adunat."
+    ],
+    "evaluarea_durerii_vas": [
+      "La maxim... păi e undeva pe la... nu știu, 6, 7, ceva pe acolo.",
+      "Poate un 4, nu știu exact."
+    ],
+    "localizarea_durerii": [
+      "mă doare... cam pe la ceafă, pe partea asta, și coboară și pe umăr",
+      "Mai mult pe dreapta, da."
+    ],
+    "localizarea_durerii_alta": [
+      "Câteodată simt ceva pe braț, pe partea asta, dar nu știu cum să zic, nu e o durere clară, e mai degrabă un fel de greutate, sau o amorțeală câteodată.",
+      "Uneori până pe la cot, parcă."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am avut o fractură la gleznă acum vreo 10 ani, că am căzut pe scări.",
+      "Am scos apendicele acum mulți ani, pe la 15 ani cred."
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară semnificativă la nivelul musculaturii cervicale și a trapezului pe dreapta, cu o mobilitate redusă a coloanei cervicale, mai ales la rotație spre dreapta și la extensie",
+      "Amorțeala pe braț sugerează că poate fi și o ușoară iritație pe traiectul nervos, probabil la nivel cervical inferior",
+      "Ca prim obiectiv, vrem să reducem contractura și tensiunea musculară și să refacem mobilitatea coloanei cervicale."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13823,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 3363,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

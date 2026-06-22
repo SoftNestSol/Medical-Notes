@@ -1,0 +1,205 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua!"
+    },
+    {
+      "start": 2.56,
+      "end": 4.84,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 4.96,
+      "end": 21.68,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, am o durere la umăr, la umărul drept, de vreo două săptămâni. Adică, sincer, am mai simțit-o și înainte, dar acum s-a înrăutățit tare. Cred că de la serviciu, stau mult la birou, la calculator, și parcă s-a adunat totul."
+    },
+    {
+      "start": 21.8,
+      "end": 27.5,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și durerea e locală, la umăr, sau se lasă și pe braț în jos?"
+    },
+    {
+      "start": 27.62,
+      "end": 37.12,
+      "speaker": "SPEAKER_01",
+      "text": "Se lasă un pic, da, pe partea din față a brațului, până pe la cot, cam pe acolo. Nu mai jos, nu ajunge la mână."
+    },
+    {
+      "start": 37.24,
+      "end": 42.56,
+      "speaker": "SPEAKER_00",
+      "text": "Până la cot. Și e o durere continuă sau apare mai mult la mișcare?"
+    },
+    {
+      "start": 42.68,
+      "end": 59.78,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult la mișcare, da. Adică dacă ridic brațul așa în sus, doare rău. Dacă îl duc în lateral, la fel. Dar dacă stau liniștit, e un disconfort, nu chiar durere puternică. Noaptea mai am momente când mă trezesc dacă mă întorc pe partea dreaptă."
+    },
+    {
+      "start": 59.9,
+      "end": 62.18,
+      "speaker": "SPEAKER_00",
+      "text": "Deci noaptea, pe partea dreaptă, doare."
+    },
+    {
+      "start": 62.3,
+      "end": 74.84,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact. Și de aia stau mai mult pe stânga acum, că altfel nu dorm. Am citit pe internet că ar putea fi ceva la tendoane, nu știu, m-am speriat un pic."
+    },
+    {
+      "start": 74.96,
+      "end": 86.36,
+      "speaker": "SPEAKER_00",
+      "text": "Hai să vedem noi ce e. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, cum ați situa durerea când ridicați brațul?"
+    },
+    {
+      "start": 86.48,
+      "end": 93.32,
+      "speaker": "SPEAKER_01",
+      "text": "La ridicare, așa, un 7. Da, 7 e corect. Când stau, poate un 2-3, nu mai mult."
+    },
+    {
+      "start": 93.44,
+      "end": 99.14,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și aceste două săptămâni, a apărut după ceva anume? Ați căzut, ați ridicat ceva?"
+    },
+    {
+      "start": 99.26,
+      "end": 114.46,
+      "speaker": "SPEAKER_01",
+      "text": "Nu am căzut, nu. Dar acum vreo trei săptămâni am mutat niște cutii grele la birou, singur, și parcă de atunci a început. Deși, cum vă spuneam, mai simțeam și înainte ceva, o jenă, dar trecea. Acum nu mai trece."
+    },
+    {
+      "start": 114.58,
+      "end": 119.9,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și în afară de umărul drept, mai aveți alte zone care vă deranjează?"
+    },
+    {
+      "start": 120.02,
+      "end": 139.4,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mai am ceva pe zona gâtului, pe cervical, dar mai veche treaba asta. De ani de zile, de când lucrez la birou. Nu mă doare acum în mod special, dar e o tensiune acolo, mai ales spre seară. Și soția mea zice că stau cocoșat, ceea ce probabil e adevărat."
+    },
+    {
+      "start": 139.52,
+      "end": 143.7,
+      "speaker": "SPEAKER_00",
+      "text": "Da, postura la birou contează mult. Vârsta, dacă pot să întreb?"
+    },
+    {
+      "start": 143.82,
+      "end": 149.9,
+      "speaker": "SPEAKER_01",
+      "text": "38. Și sunt contabil, deci da, stau opt ore pe zi la calculator, uneori mai mult."
+    },
+    {
+      "start": 150.02,
+      "end": 150.82,
+      "speaker": "SPEAKER_00",
+      "text": "Alergii aveți?"
+    },
+    {
+      "start": 150.94,
+      "end": 152.08,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nicio alergie."
+    },
+    {
+      "start": 152.2,
+      "end": 155.24,
+      "speaker": "SPEAKER_00",
+      "text": "Alte afecțiuni, tensiune, diabet, ceva de genul acesta?"
+    },
+    {
+      "start": 155.36,
+      "end": 160.3,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea. Sunt sănătos în rest, mulțumesc lui Dumnezeu."
+    },
+    {
+      "start": 160.42,
+      "end": 163.08,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament în momentul de față?"
+    },
+    {
+      "start": 163.2,
+      "end": 170.8,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat un Voltaren gel, pe umăr, vreo câteva zile, dar nu prea m-a ajutat. Pastile nu iau nimic."
+    },
+    {
+      "start": 170.92,
+      "end": 175.48,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Stați puțin, ridicați brațul drept în față, încet... până unde puteți."
+    },
+    {
+      "start": 175.6,
+      "end": 178.64,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici, cam atât, că mai sus doare."
+    },
+    {
+      "start": 178.76,
+      "end": 186.74,
+      "speaker": "SPEAKER_00",
+      "text": "Văd că e limitată ridicarea, aproximativ la 90 de grade, și apare durerea. Acum duc eu brațul, spuneți-mi dacă doare."
+    },
+    {
+      "start": 186.86,
+      "end": 189.9,
+      "speaker": "SPEAKER_01",
+      "text": "Da, doare, da, exact în față, pe acolo."
+    },
+    {
+      "start": 190.02,
+      "end": 192.68,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă apăs aici, pe tendonul supraspinosului..."
+    },
+    {
+      "start": 192.8,
+      "end": 194.7,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, acolo e sensibil."
+    },
+    {
+      "start": 194.82,
+      "end": 211.16,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Avem o inflamație la nivelul tendoanelor coifului rotatorilor, cel mai probabil supraspinosul. Durerea care coboară pe braț e din cauza iritației locale, nu e o problemă nervoasă. Obiectivul nostru va fi să reducem inflamația și să recuperăm amplitudinea de mișcare a umărului."
+    },
+    {
+      "start": 211.28,
+      "end": 218.88,
+      "speaker": "SPEAKER_01",
+      "text": "Și cât timp durează, aproximativ? Că am o prezentare la serviciu peste două săptămâni și trebuie să scriu pe tablă."
+    },
+    {
+      "start": 219.0,
+      "end": 226.22,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde cum răspundeți la tratament, dar în câteva ședințe ar trebui să simțiți îmbunătățire. Hai să trecem la treabă."
+    }
+  ]
+}

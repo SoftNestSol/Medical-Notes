@@ -1,0 +1,217 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, domnule!"
+    },
+    {
+      "start": 1.26,
+      "end": 2.78,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.9,
+      "end": 5.56,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi și mie numele, vă rog."
+    },
+    {
+      "start": 5.68,
+      "end": 6.48,
+      "speaker": "SPEAKER_01",
+      "text": "Constantin Dragomir."
+    },
+    {
+      "start": 6.6,
+      "end": 8.5,
+      "speaker": "SPEAKER_00",
+      "text": "Și vârsta, dacă se poate."
+    },
+    {
+      "start": 8.62,
+      "end": 24.58,
+      "speaker": "SPEAKER_01",
+      "text": "38 de ani. Păi știți, am și un coleg care a venit la dumneavoastră, Mihai, și mi-a zis să vin neapărat, că l-ați ajutat și pe el cu spatele, și am zis hai că tot amân de vreo două luni."
+    },
+    {
+      "start": 24.7,
+      "end": 27.74,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 27.86,
+      "end": 49.52,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare umărul, cel drept, de vreo trei săptămâni. A început după ce am zugrăvit casa, am stat mult cu mâna sus și de atunci nu mai pot să ridic brațul bine. Și nu știu, poate mi-am rupt ceva, că mă tot gândesc la asta, am citit pe internet că poate fi tendon rupt și așa..."
+    },
+    {
+      "start": 49.64,
+      "end": 54.96,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles, înțeles. Și când ridicați brațul, doare mai tare în față sau în lateral?"
+    },
+    {
+      "start": 55.08,
+      "end": 61.54,
+      "speaker": "SPEAKER_01",
+      "text": "În lateral, când ridic așa, pe lateral. Și noaptea mă trezesc uneori dacă stau pe umărul ăla."
+    },
+    {
+      "start": 61.66,
+      "end": 62.8,
+      "speaker": "SPEAKER_00",
+      "text": "Pe umărul drept."
+    },
+    {
+      "start": 62.92,
+      "end": 70.9,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da. Și mai doare și puțin înspre gât, da, câteodată simt ceva și pe aici, dar umărul e problema principală."
+    },
+    {
+      "start": 71.02,
+      "end": 72.92,
+      "speaker": "SPEAKER_00",
+      "text": "Pe zona de cervical doare?"
+    },
+    {
+      "start": 73.04,
+      "end": 81.02,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, nu știu dacă e cervical sau e de la umăr, e cam pe la baza gâtului, mai degrabă pe umăr."
+    },
+    {
+      "start": 81.14,
+      "end": 89.88,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât ați da durerii?"
+    },
+    {
+      "start": 90.0,
+      "end": 99.5,
+      "speaker": "SPEAKER_01",
+      "text": "Hm, depinde când. Dacă stau liniștit, poate un 3. Dacă ridic brațul sus sau mă sprijin pe el, un 7. Noaptea poate și un 6."
+    },
+    {
+      "start": 99.62,
+      "end": 101.52,
+      "speaker": "SPEAKER_00",
+      "text": "Deci un 7 la mișcare."
+    },
+    {
+      "start": 101.64,
+      "end": 103.16,
+      "speaker": "SPEAKER_01",
+      "text": "Da, la mișcare da."
+    },
+    {
+      "start": 103.28,
+      "end": 105.18,
+      "speaker": "SPEAKER_00",
+      "text": "Ați luat ceva pentru durere?"
+    },
+    {
+      "start": 105.3,
+      "end": 114.8,
+      "speaker": "SPEAKER_01",
+      "text": "Am pus un gel, Voltaren, din când în când, dar nu prea m-a ajutat. Nu iau pastile că nu-mi place să iau medicamente."
+    },
+    {
+      "start": 114.92,
+      "end": 117.96,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Alte afecțiuni aveți, tensiune, diabet, ceva?"
+    },
+    {
+      "start": 118.08,
+      "end": 125.68,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, sunt sănătos, nu am nimic. Poate doar că sunt un pic stressat la serviciu, dar asta e altă poveste."
+    },
+    {
+      "start": 125.8,
+      "end": 126.6,
+      "speaker": "SPEAKER_00",
+      "text": "Fracturi, operații?"
+    },
+    {
+      "start": 126.72,
+      "end": 127.52,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată."
+    },
+    {
+      "start": 127.64,
+      "end": 132.58,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să fac câteva teste acum. Ridicați brațul drept lateral pentru mine."
+    },
+    {
+      "start": 132.7,
+      "end": 135.36,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, mai sus deja doare."
+    },
+    {
+      "start": 135.48,
+      "end": 141.56,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, cam până la 90 de grade se blochează. Acum mențineți brațul și rezistați când împing."
+    },
+    {
+      "start": 141.68,
+      "end": 143.58,
+      "speaker": "SPEAKER_01",
+      "text": "Ăăă, doare tare acum, da."
+    },
+    {
+      "start": 143.7,
+      "end": 146.74,
+      "speaker": "SPEAKER_00",
+      "text": "Doare. Acum puneți mâna la spate, cât puteți."
+    },
+    {
+      "start": 146.86,
+      "end": 151.8,
+      "speaker": "SPEAKER_01",
+      "text": "Ajung cam până la șold, mai sus nu pot, se simte că trage."
+    },
+    {
+      "start": 151.92,
+      "end": 170.54,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Ce pot să vă spun este că avem o inflamație la nivelul tendoanelor din umăr, cel mai probabil manșeta rotatorilor, supraspinatul e cel mai afectat. Nu e tendon rupt, nu vă faceți griji pentru asta. E o suprasolicitare de la zugrăvit, poziție cu brațul ridicat timp îndelungat."
+    },
+    {
+      "start": 170.66,
+      "end": 175.98,
+      "speaker": "SPEAKER_01",
+      "text": "A, bine că mi-ați spus, că tare m-am mai gândit la asta."
+    },
+    {
+      "start": 176.1,
+      "end": 182.18,
+      "speaker": "SPEAKER_00",
+      "text": "Vom lucra să reducem inflamația și să refacem mobilitatea. O să avem nevoie de câteva ședințe."
+    },
+    {
+      "start": 182.3,
+      "end": 185.34,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, cât ziceți dumneavoastră, important să treacă."
+    },
+    {
+      "start": 185.46,
+      "end": 186.98,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă atunci."
+    }
+  ]
+}

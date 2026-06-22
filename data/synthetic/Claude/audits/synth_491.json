@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_491",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele jos.",
+      "Am mutat niște cutii.",
+      "Uneori se lasă pe fesă stângă.",
+      "Dimineața.",
+      "Statul jos mai mult.",
+      "Vreo opt ore."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5.",
+      "Poate 7."
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele jos.",
+      "Uneori se lasă pe fesă stângă.",
+      "Exact în zona lombară, jos.",
+      "Un pic în zona lombară."
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori se lasă pe fesă stângă."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți umărul stâng puțin mai jos.",
+      "E o postură compensatorie, probabil din durere.",
+      "Testul e pozitiv ușor pe stânga, ceea ce confirmă iritație în zona lombosacrală.",
+      "Musculatura paravertebrală e contractată, simt asta la palpare.",
+      "Avem o contractură lombară acută pe fond de efort, probabil cu o iritație minoră la nivelul sacrului.",
+      "O să lucrăm să relaxăm musculatura din zona lombară și sacrală și să reducem contractura."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22994,
+    "inference_geo": "global",
+    "input_tokens": 351,
+    "output_tokens": 2708,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

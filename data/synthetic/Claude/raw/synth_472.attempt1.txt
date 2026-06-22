@@ -1,0 +1,56 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de sus, de mijloc?\nSPEAKER_01: Jos.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva înainte să apară durerea? Ai ridicat ceva, ai făcut un efort?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Ai mutat mobilă și după a apărut durerea.\nSPEAKER_01: Da, a doua zi.\nSPEAKER_00: A doua zi. Și de atunci nu a trecut.\nSPEAKER_01: Nu.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 doare foarte tare, unde ai situa durerea asta?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare constant sau doar când te miști?\nSPEAKER_01: Mai mult când mă mișc.\nSPEAKER_00: Când te apleci, când te ridici?\nSPEAKER_01: Când mă ridic din scaun. Și când mă aplec în față.\nSPEAKER_00: Și când stai jos, stând liniștit, nu doare?\nSPEAKER_01: Doare un pic, dar mai puțin.\nSPEAKER_00: Durerea asta se lasă undeva în jos, pe fesă, pe picior?\nSPEAKER_01: Nu știu... uneori parcă pe fesa stângă.\nSPEAKER_00: Doar pe fesă sau coboară și pe picior, sub genunchi?\nSPEAKER_01: Nu, doar pe fesă.\nSPEAKER_00: Ok. Și pe dreapta nu simți nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeli, furnicături în picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alergii ai?\nSPEAKER_01: Nu.\nSPEAKER_00: Tensiune, diabet, osteoporoză, altceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Iei vreun medicament în momentul ăsta?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nicio pastilă de durere?\nSPEAKER_01: Nu, nu am luat nimic.\nSPEAKER_00: Ok. Ai mai avut episoade de genul ăsta înainte, durere în zona lombară?\nSPEAKER_01: Acum vreo doi ani, ceva, dar a trecut singur.\nSPEAKER_00: A trecut singur, fără tratament.\nSPEAKER_01: Da.\nSPEAKER_00: Ai făcut vreo radiografie, vreun RMN?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Ce muncă faci? Stai mult la birou sau ești în picioare?\nSPEAKER_01: La birou, toată ziua.\nSPEAKER_00: Toată ziua la birou. Și cu durerea asta reușești să stai la birou?\nSPEAKER_01: Da, dar mă ține.\nSPEAKER_00: Te ține. Ridică-te puțin, te rog, hai să stai cu spatele la mine.\nSPEAKER_01: Ok.\nSPEAKER_00: Stai relaxat, mâinile pe lângă corp. Văd că ai bazinul puțin înclinat spre stânga. O să apăs un pic pe mușchi, îmi spui dacă doare.\nSPEAKER_01: Da.\nSPEAKER_00: Aici, paravertebral stânga, doare?\nSPEAKER_01: Da, doare.\nSPEAKER_00: Pe dreapta la fel?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Deci mai sensibil pe stânga. Și fesa stângă, apăs acum, doare?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Bun. Aplecă-te încet în față, cât poți.\nSPEAKER_01: Până aici.\nSPEAKER_00: Ok, cam până la jumătate. Și înapoi, dai capul pe spate ușor?\nSPEAKER_01: Asta doare mai tare.\nSPEAKER_00: Extensia doare mai tare. Înțeles. Hai să te pui pe masă cu fața în jos.\nSPEAKER_01: Ok.\nSPEAKER_00: Ridic piciorul stâng, îmi spui dacă apare vreo durere în spate sau pe picior.\nSPEAKER_01: Un pic în spate.\nSPEAKER_00: Doar în spate, nu pe picior.\nSPEAKER_01: Nu, doar în spate.\nSPEAKER_00: Bine. Deci avem o contractură musculară lombară, mai accentuată pe stânga, cu iradiere în fesa stângă. Cel mai probabil musculatura paravertebrală și piriformul stâng sunt inflamate după efortul de la mutatul mobilei. O să lucrăm să reducem inflamația și contractura, să îți recăpătăm mobilitatea. Cred că în câteva ședințe ar trebui să simți o îmbunătățire.\nSPEAKER_01: Ok.\nSPEAKER_00: Începem chiar acum?\nSPEAKER_01: Da.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă apărută la două săptămâni după efort fizic (mutat mobilă), accentuată la mișcare (ridicare din scaun, flexie anterioară), cu iradiere în fesa stângă.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": "fesa stângă",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nBazin ușor înclinat spre stânga. Sensibilitate la palpare paravertebral stânga mai accentuată decât dreapta. Sensibilitate la palpare fesă stângă. Flexie anterioară limitată (aproximativ jumătate din amplitudine). Extensia lombară dureroasă. Test de ridicare a membrului inferior stâng pozitiv cu durere lombară, fără iradiere pe picior.\nDiagnostic:\nContractură musculară lombară post-efort, mai accentuată pe stânga, cu iradiere în fesa stângă (posibil piriform stâng implicat).\nObiective terapeutice:\nReducerea inflamației și a contracturii musculare; recăpătarea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "De vreo două săptămâni.",
+      "Am mutat niște mobilă.",
+      "a doua zi.",
+      "Când mă ridic din scaun. Și când mă aplec în față.",
+      "uneori parcă pe fesa stângă."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Mă doare spatele."
+    ],
+    "localizarea_durerii_alta": [
+      "uneori parcă pe fesa stângă.",
+      "Doar pe fesă."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nu, nu am luat nimic."
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd că ai bazinul puțin înclinat spre stânga.",
+      "Aici, paravertebral stânga, doare?",
+      "Da, doare.",
+      "Pe dreapta la fel? Mai puțin.",
+      "Deci mai sensibil pe stânga. Și fesa stângă, apăs acum, doare? Da, și acolo.",
+      "Aplecă-te încet în față, cât poți. Până aici.",
+      "Asta doare mai tare.",
+      "Extensia doare mai tare.",
+      "Ridic piciorul stâng, îmi spui dacă apare vreo durere în spate sau pe picior. Un pic în spate. Doar în spate, nu pe picior. Nu, doar în spate.",
+      "avem o contractură musculară lombară, mai accentuată pe stânga, cu iradiere în fesa stângă.",
+      "musculatura paravertebrală și piriformul stâng sunt inflamate după efortul de la mutatul mobilei.",
+      "O să lucrăm să reducem inflamația și contractura, să îți recăpătăm mobilitatea."
+    ]
+  }
+}

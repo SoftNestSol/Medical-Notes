@@ -1,0 +1,48 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: Vreo trei zile.\nSPEAKER_00: Trei zile. Și a apărut brusc sau mai aveați durerea asta?\nSPEAKER_01: Brusc. M-am trezit dimineața și nu puteam să mișc capul.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde v-ați situa acum?\nSPEAKER_01: Un 6.\nSPEAKER_00: 6. Durerea rămâne în zona gâtului sau se lasă și pe braț, pe umăr?\nSPEAKER_01: Pe umăr, pe dreapta.\nSPEAKER_00: Pe umărul drept. Mai jos de umăr coboară?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Aveți și amorțeală, furnicături pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Și dimineața când v-ați trezit, v-ați amintit dacă ați dormit ciudat, ați stat cu capul într-o poziție?\nSPEAKER_01: Nu știu. Poate.\nSPEAKER_00: Ok. Luați vreun medicament în momentul de față?\nSPEAKER_01: Am luat un Nurofen, dar atât.\nSPEAKER_00: Un Nurofen. Știți doza, câte miligrame?\nSPEAKER_01: Nu știu, cel normal.\nSPEAKER_00: Ok. Ați mai avut dureri de genul acesta înainte?\nSPEAKER_01: Da, mai rar.\nSPEAKER_00: Mai rar, dar au mai apărut. Aveți și dureri de cap odată cu asta?\nSPEAKER_01: Uneori.\nSPEAKER_00: Uneori. Acum în momentul de față aveți durere de cap?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Alte probleme de sănătate, tensiune, diabet, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nimic. Haideți să vedem puțin. Vreau să întoarceți capul spre dreapta, încet.\nSPEAKER_01: Până aici.\nSPEAKER_00: Da, văd că avem limitare pe rotație spre dreapta. Și spre stânga?\nSPEAKER_01: Merge mai bine.\nSPEAKER_00: Merge mai bine spre stânga. Acum aplecați capul spre umărul drept.\nSPEAKER_01: Au.\nSPEAKER_00: Doare pe partea dreaptă la înclinare. Bun. Apăs puțin pe mușchii de aici, pe trapez, pe dreapta. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și pe zona cervicală, în dreapta sus, apăs acum.\nSPEAKER_01: Da, acolo e mai rău.\nSPEAKER_00: Mai rău sus în cervical pe dreapta. Înțeles. Avem o contractură musculară în zona cervicală cu limitare de mobilitate pe rotație și înclinare spre dreapta. Vom lucra să relaxăm musculatura și să redobândim mobilitatea.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu iradiere pe umărul drept, instalată brusc de trei zile",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare mobilitate cervicală: rotație spre dreapta redusă, înclinare laterală dreapta dureroasă. Hipersensibilitate la palpare trapez dreapta și cervical superior dreapta. Diagnostic: contractură musculară cervicală cu limitare de mobilitate pe rotație și înclinare dreapta. Obiective terapeutice: relaxarea musculaturii cervicale, redobândirea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "M-am trezit dimineața și nu puteam să mișc capul.",
+      "Vreo trei zile.",
+      "Pe umăr, pe dreapta."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Pe umăr, pe dreapta."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Nurofen, dar atât."
+    ],
+    "evaluare_functionala_initiala": [
+      "văd că avem limitare pe rotație spre dreapta",
+      "Doare pe partea dreaptă la înclinare.",
+      "acolo e mai rău",
+      "Avem o contractură musculară în zona cervicală cu limitare de mobilitate pe rotație și înclinare spre dreapta. Vom lucra să relaxăm musculatura și să redobândim mobilitatea."
+    ]
+  }
+}

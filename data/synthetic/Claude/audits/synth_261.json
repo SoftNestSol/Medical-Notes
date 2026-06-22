@@ -1,0 +1,40 @@
+{
+  "conversation_id": "synth_261",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "De vreo două săptămâni.",
+      "Am ridicat ceva greu la serviciu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Șase."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Și pe braț un pic.",
+      "Până pe la cot, cam așa."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Durere la presiune sub acromion, pozitiv. Deci avem o inflamație la nivelul tendonului supraspinos, cel mai probabil o tendinopatie sau o iritație a bursei subacromiale, apărută după efort. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14029,
+    "inference_geo": "global",
+    "input_tokens": 309,
+    "output_tokens": 1619,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

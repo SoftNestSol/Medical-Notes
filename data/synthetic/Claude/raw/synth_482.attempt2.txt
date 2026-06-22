@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă veniți la noi?\nSPEAKER_01: Mă doare spatele, jos.\nSPEAKER_00: Jos, zona lombară. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc, da.\nSPEAKER_00: A fost ceva anume, ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Ați mutat mobilă. Și imediat a apărut durerea sau a doua zi?\nSPEAKER_01: A doua zi dimineața.\nSPEAKER_00: A doua zi dimineața, când v-ați ridicat din pat.\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde o situați?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Doare tot timpul sau numai la mișcare?\nSPEAKER_01: Mai mult când mă mișc. Când stau jos trece un pic.\nSPEAKER_00: Când stați jos se mai calmează. Dar când stați în picioare mult?\nSPEAKER_01: Da, doare.\nSPEAKER_00: Doare. Și când vă aplecați înainte?\nSPEAKER_01: Rău, da.\nSPEAKER_00: Deci la flexie anterioară e mai rău. Durerea rămâne doar în zona asta de jos sau se lasă undeva?\nSPEAKER_01: Uneori simt ceva și pe fesă, pe dreapta.\nSPEAKER_00: Pe fesa dreaptă. Coboară mai jos, pe picior?\nSPEAKER_01: Nu, nu ajunge pe picior.\nSPEAKER_00: Doar fesa dreaptă. Amorțeli în picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Dimineața când vă ridicați din pat, vă simțiți înțepenit?\nSPEAKER_01: Da, vreo zece minute.\nSPEAKER_00: Zece minute, după care se mai dezmorțește. Bun. Tensiune, diabet, osteoporoză, vreo altă afecțiune?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Nimic. Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul ăsta?\nSPEAKER_01: Nu.\nSPEAKER_00: Nimic. Ok. Haideți să facem câteva mișcări. Stați în picioare, vă rog, cu fața la mine. Lăsați mâinile pe lângă corp.\nSPEAKER_01: Bine.\nSPEAKER_00: Aplecați-vă ușor înainte, cât puteți. Doare?\nSPEAKER_01: Da, da.\nSPEAKER_00: Și nu ajungeți nici la genunchi. Ok. Îndreptați-vă. Acum lăsați-vă ușor pe spate.\nSPEAKER_01: Asta merge mai bine.\nSPEAKER_00: Da, extensia e mai liberă. Întoarceți ușor spre dreapta.\nSPEAKER_01: Un pic doare.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Deci rotația spre dreapta e mai dureroasă. Bun, așezați-vă pe masă cu fața în sus, vă rog. O să ridic eu piciorul drept, spuneți-mi dacă doare.\nSPEAKER_01: Acolo, da, simț ceva.\nSPEAKER_00: La câte grade aproximativ, vedeți că e cam 45 acum?\nSPEAKER_01: Cam pe acolo, da.\nSPEAKER_00: Deci la 45 de grade apare disconfortul. Pe stângul?\nSPEAKER_01: Nu, nu doare.\nSPEAKER_00: Bun, deci testul Lasègue pozitiv pe dreapta la 45 de grade. O să apăs acum pe zona paravertebrală, spuneți-mi dacă doare.\nSPEAKER_01: Da, pe dreapta mai tare.\nSPEAKER_00: Pe dreapta mai tare, da. Ok. Deci avem o contractură musculară paravertebrală lombară, mai accentuată pe dreapta, cu iradiere în fesierul drept. E un tablou tipic de lombalgie acută, probabil declanșată de efortul de la mobilă. Nu avem semne clare de radiculopatie, durerea nu coboară pe picior, deci e bine. O să lucrăm să reducem inflamația, să relaxăm musculatura și să redăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă mai rog să evitați să ridicați greutăți în perioada asta. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară acută apărută după mutarea mobilei, de aproximativ două săptămâni, cu iradiere în fesierul drept.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": "fesier drept",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Lombalgie acută cu contractură musculară paravertebrală lombară, mai accentuată pe dreapta, cu iradiere în fesierul drept. Test Lasègue pozitiv pe dreapta la 45 de grade. Fără semne de radiculopatie.\nObiective terapeutice: reducerea inflamației, relaxarea musculaturii paravertebrale, redarea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele, jos.", "Am mutat niște mobilă.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 7."],
+    "localizarea_durerii": ["Mă doare spatele, jos.", "zona lombară"],
+    "localizarea_durerii_alta": ["Uneori simt ceva și pe fesă, pe dreapta."],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o contractură musculară paravertebrală lombară, mai accentuată pe dreapta, cu iradiere în fesierul drept", "testul Lasègue pozitiv pe dreapta la 45 de grade", "Nu avem semne clare de radiculopatie, durerea nu coboară pe picior", "O să lucrăm să reducem inflamația, să relaxăm musculatura și să redăm mobilitatea."]
+  }
+}

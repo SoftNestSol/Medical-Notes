@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Durere umăr drept apărută treptat după efort fizic (ridicare cutii grele), cu limitarea mobilității, accentuată dimineața și la mișcările de ridicare și rotație internă. Durere ocazională la ceafă legată de postura la birou.",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": "fața externă a brațului drept",
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "50"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații funcționale: flexie anterioară și abducție limitate la circa 80-90 de grade cu durere; rotație internă sever limitată și dureroasă; sensibilitate la palpare pe tendonul bicepsului și mai redusă la acromion; rotație cervicală stângă ușor limitată cu senzație de tensiune (fără durere propriu-zisă).\nDiagnostic: inflamație tendon supraspinos și posibilă iritație bursală subacromială; contractură trapez superior bilateral legată de postură.\nObiective terapeutice: reducerea inflamației din umăr; redobândirea mobilității complete; relaxarea contracturii trapezului superior."
+}

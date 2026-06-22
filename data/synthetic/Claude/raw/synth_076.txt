@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua! Stați că îmi pun geanta jos, gata.\nSPEAKER_00: Cu ce problemă vă vedem?\nSPEAKER_01: Păi, mă doare umărul drept de vreo trei săptămâni. Dar să știți că am mai avut și înainte, acum vreo doi ani, ceva similar, și a trecut singur. Acum nu trece. Și sincer, mă tem că e ceva mai grav, că am citit pe internet și am văzut că poate fi hernie de disc la gât care iradiază, și acum nu știu dacă e asta sau ce e.\nSPEAKER_00: Înțeles. Și durerea e locală la umăr sau simțiți că se lasă și pe braț în jos?\nSPEAKER_01: Mai mult la umăr, dar câteodată simt ceva și spre cot, dar nu știu, poate îmi imaginez eu.\nSPEAKER_00: Când doare mai tare, când ridicați mâna sau în repaus?\nSPEAKER_01: Când ridic mâna sus, când încerc să pun ceva pe raft, de exemplu. Și noaptea, dacă mă întorc pe partea dreaptă, mă trezesc. De asta nu dorm bine de trei săptămâni, că mă tot trezesc.\nSPEAKER_00: Pe o scară de la 0 la 10, cum ați pune durerea?\nSPEAKER_01: Ziua când nu fac nimic, așa un 3. Dar când ridic mâna, 7 sigur. Noaptea tot cam 7.\nSPEAKER_00: Ați lovit umărul, ați căzut, ceva s-a întâmplat?\nSPEAKER_01: Nu, nimic. Adică am zugrăvit în apartament cu vreo lună în urmă, am ținut mâna sus mult timp, și cred că de atunci. Dar n-am căzut, nu m-am lovit.\nSPEAKER_00: Înțeles. Alte afecțiuni, tensiune, diabet, ceva?\nSPEAKER_01: Tensiune am, da. Iau Enalapril, 10 miligrame, dimineața. Dar e controlată, nu e o problemă. Mai am și colesterol, dar pentru aia nu iau nimic momentan, că medicul a zis să încerc cu dieta mai întâi. Și am mai avut o operație la menisc acum mulți ani, la genunchiul stâng, dar nu mai am probleme acolo, a trecut complet.\nSPEAKER_00: Vârsta?\nSPEAKER_01: 52.\nSPEAKER_00: Bun. Ridicați brațul drept pentru mine, cât puteți.\nSPEAKER_01: Până aici pot, mai sus mă doare.\nSPEAKER_00: Stați puțin așa. Apăs pe umăr, spuneți dacă doare.\nSPEAKER_01: Da, acolo doare, pe partea din față.\nSPEAKER_00: Și dacă duc brațul așa, în spate?\nSPEAKER_01: Au, da, și acolo.\nSPEAKER_00: Ok. Vedeți, e o inflamație la nivelul tendonului, cel mai probabil tendinită la manșeta rotatorilor. Nu e hernie de disc, nu iradiază clasic pe braț.\nSPEAKER_01: Sigur? Pentru că mă temeam tare de hernie. Am citit că dacă nu tratezi, rămâi cu brațul amețit permanent.\nSPEAKER_00: Nu avem semne de asta. O să lucrăm să reducem inflamația și să redobândiți mobilitatea completă.\nSPEAKER_01: Bine, mă liniștit. Și cât timp credeți că durează?\nSPEAKER_00: Depinde, dar cu câteva ședințe ar trebui să simțiți diferența. Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept de aproximativ trei săptămâni, apărută după activitate cu brațul ridicat (zugrăvit), accentuată la abducție și noaptea la decubit pe partea dreaptă.",
+    "evaluarea_durerii_vas": [3, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": "cot drept (iradiere ocazională menționată de pacient)",
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": "colesterol (fără tratament medicamentos); operație menisc genunchi stâng (veche, fără simptome actuale)",
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame dimineața"
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitarea abducției brațului drept; durere la palpare pe fața anterioară a umărului și la mișcarea brațului în extensie posterioară. Diagnostic: tendinită manșetă rotatori umăr drept. Obiective terapeutice: reducerea inflamației, redobândirea mobilității complete a umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul drept de vreo trei săptămâni", "am zugrăvit în apartament cu vreo lună în urmă, am ținut mâna sus mult timp, și cred că de atunci", "noaptea, dacă mă întorc pe partea dreaptă, mă trezesc"],
+    "evaluarea_durerii_vas": ["Ziua când nu fac nimic, așa un 3. Dar când ridic mâna, 7 sigur. Noaptea tot cam 7."],
+    "localizarea_durerii": ["mă doare umărul drept"],
+    "localizarea_durerii_alta": ["simt ceva și spre cot"],
+    "antecedente": ["Tensiune am, da."],
+    "antecedente_altele": ["Mai am și colesterol, dar pentru aia nu iau nimic momentan", "am mai avut o operație la menisc acum mulți ani, la genunchiul stâng, dar nu mai am probleme acolo"],
+    "medicatie_actuala": ["Iau Enalapril, 10 miligrame, dimineața"],
+    "evaluare_functionala_initiala": ["Până aici pot, mai sus mă doare", "Da, acolo doare, pe partea din față", "Au, da, și acolo", "e o inflamație la nivelul tendonului, cel mai probabil tendinită la manșeta rotatorilor", "O să lucrăm să reducem inflamația și să redobândiți mobilitatea completă"]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "conversation_id": "synth_035",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare gâtul, adică zona de ceafă, și mi se lasă și pe umărul stâng"
+    ],
+    "evaluarea_durerii_vas": [
+      "acum, în repaus, poate un 4",
+      "când mă întorc sau când stau prea mult la birou, ajunge la un 7"
+    ],
+    "localizarea_durerii": [
+      "mă doare gâtul, adică zona de ceafă",
+      "mi se lasă și pe umărul stâng"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am, da. Am tensiune de vreo trei ani"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Enalapril, 10 miligrame, în fiecare dimineață"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară la nivel cervical, cu iradiere pe trapezul stâng",
+      "O să lucrăm în prima fază să reducem tensiunea musculară și să recâștigăm mobilitatea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 13499
+    },
+    "cache_creation_input_tokens": 13499,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 1987,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

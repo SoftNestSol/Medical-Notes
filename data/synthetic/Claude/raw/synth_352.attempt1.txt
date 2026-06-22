@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cum vă numiți?\nSPEAKER_01: Dragomir. Ionel Dragomir.\nSPEAKER_00: Mulțumesc, domnule Dragomir. Și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și s-a întâmplat ceva anume, o lovitură, un efort?\nSPEAKER_01: Am zugrăvit, am stat cu mâna ridicată mult.\nSPEAKER_00: Înțeleg. Deci după efort cu brațul ridicat.\nSPEAKER_01: Da.\nSPEAKER_00: Și durerea aceasta e locală, doar în umăr, sau se lasă și pe braț în jos?\nSPEAKER_01: Coboară un pic, pe aici.\nSPEAKER_00: Pe fața anterioară a brațului sau pe fața laterală?\nSPEAKER_01: Laterală.\nSPEAKER_00: Pe fața laterală a brațului, da. Ajunge până la cot?\nSPEAKER_01: Nu, nu ajunge.\nSPEAKER_00: Se oprește undeva la mijlocul brațului?\nSPEAKER_01: Cam da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 doare extrem de tare, cât de tare e durerea acum?\nSPEAKER_01: Acum vreo 5.\nSPEAKER_00: Și când a fost mai rău?\nSPEAKER_01: La zugrăvit, poate 8.\nSPEAKER_00: La zugrăvit 8, acum 5. Doare mai tare când ridicați brațul?\nSPEAKER_01: Da, când ridic.\nSPEAKER_00: Și când dormiți pe partea dreaptă?\nSPEAKER_01: Da, nu pot dormi pe ea.\nSPEAKER_00: Nu puteți dormi pe umărul drept. Înțeleg.\nSPEAKER_00: Haideți să vedem puțin mișcarea. Ridicați brațul drept în față, încet.\nSPEAKER_01: Până aici cam.\nSPEAKER_00: Se blochează la vreo 90 de grade, doare când continuați?\nSPEAKER_01: Da, doare.\nSPEAKER_00: Acum duceți brațul lateral, în lateral.\nSPEAKER_01: Și asta doare.\nSPEAKER_00: Doare și la abducție laterală. Și la rotație, duceți mâna la ceafă?\nSPEAKER_01: Greu.\nSPEAKER_00: Greu, da. Acum apăs ușor pe tendonul de aici, deasupra umărului.\nSPEAKER_01: Au, da.\nSPEAKER_00: Doare la presiune pe tendonul supraspinat. Bun.\nSPEAKER_00: Tensiune, diabet, boli de inimă, operații la umăr?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Osteoporoză, vreo fractură veche pe acolo?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Nimic.\nSPEAKER_00: Bun. Deci avem o tendinopatie a mușchilor manșetei rotatorilor, cel mai probabil supraspinat, apărută după suprasolicitare cu brațul ridicat. Obiectivul nostru este să reducem inflamația tendonului și să recâștigăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept după efort de zugrăvit, cu iradiere pe fața laterală a brațului până la mijloc, limitarea mobilității și imposibilitatea de a dormi pe partea dreaptă",
+    "evaluarea_durerii_vas": [5, 8],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": "fața laterală a brațului drept până la mijloc",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Tendinopatie manșetă rotatori (supraspinat) umăr drept, apărută după suprasolicitare cu brațul ridicat.\nObservații funcționale: limitare dureroasă la ridicarea anterioară și abducție laterală a brațului drept (blocare la aprox. 90 grade), dificultate la rotație externă (mâna la ceafă), durere la presiune pe tendonul supraspinat.\nObiective terapeutice: reducerea inflamației tendonului și recâștigarea mobilității umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am zugrăvit, am stat cu mâna ridicată mult.", "nu pot dormi pe ea"],
+    "evaluarea_durerii_vas": ["Acum vreo 5.", "La zugrăvit, poate 8."],
+    "localizarea_durerii": ["Dreptul."],
+    "localizarea_durerii_alta": ["Coboară un pic, pe aici.", "Laterală.", "Nu ajunge.", "Cam da."],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Se blochează la vreo 90 de grade, doare când continuați?", "Doare și la abducție laterală.", "Greu.", "Doare la presiune pe tendonul supraspinat.", "avem o tendinopatie a mușchilor manșetei rotatorilor, cel mai probabil supraspinat, apărută după suprasolicitare cu brațul ridicat", "să reducem inflamația tendonului și să recâștigăm mobilitatea umărului"]
+  }
+}

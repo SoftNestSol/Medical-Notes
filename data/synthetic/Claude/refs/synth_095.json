@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "Durere lombară joasă cu debut treptat de aproximativ două săptămâni, acutizată la mișcarea cutiilor la serviciu și la statul prelungit pe scaun. Redoare matinală prezentă. Episod similar în antecedente (acum doi ani, remis spontan).",
+  "evaluarea_durerii_vas": [
+    7,
+    4
+  ],
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": "fesier stâng (episod unic, trecut)",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: lombalgie mecanică acută, suprasolicitare musculară paravertebrală.\nObservații posturale / biomecanice: ușoară anteverisie de bazin, tensionare paravertebrală lombară bilaterală, durere la flexia anterioară a trunchiului, fără semne de compresie radiculară.\nObiective terapeutice: reducerea contracturii musculare paravertebrale și recuperarea mobilității lombare."
+}

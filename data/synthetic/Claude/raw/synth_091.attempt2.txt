@@ -1,0 +1,53 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți astăzi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume? Un efort, o mișcare?\nSPEAKER_01: Nu știu. Dimineața m-am trezit și dădea.\nSPEAKER_00: Deci dimineața, din somn.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde o puneți?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: La mișcare mai mult.\nSPEAKER_00: Ridicați brațul în față, vă rog, încet.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Deci până la aproximativ 90 de grade și blochează. Doare și când ridicați în lateral?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Înțeleg. Doare și noaptea, când stați pe umărul ăla?\nSPEAKER_01: Da, mă trezesc.\nSPEAKER_00: Mă trezesc, bine. Amorțește mâna sau degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală. Bun. Ați mai avut această problemă la umăr înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio intervenție, nicio fractură la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune arterială. Luați tratament pentru asta?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Enalapril, ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: 10 miligrame. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alergii la unguente, creme?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Stați pe scaun o clipă, vreau să apăs puțin zona de aici, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Exact pe bureletul tendonului. Și dacă apăs mai sus, pe trapez?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin. Bine. Ridicați din nou brațul, încet, cu palma în jos.\nSPEAKER_01: Auuu, pe la mijloc.\nSPEAKER_00: Da, arc dureros prezent. E o inflamație la nivelul tendonului supraspinos, cel mai probabil, și o inflamație a bursei. Va trebui să reducem inflamația în primă fază și apoi lucrăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng apărută brusc din somn, de aproximativ două săptămâni. Durere la mișcare (abducție și flexie), arc dureros prezent, treziri nocturne la decubit pe umărul afectat.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamație tendon supraspinos și bursă;\n- arc dureros prezent la abducție\nObiective terapeutice:\n- reducerea inflamației;\n- recuperarea mobilității umărului stâng"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Vreo două săptămâni.",
+      "Dimineața m-am trezit și dădea.",
+      "La mișcare mai mult.",
+      "Da, mă trezesc."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Enalapril.",
+      "10 miligrame."
+    ],
+    "evaluare_functionala_initiala": [
+      "E o inflamație la nivelul tendonului supraspinos, cel mai probabil, și o inflamație a bursei. Va trebui să reducem inflamația în primă fază și apoi lucrăm mobilitatea.",
+      "arc dureros prezent",
+      "Exact pe bureletul tendonului."
+    ]
+  }
+}

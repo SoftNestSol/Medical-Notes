@@ -1,0 +1,43 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut după ceva anume, după un efort, o mișcare?\nSPEAKER_01: Nu știu exact. Parcă după ce am cărat niște cutii.\nSPEAKER_00: Ați cărat cutii și după aceea a început să doară.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde îl situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Ce mișcare vă deranjează cel mai tare?\nSPEAKER_01: Când ridic brațul sus.\nSPEAKER_00: Ridicarea brațului. Și în lateral, dacă ridic eu brațul așa, doare?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Și când vă întoarceți brațul, rotație, doare?\nSPEAKER_01: Un pic.\nSPEAKER_00: Amorțește mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Deloc?\nSPEAKER_01: Nu.\nSPEAKER_00: Doare și în zona gâtului sau e strict umărul?\nSPEAKER_01: Strict umărul.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale?\nSPEAKER_01: Nu.\nSPEAKER_00: Fracturi la umăr vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la unguente, creme?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin cu brațul pe lângă corp, relaxat. Acum ridic eu ușor... Doare aici?\nSPEAKER_01: Da.\nSPEAKER_00: La cam 80-90 de grade. Deasupra de atât?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Deci avem un arc dureros în zona asta de mijloc a ridicării. Asta ne spune că avem o inflamație la nivelul tendonului supraspinos. Apăs puțin aici pe umăr... Doare?\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Exact pe inserție. Bun. O să lucrăm să reducem inflamația din zona respectivă și să eliberăm musculatura din jurul umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în sus, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang, aparuta dupa efort fizic (carat cutii), de aproximativ doua saptamani. Durere la miscare, mai ales la ridicarea bratului si abductie, VAS 5/10.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie tendon supraspinos stang; arc dureros la abductie 80-90 grade\nObiective terapeutice:\n- reducerea inflamatiei; eliberarea musculaturii periarticulare umar stang"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Vreo două săptămâni.",
+      "Parcă după ce am cărat niște cutii.",
+      "Mai mult la mișcare.",
+      "Când ridic brațul sus.",
+      "Vreo 5."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "Strict umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem un arc dureros în zona asta de mijloc a ridicării",
+      "avem o inflamație la nivelul tendonului supraspinos",
+      "Exact pe inserție.",
+      "O să lucrăm să reducem inflamația din zona respectivă și să eliberăm musculatura din jurul umărului."
+    ]
+  }
+}

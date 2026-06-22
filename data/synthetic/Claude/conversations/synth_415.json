@@ -1,0 +1,193 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, cu ce vă pot ajuta?"
+    },
+    {
+      "start": 2.78,
+      "end": 13.04,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, da, am o problemă cu umărul, cu umărul stâng, de câteva săptămâni mă tot chinuie și nu mai știu ce să fac cu el, sincer."
+    },
+    {
+      "start": 13.16,
+      "end": 14.68,
+      "speaker": "SPEAKER_00",
+      "text": "De câte săptămâni aproximativ?"
+    },
+    {
+      "start": 14.8,
+      "end": 32.28,
+      "speaker": "SPEAKER_01",
+      "text": "Păi vreo trei săptămâni, poate patru, nu știu exact, a început ușor, ușor, la început credeam că trece singur, că am mai pățit și altădată, știți, dureri musculare după ce faci ceva mai mult și după câteva zile se duc, dar ăsta nu s-a dus."
+    },
+    {
+      "start": 32.4,
+      "end": 37.34,
+      "speaker": "SPEAKER_00",
+      "text": "Și ce ați făcut când a apărut, ați depus vreun efort mai mare?"
+    },
+    {
+      "start": 37.46,
+      "end": 61.4,
+      "speaker": "SPEAKER_01",
+      "text": "Păi da, am mutat niște mobilă, am fost cu un prieten, am cărat cutii grele, vreo câteva ore bune, și a doua zi m-am trezit că nu mai pot să ridic mâna stângă sus, adică dacă încerc să ridic brațul, când ajunge pe la nivelul ăsta, pe la orizontală, mă ia durerea, după care dacă forțez mai sus e și mai rău."
+    },
+    {
+      "start": 61.52,
+      "end": 64.18,
+      "speaker": "SPEAKER_00",
+      "text": "Deci la ridicarea brațului lateral doare, da?"
+    },
+    {
+      "start": 64.3,
+      "end": 78.36,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mai ales lateral, în față mai merge un pic, dar lateral e cel mai rău. Și mai e ceva, dacă dorm pe partea stângă noaptea, mă trezesc din durere, nu pot să dorm pe el deloc."
+    },
+    {
+      "start": 78.48,
+      "end": 83.04,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la zero la zece, cum ați aprecia durerea?"
+    },
+    {
+      "start": 83.16,
+      "end": 97.6,
+      "speaker": "SPEAKER_01",
+      "text": "Când mișc mâna, ridic brațul, aș zice șapte, șapte sigur. Când stau liniștit nu e chiar așa, poate un trei, patru, dar dacă mă mișc mai brusc sau uit și mă întind după ceva, iar șapte, opt chiar."
+    },
+    {
+      "start": 97.72,
+      "end": 102.66,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și durerea e la nivelul umărului sau coboară pe braț, pe antebraț?"
+    },
+    {
+      "start": 102.78,
+      "end": 112.66,
+      "speaker": "SPEAKER_01",
+      "text": "E mai mult la umăr, pe aici, în vârful umărului și un pic pe braț în jos, dar nu departe, nu ajunge la cot sau ceva."
+    },
+    {
+      "start": 112.78,
+      "end": 114.68,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeli în mână sau degete?"
+    },
+    {
+      "start": 114.8,
+      "end": 121.26,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, amorțeli nu am. Adică uneori când dorm strâmb mai amorțește, dar asta e normal, nu?"
+    },
+    {
+      "start": 121.38,
+      "end": 125.18,
+      "speaker": "SPEAKER_00",
+      "text": "Da, altceva în afară de umăr, mai aveți dureri undeva?"
+    },
+    {
+      "start": 125.3,
+      "end": 137.46,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, restul e bine. Adică spatele îl simt câteodată, dar nu e nimic special, e de la stat la birou, dar nu m-a deranjat niciodată suficient să fac ceva pentru el."
+    },
+    {
+      "start": 137.58,
+      "end": 139.86,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ați luat ceva pentru durere?"
+    },
+    {
+      "start": 139.98,
+      "end": 155.18,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat Nurofen câteva zile la început, că nu mai puteam, și am dat și cu un gel antiinflamator, am avut acasă un Diclofenac gel, am tot dat cu el, dar nu a dispărut, m-a mai calmat un pic."
+    },
+    {
+      "start": 155.3,
+      "end": 158.34,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Alte afecțiuni, tensiune, diabet, probleme la inimă?"
+    },
+    {
+      "start": 158.46,
+      "end": 164.54,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic, sunt sănătos, am 35 de ani, nu am nicio boală, slavă Domnului."
+    },
+    {
+      "start": 164.66,
+      "end": 171.12,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Haideți să facem câteva teste rapide. Ridicați brațul stâng lateral, încet, spuneți-mi unde apare durerea."
+    },
+    {
+      "start": 171.24,
+      "end": 177.32,
+      "speaker": "SPEAKER_01",
+      "text": "Acum? Uite, pe aici, pe la jumătate cam așa, cam pe la orizontală, uite că doare."
+    },
+    {
+      "start": 177.44,
+      "end": 179.34,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă continui mai sus?"
+    },
+    {
+      "start": 179.46,
+      "end": 187.06,
+      "speaker": "SPEAKER_01",
+      "text": "Mai sus e și mai rău, da, dar dacă trece cu totul de cap, e un pic mai bine, ciudat."
+    },
+    {
+      "start": 187.18,
+      "end": 196.68,
+      "speaker": "SPEAKER_00",
+      "text": "Asta e un arc dureros specific, caracteristic pentru tendoanele rotatorilor. Stați puțin cu brațul aici, apăs eu ușor pe umăr, spuneți-mi dacă e sensibil."
+    },
+    {
+      "start": 196.8,
+      "end": 199.08,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, acolo doare, exact acolo."
+    },
+    {
+      "start": 199.2,
+      "end": 209.84,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Deci avem o inflamație la nivelul manșonului rotatorilor, cel mai probabil tendinita supraspinosului. Trebuie să reducem inflamația în prima fază, după care lucrăm mobilitatea și stabilitatea umărului."
+    },
+    {
+      "start": 209.96,
+      "end": 220.98,
+      "speaker": "SPEAKER_01",
+      "text": "Și e ceva grav? Că mă tot tem că poate e ceva rupt înăuntru, am citit pe internet și acolo scrie tot felul de lucruri și m-am speriat."
+    },
+    {
+      "start": 221.1,
+      "end": 232.88,
+      "speaker": "SPEAKER_00",
+      "text": "Semnele clinice nu sugerează o ruptură completă, mișcarea e prezentă, nu aveți slăbiciune marcată. Fără un RMN nu putem fi sută la sută siguri, dar tabloul e consistent cu o tendinită."
+    },
+    {
+      "start": 233.0,
+      "end": 237.94,
+      "speaker": "SPEAKER_01",
+      "text": "Adică nu trebuie operație? Că asta mă temeam, să nu ajung la operație."
+    },
+    {
+      "start": 238.06,
+      "end": 241.86,
+      "speaker": "SPEAKER_00",
+      "text": "Deocamdată nu e cazul, lucrăm conservator și vedem cum evoluează."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_497",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere în mijlocul spatelui, cam pe zona asta de aici, între omoplați. De vreo trei săptămâni mă tot chinuie",
+      "Dacă mă plimb, dacă merg, mai trece un pic",
+      "dimineața când mă trezesc, primele minute sunt groaznice, mă ține tare",
+      "când trag aer adânc, simt o presiune acolo",
+      "Nu, nu, asta nu. Mă bucur că nu am și asta. Adică doar durerea aceea, nu furnicături"
+    ],
+    "evaluarea_durerii_vas": [
+      "Zi de zi, când stau la birou, aș zice un 6",
+      "poate un 8, asta când am stat ore în șir fără să mă ridic",
+      "dacă mă mișc, scade la vreo 3-4"
+    ],
+    "localizarea_durerii": [
+      "am o durere în mijlocul spatelui, cam pe zona asta de aici, între omoplați",
+      "E fix acolo, între omoplați, în zona asta de mijloc al spatelui"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "am avut o scolioză ușoară, mi s-a spus în liceu, la vreo 16 ani"
+    ],
+    "antecedente_altele": [
+      "mi-am rupt clavicola dreaptă acum vreo zece ani, la un accident de ski. A fost operată, am o placă metalică acolo"
+    ],
+    "medicatie_actuala": [
+      "Am pus un gel, un gel de la farmacie, Voltaren, de vreo două ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți o ușoară rotație a trunchiului spre stânga și umerii sunt rulați înainte, postura de birou clasică",
+      "durerea dumneavoastră este de origine mecanică, din zona toracală medie",
+      "o blocare a articulațiilor costovertebrale și o tensionare a musculaturii paravertebrale toracale",
+      "Scolioza ușoară pe care o aveți din adolescență contribuie și ea la o distribuție inegală a forțelor",
+      "Obiectivul nostru va fi să dechidem aceste blocaje, să relaxăm musculatura toracală și să vă dăm și câteva exerciții posturale pentru birou"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22994,
+    "inference_geo": "global",
+    "input_tokens": 352,
+    "output_tokens": 3903,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

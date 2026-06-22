@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva? Ați căzut, ați ridicat ceva?\nSPEAKER_01: Am ridicat niște saci la serviciu.\nSPEAKER_00: Înțeles. Și de atunci doare constant sau doar când mișcați brațul?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Când îl ridicați în față sau în lateral?\nSPEAKER_01: Mai mult în lateral.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Durerea se lasă și pe braț în jos sau e doar la umăr?\nSPEAKER_01: Doar la umăr.\nSPEAKER_00: Noaptea vă deranjează? Dacă stați pe partea dreaptă?\nSPEAKER_01: Da, nu pot să dorm pe partea aia.\nSPEAKER_00: Am înțeles. Alergii, boli cunoscute, tensiune, diabet?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreo medicație?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vedem puțin. Ridicați brațul drept în lateral, încet.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: La aproximativ 90 de grade se oprește, da?\nSPEAKER_01: Da.\nSPEAKER_00: Doare când apăs aici, pe capul humerusului?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă apăs mai sus, pe acromion?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeles. Avem o limitare de abducție și durere la palpare în zona coifului rotatorilor. Cel mai probabil e o inflamație a tendonului supraspinos. O să lucrăm să reducem inflamația și să recuperăm amplitudinea de mișcare.\nSPEAKER_01: Ok.\nSPEAKER_00: Ați mai făcut terapie la umăr până acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun, atunci comenzi pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa ridicat saci la serviciu, de aproximativ doua saptamani, accentuata la abductia bratului si in decubit lateral drept",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Limitare abductie umar drept la aproximativ 90 de grade. Durere la palpare pe capul humerusului. Diagnostic: inflamatie tendon supraspinos (coiful rotatorilor). Obiective terapeutice: reducerea inflamatiei si recuperarea amplitudinii de miscare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am ridicat niște saci la serviciu.", "Vreo două săptămâni.", "Când ridic brațul.", "nu pot să dorm pe partea aia"],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Dreptul.", "Doar la umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["La aproximativ 90 de grade se oprește, da?", "Avem o limitare de abducție și durere la palpare în zona coifului rotatorilor. Cel mai probabil e o inflamație a tendonului supraspinos. O să lucrăm să reducem inflamația și să recuperăm amplitudinea de mișcare."]
+  }
+}

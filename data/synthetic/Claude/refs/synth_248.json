@@ -1,0 +1,24 @@
+{
+  "motivul_prezentarii": "Durere cervicala cu iradiere pe umar stang si brat stang, limitarea rotatiei capului, amorteli nocturne mana stanga",
+  "evaluarea_durerii_vas": [
+    7,
+    5
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_stg",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": "brat stang, antebrat stang",
+  "antecedente": [
+    "scolioza_cifoza"
+  ],
+  "antecedente_altele": "operatie menisc genunchi drept (acum 5 ani)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Paracetamol",
+      "doza": "ocazional"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contractura musculara cervicala stanga, afectare trapez superior si ridicator scapular; limitare mobilitate rotatie stanga; posibila iritatie radacina nervoasa;\nObiective terapeutice: reducerea contracturii si inflamatiei musculare; recastigarea mobilitatii cervicale"
+}

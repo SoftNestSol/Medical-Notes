@@ -1,0 +1,46 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua!\nSPEAKER_00: Cum vă numiți, vă rog?\nSPEAKER_01: Gheorghe Pătru. Dar îmi spune toată lumea Gică, dacă vreți.\nSPEAKER_00: Gică, perfect. Și vârsta?\nSPEAKER_01: 38 de ani. Tânăr, nu? Și totuși uite ce pățesc.\nSPEAKER_00: Spuneți-mi cu ce problemă ați venit.\nSPEAKER_01: Păi, mă doare umărul drept. De vreo trei săptămâni, poate chiar o lună. Nu știu exact când a început, că la început am zis că trece singur, că am mai avut și altă dată dureri și au trecut. Dar asta nu trece, ba chiar cred că s-a mai înrăutățit un pic.\nSPEAKER_00: Și ce ați făcut în perioada asta, ceva?\nSPEAKER_01: Am pus un gel, un Voltaren, de vreo câteva ori, dar nu prea m-a ajutat. Adică îmi dă un pic de alinare pe moment, dar după câteva ore e la fel.\nSPEAKER_00: Am înțeles. Și durerea asta a apărut după ceva anume, după o mișcare, un efort?\nSPEAKER_01: Asta e problema, nu știu exact. Eu lucrez în construcții, ridic destule lucruri grele, și poate că am forțat ceva. Sau poate de când am zugrăvit camera de zi, că am stat zile întregi cu mâna ridicată sus. Soția mea zice că de acolo, și poate are dreptate, că după zugrăvit parcă s-a agravat. Dar nu știu sigur.\nSPEAKER_00: Deci durerea e mai mare când ridicați brațul sus?\nSPEAKER_01: Da, da. Când ridic brațul, mai ales dacă duc ceva în mână, e destul de rău. Și noaptea mă deranjează și când dorm pe partea dreaptă nu pot, trebuie să mă întorc.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum ați pune durerea în momentul ăsta?\nSPEAKER_01: Acum, stând liniștit, cam un 4. Dar când ridic brațul sau când fac o mișcare mai bruscă, ajunge la un 7, poate chiar 8.\nSPEAKER_00: Deci 4 în repaus și 7 la mișcare.\nSPEAKER_01: Da, cam așa.\nSPEAKER_00: Durerea rămâne la umăr sau se duce și în altă parte, pe braț în jos, pe gât?\nSPEAKER_01: Uneori simt că merge puțin pe braț în jos, pe partea de sus a brațului. Nu coboară mai jos de cot, dar pe acolo sus da.\nSPEAKER_00: Pe braț în sus, la deltoid?\nSPEAKER_01: Da, exact pe acolo. Și uneori și un pic în zona gâtului, pe partea dreaptă, dar aia mai rar. Poate că stau și prost la cap, nu știu.\nSPEAKER_00: Aveți alte afecțiuni, tensiune, diabet, ceva de genul ăsta?\nSPEAKER_01: Nu, nu am nimic. Adică, sunt sănătos tun altfel. Nu iau niciun medicament, nimic. Doar gelul ăla de câteva ori.\nSPEAKER_00: Intervenții chirurgicale, fracturi, accidente?\nSPEAKER_01: Nu, niciodată. Bine, mi-am scrântit glezna acum vreo zece ani la fotbal, dar a trecut repede și nu a mai fost nicio problemă. La umăr nimic.\nSPEAKER_00: Bun. Haideți să faceți câteva mișcări pentru mine. Ridicați brațul drept în față, încet.\nSPEAKER_01: Până pe la orizontală merge, după aia începe să doară.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da, acolo sus, da.\nSPEAKER_00: Bun, lăsați-l jos. Acum ridicați-l lateral.\nSPEAKER_01: Și pe asta tot cam la fel, cam pe la 90 de grade se blochează și doare.\nSPEAKER_00: Am înțeles. Acum puneți mâna la spate, ca și cum ați prinde o fermoară.\nSPEAKER_01: Asta e mai greu. Ajung cam până la brâu, mai sus nu pot. Și mă doare și în față, la umăr, când fac mișcarea asta. Parcă o apăsare.\nSPEAKER_00: Da, da, înțeleg. Stați așa, o să apăs puțin pe zona de sus a umărului.\nSPEAKER_01: Au! Da, acolo doare. Și aveam o teamă, nu știu, că poate e ceva mai grav, nu? Că un coleg de-al meu a avut o problemă la umăr și a ajuns la operație. Asta mă îngrijorează un pic.\nSPEAKER_00: Înțeleg îngrijorarea. Din ce văd eu, aveți o inflamație la nivelul manșetei rotatorilor, mușchii care stabilizează umărul. Mobilitatea e limitată mai ales la abducție și rotație internă. O să lucrăm să reducem inflamația și să recuperăm amplitudinea de mișcare. N-ar trebui să ajungem la lucruri complicate dacă venim la timp.\nSPEAKER_01: Și o să pot să lucrez în continuare? Că nu-mi permit să stau acasă.\nSPEAKER_00: O să vedem împreună ce mișcări să evitați deocamdată, mai ales cu brațul ridicat. Dar nu vă oprim.\nSPEAKER_01: Bun, mă bucur. Mulțumesc.\nSPEAKER_00: Haideți să ne apucăm de treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept de aproximativ 3-4 saptamani, agravata la ridicarea bratului, cu limitarea mobilitatii",
+    "evaluarea_durerii_vas": [4, 7],
+    "localizarea_durerii": [
+      "umar_dr",
+      "cervical"
+    ],
+    "localizarea_durerii_alta": "parte superioara brat drept (deltoid)",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie manseta rotatorilor umar drept; mobilitate limitata la abductie si rotatie interna.\nObiective terapeutice: reducerea inflamatiei; recuperarea amplitudinii de miscare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept. De vreo trei săptămâni, poate chiar o lună",
+      "am forțat ceva. Sau poate de când am zugrăvit camera de zi, că am stat zile întregi cu mâna ridicată sus"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, stând liniștit, cam un 4. Dar când ridic brațul sau când fac o mișcare mai bruscă, ajunge la un 7"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept",
+      "uneori și un pic în zona gâtului, pe partea dreaptă"
+    ],
+    "localizarea_durerii_alta": [
+      "merge puțin pe braț în jos, pe partea de sus a brațului",
+      "Da, exact pe acolo. Și uneori și un pic în zona gâtului"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel, un Voltaren, de vreo câteva ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "aveți o inflamație la nivelul manșetei rotatorilor, mușchii care stabilizează umărul. Mobilitatea e limitată mai ales la abducție și rotație internă. O să lucrăm să reducem inflamația și să recuperăm amplitudinea de mișcare."
+    ]
+  }
+}

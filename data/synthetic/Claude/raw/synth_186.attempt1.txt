@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua! Scuzați că am întârziat puțin, am parcat greu, zona asta e... oricum, nu mai contează.\nSPEAKER_00: Nicio problemă. Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi, mă doare umărul stâng. De vreo două săptămâni, trei poate, nu știu exact. A început mai ușor și acum s-a agravat. Eu lucrez la birou, stau mult la calculator, și sincer nu știu dacă de acolo e sau de la altceva. Am și dormit pe partea aia o noapte și m-am trezit că nu mai pot să ridic mâna. Adică nu că nu pot deloc, dar doare foarte tare.\nSPEAKER_00: Înțeleg. Și doare doar umărul sau se lasă durerea și mai jos, pe braț?\nSPEAKER_01: Păi mai mult umărul, dar uneori simt ceva și pe... pe aici, pe partea din față a brațului. Nu tot timpul, ocazional. Mă gândeam că poate e ceva grav, știți, am citit pe internet și am văzut că pot fi tot felul de lucruri. Sper să nu fie ceva la inimă, că am mai citit că durerea de umăr stâng uneori...\nSPEAKER_00: Înțeleg îngrijorarea, dar hai să vedem mai întâi cum stăm. Pe o scară de la 0 la 10, cât e durerea acum?\nSPEAKER_01: Acum e cam un 5. Dar dimineața, când mă trezesc, e mai rău, poate 7. Seara după muncă tot cam 7.\nSPEAKER_00: Și când ridici brațul în sus doare?\nSPEAKER_01: Da, da, imediat. Mai ales când ridic așa, lateral. Și când mă îmbrac, să pun tricoul... e un calvar. Soția mă ajută dimineața, de două zile.\nSPEAKER_00: Ok. Ai mai pățit asta cu umărul?\nSPEAKER_01: Nu cu umărul, nu. Am avut ceva cu spatele acum vreo doi ani, lombar, dar a trecut singur. Și... am tensiune, de la 32 de ani am tensiune arterială mare, iau și medicamente pentru asta.\nSPEAKER_00: Ce medicamente iei pentru tensiune?\nSPEAKER_01: Iau Prestarium, 5 miligrame, dimineața. Asta e singurul lucru pe care îl iau.\nSPEAKER_00: Bun. Alte afecțiuni, diabet, osteoporoză, cancer, ceva de genul ăsta?\nSPEAKER_01: Nu, nu, nimic. Sunt altfel sănătos, mă laud cu asta. Doar tensiunea aia m-a prins tânăr și de atunci...\nSPEAKER_00: Ok. Stai puțin cu brațul lângă corp... încearcă să-l ridici ușor lateral.\nSPEAKER_01: Ah... până aici pot, după aia doare.\nSPEAKER_00: Bun. Și dacă rotești brațul în față, așa?\nSPEAKER_01: Asta merge mai bine, da. Pe asta o pot face.\nSPEAKER_00: Apăs puțin aici, pe vârful umărului. Doare?\nSPEAKER_01: Au, da, acolo e fix punctul.\nSPEAKER_00: Înțeleg. Pare o inflamație la nivelul tendonului supraspinos, posibil tendinită de coafă rotatorie. O să lucrăm să reducem inflamația și să recăpătăm mobilitatea.\nSPEAKER_01: Deci nu e ceva grav? Adică... nu trebuie operație?\nSPEAKER_00: Deocamdată nu vedem semne pentru asta. O să vedem cum răspunde la terapie.\nSPEAKER_01: Uf, mă bucur. Că m-am speriat tare când n-am putut să ridic mâna dimineața aceea.\nSPEAKER_00: Normal. Haideți pe masă cu fața în sus, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng, instalată progresiv în ultimele 2-3 săptămâni, agravată, cu limitarea abducției și dificultate la îmbrăcat. Posibil legată de postura la birou sau de dormit pe partea afectată.",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": "partea din față a brațului stâng (ocazional)",
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": "episod lombar în antecedente (acum ~2 ani, rezolvat spontan)",
+    "medicatie_actuala": [
+      {
+        "denumire": "Prestarium",
+        "doza": "5 miligrame dimineața"
+      }
+    ],
+    "evaluare_functionala_initiala": "Abducție limitată dureros. Rotație anterioară conservată. Durere la palpare pe vârful umărului stâng. Diagnostic: tendinită de coafă rotatorie (tendon supraspinos). Obiective terapeutice: reducerea inflamației, recuperarea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul stâng. De vreo două săptămâni, trei poate", "A început mai ușor și acum s-a agravat", "am dormit pe partea aia o noapte și m-am trezit că nu mai pot să ridic mâna", "stau mult la calculator"],
+    "evaluarea_durerii_vas": ["Acum e cam un 5. Dar dimineața, când mă trezesc, e mai rău, poate 7. Seara după muncă tot cam 7."],
+    "localizarea_durerii": ["mă doare umărul stâng"],
+    "localizarea_durerii_alta": ["uneori simt ceva și pe... pe aici, pe partea din față a brațului. Nu tot timpul, ocazional."],
+    "antecedente": ["am tensiune arterială mare, iau și medicamente pentru asta", "de la 32 de ani am tensiune arterială mare"],
+    "antecedente_altele": ["Am avut ceva cu spatele acum vreo doi ani, lombar, dar a trecut singur."],
+    "medicatie_actuala": ["Iau Prestarium, 5 miligrame, dimineața. Asta e singurul lucru pe care îl iau."],
+    "evaluare_functionala_initiala": ["Apăs puțin aici, pe vârful umărului. Doare?", "Au, da, acolo e fix punctul.", "Pare o inflamație la nivelul tendonului supraspinos, posibil tendinită de coafă rotatorie. O să lucrăm să reducem inflamația și să recăpătăm mobilitatea.", "până aici pot, după aia doare", "Și dacă rotești brațul în față, așa? Asta merge mai bine, da."]
+  }
+}

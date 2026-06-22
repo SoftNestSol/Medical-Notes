@@ -1,0 +1,53 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua, bună ziua. Scuzați că am întârziat un pic, am avut probleme cu parcarea, știți cum e pe aici.\nSPEAKER_00: Nicio problemă. Spuneți-mi, cu ce problemă veniți azi?\nSPEAKER_01: Păi, mă doare umărul, cel stâng. De vreo două săptămâni deja. La început am zis că trece, că poate am dormit prost, știți, mai ai zile d-astea, dar nu a trecut. Ba chiar mi se pare că s-a mai agravat.\nSPEAKER_00: Bun. Și durerea e mai mult când faceți mișcare sau și în repaus?\nSPEAKER_01: Mai mult când ridic mâna, sau când vreau să ajung la ceva sus, la raft de exemplu. Sincer, nici nu mai pot să mă pieptăn cu stânga fără să fac o mutră. Dar și noaptea mă mai trezește uneori, dacă stau pe partea aia.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, cât estimați durerea?\nSPEAKER_01: Hmm. Când fac mișcarea aia de ridic brațul, ajunge la vreo 7. Când stau liniștit, e undeva la 2, 2 și ceva, nu mă deranjează foarte tare în repaus.\nSPEAKER_00: Deci 7 la mișcare și 2 în repaus.\nSPEAKER_01: Da, cam așa. Noaptea când mă trezesc e undeva la 5, că mă doare destul de rău, dar nu la fel ca la mișcare.\nSPEAKER_00: Ok. Și cum a apărut? A fost ceva specific, un efort, o căzătură?\nSPEAKER_01: Nu știu exact, asta mă și frământă. Nu am căzut, nu am ridicat ceva extraordinar. Lucrez la birou toată ziua, stau la calculator, și mă tot gândesc dacă nu cumva de acolo vine. Sau poate la sală, că merg de două ori pe săptămână, și am făcut niște exerciții pentru piept, flotări, fluturări cu gantere. Dar nu am simțit nimic în timpul exercițiilor.\nSPEAKER_00: Și când ați simțit prima oară durerea?\nSPEAKER_01: A doua zi după sală, dimineața. M-am trezit și nu puteam să ridic brațul normal. Am zis că e febra musculară, am dat cu un gel, Voltaren am acasă, și am așteptat. Dar a rămas.\nSPEAKER_00: Deci ați folosit Voltaren gel.\nSPEAKER_01: Da, de vreo câteva ori, nu sistematic, când mă deranja mai tare. Nu știu dacă a ajutat sau nu.\nSPEAKER_00: Bun. Durerea se lasă și pe braț în jos, sau e localizată la umăr?\nSPEAKER_01: E mai mult la umăr, pe partea asta, în față și un pic lateral. Nu coboară pe braț, nu. Cel puțin nu am observat.\nSPEAKER_00: Amorțeli, furnicături în mână sau degete?\nSPEAKER_01: Nu, nu, nu. Nimic din astea.\nSPEAKER_00: Bun. Alte probleme de sănătate, tensiune, diabet, ceva?\nSPEAKER_01: Nu, nimic. Sunt relativ tânăr, 34 de ani, nu am nimic cronicizat. Ah, am mai avut o entorsă la gleznă acum doi ani, dar a trecut complet, nu mai am nicio problemă acolo.\nSPEAKER_00: Ok. Medicamente, altceva în afară de Voltaren?\nSPEAKER_01: Nu, nimic altceva.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Ridicați brațul stâng în față, încet.\nSPEAKER_01: Până pe aici merge, după aia mă doare. Cam la 90 de grade, poate puțin mai mult.\nSPEAKER_00: Da. Acum lateral, ridicați.\nSPEAKER_01: Și lateral, tot cam pe la 90 apare durerea. Mai sus nu pot.\nSPEAKER_00: Bun. Stai puțin așa, cu brațul la 90. Apăs eu pe el ușor. Rezistați?\nSPEAKER_01: Au. Da, doare când apăsați.\nSPEAKER_00: Înțeleg. Și dacă puneți mâna la spate, spre omoplat?\nSPEAKER_01: Greu. Pot, dar doare și acolo, pe partea din față a umărului.\nSPEAKER_00: Bun. Din ce vedem, pare a fi o afectare a tendonului supraspinat, posibil o tendinopatie sau o mică iritație la nivelul manșetei rotatorilor. Limitarea e clară la abducție și la flexie, în jur de 90 de grade. Vom lucra să reducem inflamația și să recuperăm mobilitatea.\nSPEAKER_01: Adică e grav? Mă gândeam dacă nu trebuie să fac un RMN sau ceva. Un prieten de-al meu a avut umărul și a ajuns la operație.\nSPEAKER_00: Deocamdată nu indică ceva care să necesite imagistică de urgență. Vedem cum răspunde la terapie. Dacă nu evoluează bine, atunci recomandăm investigații suplimentare.\nSPEAKER_01: Ok, ok. Și la sală mai pot merge?\nSPEAKER_00: Evitați exercițiile pentru umăr și piept o perioadă. Mersul în sine, picioare, nu e o problemă.\nSPEAKER_01: Înțeles. Bine, fac cum spuneți.",
+  "note": {
+    "motivul_prezentarii": "Pacient de 34 de ani cu durere la nivelul umărului stâng instalată de aproximativ două săptămâni, apărută a doua zi după un antrenament la sală (flotări, fluturări cu gantere). Durere la mișcare (ridicarea brațului, pieptănat), limitare la abducție și flexie în jur de 90 de grade, durere nocturnă la decubit pe partea afectată. Fără iradiere pe braț, fără amorțeli.",
+    "evaluarea_durerii_vas": [7, 2, 5],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": "entorsă gleznă în urmă cu doi ani, rezolvată complet",
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare la abducție și flexie umăr stâng în jur de 90 de grade. Durere la rezistență în abducție. Durere la rotație internă (mână spre omoplat). Diagnostic: tendinopatie / iritație manșetă rotatori umăr stâng (posibil tendon supraspinos). Obiective terapeutice: reducerea inflamației, recuperarea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel stâng. De vreo două săptămâni deja",
+      "A doua zi după sală, dimineața. M-am trezit și nu puteam să ridic brațul normal",
+      "nu puteam să mă pieptăn cu stânga fără să fac o mutră",
+      "Nu coboară pe braț, nu",
+      "Nu, nimic din astea"
+    ],
+    "evaluarea_durerii_vas": [
+      "când ridic brațul, ajunge la vreo 7",
+      "când stau liniștit, e undeva la 2",
+      "Noaptea când mă trezesc e undeva la 5"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel stâng",
+      "E mai mult la umăr, pe partea asta, în față și un pic lateral"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [
+      "am mai avut o entorsă la gleznă acum doi ani, dar a trecut complet"
+    ],
+    "medicatie_actuala": [
+      "Voltaren am acasă",
+      "am dat cu un gel, Voltaren am acasă"
+    ],
+    "evaluare_functionala_initiala": [
+      "Până pe aici merge, după aia mă doare. Cam la 90 de grade, poate puțin mai mult",
+      "Și lateral, tot cam pe la 90 apare durerea",
+      "doare când apăsați",
+      "pare a fi o afectare a tendonului supraspinat, posibil o tendinopatie sau o mică iritație la nivelul manșetei rotatorilor",
+      "Limitarea e clară la abducție și la flexie, în jur de 90 de grade",
+      "Vom lucra să reducem inflamația și să recuperăm mobilitatea"
+    ]
+  }
+}

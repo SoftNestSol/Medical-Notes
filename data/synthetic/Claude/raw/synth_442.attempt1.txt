@@ -1,0 +1,43 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Dumitru Florea.\nSPEAKER_00: Dumitru. Și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: 38 de ani. E prima oară când veniți la noi?\nSPEAKER_01: Da.\nSPEAKER_00: Cu ce problemă ne vedem astăzi, domnule Florea?\nSPEAKER_01: Mă doare gâtul. De vreo două săptămâni.\nSPEAKER_00: Gâtul. Pe ce parte, sau tot gâtul?\nSPEAKER_01: Mai mult pe dreapta.\nSPEAKER_00: Pe dreapta. Se lasă undeva, pe umăr, pe braț, simțiți ceva?\nSPEAKER_01: Câteodată pe umăr, da.\nSPEAKER_00: Pe umărul drept?\nSPEAKER_01: Da.\nSPEAKER_00: Amorțeli pe mână, pe degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Și cum a apărut, știți să-mi spuneți? A venit brusc sau treptat?\nSPEAKER_01: Nu știu exact. M-am trezit dimineața și era acolo.\nSPEAKER_00: M-ați trezit cu durere, deci. Și de atunci e constantă?\nSPEAKER_01: Cam da. Mai slabă, mai tare.\nSPEAKER_00: Și ce o face mai tare, când stați la calculator, când conduceți, când vă întoarceți capul?\nSPEAKER_01: La calculator mai mult. Stau mult.\nSPEAKER_00: Stați mult la calculator. La serviciu sau acasă?\nSPEAKER_01: La serviciu.\nSPEAKER_00: Câte ore pe zi aproximativ?\nSPEAKER_01: Vreo opt, nouă ore.\nSPEAKER_00: Opt, nouă ore. Și poziția la birou, aveți monitorul drept în față sau e într-o parte?\nSPEAKER_01: Puțin într-o parte, pe dreapta.\nSPEAKER_00: Pe dreapta, deci capul e ușor rotit toată ziua spre dreapta. Asta explică destul de mult.\nSPEAKER_01: Poate.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare insuportabil, cât de tare e durerea acum?\nSPEAKER_01: Acum vreo 5.\nSPEAKER_00: 5. Și la maximul ei, când e mai rea?\nSPEAKER_01: Poate 7, la sfârșitul zilei.\nSPEAKER_00: La sfârșitul zilei un 7. Am înțeles. Alte probleme de sănătate, tensiune, diabet, ceva de genul?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi la coloană sau la gât?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici ceva pentru durere, antiinflamator?\nSPEAKER_01: Nu, am încercat să rezist.\nSPEAKER_00: Ok, bine. Alergii la creme, unguiente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva mișcări. Rotiți-mi capul ușor spre dreapta.\nSPEAKER_01: Până aici, mai mult nu pot.\nSPEAKER_00: Simțiți o blocare sau doare?\nSPEAKER_01: Doare.\nSPEAKER_00: Doare. Și spre stânga?\nSPEAKER_01: Mai bine, dar tot limitat.\nSPEAKER_00: Da, văd că amplitudinea spre dreapta e clar redusă față de stânga. Aplecați-mi capul ușor spre dreapta, spre umăr.\nSPEAKER_01: Auuu.\nSPEAKER_00: Doare sus, la baza craniului, sau mai jos?\nSPEAKER_01: Mai sus, sus de tot.\nSPEAKER_00: La baza craniului, deci. Bun. Vă apăs acum ușor pe musculatura din dreapta gâtului, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: Trapezul superior e contractat pe dreapta, și sternocleidomastoidianul la fel. Avem și o restricție de mobilitate în cervical, probabil C4-C5 pe dreapta. Vă propun să începem cu reducerea contracturii musculare, să eliberăm mobilitatea articulară și pe parcurs vedem dacă e nevoie și de imagistică.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicala dreapta cu iradiere in umar drept, aparuta de doua saptamani",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- Contractura trapez superior drept si sternocleidomastoidian drept;\n- Restrictie mobilitate cervicala probabil C4-C5 dreapta;\n- Amplitudine de rotatie spre dreapta redusa fata de stanga.\nObiective terapeutice:\n- Reducerea contracturii musculare;\n- Eliberarea mobilitatii articulare cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul. De vreo două săptămâni.",
+      "Mai mult pe dreapta.",
+      "Câteodată pe umăr, da."
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum vreo 5.",
+      "Poate 7, la sfârșitul zilei."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Mai mult pe dreapta.",
+      "Câteodată pe umăr, da.",
+      "Pe umărul drept?"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Trapezul superior e contractat pe dreapta, și sternocleidomastoidianul la fel.",
+      "Avem și o restricție de mobilitate în cervical, probabil C4-C5 pe dreapta.",
+      "văd că amplitudinea spre dreapta e clar redusă față de stânga",
+      "Vă propun să începem cu reducerea contracturii musculare, să eliberăm mobilitatea articulară"
+    ]
+  }
+}

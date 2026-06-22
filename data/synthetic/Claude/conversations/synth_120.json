@@ -1,0 +1,355 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, cu ce vă pot ajuta?"
+    },
+    {
+      "start": 2.78,
+      "end": 14.56,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua. Eu, adică... m-am programat săptămâna trecută, am o durere la gât și la umăr și sincer nu știu dacă e ceva grav sau nu, de aia am venit."
+    },
+    {
+      "start": 14.68,
+      "end": 25.7,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, haideți să vedem. Spuneți-mi mai întâi, pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, cât de tare doare?"
+    },
+    {
+      "start": 25.82,
+      "end": 35.7,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... depinde. Adică uneori e un 7, alteori parcă e mai mult, mai ales dimineața când mă trezesc. Dar ziua scade puțin, poate la un 5."
+    },
+    {
+      "start": 35.82,
+      "end": 38.48,
+      "speaker": "SPEAKER_00",
+      "text": "Deci dimineața mai rău, ziua mai bine."
+    },
+    {
+      "start": 38.6,
+      "end": 42.78,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact. Și când stau mult la birou, iar se înrăutățește."
+    },
+    {
+      "start": 42.9,
+      "end": 45.94,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și umărul care doare, stângul sau dreptul?"
+    },
+    {
+      "start": 46.06,
+      "end": 54.42,
+      "speaker": "SPEAKER_01",
+      "text": "Dreptul. Adică și gâtul doare, pe partea dreaptă mai mult, și se lasă în umăr. Nu știu, e o conexiune între ele?"
+    },
+    {
+      "start": 54.54,
+      "end": 58.34,
+      "speaker": "SPEAKER_00",
+      "text": "Da, de obicei sunt legate. De când aveți durerea asta?"
+    },
+    {
+      "start": 58.46,
+      "end": 72.14,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo trei săptămâni. Adică a început brusc, eram la serviciu, am stat mult cu capul aplecat, și seara am simțit că mă înțepenesc tot. A doua zi dimineața n-am putut aproape să întorc capul."
+    },
+    {
+      "start": 72.26,
+      "end": 74.54,
+      "speaker": "SPEAKER_00",
+      "text": "Și de atunci a rămas constant?"
+    },
+    {
+      "start": 74.66,
+      "end": 86.44,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu a rămas la fel de rău ca prima zi, mulțumesc lui Dumnezeu, dar tot nu e bine. Mă ține, nu se duce complet. Asta mă îngrijorează, că nu trece."
+    },
+    {
+      "start": 86.56,
+      "end": 90.36,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și durerea coboară mai jos, spre spate, spre omoplat?"
+    },
+    {
+      "start": 90.48,
+      "end": 95.8,
+      "speaker": "SPEAKER_01",
+      "text": "Spre omoplat da, puțin, pe dreapta. Nu prea departe, dar simt ceva și acolo."
+    },
+    {
+      "start": 95.92,
+      "end": 96.72,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțesc mâinile?"
+    },
+    {
+      "start": 96.84,
+      "end": 101.78,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu amorțesc. Asta-i bine, nu? Adică dacă amorteau era mai grav?"
+    },
+    {
+      "start": 101.9,
+      "end": 107.98,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde de context, dar că nu amorțesc e un semn bun. Spuneți-mi, ce muncă faceți?"
+    },
+    {
+      "start": 108.1,
+      "end": 115.32,
+      "speaker": "SPEAKER_01",
+      "text": "Stau mult la calculator. Architect, lucrez la proiecte, uneori și 9-10 ore pe zi cu capul în ecran."
+    },
+    {
+      "start": 115.44,
+      "end": 118.48,
+      "speaker": "SPEAKER_00",
+      "text": "Da, se vede. Și aveți dureri de cap?"
+    },
+    {
+      "start": 118.6,
+      "end": 132.28,
+      "speaker": "SPEAKER_01",
+      "text": "Da! Și asta voiam să vă zic. Am dureri de cap mai ales în ceafă, care vin din ceafă și se duc spre tâmpla dreaptă. Nu toate zilele, dar de vreo 3-4 ori pe săptămână."
+    },
+    {
+      "start": 132.4,
+      "end": 135.44,
+      "speaker": "SPEAKER_00",
+      "text": "Din ceafă spre tâmplă dreaptă, ok. Și ameți?"
+    },
+    {
+      "start": 135.56,
+      "end": 146.2,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, amețeli nu. Asta ar fi fost și mai rău. Dar durerile de cap mă îngrijorează, că nu știu dacă sunt de la gât sau e altceva."
+    },
+    {
+      "start": 146.32,
+      "end": 153.54,
+      "speaker": "SPEAKER_00",
+      "text": "Sunt aproape sigur că sunt legate de tensiunea musculară cervicală. Stați, să vă pun mâna puțin pe ceafă, relaxați."
+    },
+    {
+      "start": 153.66,
+      "end": 154.46,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 154.58,
+      "end": 157.24,
+      "speaker": "SPEAKER_00",
+      "text": "Doare când apăs aici, în baza craniului?"
+    },
+    {
+      "start": 157.36,
+      "end": 159.26,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, destul de tare."
+    },
+    {
+      "start": 159.38,
+      "end": 161.28,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe latura asta dreaptă?"
+    },
+    {
+      "start": 161.4,
+      "end": 163.3,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mai tare decât stânga."
+    },
+    {
+      "start": 163.42,
+      "end": 165.7,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Întoarceți capul spre dreapta, ușor."
+    },
+    {
+      "start": 165.82,
+      "end": 168.48,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, mai mult mă ține."
+    },
+    {
+      "start": 168.6,
+      "end": 171.26,
+      "speaker": "SPEAKER_00",
+      "text": "Aproximativ jumătate din mișcare, da. Spre stânga?"
+    },
+    {
+      "start": 171.38,
+      "end": 173.28,
+      "speaker": "SPEAKER_01",
+      "text": "Spre stânga mai mult pot."
+    },
+    {
+      "start": 173.4,
+      "end": 179.86,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Înțeleg. Acum câteva întrebări de rutină. Aveți tensiune arterială, diabet, boli de inimă, ceva de genul?"
+    },
+    {
+      "start": 179.98,
+      "end": 191.76,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, adică... tensiune nu știu exact, că n-am verificat recent. Dar nu mi s-a zis niciodată că am tensiune. Diabetul nu, inimă nu. Sunt relativ sănătos în rest, cred."
+    },
+    {
+      "start": 191.88,
+      "end": 196.06,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai avut probleme la coloană, hernii de disc, ceva diagnosticat?"
+    },
+    {
+      "start": 196.18,
+      "end": 203.02,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, niciodată. De asta și sunt puțin speriat, că e prima dată când am ceva de genul."
+    },
+    {
+      "start": 203.14,
+      "end": 206.56,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Ați făcut vreun RMN sau radiografie la gât?"
+    },
+    {
+      "start": 206.68,
+      "end": 209.72,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am făcut nimic. Trebuia să fac?"
+    },
+    {
+      "start": 209.84,
+      "end": 214.78,
+      "speaker": "SPEAKER_00",
+      "text": "Nu neapărat acum, depinde cum evoluează. Luați vreun medicament în momentul de față?"
+    },
+    {
+      "start": 214.9,
+      "end": 224.78,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat Nurofen câteva zile, când era mai rău. Acum nu mai iau nimic, că mi-a fost frică să nu stricz ceva luând prea mult."
+    },
+    {
+      "start": 224.9,
+      "end": 227.94,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, deci Nurofen, dar nu mai luați acum."
+    },
+    {
+      "start": 228.06,
+      "end": 232.62,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact, am luat vreo 3-4 zile și după am oprit."
+    },
+    {
+      "start": 232.74,
+      "end": 234.64,
+      "speaker": "SPEAKER_00",
+      "text": "Alergii la medicamente sau creme?"
+    },
+    {
+      "start": 234.76,
+      "end": 237.8,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu știu să fiu alergic la nimic."
+    },
+    {
+      "start": 237.92,
+      "end": 241.72,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ați mai făcut vreodată kinetoterapie, masaj terapeutic, ceva similar?"
+    },
+    {
+      "start": 241.84,
+      "end": 253.24,
+      "speaker": "SPEAKER_01",
+      "text": "Masaj clasic am mai făcut, de relaxare, dar terapeutic niciodată. Nici chiropractică. De aia nu știu exact la ce să mă aștept și eram un pic îngrijorat înainte să vin."
+    },
+    {
+      "start": 253.36,
+      "end": 259.06,
+      "speaker": "SPEAKER_00",
+      "text": "Normal să fiți. Haideți să stați cu spatele la mine, drept, și observ puțin postura."
+    },
+    {
+      "start": 259.18,
+      "end": 259.98,
+      "speaker": "SPEAKER_01",
+      "text": "Bine."
+    },
+    {
+      "start": 260.1,
+      "end": 270.36,
+      "speaker": "SPEAKER_00",
+      "text": "Deci vedem o ușoară proiecție a capului în față, capul e dus anterior față de linia umerilor. Și umărul drept e puțin mai ridicat decât cel stâng."
+    },
+    {
+      "start": 270.48,
+      "end": 272.76,
+      "speaker": "SPEAKER_01",
+      "text": "Asta e rău? E ceva serios?"
+    },
+    {
+      "start": 272.88,
+      "end": 286.56,
+      "speaker": "SPEAKER_00",
+      "text": "Nu e grav, e o postură tipică pentru cineva care stă mult la calculator. Mușchii s-au adaptat la poziția respectivă și au creat o tensiune care explică și durerea de gât și durerile de cap."
+    },
+    {
+      "start": 286.68,
+      "end": 292.76,
+      "speaker": "SPEAKER_01",
+      "text": "A, deci durerile de cap sunt din cauza asta? Nu e nimic la creier sau ceva?"
+    },
+    {
+      "start": 292.88,
+      "end": 303.14,
+      "speaker": "SPEAKER_00",
+      "text": "Din tot ce observ, durerile de cap sunt de tip cervicogenic, adică pornesc din tensiunea musculară a gâtului. Nu avem semne care să îngrijoreze în altă direcție."
+    },
+    {
+      "start": 303.26,
+      "end": 307.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, că asta mă liniștește un pic. Și se poate rezolva?"
+    },
+    {
+      "start": 307.56,
+      "end": 318.96,
+      "speaker": "SPEAKER_00",
+      "text": "Da, cu siguranță putem lucra la asta. Obiectivul nostru e să reducem tensiunea musculară din zona cervicală, să recuperăm mobilitatea gâtului, și să corectăm postura ca să nu mai revină."
+    },
+    {
+      "start": 319.08,
+      "end": 320.6,
+      "speaker": "SPEAKER_01",
+      "text": "Cât durează în general?"
+    },
+    {
+      "start": 320.72,
+      "end": 330.22,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde de cum răspunde corpul, dar cu câteva ședințe ar trebui să simțiți o îmbunătățire clară. Haideți să trecem la evaluare mai detaliată și începem."
+    },
+    {
+      "start": 330.34,
+      "end": 333.76,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, da. Mulțumesc că m-ați liniștit un pic."
+    }
+  ]
+}

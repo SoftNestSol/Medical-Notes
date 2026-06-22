@@ -1,0 +1,31 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul, zona cervicală. De cât timp?\nSPEAKER_01: Vreo trei săptămâni.\nSPEAKER_00: Trei săptămâni. Și a apărut brusc sau a venit treptat?\nSPEAKER_01: Treptat.\nSPEAKER_00: A existat vreun eveniment, ceva ce ați făcut, o mișcare greșită, un efort?\nSPEAKER_01: Nu știu, stau mult la calculator.\nSPEAKER_00: La calculator, deci poziție prelungită. Câte ore pe zi aproximativ?\nSPEAKER_01: Vreo opt, nouă ore.\nSPEAKER_00: Înțeles. Durerea rămâne în zona gâtului sau se lasă și pe umăr, pe braț?\nSPEAKER_01: Și pe umărul drept un pic.\nSPEAKER_00: Pe umărul drept. Mai jos de umăr se lasă, pe braț în jos?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde situați această durere?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. E mai rău dimineața, seara, în timpul zilei?\nSPEAKER_01: Seara.\nSPEAKER_00: Seara, după programul de lucru. Înțeles. Aveți amorțeli la degete, la mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală. Aveți amețeli, dureri de cap?\nSPEAKER_01: Dureri de cap, da, uneori.\nSPEAKER_00: Uneori. Cât de des?\nSPEAKER_01: De două, trei ori pe săptămână.\nSPEAKER_00: Am înțeles. Luați ceva pentru durere, vreun medicament?\nSPEAKER_01: Nurofen, când nu mai pot.\nSPEAKER_00: Nurofen. O pastilă, două?\nSPEAKER_01: Una.\nSPEAKER_00: O pastilă de Nurofen. Și vă ajută?\nSPEAKER_01: Da, pentru câteva ore.\nSPEAKER_00: Pentru câteva ore, după care revine. Alte afecțiuni, tensiune mare, diabet, ceva de care știți?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio problemă de fond. Ați mai făcut vreodată chiropractică sau kinetoterapie?\nSPEAKER_01: Nu.\nSPEAKER_00: Prima dată. Bun. Stați puțin drept pentru mine... văd că umărul drept e ușor mai sus decât cel stâng. Întoarceți capul spre dreapta, vă rog.\nSPEAKER_01: Până aici.\nSPEAKER_00: Da, rotația spre dreapta e limitată. Spre stânga?\nSPEAKER_01: Mai bine.\nSPEAKER_00: Da, asimetrie clară. Apăs acum pe mușchii de la baza gâtului, spuneți-mi dacă simțiți ceva.\nSPEAKER_01: Au, da, acolo doare.\nSPEAKER_00: Da, contractură paravertebrală cervicală, mai ales pe partea dreaptă. Vom lucra să reducem această contractură și să refacem mobilitatea. Avem de lucru, dar e un caz care răspunde bine la terapie manuală.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu iradiere pe umărul drept, instalată treptat în ultimele trei săptămâni, asociată cu postura prelungită la calculator",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": "1 pastilă"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice: umărul drept mai sus decât cel stâng; rotație cervicală spre dreapta limitată, spre stânga păstrată; contractură paravertebrală cervicală la palpare, predominant pe dreapta.\nDiagnostic: Cervicalgie cu contractură musculară paravertebrală cervicală dreaptă.\nObiective terapeutice: reducerea contracturii musculare; refacerea mobilității cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "Treptat.", "stau mult la calculator", "Vreo trei săptămâni.", "Și pe umărul drept un pic."],
+    "evaluarea_durerii_vas": ["Un 6."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și pe umărul drept un pic."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nurofen, când nu mai pot.", "Una."],
+    "evaluare_functionala_initiala": ["umărul drept e ușor mai sus decât cel stâng", "rotația spre dreapta e limitată", "asimetrie clară", "contractură paravertebrală cervicală, mai ales pe partea dreaptă", "Vom lucra să reducem această contractură și să refacem mobilitatea."]
+  }
+}

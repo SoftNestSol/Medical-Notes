@@ -1,0 +1,23 @@
+{
+  "motivul_prezentarii": "Durere cervicala si umar drept, cu amorteala in degetele 4 si 5 ale mainii drepte",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "amorteala degete 4 si 5 mana dreapta (inelar si deget mic)",
+  "antecedente": [
+    "hernia_disc"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contractura musculara trapez drept si musculatura cervicala; posibila iritatie radacina C8. Obiective terapeutice: reducerea contracturii, decomprimarea zonei cervicale. Recomandare RMN cervical."
+}

@@ -1,0 +1,23 @@
+{
+  "motivul_prezentarii": "Durere cervicală și umăr drept, apărută treptat, asociată cu munca la birou",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contractură musculară cervicală, predominant dreapta, cu iradiere în umărul drept; mobilitate limitată la rotație dreapta.\nObiective terapeutice: reducerea contracturii musculare; recâștigarea mobilității pe rotație dreapta."
+}

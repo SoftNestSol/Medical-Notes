@@ -1,0 +1,24 @@
+{
+  "motivul_prezentarii": "Pacient de 35 de ani cu durere la umărul stâng instalată în urmă cu aproximativ 3-4 săptămâni după efort fizic intens (căratul de cutii grele). Durere la ridicarea laterală a brațului, cu arc dureros la orizontală, accentuată noaptea la culcat pe partea afectată.",
+  "evaluarea_durerii_vas": [
+    7,
+    3
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "braț stâng proximal",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    },
+    {
+      "denumire": "Diclofenac gel",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- Tendinită manșon rotatori stâng, cel mai probabil supraspinat (arc dureros la abducție laterală, sensibilitate la palpare locală)\nObiective terapeutice:\n- Reducerea procesului inflamator\n- Refacerea mobilității și stabilității umărului stâng"
+}

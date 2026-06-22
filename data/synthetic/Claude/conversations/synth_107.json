@@ -1,0 +1,295 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, cu ce problemă ne vedem azi?"
+    },
+    {
+      "start": 3.16,
+      "end": 32.04,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua. Păi, uite, am o durere în zona lombară, de vreo trei săptămâni, și sincer nu mai știu ce să fac cu ea. Am fost la medicul de familie, mi-a zis să iau niște antiinflamatoare, le-am luat câteva zile, m-am simțit un pic mai bine, după care am renunțat că mi-e frică de stomac, știți cum e, că am avut și gastrită și nu vreau să îmi fac rău la stomac."
+    },
+    {
+      "start": 32.16,
+      "end": 35.96,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Deci durerea e în zona lombară. De trei săptămâni."
+    },
+    {
+      "start": 36.08,
+      "end": 60.02,
+      "speaker": "SPEAKER_01",
+      "text": "Da, trei săptămâni, poate chiar puțin mai mult. A început după ce am mutat niște mobilă în casă. Am tras de un dulap singur, că soțul meu era plecat, și a doua zi dimineață m-am trezit și nu puteam să mă ridic din pat. Adică literalmente am stat vreo zece minute pe marginea patului până am reușit să mă pun în picioare."
+    },
+    {
+      "start": 60.14,
+      "end": 67.36,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și acum, la momentul ăsta, durerea a rămas la fel sau s-a mai ameliorat față de atunci?"
+    },
+    {
+      "start": 67.48,
+      "end": 92.56,
+      "speaker": "SPEAKER_01",
+      "text": "S-a mai ameliorat, da, nu e ca în prima săptămână când era îngrozitor. Acum e mai suportabilă, dar tot mă ține. Mai ales dimineața când mă trezesc, sau când stau mult jos, la birou, că eu lucrez la birou, stau câte opt ore pe scaun și seara când ajung acasă sunt terminată. Mă ridic de pe scaun și mă ține câteva secunde până mă îndrept."
+    },
+    {
+      "start": 92.68,
+      "end": 98.76,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cât estimați durerea acum, în momentul de față?"
+    },
+    {
+      "start": 98.88,
+      "end": 106.1,
+      "speaker": "SPEAKER_01",
+      "text": "Acum? Acum e vreun 4. Dimineața când mă trezesc poate fi 6, uneori. Seara după birou tot cam 6."
+    },
+    {
+      "start": 106.22,
+      "end": 111.92,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea rămâne în zona lombară sau se lasă undeva mai jos, pe fese, pe picior?"
+    },
+    {
+      "start": 112.04,
+      "end": 126.86,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu se lasă pe picior, nu am simțit chestia asta. E doar acolo, în zona de mijloc jos, știți, ca o bară. Pe ambele părți, nu pe o parte anume. Uneori simt și în fese, dar nu coboară."
+    },
+    {
+      "start": 126.98,
+      "end": 129.26,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeli la picioare nu ați simțit?"
+    },
+    {
+      "start": 129.38,
+      "end": 145.72,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, amorțeli nu. Asta mă bucură, sincer, că m-am speriat când am citit pe internet că pot fi probleme cu nervul sciatic și că poate rămâi cu probleme. Am citit tot felul și m-am speriat rău. Dar nu am amorțeli, nu."
+    },
+    {
+      "start": 145.84,
+      "end": 149.64,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Și dimineața când vă ridicați, cât durează rigiditatea asta?"
+    },
+    {
+      "start": 149.76,
+      "end": 158.12,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo zece, cincisprezece minute. Până fac o cafea, mă plimb un pic prin casă, după aia se mai dezmorțește. Dar e neplăcut."
+    },
+    {
+      "start": 158.24,
+      "end": 162.42,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Aveți și alte zone care vă deranjează? Cervical, umeri, genunchi?"
+    },
+    {
+      "start": 162.54,
+      "end": 180.78,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, cervical mai am câteodată, dar nu acum, nu e motivul pentru care am venit. Aia e mai veche, din când în când mă mai ia câte o durere de gât, mai ales când stau la calculator cu capul în față. Dar acum nu mă doare, e ok."
+    },
+    {
+      "start": 180.9,
+      "end": 187.74,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, atunci ne concentrăm pe lombar. Spuneți-mi, aveți antecedente medicale, boli cronice, ceva ce știți despre dumneavoastră?"
+    },
+    {
+      "start": 187.86,
+      "end": 206.86,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am tensiune arterială, iau tratament pentru ea de vreo doi ani. Mi-a găsit-o medicul de familie la un control de rutină, zice că e ușoară, nu e dramatică, dar tot tratament iau. Și gastrită am, cum v-am zis, de aia nu prea vreau antiinflamatoare mult timp."
+    },
+    {
+      "start": 206.98,
+      "end": 209.26,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Ce medicament luați pentru tensiune?"
+    },
+    {
+      "start": 209.38,
+      "end": 212.42,
+      "speaker": "SPEAKER_01",
+      "text": "Iau Perindopril, 5 miligrame, dimineața, în fiecare zi."
+    },
+    {
+      "start": 212.54,
+      "end": 214.82,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Altceva mai luați în prezent?"
+    },
+    {
+      "start": 214.94,
+      "end": 228.62,
+      "speaker": "SPEAKER_01",
+      "text": "Iau și un Omeprazol, 20 de miligrame, tot dimineața, pentru stomac. Îl iau de ceva timp, mai ales acum când am luat și antiinflamatoarele alea câteva zile mi-a recomandat doctorița să îl iau în paralel."
+    },
+    {
+      "start": 228.74,
+      "end": 231.02,
+      "speaker": "SPEAKER_00",
+      "text": "Și antiinflamatoarele le-ați oprit acum?"
+    },
+    {
+      "start": 231.14,
+      "end": 242.92,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, le-am oprit de vreo zece zile. Am luat Ibuprofen, 400, vreo patru-cinci zile, și după aia am zis gata, nu mai vreau. Omeprazolul îl mai iau încă."
+    },
+    {
+      "start": 243.04,
+      "end": 244.94,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Intervenții chirurgicale, accidente, fracturi?"
+    },
+    {
+      "start": 245.06,
+      "end": 256.84,
+      "speaker": "SPEAKER_01",
+      "text": "Am avut o operație la genunchi, la genunchiul drept, acum vreo opt ani, menisc. A mers bine, n-am mai avut probleme de atunci. Fracturi nu, accidente nu, mulțumesc lui Dumnezeu."
+    },
+    {
+      "start": 256.96,
+      "end": 263.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să vă examinez puțin. Stați în picioare, cu spatele la mine, relaxat, mâinile pe lângă corp."
+    },
+    {
+      "start": 263.92,
+      "end": 282.54,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine. Spuneți-mi ce să fac. Mă tem că o să dea mai rău după ce mă mișcați, am auzit că uneori se întâmplă. O colegă de-a mea a zis că după chiropractică a stat trei zile în pat. Nu știu dacă e adevărat sau exagerează ea."
+    },
+    {
+      "start": 282.66,
+      "end": 292.92,
+      "speaker": "SPEAKER_00",
+      "text": "E normal să fie un pic de sensibilitate după prima ședință, vă explic eu la final cum stă treaba. Acum aplecați-vă ușor în față, cât puteți."
+    },
+    {
+      "start": 293.04,
+      "end": 296.46,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, nu mai jos, că mă ia."
+    },
+    {
+      "start": 296.58,
+      "end": 298.48,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și spre dreapta, ușor."
+    },
+    {
+      "start": 298.6,
+      "end": 299.4,
+      "speaker": "SPEAKER_01",
+      "text": "Da, merge."
+    },
+    {
+      "start": 299.52,
+      "end": 300.32,
+      "speaker": "SPEAKER_00",
+      "text": "Spre stânga."
+    },
+    {
+      "start": 300.44,
+      "end": 303.1,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, asta doare mai mult pe stânga."
+    },
+    {
+      "start": 303.22,
+      "end": 313.48,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Îndreptați-vă. Văd o ușoară asimetrie la nivelul bazinului, umărul stâng e și el un pic mai coborât. Stați puțin pe piciorul drept doar, ridicați stângul."
+    },
+    {
+      "start": 313.6,
+      "end": 314.74,
+      "speaker": "SPEAKER_01",
+      "text": "Mă ține, da."
+    },
+    {
+      "start": 314.86,
+      "end": 316.38,
+      "speaker": "SPEAKER_00",
+      "text": "Și invers, pe stângul."
+    },
+    {
+      "start": 316.5,
+      "end": 318.4,
+      "speaker": "SPEAKER_01",
+      "text": "Pe stânga merge mai bine."
+    },
+    {
+      "start": 318.52,
+      "end": 323.84,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Vă întind acum un pic, spuneți-mi dacă doare când apăs aici, paravertebral."
+    },
+    {
+      "start": 323.96,
+      "end": 327.38,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo doare. Și puțin mai jos, tot acolo."
+    },
+    {
+      "start": 327.5,
+      "end": 328.3,
+      "speaker": "SPEAKER_00",
+      "text": "Pe dreapta?"
+    },
+    {
+      "start": 328.42,
+      "end": 329.22,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 329.34,
+      "end": 345.3,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Deci avem o contractură paravertebrală lombară mai pronunțată pe stânga, bazin ușor dezechilibrat, mobilitate limitată la flexie și la înclinare laterală stângă. Asta e consistent cu ce s-a întâmplat la mutatul mobilei. Avem de lucru, dar nu e ceva grav."
+    },
+    {
+      "start": 345.42,
+      "end": 354.16,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu e hernie? Că asta m-a speriat cel mai tare. M-am tot gândit că poate am hernie și nu știam."
+    },
+    {
+      "start": 354.28,
+      "end": 371.76,
+      "speaker": "SPEAKER_00",
+      "text": "La palpare nu am semne clare de compresie radiculară, faptul că nu aveți iradiere pe picior și fără amorțeli e un semn bun. Dar ca să fim siguri ar fi bine să avem o radiografie sau un RMN. Dacă aveți investigații vechi, aduceți-le data viitoare."
+    },
+    {
+      "start": 371.88,
+      "end": 381.38,
+      "speaker": "SPEAKER_01",
+      "text": "N-am nimic, n-am făcut nimic. O să încerc să fac. Doctorița mi-a recomandat și ea să fac RMN dar nu am apucat."
+    },
+    {
+      "start": 381.5,
+      "end": 386.44,
+      "speaker": "SPEAKER_00",
+      "text": "Da, e recomandat. Deocamdată lucrăm pe relaxarea musculaturii paravertebrale și pe mobilizarea bazinului."
+    },
+    {
+      "start": 386.56,
+      "end": 399.1,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, înțeleg. Și cât credeți că durează până mă fac bine? Că am o nuntă luna viitoare și chiar aș vrea să pot sta în picioare și să dansez fără să mă doară."
+    }
+  ]
+}

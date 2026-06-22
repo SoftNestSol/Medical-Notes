@@ -1,0 +1,42 @@
+{
+  "conversation_id": "synth_078",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, de ceva vreme deja",
+      "am mutat niște cutii la serviciu, am cărăt, și după aia a început să mă țină",
+      "Stângă, da, mai mult.",
+      "și gâtul mă mai deranjează, da. Stau mult la calculator și simt că mă strânge pe aici, pe ceafă"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "mai mult pe aici, jos, pe partea asta",
+      "Stângă, da, mai mult",
+      "și gâtul mă mai deranjează, da. Stau mult la calculator și simt că mă strânge pe aici, pe ceafă"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt ceva pe aici, pe fesă stângă"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofenul îl mai iau când mă doare mai tare. Câte un comprimat."
+    ],
+    "evaluare_functionala_initiala": [
+      "Înțeleg că ai o contractură destul de clară pe pătratul lombar stâng și pe fesierul mare stâng. Musculatura s-a blocat acolo și de aia simți și pe fesă. Nu pare să se lase pe picior deocamdată, deci nu avem iradiere radiculară clară. Vom lucra pe relaxarea musculaturii din zona lombară, în special stângă, și în același timp să deschidem puțin mobilitatea. Și pe cervical o să lucrăm și acolo, că văd că ai tensiune în ceafă și în umeri."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22731,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3014,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

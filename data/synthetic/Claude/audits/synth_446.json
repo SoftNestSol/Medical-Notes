@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_446",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul drept îngrozitor.",
+      "da, și ceafa mă mai supără, mai ales la sfârșitul zilei"
+    ],
+    "evaluarea_durerii_vas": [
+      "La umăr... un 8.",
+      "Ceafa, un 4, 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul drept îngrozitor.",
+      "da, și ceafa mă mai supără, mai ales la sfârșitul zilei"
+    ],
+    "localizarea_durerii_alta": [
+      "se lasă un pic, pe braț, pe partea de sus, până la cot aș zice. Dar la cot nu doare, mai mult pe braț, pe exterior"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am încercat un gel, Voltaren, puneam seara",
+      "doar Voltaren gel îl puneam, dar l-am lăsat că oricum nu ajuta"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendoanelor rotatorilor umărului drept, cel mai probabil la nivelul supraspinosului, plus o tensionare a musculaturii cervicale, mai ales trapezul superior",
+      "Vom începe prin a reduce inflamația din umăr și prin a relaxa musculatura cervicală, și ulterior lucrăm la mobilitate"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13823,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2552,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

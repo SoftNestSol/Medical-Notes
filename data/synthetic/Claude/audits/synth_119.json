@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_119",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, de mai multă vreme, pe partea asta de jos, și nu știu exact... adică și pe o parte și pe alta, dar mai mult pe dreapta parcă",
+      "Vine și trece, nu e constantă",
+      "mai ales că am stat mult pe scaun azi dimineață și s-a cam aprins",
+      "Dimineața e mai rău. Mă ridic și mă ține câteva minute până mă dezmorțesc",
+      "Gâtul mai am câteodată, da. Adică nu știu, poate de la calculator"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "mă doare spatele, de mai multă vreme, pe partea asta de jos",
+      "Gâtul mai am câteodată, da."
+    ],
+    "localizarea_durerii_alta": [
+      "pe undeva pe la jumătatea coapsei, cred. Uneori mai jos, parcă, dar nu tot timpul",
+      "pe piciorul drept, pe partea din spate"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Mi-a găsit-o acum vreo trei ani."
+    ],
+    "antecedente_altele": [
+      "Am făcut o radiografie acum vreo doi ani, mi-a zis doctorul că am ceva cu coloana, o ușoară... nu știu cum i-a spus, ceva cu discurile"
+    ],
+    "medicatie_actuala": [
+      "Prestarium. Ceva de-ăla, un comprimat pe zi."
+    ],
+    "evaluare_functionala_initiala": [
+      "aveți și o ușoară inegalitate la nivelul bazinului, umărul drept e un pic mai sus față de stânga",
+      "văd că se limitează flexia",
+      "asta sugerează o suferință la nivel de disc lombar, cel mai probabil L4-L5 sau L5-S1, cu o posibilă iritație radiculară",
+      "musculatura paravertebrală e contractată, se simte la palpare",
+      "să lucrăm pe reducerea inflamației, pe mobilizarea coloanei și pe corectarea dezechilibrului ăstuia de bazin"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21912,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3554,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

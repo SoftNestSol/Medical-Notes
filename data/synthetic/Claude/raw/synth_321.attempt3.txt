@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau mai mult când faceți anumite mișcări?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Sus, deasupra capului?\nSPEAKER_01: Da.\nSPEAKER_00: Se lasă durerea și pe braț în jos?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțește mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Noaptea vă deranjează?\nSPEAKER_01: Câteodată, dacă stau pe partea aia.\nSPEAKER_00: Pe umărul stâng, da?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Tensiune, diabet, alte afecțiuni?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați mâna stângă în față, încet, până unde puteți.\nSPEAKER_01: Până pe aici pot.\nSPEAKER_00: Cam la 90 de grade. Doare?\nSPEAKER_01: Da, de aici începe.\nSPEAKER_00: Și lateral, ridicați în lateral.\nSPEAKER_01: La fel.\nSPEAKER_00: Înțeles. Vă apăs acum pe zona de aici, pe inserția supraspinosului. Doare?\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: Și dacă rotim ușor brațul în interior?\nSPEAKER_01: Doare mai tare.\nSPEAKER_00: Ok. Pare o tendinită la nivelul umărului stâng, mai exact la coafa rotatorilor. Vom lucra să reducem inflamația și să refacem mobilitatea. Câteva ședințe și ar trebui să se amelioreze.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "durere umar stang aparuta dupa mutarea de mobila, de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinita coafa rotatorilor umar stg\nObiective terapeutice:\n- reducerea inflamatiei\n- refacerea mobilitatii"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Am mutat niște mobilă.", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Stângul.", "Pe umărul stâng, da?", "Da."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Pare o tendinită la nivelul umărului stâng, mai exact la coafa rotatorilor. Vom lucra să reducem inflamația și să refacem mobilitatea."]
+  }
+}

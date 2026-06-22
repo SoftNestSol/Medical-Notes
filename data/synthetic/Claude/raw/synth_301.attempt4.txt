@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă venim azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Cel drept.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am zugrăvit.\nSPEAKER_00: Deci cu mâna sus mult timp.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare constant sau numai când mișcați?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Noaptea vă trezește?\nSPEAKER_01: Uneori.\nSPEAKER_00: Când stați pe partea dreaptă?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Ridicați brațul drept în față, cât puteți.\nSPEAKER_01: Până pe aici.\nSPEAKER_00: Cam 90 de grade, da. Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Și lateral, ridicați tot așa.\nSPEAKER_01: La fel.\nSPEAKER_00: Ok. Apăs puțin aici, pe vârful umărului. Doare?\nSPEAKER_01: Da, da.\nSPEAKER_00: Și mai jos, pe biceps, spre capul lung. Doare?\nSPEAKER_01: Puțin.\nSPEAKER_00: Bine. Durerile se lasă pe braț sau pe cot?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeli în mână, degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai pățit asta cu umărul?\nSPEAKER_01: Nu.\nSPEAKER_00: Afecțiuni, tensiune, diabet, ceva de genul?\nSPEAKER_01: Nu am nimic.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Deci avem o inflamație la nivelul tendonului supraspinos, cel mai probabil tendinită de coafă rotatori, apărută după efort cu brațul ridicat. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului drept.\nSPEAKER_01: Cât durează?\nSPEAKER_00: Depinde, dar cu câteva ședințe ar trebui să simțiți diferență.\nSPEAKER_01: Bun.\nSPEAKER_00: Haideți să începem.",
+
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după zugrăvit (muncă cu brațul ridicat), de aproximativ două săptămâni. Durere la ridicarea brațului, cu treziri nocturne la decubitus pe partea dreaptă.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\nTendinită coafă rotatori umăr drept (tendon supraspinos); limitare mobilitate activă în flexie și abducție ~90 grade; durere la palpare vârf umăr și capul lung biceps.\nObiective terapeutice:\nReducerea inflamației; recuperarea mobilității umărului drept."
+  },
+
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Cel drept.", "De vreo două săptămâni.", "Am zugrăvit.", "Când ridic mâna.", "Când stați pe partea dreaptă?", "Da."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Cel drept.", "Mă doare umărul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendonului supraspinos, cel mai probabil tendinită de coafă rotatori, apărută după efort cu brațul ridicat", "O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului drept.", "Cam 90 de grade, da. Doare acum?", "Apăs puțin aici, pe vârful umărului. Doare?", "Și mai jos, pe biceps, spre capul lung. Doare?"]
+  }
+}

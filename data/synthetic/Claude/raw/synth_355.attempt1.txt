@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Gheorghe Moldovan.\nSPEAKER_00: Și vârsta, dacă se poate.\nSPEAKER_01: 38 de ani. Sunt tânăr, nu? Și totuși mă doare ca un bătrân.\nSPEAKER_00: Haideți să vedem. Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi... mă doare umărul drept. De vreo trei săptămâni. Adică a început mai ușor, credeam că trece de la sine, dar nu trece, dimpotrivă, parcă se înrăutățește. Am zis să vin, soția mea tot zicea să vin mai devreme, dar eu am amânat.\nSPEAKER_00: Înțeles. Și durerea asta a apărut după ceva anume sau a venit din senin?\nSPEAKER_01: Păi... am zugrăvit apartamentul. Singur, că nu am vrut să plătesc meseriași, știți cum e. Vreo patru zile am stat cu mâna sus, cu pensula, și după aia a început. Nu imediat în prima zi, după vreo două zile a apărut durerea.\nSPEAKER_00: Deci după un efort prelungit cu brațul ridicat.\nSPEAKER_01: Da, exact. Și acum mă doare când ridic mâna, când mă îmbrac dimineața, mai ales când bag mâna la spate. Adică nu pot să mă prind la sutien... nu, glumesc, dar înțelegeți ideea, mâna la spate nu merge.\nSPEAKER_00: Da, am înțeles. Durerea rămâne în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne în umăr, aici, sus. Uneori simt ceva până pe la mijlocul brațului, dar nu mai jos. Nu amorțește nimic, nu, asta nu.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare insuportabil, cât e durerea acum, în repaus?\nSPEAKER_01: Acum... un 3. Dar când ridic mâna sus sau o duc în spate, ajunge la 7, 7 și jumătate. E urât.\nSPEAKER_00: Deci 3 în repaus și 7 la mișcare.\nSPEAKER_01: Da, cam așa. Noaptea mă mai trezesc și eu, dacă mă întorc pe partea dreaptă, iar doare. Soția mă tot ceartă că mă agit în somn.\nSPEAKER_00: Ați pus ceva pe el, ați luat ceva pentru durere?\nSPEAKER_01: Am luat un Voltaren, un gel, l-am pus de câteva ori. Mai ajută un pic, dar nu rezolvă problema. Și o pastilă de Nurofen am luat odată când nu mai suportam, seara.\nSPEAKER_00: O singură dată?\nSPEAKER_01: Da, o singură dată. Nu prea îmi place să iau pastile.\nSPEAKER_00: Înțeles. Aveți alte probleme de sănătate, tensiune, diabet, ceva?\nSPEAKER_01: Nu, nu am nimic. Sunt sănătos tun în rest. Adică mai am câteodată dureri de spate, în zona de jos, dar astea vin și trec, nu e nimic grav, nu m-am dus niciodată cu ele la doctor.\nSPEAKER_00: Și în momentul de față spatele nu vă doare?\nSPEAKER_01: Nu, acum nu. Acum e umărul problema.\nSPEAKER_00: Bine. Haideți să facem câteva mișcări. Ridicați brațul drept în față, încet.\nSPEAKER_01: Până aici pot... după aia începe să doară.\nSPEAKER_00: Stați puțin. Cam la 90 de grade apare durerea?\nSPEAKER_01: Da, pe acolo. Mai sus de atât e neplăcut.\nSPEAKER_00: Acum duceți brațul lateral, în lateral.\nSPEAKER_01: Ăsta doare mai tare, da. Uite, până pe aici.\nSPEAKER_00: Am înțeles. Acum vă rog să duceți mâna la spate, cât puteți.\nSPEAKER_01: Până pe la fesă ajung, mai sus nu pot. Și doare.\nSPEAKER_00: Bun. Apăs acum pe zona de sub acromion, aici. Doare?\nSPEAKER_01: Au, da. Asta doare.\nSPEAKER_00: Și dacă apăs pe tendonul bicepsului, față?\nSPEAKER_01: Mai puțin, dar și aia.\nSPEAKER_00: Am înțeles. Deci avem o limitare de mobilitate clară la ridicarea laterală și posterioară, cu durere la palparea sub acromion. Probabil o tendinopatie de supraspinos, posibil și o iritație a bursei subacromiale. Asta explică și durerea nocturnă când stați pe partea dreaptă.\nSPEAKER_01: Adică e grav? Că m-am tot gândit că am rupt ceva acolo, nu știu, un ligament sau ceva. Am citit pe net și m-am speriat.\nSPEAKER_00: Nu pare o ruptură, mișcarea există, e limitată de durere. Dar ar fi util la un moment dat să facem și o ecografie ca să vedem exact starea tendonului.\nSPEAKER_01: Și se poate rezolva?\nSPEAKER_00: Da. Obiectivul nostru e să reducem inflamația și durerea și să recuperăm mobilitatea umărului. Vom lucra pe musculatura din jurul articulației și pe tendoane. Veți simți progres treptat.\nSPEAKER_01: Bine, bine. Și câte ședințe, aproximativ?\nSPEAKER_00: Vedem după primele două-trei cum răspundeți. Haideți să ne apucăm de treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după efort prelungit cu brațul ridicat (zugrăvit), cu limitare de mobilitate la ridicare și rotație posterioară, și durere nocturnă în decubit lateral drept.",
+    "evaluarea_durerii_vas": [3, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": "iradiere parțială spre mijlocul brațului drept",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      },
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare de mobilitate clară la ridicarea laterală și posterioară; durere la palparea sub acromion și la tendonul bicepsului. Diagnostic: tendinopatie de supraspinos, posibil iritație bursă subacromială. Obiective terapeutice: reducerea inflamației și durerii, recuperarea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul drept. De vreo trei săptămâni", "am zugrăvit apartamentul. Singur... Vreo patru zile am stat cu mâna sus, cu pensula, și după aia a început", "mă doare când ridic mâna, când mă îmbrac dimineața, mai ales când bag mâna la spate", "Noaptea mă mai trezesc și eu, dacă mă întorc pe partea dreaptă, iar doare"],
+    "evaluarea_durerii_vas": ["Acum... un 3. Dar când ridic mâna sus sau o duc în spate, ajunge la 7, 7 și jumătate", "Deci 3 în repaus și 7 la mișcare"],
+    "localizarea_durerii": ["mă doare umărul drept", "Rămâne în umăr, aici, sus"],
+    "localizarea_durerii_alta": ["Uneori simt ceva până pe la mijlocul brațului, dar nu mai jos"],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am luat un Voltaren, un gel, l-am pus de câteva ori", "o pastilă de Nurofen am luat odată când nu mai suportam"],
+    "evaluare_functionala_initiala": ["avem o limitare de mobilitate clară la ridicarea laterală și posterioară, cu durere la palparea sub acromion", "Probabil o tendinopatie de supraspinos, posibil și o iritație a bursei subacromiale", "Obiectivul nostru e să reducem inflamația și durerea și să recuperăm mobilitatea umărului"]
+  }
+}

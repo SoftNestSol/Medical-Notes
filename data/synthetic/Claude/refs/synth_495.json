@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Durere cervicală și dureri de cap, instalate de aproximativ trei săptămâni, asociate cu postura la calculator. Durere la baza craniului și ceafă, cu iradiere cefalică, mai ales spre seară. Redoare matinală cervicală care cedează după aproximativ o oră.",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nPostură de tip \"cap în față\" (forward head posture). Limitare la rotația cervicală dreaptă, rotație stângă parțial păstrată. Durere la palpare suboccipitală și paravertebral cervical drept.\nDiagnostic:\nContractură musculară cervicală și suboccipitală cu cefalee cervicogenă (cefalee de tensiune), pe fond postural.\nObiective terapeutice:\nRelaxarea musculaturii cervicale și suboccipitale; ameliorarea durerilor de cap; corectare posturală."
+}

@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce problemă ne vedem azi?\nSPEAKER_01: Bună ziua! Deci, uite, mă doare umărul, umărul drept, de vreo două săptămâni. Adică a început, sincer nu știu exact de când, că la început mi s-a părut că o să-mi treacă, nu am dat importanță, că am mai avut dureri și n-au trecut singure, că adică au trecut singure, și m-am gândit că o să fie la fel, dar nu a trecut, dimpotrivă.\nSPEAKER_00: Înțeles. Și cum a apărut durerea, brusc sau treptat?\nSPEAKER_01: Treptat, treptat. Adică nu am căzut, nu am lovit nimic, nu știu... probabil de la serviciu, stau mult la birou, la calculator, și ridic și dosare, cutii, că avem un dulap sus și eu sunt cea mai înaltă din birou, deci mereu mă roagă colegele să iau de acolo, și cred că de acolo, da. Sau poate de la saltea, că am o saltea mai veche și dimineața mă trezesc cu umărul țeapăn. Nu știu sigur.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum situați durerea acum?\nSPEAKER_01: Acum? Acum e cam un 5. Dar dimineața, când mă trezesc, e mai rău, aș zice un 7, că abia mi-l mișc.\nSPEAKER_00: Doare și în repaus sau doar la mișcare?\nSPEAKER_01: La mișcare mai ales. Când ridic brațul în sus, când dau mâna la spate, atunci mă strânge tare. În repaus mai puțin, dar dacă stau pe el noaptea, mă trezesc.\nSPEAKER_00: Amorțește vreun pic brațul sau mâna?\nSPEAKER_01: Nu, nu, nu amorțește. Doar doare.\nSPEAKER_00: Și umărul stâng e în regulă?\nSPEAKER_01: Da, stângul nu mă deranjează deloc.\nSPEAKER_00: Ați făcut ceva pentru durere până acum?\nSPEAKER_01: Am pus un gel, Voltaren, de câteva ori, că aveam acasă. Mi-a mai trecut un pic după, dar a revenit. Nu am luat pastile, că nu prea îmi place să iau pastile dacă nu e caz.\nSPEAKER_00: Înțeles. Alte afecțiuni, tensiune, diabet, probleme la inimă, osteoporoză?\nSPEAKER_01: Nu, nu am nimic din astea, sunt sănătoasă tun altfel, doar umărul ăsta mă supără. Și mă tem că o să fie ceva grav, că am citit pe internet și mi-a apărut tot felul de lucruri, ruptură de tendon, nu știu ce, și m-am speriat.\nSPEAKER_00: Nu vă speriați înainte să vedem ce este. Stați să vă fac câteva teste.\nSPEAKER_01: Da, da, vă rog.\nSPEAKER_00: Ridicați brațul drept în față, încet. Până unde puteți.\nSPEAKER_01: Până pe aici, cam atât, mai sus doare.\nSPEAKER_00: Bun. Acum în lateral.\nSPEAKER_01: Pe lateral e mai rău, da, aici mă strânge.\nSPEAKER_00: Și acum duceți mâna la spate, ca și cum ați vrea să încheiați un fermoar.\nSPEAKER_01: Au, asta nu pot, mă doare rău.\nSPEAKER_00: Am înțeles. Deci avem o limitare de mobilitate pe abducție și rotație internă. Pare a fi o tendinită la nivelul coifului rotatorilor, posibil supraspinat. Nu e ceva grav, dar trebuie să lucrăm la reducerea inflamației și să recuperăm mobilitatea.\nSPEAKER_01: Deci nu e ruptură?\nSPEAKER_00: Nu are semne de ruptură la testele de acum. O să lucrăm și vedem cum evoluează. Dacă e nevoie, vă recomand o ecografie pentru confirmare.\nSPEAKER_01: Of, mă bucur. Că m-am tot gândit și noaptea și nu dormeam bine și din cauza asta și din cauza umărului.\nSPEAKER_00: Înțeles. Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept, apărută treptat în ultimele două săptămâni, posibil legată de activitate la birou și ridicare de obiecte deasupra capului. Durere la mobilizare activă, limitare pe abducție și rotație internă, fără amorțeli.",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinită coif rotatori (posibil supraspinat)\nObiective terapeutice: reducerea inflamației; recuperarea mobilității articulare\nRecomandare: ecografie pentru confirmare dacă evoluția impune"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul, umărul drept, de vreo două săptămâni", "stau mult la birou, la calculator, și ridic și dosare, cutii, că avem un dulap sus", "Doar doare", "limitare de mobilitate pe abducție și rotație internă"],
+    "evaluarea_durerii_vas": ["Acum e cam un 5", "dimineața, când mă trezesc, e mai rău, aș zice un 7"],
+    "localizarea_durerii": ["mă doare umărul, umărul drept"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am pus un gel, Voltaren, de câteva ori, că aveam acasă"],
+    "evaluare_functionala_initiala": ["Deci avem o limitare de mobilitate pe abducție și rotație internă. Pare a fi o tendinită la nivelul coifului rotatorilor, posibil supraspinat.", "Nu are semne de ruptură la testele de acum.", "vă recomand o ecografie pentru confirmare", "trebuie să lucrăm la reducerea inflamației și să recuperăm mobilitatea"]
+  }
+}

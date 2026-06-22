@@ -1,0 +1,45 @@
+{
+  "conversation_id": "synth_472",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Am ridicat ceva mai greu la muncă.",
+      "De vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 7."
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele.",
+      "Da, în zona de jos.",
+      "Da, și acolo."
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori pe fesă, pe stânga.",
+      "Pe fesă, stânga."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Deci avem o contractură a musculaturii paravertebrale lombare pe stânga cu iradiere în fesierul stâng. Fără radiculopatie, fără amorțeli.",
+      "Eu zic să începem cu o ședință de terapie manuală și masaj de decontracturare, să vedem cum reacționați. Planificăm trei-patru ședințe și reevaluăm.",
+      "Da, pe stânga.",
+      "Da, și acolo."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22971,
+    "inference_geo": "global",
+    "input_tokens": 351,
+    "output_tokens": 2231,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "conversation_id": "synth_031",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "Și pe umăr un pic.",
+      "Drept."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Și pe umăr un pic.",
+      "Pe umărul drept."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau nurofen când doare prea tare.",
+      "Una, una singură."
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o contractură musculară cervicală cu iradiere spre umărul drept, probabil din cauza posturii la calculator. Va trebui să lucrăm pe relaxarea musculaturii cervicale și să recâștigăm mobilitatea."
+    ]
+  },
+  "usage": null
+}

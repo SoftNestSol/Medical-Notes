@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "Durere umar drept dupa efort (zugravit), cu arc dureros la ridicarea bratului si durere nocturna.",
+  "evaluarea_durerii_vas": [
+    6,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "fata bratului drept",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame, o dată pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Arc dureros la abductie de la aproximativ 90 de grade in sus; sensibilitate la palpare pe tendonul bicepsului in santul bicipital. Diagnostic: inflamatie tendon supraspinos si posibil tendon biceps. Obiective terapeutice: reducerea inflamatiei si refacerea mobilitatii complete a umarului."
+}

@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere umăr drept apărută după activitate cu brațul ridicat (vopsit tavan), de aproximativ două săptămâni. Durere în repaus VAS 5/10, la mișcare VAS 8/10. Limitarea mobilității în abducție și flexie la aproximativ 90 de grade. Treziri nocturne la decubit lateral drept.",
+  "evaluarea_durerii_vas": [
+    5,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "braț drept (iradiere parțială până la mijlocul brațului)",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- Tendinită supraspinat; posibilă bursită subacromială\nObservații funcționale:\n- Flexie și abducție limitate la aproximativ 90 de grade cu durere\n- Durere la rotație externă cu cotul la 90 de grade\n- Test de compresie cervicală negativ (fără iradiere în umăr)\n- Durere la palpare anterioară și superioară a umărului drept\nObiective terapeutice:\n- Reducerea procesului inflamator\n- Recuperarea mobilității și forței în umărul drept"
+}

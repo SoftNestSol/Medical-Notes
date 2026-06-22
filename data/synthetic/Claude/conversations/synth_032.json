@@ -1,0 +1,325 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, domnule!"
+    },
+    {
+      "start": 1.26,
+      "end": 2.06,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 2.18,
+      "end": 4.46,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem azi?"
+    },
+    {
+      "start": 4.58,
+      "end": 5.72,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare umărul."
+    },
+    {
+      "start": 5.84,
+      "end": 7.74,
+      "speaker": "SPEAKER_00",
+      "text": "Care umăr, dreptul sau stângul?"
+    },
+    {
+      "start": 7.86,
+      "end": 8.66,
+      "speaker": "SPEAKER_01",
+      "text": "Dreptul."
+    },
+    {
+      "start": 8.78,
+      "end": 9.92,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp?"
+    },
+    {
+      "start": 10.04,
+      "end": 11.18,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo două săptămâni."
+    },
+    {
+      "start": 11.3,
+      "end": 14.34,
+      "speaker": "SPEAKER_00",
+      "text": "Două săptămâni. Și a apărut brusc sau treptat?"
+    },
+    {
+      "start": 14.46,
+      "end": 16.36,
+      "speaker": "SPEAKER_01",
+      "text": "Brusc. Am ridicat ceva greu."
+    },
+    {
+      "start": 16.48,
+      "end": 18.0,
+      "speaker": "SPEAKER_00",
+      "text": "Ce anume ați ridicat?"
+    },
+    {
+      "start": 18.12,
+      "end": 19.64,
+      "speaker": "SPEAKER_01",
+      "text": "Niște saci cu ciment."
+    },
+    {
+      "start": 19.76,
+      "end": 23.94,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Și de atunci doare constant sau doar la mișcare?"
+    },
+    {
+      "start": 24.06,
+      "end": 25.58,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult la mișcare."
+    },
+    {
+      "start": 25.7,
+      "end": 27.98,
+      "speaker": "SPEAKER_00",
+      "text": "Când ridicați mâna în sus doare?"
+    },
+    {
+      "start": 28.1,
+      "end": 28.9,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 29.02,
+      "end": 31.3,
+      "speaker": "SPEAKER_00",
+      "text": "Și când o duceți în spate?"
+    },
+    {
+      "start": 31.42,
+      "end": 32.56,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mai rău."
+    },
+    {
+      "start": 32.68,
+      "end": 41.42,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare doare acum?"
+    },
+    {
+      "start": 41.54,
+      "end": 42.34,
+      "speaker": "SPEAKER_01",
+      "text": "Un 5."
+    },
+    {
+      "start": 42.46,
+      "end": 47.4,
+      "speaker": "SPEAKER_00",
+      "text": "Un 5. Dar când faceți mișcarea aia dureroasă, când duceți mâna în spate?"
+    },
+    {
+      "start": 47.52,
+      "end": 48.32,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 8."
+    },
+    {
+      "start": 48.44,
+      "end": 50.34,
+      "speaker": "SPEAKER_00",
+      "text": "8, ok. Amorțește mâna, degetele?"
+    },
+    {
+      "start": 50.46,
+      "end": 51.26,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 51.38,
+      "end": 56.32,
+      "speaker": "SPEAKER_00",
+      "text": "Nu. Durerea rămâne la umăr sau se lasă și pe braț în jos?"
+    },
+    {
+      "start": 56.44,
+      "end": 57.24,
+      "speaker": "SPEAKER_01",
+      "text": "Rămâne sus."
+    },
+    {
+      "start": 57.36,
+      "end": 58.88,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ce vârstă aveți?"
+    },
+    {
+      "start": 59.0,
+      "end": 59.8,
+      "speaker": "SPEAKER_01",
+      "text": "48."
+    },
+    {
+      "start": 59.92,
+      "end": 62.2,
+      "speaker": "SPEAKER_00",
+      "text": "48 de ani. Lucrați în construcții?"
+    },
+    {
+      "start": 62.32,
+      "end": 63.12,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 63.24,
+      "end": 65.14,
+      "speaker": "SPEAKER_00",
+      "text": "Deci mult efort fizic zilnic."
+    },
+    {
+      "start": 65.26,
+      "end": 66.06,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 66.18,
+      "end": 68.46,
+      "speaker": "SPEAKER_00",
+      "text": "Alte afecțiuni, tensiune, diabet, osteoporoză, ceva?"
+    },
+    {
+      "start": 68.58,
+      "end": 69.38,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am."
+    },
+    {
+      "start": 69.5,
+      "end": 71.78,
+      "speaker": "SPEAKER_00",
+      "text": "Tensiune arterială. Luați medicamente pentru asta?"
+    },
+    {
+      "start": 71.9,
+      "end": 72.7,
+      "speaker": "SPEAKER_01",
+      "text": "Da, Prestarium."
+    },
+    {
+      "start": 72.82,
+      "end": 73.96,
+      "speaker": "SPEAKER_00",
+      "text": "Prestarium. Ce doză?"
+    },
+    {
+      "start": 74.08,
+      "end": 75.98,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu exact, 5 parcă."
+    },
+    {
+      "start": 76.1,
+      "end": 78.0,
+      "speaker": "SPEAKER_00",
+      "text": "5 mg. Altceva mai luați?"
+    },
+    {
+      "start": 78.12,
+      "end": 78.92,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 79.04,
+      "end": 81.7,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Altă afecțiune, cancer, epilepsie, vreo operație?"
+    },
+    {
+      "start": 81.82,
+      "end": 82.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic."
+    },
+    {
+      "start": 82.74,
+      "end": 86.92,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți să ridic eu puțin mâna. Spuneți-mi când doare."
+    },
+    {
+      "start": 87.04,
+      "end": 87.84,
+      "speaker": "SPEAKER_01",
+      "text": "Acum."
+    },
+    {
+      "start": 87.96,
+      "end": 89.86,
+      "speaker": "SPEAKER_00",
+      "text": "Acum, la 90 de grade."
+    },
+    {
+      "start": 89.98,
+      "end": 90.78,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact."
+    },
+    {
+      "start": 90.9,
+      "end": 92.04,
+      "speaker": "SPEAKER_00",
+      "text": "Și mai sus?"
+    },
+    {
+      "start": 92.16,
+      "end": 92.96,
+      "speaker": "SPEAKER_01",
+      "text": "La fel."
+    },
+    {
+      "start": 93.08,
+      "end": 99.16,
+      "speaker": "SPEAKER_00",
+      "text": "Stați puțin, vă țin eu mâna aici. Apăs în zona asta, pe tendonul de sus. Doare?"
+    },
+    {
+      "start": 99.28,
+      "end": 100.08,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da."
+    },
+    {
+      "start": 100.2,
+      "end": 115.78,
+      "speaker": "SPEAKER_00",
+      "text": "Deci avem o inflamație pe tendonul supraspinos, cel mai probabil. Asta e o tendinită de umăr, apărută după efort. Va trebui să reducem inflamația mai întâi, ca să puteți să vă mișcați normal. Evitați să ridicați greutăți cu mâna dreaptă deocamdată."
+    },
+    {
+      "start": 115.9,
+      "end": 116.7,
+      "speaker": "SPEAKER_01",
+      "text": "Cât timp?"
+    },
+    {
+      "start": 116.82,
+      "end": 123.28,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde cum răspunde, dar câteva ședințe ar trebui să simțiți o ameliorare. Haideți să trecem la treabă."
+    }
+  ]
+}

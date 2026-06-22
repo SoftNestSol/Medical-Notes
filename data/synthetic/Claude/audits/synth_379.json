@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_379",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, de ceva vreme. Umărul drept mai ales.",
+      "câteva luni. Poate trei, poate patru.",
+      "am mutat niște mobilă prin casă, am schimbat niște lucruri",
+      "Treptat, cred. Adică la un moment dat am simțit că mă ține puțin, și după aia tot mai tare.",
+      "Lucrez în contabilitate, deci da, mult pe calculator, ore întregi.",
+      "Da, și acolo mă ține câteodată. Mai ales spre seară, după o zi mai lungă la muncă."
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "Pe aici, cam în zona asta de sus, și câteodată se lasă puțin pe braț, pe lateral.",
+      "Da, și acolo mă ține câteodată. Mai ales spre seară, după o zi mai lungă la muncă.",
+      "Rămâne pe aici, la ceafă și puțin spre umăr."
+    ],
+    "localizarea_durerii_alta": [
+      "se lasă puțin pe braț, pe lateral",
+      "prin mijlocul brațului, cam pe acolo"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Tiroida da, am hipotiroidism. De vreo doi ani."
+    ],
+    "medicatie_actuala": [
+      "iau Euthyrox, 50 de micrograme dimineața"
+    ],
+    "evaluare_functionala_initiala": [
+      "am observat că aveți umerii puțin înainte și capul ușor proiectat în față",
+      "Arc dureros prezent în abducție",
+      "Au, da, acolo e mai sensibil.",
+      "Doare la rezistență.",
+      "ne confruntăm cu o tendinopatie la nivelul manșetei rotatorilor, posibil supraspinat, cu sindrom de impingement subacromial",
+      "Obiectivele noastre vor fi reducerea inflamației și a durerii, recuperarea amplitudinii de mișcare și corectarea posturii."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22971,
+    "inference_geo": "global",
+    "input_tokens": 334,
+    "output_tokens": 3498,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

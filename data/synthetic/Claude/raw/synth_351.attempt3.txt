@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cum vă numiți?\nSPEAKER_01: Ionescu Mircea.\nSPEAKER_00: Mulțumesc, domnule Ionescu. Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Umărul drept sau stâng?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, o lovitură, un efort mai mare?\nSPEAKER_01: Am mutat niște cutii grele la serviciu.\nSPEAKER_00: Am înțeles. Și durerea e mai rea când ridicați mâna, sau și în repaus?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Doar sus, sau și când o duceți în lateral?\nSPEAKER_01: Mai ales sus.\nSPEAKER_00: Noaptea vă deranjează, vă treziți din cauza ei?\nSPEAKER_01: Uneori, da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 înseamnă deloc și 10 înseamnă cel mai rău, cât de tare doare când ridicați mâna?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. Și în repaus?\nSPEAKER_01: Vreo 2.\nSPEAKER_00: Bun. Se lasă durerea și pe braț în jos, pe cot, pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Doar local la umăr.\nSPEAKER_01: Da.\nSPEAKER_00: Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii, tensiune, diabet, ceva de genul?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să fac câteva teste. Ridicați ușor brațul drept... până aici. Doare?\nSPEAKER_01: Da, aici.\nSPEAKER_00: Pe la 90 de grade începe?\nSPEAKER_01: Cam da.\nSPEAKER_00: Bun. Acum las mâna pe umăr și apăs ușor pe acromion. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă apăs aici, pe tendonul supraspinos?\nSPEAKER_01: Au, mai tare.\nSPEAKER_00: Am înțeles. Și rotație internă, aduceți mâna la spate... merge?\nSPEAKER_01: Nu prea.\nSPEAKER_00: E limitată rotația internă. Deci avem o inflamație la nivelul manșetei rotatorilor, mai ales supraspinos. Obiectivul nostru e să reducem inflamația și să refacem mobilitatea umărului. Haideți să trecem la lucru.\nSPEAKER_01: Ok.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept după efort fizic (mutare cutii grele), de aproximativ două săptămâni",
+    "evaluarea_durerii_vas": [6, 2],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Inflamație manșetă rotatori, supraspinos;\nLimitare rotație internă umăr drept;\nObiective terapeutice: reducerea inflamației; refacerea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște cutii grele la serviciu.", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un 6.", "Vreo 2."],
+    "localizarea_durerii": ["Dreptul.", "Doar local la umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Pe la 90 de grade începe?", "Au, mai tare.", "E limitată rotația internă. Deci avem o inflamație la nivelul manșetei rotatorilor, mai ales supraspinos. Obiectivul nostru e să reducem inflamația și să refacem mobilitatea umărului."]
+  }
+}

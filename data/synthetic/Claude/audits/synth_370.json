@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_370",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept de ceva vreme",
+      "am început să zugrăvesc în casă, am stat mult cu mâna ridicată, și după câteva zile a apărut durerea",
+      "Mă trezesc noaptea dacă mă întorc pe partea dreaptă"
+    ],
+    "evaluarea_durerii_vas": [
+      "În repaus... cam un 4, poate 5",
+      "atunci e mult mai rău, un 8 sigur. Mai ales când ridic brațul lateral sau când încerc să ajung la ceva sus"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă și pe braț, da, pe partea din față, cam până pe la cot, nu mai jos"
+    ],
+    "antecedente": [
+      "Am tensiune arterială crescută de vreo doi ani"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "iau Amlodipină, 5 miligrame, în fiecare dimineață"
+    ],
+    "evaluare_functionala_initiala": [
+      "Până la cât? Cam la 90 de grade",
+      "Cam până la 80, 90, după aia nu mai pot",
+      "Doare în arcul acesta din mijloc",
+      "Da, doare, da. E sensibil acolo",
+      "Ah, acolo doare și mai tare",
+      "Pot, dar doare",
+      "Forța există, deci nu e o ruptură completă",
+      "o tendinopatia supraspinosului cu posibilă iritație a bursei subacromiale, secundar efortului de zugrăvit și posturii de la birou",
+      "Obiectivul nostru va fi să reducem inflamația din zonă, să recâștigăm mobilitatea umărului și să lucrăm și pe postura pe care o aveți la birou"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14094,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 3517,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

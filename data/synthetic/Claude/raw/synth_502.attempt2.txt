@@ -1,0 +1,52 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți azi.\nSPEAKER_01: Mă doare spatele jos.\nSPEAKER_00: De jos, zona lombară. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. A apărut brusc sau treptat?\nSPEAKER_01: Brusc.\nSPEAKER_00: A fost ceva anume înainte? Ați ridicat ceva, ați stat mai mult pe scaun?\nSPEAKER_01: Am ridicat niște saci.\nSPEAKER_00: Saci de ce, mai grei?\nSPEAKER_01: Da, de ciment. Vreo zece saci.\nSPEAKER_00: Înțeleg. Și imediat după a apărut durerea sau a doua zi?\nSPEAKER_01: A doua zi dimineața.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum estimați durerea?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Doare tot timpul sau doar la anumite mișcări?\nSPEAKER_01: Când mă mișc mai mult. Când stau jos trece puțin.\nSPEAKER_00: Când stați pe scaun doare?\nSPEAKER_01: Da, dar mai puțin.\nSPEAKER_00: Când vă ridicați de pe scaun?\nSPEAKER_01: Atunci doare tare.\nSPEAKER_00: Durerea se lasă și pe fesă sau pe picior?\nSPEAKER_01: Un pic pe fesă dreapta.\nSPEAKER_00: Pe fesă dreapta. Coboară mai jos, sub fesă, pe coapsă?\nSPEAKER_01: Nu știu... nu, nu cred.\nSPEAKER_00: Amorțesc picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Dimineața când vă treziți, vă simțiți înțepenit?\nSPEAKER_01: Da, vreo jumătate de oră.\nSPEAKER_00: Și după ce vă mișcați trece?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Luați vreun medicament în perioada asta, ceva pentru durere?\nSPEAKER_01: Nu.\nSPEAKER_00: Nimic. Aveți vreo afecțiune cunoscută, tensiune, diabet, osteoporoză, vreo hernie de disc diagnosticată anterior?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici o intervenție chirurgicală, fractură?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să facem câteva teste. Stați cu spatele la mine, picioarele ușor depărtate. Mă învoiți să apăs puțin?\nSPEAKER_01: Da.\nSPEAKER_00: Doare când apăs aici, pe zona lombară joasă?\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Și mai jos, zona sacrată?\nSPEAKER_01: Puțin și acolo.\nSPEAKER_00: Bun. Aplecați-vă încet în față, cât puteți.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Se acutizează durerea când vă aplecați?\nSPEAKER_01: Da.\nSPEAKER_00: Și când vă îndreptați înapoi?\nSPEAKER_01: La fel, da.\nSPEAKER_00: Întindeți-vă pe masă, pe spate. Ridic piciorul drept încet, îmi spuneți când doare.\nSPEAKER_01: Acolo, în spate.\nSPEAKER_00: La câte grade, aproximativ pe la jumătate?\nSPEAKER_01: Da.\nSPEAKER_00: Se lasă durerea pe picior sau rămâne în zona lombară?\nSPEAKER_01: Rămâne în spate.\nSPEAKER_00: Bun. Piciorul stâng acum. Doare?\nSPEAKER_01: Nu, nu doare.\nSPEAKER_00: Ok. Deci avem o contractură musculară lombară destul de serioasă, agravată probabil de ridicarea acelor greutăți. Zona sacrolombară e și ea sensibilă. Testul de ridicare a piciorului drept a declanșat durere lombară, dar fără iradiere pe picior, ceea ce e un semn bun. Scopul nostru acum e să reducem contractura și inflamația musculară și să recăpătați mobilitatea normală.\nSPEAKER_01: Ok.\nSPEAKER_00: Ați mai fost la chiropractică sau kineoterapie înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Prima dată. Bun, atunci haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară joasă apărută brusc a doua zi după ridicarea a circa zece saci de ciment. Durere VAS 7/10, accentuată la mișcare și la ridicarea de pe scaun, cu redoare matinală de aproximativ o jumătate de oră. Iradiere ușoară pe fesa dreaptă, fără iradiere sub fesă și fără amorțeli.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "lombar",
+      "sacral_coccis"
+    ],
+    "localizarea_durerii_alta": "fesă dreapta",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nDurere la palpare în zona lombară joasă și zona sacrată. Flexie anterioară limitată și dureroasă, revenire din flexie dureroasă. Test Lasègue drept pozitiv (durere lombară la ridicarea membrului inferior drept la aproximativ 45°, fără iradiere distală). Test Lasègue stâng negativ.\nDiagnostic:\nContractură musculară lombară acută post-efort (ridicare greutăți), cu sensibilitate sacrolombară. Fără semne de iradiere radiculară.\nObiective terapeutice:\nReducerea contracturii și a inflamației musculare lombare; recuperarea mobilității lombare normale."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele jos.",
+      "Am ridicat niște saci.",
+      "Da, de ciment. Vreo zece saci.",
+      "A doua zi dimineața.",
+      "Un pic pe fesă dreapta.",
+      "Da, vreo jumătate de oră."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele jos.",
+      "Doare când apăs aici, pe zona lombară joasă?",
+      "Da, acolo.",
+      "Și mai jos, zona sacrată?",
+      "Puțin și acolo."
+    ],
+    "localizarea_durerii_alta": [
+      "Un pic pe fesă dreapta."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Se acutizează durerea când vă aplecați?",
+      "Da.",
+      "Acolo, în spate.",
+      "Rămâne în spate.",
+      "Piciorul stâng acum. Doare?",
+      "Nu, nu doare.",
+      "avem o contractură musculară lombară destul de serioasă, agravată probabil de ridicarea acelor greutăți. Zona sacrolombară e și ea sensibilă. Testul de ridicare a piciorului drept a declanșat durere lombară, dar fără iradiere pe picior",
+      "Scopul nostru acum e să reducem contractura și inflamația musculară și să recăpătați mobilitatea normală."
+    ]
+  }
+}

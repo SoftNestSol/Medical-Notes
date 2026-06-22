@@ -1,0 +1,49 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă veniți azi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Unde anume? Mai sus, mai jos?\nSPEAKER_01: Jos. Aici.\nSPEAKER_00: Zona lombară, da, în partea de jos a coloanei.\nSPEAKER_01: Da.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva când a apărut? Ați ridicat ceva, ați stat mult jos?\nSPEAKER_01: Am stat mult la birou. Cam toată ziua.\nSPEAKER_00: Înțeleg. Și durerea e tot timpul prezentă sau apare în anumite momente?\nSPEAKER_01: Când stau jos mult. Și când mă ridic.\nSPEAKER_00: Când vă ridicați în picioare doare mai tare?\nSPEAKER_01: Da, primele secunde.\nSPEAKER_00: Și după ce vă mișcați un pic, mai trece?\nSPEAKER_01: Da, da.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare în momentul cel mai rău?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5, deci e o durere moderată. Durerea se lasă și pe picior, pe fesă, ceva?\nSPEAKER_01: Nu. Doar acolo.\nSPEAKER_00: Strict în zona lombară. Amorțeală la picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Doare mai mult pe o parte sau e simetric?\nSPEAKER_01: Parcă mai mult pe stânga.\nSPEAKER_00: Pe stânga, ok. Ce meserie aveți?\nSPEAKER_01: Contabil. Stau la calculator.\nSPEAKER_00: Mult timp la birou, înțeles. Aveți și durere la trezire sau noaptea vă trezește?\nSPEAKER_01: Dimineața mă ține un pic. Trece.\nSPEAKER_00: Trece după ce vă mișcați. Bun. Tensiune, diabet, osteoporoză, afecțiuni mai vechi?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici antiinflamator, nici ceva pentru durere?\nSPEAKER_01: Nu, n-am luat nimic.\nSPEAKER_00: Ok. Haideți să facem câteva teste. Întoarceți-vă cu spatele la mine, stați drept, picioarele ușor depărtate.\nSPEAKER_01: Așa?\nSPEAKER_00: Da, perfect. Observ că aveți o ușoară înclinare a bazinului, umărul stâng e puțin mai coborât. Vă aplecați încet în față, cât puteți.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare la aplecare?\nSPEAKER_01: Da, la mijlocul mișcării.\nSPEAKER_00: Înțeles. Reveniți. Și acum arcuiți-vă ușor pe spate.\nSPEAKER_01: Asta doare mai tare.\nSPEAKER_00: Extensia e mai dureroasă decât flexia. Notez. Veniți, vă rog, pe masă, cu fața în jos.\nSPEAKER_01: Da.\nSPEAKER_00: Apăs paravertebral stânga, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Și dreapta?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Exact cum ziceați. Ridic piciorul stâng, spuneți-mi dacă se acutizează ceva.\nSPEAKER_01: Nu. Nu doare.\nSPEAKER_00: Bun, testul e negativ. Deci n-avem semne de afectare radiculară.\nSPEAKER_01: Înseamnă că e ceva mai simplu?\nSPEAKER_00: Da. Pare o contractură musculară paravertebrală, probabil din cauza posturii la birou, a stat mult timp în aceeași poziție și musculatura s-a blocat. Mai avem și o ușoară asimetrie de bazin care poate contribui. O să lucrăm să relaxăm musculatura, să mobilizăm zona lombară și să corectăm puțin postura.\nSPEAKER_01: Ok.\nSPEAKER_00: Ați mai fost la chiropractician sau fizioterapeut?\nSPEAKER_01: Nu, prima dată.\nSPEAKER_00: Atunci o să vă explic pe parcurs ce facem. Să începem.",
+  "note": {
+    "motivul_prezentarii": "Pacient contabil, prezintă durere lombară stângă de aproximativ două săptămâni, apărută după perioade prelungite la birou. Durerea se accentuează la statul jos prelungit și la ridicarea în ortostatism, se ameliorează după mișcare. Redoare lombară matinală care cedează spontan. Fără iradiere pe membrele inferioare, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară înclinare a bazinului, umărul stâng mai coborât. Durere la palpare paravertebrală stânga > dreapta. Flexia lombară dureroasă la mijlocul amplitudinii; extensia mai dureroasă decât flexia. Test Lasègue negativ stânga.\nDiagnostic:\nContractură musculară paravertebrală lombară stângă pe fond postural (activitate sedentară prelungită), cu asimetrie de bazin asociată. Fără semne de afectare radiculară.\nObiective terapeutice:\nRelaxarea musculaturii paravertebrale lombare; mobilizarea zonei lombare; corectarea posturii și a asimetriei de bazin."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos. Aici.",
+      "Am stat mult la birou. Cam toată ziua.",
+      "Când stau jos mult. Și când mă ridic.",
+      "Dimineața mă ține un pic. Trece.",
+      "Parcă mai mult pe stânga.",
+      "Nu. Doar acolo.",
+      "Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Zona lombară, da, în partea de jos a coloanei.",
+      "Strict în zona lombară."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nu, n-am luat nimic."
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți o ușoară înclinare a bazinului, umărul stâng e puțin mai coborât.",
+      "Extensia e mai dureroasă decât flexia.",
+      "Apăs paravertebral stânga, spuneți-mi dacă doare.",
+      "Bun, testul e negativ. Deci n-avem semne de afectare radiculară.",
+      "Pare o contractură musculară paravertebrală, probabil din cauza posturii la birou, a stat mult timp în aceeași poziție și musculatura s-a blocat.",
+      "Mai avem și o ușoară asimetrie de bazin care poate contribui.",
+      "O să lucrăm să relaxăm musculatura, să mobilizăm zona lombară și să corectăm puțin postura."
+    ]
+  }
+}

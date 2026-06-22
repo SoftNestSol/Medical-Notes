@@ -1,2 +1,7 @@
 conversation_id	error
-synth_003	GenerationValidationError: synth_003 word count 307 outside 350-1300
+synth_501	GenerationValidationError: synth_501 evidence quote too short for motivul_prezentarii
+synth_483	GenerationValidationError: synth_483 evidence quote not found for localizarea_durerii: 'Mai spre mijloc doare sau mai spre o parte? Cam pe mijloc, poate un pic mai pe stânga.'
+synth_503	GenerationValidationError: synth_503 evidence quote too short for motivul_prezentarii
+synth_485	GenerationValidationError: synth_485 medication name not spoken: {'denumire': 'Voltaren gel', 'doza': None}
+synth_480	GenerationValidationError: synth_480 evidence quote not found for motivul_prezentarii: 'Accentuata la ridicare din sezand si dimineata la primii pasi'
+synth_510	GenerationValidationError: synth_510 evidence quote not found for evaluare_functionala_initiala: 'durere la rotația internă pasivă a șoldului drept'

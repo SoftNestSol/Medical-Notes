@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem?\nSPEAKER_01: Păi, uite, mă doare ceafa de vreo două săptămâni, poate mai mult, sincer nu știu exact de când, că am tot amânat să vin. Am zis că trece singur, că poate am dormit prost, că poate am stat prost la calculator, și tot am amânat și amânat și iată că tot nu trece.\nSPEAKER_00: Înțeles. Și durerea asta în ceafă, e locală sau se lasă undeva?\nSPEAKER_01: Da, se lasă și în cap, adică am și dureri de cap destul de des din cauza asta, cred. Cel puțin așa mi se pare mie că-s legate. Și uneori simt ceva și pe aici, pe partea dreaptă a gâtului, mai sus, spre ureche parcă.\nSPEAKER_00: Deci durerea e mai mult pe dreapta?\nSPEAKER_01: Da, pe dreapta, da. Stânga mai puțin, aproape deloc.\nSPEAKER_00: Și durerile de cap apar simultan cu ceafa sau separat?\nSPEAKER_01: Simultan, de obicei. Adică când mă doare ceafa, aproape sigur am și cap. Uneori e mai surd capul, alteori mă strânge, nu știu cum să zic, ca o presiune.\nSPEAKER_00: Pe o scară de la 0 la 10, cât estimați durerea din ceafă?\nSPEAKER_01: Păi... un 6, aș zice. Nu mă doboară, dar mă deranjează, nu mai pot să stau la calculator fără să simt, și stau mult, că lucrez în IT.\nSPEAKER_00: Stați mult timp la birou?\nSPEAKER_01: Da, câte 8-9 ore pe zi, uneori și mai mult. Și știu că stau prost, mi-a mai spus și soția, dar ce să fac, mă prind în treabă și uit. Ecranul e cam la nivelul acesta, mai jos decât ar trebui probabil, și iau capul în față fără să-mi dau seama.\nSPEAKER_00: Înțeles. Dimineața, când vă treziți, simțiți durerea sau apare pe parcursul zilei?\nSPEAKER_01: Dimineața e mai ok, sincer. Adică nu zic că-i perfect, dar suportabil. Pe la prânz începe să se instaleze și după-amiaza e cel mai rău, mai ales dacă am avut multe ore de ecran.\nSPEAKER_00: Ați luat ceva pentru durere?\nSPEAKER_01: Am luat un Nurofen din când în când, dar nu în fiecare zi, doar când nu mai suportam. Și am mai pus un gel, știți, de ăla mentolat, că mai am pe acasă de la altă dată, dar nu prea m-a ajutat.\nSPEAKER_00: Gel mentolat. Și Nurofen-ul ușurează?\nSPEAKER_01: Da, câteva ore, da. Dar nu vreau să tot iau pastile, de-aia am venit aici.\nSPEAKER_00: Bine. Aveți alte probleme de sănătate, tensiune, diabet, ceva de felul ăsta?\nSPEAKER_01: Nu, nu am nimic, sunt sănătos altfel. Poate puțin stres, că e mult de muncă, dar asta nu e boală, nu?\nSPEAKER_00: E important și stresul, da. Vârsta, dacă îmi permiteți?\nSPEAKER_01: 34 de ani.\nSPEAKER_00: Bun. Haideți să facem câteva mișcări. Întoarceți capul spre dreapta, ușor. Ajungeți până aici?\nSPEAKER_01: Cam până pe la umăr, nu mai departe, că mă frige.\nSPEAKER_00: Spre stânga acum.\nSPEAKER_01: Stânga e mai bine, da.\nSPEAKER_00: Dați capul pe spate ușor.\nSPEAKER_01: Asta mă doare, da, imediat simt în ceafă.\nSPEAKER_00: Înțeles. Acum apăs puțin pe mușchii de aici, paravertebrali cervicali, pe dreapta. Simțiți?\nSPEAKER_01: Au, da, da, acolo e, exact acolo mă doare.\nSPEAKER_00: Contractură pe toată zona cervicală dreaptă, cu limitare la rotație dreapta și extensie. Deci avem o contractură musculară cervicală, cel mai probabil legată de postura la birou și de tensiunea acumulată. Vom lucra să relaxăm musculatura, să creștem mobilitatea și să vedem cum se ameliorează și durerile de cap.\nSPEAKER_01: Credeți că o să treacă? Mă gândeam eu dacă nu e ceva mai grav, hernii sau nu știu...\nSPEAKER_00: Din ce observ deocamdată, nu avem semne de iradiere pe braț, fără amorțeli, fără furnicături, deci probabil e musculatură și postură. Vom vedea cum răspunde la câteva ședințe.\nSPEAKER_01: Ok, bine, mă liniștiți.\nSPEAKER_00: Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală (ceafă) cu dureri de cap asociate, predominant pe dreapta, de aproximativ două săptămâni, agravată de munca la calculator în postură incorectă.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": ["cervical", "cap_ceafa"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      },
+      {
+        "denumire": "gel mentolat",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Contractură musculară pe zona cervicală dreaptă, cu limitare la rotație dreapta și extensie cervicală. Fără semne de iradiere pe braț, fără amorțeli sau furnicături. Diagnostic: contractură musculară cervicală, posibil postural. Obiective terapeutice: relaxarea musculaturii cervicale, creșterea mobilității, ameliorarea durerilor de cap asociate."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare ceafa de vreo două săptămâni", "se lasă și în cap, adică am și dureri de cap destul de des din cauza asta", "pe dreapta, da. Stânga mai puțin, aproape deloc", "stau mult la calculator fără să simt, și stau mult, că lucrez în IT"],
+    "evaluarea_durerii_vas": ["un 6, aș zice"],
+    "localizarea_durerii": ["mă doare ceafa", "am și dureri de cap destul de des din cauza asta"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am luat un Nurofen din când în când", "am mai pus un gel, știți, de ăla mentolat"],
+    "evaluare_functionala_initiala": ["Contractură pe toată zona cervicală dreaptă, cu limitare la rotație dreapta și extensie", "nu avem semne de iradiere pe braț, fără amorțeli, fără furnicături", "Vom lucra să relaxăm musculatura, să creștem mobilitatea și să vedem cum se ameliorează și durerile de cap"]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cum vă numiți?\nSPEAKER_01: Matei. Bogdan Matei.\nSPEAKER_00: Bogdan Matei, bine ați venit. Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Cel drept.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. A apărut după ceva anume, după un efort, o lovitură?\nSPEAKER_01: Am cărat niște cutii grele la muncă.\nSPEAKER_00: Înțeles. Doare constant sau numai când mișcați mâna?\nSPEAKER_01: Când mișc.\nSPEAKER_00: Când ridicați brațul doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și când duceți mâna în spate?\nSPEAKER_01: Da, mai rău.\nSPEAKER_00: Mai rău. Pe o scară de la 0 la 10, cât de tare doare când ridicați brațul?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Și noaptea vă trezește durerea?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Câteodată. Amorțește mâna sau degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Ridicați brațul pentru mine, cât puteți de sus.\nSPEAKER_01: Până pe la... nu pot mai sus de atât.\nSPEAKER_00: Până la vreo 90 de grade, da?\nSPEAKER_01: Cam așa.\nSPEAKER_00: Stați puțin. Doare acum când apăs aici, pe zona asta?\nSPEAKER_01: Da, da.\nSPEAKER_00: Și dacă rotesc ușor brațul spre exterior, doare?\nSPEAKER_01: Au, da.\nSPEAKER_00: Bine. Avem alte afecțiuni, tensiune, diabet, osteoporoză, ceva de felul ăsta?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio afecțiune?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale la umăr vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Iau un ibuprofen din când în când.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Nu știu, câte unul la două zile poate.\nSPEAKER_00: La două zile, doza?\nSPEAKER_01: 400.\nSPEAKER_00: 400 de miligrame. Altceva nu luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme sau unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Deci avem o inflamație la nivelul coafei rotatorilor, cel mai probabil tendonul supraspinos este afectat. Mobilitatea este limitată, nu puteți ridica brațul peste 90 de grade, rotația externă este dureroasă. Obiectivul nostru în prima fază e să reducem inflamația și să recâștigăm amplitudinea de mișcare.\nSPEAKER_01: Da.\nSPEAKER_00: Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept aparuta dupa efort fizic (carate cutii grele), de doua saptamani",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "ibuprofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie coafa rotatori, tendon supraspinos afectat\nObiective terapeutice: reducerea inflamatiei; recastigarea amplitudinii de miscare\nObservatii functionale: mobilitate limitata, abductie limitata la ~90 grade, rotatie externa dureroasa"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Cel drept.",
+      "De vreo două săptămâni.",
+      "Am cărat niște cutii grele la muncă."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Cel drept.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau un ibuprofen din când în când.",
+      "400."
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul coafei rotatorilor, cel mai probabil tendonul supraspinos este afectat",
+      "Mobilitatea este limitată, nu puteți ridica brațul peste 90 de grade, rotația externă este dureroasă",
+      "Obiectivul nostru în prima fază e să reducem inflamația și să recâștigăm amplitudinea de mișcare"
+    ]
+  }
+}

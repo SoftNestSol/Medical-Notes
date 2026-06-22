@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_048",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele de ceva vreme, mai ales pe partea asta de jos",
+      "a început să mă doară mai rău acum vreo lună și ceva",
+      "uneori dimineața mă trezesc și parcă am un pic de rigiditate pe acolo"
+    ],
+    "evaluarea_durerii_vas": [
+      "un 5 poate? Sau un 6? Undeva pe acolo",
+      "mai spre un 7-8 zic eu",
+      "La gât e mult mai puțin, un 3 maximum"
+    ],
+    "localizarea_durerii": [
+      "zona lombară",
+      "mai am și ceva la gât"
+    ],
+    "localizarea_durerii_alta": [
+      "simt ceva și pe partea asta, pe fesă, pe stânga",
+      "poate uneori un pic pe coapsă, dar nu știu sigur"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Mi-au spus medicii că am tensiune un pic ridicată."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Enalapril. 10 miligrame, o dată pe zi",
+      "mai iau câte un ibuprofen când mă doare spatele prea rău",
+      "400, cred. Alea normale, de la farmacie"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație destul de clară în zona lombară, mai pronunțată pe stânga, cu piriformul și pătratul lombar afectate",
+      "Avem și o ușoară tensionare la nivel cervical, probabil legată de postura de la birou",
+      "Obiectivul nostru în primele ședințe va fi să reducem inflamația din zona lombară și să decontracturăm musculatura cervicală",
+      "ulterior vom lucra și pe postură și mobilitate"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13583,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3533,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

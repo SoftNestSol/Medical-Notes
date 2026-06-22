@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_406",
+  "evidence": {
+    "motivul_prezentarii": [
+      "de vreo două săptămâni mă doare umărul, cel stâng",
+      "am mutat niște cutii acasă, că am schimbat mobila din sufragerie, și a doua zi dimineață m-am trezit cu umărul înțepenit",
+      "Se lasă un pic, da, pe partea din față a brațului, până pe la jumătate, nu mai jos",
+      "Nu am amorțeală",
+      "Cam pe la 90 de grade, pe acolo",
+      "dacă duc mâna la spate, să zic să prind centura, aia doare cel mai rău"
+    ],
+    "evaluarea_durerii_vas": [
+      "Dimineața aș zice un 7, poate chiar 8. Ziua, dacă stau cuminte, coboară la un 4-5."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă un pic, da, pe partea din față a brațului, până pe la jumătate, nu mai jos. Nu ajunge la cot sau la mână."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat Ibuprofen câteva zile, 400",
+      "mai dau cu un gel antiinflamator pe umăr, Voltaren"
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare o tendinopatie la nivelul coafei rotatorilor, posibil implicat supraspinosul, cu o componentă posturală din poziția la birou.",
+      "Trebuie să lucrăm pe reducerea inflamației locale, mobilizarea articulației scapulo-humerale și corectarea posturii la birou.",
+      "Vă apăs puțin în zona de aici, deasupra umărului. Doare?",
+      "Rotația internă o simțiți limitată, ați zis?"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23139,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2752,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

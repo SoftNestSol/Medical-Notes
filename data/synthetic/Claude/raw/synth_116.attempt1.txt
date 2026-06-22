@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce vă pot ajuta?\nSPEAKER_01: Bună ziua, da, am o problemă cu genunchiul, cel drept, mă doare de vreo două săptămâni și nu știu, am zis să vin să văd ce e, pentru că am citit pe internet tot felul de lucruri și m-am speriat un pic, că ziceau de operații și nu știu ce...\nSPEAKER_00: Înțeleg. Și unde exact vă doare, în față, pe lateral, pe interior?\nSPEAKER_01: Pe interior, mai mult, da. Adică dacă apăs aici, pe partea asta interioară, doare. Și uneori simt că îmi cedează puțin, că nu mă ține bine.\nSPEAKER_00: Și a apărut după ceva anume, după un efort, după o mișcare?\nSPEAKER_01: Păi de fapt am început să merg la sală de vreo lună, că am vrut să slăbesc un pic, și la un moment dat am făcut niște genuflexiuni și a doua zi m-am trezit că doare. Nu știu dacă de la aia, poate și de la faptul că stau mult la birou, mă gândesc. Soția mea zice că e de la pantofi, că port niște pantofi care nu sunt buni, dar eu nu cred că de la pantofi, ce legătură are, nu?\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Păi, așa, în mod normal, vreo 4. Dar dacă cobor scările sau dacă fac ghemuit, ajunge și la 7. La sală am renunțat să mai fac picioare de atunci, că mi-e frică să nu agravez ceva.\nSPEAKER_00: La scări doare mai mult coborâtul sau urcatul?\nSPEAKER_01: Coborâtul, da. Urcatul merge, coborâtul e mai rău.\nSPEAKER_00: Și amorțeală sau umflătură ați observat?\nSPEAKER_01: Umflat nu prea, sau poate puțin, nu știu dacă e umflat sau e normal, nu am cu ce compara. Amorțit nu.\nSPEAKER_00: Ați mai avut probleme cu genunchiul ăsta în trecut?\nSPEAKER_01: Nu, niciodată. Astea la genunchi e prima dată. Am avut cândva ceva la spate, lombarul, acum vreo trei ani, m-am dus la un recuperator și mi-a trecut. Dar la genunchi nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, ceva?\nSPEAKER_01: Nu, tensiune nu am, diabet nu am. Am colesterol un pic mărit, dar iau ceva pentru asta.\nSPEAKER_00: Ce luați, știți cum se numește?\nSPEAKER_01: Da, Rosuvastatin, 10 miligrame, o dată pe zi seara.\nSPEAKER_00: Bun. Altceva nu luați?\nSPEAKER_01: Nu, nimic altceva. Uneori mai iau un ibuprofen dacă mă doare rău, dar nu în mod regulat, doar când nu mai suport.\nSPEAKER_00: Înțeles. Stați puțin, haideți să facem câteva teste. Ridicați-vă puțin. Îndoiți genunchiul ușor... doare acum?\nSPEAKER_01: Puțin da, pe interior.\nSPEAKER_00: Apăs aici pe linia articulară internă... doare?\nSPEAKER_01: Ah, da, acolo doare. Asta e fix locul.\nSPEAKER_00: Am înțeles. Deci avem o sensibilitate clară pe linia articulară internă, cu durere la coborâtul scărilor și la genuflexiuni. Pare o inflamație la nivelul ligamentului colateral intern și posibil tendon rotulian, cel mai probabil apărută după efortul de la sală.\nSPEAKER_01: Adică nu e ceva grav? Nu trebuie operație? Că m-am speriat când am citit...\nSPEAKER_00: Nu, nu e ceva chirurgical. Lucrăm mai întâi să reducem inflamația, după aceea refacem stabilitatea și mobilitatea genunchiului.\nSPEAKER_01: Bine, bine, că mă bucur. Și cât durează, aproximativ?\nSPEAKER_00: Depinde cum răspunde, dar câteva ședințe ar trebui să simțiți îmbunătățire. Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere la nivelul genunchiului drept, pe partea internă, apărută după genuflexiuni la sală, în urmă cu aproximativ două săptămâni. Durere accentuată la coborâtul scărilor și la genuflexiuni.",
+    "evaluarea_durerii_vas": [4, 7],
+    "localizarea_durerii": ["genunchi_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": "lombalgieîn antecedente (acum aproximativ trei ani, rezolvată prin recuperare medicală)",
+    "medicatie_actuala": [
+      {
+        "denumire": "Rosuvastatin",
+        "doza": "10 miligrame, o dată pe zi seara"
+      },
+      {
+        "denumire": "ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Sensibilitate clară pe linia articulară internă. Durere la coborâtul scărilor și la genuflexiuni. Diagnostic: inflamație la nivelul ligamentului colateral intern și posibil tendon rotulian. Obiective terapeutice: reducerea inflamației, refacerea stabilității și mobilității genunchiului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["am o problemă cu genunchiul, cel drept, mă doare de vreo două săptămâni", "am făcut niște genuflexiuni și a doua zi m-am trezit că doare", "Pe interior, mai mult, da."],
+    "evaluarea_durerii_vas": ["așa, în mod normal, vreo 4. Dar dacă cobor scările sau dacă fac ghemuit, ajunge și la 7"],
+    "localizarea_durerii": ["am o problemă cu genunchiul, cel drept", "Pe interior, mai mult, da. Adică dacă apăs aici, pe partea asta interioară, doare."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": ["Am avut cândva ceva la spate, lombarul, acum vreo trei ani, m-am dus la un recuperator și mi-a trecut."],
+    "medicatie_actuala": ["Rosuvastatin, 10 miligrame, o dată pe zi seara", "Uneori mai iau un ibuprofen dacă mă doare rău, dar nu în mod regulat"],
+    "evaluare_functionala_initiala": ["Deci avem o sensibilitate clară pe linia articulară internă, cu durere la coborâtul scărilor și la genuflexiuni. Pare o inflamație la nivelul ligamentului colateral intern și posibil tendon rotulian", "Lucrăm mai întâi să reducem inflamația, după aceea refacem stabilitatea și mobilitatea genunchiului."]
+  }
+}

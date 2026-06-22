@@ -1,0 +1,50 @@
+{
+  "conversation_id": "synth_101",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Am stat mult la birou.",
+      "De vreo două săptămâni.",
+      "Doare când mă aplec.",
+      "Da, la ridicat doare mai tare.",
+      "Dreapta parcă."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Strict în zona lombară."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofen, câteodată."
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară înclinare spre stânga.",
+      "Limitare la flexie.",
+      "Da, la ridicat doare mai tare.",
+      "Da, aici doare.",
+      "Dreapta parcă.",
+      "nu avem iradiere, nu avem test Lasègue pozitiv",
+      "Este o contractură musculară paravertebrală lombară, mai accentuată pe dreapta.",
+      "O să lucrăm pe relaxarea musculaturii și pe mobilizare lombară."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22928,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 2079,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

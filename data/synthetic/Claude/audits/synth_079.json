@@ -1,0 +1,55 @@
+{
+  "conversation_id": "synth_079",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele. De mai mult timp. Zona de jos, mai mult.",
+      "A început mai ușor și după a tot ținut.",
+      "La servici ridic tot felul, sunt șofer de TIR, stau mult și jos la volan",
+      "pe partea dreaptă, pe acolo. Nu știu cum să spun, nu e tocmai durere, mai degrabă ceva... un disconfort",
+      "și un pic la gât, uneori. Mai ales când stau cu capul tot înainte.",
+      "mă ține, înțepenit dimineața"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "Zona de jos, mai mult.",
+      "și un pic la gât, uneori."
+    ],
+    "localizarea_durerii_alta": [
+      "pe partea dreaptă, pe acolo",
+      "Acolo trage un pic în fund, în zona fesieră."
+    ],
+    "antecedente": [
+      "Tensiune am, da. De câțiva ani îmi zice doctorul că e un pic ridicată."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "iau ceva. Perindopril, parcă. O pastilă pe zi."
+    ],
+    "evaluare_functionala_initiala": [
+      "Bazinul e un pic asimetric, observ că piciorul drept e ușor mai înainte.",
+      "Pe dreapta trage mai tare, da.",
+      "Voi apăsa pe musculatura paravertebrală.",
+      "Pe dreapta mai tare.",
+      "Acum apăs pe fesa dreaptă, pe mușchiul piriform. Doare?",
+      "Ridic piciorul drept... doare?",
+      "Acolo trage un pic în fund, în zona fesieră.",
+      "Ce văd eu este o tensionare a musculaturii paravertebrale lombare, mai accentuată pe dreapta, cu implicarea fesierului și piriformului pe aceeași parte.",
+      "Hai să lucrăm și zona cervicală în ședința de azi, că și acolo văd că există o rigiditate.",
+      "Obiectivul principal e să reducem tensiunea musculară și să îmbunătățim mobilitatea lombară și cervicală."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22731,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3617,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

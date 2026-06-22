@@ -1,0 +1,27 @@
+{
+  "motivul_prezentarii": "Durere umar drept, cu limitarea miscarii, si tensiune cervicala",
+  "evaluarea_durerii_vas": [
+    4,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "gastrita",
+  "medicatie_actuala": [
+    {
+      "denumire": "Perindopril",
+      "doza": "5 mg"
+    },
+    {
+      "denumire": "Omeprazol",
+      "doza": "20 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- Tendinita / sindrom de impingement umar dr.\n- Tensiune musculara cervicala\nObiective terapeutice:\n- Reducerea inflamatiei\n- Recuperarea mobilitatii bratului"
+}

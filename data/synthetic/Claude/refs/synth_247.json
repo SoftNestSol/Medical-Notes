@@ -1,0 +1,19 @@
+{
+  "motivul_prezentarii": "Durere cervicală și umăr drept de aproximativ trei săptămâni, cu iradiere spre omoplat drept și furnicături pe brațul drept; dureri de cap de tip tensional la ceafă",
+  "evaluarea_durerii_vas": [
+    6,
+    5
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": "omoplat drept, braț drept (furnicături pe partea externă)",
+  "antecedente": [
+    "scolioza_cifoza"
+  ],
+  "antecedente_altele": "fractură claviculă dreaptă acum aproximativ zece ani",
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic:\n- Contractură musculatură cervicală (trapez superior, ridicător scapulă dreapta);\n- Posibilă iritație radiculară C5-C6;\n- Cefalee tensională secundară contracturii cervicale;\nObiective terapeutice:\n- Reducerea contracturii musculare;\n- Eliberarea mobilității coloanei cervicale;\n- Corectare postură"
+}

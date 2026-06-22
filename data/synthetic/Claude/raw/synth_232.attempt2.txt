@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stângul sau dreptul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Înțeles. Și a apărut după ceva anume, după un efort, o lovitură?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Aha, deci după un efort fizic. Vă doare constant sau doar când mișcați brațul?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Când ridicați mâna în sus?\nSPEAKER_01: Da.\nSPEAKER_00: Și lateral, dacă ridicați brațul lateral, doare la fel?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare e durerea când ridicați brațul?\nSPEAKER_01: Un 7.\nSPEAKER_00: Un 7. Și în repaus, când stați liniștit, doare?\nSPEAKER_01: Mai puțin. Un 2, ceva.\nSPEAKER_00: Un 2 în repaus. Amorțește brațul sau mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Stați puțin, ridicați brațul drept în față pentru mine, ușor... până unde puteți.\nSPEAKER_01: Până aici.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da, de pe la mijloc în sus.\nSPEAKER_00: Da, deci arc dureros. Bun. Acum ridicați lateral.\nSPEAKER_01: Au. Nu prea pot.\nSPEAKER_00: Nu prea puteți. Înțeles. Alte afecțiuni aveți, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio intervenție chirurgicală la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci avem o inflamație la nivelul coafei rotatorilor, cel mai probabil un tendon supraspinat afectat după efortul ăla cu mobila. Vedem și o limitare clară a abducției și flexiei. Va trebui să reducem inflamația mai întâi, după care lucrăm la mobilitate.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept",
+    "evaluarea_durerii_vas": [7, 2],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie coafa rotatori, tendon supraspinat\nObiective terapeutice:\n- reducerea inflamatiei\n- refacerea mobilitatii (abductie, flexie)"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul."],
+    "evaluarea_durerii_vas": ["Un 7.", "Un 2, ceva."],
+    "localizarea_durerii": ["Dreptul.", "Mă doare umărul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul coafei rotatorilor, cel mai probabil un tendon supraspinat afectat după efortul ăla cu mobila", "vedem și o limitare clară a abducției și flexiei", "Va trebui să reducem inflamația mai întâi, după care lucrăm la mobilitate"]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "conversation_id": "synth_228",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, de mai mult timp deja",
+      "Cam pe aici, în zona de jos, dar și mai sus un pic",
+      "A venit treptat",
+      "Dimineața e mai rău, că mă scol și parcă sunt înțepenită",
+      "lucrez la birou. Stau cam toată ziua pe scaun și la un moment dat nu mai pot să stau",
+      "uneori simt ceva pe... pe partea stângă, pe fesă",
+      "Nu, nu am amorțeală",
+      "ceafa mă mai deranjează, că stau cu capul în față la calculator"
+    ],
+    "evaluarea_durerii_vas": [
+      "cam... la un 6, 7 dimineața. Ziua poate un 4"
+    ],
+    "localizarea_durerii": [
+      "mai ales. Dar uneori simt și sus, pe la mijloc, ceva tensionat",
+      "zona de jos",
+      "ceafa mă mai deranjează"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt ceva pe... pe partea stângă, pe fesă"
+    ],
+    "antecedente": [
+      "Mi-a zis cineva odată că am o scolioză ușoară"
+    ],
+    "antecedente_altele": [
+      "am avut apendicita, acum mulți ani, eram copil, la 12 ani",
+      "Am rupt mâna stângă când eram la liceu, am căzut la sport. Dar a trecut, nu am probleme cu ea acum"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Umerii nu sunt la același nivel, cel stâng e puțin mai jos. Și bazinul pare ușor asimetric",
+      "avem o contractură musculară paravertebrală, mai accentuată pe stânga, la nivel lombar și parțial toracal",
+      "Ceafa, cum spuneați, e și ea tensionată de la poziția la calculator",
+      "Obiectivul nostru va fi să reducem contractura și să lucrăm pe mobilitatea lombară, să puteți să vă mișcați normal, să nu mai aveți înțepenirea aia de dimineață"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21330,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 3527,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 4.84,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi numele dumneavoastră, vă rog."
+    },
+    {
+      "start": 4.96,
+      "end": 5.76,
+      "speaker": "SPEAKER_01",
+      "text": "Ionescu Marian."
+    },
+    {
+      "start": 5.88,
+      "end": 7.4,
+      "speaker": "SPEAKER_00",
+      "text": "Ionescu Marian. Și vârsta?"
+    },
+    {
+      "start": 7.52,
+      "end": 8.66,
+      "speaker": "SPEAKER_01",
+      "text": "47 de ani."
+    },
+    {
+      "start": 8.78,
+      "end": 12.2,
+      "speaker": "SPEAKER_00",
+      "text": "Mulțumesc. Cu ce problemă ne vedem astăzi, domnule Ionescu?"
+    },
+    {
+      "start": 12.32,
+      "end": 29.8,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, uite, de vreo trei săptămâni mă doare umărul drept destul de rău. Adică la început am zis că o să treacă singur, că poate am dormit prost sau ceva, dar nu trece. Ba chiar mi se pare că s-a mai agravat în ultima săptămână."
+    },
+    {
+      "start": 29.92,
+      "end": 35.62,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și această durere este doar în umăr sau se lasă și în altă parte?"
+    },
+    {
+      "start": 35.74,
+      "end": 50.18,
+      "speaker": "SPEAKER_01",
+      "text": "Se lasă și pe braț, în jos, până pe la cot, uneori. Nu mereu, dar câteodată când ridic mâna sus simt că merge și spre cot. Și noaptea mă trezesc, că nu pot să stau pe partea dreaptă."
+    },
+    {
+      "start": 50.3,
+      "end": 51.82,
+      "speaker": "SPEAKER_00",
+      "text": "Deci vă trezește noaptea."
+    },
+    {
+      "start": 51.94,
+      "end": 59.54,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da. Soția mea zice că m-am tot răsucit toată noaptea. Nu mai pot să dorm pe dreapta deloc."
+    },
+    {
+      "start": 59.66,
+      "end": 68.4,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare insuportabil, cât de tare estimați această durere?"
+    },
+    {
+      "start": 68.52,
+      "end": 75.74,
+      "speaker": "SPEAKER_01",
+      "text": "Ziua, când mă mișc normal, un 5. Dar noaptea, sau când încerc să ridic ceva greu, ajunge la 8."
+    },
+    {
+      "start": 75.86,
+      "end": 87.26,
+      "speaker": "SPEAKER_00",
+      "text": "Deci 5 în repaus relativ și 8 la efort și noapte. Înțeles. Și știți cumva ce a declanșat această durere? Ați făcut ceva anume, ați ridicat ceva greu, ați căzut?"
+    },
+    {
+      "start": 87.38,
+      "end": 109.04,
+      "speaker": "SPEAKER_01",
+      "text": "Asta e și problema, nu știu exact. Am niște reamenajări acasă, am mutat niște mobilă cu un prieten, rafturi, o bibliotecă mare, și după vreo două zile a apărut durerea. Dar nu știu dacă de la aia sau... poate că da, poate că nu. Am mai ridicat lucruri grele în viața mea și n-a fost nimic."
+    },
+    {
+      "start": 109.16,
+      "end": 112.2,
+      "speaker": "SPEAKER_00",
+      "text": "Deci probabil după un efort fizic mai intens."
+    },
+    {
+      "start": 112.32,
+      "end": 116.88,
+      "speaker": "SPEAKER_01",
+      "text": "Cel mai probabil, da. Asta e singura explicație pe care o am."
+    },
+    {
+      "start": 117.0,
+      "end": 119.66,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Și de profesie ce sunteți?"
+    },
+    {
+      "start": 119.78,
+      "end": 135.74,
+      "speaker": "SPEAKER_01",
+      "text": "Sunt inginer, stau mult la birou, la calculator. Și acum îmi dau seama că poate și asta contează, că stau ore întregi într-o poziție și poate am și o postură nu tocmai corectă. Mereu mi s-a spus că stau cocoșat."
+    },
+    {
+      "start": 135.86,
+      "end": 142.7,
+      "speaker": "SPEAKER_00",
+      "text": "Da, postura contează foarte mult. Și la locul de muncă, mouse-ul și tastatura, sunt pe partea dreaptă?"
+    },
+    {
+      "start": 142.82,
+      "end": 155.74,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, mouse-ul pe dreapta, tastatura... normal. Și telefonul îl țin tot în dreapta. Acum că ziceți, am stat să mă gândesc și poate că suprasolicitat umărul ăsta de ani de zile, nu?"
+    },
+    {
+      "start": 155.86,
+      "end": 162.32,
+      "speaker": "SPEAKER_00",
+      "text": "E posibil. Haideți să verificăm câteva lucruri. Spuneți-mi, ați mai avut probleme cu umărul acesta înainte?"
+    },
+    {
+      "start": 162.44,
+      "end": 182.2,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, cu umărul nu. Dar acum vreo zece ani am avut o fractură la claviculă, tot pe dreapta. Am căzut de pe bicicletă, mi-am rupt clavicula. A fost operație, cu placă și șuruburi, dar placa a fost scoasă după doi ani. De atunci n-am mai avut nimic deosebit la umăr."
+    },
+    {
+      "start": 182.32,
+      "end": 190.68,
+      "speaker": "SPEAKER_00",
+      "text": "Deci fractură de claviculă dreaptă operată, placă extrasă. Bine de știut. Și altceva, alte afecțiuni, boli, tensiune, diabet, ceva de genul acesta?"
+    },
+    {
+      "start": 190.8,
+      "end": 207.14,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea. Sunt relativ sănătos, în afară de asta. Am o scolioză ușoară, mi s-a spus când eram adolescent, dar nu m-a deranjat niciodată cu adevărat. La controale de rutină mi-au tot zis că e minoră."
+    },
+    {
+      "start": 207.26,
+      "end": 211.44,
+      "speaker": "SPEAKER_00",
+      "text": "Scolioză ușoară, înțeles. Și această scolioză, știți în ce zonă e?"
+    },
+    {
+      "start": 211.56,
+      "end": 222.58,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu exact. Mi s-a spus la spate, undeva la mijloc, dar nu am făcut nimic special pentru ea. A fost chestie de adolescență și... asta a fost."
+    },
+    {
+      "start": 222.7,
+      "end": 224.98,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Luați vreun medicament în prezent?"
+    },
+    {
+      "start": 225.1,
+      "end": 238.78,
+      "speaker": "SPEAKER_01",
+      "text": "Nu iau nimic regulat. Am mai luat un Nurofen când m-a durut prea tare, vreo două-trei zile, dar nu mai iau acum de vreo săptămână. Nu-mi place să iau pastile dacă nu trebuie."
+    },
+    {
+      "start": 238.9,
+      "end": 245.36,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Haideți să facem câteva mișcări și teste. Ridicați brațul drept în față, ușor, până unde puteți."
+    },
+    {
+      "start": 245.48,
+      "end": 249.28,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe la atât... mai sus nu pot fără durere."
+    },
+    {
+      "start": 249.4,
+      "end": 255.48,
+      "speaker": "SPEAKER_00",
+      "text": "Deci limitare la flexia anterioară, durere la aproximativ 90 de grade. Acum ridicați lateral, în lateral."
+    },
+    {
+      "start": 255.6,
+      "end": 261.68,
+      "speaker": "SPEAKER_01",
+      "text": "Și lateral e la fel, cam la același nivel se oprește. Uite, dacă forțez puțin... au."
+    },
+    {
+      "start": 261.8,
+      "end": 269.02,
+      "speaker": "SPEAKER_00",
+      "text": "Da, e dureros. Nu forțați. Și dacă duceți mâna la spate, ca să vă prindă la spate, cum e?"
+    },
+    {
+      "start": 269.14,
+      "end": 279.78,
+      "speaker": "SPEAKER_01",
+      "text": "Asta e cea mai nasoală mișcare. Nu reușesc să ajung sus. Adică să mă scarpine la spate acolo... nu pot. Mă doare îngrozitor și simt că se blochează."
+    },
+    {
+      "start": 279.9,
+      "end": 287.12,
+      "speaker": "SPEAKER_00",
+      "text": "Rotația internă limitată, înțeles. Acum apăs puțin aici, pe capul humeral, pe zona din față. Vă spuneți dacă doare."
+    },
+    {
+      "start": 287.24,
+      "end": 291.42,
+      "speaker": "SPEAKER_01",
+      "text": "Da, doare, da. Chiar și o presiune mică acolo e neplăcută."
+    },
+    {
+      "start": 291.54,
+      "end": 294.96,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă apăs aici, pe tendonul bicepsului, în față?"
+    },
+    {
+      "start": 295.08,
+      "end": 298.12,
+      "speaker": "SPEAKER_01",
+      "text": "Tot doare, da, dar mai puțin decât înainte."
+    },
+    {
+      "start": 298.24,
+      "end": 303.94,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Ridicați brațul la 90 de grade... acum eu apăs în jos pe braț, rezistați."
+    },
+    {
+      "start": 304.06,
+      "end": 309.0,
+      "speaker": "SPEAKER_01",
+      "text": "Pot, da, dar simt că umărul nu e stabil, parcă cedează un pic."
+    },
+    {
+      "start": 309.12,
+      "end": 337.62,
+      "speaker": "SPEAKER_00",
+      "text": "Da, am sesizat și eu o ușoară instabilitate. Bine, domnule Ionescu, pe baza a ceea ce mi-ați spus și a testelor acestea, avem de-a face cel mai probabil cu o inflamație la nivelul coafei rotatorilor, cu implicarea tendonului supraspinatus în principal, posibil și o ușoară bursită subacromială asociată. Istoricul fracturii de claviculă operată este relevant și el. Obiectivul nostru în primele ședințe va fi reducerea inflamației, recuperarea mobilității și stabilizarea articulației scapulo-humerale."
+    },
+    {
+      "start": 337.74,
+      "end": 351.42,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am înțeles. Și cât credeți că va dura? Că mă îngrijorează puțin, mai ales că am niște proiecte la muncă și trebuie să stau mult la calculator și nu știu cum o să mă descurc."
+    },
+    {
+      "start": 351.54,
+      "end": 362.56,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde de cum răspunde, dar în general cu 6-8 ședințe vedem o îmbunătățire semnificativă. Important e să nu forțați mișcările și să aveți grijă la postură la birou."
+    },
+    {
+      "start": 362.68,
+      "end": 370.28,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, ok. Și pot să fac ceva acasă între ședințe? Că sunt genul care nu stă cu mâinile în sân."
+    },
+    {
+      "start": 370.4,
+      "end": 378.0,
+      "speaker": "SPEAKER_00",
+      "text": "O să vă dau câteva exerciții simple de mobilizare, dar cu grijă, fără să exagerați. Haideți să trecem la treabă."
+    },
+    {
+      "start": 378.12,
+      "end": 379.26,
+      "speaker": "SPEAKER_01",
+      "text": "Da, perfect. Mulțumesc."
+    }
+  ]
+}

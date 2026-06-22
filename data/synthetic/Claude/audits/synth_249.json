@@ -1,0 +1,45 @@
+{
+  "conversation_id": "synth_249",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare undeva pe aici, pe umăr, pe zona asta... și se lasă și în jos, cumva, pe braț",
+      "A apărut cam la o zi după ce am stat toată ziua cu brațul ridicat că am vopsit camera.",
+      "dacă îl ridic, doare, mă ține ceva pe acolo"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când îl ridic... ehh... pe la 7, zic eu.",
+      "Atunci e mai suportabil, pe la... nu știu, 3, poate 4."
+    ],
+    "localizarea_durerii": [
+      "Drept. Dreptul mă deranjează mai rău."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am tiroida, de vreo doi ani.",
+      "mi-au spus că e tiroidă lenă",
+      "Hipotiroidism, bine."
+    ],
+    "medicatie_actuala": [
+      "Euthyrox, 50 de micrograme, în fiecare dimineață."
+    ],
+    "evaluare_functionala_initiala": [
+      "arata ca o tendinopatie a coifului rotatorilor, mai precis zona supraspinosului, apărută după suprasolicitare",
+      "vom lucra să reducem inflamația, vom face terapie pe zona musculaturii din jurul umărului, și ulterior vom recăpăta mobilitatea și forța"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13758,
+    "inference_geo": "global",
+    "input_tokens": 334,
+    "output_tokens": 3297,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

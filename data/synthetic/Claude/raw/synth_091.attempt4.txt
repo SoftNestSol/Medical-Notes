@@ -1,0 +1,55 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, zona de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar, deci. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. A apărut brusc sau a venit treptat?\nSPEAKER_01: Brusc. Am ridicat ceva.\nSPEAKER_00: Ați ridicat ceva greu.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde ați situa durerea?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Doare constant sau vine și trece?\nSPEAKER_01: Mai mult când mă mișc.\nSPEAKER_00: Când vă mișcați. Când stați jos, în repaus, cedează?\nSPEAKER_01: Da, mai mult.\nSPEAKER_00: Durerea se lasă și pe picior, pe fesă, pe undeva mai jos?\nSPEAKER_01: Nu.\nSPEAKER_00: Deloc?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeli la picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Și în afară de zona lombară, mai doare ceva?\nSPEAKER_01: Nu, doar acolo.\nSPEAKER_00: Ok. Aveți tensiune, diabet, osteoporoză, vreo problemă pe care o știți?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune arterială. Luați medicamente pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: 10 miligrame. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai avut dureri lombare și în trecut?\nSPEAKER_01: Da, mai rar.\nSPEAKER_00: Dar nu atât de intense.\nSPEAKER_01: Nu.\nSPEAKER_00: Investigații, RMN, radiografie la lombar ați făcut vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să vă văd un pic cum stați. Puneți picioarele ușor depărtate, umerii relaxați. Bun. Vă aplecați puțin în față pentru mine.\nSPEAKER_01: Au.\nSPEAKER_00: Doare la flexie. Vă îndreptați. Bun. Stați puțin pe piciorul drept... Vă ține?\nSPEAKER_01: Da.\nSPEAKER_00: Pe stângul.\nSPEAKER_01: Da, și ăsta.\nSPEAKER_00: Ok. Vă apăs un pic paravertebral, îmi spuneți dacă doare.\nSPEAKER_01: Da, acolo, acolo doare.\nSPEAKER_00: Exact zona lombară, bilateral. Deci avem o contractură paravertebrală lombară, apărută după efortul de ridicare. Fără iradiere, fără semne de radiculopatie. O să lucrăm să relaxăm musculatura, să reducem inflamația și să recăpătați mobilitatea. Da?\nSPEAKER_01: Da, bine.\nSPEAKER_00: Haideți pe masă cu fața în jos, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută brusc în urmă cu două săptămâni după ridicarea unui obiect greu. Durere la mișcare, VAS 7/10, cedează în repaus. Fără iradiere pe membre inferioare, fără amorțeli.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- contractură paravertebrală lombară bilaterală post-efort\n- fără iradiere, fără semne de radiculopatie\nObiective terapeutice:\n- relaxarea musculaturii paravertebrale\n- reducerea inflamației\n- recuperarea mobilității lombare"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "Brusc. Am ridicat ceva.",
+      "Vreo două săptămâni.",
+      "Mai mult când mă mișc.",
+      "Nu.",
+      "Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Lombar, deci.",
+      "acolo doare.",
+      "Exact zona lombară, bilateral."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Enalapril.",
+      "10 miligrame."
+    ],
+    "evaluare_functionala_initiala": [
+      "Doare la flexie.",
+      "avem o contractură paravertebrală lombară, apărută după efortul de ridicare. Fără iradiere, fără semne de radiculopatie. O să lucrăm să relaxăm musculatura, să reducem inflamația și să recăpătați mobilitatea."
+    ]
+  }
+}

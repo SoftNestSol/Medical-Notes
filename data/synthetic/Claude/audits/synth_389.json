@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_389",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, de ceva vreme... pe partea asta",
+      "cam de vreo lună, lună și ceva. Poate mai mult, nu știu precis",
+      "A venit, nu știu, treptat. Poate de la birou, stau mult la calculator",
+      "mai am și la gât, câteodată. Nu tare, mai mult o tensiune, o apăsare",
+      "uneori mă mai doare capul, spre ceafă"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "mă doare umărul, de ceva vreme... pe partea asta",
+      "Pe stânga",
+      "mai am și la gât, câteodată"
+    ],
+    "localizarea_durerii_alta": [
+      "Coboară și pe aici, pe braț, în jos, dar nu prea jos. Cam până pe la mijlocul brațului",
+      "Pe față, pe partea din față, pe aici"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am tiroidă, asta da. Hipotiroidism, de vreo 3 ani."
+    ],
+    "medicatie_actuala": [
+      "iau o pastilă dimineața, Euthyrox. 50 de micrograme"
+    ],
+    "evaluare_functionala_initiala": [
+      "Aveți o postură cu umerii proiectați în față, capul puțin în față față de axa corpului.",
+      "aveți restricție în abducție între 90 și 120 de grade, dureroasă, și limitare în rotația internă",
+      "sensibilitate la nivelul tendonului bicipital și al ligamentului coraco-acromial",
+      "Testul de rezistență sugerează o posibilă iritație a tendonului supraspinos",
+      "pare o tendinopatie de coafă a rotatorilor, posibil cu o componentă de sindrom de impingement subacromial",
+      "O să lucrăm să reducem inflamația din zona tendinoasă, să recuperăm mobilitatea umărului și să corectăm postura"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23237,
+    "inference_geo": "global",
+    "input_tokens": 334,
+    "output_tokens": 3682,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

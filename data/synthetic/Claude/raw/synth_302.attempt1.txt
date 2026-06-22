@@ -1,0 +1,43 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, un efort, o căzătură?\nSPEAKER_01: Nu știu, parcă de la muncă.\nSPEAKER_00: Ce muncă faceți?\nSPEAKER_01: Zugrav.\nSPEAKER_00: Deci mult cu brațul ridicat?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau numai când mișcați?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Și noaptea, vă trezește?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Pe ce parte dormiți de obicei?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Asta nu ajută. Doare și în braț, mai jos?\nSPEAKER_01: Nu, doar umărul.\nSPEAKER_00: Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Tensiune, diabet, osteoporoză, alte afecțiuni?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Haideți să facem câteva teste. Ridicați brațul în față, încet.\nSPEAKER_01: Până aici.\nSPEAKER_00: Unde doare?\nSPEAKER_01: Aici, pe partea de sus.\nSPEAKER_00: Și în lateral?\nSPEAKER_01: La fel, doare.\nSPEAKER_00: Bun. Apăs aici, pe zona de tendon supraspinos. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Mult?\nSPEAKER_01: Destul.\nSPEAKER_00: Întoarceți palma în jos și împingeți în mâna mea. Rezistați.\nSPEAKER_01: Au.\nSPEAKER_00: Doare la rezistență, deci avem o inflamație la nivelul tendonului supraspinos, cel mai probabil o tendinopatie de coafă a rotatorilor. Legată clar de meserie, de pozițiile cu brațul sus.\nSPEAKER_01: Da.\nSPEAKER_00: Va trebui să reducem inflamația în primă fază și să lucrăm mobilitatea umărului. Încercați să nu mai dormiți pe umărul drept.\nSPEAKER_01: Ok.\nSPEAKER_00: Alte probleme, doare spatele, gâtul?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Bun. Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Pacient zugrav, acuză durere la umărul drept de aproximativ două săptămâni, apărută în context profesional (muncă cu brațul ridicat). Durere la ridicarea brațului anterior și lateral, cu treziri nocturne ocazionale, fără iradiere și fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\nTendinopatie de coafă a rotatorilor - tendon supraspinos dreapta.\nObiective terapeutice:\n- reducerea inflamației;\n- recuperarea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "De vreo două săptămâni.",
+      "parcă de la muncă.",
+      "Zugrav.",
+      "Când ridic brațul.",
+      "Câteodată.",
+      "Nu, doar umărul.",
+      "Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Dreptul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendonului supraspinos, cel mai probabil o tendinopatie de coafă a rotatorilor",
+      "Va trebui să reducem inflamația în primă fază și să lucrăm mobilitatea umărului."
+    ]
+  }
+}

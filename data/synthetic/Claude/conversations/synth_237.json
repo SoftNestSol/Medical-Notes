@@ -1,0 +1,337 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.52,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, doamna Florescu!"
+    },
+    {
+      "start": 1.64,
+      "end": 3.16,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua!"
+    },
+    {
+      "start": 3.28,
+      "end": 7.84,
+      "speaker": "SPEAKER_00",
+      "text": "Luați loc, vă rog. Spuneți-mi cu ce problemă ne vedem azi."
+    },
+    {
+      "start": 7.96,
+      "end": 33.42,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, de unde să încep... Mă doare umărul, umărul stâng, și de ceva vreme deja, nu e ceva de ieri de azi. De fapt a început acum vreo trei luni, undeva prin septembrie, dacă nu mă înșel, când am tot stat la birou și am scris mult, am avut un proiect mare la serviciu și probabil am stat prost, nu știu, dar de atunci tot mă ține."
+    },
+    {
+      "start": 33.54,
+      "end": 37.72,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și doare umărul stâng constant sau numai la anumite mișcări?"
+    },
+    {
+      "start": 37.84,
+      "end": 56.46,
+      "speaker": "SPEAKER_01",
+      "text": "La mișcări, da, mai ales când ridic mâna sus, sau când încerc să ajung la ceva în spate, știți, cum puneți mâna la spate, atunci efectiv nu pot. Constant mai puțin, adică e o jenă tot timpul dar nu te ucide, dar când fac mișcarea aia... au, nu merge."
+    },
+    {
+      "start": 56.58,
+      "end": 60.76,
+      "speaker": "SPEAKER_00",
+      "text": "Și se duce durerea undeva? Pe braț în jos, pe gât?"
+    },
+    {
+      "start": 60.88,
+      "end": 73.42,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori simt ceva pe braț, pe partea de sus a brațului, dar nu mai jos de cot. Și câteodată și în zona de gât, pe partea stângă, mai ales dimineața când mă trezesc."
+    },
+    {
+      "start": 73.54,
+      "end": 75.44,
+      "speaker": "SPEAKER_00",
+      "text": "Deci și cervical simțiți ceva."
+    },
+    {
+      "start": 75.56,
+      "end": 85.44,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, mai ales dimineața. Și mai am o problemă, nu știu dacă e legată, dar mă doare și între omoplați uneori, în spate, pe mijloc."
+    },
+    {
+      "start": 85.56,
+      "end": 86.7,
+      "speaker": "SPEAKER_00",
+      "text": "În zona toracală."
+    },
+    {
+      "start": 86.82,
+      "end": 102.4,
+      "speaker": "SPEAKER_01",
+      "text": "Acolo, da. Dar aia mai veche, aia o am de ani de zile, de când eram mai tânără. Mi-au zis atunci că am o ușoară scolioză, dar nu m-a durut niciodată atât de tare, era mai mult o tensiune."
+    },
+    {
+      "start": 102.52,
+      "end": 105.94,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Și acum v-a agravat treaba asta?"
+    },
+    {
+      "start": 106.06,
+      "end": 119.36,
+      "speaker": "SPEAKER_01",
+      "text": "Parcă da, de când cu umărul parcă și spatele mijlociu s-a mai activat, să zic așa. Dar prioritatea e umărul, că nu mai pot dormi pe el, dorm numai pe dreapta și am obosit."
+    },
+    {
+      "start": 119.48,
+      "end": 129.36,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 înseamnă că doare maxim, unde vă situați cu umărul?"
+    },
+    {
+      "start": 129.48,
+      "end": 136.32,
+      "speaker": "SPEAKER_01",
+      "text": "Când fac mișcarea aia spre spate, un 8 ușor. Când e liniștit, fără să mișc, poate un 3."
+    },
+    {
+      "start": 136.44,
+      "end": 141.38,
+      "speaker": "SPEAKER_00",
+      "text": "Deci 8 la mișcare, 3 în repaus. Și în zona toracală, de mijloc?"
+    },
+    {
+      "start": 141.5,
+      "end": 146.44,
+      "speaker": "SPEAKER_01",
+      "text": "Aia e mai mică, un 4 poate, uneori 5 dacă stau mult jos."
+    },
+    {
+      "start": 146.56,
+      "end": 149.22,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Ce vârstă aveți, dacă pot întreba?"
+    },
+    {
+      "start": 149.34,
+      "end": 153.14,
+      "speaker": "SPEAKER_01",
+      "text": "38 de ani. Nici tânără nici bătrână, cum se spune."
+    },
+    {
+      "start": 153.26,
+      "end": 157.06,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecți pentru o recuperare bună. Lucrați la birou, ați spus?"
+    },
+    {
+      "start": 157.18,
+      "end": 176.18,
+      "speaker": "SPEAKER_01",
+      "text": "Da, stau mult la calculator, vreo 8-9 ore pe zi, și în ultimul timp mai mult că proiectul ăla n-a mai terminat, tot continuă. Și stau prost, știu, mi-au spus toți, soțul meu, colega de birou, toți îmi spun că stau gârbovit, dar când ești concentrat uiți."
+    },
+    {
+      "start": 176.3,
+      "end": 183.14,
+      "speaker": "SPEAKER_00",
+      "text": "Da, se întâmplă. Și ați mai făcut ceva pentru umăr, ați fost la vreun medic, ați luat ceva?"
+    },
+    {
+      "start": 183.26,
+      "end": 200.74,
+      "speaker": "SPEAKER_01",
+      "text": "Am fost la medicul de familie în urmă cu două luni și mi-a zis să fac kinetoterapie, dar n-am apucat, tot amânând. Mi-a zis să iau ceva antiinflamator dacă doare rău, dar n-am luat nimic, nu vreau să mă umflu cu pastile."
+    },
+    {
+      "start": 200.86,
+      "end": 203.9,
+      "speaker": "SPEAKER_00",
+      "text": "Bine, deci nu luați nicio medicație în prezent."
+    },
+    {
+      "start": 204.02,
+      "end": 211.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Încerc să stau fără dacă merge, și merge, adică suport, dar noaptea mă trezesc câteodată din cauza lui."
+    },
+    {
+      "start": 211.74,
+      "end": 215.54,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Alte afecțiuni, cum ar fi tensiune, diabet, probleme cardiace?"
+    },
+    {
+      "start": 215.66,
+      "end": 230.86,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea. Sunt sănătoasă în rest, mulțumesc lui Dumnezeu. Ah, am uitat să spun, am avut o operație la mână dreaptă acum vreo șase ani, tunel carpian, dar a mers bine, nu mai am probleme acolo."
+    },
+    {
+      "start": 230.98,
+      "end": 233.26,
+      "speaker": "SPEAKER_00",
+      "text": "La mâna dreaptă, tunel carpian, operat."
+    },
+    {
+      "start": 233.38,
+      "end": 244.4,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact. A ieșit bine, recuperare ok, nu mai am nicio problemă cu ea. Mă gândeam dacă are legătură, că tot e zona brațului, dar e de cealaltă parte."
+    },
+    {
+      "start": 244.52,
+      "end": 248.32,
+      "speaker": "SPEAKER_00",
+      "text": "Nu are legătură directă, dar bine de știut. Fracturi, accidente?"
+    },
+    {
+      "start": 248.44,
+      "end": 262.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată. Ah, ba da, mi-am rupt o coastă când eram mică, vreo 10 ani aveam, am căzut de pe bicicletă, dar aia s-a vindecat de mult, nu mai știu nici eu exact care coastă era."
+    },
+    {
+      "start": 263.0,
+      "end": 265.28,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe partea stângă sau dreaptă?"
+    },
+    {
+      "start": 265.4,
+      "end": 273.0,
+      "speaker": "SPEAKER_01",
+      "text": "Stângă parcă, dar sincer nu mai știu sigur. Mamă-mea ar ști ea dar eu nu mai îmi aduc aminte."
+    },
+    {
+      "start": 273.12,
+      "end": 278.06,
+      "speaker": "SPEAKER_00",
+      "text": "Nu-i nimic, e demult. Boli cu transmitere prin sânge, implanturi, stimulator cardiac?"
+    },
+    {
+      "start": 278.18,
+      "end": 280.46,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea."
+    },
+    {
+      "start": 280.58,
+      "end": 282.1,
+      "speaker": "SPEAKER_00",
+      "text": "Alergii la creme, unguente?"
+    },
+    {
+      "start": 282.22,
+      "end": 283.74,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu de niciuna."
+    },
+    {
+      "start": 283.86,
+      "end": 290.32,
+      "speaker": "SPEAKER_00",
+      "text": "Perfect. Haideți să facem câteva teste acum. Ridicați brațul stâng înainte, ușor, cât puteți. Opriți unde doare."
+    },
+    {
+      "start": 290.44,
+      "end": 292.72,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe aici merge, după aia..."
+    },
+    {
+      "start": 292.84,
+      "end": 296.26,
+      "speaker": "SPEAKER_00",
+      "text": "Da, vedem limitarea. Acum rotați brațul spre exterior. Doare?"
+    },
+    {
+      "start": 296.38,
+      "end": 301.32,
+      "speaker": "SPEAKER_01",
+      "text": "Da, uite, de aici deja nu mai pot, doare pe față, pe umăr."
+    },
+    {
+      "start": 301.44,
+      "end": 304.48,
+      "speaker": "SPEAKER_00",
+      "text": "Pe față, în zona anterioară a umărului, da?"
+    },
+    {
+      "start": 304.6,
+      "end": 307.26,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo, și un pic pe lateral."
+    },
+    {
+      "start": 307.38,
+      "end": 312.7,
+      "speaker": "SPEAKER_00",
+      "text": "Stați puțin, vă apăs acum în zona asta de subscapular, spuneți-mi dacă doare."
+    },
+    {
+      "start": 312.82,
+      "end": 314.72,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, acolo doare rău."
+    },
+    {
+      "start": 314.84,
+      "end": 317.88,
+      "speaker": "SPEAKER_00",
+      "text": "Și în zona de rotator cuff, aici doare?"
+    },
+    {
+      "start": 318.0,
+      "end": 321.8,
+      "speaker": "SPEAKER_01",
+      "text": "Doare, da, un pic mai puțin decât cel de dinainte."
+    },
+    {
+      "start": 321.92,
+      "end": 327.62,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum dați capul ușor pe stânga, ca și cum ați pune urechea pe umăr."
+    },
+    {
+      "start": 327.74,
+      "end": 332.68,
+      "speaker": "SPEAKER_01",
+      "text": "Merge, dar nu complet. Simt tensiune și doare un pic la baza gâtului."
+    },
+    {
+      "start": 332.8,
+      "end": 333.6,
+      "speaker": "SPEAKER_00",
+      "text": "Pe dreapta?"
+    },
+    {
+      "start": 333.72,
+      "end": 335.24,
+      "speaker": "SPEAKER_01",
+      "text": "Asta merge mai bine."
+    },
+    {
+      "start": 335.36,
+      "end": 371.08,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Doamna Florescu, ce pot să vă spun după ce am văzut este că avem o inflamație la nivelul tendonului supraspinat și a bursitei subacromiale la umărul stâng, combinat cu o tensiune musculară în zona cervicală inferioară pe stânga. Scolioza toracală ușoară pe care o aveți de mai demult a contribuit probabil la o postură deficitară care a suprasolicitat umărul și gâtul în timp, mai ales în contextul muncii la birou. Obiectivul nostru acum e să reducem inflamația din umăr, să recuperăm amplitudinea de mișcare și să lucrăm și postural ca să nu reapară."
+    },
+    {
+      "start": 371.2,
+      "end": 381.84,
+      "speaker": "SPEAKER_01",
+      "text": "Păi asta vreau și eu, să pot dormi pe umărul ăla fără să mă trezesc. Și să pot face mișcările normale, că și la volan mă deranjează uneori."
+    },
+    {
+      "start": 381.96,
+      "end": 388.42,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles, asta e prioritatea. Haideți să trecem la treabă, vă rog pe masă cu fața în sus."
+    }
+  ]
+}

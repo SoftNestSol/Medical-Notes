@@ -1,0 +1,24 @@
+{
+  "motivul_prezentarii": "Durere umăr drept, acutizată după mutatul unor cutii grele, de aproximativ două săptămâni. Durere prezentă și în repaus (VAS 4), agravată la ridicarea brațului și rotație (VAS 7), cu treziri nocturne la decubit pe partea dreaptă.",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "braț drept proximal",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": null
+    },
+    {
+      "denumire": "Voltaren",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: tendinopatie coafă rotatori, supraspinatus. Mobilitate limitată la abducție și flexie anterioară. Inflamație locală confirmată la palpare și teste de rezistență.\nObiective terapeutice: reducerea inflamației, recuperarea mobilității umărului, corecție posturală."
+}

@@ -1,0 +1,26 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, drept sau stâng?\nSPEAKER_01: Drept.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Aha, deci după ce ați mutat mobila a apărut durerea?\nSPEAKER_01: Da.\nSPEAKER_00: Imediat după sau a doua zi?\nSPEAKER_01: A doua zi dimineață.\nSPEAKER_00: Înțeles. Durerea e locală, la umăr, sau se lasă și pe braț în jos?\nSPEAKER_01: Mai mult la umăr, dar uneori merge și pe braț.\nSPEAKER_00: Până unde pe braț?\nSPEAKER_01: Până pe la cot, cam așa.\nSPEAKER_00: Pe ce parte a brațului, pe față, pe spate?\nSPEAKER_01: Pe față.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare maxim, cât ați pune durerea?\nSPEAKER_01: Un 6.\nSPEAKER_00: 6. Doare constant sau doar la anumite mișcări?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Când îl ridicați în față sau în lateral?\nSPEAKER_01: În lateral mai rău.\nSPEAKER_00: Noaptea vă treziți din cauza durerii?\nSPEAKER_01: Da, dacă stau pe partea dreaptă.\nSPEAKER_00: Deci dacă stați pe umărul drept doare. Pe stânga e bine?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, ceva cu oasele?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, nici pentru durere?\nSPEAKER_01: Nu am luat nimic.\nSPEAKER_00: Ok. Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva mișcări să vedem exact unde e problema. Ridicați brațul drept în lateral, încet.\nSPEAKER_01: Până aici doare.\nSPEAKER_00: La aproximativ 80 de grade doare, da?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă continuați peste?\nSPEAKER_01: Mai puțin sus.\nSPEAKER_00: Deci doare mai tare între 70 și 90 de grade, după care mai puțin. Ăsta se numește arc dureros, e specific pentru tendonul supraspinat. Acum apăs aici pe umăr, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Da, exact în zona inserției supraspinosului. Acum rotim brațul intern, cu cotul la 90 de grade, împingeți în mâna mea.\nSPEAKER_01: Doare puțin.\nSPEAKER_00: Puțin. Rotație externă?\nSPEAKER_01: Nu doare.\nSPEAKER_00: Bun. Cred că avem o tendinită la nivelul tendonului supraspinat, cu o ușoară iritație a bursei subacromiale. Probabil din cauza efortului de la mutat mobila. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea completă a umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Putem să începem chiar azi.\nSPEAKER_01: Da, bine.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută a doua zi după mutarea mobilei, cu iradiere pe fața anterioară a brațului până la cot, accentuată la abducție și la decubit pe partea dreaptă.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr",
+      "cot_dr"
+    ],
+    "localizarea_durerii_alta": "fața anterioară a brațului drept",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Arc dureros la abducție între 70-90 de grade, cu diminuarea durerii peste 90 de grade. Sensibilitate la palpare în zona inserției supraspinosului. Rotație internă ușor dureroasă, rotație externă nedureroasă.\nDiagnostic: Tendinită supraspinat cu iritație bursă subacromială.\nObiective terapeutice: reducerea inflamației; recuperarea mobilității complete a umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă.", "A doua zi dimineață.", "Mai mult la umăr, dar uneori merge și pe braț.", "Până pe la cot, cam așa.", "În lateral mai rău.", "Da, dacă stau pe partea dreaptă."],
+    "evaluarea_durerii_vas": ["Un 6."],
+    "localizarea_durerii": ["Drept.", "Până pe la cot, cam așa."],
+    "localizarea_durerii_alta": ["Pe față.", "Până pe la cot, cam așa."],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["La aproximativ 80 de grade doare, da?", "Deci doare mai tare între 70 și 90 de grade, după care mai puțin. Ăsta se numește arc dureros, e specific pentru tendonul supraspinat.", "Da, exact în zona inserției supraspinosului.", "Doare puțin.", "Nu doare.", "Cred că avem o tendinită la nivelul tendonului supraspinat, cu o ușoară iritație a bursei subacromiale.", "Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea completă a umărului."]
+  }
+}

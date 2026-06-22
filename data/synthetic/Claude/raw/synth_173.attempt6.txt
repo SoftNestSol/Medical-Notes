@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți la noi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo trei săptămâni.\nSPEAKER_00: A fost vreo lovitură, vreo căzătură, ceva?\nSPEAKER_01: Nu. Parcă s-a trezit singur.\nSPEAKER_00: Doare tot timpul sau doar când mișcați brațul?\nSPEAKER_01: Când îl ridic.\nSPEAKER_00: Când îl ridicați în față, în lateral, sau în ambele sensuri?\nSPEAKER_01: Mai mult în lateral.\nSPEAKER_00: Și noaptea vă deranjează? Când stați pe umărul drept?\nSPEAKER_01: Da, mă trezesc.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum ați nota durerea când ridicați brațul?\nSPEAKER_01: Un 7.\nSPEAKER_00: Un 7. Și noaptea, când vă treziți?\nSPEAKER_01: Cam la fel, 7.\nSPEAKER_00: Ok. Aveți vreo boală despre care știți, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații la umăr, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Ibuprofen.\nSPEAKER_00: Câte miligrame?\nSPEAKER_01: 400.\nSPEAKER_00: Des?\nSPEAKER_01: Când nu mai suport.\nSPEAKER_00: Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva mișcări. Ridicați brațul drept în lateral, cât puteți.\nSPEAKER_01: Până aici.\nSPEAKER_00: Aproximativ 80 de grade, și doare de la jumătate de drum?\nSPEAKER_01: Da.\nSPEAKER_00: Acum ridicați-l în față.\nSPEAKER_01: Merge mai bine.\nSPEAKER_00: Da, văd că în față merge mai sus. Apăs acum pe zona asta de deasupra umărului, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Și aici, mai spre față?\nSPEAKER_01: Un pic.\nSPEAKER_00: Bun. Avem o limitare de abducție și durere la palpare subacromial. Pare o tendinopatie de supraspinos, posibil cu un conflict de umăr. O să lucrăm să reducem inflamația și să recuperăm mobilitatea.",
+  "note": {
+    "motivul_prezentarii": "Durere la umărul drept, apărută spontan în urmă cu aproximativ trei săptămâni, accentuată la ridicarea brațului în lateral și noaptea în decubit pe umărul afectat.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare de abducție activă umăr drept (aproximativ 80 de grade), cu durere de la jumătate de amplitudine; flexia anterioară prezervată relativ. Durere la palpare subacromial și ușor anterior. Diagnostic: tendinopatie de supraspinos, posibil conflict subacromia. Obiective terapeutice: reducerea inflamației și recuperarea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "De vreo trei săptămâni.", "Parcă s-a trezit singur.", "mă trezesc"],
+    "evaluarea_durerii_vas": ["Un 7.", "Cam la fel, 7."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Ibuprofen.", "400."],
+    "evaluare_functionala_initiala": ["Aproximativ 80 de grade, și doare de la jumătate de drum?", "Da, acolo doare.", "Avem o limitare de abducție și durere la palpare subacromial. Pare o tendinopatie de supraspinos, posibil cu un conflict de umăr. O să lucrăm să reducem inflamația și să recuperăm mobilitatea."]
+  }
+}

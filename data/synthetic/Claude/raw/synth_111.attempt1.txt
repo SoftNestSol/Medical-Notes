@@ -1,0 +1,46 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți la noi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut din senin sau după ceva anume?\nSPEAKER_01: Nu știu, parcă după ce am stat mult la birou.\nSPEAKER_00: Deci lucrați la birou, la calculator?\nSPEAKER_01: Da.\nSPEAKER_00: Doare doar gâtul sau se lasă și în altă parte, pe umăr, pe braț?\nSPEAKER_01: Și pe umărul drept un pic.\nSPEAKER_00: Umărul drept. Doare mai mult gâtul sau umărul?\nSPEAKER_01: Gâtul.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare vă doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Și dimineața când vă treziți, vă simțiți înțepenit?\nSPEAKER_01: Da, cam da.\nSPEAKER_00: Și după ce vă mișcați un pic trece?\nSPEAKER_01: Da, mai trece.\nSPEAKER_00: Amorțesc mâinile, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați avut dureri de cap în perioada asta?\nSPEAKER_01: Rar, uneori.\nSPEAKER_00: Dureri de cap unde, în ceafă?\nSPEAKER_01: Da, în ceafă.\nSPEAKER_00: Am înțeles. Alte probleme de sănătate, tensiune, diabet, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Am luat un ibuprofen când mă durea mai rău, dar nu constant.\nSPEAKER_00: Deci nu luați nimic constant acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin cu spatele la mine. Haideți să vedem cum stați.\nSPEAKER_00: Observ că aveți capul dus un pic în față față de umeri, postura de calculator.\nSPEAKER_00: Întoarceți capul spre dreapta pentru mine, cât puteți.\nSPEAKER_01: Până aici.\nSPEAKER_00: Și spre stânga.\nSPEAKER_01: Asta doare.\nSPEAKER_00: Doare la rotația spre stânga?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă aplecați capul în față?\nSPEAKER_01: Merge, nu prea doare.\nSPEAKER_00: Bun. Vă apăs un pic pe zona cervicală. Spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Deci avem o contractură musculară cervicală, cu limitarea rotației spre stânga. Pare o cervicalgie de postură, cu tensionare în zona trapezului și a musculaturii cervicale. O să lucrăm să reducem contractura și să recâștigăm mobilitatea pe rotație. O să vă dau și câteva exerciții pentru acasă.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală apărută după stat prelungit la birou, cu iradiere pe umărul drept, redoare matinală și dureri de cap ocazionale în ceafă.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: cervicalgie de postură, contractură musculară cervicală cu limitarea rotației spre stânga.\nObiective terapeutice: reducerea contracturii musculare cervicale; recâștigarea mobilității pe rotație."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul",
+      "parcă după ce am stat mult la birou",
+      "Și pe umărul drept un pic",
+      "dureri de cap unde, în ceafă",
+      "Da, în ceafă",
+      "dimineața când vă treziți, vă simțiți înțepenit",
+      "Da, cam da"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul",
+      "Și pe umărul drept un pic",
+      "Da, în ceafă"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți capul dus un pic în față față de umeri, postura de calculator.",
+      "avem o contractură musculară cervicală, cu limitarea rotației spre stânga",
+      "Pare o cervicalgie de postură, cu tensionare în zona trapezului și a musculaturii cervicale",
+      "O să lucrăm să reducem contractura și să recâștigăm mobilitatea pe rotație"
+    ]
+  }
+}

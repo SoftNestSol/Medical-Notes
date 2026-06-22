@@ -1,0 +1,349 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, domnule."
+    },
+    {
+      "start": 1.26,
+      "end": 2.06,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 2.18,
+      "end": 4.08,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi numele, vă rog."
+    },
+    {
+      "start": 4.2,
+      "end": 5.0,
+      "speaker": "SPEAKER_01",
+      "text": "Florin Dănilă."
+    },
+    {
+      "start": 5.12,
+      "end": 6.64,
+      "speaker": "SPEAKER_00",
+      "text": "Florin Dănilă, și vârsta?"
+    },
+    {
+      "start": 6.76,
+      "end": 7.56,
+      "speaker": "SPEAKER_01",
+      "text": "38."
+    },
+    {
+      "start": 7.68,
+      "end": 10.72,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem astăzi, domnule Dănilă?"
+    },
+    {
+      "start": 10.84,
+      "end": 11.98,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare gâtul."
+    },
+    {
+      "start": 12.1,
+      "end": 15.52,
+      "speaker": "SPEAKER_00",
+      "text": "Zona de cervical, sus la ceafă sau mai jos?"
+    },
+    {
+      "start": 15.64,
+      "end": 17.54,
+      "speaker": "SPEAKER_01",
+      "text": "Sus, la ceafă mai mult."
+    },
+    {
+      "start": 17.66,
+      "end": 18.8,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp?"
+    },
+    {
+      "start": 18.92,
+      "end": 20.44,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo două săptămâni."
+    },
+    {
+      "start": 20.56,
+      "end": 22.84,
+      "speaker": "SPEAKER_00",
+      "text": "Și a apărut brusc sau treptat?"
+    },
+    {
+      "start": 22.96,
+      "end": 23.76,
+      "speaker": "SPEAKER_01",
+      "text": "Treptat."
+    },
+    {
+      "start": 23.88,
+      "end": 29.58,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți vreo idee ce ar fi declanșat-o? Ați făcut vreun efort, ați dormit prost?"
+    },
+    {
+      "start": 29.7,
+      "end": 33.5,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, poate de la calculator. Stau mult la birou."
+    },
+    {
+      "start": 33.62,
+      "end": 35.52,
+      "speaker": "SPEAKER_00",
+      "text": "Câte ore pe zi aproximativ?"
+    },
+    {
+      "start": 35.64,
+      "end": 37.16,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo opt, nouă ore."
+    },
+    {
+      "start": 37.28,
+      "end": 44.12,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și durerea aceasta rămâne la ceafă sau se duce și în altă parte? Pe umăr, pe braț?"
+    },
+    {
+      "start": 44.24,
+      "end": 46.14,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori mă doare și capul."
+    },
+    {
+      "start": 46.26,
+      "end": 50.06,
+      "speaker": "SPEAKER_00",
+      "text": "Capul, în ce zonă? În față, în spate, pe lateral?"
+    },
+    {
+      "start": 50.18,
+      "end": 52.08,
+      "speaker": "SPEAKER_01",
+      "text": "În spate, la ceafă tot."
+    },
+    {
+      "start": 52.2,
+      "end": 54.1,
+      "speaker": "SPEAKER_00",
+      "text": "Pe umeri nu se duce?"
+    },
+    {
+      "start": 54.22,
+      "end": 55.02,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 55.14,
+      "end": 63.88,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare e durerea?"
+    },
+    {
+      "start": 64.0,
+      "end": 64.8,
+      "speaker": "SPEAKER_01",
+      "text": "Un 5."
+    },
+    {
+      "start": 64.92,
+      "end": 70.24,
+      "speaker": "SPEAKER_00",
+      "text": "Un 5. E mai rea dimineața, seara, sau după ce stați mult la calculator?"
+    },
+    {
+      "start": 70.36,
+      "end": 71.16,
+      "speaker": "SPEAKER_01",
+      "text": "După calculator."
+    },
+    {
+      "start": 71.28,
+      "end": 76.6,
+      "speaker": "SPEAKER_00",
+      "text": "Când vă ridicați de la birou simțiți că e mai înțepenit sau mai dureros?"
+    },
+    {
+      "start": 76.72,
+      "end": 77.52,
+      "speaker": "SPEAKER_01",
+      "text": "Înțepenit, da."
+    },
+    {
+      "start": 77.64,
+      "end": 80.3,
+      "speaker": "SPEAKER_00",
+      "text": "Puteți să rotiți capul în ambele părți?"
+    },
+    {
+      "start": 80.42,
+      "end": 81.56,
+      "speaker": "SPEAKER_01",
+      "text": "Da, dar puțin."
+    },
+    {
+      "start": 81.68,
+      "end": 83.58,
+      "speaker": "SPEAKER_00",
+      "text": "Care parte e mai grea?"
+    },
+    {
+      "start": 83.7,
+      "end": 84.5,
+      "speaker": "SPEAKER_01",
+      "text": "Spre dreapta."
+    },
+    {
+      "start": 84.62,
+      "end": 88.42,
+      "speaker": "SPEAKER_00",
+      "text": "Spre dreapta. Înțeles. Aveți afecțiuni, tensiune, diabet, ceva de genul?"
+    },
+    {
+      "start": 88.54,
+      "end": 89.34,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 89.46,
+      "end": 90.26,
+      "speaker": "SPEAKER_00",
+      "text": "Operații, fracturi?"
+    },
+    {
+      "start": 90.38,
+      "end": 91.18,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 91.3,
+      "end": 93.2,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament în prezent?"
+    },
+    {
+      "start": 93.32,
+      "end": 94.12,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 94.24,
+      "end": 98.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Stați puțin în picioare, vă rog. Vreau să vă văd postura."
+    },
+    {
+      "start": 98.92,
+      "end": 99.72,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 99.84,
+      "end": 109.34,
+      "speaker": "SPEAKER_00",
+      "text": "Da, observ că umerii sunt ușor căzuți în față și capul e dus puțin înainte față de linia umerilor. Asta pune presiune pe zona cervicală."
+    },
+    {
+      "start": 109.46,
+      "end": 112.12,
+      "speaker": "SPEAKER_00",
+      "text": "Acum rotați ușor spre dreapta, cât puteți."
+    },
+    {
+      "start": 112.24,
+      "end": 113.04,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici."
+    },
+    {
+      "start": 113.16,
+      "end": 114.3,
+      "speaker": "SPEAKER_00",
+      "text": "Doare când rotiți?"
+    },
+    {
+      "start": 114.42,
+      "end": 115.22,
+      "speaker": "SPEAKER_01",
+      "text": "Da, trage."
+    },
+    {
+      "start": 115.34,
+      "end": 116.86,
+      "speaker": "SPEAKER_00",
+      "text": "Trage. Și spre stânga?"
+    },
+    {
+      "start": 116.98,
+      "end": 117.78,
+      "speaker": "SPEAKER_01",
+      "text": "Mai bine."
+    },
+    {
+      "start": 117.9,
+      "end": 122.84,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Acum apăs puțin pe mușchii de la ceafă, îmi spuneți dacă doare."
+    },
+    {
+      "start": 122.96,
+      "end": 124.1,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo doare."
+    },
+    {
+      "start": 124.22,
+      "end": 126.5,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe trapez, pe partea dreaptă?"
+    },
+    {
+      "start": 126.62,
+      "end": 127.42,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 127.54,
+      "end": 129.44,
+      "speaker": "SPEAKER_00",
+      "text": "La fel și pe stânga?"
+    },
+    {
+      "start": 129.56,
+      "end": 130.36,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 130.48,
+      "end": 147.96,
+      "speaker": "SPEAKER_00",
+      "text": "Deci trapezul drept e mai contractat. Bun. Vedeți că avem o tensiune musculară importantă la nivel cervical, mai ales pe dreapta, și postura de la birou contribuie mult. Vom lucra să reducem contractura și să refacem mobilitatea pe rotația spre dreapta. Haideți pe masă, vă rog."
+    },
+    {
+      "start": 148.08,
+      "end": 148.88,
+      "speaker": "SPEAKER_01",
+      "text": "Bine."
+    }
+  ]
+}

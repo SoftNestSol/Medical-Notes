@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stâng sau drept?\nSPEAKER_01: Drept.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ai căzut, ai ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Și după aia a început?\nSPEAKER_01: Da.\nSPEAKER_00: Doare constant sau doar când îl miști?\nSPEAKER_01: Când îl ridic mai mult.\nSPEAKER_00: Sus, când ridici brațul sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și în față, sau mai mult pe lateral?\nSPEAKER_01: Pe lateral, așa.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, cât de tare doare când ridici brațul?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Și când nu îl miști, doare?\nSPEAKER_01: Mai puțin. Poate un 2.\nSPEAKER_00: Un 2 în repaus. Se lasă durerea și pe braț în jos sau e doar în umăr?\nSPEAKER_01: Doar în umăr.\nSPEAKER_00: Noaptea te trezești din durere?\nSPEAKER_01: Uneori.\nSPEAKER_00: Pe ce parte dormi?\nSPEAKER_01: Pe dreapta de obicei.\nSPEAKER_00: Asta nu ajută. Ai mai pățit ceva la umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii avem?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cronice, tensiune, diabet, ceva de genul?\nSPEAKER_01: Nu.\nSPEAKER_00: Iei vreun medicament acum?\nSPEAKER_01: Am luat un ibuprofen câteodată.\nSPEAKER_00: Câteodată, nu regulat.\nSPEAKER_01: Nu, nu regulat.\nSPEAKER_00: Ok. Ridică brațul drept pentru mine, cât poți. Stai puțin. Până aici se blochează?\nSPEAKER_01: Da, cam până aici.\nSPEAKER_00: Și doare exact când trece de această poziție?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Acum lasă brațul pe lângă corp și fă mișcarea asta spre exterior. Doare?\nSPEAKER_01: Un pic.\nSPEAKER_00: Și spre interior?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Am înțeles. Apăs acum pe umăr, îmi spui dacă doare. Aici?\nSPEAKER_01: Da.\nSPEAKER_00: Exact pe acolo pe lateral.\nSPEAKER_01: Da, exact.\nSPEAKER_00: Bun. Pare o inflamație la nivelul tendonului supraspinos. O să lucrăm să reducem inflamația și să recuperăm amplitudinea de mișcare. Câteva ședințe ar trebui să simți diferența.\nSPEAKER_01: Ok.\nSPEAKER_00: Și încearcă să nu mai dormi pe partea dreaptă deocamdată.\nSPEAKER_01: Da, înțeles.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după mutatul mobilei, de aproximativ două săptămâni",
+    "evaluarea_durerii_vas": [6, 2],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamație tendon supraspinos.\nObiective terapeutice: reducerea inflamației, recuperarea amplitudinii de mișcare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 6.", "Poate un 2."],
+    "localizarea_durerii": ["Drept.", "Pe lateral, așa.", "Doar în umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am luat un ibuprofen câteodată."],
+    "evaluare_functionala_initiala": ["Pare o inflamație la nivelul tendonului supraspinos. O să lucrăm să reducem inflamația și să recuperăm amplitudinea de mișcare."]
+  }
+}

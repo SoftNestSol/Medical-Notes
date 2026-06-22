@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume? O mișcare, un efort?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Ați ridicat ceva greu?\nSPEAKER_01: Da.\nSPEAKER_00: Și imediat după a apărut durerea sau mai târziu?\nSPEAKER_01: A doua zi.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare constant sau doar la mișcare?\nSPEAKER_01: La mișcare.\nSPEAKER_00: Ce fel de mișcare o agravează? Dacă ridicați brațul în sus?\nSPEAKER_01: Da, acolo doare mai rău.\nSPEAKER_00: Se lasă durerea și pe braț în jos sau e doar în umăr?\nSPEAKER_01: Doar în umăr.\nSPEAKER_00: Noaptea vă deranjează?\nSPEAKER_01: Dacă stau pe el, da.\nSPEAKER_00: Înțeles. Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nurofen, când nu mai pot.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Nu știu, de vreo trei ori până acum.\nSPEAKER_00: Deci nu regulat. Ok. Haideți să facem câteva mișcări să văd ce se întâmplă acolo. Ridicați brațul drept în față, încet.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și lateral, ridicați brațul pe lateral.\nSPEAKER_01: Și acolo.\nSPEAKER_00: Mai sus de 90 de grade nu merge, da?\nSPEAKER_01: Nu.\nSPEAKER_00: Apăs puțin aici pe umăr, pe zona de deasupra. Doare?\nSPEAKER_01: Da, acolo e.\nSPEAKER_00: E sensibil la palpare pe tendonul supraspinatos. Deci avem o inflamație în zona manșetei rotatorilor, cel mai probabil tendinită de supraspinatos. Vom lucra să reducem inflamația și să recuperăm amplitudinea de mișcare.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după efort fizic (mutat mobilă), prezentă de două săptămâni.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare de amplitudine la flexie și abducție umăr drept peste 90 de grade. Sensibilitate la palpare pe tendonul supraspinatos. Diagnostic: tendinită supraspinatos, inflamație manșetă rotatori. Obiective terapeutice: reducerea inflamației, recuperarea amplitudinii de mișcare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Dreptul.", "Doar în umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nurofen, când nu mai pot."],
+    "evaluare_functionala_initiala": ["Mai sus de 90 de grade nu merge, da?", "E sensibil la palpare pe tendonul supraspinatos. Deci avem o inflamație în zona manșetei rotatorilor, cel mai probabil tendinită de supraspinatos. Vom lucra să reducem inflamația și să recuperăm amplitudinea de mișcare."]
+  }
+}

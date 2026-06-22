@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_068",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare pe aici, pe zona asta de spate, mai mult în partea de jos",
+      "am mutat niște mobilă, am ajutat un prieten, am carat cutii mai grele. Atunci a început",
+      "Când stau mult pe scaun mă ține mai rău. Și când mă ridic dimineața din pat, primele minute sunt grele."
+    ],
+    "evaluarea_durerii_vas": [
+      "cam pe la... pe la un șase poate, șapte uneori, nu știu exact"
+    ],
+    "localizarea_durerii": [
+      "mă doare pe aici, pe zona asta de spate, mai mult în partea de jos",
+      "Și acolo, dar mai puțin."
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt ceva și pe... pe aici, pe fesă, mai mult pe dreapta",
+      "uneori parcă simt ceva până pe la mijlocul coapsei, dar nu mereu"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau câte un Nurofen când nu mai pot, dar nu regulat.",
+      "cel normal, de 400, cred că aia e"
+    ],
+    "evaluare_functionala_initiala": [
+      "Limitare la flexie anterioară, cam o treime din amplitudine.",
+      "Avem un test Lasègue pozitiv pe dreapta la 45 de grade.",
+      "Avem o contractură paravertebrală lombară, mai pronunțată pe dreapta, cu iritație pe traiectul piriformului și o ușoară limitare a mobilității.",
+      "Obiectivul nostru e să reducem inflamația din zona lombară, să relaxăm musculatura contractată și să recuperăm mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13854,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3489,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

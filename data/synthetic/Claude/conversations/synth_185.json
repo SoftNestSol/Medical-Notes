@@ -1,0 +1,169 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 17.26,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua! Scuzați că am întârziat un pic, am stat în trafic și... și am mai stat și la farmacie că mi-am luat niște ibuprofen, că tot mă doare și tot mă doare și nu știam ce să mai fac."
+    },
+    {
+      "start": 17.38,
+      "end": 20.8,
+      "speaker": "SPEAKER_00",
+      "text": "Nu-i nimic. Spuneți-mi cu ce problemă veniți."
+    },
+    {
+      "start": 20.92,
+      "end": 43.34,
+      "speaker": "SPEAKER_01",
+      "text": "Păi mă doare umărul, cel stâng. De vreo trei săptămâni acum. A început cam pe la jumătatea lunii trecute, după ce am zugrăvit la baie. Am stat cu mâna ridicată ore întregi și după aia a doua zi m-am trezit și nu mai puteam să ridic brațul deloc. M-am speriat îngrozitor, credeam că am pățit ceva grav."
+    },
+    {
+      "start": 43.46,
+      "end": 48.4,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Pe o scară de la 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 48.52,
+      "end": 62.96,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, în momentul ăsta, dacă stau liniștit, un 3, poate. Dar dacă ridic brațul sau mă întind după ceva, ajunge la un 7, chiar 8. Noaptea e cel mai rău, nu pot să dorm pe partea stângă deloc."
+    },
+    {
+      "start": 63.08,
+      "end": 67.26,
+      "speaker": "SPEAKER_00",
+      "text": "Doare și în altă parte, se lasă pe braț, pe gât?"
+    },
+    {
+      "start": 67.38,
+      "end": 77.26,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, doar umărul. Ei, uneori simt ceva și până la cot, asa un fel de... nu știu, ca o greutate, dar durere durere nu e."
+    },
+    {
+      "start": 77.38,
+      "end": 80.8,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai avut vreo problemă la umărul ăsta înainte?"
+    },
+    {
+      "start": 80.92,
+      "end": 98.78,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată. Adică eu am tensiune, iau și pastile pentru asta, dar la umăr n-am pățit nimic. Și mă tot gândeam, bag seamă că am rupt ceva acolo, tendoane, nu știu... am văzut pe internet tot felul de chestii și m-am speriat și mai tare."
+    },
+    {
+      "start": 98.9,
+      "end": 100.8,
+      "speaker": "SPEAKER_00",
+      "text": "Ce medicamente luați pentru tensiune?"
+    },
+    {
+      "start": 100.92,
+      "end": 108.52,
+      "speaker": "SPEAKER_01",
+      "text": "Iau Prestarium, 5 miligrame, în fiecare dimineață. Și ibuprofenul ăla acum, de două zile, dar nu prea mă ajută sincer."
+    },
+    {
+      "start": 108.64,
+      "end": 110.16,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Altceva mai luați?"
+    },
+    {
+      "start": 110.28,
+      "end": 111.08,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, atât."
+    },
+    {
+      "start": 111.2,
+      "end": 113.48,
+      "speaker": "SPEAKER_00",
+      "text": "Alte boli, diabet, probleme cu oasele?"
+    },
+    {
+      "start": 113.6,
+      "end": 117.02,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Doar tensiunea asta de vreo cinci ani."
+    },
+    {
+      "start": 117.14,
+      "end": 120.56,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să vedem puțin mișcarea. Ridicați brațul înainte, încet."
+    },
+    {
+      "start": 120.68,
+      "end": 123.34,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot... au, de aici doare."
+    },
+    {
+      "start": 123.46,
+      "end": 125.74,
+      "speaker": "SPEAKER_00",
+      "text": "Aproximativ 90 de grade. Și lateral?"
+    },
+    {
+      "start": 125.86,
+      "end": 134.6,
+      "speaker": "SPEAKER_01",
+      "text": "La fel, cam la fel. Vai, chiar nu credeam că e atât de blocat, că acasă nu prea încerc să mișc de frică."
+    },
+    {
+      "start": 134.72,
+      "end": 137.38,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Când duceți mâna la spate, doare?"
+    },
+    {
+      "start": 137.5,
+      "end": 142.06,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, asta e cel mai rău. Nu ajung nici la centură."
+    },
+    {
+      "start": 142.18,
+      "end": 155.86,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Avem o limitare importantă a mobilității pe toate planurile, cu durere la capătul de amplitudine. Pare o tendinopatie sau o inflamație la nivelul coafei rotatorilor. O să lucrăm să reducem inflamația și să recuperăm mișcarea."
+    },
+    {
+      "start": 155.98,
+      "end": 161.68,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu e rupt nimic? Că eu mă tot gândeam că poate trebuie operație și..."
+    },
+    {
+      "start": 161.8,
+      "end": 167.12,
+      "speaker": "SPEAKER_00",
+      "text": "Nu avem semne de ruptură completă. Rămâne de văzut evoluția, dar deocamdată tratăm conservator."
+    },
+    {
+      "start": 167.24,
+      "end": 174.46,
+      "speaker": "SPEAKER_01",
+      "text": "Slavă Domnului. Și cât timp durează, că am și o nuntă peste o lună și vreau să pot dansa?"
+    },
+    {
+      "start": 174.58,
+      "end": 178.0,
+      "speaker": "SPEAKER_00",
+      "text": "Să vedem cum răspunde. Haideți pe masă, vă rog."
+    }
+  ]
+}

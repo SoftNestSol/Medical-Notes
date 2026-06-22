@@ -1,0 +1,307 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua!"
+    },
+    {
+      "start": 2.56,
+      "end": 4.46,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă venim astăzi?"
+    },
+    {
+      "start": 4.58,
+      "end": 19.78,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, am o durere în ceafă de vreo două săptămâni, poate mai mult, adică nu știu exact când a început, dar acum două săptămâni am zis că e ceva serios și... da, mă doare ceafa, sus, chiar la baza craniului."
+    },
+    {
+      "start": 19.9,
+      "end": 22.56,
+      "speaker": "SPEAKER_00",
+      "text": "La baza craniului, deci zona cervicală superioară."
+    },
+    {
+      "start": 22.68,
+      "end": 32.56,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, exact acolo. Și mai am și niște dureri de cap din cauza asta, cred, sau poate nu din cauza asta, nu știu, dar coincid."
+    },
+    {
+      "start": 32.68,
+      "end": 36.1,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea de cap apare odată cu durerea din ceafă?"
+    },
+    {
+      "start": 36.22,
+      "end": 49.14,
+      "speaker": "SPEAKER_01",
+      "text": "Da, adică dimineața mă trezesc și simt că am capul greu, ceafa încordată, și după o oră sau două îmi apare și durerea de cap, mai ales aici, pe ceafă în sus, spre creștet."
+    },
+    {
+      "start": 49.26,
+      "end": 58.38,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde ați situa durerea din ceafă?"
+    },
+    {
+      "start": 58.5,
+      "end": 64.58,
+      "speaker": "SPEAKER_01",
+      "text": "Hm... 6, aș zice. Nu mă lasă să nu pot face nimic, dar e acolo, mereu."
+    },
+    {
+      "start": 64.7,
+      "end": 65.5,
+      "speaker": "SPEAKER_00",
+      "text": "Constant, deci."
+    },
+    {
+      "start": 65.62,
+      "end": 81.2,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam constant. Mai rău dimineața și seara când stau la calculator, că lucrez mult la calculator, lucrez de acasă de vreo doi ani și probabil de aia... adică și înainte mai aveam din când în când, dar acum a rămas."
+    },
+    {
+      "start": 81.32,
+      "end": 88.54,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și de ce ziceți că a rămas acum, s-a întâmplat ceva anume în urmă cu două săptămâni?"
+    },
+    {
+      "start": 88.66,
+      "end": 104.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, sincer. Poate am stat mai prost la birou, am schimbat scaunul, am luat unul nou și... nu știu dacă e de la asta, dar cam pe atunci a început să fie mai rău. Înainte mai trecea, acum nu mai trece."
+    },
+    {
+      "start": 104.74,
+      "end": 108.54,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, deci înainte mai apărea și dispărea, acum se menține."
+    },
+    {
+      "start": 108.66,
+      "end": 109.46,
+      "speaker": "SPEAKER_01",
+      "text": "Exact, da."
+    },
+    {
+      "start": 109.58,
+      "end": 116.42,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea din ceafă se lasă și pe umăr sau pe braț, sau e strict în ceafă și cap?"
+    },
+    {
+      "start": 116.54,
+      "end": 124.9,
+      "speaker": "SPEAKER_01",
+      "text": "E mai mult în ceafă și în cap. Uneori simt ceva și pe partea stângă, pe gât, dar nu pe braț, nu."
+    },
+    {
+      "start": 125.02,
+      "end": 126.92,
+      "speaker": "SPEAKER_00",
+      "text": "Pe gât pe partea stângă."
+    },
+    {
+      "start": 127.04,
+      "end": 128.94,
+      "speaker": "SPEAKER_01",
+      "text": "Da, ca o tensiune acolo."
+    },
+    {
+      "start": 129.06,
+      "end": 130.96,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeli pe mâini, pe degete?"
+    },
+    {
+      "start": 131.08,
+      "end": 132.6,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, asta nu."
+    },
+    {
+      "start": 132.72,
+      "end": 135.0,
+      "speaker": "SPEAKER_00",
+      "text": "Amețeli, senzație că se învârte camera?"
+    },
+    {
+      "start": 135.12,
+      "end": 144.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu amețeli ca atare, dar uneori când mă ridic repede simt că mi se face puțin negru în față, dar nu știu dacă e legat."
+    },
+    {
+      "start": 144.74,
+      "end": 146.26,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Alergii la medicamente?"
+    },
+    {
+      "start": 146.38,
+      "end": 147.18,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 147.3,
+      "end": 150.72,
+      "speaker": "SPEAKER_00",
+      "text": "Alte afecțiuni, tensiune, diabet, ceva pe care îl tratați?"
+    },
+    {
+      "start": 150.84,
+      "end": 162.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea. Sunt ok, în general. Am mai luat Nurofen când mă doare mai tare, câte unul, dar nu în fiecare zi, doar când nu mai suport."
+    },
+    {
+      "start": 162.74,
+      "end": 164.26,
+      "speaker": "SPEAKER_00",
+      "text": "Deci ocazional, la nevoie."
+    },
+    {
+      "start": 164.38,
+      "end": 167.8,
+      "speaker": "SPEAKER_01",
+      "text": "Da, nu mă omor cu el, dar mai ajută."
+    },
+    {
+      "start": 167.92,
+      "end": 171.72,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să vedem puțin mobilitatea. Duceți bărbia în piept, încet."
+    },
+    {
+      "start": 171.84,
+      "end": 174.5,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, mai mult mă trage."
+    },
+    {
+      "start": 174.62,
+      "end": 175.76,
+      "speaker": "SPEAKER_00",
+      "text": "Doare când trageți?"
+    },
+    {
+      "start": 175.88,
+      "end": 177.4,
+      "speaker": "SPEAKER_01",
+      "text": "Da, trage în ceafă."
+    },
+    {
+      "start": 177.52,
+      "end": 179.42,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum capul pe spate."
+    },
+    {
+      "start": 179.54,
+      "end": 181.82,
+      "speaker": "SPEAKER_01",
+      "text": "Asta merge mai bine, nu doare."
+    },
+    {
+      "start": 181.94,
+      "end": 183.08,
+      "speaker": "SPEAKER_00",
+      "text": "Rotație spre stânga."
+    },
+    {
+      "start": 183.2,
+      "end": 187.76,
+      "speaker": "SPEAKER_01",
+      "text": "Uff, asta e mai grea. Simt că se blochează pe la jumătate."
+    },
+    {
+      "start": 187.88,
+      "end": 190.16,
+      "speaker": "SPEAKER_00",
+      "text": "Doare sau e mai mult rigiditate?"
+    },
+    {
+      "start": 190.28,
+      "end": 194.46,
+      "speaker": "SPEAKER_01",
+      "text": "Ambele, adică doare și simt că nu mă lasă mai departe."
+    },
+    {
+      "start": 194.58,
+      "end": 195.72,
+      "speaker": "SPEAKER_00",
+      "text": "Și spre dreapta?"
+    },
+    {
+      "start": 195.84,
+      "end": 199.26,
+      "speaker": "SPEAKER_01",
+      "text": "Merge mai bine, dar tot nu e cum trebuie."
+    },
+    {
+      "start": 199.38,
+      "end": 204.7,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Stați puțin, apăs pe musculatura din ceafă, îmi spuneți unde doare mai tare."
+    },
+    {
+      "start": 204.82,
+      "end": 209.0,
+      "speaker": "SPEAKER_01",
+      "text": "Acolo, sus, la baza craniului, da, acolo e cel mai rău."
+    },
+    {
+      "start": 209.12,
+      "end": 211.4,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe stânga, lateral pe gât?"
+    },
+    {
+      "start": 211.52,
+      "end": 213.04,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și acolo, da."
+    },
+    {
+      "start": 213.16,
+      "end": 234.82,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Avem o contractură musculară la nivel cervical superior, mai accentuată pe stânga, cu limitarea rotației spre stânga. Durerea de cap pe care o simțiți dimineața și seara e cel mai probabil de origine cervicală, ce se numește cefalee cervicogenă. Obiectivul nostru va fi să relaxăm musculatura, să recăpătăm mobilitatea cervicală și să reducem durerile de cap."
+    },
+    {
+      "start": 234.94,
+      "end": 241.78,
+      "speaker": "SPEAKER_01",
+      "text": "Adică nu e ceva grav? Că m-am gândit la tot felul de lucruri, tensiune intracraniană, nu știu..."
+    },
+    {
+      "start": 241.9,
+      "end": 249.88,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, din ce am testat pare să fie de la musculatura cervicală și postura la calculator. Haideți să trecem la treabă."
+    },
+    {
+      "start": 250.0,
+      "end": 251.52,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, bine, mă bucur."
+    }
+  ]
+}

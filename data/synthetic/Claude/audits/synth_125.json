@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_125",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel drept, de vreo trei săptămâni",
+      "am ridicat un dulap, și parcă am simțit ceva acolo",
+      "nici nu pot să dorm pe partea dreaptă, mă trezesc noaptea de la durere"
+    ],
+    "evaluarea_durerii_vas": [
+      "dacă stau liniștit, pe la 3, dar dacă ridic mâna sau fac mișcări mai ample, ajunge la 7-8"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel drept"
+    ],
+    "localizarea_durerii_alta": [
+      "se duce puțin pe lateral, pe deltoid, pe acolo"
+    ],
+    "antecedente": [
+      "Am tensiune, da, iau și medicamente pentru ea"
+    ],
+    "antecedente_altele": [
+      "acum câțiva ani am avut o problemă la cervicală, am stat vreo două săptămâni cu gâtul blocat, dar a trecut singur atunci"
+    ],
+    "medicatie_actuala": [
+      "Iau Prestarium, o pastilă pe zi, de vreo doi ani"
+    ],
+    "evaluare_functionala_initiala": [
+      "Cam la 90 de grade se oprește",
+      "apăs eu aici pe tendonul supraspinatus",
+      "Pare a fi o tendinopatie de supraspinatus, cel mai probabil inflamație acolo după efortul cu dulapul",
+      "vom reduce inflamația și refacem mobilitatea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21184,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 2013,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

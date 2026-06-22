@@ -1,0 +1,53 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua!\nSPEAKER_00: Cu ce problemă venim astăzi?\nSPEAKER_01: Păi, am o durere în ceafă, de vreo două săptămâni, poate ceva mai mult, nu știu exact, că n-am ținut minte ziua, dar cred că de prin mijlocul lunii trecute. Și mai am și capul greu dimineața, adică mă trezesc și simt că e ceva acolo, la baza capului, apasă.\nSPEAKER_00: Deci durerea e mai mult la baza capului, zona ceafă?\nSPEAKER_01: Da, da, exact acolo. Câteodată și mai sus, parcă urcă spre ceafă, dar mai mult jos, la bază.\nSPEAKER_00: Pe o scară de la 0 la 10, cum ați pune această durere?\nSPEAKER_01: Hmm, un 5, 5 și jumătate poate. Nu mă doboară, dar e deranjantă, mai ales când stau mult la calculator. Că eu lucrez în birou, sunt programator, stau cu ochii în ecran câte 8-9 ore pe zi, și la un moment dat simt că se strânge totul acolo în ceafă.\nSPEAKER_00: Înțeleg. Și această durere se lasă și pe umăr sau pe braț?\nSPEAKER_01: Nu, nu pe braț. Poate uneori un pic pe umărul stâng, dar nu-mi dau seama dacă e de la ceafă sau de la cum stau eu aplecat, că știu că am o postură proastă, mi-a zis și soția mea. Dar durerea principală e în ceafă.\nSPEAKER_00: Și dimineața, când vă treziți, e mai rău sau se îmbunătățește după ce vă mișcați puțin?\nSPEAKER_01: Se mai duce după ce mă mișc, da. Mă ridic din pat, fac un duș cald și parcă se mai relaxează. Dar dacă stau o oră-două la laptop, revine.\nSPEAKER_00: Amorțeli la mâini, la degete?\nSPEAKER_01: Nu, nu am simțit. Adică uneori, dacă stau cu coatele pe birou, îmi amorțesc mâinile, dar aia cred că e altceva, de la poziție.\nSPEAKER_00: Da, probabil poziția. Dureri de cap propriu-zise, migrene?\nSPEAKER_01: Dureri de cap am, da. Adică nu migrene ca la soția mea, ea stă în pat cu perdele trase, nu e cazul meu. Dar am o presiune, o greutate în cap, mai ales în zona din spate. Câteodată îmi pulsa un pic la tâmple, dar rar.\nSPEAKER_00: Ați luat ceva pentru durere?\nSPEAKER_01: Da, am luat un Nurofen din când în când, când nu mai puteam. Și am un gel, Voltaren, pe care îl pun seara pe ceafă, că am văzut pe internet că merge. Ajută un pic, dar a doua zi revine.\nSPEAKER_00: Înțeleg. Alte probleme de sănătate, tensiune, diabet, ceva cronic?\nSPEAKER_01: Nu, nu am nimic din astea. Sunt sănătos altfel, am 34 de ani, nu fumez, mai beau câte o cafea, două pe zi, poate și asta contribuie, nu știu.\nSPEAKER_00: Ați mai avut episoade similare în trecut?\nSPEAKER_01: Acum doi ani am mai avut ceva, dar a trecut singur după câteva zile. Asta acum nu trece, de-aia am venit.\nSPEAKER_00: Bine că ați venit. Haideți să fac câteva teste. Aplecați capul înainte, ușor, ușor. Doare?\nSPEAKER_01: Da, simt că trage, acolo la bază.\nSPEAKER_00: Și dacă ducem capul spre dreapta?\nSPEAKER_01: Aia merge, mai bine.\nSPEAKER_00: Spre stânga?\nSPEAKER_01: Acolo doare mai tare, da.\nSPEAKER_00: Am înțeles. Apăs puțin pe musculatura de la ceafă, îmi spuneți dacă simțiți ceva.\nSPEAKER_01: Au, da, acolo e sensibil. Pe stânga mai tare.\nSPEAKER_00: Da, simt că e tensionată musculatura suboccipitală, mai ales pe stânga. Și flexia cervicală e limitată. O să lucrăm pe zona asta, să reducem tensiunea musculară și să recuperăm mobilitatea.\nSPEAKER_01: Credeți că e ceva grav? Că eu m-am tot gândit, am citit pe internet și m-am speriat un pic.\nSPEAKER_00: Nu, din ce văd e o contractură musculară cervicală, legată de postura de la birou. Nu e nimic grav, dar trebuie să lucrăm la ea ca să nu devină cronică.\nSPEAKER_01: Bine, bine, mă bucur. Și gelul pot să continui să-l pun?\nSPEAKER_00: Puteți, nu strică. Dar hai să trecem la treabă, vă rog să vă așezați pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere în ceafă și cap greu, de aproximativ două săptămâni, accentuată după lucru prelungit la calculator.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      },
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Musculatura suboccipitală tensionată, mai ales pe stânga. Flexie cervicală limitată. Rotație spre stânga dureroasă. Diagnostic: contractură musculară cervicală pe fond postural. Obiective terapeutice: reducerea tensiunii musculare și recuperarea mobilității cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere în ceafă, de vreo două săptămâni",
+      "mă trezesc și simt că e ceva acolo, la baza capului, apasă",
+      "simt că se strânge totul acolo în ceafă"
+    ],
+    "evaluarea_durerii_vas": [
+      "un 5, 5 și jumătate poate"
+    ],
+    "localizarea_durerii": [
+      "am o durere în ceafă",
+      "mai am și capul greu dimineața",
+      "durerea principală e în ceafă"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "am luat un Nurofen din când în când",
+      "am un gel, Voltaren, pe care îl pun seara pe ceafă"
+    ],
+    "evaluare_functionala_initiala": [
+      "simt că e tensionată musculatura suboccipitală, mai ales pe stânga",
+      "flexia cervicală e limitată",
+      "o să lucrăm pe zona asta, să reducem tensiunea musculară și să recuperăm mobilitatea",
+      "e o contractură musculară cervicală, legată de postura de la birou"
+    ]
+  }
+}

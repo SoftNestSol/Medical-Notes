@@ -1,0 +1,40 @@
+{
+  "conversation_id": "synth_432",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Am ridicat niște saci la serviciu.",
+      "De vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 7."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "ceea ce văd eu este o inflamație la nivelul tendonului supraspinosului, cel mai probabil, combinată cu o iritație la nivelul bursei subacromiologice",
+      "Avem și o ușoară retracție a capsulei, după cum văd.",
+      "Obiectivul nostru în primele ședințe este să reducem inflamația și să recuperăm mobilitatea umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13739,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 1996,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

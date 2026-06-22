@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Durere cervicală și ceafă cu iradiere spre cap, de aproximativ două săptămâni, accentuată dimineața și după efort la calculator",
+  "evaluarea_durerii_vas": [
+    6,
+    4
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Contractură musculatură suboccipitală și paravertebrală cervicală, cu limitare de mobilitate la extensie și rotație dreaptă. Obiective: reducerea contracturii, eliberarea mobilității cervicale."
+}

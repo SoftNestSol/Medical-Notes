@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_378",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare... pe aici, pe zona asta de sus a spatelui. Nu știu exact cum să zic, undeva între umeri, cam așa",
+      "Mai mult pe partea dreaptă, dar și pe stânga câteodată",
+      "Câteva luni. Poate trei, poate patru luni",
+      "Când stau mult la birou. Adică lucrez la calculator, stau ore întregi și după un timp simt că se strânge tot pe acolo",
+      "uneori și dacă dorm pe o parte, dimineața e mai rău",
+      "Uneori la ceafă, da",
+      "Stau la birou, la calculator. Programator",
+      "opt, zece ore. Depinde de zi"
+    ],
+    "evaluarea_durerii_vas": [
+      "un șase poate. Sau un șapte. Cam pe acolo",
+      "Deci undeva între șase și șapte"
+    ],
+    "localizarea_durerii": [
+      "undeva între umeri, cam așa",
+      "Câteodată simt ceva și pe umărul drept",
+      "Uneori la ceafă, da"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "la scolioză, da, mi s-a spus când eram mai mic că am o ușoară scolioză"
+    ],
+    "antecedente_altele": [
+      "am avut o operație la genunchi, la cel drept, acum vreo... șapte ani, opt ani. La menisc. Dar nu mă mai deranjează de mult"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Vedem o ușoară proiecție a capului înainte, umerii vin și ei în față. Și coloana toracală e puțin mai rotunjită în zona de mijloc, da, o cifoză ușoară funcțională",
+      "E o limitare a rotației cervicale spre dreapta",
+      "avem o postură anterioară a capului și o rotunjire a spatelui în zona toracală, plus o tensionare importantă a mușchilor paravertebrali, mai ales pe dreapta",
+      "O să lucrăm să relaxăm musculatura de acolo, să mobilizăm coloana toracală și să corectăm puțin postura. O să vă arăt și câteva exerciții simple pentru acasă"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22971,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 4050,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

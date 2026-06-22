@@ -1,0 +1,49 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi cu ce problemă veniți azi.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Exact în zona lombară. De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. A apărut brusc sau treptat?\nSPEAKER_01: Brusc. Am ridicat ceva.\nSPEAKER_00: Ați ridicat ceva greu.\nSPEAKER_01: Da, niște cutii.\nSPEAKER_00: Și imediat a apărut durerea sau a doua zi?\nSPEAKER_01: Imediat.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum ați nota durerea acum?\nSPEAKER_01: Cam 7.\nSPEAKER_00: 7. Doare permanent sau numai la anumite mișcări?\nSPEAKER_01: Mai mult când mă mișc. Când stau jos e mai bine.\nSPEAKER_00: Când stați jos e mai bine. Și când vă ridicați din scaun, doare?\nSPEAKER_01: Da, tare.\nSPEAKER_00: Durerea se lasă și pe fesă sau pe picior?\nSPEAKER_01: Puțin pe fesă, pe dreapta.\nSPEAKER_00: Pe fesa dreaptă. Coboară mai jos, pe coapsă sau sub genunchi?\nSPEAKER_01: Nu, rămâne acolo.\nSPEAKER_00: Rămâne la fesă. Amorțeli la picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Dimineața, când vă treziți, vă ține spatele?\nSPEAKER_01: Da, un pic. Trece după ce mă mișc.\nSPEAKER_00: Trece când vă încălziți. Bun. Alte dureri, la genunchi, la ceafă?\nSPEAKER_01: Nu.\nSPEAKER_00: Acum, câteva întrebări rapide de screening. Aveți tensiune, diabet, vreo boală cardiovasculară?\nSPEAKER_01: Nu.\nSPEAKER_00: Osteoporoză, hernie de disc diagnosticată anterior?\nSPEAKER_01: Nu știu de hernie. Nu mi-a zis nimeni.\nSPEAKER_00: Nicio investigație făcută, RMN, radiografie?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Stați în picioare cu spatele la mine, relaxat.\nSPEAKER_01: Ok.\nSPEAKER_00: Văd o ușoară înclinare spre stânga. O simțiți?\nSPEAKER_01: Nu știam.\nSPEAKER_00: Corpul se pune singur în poziție ca să reducă presiunea. Aplecați-vă în față, încet.\nSPEAKER_01: Au, doare.\nSPEAKER_00: Doare la aplecare. Până unde ajungeți, la genunchi?\nSPEAKER_01: Pe la jumătatea gambei, cam atât.\nSPEAKER_00: Limitare la flexie. Acum ridicați piciorul drept, întins, eu vă sprijin. Doare?\nSPEAKER_01: Da, acolo în spate și puțin pe fesă.\nSPEAKER_00: Se accentuează durerea lombară și pe fesă la ridicarea piciorului. Bun. Întindeți-vă pe masă cu fața în sus.\nSPEAKER_01: Ok.\nSPEAKER_00: Îndoiți genunchiul drept, eu îl ridic. Îmi spuneți dacă doare.\nSPEAKER_01: Da, la spate.\nSPEAKER_00: Același loc. Bun. Relaxați. Apăs puțin paravertebral, îmi spuneți unde simțiți.\nSPEAKER_01: Acolo, jos. Pe dreapta mai tare.\nSPEAKER_00: Paravertebral drept mai sensibil. Am înțeles. Deci ce vedem e o contractură musculară lombară acută, apărută după efort, cu o ușoară iradiere pe fesierul drept. Testul de ridicare a piciorului pozitiv pe dreapta, ceea ce înseamnă că rădăcina nervoasă e ușor iritată, dar fără semne de radiculopatie clară, fără amorțeli, fără durere sub genunchi. Obiectivul nostru e să reducem contractura, să calmăm iritația și să vă redăm mobilitatea.\nSPEAKER_01: Cât durează?\nSPEAKER_00: Depinde cum răspunde corpul, dar cu câteva ședințe ar trebui să se amelioreze mult. Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară acută apărută brusc după ridicare de greutăți (cutii), de aproximativ două săptămâni. Durere la mișcare, mai ales la ridicarea din scaun, cu redoare matinală care cedează la mobilizare. Iradiere ușoară pe fesa dreaptă, fără coborâre sub genunchi și fără amorțeli.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": "fesa dreaptă",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nÎnclinare ușoară a trunchiului spre stânga în ortostatism. Limitarea flexiei lombare (până la jumătatea gambei). Sensibilitate paravertebrală lombară dreaptă la palpare. Test Lasègue pozitiv pe dreapta cu accentuarea durerii lombare și pe fesă.\nDiagnostic:\nContractură musculară lombară acută post-efort, cu iritație radiculară ușoară pe dreapta (fără radiculopatie clară - absența amorțelilor și a iradierii sub genunchi).\nObiective terapeutice:\nReducerea contracturii musculare, calmarea iritației radiculare, refacerea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele",
+      "De vreo două săptămâni",
+      "Am ridicat ceva. Da, niște cutii.",
+      "Imediat.",
+      "Puțin pe fesă, pe dreapta",
+      "Nu, rămâne acolo",
+      "Nu",
+      "Da, un pic. Trece după ce mă mișc."
+    ],
+    "evaluarea_durerii_vas": [
+      "Cam 7."
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele. Jos.",
+      "doare la spate"
+    ],
+    "localizarea_durerii_alta": [
+      "Puțin pe fesă, pe dreapta",
+      "se accentuează durerea lombară și pe fesă la ridicarea piciorului"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară înclinare spre stânga.",
+      "Limitare la flexie.",
+      "Pe la jumătatea gambei, cam atât.",
+      "Se accentuează durerea lombară și pe fesă la ridicarea piciorului.",
+      "Paravertebral drept mai sensibil.",
+      "o contractură musculară lombară acută, apărută după efort, cu o ușoară iradiere pe fesierul drept. Testul de ridicare a piciorului pozitiv pe dreapta, ceea ce înseamnă că rădăcina nervoasă e ușor iritată, dar fără semne de radiculopatie clară, fără amorțeli, fără durere sub genunchi. Obiectivul nostru e să reducem contractura, să calmăm iritația și să vă redăm mobilitatea."
+    ]
+  }
+}

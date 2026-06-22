@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_439",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul... umărul stâng, de vreo câteva săptămâni",
+      "mă trezesc noaptea din cauza lui",
+      "dacă încerc să ridic mâna așa mai sus doare",
+      "am dormit la hotel vreo câteva nopți, perna era foarte proastă, și după aia a început să mă doară"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în repaus, e... nu știu, un 4, poate 5",
+      "atunci e poate un 8. Da, cam un 8."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul... umărul stâng",
+      "simt ceva și pe aici, pe gât, pe partea asta"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am hipotiroidism, de vreo trei ani de zile."
+    ],
+    "medicatie_actuala": [
+      "iau Euthyrox. 50 de micrograme, în fiecare dimineață",
+      "Am luat un Nurofen acum câteva zile că nu mai suportam, dar nu iau regulat."
+    ],
+    "evaluare_functionala_initiala": [
+      "Mă gândeam că aveți o tendinită la nivelul umărului stâng, posibil și o iritație la nivelul manșetei rotatorilor",
+      "Avem și o componenta cervicală care contribuie, la nivelul C5-C6",
+      "În primă fază vom lucra să reducem inflamația și să recâștigăm mobilitatea. Ulterior ne ocupăm și de postură"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13739,
+    "inference_geo": "global",
+    "input_tokens": 334,
+    "output_tokens": 3425,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

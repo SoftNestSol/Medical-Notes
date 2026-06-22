@@ -1,0 +1,49 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, vă rog, cu ce problemă veniți.\nSPEAKER_01: Bună ziua. Păi, mă doare umărul stâng, de vreo două săptămâni deja. Și nu știu, am zis să vin, că inițial credeam că trece singur, mai ales că eu nu fac sport, nu ridic greutăți, nu înțeleg de unde a apărut.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Undeva la un 5, aș zice. Nu e insuportabil, dar mă deranjează mai ales noaptea când mă întorc pe partea aia. Și dimineața, primele mișcări sunt mai grele.\nSPEAKER_00: Doare și în repaus sau doar la mișcare?\nSPEAKER_01: La mișcare mai mult, da. Adică dacă stau liniștit nu e mare problemă, dar dacă ridic brațul sau mă întind după ceva... uite, de exemplu, ieri am vrut să iau o carte de pe raftul de sus și m-a luat cu un junghi.\nSPEAKER_00: Se lasă durerea și pe braț, pe antebraț?\nSPEAKER_01: Nu, nu, rămâne aici, pe umăr. Poate puțin pe deasupra, pe sus, pe zona asta, dar nu coboară.\nSPEAKER_00: Ați lovit umărul în ultima vreme? Vreo căzătură, vreun accident?\nSPEAKER_01: Nu, absolut nimic. Asta e ce nu înțeleg. M-am gândit că poate de la stres, că am o perioadă mai încărcată la serviciu, stau mult la birou, la calculator. Poate de la poziție, nu știu. Soția mea zice că dorm mereu pe partea stângă, poate de-aia. Sau poate... nu știu, am citit pe internet că poate fi ceva mai serios și m-am speriat un pic.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am, da. Iau Enalapril, 10 miligrame, în fiecare dimineață. Altceva nu.\nSPEAKER_00: De cât timp aveți tensiunea?\nSPEAKER_01: De vreo trei ani. Mi-a descoperit-o medicul de familie, la un control de rutină. Nici nu știam, că nu aveam niciun simptom. Dar e sub control cu medicamentul.\nSPEAKER_00: Bun. Vă rog să ridicați brațul stâng în față, încet.\nSPEAKER_01: Până pe aici merge, după aceea apare durerea. Cam la 90 de grade, pe acolo.\nSPEAKER_00: Și lateral, ridicați brațul lateral.\nSPEAKER_01: La fel, cam pe la jumătate se simte. Mai rău lateral decât în față, parcă.\nSPEAKER_00: Stați așa. Apăs puțin pe zona de sub acromion... doare?\nSPEAKER_01: Da, da, exact acolo e.\nSPEAKER_00: Rotație internă... doare?\nSPEAKER_01: Doare, da.\nSPEAKER_00: Ok. Pare a fi o tendinită la nivelul manșetei rotatorilor, posibil o inflamație subacromială. Nu e ceva grav, e frecvent la persoanele care stau mult la birou și dorm pe aceeași parte.\nSPEAKER_01: Deci nu e nimic mai serios? Că m-am tot gândit, pe internet scrie tot felul de lucruri...\nSPEAKER_00: Nu, la momentul acesta nu avem semne de ruptură sau altceva. O să lucrăm să reducem inflamația și să recuperăm mobilitatea.\nSPEAKER_01: Bine, mă bucur. Și cât timp durează, aproximativ?\nSPEAKER_00: Depinde de răspuns, dar câteva ședințe ar trebui să simțiți o diferență. Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Pacient acuză durere la umărul stâng de aproximativ două săptămâni, apărută fără traumatism. Durere la mișcare (abducție și flexie limitată la aproximativ 90 de grade), exacerbată noaptea în decubit pe partea stângă și dimineața la primele mișcări. Asociat cu postură de birou prelungită.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinită manșetă rotatori umăr stâng, posibil inflamație subacromială\nObiective terapeutice:\n- reducerea inflamației\n- recuperarea mobilității"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul stâng, de vreo două săptămâni deja",
+      "La mișcare mai mult, da. Adică dacă stau liniștit nu e mare problemă, dar dacă ridic brațul sau mă întind după ceva",
+      "mă deranjează mai ales noaptea când mă întorc pe partea aia",
+      "stau mult la birou, la calculator"
+    ],
+    "evaluarea_durerii_vas": [
+      "Undeva la un 5, aș zice."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul stâng",
+      "Nu, nu, rămâne aici, pe umăr."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am, da."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Enalapril, 10 miligrame, în fiecare dimineață."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o tendinită la nivelul manșetei rotatorilor, posibil o inflamație subacromială.",
+      "O să lucrăm să reducem inflamația și să recuperăm mobilitatea."
+    ]
+  }
+}

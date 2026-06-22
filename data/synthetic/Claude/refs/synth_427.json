@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "Durere umar stang de aproximativ trei saptamani, accentuata dupa efort fizic la fitness (flotari, gantere). Imposibilitatea ridicarii bratului, dificultati la activitati zilnice (imbracat, spalat pe cap). Durere nocturna la decubit lateral stang. Cervicalgie ocazionala asociata.",
+  "evaluarea_durerii_vas": [
+    4,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_stg",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "antebrat stang (partial, pana la jumatatea bratului)",
+  "antecedente": [
+    "scolioza_cifoza"
+  ],
+  "antecedente_altele": "apendicectomie (acum aproximativ 10 ani); fractura pumn drept la 20 de ani (vindecata, fara sechele)",
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie coafa rotatorilor umar stang;\n- tensionare musculatura cervicala stanga;\nObiective terapeutice:\n- reducerea procesului inflamator;\n- refacerea mobilitatii umarul stang;\n- recomandare ecografie umar"
+}

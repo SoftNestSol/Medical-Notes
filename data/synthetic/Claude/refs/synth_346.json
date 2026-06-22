@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere umar drept, cu iradiere pe brat, de aproximativ trei saptamani",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "iradiere pe fata bratului drept pana la mijlocul bratului; tensiune zona omoplat drept",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: tendinopatie supraspinat si cap lung biceps drept; inflamatie tendoane zona umar drept.\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii umárului."
+}

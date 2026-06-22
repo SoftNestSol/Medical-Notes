@@ -1,0 +1,81 @@
+SPEAKER_00: Bună ziua!
+SPEAKER_01: Bună ziua, bună ziua.
+SPEAKER_00: Spuneți-mi, vă rog, numele dumneavoastră complet.
+SPEAKER_01: Ionescu Marian.
+SPEAKER_00: Ionescu Marian. Și vârsta?
+SPEAKER_01: 47 de ani.
+SPEAKER_00: Bine ați venit. Prima oară la noi?
+SPEAKER_01: Da, prima dată.
+SPEAKER_00: Perfect. Spuneți-mi, cu ce problemă ați venit astăzi?
+SPEAKER_01: Păi... mă doare pe aici, pe zona asta de umăr, și se lasă și pe... nu știu cum să zic, pe braț în jos, așa.
+SPEAKER_00: Pe umărul drept sau pe cel stâng?
+SPEAKER_01: Pe dreptul, da.
+SPEAKER_00: Și când spuneți că se lasă pe braț, se lasă până unde? Până la cot, până la mână?
+SPEAKER_01: Păi nu știu exact, undeva pe la mijlocul brațului așa, nu mai departe.
+SPEAKER_00: Deci până la nivelul cotului aproximativ.
+SPEAKER_01: Da, cam pe acolo, nu mai jos.
+SPEAKER_00: Înțeles. De când aveți această durere?
+SPEAKER_01: Păi de vreo... nu știu, cam de o lună, o lună și ceva. A început ușor-ușor și acum e mai rău.
+SPEAKER_00: A apărut după ceva anume? O mișcare, o lovitură, un efort?
+SPEAKER_01: Nu, nu știu, nu mi-a dat nimic. Adică mă gândesc că poate de la birou, stau mult la calculator, și poate de acolo.
+SPEAKER_00: Deci nu a fost un traumatism direct, a apărut progresiv.
+SPEAKER_01: Da, exact, ușor-ușor.
+SPEAKER_00: Și acum o lună, față de cum e acum, e mai rău, mai bine sau la fel?
+SPEAKER_01: E mai rău acum, da. La început nu mă deranja atât de mult, acum mă trezesc și noaptea.
+SPEAKER_00: Vă trezește noaptea din somn?
+SPEAKER_01: Da, mai ales dacă stau pe partea dreaptă. Mă întorc și mă trezesc că doare.
+SPEAKER_00: Pe ce parte dormiți în mod normal?
+SPEAKER_01: Încerc pe stânga acum, că pe dreapta nu pot.
+SPEAKER_00: Înțeles. Există și poziții în care doare mai puțin în timpul zilei?
+SPEAKER_01: Păi dacă țin brațul... nu știu, nu fac nimic cu el, dacă stau liniștit, mai bine. Dar dacă ridic mâna, sau încerc să pun ceva sus, pe raft, doare tare.
+SPEAKER_00: Deci mișcările de ridicare a brațului îi agraveaza.
+SPEAKER_01: Da, și dacă încerc să mă pieptăn, sau să ajung la spate, știți, cu mâna la spate.
+SPEAKER_00: Rotația internă a umărului.
+SPEAKER_01: Nu știu cum se cheamă, dar da, aia mișcare.
+SPEAKER_00: Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 înseamnă durere maximă, cât de tare ați pune durerea când faceți aceste mișcări?
+SPEAKER_01: Când ridic brațul sus, un 8. Când stau liniștit, dacă nu fac nimic, poate un 3.
+SPEAKER_00: Deci 8 la mișcare și 3 în repaus.
+SPEAKER_01: Da, cam așa.
+SPEAKER_00: Ați mai avut probleme la același umăr în trecut?
+SPEAKER_01: Acum câțiva ani m-a mai durut puțin, dar a trecut singur, nu am făcut nimic.
+SPEAKER_00: Și acum nu trece singur.
+SPEAKER_01: Nu, nu trece, de-aia am venit.
+SPEAKER_00: Bine că ați venit. Spuneți-mi, ce profesie aveți?
+SPEAKER_01: Lucrez în IT, stau mult la birou. Laptop toată ziua.
+SPEAKER_00: Cât stați la birou pe zi, aproximativ?
+SPEAKER_01: Vreo opt, nouă ore, uneori și mai mult.
+SPEAKER_00: Și mouse-ul, tastatura sunt pe dreapta?
+SPEAKER_01: Da, da, mouse pe dreapta.
+SPEAKER_00: Am înțeles. Faceți vreun sport?
+SPEAKER_01: Am făcut tenis în trecut, dar de vreo doi ani nu mai fac nimic. N-am timp.
+SPEAKER_00: Înțeles. Haideți să vă întreb și de antecedente. Aveți boli cronice, afecțiuni cu care vă confruntați de mai mult timp?
+SPEAKER_01: Da, am cu tiroida ceva. Mi-au zis că e hipotiroidism, iau pastile de mai mulți ani pentru asta.
+SPEAKER_00: Hipotiroidism, înțeles. Altceva? Tensiune, diabet, ceva la inimă?
+SPEAKER_01: Nu, nimic din astea. Doar tiroida.
+SPEAKER_00: Bun. Ce medicamente luați în prezent?
+SPEAKER_01: Iau Euthyrox, o pastilă pe zi, dimineața pe stomacul gol.
+SPEAKER_00: Euthyrox. Știți ce doză?
+SPEAKER_01: Cred că 75 de micrograme, dar nu sunt sigur sută la sută.
+SPEAKER_00: 75 mcg. Altceva, vreun antiinflamator, ceva pentru durere?
+SPEAKER_01: Am luat un Nurofen acum câteva zile că nu mai puteam, dar nu în mod regulat.
+SPEAKER_00: Deci Nurofen ocazional. Ok. Alergii la medicamente?
+SPEAKER_01: Nu știu de niciuna.
+SPEAKER_00: Bun. Ați mai făcut kinetoterapie sau terapie manuală vreodată?
+SPEAKER_01: Nu, niciodată. Prima dată vin la un cabinet de genul.
+SPEAKER_00: Înțeles. Haideți să facem câteva teste acum. Ridicați brațul drept în față, ușor... Opriți-vă când doare.
+SPEAKER_01: Până pe la... au, pe la nouăzeci de grade cam, după aia doare tare.
+SPEAKER_00: Deci avem o limitare la aproximativ 90 de grade în flexie. Haideți acum lateral, ridicați brațul lateral.
+SPEAKER_01: Și acolo, cam la fel, nu merge mai sus.
+SPEAKER_00: Da, limitare similară în abducție. Acum puneți mâna la spate, la nivelul taliei, ușor.
+SPEAKER_01: Aaah, asta doare mai tare, nu pot să duc mâna sus la spate.
+SPEAKER_00: Înțeles. Stați puțin, apăs ușor pe zona de aici, pe tendonul supraspinatos. Spuneți-mi dacă doare.
+SPEAKER_01: Da, acolo doare, da. Exact acolo.
+SPEAKER_00: Punctul de maximă sensibilitate pe supraspinatos. Și dacă apăs acum puțin mai sus, pe trapez, cum e?
+SPEAKER_01: Și acolo e tensionat, dar nu doare la fel de tare.
+SPEAKER_00: Mai mult tensiune, nu durere acută. Înțeles. O să vă mai rog să faceți o mișcare: aduceți brațul drept în față și apăsați împotriva mânii mele, împingeți înainte. Simțiți slăbiciune?
+SPEAKER_01: Păi nu știu dacă e slăbiciune, dar nu pot să apăs ca de obicei, parcă nu are forță.
+SPEAKER_00: Da, avem o reducere a forței în abducție. Bun, am înțeles tabloul. Zona cervicală, sus la gât, doare?
+SPEAKER_01: Nu, gâtul nu mă deranjează, nu.
+SPEAKER_00: Bine. Deci ce vedem noi aici este o inflamație la nivelul tendoanelor manșonului rotator al umărului drept, cel mai probabil tendonul supraspinatos este cel mai afectat. Mobilitatea este redusă la 90 de grade atât în flexie cât și în abducție, și avem și o ușoară scădere a forței musculare. Obiectivul nostru principal va fi să reducem procesul inflamator, să recuperăm mobilitatea umărului și să creștem forța musculară. Vom lucra progresiv, nu vă fac nimic brusc. Aveți întrebări înainte să începem?
+SPEAKER_01: Nu, să mergem, v-am înțeles.
+SPEAKER_00: Perfect, haideți pe masă atunci.

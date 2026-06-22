@@ -1,0 +1,265 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 6.36,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi."
+    },
+    {
+      "start": 6.48,
+      "end": 18.26,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare umărul drept de ceva vreme și sincer nu știu ce să mai fac cu el. Am încercat tot felul de lucruri, un gel, nimic nu ajută de fapt."
+    },
+    {
+      "start": 18.38,
+      "end": 20.28,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp vă doare?"
+    },
+    {
+      "start": 20.4,
+      "end": 35.98,
+      "speaker": "SPEAKER_01",
+      "text": "Cam de vreo trei săptămâni, poate patru. Adică a început mai ușor, credeam că trece de la sine, știți cum e, dai o mână de ajutor vecinului, muți niște cutii, și gata. Dar nu a trecut. Ba chiar s-a agravat."
+    },
+    {
+      "start": 36.1,
+      "end": 38.76,
+      "speaker": "SPEAKER_00",
+      "text": "Deci a apărut după un efort fizic."
+    },
+    {
+      "start": 38.88,
+      "end": 48.76,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact. Am mutat niște mobilă grea cu vecinul, și a doua zi dimineață m-am trezit cu umărul blocat aproape. Nu puteam să ridic brațul."
+    },
+    {
+      "start": 48.88,
+      "end": 52.3,
+      "speaker": "SPEAKER_00",
+      "text": "Și acum, în momentul de față, puteți ridica brațul?"
+    },
+    {
+      "start": 52.42,
+      "end": 67.62,
+      "speaker": "SPEAKER_01",
+      "text": "Îl ridic, da, dar mă doare. Mai ales când îl duc în sus sau în spate, știți, ca atunci când vrei să ajungi la ceva pe raft sau să te îmbraci. Dimineața e cel mai rău, mă chinui cu haina."
+    },
+    {
+      "start": 67.74,
+      "end": 79.14,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 înseamnă că doare insuportabil, cum ați descrie durerea în momentul cel mai rău?"
+    },
+    {
+      "start": 79.26,
+      "end": 85.34,
+      "speaker": "SPEAKER_01",
+      "text": "Când îl forțez în sus, un 7. Când stau liniștit, e pe la 3, mai suportabil."
+    },
+    {
+      "start": 85.46,
+      "end": 94.2,
+      "speaker": "SPEAKER_00",
+      "text": "Deci un 7 la mișcare și un 3 în repaus. Durerea rămâne localizată la umăr sau se lasă și pe braț, pe gât?"
+    },
+    {
+      "start": 94.32,
+      "end": 105.34,
+      "speaker": "SPEAKER_01",
+      "text": "Rămâne la umăr, dar câteodată simt ceva și pe partea din față, chiar sub guler, nu știu cum să spun. Și pe braț în jos câteodată, dar nu mereu."
+    },
+    {
+      "start": 105.46,
+      "end": 109.64,
+      "speaker": "SPEAKER_00",
+      "text": "Pe braț mai jos de cot sau doar până la cot?"
+    },
+    {
+      "start": 109.76,
+      "end": 112.8,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, mai sus, pe... pe biceps, acolo."
+    },
+    {
+      "start": 112.92,
+      "end": 116.34,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Amorțeală sau furnicături pe mână sau degete?"
+    },
+    {
+      "start": 116.46,
+      "end": 117.98,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, asta nu."
+    },
+    {
+      "start": 118.1,
+      "end": 120.76,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Ce gel ați folosit, mai știți?"
+    },
+    {
+      "start": 120.88,
+      "end": 136.08,
+      "speaker": "SPEAKER_01",
+      "text": "Am pus un Voltaren, de la farmacie. Și soția mi-a dat și un Ibuprofen o dată sau de două ori, că mă durea tare noaptea. Dar nu am luat regulat, că nu-mi place să mă încarc cu pastile."
+    },
+    {
+      "start": 136.2,
+      "end": 140.0,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Luați altceva în mod regulat, vreo pastilă zilnică?"
+    },
+    {
+      "start": 140.12,
+      "end": 148.1,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Sunt relativ sănătos, slavă Domnului. Tensiune am verificat luna trecută, era bine. Diabet nu am, nu am nimic special."
+    },
+    {
+      "start": 148.22,
+      "end": 152.02,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Ați mai avut probleme la același umăr în trecut?"
+    },
+    {
+      "start": 152.14,
+      "end": 162.4,
+      "speaker": "SPEAKER_01",
+      "text": "Nu la umăr. Am avut o dată ceva la gât, acum vreo doi ani, dar a trecut repede, câteva zile și gata. La umăr e prima dată."
+    },
+    {
+      "start": 162.52,
+      "end": 165.56,
+      "speaker": "SPEAKER_00",
+      "text": "Operații sau traumatisme mai vechi la umăr, fractură?"
+    },
+    {
+      "start": 165.68,
+      "end": 167.58,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată. Noroc că nu."
+    },
+    {
+      "start": 167.7,
+      "end": 173.02,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să verificăm puțin. Ridicați brațul drept în față pentru mine, ușor, cât puteți."
+    },
+    {
+      "start": 173.14,
+      "end": 176.18,
+      "speaker": "SPEAKER_01",
+      "text": "Merge până... cam până aici, nu mai pot."
+    },
+    {
+      "start": 176.3,
+      "end": 177.1,
+      "speaker": "SPEAKER_00",
+      "text": "Doare acum?"
+    },
+    {
+      "start": 177.22,
+      "end": 179.5,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, exact acolo sus doare."
+    },
+    {
+      "start": 179.62,
+      "end": 182.28,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Acum duceți-l lateral, în lateral."
+    },
+    {
+      "start": 182.4,
+      "end": 185.06,
+      "speaker": "SPEAKER_01",
+      "text": "Lateral e și mai rău, uite, abia..."
+    },
+    {
+      "start": 185.18,
+      "end": 196.2,
+      "speaker": "SPEAKER_00",
+      "text": "Am văzut. Există o limitare clară a abducției, undeva pe la 90 de grade apare durerea. Acum puneți mâna la spate, ca și cum vreți să ajungeți la fermoar."
+    },
+    {
+      "start": 196.32,
+      "end": 203.92,
+      "speaker": "SPEAKER_01",
+      "text": "Aoleu, asta nu pot deloc. Adică ajung până pe la mijlocul spatelui și gata, nu mai merge și mă doare."
+    },
+    {
+      "start": 204.04,
+      "end": 209.36,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Apăs puțin pe umăr, pe zona de sub acromion, spuneți-mi dacă doare."
+    },
+    {
+      "start": 209.48,
+      "end": 212.52,
+      "speaker": "SPEAKER_01",
+      "text": "Da, doare acolo, exact. Și în față puțin."
+    },
+    {
+      "start": 212.64,
+      "end": 216.44,
+      "speaker": "SPEAKER_00",
+      "text": "Tensionez mușchiul rotator... spuneți-mi dacă simțiți durere când rezistați."
+    },
+    {
+      "start": 216.56,
+      "end": 221.88,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, simt. E și o slăbiciune parcă, nu pot să țin cum trebuie."
+    },
+    {
+      "start": 222.0,
+      "end": 239.1,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Avem de-a face, cel mai probabil, cu o inflamație la nivelul tendonului supraspinatus și al bursei subacromiale, un sindrom de impingement subacromial. Obiectivul nostru va fi să reducem inflamația, să recuperăm mobilitatea umărului și să reantrenăm musculatura rotatoare ca să nu recidiveze."
+    },
+    {
+      "start": 239.22,
+      "end": 245.3,
+      "speaker": "SPEAKER_01",
+      "text": "Deci e ceva grav? Că mă temeam că am rupt ceva acolo când am mutat mobila."
+    },
+    {
+      "start": 245.42,
+      "end": 260.62,
+      "speaker": "SPEAKER_00",
+      "text": "Nu pare o ruptură, mișcările sunt prezente, doar dureroase și limitate. Dacă ar fi o ruptură completă, forța ar fi mult mai redusă. Dar vom vedea cum răspunde la terapie și dacă e nevoie vă trimitem să faceți un RMN."
+    },
+    {
+      "start": 260.74,
+      "end": 265.68,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, bine. Mă liniștit puțin. Și de câte ședințe credeți că am nevoie?"
+    },
+    {
+      "start": 265.8,
+      "end": 272.64,
+      "speaker": "SPEAKER_00",
+      "text": "Să vedem cum răspundeți la primele 2-3 ședințe și atunci putem vorbi mai exact. Haideți să începem."
+    }
+  ]
+}

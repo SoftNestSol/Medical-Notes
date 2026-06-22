@@ -1,0 +1,265 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, cu ce problemă vă confruntați?"
+    },
+    {
+      "start": 2.78,
+      "end": 20.64,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua. Păi, uite, am o durere în zona lombară, mai jos de mijloc, de vreo două săptămâni. Adică nu e prima dată când mă doare acolo, mai am eu episoade din astea, dar de data asta e mai rău ca de obicei și nu îmi trece."
+    },
+    {
+      "start": 20.76,
+      "end": 29.5,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e cel mai rău, unde o situați?"
+    },
+    {
+      "start": 29.62,
+      "end": 43.3,
+      "speaker": "SPEAKER_01",
+      "text": "Aș zice un 7. Adică nu e că nu pot să merg, pot să merg, dar mă ține constant. Seara e mai rău, mai ales când stau culcat și vreau să mă întorc pe o parte."
+    },
+    {
+      "start": 43.42,
+      "end": 48.36,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Durerea rămâne doar jos în spate sau se lasă și pe picior?"
+    },
+    {
+      "start": 48.48,
+      "end": 74.7,
+      "speaker": "SPEAKER_01",
+      "text": "Păi uneori simt ceva și pe piciorul stâng, mai jos, spre fesă și pe coapsă. Nu tot timpul, dar mai ales când stau jos mult timp, la birou. Lucrez la birou, stau câte opt ore, nouă ore pe zi și... asta cred că e problema de fapt, că stau prea mult. Soția mea îmi tot zice să mă ridic mai des, dar nu am cum, că am termene, înțelegeți?"
+    },
+    {
+      "start": 74.82,
+      "end": 79.0,
+      "speaker": "SPEAKER_00",
+      "text": "Da, da. Și amorțeală simțiți pe picior, sau e doar durere?"
+    },
+    {
+      "start": 79.12,
+      "end": 91.66,
+      "speaker": "SPEAKER_01",
+      "text": "Amorțeală nu prea. Adică uneori când stau foarte mult jos simt că parcă îmi amorțește un pic piciorul stâng, dar nu știu dacă asta e de la durere sau de la cum stau."
+    },
+    {
+      "start": 91.78,
+      "end": 95.96,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și durerea asta a apărut brusc sau a venit treptat?"
+    },
+    {
+      "start": 96.08,
+      "end": 120.4,
+      "speaker": "SPEAKER_01",
+      "text": "Treptat, treptat. Adică acum două săptămâni m-am dus la sală, am ridicat niște greutăți, genuflexiuni cu bara, și a doua zi dimineață m-am trezit și nu prea mă puteam îndrepta. Dar eu mai fac sală, nu e prima dată. Poate am exagerat puțin cu greutatea. Mă gândeam că o să-mi treacă în câteva zile ca de obicei, dar iată că nu."
+    },
+    {
+      "start": 120.52,
+      "end": 123.18,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai avut episoade similare în trecut?"
+    },
+    {
+      "start": 123.3,
+      "end": 138.88,
+      "speaker": "SPEAKER_01",
+      "text": "Da, de câteva ori. Primul a fost acum vreo patru ani, după ce am mutat niște mobilă. Atunci a fost mai rău, am stat în pat trei zile. Acum e mai suportabil, dar mai lung. Și mă îngrijorează că nu trece."
+    },
+    {
+      "start": 139.0,
+      "end": 145.08,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Aveți și alte dureri în corp în afara de zona lombară și piciorul stâng?"
+    },
+    {
+      "start": 145.2,
+      "end": 158.88,
+      "speaker": "SPEAKER_01",
+      "text": "Păi mai am uneori ceva la gât, mai ales după ce dorm prost sau stau la calculator cu capul în față. Dar asta nu mă deranjează atât de mult acum. Cel mai mult mă deranjează jos."
+    },
+    {
+      "start": 159.0,
+      "end": 163.56,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Spuneți-mi, aveți boli cunoscute? Tensiune, diabet, ceva de genul acesta?"
+    },
+    {
+      "start": 163.68,
+      "end": 176.98,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. De vreo trei ani mi-a zis medicul de familie că am tensiunea puțin ridicată. Iau și tratament pentru asta. Altceva nu știu să am, cel puțin nu mi-a zis nimeni."
+    },
+    {
+      "start": 177.1,
+      "end": 179.38,
+      "speaker": "SPEAKER_00",
+      "text": "Și ce tratament luați pentru tensiune?"
+    },
+    {
+      "start": 179.5,
+      "end": 184.06,
+      "speaker": "SPEAKER_01",
+      "text": "Iau Prestarium, 5 miligrame, o pastilă pe zi dimineața. Asta e tot."
+    },
+    {
+      "start": 184.18,
+      "end": 186.46,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Altceva nu luați, antiinflamatoare, calmante?"
+    },
+    {
+      "start": 186.58,
+      "end": 199.5,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat Ibuprofen câteva zile când m-a apucat, câte un 400, dar nu prea ajută. Am mai pus și un gel, Fastum gel, pe acolo, seara. Mai dă ceva, dar tot mă ține."
+    },
+    {
+      "start": 199.62,
+      "end": 203.04,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Ați făcut investigații imagistice? RMN, radiografii la coloană?"
+    },
+    {
+      "start": 203.16,
+      "end": 228.24,
+      "speaker": "SPEAKER_01",
+      "text": "Am făcut o radiografie acum vreo doi ani, mi-a zis medicul că am o ușoară scolioză lombară, nu mare, dar că e acolo. Nu am făcut RMN niciodată. Mă gândeam să fac acum, că mă tot gândesc că o fi ceva mai grav. Sincer mă sperie ideea de hernie de disc, am un coleg la serviciu care a pățit și a stat trei luni acasă."
+    },
+    {
+      "start": 228.36,
+      "end": 230.26,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg, da. Aveți câți ani?"
+    },
+    {
+      "start": 230.38,
+      "end": 231.18,
+      "speaker": "SPEAKER_01",
+      "text": "38."
+    },
+    {
+      "start": 231.3,
+      "end": 232.82,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Greutatea dumneavoastră, înălțimea?"
+    },
+    {
+      "start": 232.94,
+      "end": 242.44,
+      "speaker": "SPEAKER_01",
+      "text": "85 de kilograme, 1 metru 80. Nu sunt supraponderal, dar am mai luat câteva kilograme în ultimii doi ani de când am trecut pe telemuncă."
+    },
+    {
+      "start": 242.56,
+      "end": 248.64,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să facem câteva teste. Stați drept așa. Vă las să vă aplecați înainte, încet. Doare?"
+    },
+    {
+      "start": 248.76,
+      "end": 252.56,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da. Trage jos și simt ceva și pe stânga."
+    },
+    {
+      "start": 252.68,
+      "end": 257.24,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și pe spate, vă dați capul pe spate, extensie. Cum simțiți?"
+    },
+    {
+      "start": 257.36,
+      "end": 260.4,
+      "speaker": "SPEAKER_01",
+      "text": "Asta merge mai bine, nu doare la fel."
+    },
+    {
+      "start": 260.52,
+      "end": 267.36,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Acum stați pe masa de examinare, cu fața în sus. Ridic piciorul stâng. Spuneți-mi când doare."
+    },
+    {
+      "start": 267.48,
+      "end": 272.42,
+      "speaker": "SPEAKER_01",
+      "text": "Acolo, da, la vreo 45 de grade, trage pe piciorul stâng în jos."
+    },
+    {
+      "start": 272.54,
+      "end": 279.0,
+      "speaker": "SPEAKER_00",
+      "text": "Deci avem un Lasègue pozitiv pe stânga la aproximativ 45 de grade. Piciorul drept îl ridic, doare?"
+    },
+    {
+      "start": 279.12,
+      "end": 280.26,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, dreptul nu."
+    },
+    {
+      "start": 280.38,
+      "end": 284.56,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Apăs acum pe zona lombară paravertebral, spuneți-mi dacă doare."
+    },
+    {
+      "start": 284.68,
+      "end": 286.96,
+      "speaker": "SPEAKER_01",
+      "text": "Da, pe stânga doare mai mult."
+    },
+    {
+      "start": 287.08,
+      "end": 310.64,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Deci avem o contractură paravertebrală lombară mai accentuată pe stânga și un test Lasègue pozitiv pe membrul inferior stâng. Ținând cont de istoricul dumneavoastră, de episoadele repetate, de munca sedentară, de activitatea la sală, aș recomanda să faceți un RMN lombar ca să excludem sau să confirmăm o eventuală hernie de disc. Clinic, semnele sugerează o iritație radiculară la nivelul lombosacralului."
+    },
+    {
+      "start": 310.76,
+      "end": 312.66,
+      "speaker": "SPEAKER_01",
+      "text": "Deci ar putea fi hernie?"
+    },
+    {
+      "start": 312.78,
+      "end": 326.46,
+      "speaker": "SPEAKER_00",
+      "text": "Posibil, da, dar nu putem spune sigur fără RMN. Ceea ce putem face noi este să reducem contractura musculară, să lucrăm pe mobilitate lombară și să ameliorăm durerea. Și în paralel vă recomand să faceți investigația."
+    },
+    {
+      "start": 326.58,
+      "end": 329.62,
+      "speaker": "SPEAKER_01",
+      "text": "Da, înțeleg. Și cu sala? Mă mai duc?"
+    },
+    {
+      "start": 329.74,
+      "end": 336.2,
+      "speaker": "SPEAKER_00",
+      "text": "Deocamdată nu genuflexiuni cu greutăți, nu. Pauză la exercițiile cu compresie axială. Mersul, înotul, mișcare ușoară, da."
+    },
+    {
+      "start": 336.32,
+      "end": 338.98,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, da. Și o să îmi treacă?"
+    },
+    {
+      "start": 339.1,
+      "end": 344.42,
+      "speaker": "SPEAKER_00",
+      "text": "Cu tratamentul potrivit și cu investigațiile făcute, da, prognosticul e bun. Haideți să începem."
+    }
+  ]
+}

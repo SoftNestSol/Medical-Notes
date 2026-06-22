@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_191",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele",
+      "De jos",
+      "Am ridicat niște saci",
+      "Vreo două săptămâni",
+      "Mai mult când mă ridic sau când mă aplec",
+      "E mai bine"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7"
+    ],
+    "localizarea_durerii": [
+      "De jos",
+      "rămâne acolo"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Am tensiune"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Enalapril",
+      "10 miligrame"
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd o contractură paravertebrală lombară, mai accentuată pe stânga",
+      "Mobilitate lombară limitată în flexie",
+      "Pare o lombalgie acută mecanică, cel mai probabil declanșată de ridicarea acelor saci",
+      "O să lucrăm să reducem contractura și să redăm mobilitatea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22783,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1873,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

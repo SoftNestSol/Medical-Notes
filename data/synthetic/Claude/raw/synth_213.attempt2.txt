@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și ce ați făcut în perioada aia, ceva anume?\nSPEAKER_01: Am mutat niște cutii. Cărăm la birou.\nSPEAKER_00: Înțeleg. Doare tot timpul sau doar când mișcați mâna?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Sus, lateral, sau în față?\nSPEAKER_01: Așa, lateral. Și în față mai puțin.\nSPEAKER_00: Și dacă duceți mâna la spate, doare?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Noaptea vă deranjează, vă treziți din somn?\nSPEAKER_01: Uneori.\nSPEAKER_00: Când stați pe partea dreaptă?\nSPEAKER_01: Da.\nSPEAKER_00: Înțeles. Amorțeală în braț, în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală. Bun. Aveți tensiune, diabet, osteoporoză, ceva de genul?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun anti-inflamator, nimic?\nSPEAKER_01: Nu, nu am luat.\nSPEAKER_00: Bun. Haideți să vedem puțin. Ridicați mâna dreaptă lateral, încet.\nSPEAKER_01: Până pe aici pot.\nSPEAKER_00: Deci până pe la 80 de grade cam așa, și blochează?\nSPEAKER_01: Da, doare mai tare de acolo.\nSPEAKER_00: Și dacă duc eu mâna mai departe?\nSPEAKER_01: Au. Da, doare.\nSPEAKER_00: Înțeleg. Arc dureros, se numește. Acum întoarceți-vă cu spatele la mine. Apăs puțin pe umăr aici, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Exact pe supraspinos. Bun. Deci avem cel mai probabil o tendinită la nivelul coifului rotatorilor, pe supraspinos. Asta vine din cărătura aceea. Trebuie să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Și trece?\nSPEAKER_00: Da, cu câteva ședințe ar trebui să fie mult mai bine. Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa cararat cutii, de aproximativ doua saptamani. Durere la abductie si rotatie posterioara, cu arc dureros la circa 80 de grade. Trezire nocturna la decubit pe partea dreapta.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinita coif rotatori, supraspinos umar drept; arc dureros la ~80 grade abductie.\nObiective terapeutice:\n- reducerea inflamatiei; recuperarea mobilitatii umarului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Vreo două săptămâni.", "Am mutat niște cutii. Cărăm la birou.", "Când ridic mâna.", "Și dacă duceți mâna la spate, doare?", "Da, și atunci.", "Uneori.", "Când stați pe partea dreaptă?", "Da."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu, nu am luat."],
+    "evaluare_functionala_initiala": ["Arc dureros, se numește.", "Exact pe supraspinos.", "avem cel mai probabil o tendinită la nivelul coifului rotatorilor, pe supraspinos.", "Trebuie să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

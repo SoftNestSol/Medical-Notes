@@ -1,0 +1,319 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 3.74,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi numele, vă rog."
+    },
+    {
+      "start": 3.86,
+      "end": 4.66,
+      "speaker": "SPEAKER_01",
+      "text": "Mihai Stan."
+    },
+    {
+      "start": 4.78,
+      "end": 7.82,
+      "speaker": "SPEAKER_00",
+      "text": "Domnule Stan, cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 7.94,
+      "end": 9.08,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare umărul."
+    },
+    {
+      "start": 9.2,
+      "end": 10.0,
+      "speaker": "SPEAKER_00",
+      "text": "Care umăr?"
+    },
+    {
+      "start": 10.12,
+      "end": 10.92,
+      "speaker": "SPEAKER_01",
+      "text": "Cel drept."
+    },
+    {
+      "start": 11.04,
+      "end": 12.18,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp?"
+    },
+    {
+      "start": 12.3,
+      "end": 13.44,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo trei săptămâni."
+    },
+    {
+      "start": 13.56,
+      "end": 18.5,
+      "speaker": "SPEAKER_00",
+      "text": "Trei săptămâni. Și a apărut după ceva anume, după un efort, o lovitură?"
+    },
+    {
+      "start": 18.62,
+      "end": 24.32,
+      "speaker": "SPEAKER_01",
+      "text": "Am cărat niște cutii grele la muncă. A doua zi m-am trezit cu durerea."
+    },
+    {
+      "start": 24.44,
+      "end": 29.76,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Și de atunci a rămas constantă sau mai vine și mai pleacă?"
+    },
+    {
+      "start": 29.88,
+      "end": 33.3,
+      "speaker": "SPEAKER_01",
+      "text": "Mai vine și mai pleacă. Dimineața e mai rău."
+    },
+    {
+      "start": 33.42,
+      "end": 41.02,
+      "speaker": "SPEAKER_00",
+      "text": "Dimineața e mai rău. Pe o scară de la 0 la 10, cum ați situa durerea când e la maxim?"
+    },
+    {
+      "start": 41.14,
+      "end": 41.94,
+      "speaker": "SPEAKER_01",
+      "text": "Un 6."
+    },
+    {
+      "start": 42.06,
+      "end": 44.34,
+      "speaker": "SPEAKER_00",
+      "text": "6. Și când e mai liniștit?"
+    },
+    {
+      "start": 44.46,
+      "end": 45.6,
+      "speaker": "SPEAKER_01",
+      "text": "Poate 2, 3."
+    },
+    {
+      "start": 45.72,
+      "end": 50.66,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Doare local în umăr sau se lasă și pe braț în jos?"
+    },
+    {
+      "start": 50.78,
+      "end": 54.2,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori se lasă pe braț, până pe la cot."
+    },
+    {
+      "start": 54.32,
+      "end": 56.6,
+      "speaker": "SPEAKER_00",
+      "text": "Până pe la cot. Amorțeală avem?"
+    },
+    {
+      "start": 56.72,
+      "end": 57.52,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 57.64,
+      "end": 62.2,
+      "speaker": "SPEAKER_00",
+      "text": "Nu. Ridică brațul pentru mine, ușor, atât cât poți. Stop. Doare acum?"
+    },
+    {
+      "start": 62.32,
+      "end": 63.12,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da."
+    },
+    {
+      "start": 63.24,
+      "end": 64.76,
+      "speaker": "SPEAKER_00",
+      "text": "Unde simțiți durerea exact?"
+    },
+    {
+      "start": 64.88,
+      "end": 66.78,
+      "speaker": "SPEAKER_01",
+      "text": "Aici, în față, la umăr."
+    },
+    {
+      "start": 66.9,
+      "end": 72.22,
+      "speaker": "SPEAKER_00",
+      "text": "În partea anterioară a umărului. Ok. Dacă ridici brațul în lateral, până unde ajungi?"
+    },
+    {
+      "start": 72.34,
+      "end": 75.76,
+      "speaker": "SPEAKER_01",
+      "text": "Pe la 90 de grade, după aia se blochează."
+    },
+    {
+      "start": 75.88,
+      "end": 77.4,
+      "speaker": "SPEAKER_00",
+      "text": "Se blochează și doare?"
+    },
+    {
+      "start": 77.52,
+      "end": 78.32,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 78.44,
+      "end": 81.1,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Când dormiți pe umărul drept?"
+    },
+    {
+      "start": 81.22,
+      "end": 82.74,
+      "speaker": "SPEAKER_01",
+      "text": "Nu pot, mă trezesc."
+    },
+    {
+      "start": 82.86,
+      "end": 87.8,
+      "speaker": "SPEAKER_00",
+      "text": "Vă treziți din somn. Haideți să apăs puțin aici pe tendonul bicepsului. Doare?"
+    },
+    {
+      "start": 87.92,
+      "end": 89.06,
+      "speaker": "SPEAKER_01",
+      "text": "Da, chiar acolo."
+    },
+    {
+      "start": 89.18,
+      "end": 93.74,
+      "speaker": "SPEAKER_00",
+      "text": "Chiar acolo. Și dacă apăs lateral, pe mușchiul supraspinos, sus pe umăr?"
+    },
+    {
+      "start": 93.86,
+      "end": 95.76,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, acolo mai tare."
+    },
+    {
+      "start": 95.88,
+      "end": 99.3,
+      "speaker": "SPEAKER_00",
+      "text": "Mai tare acolo. Ok. Tensiune, diabet, vreo altă afecțiune?"
+    },
+    {
+      "start": 99.42,
+      "end": 100.22,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic."
+    },
+    {
+      "start": 100.34,
+      "end": 101.48,
+      "speaker": "SPEAKER_00",
+      "text": "Luați ceva medicamente?"
+    },
+    {
+      "start": 101.6,
+      "end": 102.4,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 102.52,
+      "end": 104.42,
+      "speaker": "SPEAKER_00",
+      "text": "Niciun fel de pastile, supliment?"
+    },
+    {
+      "start": 104.54,
+      "end": 105.34,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic."
+    },
+    {
+      "start": 105.46,
+      "end": 108.88,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ați mai avut probleme la umărul ăsta înainte?"
+    },
+    {
+      "start": 109.0,
+      "end": 110.14,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, prima dată."
+    },
+    {
+      "start": 110.26,
+      "end": 114.44,
+      "speaker": "SPEAKER_00",
+      "text": "Prima dată. Stați mult la birou sau în ce constă munca?"
+    },
+    {
+      "start": 114.56,
+      "end": 116.08,
+      "speaker": "SPEAKER_01",
+      "text": "Depozit, car, ridic cutii."
+    },
+    {
+      "start": 116.2,
+      "end": 123.42,
+      "speaker": "SPEAKER_00",
+      "text": "Deci efort fizic zilnic cu brațele. Am înțeles. Rotație internă, dacă îți duci mâna la spate, ajungi până unde?"
+    },
+    {
+      "start": 123.54,
+      "end": 125.06,
+      "speaker": "SPEAKER_01",
+      "text": "Până la brâu cam."
+    },
+    {
+      "start": 125.18,
+      "end": 151.4,
+      "speaker": "SPEAKER_00",
+      "text": "Până la brâu. Bun. O să îți spun ce observ. Avem o limitare a mobilității umărului drept, mai ales la ridicarea laterală și la rotație. Durerea anterioară și sensibilitatea pe supraspinos sugerează o inflamație la nivelul coafei rotatorilor, probabil tendinită de supraspinos cu posibilă iritație a tendonului bicepsului. Obiectivul nostru o să fie să reducem inflamația, să recăpătăm mobilitatea și să întărim zona ca să nu se mai repete."
+    },
+    {
+      "start": 151.52,
+      "end": 152.32,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 152.44,
+      "end": 153.96,
+      "speaker": "SPEAKER_00",
+      "text": "Începem chiar de azi?"
+    },
+    {
+      "start": 154.08,
+      "end": 154.88,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    }
+  ]
+}

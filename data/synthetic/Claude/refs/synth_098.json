@@ -1,0 +1,27 @@
+{
+  "motivul_prezentarii": "Durere lombară joasă cu iradiere pe fesa dreaptă și uneori pe piciorul drept, cu debut insidios de aproximativ o lună. Agravată dimineața la trezire, după statul prelungit pe scaun și la aplecare/ridicare. Pacient cu muncă sedentară (8-9 ore/zi la calculator).",
+  "evaluarea_durerii_vas": null,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": "fesa dreaptă, picior drept",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Amlodipină",
+      "doza": "5 mg"
+    },
+    {
+      "denumire": "Rosuvastatina",
+      "doza": null
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUmăr drept mai jos, bazin ușor înclinat. Instabilitate la statul pe piciorul drept comparativ cu stângul. Test Lasègue pozitiv pe dreapta la aproximativ 50-60 de grade cu accentuarea durerii lombare. Test Lasègue negativ pe stânga. Contractură musculară lombară și tensionare piriform și fesieri.\nDiagnostic:\nLombalgie cu componentă radiculară dreaptă, posibil L5-S1. Posibilă protruzie discală (de confirmat prin RMN). Contractură musculară paravertebrală lombară, piriform și fesieri.\nObiective terapeutice:\nReducerea inflamației și a contracturii musculare; mobilizarea zonei lombare; decompresie radiculară; recomandare RMN lombar."
+}

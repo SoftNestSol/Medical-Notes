@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți astăzi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Ceva anume s-a întâmplat, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște cutii.\nSPEAKER_00: Deci de la efort.\nSPEAKER_01: Da.\nSPEAKER_00: Doare constant sau numai când vă mișcați?\nSPEAKER_01: Când mă mișc mai mult. Când stau jos trece.\nSPEAKER_00: Durerea se lasă și pe picior sau e doar în spate?\nSPEAKER_01: Doar în spate.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât e durerea acum?\nSPEAKER_01: Șase.\nSPEAKER_00: Șase. Și la mișcare, crește?\nSPEAKER_01: Da, poate șapte.\nSPEAKER_00: Ok. Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți tensiune, diabet, osteoporoză, ceva de genul?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Luați medicamente pentru tensiune?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: Zece miligrame.\nSPEAKER_00: Zilnic?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai avut episoade de durere lombară înainte?\nSPEAKER_01: Acum doi ani, ceva similar.\nSPEAKER_00: Și a trecut de la sine?\nSPEAKER_01: Da, în vreo săptămână.\nSPEAKER_00: Ați făcut vreo investigație, RMN, radiografie?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să vă văd puțin cum stați în picioare. Stați relaxat, mâinile pe lângă corp.\nSPEAKER_01: Bine.\nSPEAKER_00: Văd că aveți bazinul puțin aplecat înainte. O să apăs acum pe zona lombară, îmi spuneți dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Pe dreapta sau pe stânga mai mult?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Aplecați-vă puțin în față.\nSPEAKER_01: Doare la aplecat.\nSPEAKER_00: Da, văd că e limitată mișcarea. Bun, puteți să vă îndreptați.\nSPEAKER_01: Ok.\nSPEAKER_00: Avem o contractură paravertebrală lombară, mai pronunțată pe dreapta. O să lucrăm să reducem inflamația și să eliberăm musculatura. Câteva ședințe ar trebui să fie suficiente.\nSPEAKER_01: Bine.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută după efort fizic (mutat cutii), de aproximativ două săptămâni, accentuată la mișcare, mai pronunțată pe partea dreaptă.",
+    "evaluarea_durerii_vas": [6, 7],
+    "localizarea_durerii": ["lombar"],
+    "localizarea_durerii_alta": null,
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": "Episod similar de lombalgie în urmă cu doi ani, remis spontan în aproximativ o săptămână.",
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame zilnic"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nBazin ușor anteversat. Contractură paravertebrală lombară, mai pronunțată pe dreapta. Durere la palpare lombară dreaptă. Limitarea flexiei anterioare a trunchiului.\nObiective terapeutice:\nReducerea inflamației și a contracturii musculare paravertebrale lombare; refacerea amplitudinii de mișcare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele.", "Jos.", "Am mutat niște cutii.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Șase.", "Da, poate șapte."],
+    "localizarea_durerii": ["Doar în spate.", "Da, acolo doare."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": ["Acum doi ani, ceva similar.", "Da, în vreo săptămână."],
+    "medicatie_actuala": ["Da, Enalapril.", "Zece miligrame.", "Da."],
+    "evaluare_functionala_initiala": ["Văd că aveți bazinul puțin aplecat înainte.", "Pe dreapta mai mult?", "Pe dreapta.", "Da, văd că e limitată mișcarea.", "Avem o contractură paravertebrală lombară, mai pronunțată pe dreapta. O să lucrăm să reducem inflamația și să eliberăm musculatura."]
+  }
+}

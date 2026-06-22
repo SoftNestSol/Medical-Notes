@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. A fost vreo lovitură, ceva?\nSPEAKER_01: Nu știu, nu cred.\nSPEAKER_00: S-a întâmplat ceva, ați ridicat ceva greu?\nSPEAKER_01: Păi am mutat niște mobilă.\nSPEAKER_00: Aha, deci după ce ați mutat mobila a început?\nSPEAKER_01: Da.\nSPEAKER_00: Și doare tot timpul sau numai când mișcați brațul?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Când ridicați. Mai sus de orizontală sau și mai jos?\nSPEAKER_01: Mai sus.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare maxim, pe unde vă situați?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Doare și în repaus, când stați liniștit?\nSPEAKER_01: Câteodată noaptea.\nSPEAKER_00: Noaptea, da. Vă trezește din somn?\nSPEAKER_01: Da, uneori.\nSPEAKER_00: Înțeles. Amorțește brațul sau mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Alte dureri, în altă parte? Cervical, gât?\nSPEAKER_01: Nu.\nSPEAKER_00: Nimic. Luați vreun medicament acum, pastile pentru durere?\nSPEAKER_01: Iau Nurofen.\nSPEAKER_00: Nurofen. Cât, câte pe zi?\nSPEAKER_01: Una, două.\nSPEAKER_00: Una-două pe zi. Alte medicamente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Nimic. Intervenții chirurgicale la umăr sau altundeva?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să fac câteva teste. Ridicați brațul ușor în față, încet.\nSPEAKER_01: Până aici merge.\nSPEAKER_00: Da, deci la orizontală merge, mai sus deja doare. Acum în lateral.\nSPEAKER_01: Și în lateral tot cam la fel.\nSPEAKER_00: La orizontală se oprește, înțeles. Voi apăsa puțin pe zona de sus a umărului, pe acromion, spuneți-mi dacă doare.\nSPEAKER_01: Da, doare acolo.\nSPEAKER_00: Doare la apăsare. Și dacă rotesc brațul ușor spre interior, doare?\nSPEAKER_01: Da, ăsta doare mai rău.\nSPEAKER_00: Mai rău la rotație internă, da. Înțeles. Ce pot să vă spun este că pare o inflamație la nivelul manșetei rotatorilor, mai precis la supraspinat. Asta înseamnă că unul din tendoanele umărului este inflamat. Va trebui să reducem inflamația și să refacem mobilitatea umărului. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": "1-2 pe zi"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: - inflamatie manseta rotatorilor, supraspinat\nObiective terapeutice: - reducerea inflamatiei;\n- refacerea mobilitatii umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Iau Nurofen.", "Una, două."],
+    "evaluare_functionala_initiala": ["pare o inflamație la nivelul manșetei rotatorilor, mai precis la supraspinat", "Va trebui să reducem inflamația și să refacem mobilitatea umărului."]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Spatele, zona de jos sau zona de sus?\nSPEAKER_01: De jos.\nSPEAKER_00: Lombar. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. A apărut din senin sau ați ridicat ceva, ați făcut un efort?\nSPEAKER_01: Am ridicat niște saci.\nSPEAKER_00: Saci. Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde o situați?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Mai mult când mă ridic sau când mă aplec.\nSPEAKER_00: Când stați culcat?\nSPEAKER_01: E mai bine.\nSPEAKER_00: Durerea rămâne în spate sau se lasă undeva, pe picior?\nSPEAKER_01: Nu, rămâne acolo.\nSPEAKER_00: Rămâne local. Bun. Amorțesc picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Aveți vreo afecțiune, tensiune, diabet, ceva de coloană diagnosticat?\nSPEAKER_01: Am tensiune.\nSPEAKER_00: Tensiune arterială. Luați medicamente pentru asta?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: 10 miligrame, zilnic?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Alergii la medicamente?\nSPEAKER_01: Nu.\nSPEAKER_00: Fracturi, operații?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să stați în picioare, cu spatele la mine, relaxat.\nSPEAKER_01: Ok.\nSPEAKER_00: Aplecați-vă încet în față.\nSPEAKER_01: Au.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: La ce unghi aproximativ, la jumătate?\nSPEAKER_01: Cam da.\nSPEAKER_00: Și înapoi, extensie, doare?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin. Bun, puteți să vă întindeți pe masă cu fața în jos?\nSPEAKER_01: Da.\nSPEAKER_00: Apăs paravertebral stânga, doare?\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Pe dreapta?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Deci mai mult pe stânga. Văd o contractură paravertebrală lombară, mai accentuată pe stânga. Mobilitate lombară limitată în flexie. Pare o lombalgie acută mecanică, cel mai probabil declanșată de ridicarea acelor saci. O să lucrăm să reducem contractura și să redăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Aveți vreo investigație, RMN, radiografie?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun, rămânem pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută în urmă cu două săptămâni după ridicare de saci, accentuată la flexie și ridicare din poziție, ameliorată în decubit.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nContractură paravertebrală lombară, mai accentuată pe stânga. Mobilitate lombară limitată în flexie. Durere la palpare paravertebral stânga > dreapta.\nDiagnostic:\nLombalgie acută mecanică, cel mai probabil declanșată de ridicarea acelor saci.\nObiective terapeutice:\nReducerea contracturii și redarea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele",
+      "De jos",
+      "Am ridicat niște saci",
+      "Vreo două săptămâni",
+      "Mai mult când mă ridic sau când mă aplec",
+      "E mai bine"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7"
+    ],
+    "localizarea_durerii": [
+      "De jos",
+      "rămâne acolo"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Am tensiune"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Enalapril",
+      "10 miligrame"
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd o contractură paravertebrală lombară, mai accentuată pe stânga",
+      "Mobilitate lombară limitată în flexie",
+      "Pare o lombalgie acută mecanică, cel mai probabil declanșată de ridicarea acelor saci",
+      "O să lucrăm să reducem contractura și să redăm mobilitatea"
+    ]
+  }
+}

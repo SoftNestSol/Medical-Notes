@@ -1,0 +1,42 @@
+{
+  "conversation_id": "synth_216",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am ridicat ceva mai greu la serviciu și după aia a început să mă doară",
+      "mă doare de vreo trei săptămâni",
+      "noaptea e cel mai rău, că mă trezesc din somn dacă stau pe partea aia"
+    ],
+    "evaluarea_durerii_vas": [
+      "Dacă stau liniștit, nu mă mișc, poate un 3, 4. Dar dacă ridic mâna sau fac o mișcare mai bruscă, ajunge la 7 ușor"
+    ],
+    "localizarea_durerii": [
+      "Dreptul, cel drept. Stângul e bine, nu am probleme acolo."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "am și luat un Voltaren gel, că am mai avut eu dureri musculare și știam de el",
+      "Voltarenul ăla l-am folosit vreo câteva zile, dar nu îl iau constant"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o limitare a mobilității active la nivelul umărului drept, cu durere la abducție și la flexie peste 90 de grade, dar mobilitatea pasivă e prezentă",
+      "Asta ne sugerează o afectare a coafei rotatorilor, cel mai probabil o tendinită sau o bursită subacromială",
+      "Obiectivul nostru acum e să reducem inflamația și să recuperăm mobilitatea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22058,
+    "inference_geo": "global",
+    "input_tokens": 314,
+    "output_tokens": 1932,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

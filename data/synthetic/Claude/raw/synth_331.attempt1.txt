@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut după ceva anume, o lovitură, un efort?\nSPEAKER_01: Păi am mutat niște mobilă.\nSPEAKER_00: Ați ridicat ceva greu.\nSPEAKER_01: Da.\nSPEAKER_00: Și de atunci a rămas?\nSPEAKER_01: Da, nu a trecut.\nSPEAKER_00: Vă doare în repaus sau mai mult când mișcați brațul?\nSPEAKER_01: Când îl ridic sus.\nSPEAKER_00: Când îl ridicați. Și când dormiți pe el doare?\nSPEAKER_01: Da, nu pot sta pe dreapta.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde vă situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Un 5. Și când ridicați brațul sus?\nSPEAKER_01: Atunci mai tare, un 7.\nSPEAKER_00: Un 7 la ridicare. Înțeles.\nSPEAKER_00: Vă doare și în zona gâtului, pe ceafă, sau e strict umărul?\nSPEAKER_01: Nu, numai umărul.\nSPEAKER_00: Strict umărul drept. Și durerea se lasă în jos pe braț?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun.\nSPEAKER_00: Haideți să vedem puțin, ridicați brațul drept în față, ușor.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Până pe la 90 de grade ajungeți. Și mai sus nu?\nSPEAKER_01: Doare.\nSPEAKER_00: Doare la continuare. Acum ridicați-l în lateral.\nSPEAKER_01: La fel, cam pe la jumătate.\nSPEAKER_00: La fel, limitare la abducție. Bun.\nSPEAKER_00: Stați puțin, apăs eu aici pe zona de deasupra umărului.\nSPEAKER_01: Ah, da, acolo doare.\nSPEAKER_00: Doare la presiune pe supraspinat.\nSPEAKER_00: Acum o să vă rog să împingeți brațul în lateral față de mine.\nSPEAKER_01: Au.\nSPEAKER_00: Doare. Bun, înțeleg situația.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, probleme cardiace?\nSPEAKER_01: Nu.\nSPEAKER_00: Fracturi la umăr vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu iau nimic.\nSPEAKER_00: Alergii la creme sau unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci, ce avem aici pare a fi o inflamație la nivelul tendonului supraspinat, cel mai probabil din cauza efortului cu mobila. Limitarea pe care o aveți la ridicarea brațului e din cauza procesului inflamator. Va trebui în primă fază să reducem inflamația, după care reluăm mobilitatea completă a umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să trecem la treabă. Vă rog să vă așezați pe masă.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept aparuta dupa efort fizic (mutat mobila), de doua saptamani",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie tendon supraspinat\nObiective terapeutice:\n- reducerea procesului inflamator;\n- refacerea mobilitatii umărului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Vreo două săptămâni.", "am mutat niște mobilă"],
+    "evaluarea_durerii_vas": ["Vreo 5.", "Atunci mai tare, un 7."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul.", "numai umărul"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu iau nimic."],
+    "evaluare_functionala_initiala": ["pare a fi o inflamație la nivelul tendonului supraspinat", "Va trebui în primă fază să reducem inflamația, după care reluăm mobilitatea completă a umărului"]
+  }
+}

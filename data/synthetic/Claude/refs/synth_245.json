@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere umar drept, cu iradiere pe brat pana la cot, limitare de mobilitate la ridicarea bratului",
+  "evaluarea_durerii_vas": [
+    5,
+    9
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "iradiere pe fata bratului drept pana la cot",
+  "antecedente": [],
+  "antecedente_altele": "gastrita in antecedente",
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren gel",
+      "doza": "la nevoie"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: inflamatie umar drept, tendinopatie coif rotator, posibila bursita subacomiala; mobilitate limitata in flexie si abductie.\nObiective terapeutice: reducerea inflamatiei; refacerea amplitudinii de miscare."
+}

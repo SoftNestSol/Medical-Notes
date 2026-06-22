@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_505",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere îngrozitoare în ceafă, de vreo zece zile acum",
+      "m-am trezit și nu mai puteam să întorc capul deloc",
+      "lucrez în contabilitate, deci toată ziua la computer",
+      "primele minute sunt groaznice, mă ridic, parcă e blocată, după vreo jumătate de oră, o oră, se mai dezmorțește",
+      "Acum vreo doi ani mai aveam ceva, dar a trecut singur după o săptămână"
+    ],
+    "evaluarea_durerii_vas": [
+      "Aș zice... un 7. Da, 7, pentru că dimineața e mai rău, seara mai suportabil, dar 7 în medie."
+    ],
+    "localizarea_durerii": [
+      "am o durere îngrozitoare în ceafă",
+      "se urcă și pe cap, adică pe ceafă și pe cap, și câteodată simt că mă apasă și deasupra"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat Nurofen câteva zile, că aveam acasă"
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți capul ușor dus în față față de linia umerilor",
+      "Se oprește, da, nu pot mai mult, mă doare",
+      "Mușchii suboccipitali sunt foarte contractați",
+      "avem o contractură musculară cervicală, probabil acutizată pe fond postural, de la munca la birou",
+      "Postura cu capul dus în față pune presiune suplimentară pe musculatura cervicală și asta explică și durerea care se urcă pe cap",
+      "Lucrăm pe relaxarea musculaturii, corectăm postura și ar trebui să vedeți îmbunătățire"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23139,
+    "inference_geo": "global",
+    "input_tokens": 362,
+    "output_tokens": 2739,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

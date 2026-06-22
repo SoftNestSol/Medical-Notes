@@ -1,0 +1,41 @@
+{
+  "conversation_id": "synth_243",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare ceafa.",
+      "Stau mult la calculator la serviciu.",
+      "Și în umărul drept un pic."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare ceafa.",
+      "Și în umărul drept un pic.",
+      "Un pic doare tot în ceafă."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "aveți o contractură destul de serioasă pe mușchii cervicali, în special pe trapez și pe suboccipitali",
+      "Limitarea de rotație pe dreapta e clară",
+      "Vom lucra să reducem contractura și să refacem mobilitatea cervicală."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13758,
+    "inference_geo": "global",
+    "input_tokens": 309,
+    "output_tokens": 1596,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

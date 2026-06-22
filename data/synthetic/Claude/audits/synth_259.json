@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_259",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare pe aici, la umăr, în zona asta, și mai jos un pic",
+      "Cam de vreo două, trei săptămâni",
+      "uneori mă trezesc dacă dorm pe partea aia",
+      "mai am un pic și la gât, în zona ceafei, dar asta e de mult",
+      "de când lucrez la birou. Ani de zile."
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum e cam... nu știu, pe la 3, 4, ceva așa",
+      "Atunci e mai rău, vreo 6, 7 poate"
+    ],
+    "localizarea_durerii": [
+      "mă doare pe aici, la umăr, în zona asta",
+      "Dreapta, pe partea dreaptă, da",
+      "mai am un pic și la gât, în zona ceafei"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am tiroidă, de vreo patru ani. Hipotiroidism, cred că se zice."
+    ],
+    "medicatie_actuala": [
+      "Euthyrox, o pastilă dimineața",
+      "75 micrograme, da, asta e"
+    ],
+    "evaluare_functionala_initiala": [
+      "Arc dureros pozitiv la abducție 80-90 grade, durere la rotație internă și la presiune anterioară",
+      "avem o inflamație la nivelul tendoanelor din umărul drept, cel mai probabil tendinita de supraspinos, cu posibilă afectare a bursei subacromiale",
+      "Obiectivul nostru în prima fază e să reducem inflamația din umăr, să decontracturăm musculatura periscapulară și să recâștigăm amplitudinea de mișcare"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13796,
+    "inference_geo": "global",
+    "input_tokens": 334,
+    "output_tokens": 3676,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

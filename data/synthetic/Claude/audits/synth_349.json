@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_349",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, ăsta din dreapta, de ceva timp",
+      "cam de vreo... poate două luni, poate mai mult"
+    ],
+    "evaluarea_durerii_vas": [
+      "un 4, poate? Nu e nici groaznică, dar nici nu o pot ignora",
+      "Atunci e mai rău, pe la 7"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, ăsta din dreapta",
+      "uneori simt că mă strânge pe aici la ceafă"
+    ],
+    "localizarea_durerii_alta": [
+      "se duce și în jos, pe braț, dar nu tot timpul",
+      "Mai mult pe față, pe partea asta de față a brațului",
+      "Cam pe la jumătate, pe acolo"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "am tiroidă. Hipotiroidism îi zice."
+    ],
+    "medicatie_actuala": [
+      "Euthyrox, iau 75 de micrograme în fiecare dimineață"
+    ],
+    "evaluare_functionala_initiala": [
+      "mobilitatea umărului drept e limitată, mai ales la ridicarea în față și la rotația internă",
+      "Supraspinatus-ul și zona de sub acromion sunt iritate, la fel și tendoanele bicepsului în zona anterioară",
+      "Cel mai probabil avem o inflamație a manșetei rotatorilor, mai exact o tendinopatie a supraspinatuslui, posibil cu un conflict subacromial",
+      "Obiectivul nostru inițial va fi să reducem inflamația din zona aceea, să eliberăm musculatura cervicală și să recuperăm amplitudinea de mișcare"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13823,
+    "inference_geo": "global",
+    "input_tokens": 334,
+    "output_tokens": 3306,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

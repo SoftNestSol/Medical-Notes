@@ -1,0 +1,49 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Cu ce problemă vă vedem azi?\nSPEAKER_01: Bună ziua. Păi, uite, mă doare genunchiul drept de vreo două săptămâni. Adică a început după ce am fost la munte, am mers mult pe jos, pe coborâre mai ales, și de atunci... nu știu, mă gândeam că trece singur, dar nu trece.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Undeva la un 5, poate 6 când cobor scările. La plat mai puțin, dar tot simt ceva acolo. Mă teme că am rupt ceva, sincer. Am văzut pe internet că se poate rupe meniscul și...\nSPEAKER_00: Înțeleg. Unde exact doare, mai în față la genunchi, pe lateral, în spate?\nSPEAKER_01: Mai pe partea asta, pe exterior. Aci, pe exteriorul genunchiului. Uneori se simte și puțin spre fesă, pe piciorul drept, dar nu știu dacă e legat.\nSPEAKER_00: Doare și când stați pe scaun, în repaus?\nSPEAKER_01: Nu, nu, în repaus nu. Dimineața când mă ridic mai simt un pic, dar după câțiva pași trece. Cel mai rău e la coborât, scări, deal, orice coborâre.\nSPEAKER_00: Ați mai avut probleme cu genunchiul ăsta înainte?\nSPEAKER_01: Nu, niciodată. Păi am 38 de ani, n-am mai avut nimic la genunchi. Am avut o hernie de disc la lombar acum vreo patru ani, aia a fost necazul meu, dar de atunci nu m-am mai plâns de spate. Mi-e frică acum să nu fie legat cumva, nu știu...\nSPEAKER_00: Bun. Hernia de disc, a trecut de la sine sau ați făcut tratament?\nSPEAKER_01: Am făcut kinetoterapie vreo două luni, a trecut. De atunci n-am mai simțit nimic la spate. Dar ziceam, poate la genunchi e tot din cauza coloanei, am citit că se poate.\nSPEAKER_00: Ok. Luați vreun medicament în prezent?\nSPEAKER_01: Am luat un Ibuprofen acum vreo săptămână, un comprimat, dar nu mai iau. Nu iau nimic acum.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, ceva de inimă?\nSPEAKER_01: Nu, nu, sănătos sunt. Doar hernia aia și atât.\nSPEAKER_00: Bun. Stați puțin în picioare, vă rog.\nSPEAKER_01: Asa.\nSPEAKER_00: Picioarele ușor depărtate. Stați pe piciorul drept acum... vă ține?\nSPEAKER_01: Mă ține, da, nu cedează. Doar dacă stau mult așa începe să simtă.\nSPEAKER_00: Ok. Mergeți câțiva pași.\nSPEAKER_01: Da.\nSPEAKER_00: Văd o ușoară rotație internă a genunchiului la mers. Haideți să apăs puțin pe banda iliotibială, pe partea externă.\nSPEAKER_01: Au, da, acolo doare.\nSPEAKER_00: Exact acolo. Flexăm genunchiul puțin... doare la 90 de grade?\nSPEAKER_01: Nu, nu doare la îndoire.\nSPEAKER_00: Bun. Cel mai probabil avem o inflamație la nivelul benzii iliotibiale, ce se numește sindrom de bandă iliotibială, apare des după coborâri lungi pe munte. Nu e o ruptură de menisc.\nSPEAKER_01: A, bine, că mă speriasem. Serios, am stat noaptea și am citit tot felul de lucruri.\nSPEAKER_00: Înțeleg. O să lucrăm să reducem inflamația și să relaxăm musculatura laterală a coapsei.",
+  "note": {
+    "motivul_prezentarii": "Durere la nivelul genunchiului drept, pe partea externă, apărută după mers pe coborâre la munte, de aproximativ două săptămâni. Durerea se accentuează la coborâtul scărilor și la coborâri în general, absent în repaus.",
+    "evaluarea_durerii_vas": [5, 6],
+    "localizarea_durerii": [
+      "genunchi_dr"
+    ],
+    "localizarea_durerii_alta": "banda iliotibială, extern genunchi drept; ușoară iradiere spre fesă pe piciorul drept",
+    "antecedente": [
+      "hernia_disc"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară rotație internă a genunchiului drept la mers. Durere la palparea benzii iliotibiale pe fața externă a genunchiului drept. Fără durere la flexia genunchiului la 90 de grade.\nDiagnostic:\nSindrom de bandă iliotibială (inflamație la nivelul benzii iliotibiale).\nObiective terapeutice:\nReducerea inflamației și relaxarea musculaturii laterale a coapsei."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare genunchiul drept de vreo două săptămâni",
+      "a început după ce am fost la munte, am mers mult pe jos, pe coborâre mai ales",
+      "Cel mai rău e la coborât, scări, deal, orice coborâre",
+      "în repaus nu"
+    ],
+    "evaluarea_durerii_vas": [
+      "Undeva la un 5, poate 6 când cobor scările"
+    ],
+    "localizarea_durerii": [
+      "mă doare genunchiul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "Mai pe partea asta, pe exterior. Aci, pe exteriorul genunchiului.",
+      "Uneori se simte și puțin spre fesă, pe piciorul drept"
+    ],
+    "antecedente": [
+      "Am avut o hernie de disc la lombar acum vreo patru ani"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Ibuprofen acum vreo săptămână, un comprimat, dar nu mai iau. Nu iau nimic acum."
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară rotație internă a genunchiului la mers.",
+      "Haideți să apăs puțin pe banda iliotibială, pe partea externă.",
+      "Au, da, acolo doare.",
+      "Cel mai probabil avem o inflamație la nivelul benzii iliotibiale, ce se numește sindrom de bandă iliotibială",
+      "O să lucrăm să reducem inflamația și să relaxăm musculatura laterală a coapsei."
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 4.84,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi cu ce problemă veniți."
+    },
+    {
+      "start": 4.96,
+      "end": 19.78,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, am o durere... adică mă doare jos, chiar la baza coloanei, știți, acolo unde se termină coloana, parcă mă ține tot timpul și nu pot să stau pe scaun mai mult de zece minute că mă apucă durerea."
+    },
+    {
+      "start": 19.9,
+      "end": 21.8,
+      "speaker": "SPEAKER_00",
+      "text": "Deci zona de coccis, sacrală."
+    },
+    {
+      "start": 21.92,
+      "end": 31.8,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact acolo, parcă mă doare os, nu mușchi, dacă înțelegeți ce vreau să zic. Și uneori se duce și pe fesă, mai mult pe stânga."
+    },
+    {
+      "start": 31.92,
+      "end": 34.2,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp aveți această durere?"
+    },
+    {
+      "start": 34.32,
+      "end": 54.46,
+      "speaker": "SPEAKER_01",
+      "text": "Ăăă, de vreo trei săptămâni, dar sincer, a început după ce am stat vreo două zile aproape non-stop la calculator, am avut un proiect la serviciu, știți cum e, și dimineața m-am trezit și nu mai puteam să mă ridic normal din pat. Am zis că trece, dar n-a trecut."
+    },
+    {
+      "start": 54.58,
+      "end": 62.94,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum estimați durerea?"
+    },
+    {
+      "start": 63.06,
+      "end": 74.08,
+      "speaker": "SPEAKER_01",
+      "text": "Eh, depinde. Când stau jos, pe scaun sau pe canapea, ajunge la un 7, chiar 8. Când merg sau stau în picioare e mai suportabil, aș zice un 4."
+    },
+    {
+      "start": 74.2,
+      "end": 75.34,
+      "speaker": "SPEAKER_00",
+      "text": "Deci șezutul agravează."
+    },
+    {
+      "start": 75.46,
+      "end": 91.42,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact, e ciudat nu? Toată lumea îmi zice să mă odihnesc, să stau, dar tocmai când stau mă doare mai tare. Mă ridic, mă plimb prin cameră și mai trece. Și dimineața e mai rău, primele minute după ce mă scol."
+    },
+    {
+      "start": 91.54,
+      "end": 95.34,
+      "speaker": "SPEAKER_00",
+      "text": "Ați căzut pe coccis, vreun traumatism recent sau mai vechi?"
+    },
+    {
+      "start": 95.46,
+      "end": 108.76,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am căzut. Adică, acum vreo doi ani am alunecat pe gheață și am căzut pe fund, dar atunci n-am simțit nimic deosebit, a trecut în câteva zile. Nu știu dacă are legătură."
+    },
+    {
+      "start": 108.88,
+      "end": 113.06,
+      "speaker": "SPEAKER_00",
+      "text": "Poate să aibă. Durerea asta se lasă și pe picior, amorțeli?"
+    },
+    {
+      "start": 113.18,
+      "end": 123.06,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu amorțeli. Uneori simt o presiune, cum să zic, ca o greutate în zona de fesă stângă, dar nu se lasă pe picior propriu-zis."
+    },
+    {
+      "start": 123.18,
+      "end": 126.22,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți tensiune, diabet, osteoporoză, vreo afecțiune mai veche?"
+    },
+    {
+      "start": 126.34,
+      "end": 137.36,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic din astea, sunt relativ sănătos. Am 34 de ani. Mă mai doare spatele câteodată, lombar, dar asta e de la stat la birou, nu e nimic nou."
+    },
+    {
+      "start": 137.48,
+      "end": 139.76,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament în mod curent?"
+    },
+    {
+      "start": 139.88,
+      "end": 147.86,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu iau nimic regulat. Am luat un Nurofen sau două acum vreo săptămână când n-am mai putut, dar atât."
+    },
+    {
+      "start": 147.98,
+      "end": 148.78,
+      "speaker": "SPEAKER_00",
+      "text": "A ajutat?"
+    },
+    {
+      "start": 148.9,
+      "end": 151.94,
+      "speaker": "SPEAKER_01",
+      "text": "Da, puțin, câteva ore, după care a revenit."
+    },
+    {
+      "start": 152.06,
+      "end": 157.0,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să facem câteva teste. Stați în picioare, relaxat, cu spatele la mine."
+    },
+    {
+      "start": 157.12,
+      "end": 157.92,
+      "speaker": "SPEAKER_01",
+      "text": "Așa?"
+    },
+    {
+      "start": 158.04,
+      "end": 161.46,
+      "speaker": "SPEAKER_00",
+      "text": "Da, bun. Apăs puțin pe zona de sacru... doare?"
+    },
+    {
+      "start": 161.58,
+      "end": 163.1,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, exact acolo."
+    },
+    {
+      "start": 163.22,
+      "end": 164.02,
+      "speaker": "SPEAKER_00",
+      "text": "Pe coccis?"
+    },
+    {
+      "start": 164.14,
+      "end": 166.04,
+      "speaker": "SPEAKER_01",
+      "text": "Și acolo, ăăă, da, doare."
+    },
+    {
+      "start": 166.16,
+      "end": 168.44,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Aplecați-vă puțin în față."
+    },
+    {
+      "start": 168.56,
+      "end": 172.36,
+      "speaker": "SPEAKER_01",
+      "text": "Uite, când mă aplec simt că se trage acolo jos."
+    },
+    {
+      "start": 172.48,
+      "end": 174.38,
+      "speaker": "SPEAKER_00",
+      "text": "Și în lateral, spre stânga?"
+    },
+    {
+      "start": 174.5,
+      "end": 184.38,
+      "speaker": "SPEAKER_01",
+      "text": "Aoleo, da, asta doare mai tare. Știți, mă tot gândesc dacă nu am ceva rupt acolo, pentru că durerea e destul de precisă, nu e difuză."
+    },
+    {
+      "start": 184.5,
+      "end": 195.9,
+      "speaker": "SPEAKER_00",
+      "text": "E o îngrijorare înțeleasă, dar la palpare nu simt deplasare. Cel mai probabil avem o iritație la nivelul articulației sacrococcigiene și o tensiune musculară în zona piriformului și fesierului stâng."
+    },
+    {
+      "start": 196.02,
+      "end": 198.3,
+      "speaker": "SPEAKER_01",
+      "text": "A, adică nu e osul rupt?"
+    },
+    {
+      "start": 198.42,
+      "end": 209.06,
+      "speaker": "SPEAKER_00",
+      "text": "Nu par semne de fractură. O să lucrăm să reducem tensiunea musculară și iritația locală. Dacă durerea nu cedează, vă recomand o radiografie să excludem orice problemă osoasă."
+    },
+    {
+      "start": 209.18,
+      "end": 214.5,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, mă bucur că nu e ceva grav. Cât credeți că durează până trece?"
+    },
+    {
+      "start": 214.62,
+      "end": 224.12,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde de cum răspunde, dar dacă lucrăm regulat ar trebui să simțiți îmbunătățire după primele două-trei ședințe. Haideți pe masă, cu fața în sus."
+    }
+  ]
+}

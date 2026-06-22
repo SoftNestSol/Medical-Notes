@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_397",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere de umăr, umărul ăsta drept, de vreo trei săptămâni deja",
+      "Am fost la sală acum vreo trei săptămâni, am ridicat mai mult decât de obicei, și a doua zi dimineața m-am trezit cu umărul cam blocat",
+      "am și o durere la gât, dar mai veche, de ani de zile"
+    ],
+    "evaluarea_durerii_vas": [
+      "În mod normal, pe zi ce e, un 4",
+      "dacă ridic ceva, sau dacă încerc să mă duc cu mâna în spate, dă și un 7, chiar 8 uneori"
+    ],
+    "localizarea_durerii": [
+      "am o durere de umăr, umărul ăsta drept",
+      "am și o durere la gât, dar mai veche, de ani de zile"
+    ],
+    "localizarea_durerii_alta": [
+      "se duce și un pic pe braț în jos, pe partea din față a brațului",
+      "Până pe la jumătatea brațului, cam atât"
+    ],
+    "antecedente": [
+      "mai am o scolioză ușoară, mi-a spus-o un medic ortoped acum vreo câțiva ani"
+    ],
+    "antecedente_altele": [
+      "Am avut o fractură la gleznă stângă acum mulți ani, prin liceu, am căzut la fotbal. A trebuit să port ghips vreo șase săptămâni dar s-a vindecat bine"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți o limitare la rotația internă, și la abducție apare durere în arcul de mișcare de la 70 până cam la 120 de grade",
+      "Rezistența e păstrată, deci forța e bună, ce avem e mai degrabă inflamație la nivelul manșetei rotatorilor, probabil tendon supraspinos, cu posibilă suferință a bursei subacromiale",
+      "să reducem inflamația, să lucrăm mobilitatea umărului și să stabilizăm manșeta rotatorilor"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22994,
+    "inference_geo": "global",
+    "input_tokens": 318,
+    "output_tokens": 3701,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

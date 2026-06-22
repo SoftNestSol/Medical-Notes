@@ -1,0 +1,40 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva? O căzătură, un efort?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Și după aia a început?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum e durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Când ridicați mâna sus doare?\nSPEAKER_01: Da, mai rău.\nSPEAKER_00: Puteți să ridicați mâna până la nivelul umărului sau nu ajungeți?\nSPEAKER_01: Ajung, dar mai departe de-atât e greu.\nSPEAKER_00: Și dacă duceți mâna în spate, atingeți zona de la spate?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Ok. Se lasă durerea pe braț, pe antebraț?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțesc degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Noaptea vă deranjează? Vă treziți din somn?\nSPEAKER_01: Câteodată, dacă stau pe partea aia.\nSPEAKER_00: Pe umărul stâng. Da, înțeleg.\nSPEAKER_00: Alte afecțiuni aveți, cum ar fi tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin cu spatele la mine, ridicați mâna stângă încet în față, tot mai sus. Spuneți-mi unde începe să doară.\nSPEAKER_01: Cam pe la mijloc, pe la 90 de grade.\nSPEAKER_00: Ok. Și mai sus de atât?\nSPEAKER_01: Doare mai tare.\nSPEAKER_00: Bun. Acum ridicați lateral.\nSPEAKER_01: La fel, pe la 90 de grade se blochează un pic.\nSPEAKER_00: Înțeleg. Apăs puțin pe tendonul de aici, pe zona de supraspinos. Doare?\nSPEAKER_01: Da, acolo exact.\nSPEAKER_00: Da, e sensibil. Acum apăs un pic mai jos, pe deltoid. Doare la fel?\nSPEAKER_01: Nu, mai puțin.\nSPEAKER_00: Bun. Deci avem o inflamație la nivelul manșetei rotatorilor, mai precis a supraspinosului. Asta se întâmplă de obicei după un efort brusc, cum ați mutat mobila dumneavoastră. Mobilitatea e limitată deasupra orizontalei și la rotația internă. Va trebui să reducem inflamația mai întâi și după aceea lucrăm la recuperarea mobilității complete.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng apărută după efort fizic (mutat mobilă), de aproximativ două săptămâni. Durere la mișcare, mai ales la ridicarea brațului deasupra orizontalei și la rotația internă. Treziri nocturne la culcat pe umărul afectat.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamație manșetă rotatori, supraspinos stâng\nObiective terapeutice:\n- reducerea inflamației\n- recuperarea mobilității complete"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Am mutat niște mobilă.",
+      "Vreo două săptămâni.",
+      "Mai mult la mișcare.",
+      "Câteodată, dacă stau pe partea aia."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Deci avem o inflamație la nivelul manșetei rotatorilor, mai precis a supraspinosului.",
+      "Va trebui să reducem inflamația mai întâi și după aceea lucrăm la recuperarea mobilității complete."
+    ]
+  }
+}

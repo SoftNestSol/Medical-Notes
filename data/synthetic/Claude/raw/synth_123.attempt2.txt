@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stâng sau drept?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo trei săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am ridicat niște saci la grădină.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare și când stați liniștit sau numai când mișcați brațul?\nSPEAKER_01: Când îl ridic mai ales.\nSPEAKER_00: Sus de tot nu puteți ridica?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Noaptea vă deranjează, vă treziți din somn?\nSPEAKER_01: Câteodată, da.\nSPEAKER_00: Pe ce parte dormiți?\nSPEAKER_01: Pe dreapta de obicei.\nSPEAKER_00: Aha, aia e o problemă. Dacă dormiți pe umărul care doare, îl suprasolicitat. Amorțește brațul?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Durerea se lasă și pe braț în jos sau stă fix în umăr?\nSPEAKER_01: Stă cam acolo.\nSPEAKER_00: Și în ceafă nu simțiți nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, epilepsie?\nSPEAKER_01: Am tensiune.\nSPEAKER_00: Tensiune arterială. Luați medicamente pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: O dată pe zi?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale la umăr vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere cutanată, alergii la creme?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați brațul ăsta pentru mine, cât puteți de sus. Stați așa. Doare acum?\nSPEAKER_01: Da, cam de pe la jumătate.\nSPEAKER_00: Arcul dureros, da. Vă apăs puțin aici pe tendonul supraspinatos. Doare?\nSPEAKER_01: Doare, da.\nSPEAKER_00: Și dacă faceți mișcarea asta, rotație internă, doare?\nSPEAKER_01: Mai mult, da.\nSPEAKER_00: Înțeles. Pare a fi o inflamație la nivelul coifului rotatorilor, tendinită de supraspinat cel mai probabil. Trebuie să reducem inflamația și să refacem mobilitatea umărului. O să lucrăm și pe musculatura din jur. Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept, aparuta dupa ridicat saci, de aproximativ trei saptamani",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame o data pe zi"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita supraspinat, inflamatie coif rotatori umar dr.\nObiective terapeutice: reducerea inflamatiei, refacerea mobilitatii umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "De vreo trei săptămâni.", "Am ridicat niște saci la grădină."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul.", "Stă cam acolo."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Am tensiune."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Enalapril.", "10 miligrame.", "Da."],
+    "evaluare_functionala_initiala": ["Pare a fi o inflamație la nivelul coifului rotatorilor, tendinită de supraspinat cel mai probabil. Trebuie să reducem inflamația și să refacem mobilitatea umărului."]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și cum a apărut, dintr-odată sau treptat?\nSPEAKER_01: La sală. Am ridicat ceva mai greu.\nSPEAKER_00: Am înțeles. Doare doar umărul sau se lasă și pe braț în jos?\nSPEAKER_01: Și pe braț un pic.\nSPEAKER_00: Pe braț până unde?\nSPEAKER_01: Până pe la cot, cam așa.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, pe unde vă situați?\nSPEAKER_01: Un 5.\nSPEAKER_00: Doare mai tare când ridicați brațul sau când îl coborâți?\nSPEAKER_01: Când ridic.\nSPEAKER_00: Puteți să-l ridicați până sus?\nSPEAKER_01: Nu prea. Mă opresc pe la jumătate.\nSPEAKER_00: Bun. Amorțește vreun deget?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun deget, sigur?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Haideți să fac câteva teste. Ridicați brațul în față pentru mine, ușor.\nSPEAKER_01: Până aici ajung.\nSPEAKER_00: Da, văd. Stați puțin. Când apăs aici pe zona asta de sus a umărului, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Tare?\nSPEAKER_01: Da, destul de tare.\nSPEAKER_00: Bun. Și dacă rotim brațul așa, în afară?\nSPEAKER_01: Au. Da, doare.\nSPEAKER_00: Doare în aceeași zonă?\nSPEAKER_01: Da, tot sus.\nSPEAKER_00: Înțeles. Tensiune, diabet, alte afecțiuni?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Pare a fi o inflamație la nivelul manșetei rotatorilor, probabil supraspinosul. Aveți limitare de mișcare la abducție și rotație externă. Va trebui să reducem inflamația în primă fază, după care lucrăm la refacerea mobilității umărului.\nSPEAKER_01: Da, ok.\nSPEAKER_00: Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept, aparuta dupa efort la sala",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie manseta rotatori, posibil supraspinos\nObiective terapeutice:\n- reducerea inflamatiei;\n- refacerea mobilitatii umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "La sală. Am ridicat ceva mai greu.", "Dreptul."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Pare a fi o inflamație la nivelul manșetei rotatorilor, probabil supraspinosul.", "Aveți limitare de mișcare la abducție și rotație externă.", "Va trebui să reducem inflamația în primă fază, după care lucrăm la refacerea mobilității umărului."]
+  }
+}

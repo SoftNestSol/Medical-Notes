@@ -1,0 +1,49 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Ionescu Mihai.\nSPEAKER_00: Mulțumesc. Și vârsta?\nSPEAKER_01: 38 de ani.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi, mă doare umărul drept de vreo două săptămâni, poate trei, nu știu exact. Adică a început ușor, am zis că trece, că mai am și eu tensiuni la muncă, stau mult la birou, și am tot amânat să vin. Dar nu mai trece, ba chiar mi se pare că s-a înrăutățit.\nSPEAKER_00: Înțeles. Și umărul drept, doare tot timpul sau doar la anumite mișcări?\nSPEAKER_01: La mișcări mai ales. Adică dacă stau liniștit nu simt foarte tare, dar dacă ridic mâna, mai ales în sus sau în lateral, mă taie. Și noaptea, dacă cumva stau pe partea dreaptă, mă trezesc.\nSPEAKER_00: Vă trezește noaptea.\nSPEAKER_01: Da, de vreo câteva ori m-a trezit. Și soția mea tot zice că mă foi, că nu dorm bine. Și eu cred că de la umăr e treaba asta.\nSPEAKER_00: A existat vreun traumatism, vreo lovitură, vreo căzătură?\nSPEAKER_01: Nu, nimic. Asta e ce nu înțeleg eu. Adică n-am căzut, n-am lovit nicăieri. A apărut pur și simplu. Poate de la geantă, că eu port geantă de laptop pe umărul drept mereu, că așa mi-e mai comod, și poate aia a forțat ceva, nu știu.\nSPEAKER_00: Posibil, da. Și pe lângă umăr, doare și în altă parte, se lasă pe braț în jos?\nSPEAKER_01: Uneori simt ceva până în cot, dar nu e o durere mare, mai mult o senzație. Mai tare e sus, la umăr.\nSPEAKER_00: La umăr. Pe o scară de la 0 la 10, unde 0 e fără durere și 10 e maxim, cât e durerea când ridicați mâna?\nSPEAKER_01: Când ridic mâna sus, un 7 lejer. Și dacă încerc să pun mâna la spate, mai rău, un 8 poate.\nSPEAKER_00: Și în repaus?\nSPEAKER_01: Repaus, 2, poate 3. Nu mă deranjează în mod special dacă stau cuminte.\nSPEAKER_00: Bun. Ați făcut ceva pentru durere până acum?\nSPEAKER_01: Am pus niște gel, cum îl cheamă, Voltaren, am pus de câteva ori. Îmi dă o ușurare pentru câteva ore și după revine. Nu iau pastile că nu-mi place să iau.\nSPEAKER_00: Înțeles. Altceva nu luați?\nSPEAKER_01: Nu, nimic altceva.\nSPEAKER_00: Bine. Tensiune, diabet, alte afecțiuni?\nSPEAKER_01: Nu, nimic. Sunt sănătos tun altfel, nu am nimic. Nici măcar nu merg des la medic, că n-am de ce. Prima dată la chiropractor sunt, sincer.\nSPEAKER_00: Prima oară, bine ați venit atunci. Lucrul cu calculatorul, cât timp stați la birou?\nSPEAKER_01: Mult, vreo opt ore pe zi, poate mai mult. Am și monitor, dar e cam jos față de nivelul ochilor și probabil și postura mea lasă de dorit. Soția zice că stau cocoșat.\nSPEAKER_00: Da, asta contează. Haideți să vă rog să ridicați brațul drept în față, ușor.\nSPEAKER_01: Până aici pot, mai sus... au, da, doare.\nSPEAKER_00: La aproximativ 90 de grade simțiți durerea?\nSPEAKER_01: Cam de acolo, da. Parcă e o blocare și mă taie.\nSPEAKER_00: Acum ridicați-l în lateral, tot ușor.\nSPEAKER_01: Lateral e mai rău, da. Asta e zona care mă deranjează cel mai tare.\nSPEAKER_00: Am înțeles. Acum vă rog să puneți mâna la spate, cât puteți.\nSPEAKER_01: Cam atât, nu mai pot mai sus, doare destul de tare.\nSPEAKER_00: Bine. Eu văd o limitare destul de clară la abducție și la rotație internă. Cel mai probabil avem o inflamație la nivelul manșetei rotatorilor, posibil tendinită de supraspinos. Statul prelungit la birou cu postura anterioară și geanta purtată pe un singur umăr pot fi factori declanșatori. Obiectivul nostru va fi să reducem inflamația, să recuperăm mobilitatea umărului și să vedem și postura în ansamblu.\nSPEAKER_01: Bun, și e ceva grav? Adică trebuie operație sau pot scăpa fără?\nSPEAKER_00: La ce vedem acum, nu pare ceva care să necesite intervenție chirurgicală. Vom lucra prin terapie manuală și câteva exerciții și vedem cum evoluăm.\nSPEAKER_01: Bine, bine. Și Voltarenul îl pot continua?\nSPEAKER_00: Îl puteți folosi la nevoie, nu e o problemă. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept de aproximativ 2-3 saptamani, accentuata la miscare (ridicare brat, rotatie interna), cu treziri nocturne la pozitionarea pe partea dreapta. Posibil asociata cu portul gantei de laptop pe umar drept si postura la birou.",
+    "evaluarea_durerii_vas": [7, 8, 2],
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "senzatie pana in cot (membrul superior drept)",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare la abductie si rotatie interna umar drept; durere la aproximativ 90 grade la flexie anterioara si la ridicare in lateral. Diagnostic: inflamatie manseta rotatorilor, posibil tendinita de supraspinos. Obiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii umarului, evaluare posturala."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept de vreo două săptămâni, poate trei, nu știu exact",
+      "dacă ridic mâna, mai ales în sus sau în lateral, mă taie",
+      "noaptea, dacă cumva stau pe partea dreaptă, mă trezesc",
+      "poate de la geantă, că eu port geantă de laptop pe umărul drept mereu"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când ridic mâna sus, un 7 lejer. Și dacă încerc să pun mâna la spate, mai rău, un 8 poate.",
+      "Repaus, 2, poate 3."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori simt ceva până în cot, dar nu e o durere mare, mai mult o senzație."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus niște gel, cum îl cheamă, Voltaren, am pus de câteva ori."
+    ],
+    "evaluare_functionala_initiala": [
+      "Eu văd o limitare destul de clară la abducție și la rotație internă.",
+      "Cel mai probabil avem o inflamație la nivelul manșetei rotatorilor, posibil tendinită de supraspinos.",
+      "Statul prelungit la birou cu postura anterioară și geanta purtată pe un singur umăr pot fi factori declanșatori.",
+      "Obiectivul nostru va fi să reducem inflamația, să recuperăm mobilitatea umărului și să vedem și postura în ansamblu."
+    ]
+  }
+}

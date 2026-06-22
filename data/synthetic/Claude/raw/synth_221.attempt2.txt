@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă venim azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stângul sau dreptul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: A apărut din senin sau ați făcut ceva anume?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Am înțeles. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Mai mult când ridic brațul.\nSPEAKER_00: Când îl ridicați în față sau în lateral?\nSPEAKER_01: În lateral mai rău.\nSPEAKER_00: Doare și în repaus, noaptea de exemplu?\nSPEAKER_01: Uneori, da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare e durerea?\nSPEAKER_01: Un 5.\nSPEAKER_00: Se lasă durerea și pe braț în jos, pe cot?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțește mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații sau fracturi în zona umărului?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Ridicați brațul pentru mine, așa, în lateral, până unde puteți.\nSPEAKER_01: Până aici.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Cam la 90 de grade se oprește, da?\nSPEAKER_01: Da, cam așa.\nSPEAKER_00: Apăs acum pe zona de aici, pe tendonul supraspinos. Doare?\nSPEAKER_01: Da, acolo.\nSPEAKER_00: E o sensibilitate clară la supraspinos. Doare și dacă apăs mai jos, pe deltoid?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeleg. Pare a fi o tendinită la nivelul coafei rotatorilor, mai exact supraspinos. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea completă a umărului. Facem fizioterapie și câteva mobilizări, da?\nSPEAKER_01: Da, bine.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept, aparuta dupa mutare mobilier, de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinita coafa rotatori, supraspinos umar dr.\nObiective terapeutice:\n- reducerea inflamatiei;\n- recuperarea mobilitatii complete a umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "De vreo două săptămâni.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Dreptul.", "Mă doare umărul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Pare a fi o tendinită la nivelul coafei rotatorilor, mai exact supraspinos.", "Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea completă a umărului.", "E o sensibilitate clară la supraspinos.", "Cam la 90 de grade se oprește, da?"]
+  }
+}

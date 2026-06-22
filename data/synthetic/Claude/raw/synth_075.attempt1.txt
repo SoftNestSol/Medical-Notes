@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua! Scuzați că am întârziat puțin, am avut trafic oribil, știți cum e pe la ora asta.\nSPEAKER_00: Nu-i nicio problemă. Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi, mă doare umărul drept. De vreo trei săptămâni, poate patru. De fapt, a început după ce am mutat niște cutii mari la birou, știți, am schimbat biroul și am cărat totul singur, am zis că mă descurc, dar aparent nu m-am descurcat.\nSPEAKER_00: Înțeles. Și doare constant sau doar când faceți anumite mișcări?\nSPEAKER_01: Mai mult când ridic brațul, când încerc să pun ceva sus, pe raft, sau când mă îmbrac, îmi pun haina pe spate, aia doare cel mai tare. Și noaptea, dacă stau pe partea dreaptă, mă trezesc. M-am trezit de câteva ori și n-am mai putut dormi, ceea ce e stresant, pentru că eu oricum nu dorm bine, am și stres la serviciu...\nSPEAKER_00: Da, da. Și în repaus, când stați liniștit, doare?\nSPEAKER_01: În repaus mai puțin. Parcă e un disconfort, nu chiar durere.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare când ridicați brațul?\nSPEAKER_01: Când ridic brațul sus, un 7. Da, un 7. Și noaptea când mă trezesc, tot pe acolo.\nSPEAKER_00: Bun. Și în repaus, disconfortul ăla, îl puteți cifra?\nSPEAKER_01: Ăă, 2, maxim 3.\nSPEAKER_00: Doare și în zona gâtului sau pe braț în jos?\nSPEAKER_01: Nu, nu. Doar umărul. Ei, uneori simt ceva până la cot, uite, pe partea asta exterioară, dar nu știu dacă e de la umăr sau de la altceva. Poate e de la cum stau la birou, stau câte 8-9 ore, am mai citit că poate fi și de la postură...\nSPEAKER_00: Înțeles. Alte probleme de sănătate aveți? Tensiune, diabet, ceva la coloană?\nSPEAKER_01: Tensiune am, da. Iau și pastile pentru asta, de vreo doi ani. Iau Amlodipină, 5 mg pe zi. Altfel nu am nimic, sau cel puțin nu știu. Mă mai doare câteodată și spatele, zona de jos, dar aia e veche, de când lucrez la birou, nu m-a deranjat suficient să vin la doctor pentru ea.\nSPEAKER_00: Și la umăr, ați mai avut probleme înainte, pe aceeași parte?\nSPEAKER_01: Nu, prima dată. De asta m-a și speriat un pic, că nu știu ce e. Am căutat pe internet și m-am speriat și mai tare, că scrie tot felul de lucruri grave acolo.\nSPEAKER_00: Hai să nu ne speriem înainte să vedem. Stați puțin cu brațul pe lângă corp. O să ridic eu brațul ușor și îmi spuneți când apare durerea.\nSPEAKER_01: Ok.\nSPEAKER_00: Acum doare?\nSPEAKER_01: Da, da, acolo, cam la 90 de grade.\nSPEAKER_00: Bun. O să apăs puțin pe zona asta de sus a umărului. Doare?\nSPEAKER_01: Au, da, exact acolo.\nSPEAKER_00: Și dacă ducem brațul în spate, așa, doare?\nSPEAKER_01: Da, asta e mișcarea cea mai neplăcută.\nSPEAKER_00: Am înțeles. Avem o inflamație la nivelul tendoanelor din umăr, cel mai probabil o tendinită de supraspinos, apărută după efort mecanic. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Credeți că e grav? Nu e ceva rupt acolo?\nSPEAKER_00: Nu par semne de ruptură, dar o să vedem cum răspunde la terapie. Dacă e nevoie, vă îndrumăm spre o ecografie.\nSPEAKER_01: Ok, bine, mulțumesc.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după efort fizic (mutat cutii), cu durata de aproximativ 3-4 săptămâni. Durere la ridicarea brațului, la îmbrăcat și noaptea în decubit lateral drept.",
+    "evaluarea_durerii_vas": [7, 2],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": "iradiere pe fața externă a brațului până la cot",
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Amlodipină",
+        "doza": "5 mg pe zi"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinită de supraspinos, apărută după efort mecanic. Obiective terapeutice: reducerea inflamației și recuperarea mobilității umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul drept. De vreo trei săptămâni, poate patru. De fapt, a început după ce am mutat niște cutii mari la birou"],
+    "evaluarea_durerii_vas": ["Când ridic brațul sus, un 7. Da, un 7.", "Ăă, 2, maxim 3."],
+    "localizarea_durerii": ["mă doare umărul drept"],
+    "localizarea_durerii_alta": ["uneori simt ceva până la cot, uite, pe partea asta exterioară"],
+    "antecedente": ["Tensiune am, da."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Iau Amlodipină, 5 mg pe zi"],
+    "evaluare_functionala_initiala": ["Avem o inflamație la nivelul tendoanelor din umăr, cel mai probabil o tendinită de supraspinos, apărută după efort mecanic. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, doamna!"
+    },
+    {
+      "start": 1.26,
+      "end": 2.78,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua!"
+    },
+    {
+      "start": 2.9,
+      "end": 5.56,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi vă rog numele dumneavoastră complet."
+    },
+    {
+      "start": 5.68,
+      "end": 6.48,
+      "speaker": "SPEAKER_01",
+      "text": "Munteanu Gabriela."
+    },
+    {
+      "start": 6.6,
+      "end": 8.5,
+      "speaker": "SPEAKER_00",
+      "text": "Mulțumesc, doamna Munteanu. Și vârsta?"
+    },
+    {
+      "start": 8.62,
+      "end": 13.56,
+      "speaker": "SPEAKER_01",
+      "text": "47 de ani. Da, știu, știu, nu se vede, mi se spune mereu."
+    },
+    {
+      "start": 13.68,
+      "end": 15.96,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 16.08,
+      "end": 45.72,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, de unde să încep... Mă doare cervicalul, dar nu de azi, de ieri, de mult timp. Adică eu am tot zis că trece, că e de la stres, că e de la calculator, că stau mult la birou și tot amânând amânând și acum am ajuns că dimineața când mă trezesc abia pot să întorc capul. Dreapta mai merge, dar stânga e... nu știu cum să vă descriu, e ca și cum ai avea un zid acolo."
+    },
+    {
+      "start": 45.84,
+      "end": 48.5,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp exact aveți această problemă?"
+    },
+    {
+      "start": 48.62,
+      "end": 66.1,
+      "speaker": "SPEAKER_01",
+      "text": "Hm. Intens, să zic, de vreo trei săptămâni. Dar ușor ușor mai de mult, poate două luni? Nu știu exact. A început mai ușor și acum s-a agravat. Mai ales de când am schimbat biroul și am o poziție mai... nu e ergonomic, asta sigur."
+    },
+    {
+      "start": 66.22,
+      "end": 70.02,
+      "speaker": "SPEAKER_00",
+      "text": "Se lasă durerea undeva, vă merge pe braț, pe umăr?"
+    },
+    {
+      "start": 70.14,
+      "end": 86.86,
+      "speaker": "SPEAKER_01",
+      "text": "Da! Asta vroiam să vă zic și eu. Pe umărul stâng se duce, da. Uneori simt și în braț, coborând așa, pe partea de sus a brațului, dar nu tot timpul. Nu știu dacă e legat, poate e altceva, poate e circulația, nu știu."
+    },
+    {
+      "start": 86.98,
+      "end": 89.26,
+      "speaker": "SPEAKER_00",
+      "text": "Dă și în mână, în degete?"
+    },
+    {
+      "start": 89.38,
+      "end": 92.8,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, în mână nu. Cel puțin nu am observat."
+    },
+    {
+      "start": 92.92,
+      "end": 101.66,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Pe o scară de la 0 la 10, 0 nu doare deloc, 10 doare maxim, unde vă situați cu durerea de cervical?"
+    },
+    {
+      "start": 101.78,
+      "end": 113.56,
+      "speaker": "SPEAKER_01",
+      "text": "Dimineața când mă trezesc, un 8 ușor. Adică e chiar rău dimineața. Pe parcursul zilei mai cedează, ajunge la un 5-6. Seara după ce stau la calculator iar se înrăutățește."
+    },
+    {
+      "start": 113.68,
+      "end": 114.82,
+      "speaker": "SPEAKER_00",
+      "text": "Deci 8 dimineața."
+    },
+    {
+      "start": 114.94,
+      "end": 117.98,
+      "speaker": "SPEAKER_01",
+      "text": "Da, 8 dimineața. Seara nu știu, poate 7."
+    },
+    {
+      "start": 118.1,
+      "end": 121.52,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Și umărul stâng, cât de tare doare?"
+    },
+    {
+      "start": 121.64,
+      "end": 130.76,
+      "speaker": "SPEAKER_01",
+      "text": "Umărul... mai puțin, e mai mult un disconfort, un 4 poate. Nu știu dacă doare umărul în sine sau e din cervical care iradiază."
+    },
+    {
+      "start": 130.88,
+      "end": 133.92,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Alte zone mai dor, spatele, zona lombară?"
+    },
+    {
+      "start": 134.04,
+      "end": 146.2,
+      "speaker": "SPEAKER_01",
+      "text": "Ei, spatele mă mai supără și pe el, da. Dar mai rar, nu e constant. Adică am și eu vârsta mea, mai apar și dispare. Nu e motivul pentru care am venit."
+    },
+    {
+      "start": 146.32,
+      "end": 150.88,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Doamna Munteanu, aveți afecțiuni cunoscute, tensiune arterială, diabet, osteoporoză, ceva diagnosticat?"
+    },
+    {
+      "start": 151.0,
+      "end": 164.68,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Am hipertensiune de vreo patru ani. Iau tratament pentru asta. În rest, Doamne ferește, sper că nu am altceva. Am făcut analizele acum trei luni și erau ok. Dar, da, tensiunea o am."
+    },
+    {
+      "start": 164.8,
+      "end": 167.08,
+      "speaker": "SPEAKER_00",
+      "text": "Și ce tratament luați pentru tensiune?"
+    },
+    {
+      "start": 167.2,
+      "end": 173.28,
+      "speaker": "SPEAKER_01",
+      "text": "Iau Enalapril, 10 miligrame, dimineața. Iau de patru ani de când mi-a prescris doamna doctor."
+    },
+    {
+      "start": 173.4,
+      "end": 175.3,
+      "speaker": "SPEAKER_00",
+      "text": "Altceva mai luați, antiinflamatoare, analgezice?"
+    },
+    {
+      "start": 175.42,
+      "end": 195.18,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, pentru cervical am luat Ibuprofen, cât am rezistat, 400. Dar nu am luat constant, că nu mi-a recomandat nimeni, mi-am dat eu singură. Și nu prea vrea stomacul meu, am gastrită și nu se împacă bine. Deci am luat când nu mai suportam, poate de două ori pe săptămână."
+    },
+    {
+      "start": 195.3,
+      "end": 199.1,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles, deci Ibuprofen 400 luat din când în când."
+    },
+    {
+      "start": 199.22,
+      "end": 202.26,
+      "speaker": "SPEAKER_01",
+      "text": "Da, nu zilnic, că mă tem și eu."
+    },
+    {
+      "start": 202.38,
+      "end": 203.52,
+      "speaker": "SPEAKER_00",
+      "text": "Gastrită aveți confirmată?"
+    },
+    {
+      "start": 203.64,
+      "end": 209.72,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am gastrită cronică, mi s-a zis acum doi ani la gastroscopie. Deci da, există."
+    },
+    {
+      "start": 209.84,
+      "end": 211.36,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale, fracturi, accidente?"
+    },
+    {
+      "start": 211.48,
+      "end": 230.48,
+      "speaker": "SPEAKER_01",
+      "text": "Operație la apendicită acum vreo 15 ani, dar asta nu are legătură, nu? Și un accident de mașină minor acum vreo șase ani, nu am avut fracturi, dar... uite că poate de atunci a început să mă supere cervicalul mai ușor? Nu știu, poate e o chestie în capul meu."
+    },
+    {
+      "start": 230.6,
+      "end": 233.26,
+      "speaker": "SPEAKER_00",
+      "text": "Ați făcut investigații pentru cervical, radiografie, RMN?"
+    },
+    {
+      "start": 233.38,
+      "end": 241.36,
+      "speaker": "SPEAKER_01",
+      "text": "Am făcut o radiografie acum doi ani, mi s-a spus că am o ușoară artroză cervicală. Atât. Nu am RMN."
+    },
+    {
+      "start": 241.48,
+      "end": 243.76,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Alergii la medicamente, unguente, creme?"
+    },
+    {
+      "start": 243.88,
+      "end": 245.4,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am alergii."
+    },
+    {
+      "start": 245.52,
+      "end": 250.46,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Doamna Munteanu, haideți să facem câteva teste. Ridicați-vă puțin vă rog."
+    },
+    {
+      "start": 250.58,
+      "end": 251.38,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 251.5,
+      "end": 254.16,
+      "speaker": "SPEAKER_00",
+      "text": "Încercați să întoarceți capul spre stânga, ușor."
+    },
+    {
+      "start": 254.28,
+      "end": 257.7,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, uite că doare deja. Ajung cam până aici."
+    },
+    {
+      "start": 257.82,
+      "end": 258.96,
+      "speaker": "SPEAKER_00",
+      "text": "Și spre dreapta?"
+    },
+    {
+      "start": 259.08,
+      "end": 260.98,
+      "speaker": "SPEAKER_01",
+      "text": "Dreapta merge mai bine, da."
+    },
+    {
+      "start": 261.1,
+      "end": 263.38,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Aplecați capul lateral spre stânga."
+    },
+    {
+      "start": 263.5,
+      "end": 268.06,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, asta doare. Se duce și pe umăr când fac asta."
+    },
+    {
+      "start": 268.18,
+      "end": 276.16,
+      "speaker": "SPEAKER_00",
+      "text": "Se duce pe umărul stâng la înclinare laterală. Bine. Acum o să apăs ușor pe zona cervicală, spuneți-mi dacă doare."
+    },
+    {
+      "start": 276.28,
+      "end": 279.7,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo, pe partea stângă. Acolo e focarul, parcă."
+    },
+    {
+      "start": 279.82,
+      "end": 283.62,
+      "speaker": "SPEAKER_00",
+      "text": "La C4-C5, C5-C6 pe stânga, doare la palpare."
+    },
+    {
+      "start": 283.74,
+      "end": 287.16,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu ce înseamnă C4-C5, dar da, acolo."
+    },
+    {
+      "start": 287.28,
+      "end": 291.08,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Acum o să apăs pe trapez, pe umărul stâng."
+    },
+    {
+      "start": 291.2,
+      "end": 296.14,
+      "speaker": "SPEAKER_01",
+      "text": "Oooh, da, doare și aia. Și nu știam că doare până ați apăsat."
+    },
+    {
+      "start": 296.26,
+      "end": 298.92,
+      "speaker": "SPEAKER_00",
+      "text": "Contractură pe trapezul stâng. Și pe dreapta?"
+    },
+    {
+      "start": 299.04,
+      "end": 301.7,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, dar și dreapta e tensionat."
+    },
+    {
+      "start": 301.82,
+      "end": 324.24,
+      "speaker": "SPEAKER_00",
+      "text": "Doamna Munteanu, ce vă pot spune este că avem o inflamație și o contractură musculară destul de serioasă la nivel cervical, mai ales pe stânga, cu iradiere pe umărul stâng. Combinat cu artroza cervicală pe care o știți deja, mobilitatea e afectată. Obiectivul nostru în primele ședințe va fi să reducem contractura și inflamația și să recâștigăm mobilitatea cervicală."
+    },
+    {
+      "start": 324.36,
+      "end": 328.16,
+      "speaker": "SPEAKER_01",
+      "text": "Și o să trec? Adică, nu rămân cu asta permanent?"
+    },
+    {
+      "start": 328.28,
+      "end": 333.98,
+      "speaker": "SPEAKER_00",
+      "text": "Putem reduce semnificativ simptomele. Important e și că va trebui să ajustăm postura la birou."
+    },
+    {
+      "start": 334.1,
+      "end": 340.56,
+      "speaker": "SPEAKER_01",
+      "text": "Da, știu, știu, mi-a zis și soțul meu, dar e greu când ai mult de lucru."
+    },
+    {
+      "start": 340.68,
+      "end": 342.58,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să trecem la treabă."
+    },
+    {
+      "start": 342.7,
+      "end": 343.84,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, hai."
+    }
+  ]
+}

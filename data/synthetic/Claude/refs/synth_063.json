@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "Durere cervicală cu iradiere pe umărul drept, instalată treptat în ultimele trei săptămâni, asociată cu postura prelungită la calculator",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Nurofen",
+      "doza": "1 pastilă"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice: umărul drept mai sus decât cel stâng; rotație cervicală spre dreapta limitată, spre stânga păstrată; contractură paravertebrală cervicală la palpare, predominant pe dreapta.\nDiagnostic: Cervicalgie cu contractură musculară paravertebrală cervicală dreaptă.\nObiective terapeutice: reducerea contracturii musculare; refacerea mobilității cervicale."
+}

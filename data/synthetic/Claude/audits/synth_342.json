@@ -1,0 +1,41 @@
+{
+  "conversation_id": "synth_342",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "dimineața m-am trezit și nu mai puteam întoarce capul",
+      "De vreo două săptămâni"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5.",
+      "Atunci era mai rău, vreo 8."
+    ],
+    "localizarea_durerii": [
+      "Mai mult pe dreapta.",
+      "Uneori pe umăr, pe dreapta.",
+      "La ceafă."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o contractură destul de pronunțată pe mușchii ridicători ai scapulei și pe trapezul superior drept, iar zona cervicală sus, C2-C3, e inflamată și blocată",
+      "O să lucrăm în primul rând să reducem contractura și inflamația și să recuperăm mobilitatea de rotație spre dreapta"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 13823
+    },
+    "cache_creation_input_tokens": 13823,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 2004,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

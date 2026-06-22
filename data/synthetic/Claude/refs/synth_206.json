@@ -1,0 +1,19 @@
+{
+  "motivul_prezentarii": "Pacient acuză durere la umărul stâng de aproximativ două săptămâni, apărută fără traumatism. Durere la mișcare (abducție și flexie limitată la aproximativ 90 de grade), exacerbată noaptea în decubit pe partea stângă și dimineața la primele mișcări. Asociat cu postură de birou prelungită.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- tendinită manșetă rotatori umăr stâng, posibil inflamație subacromială\nObiective terapeutice:\n- reducerea inflamației\n- recuperarea mobilității"
+}

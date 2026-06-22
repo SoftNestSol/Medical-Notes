@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "Durere cervicală bilaterală cu iradiere pe umărul drept, apărută de aproximativ două săptămâni, fără cauză clară identificată, la pacient care lucrează toată ziua la calculator.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contractură musculară cervicală, postură cu cap dus în față, blocare la rotație dreapta, trapez tensionat mai mult pe dreapta.\nObiective terapeutice: reducerea tensiunii musculare; refacerea mobilității pe rotație dreapta."
+}

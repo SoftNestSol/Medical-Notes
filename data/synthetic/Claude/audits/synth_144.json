@@ -1,0 +1,41 @@
+{
+  "conversation_id": "synth_144",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "La calculator. Mult la birou.",
+      "Și ceafa."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Și ceafa."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nurofen, câteodată.",
+      "Normal, una."
+    ],
+    "evaluare_functionala_initiala": [
+      "Deci avem o mobilitate redusă pe rotație dreapta și o contractură destul de clară a trapezului și a suboccipitalilor pe dreapta. Pare o cervicalgie de tip postural. Vom lucra să reducem contractura musculară și să recuperăm mobilitatea pe rotație."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13612,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1818,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

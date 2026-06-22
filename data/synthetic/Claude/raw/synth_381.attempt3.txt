@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, v-ați lovit, ați căzut?\nSPEAKER_01: Nu. Am zugrăvit.\nSPEAKER_00: Deci ați stat cu mâna ridicată mult timp.\nSPEAKER_01: Da, vreo două zile.\nSPEAKER_00: Și după aia a apărut durerea.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum e durerea?\nSPEAKER_01: Un 5.\nSPEAKER_00: Doare mereu sau doar la mișcare?\nSPEAKER_01: La mișcare.\nSPEAKER_00: Când ridicați mâna, doare?\nSPEAKER_01: Da, mai ales sus.\nSPEAKER_00: Sus, adică deasupra capului.\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă duceți mâna în spate, la centură, doare?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Amorțeli pe braț sau pe mână nu aveți?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Hai să facem câteva teste. Ridicați brațul înainte, încet... Când apare durerea?\nSPEAKER_01: Pe la jumătate.\nSPEAKER_00: Pe la jumătate, deci cam la 90 de grade. Acum continuați mai sus.\nSPEAKER_01: Au, da, acolo doare.\nSPEAKER_00: Și mai sus de 90 dispare un pic?\nSPEAKER_01: Un pic, da.\nSPEAKER_00: Asta e un arc dureros, specific pentru tendonul supraspinatos. Acum puneți mâna pe umărul opus și ridicați cotul.\nSPEAKER_01: Au.\nSPEAKER_00: Doare.\nSPEAKER_01: Da.\nSPEAKER_00: Înțeles. Antecedente medicale, tensiune, diabet, ceva de genul?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Medicamente luați aceva în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi la umărul ăsta?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Deci avem o inflamație la nivelul tendonului supraspinatos, din suprasolicitare la zugrăvit. O să lucrăm să reducem inflamația și să recăpătăm mobilitatea completă. Vă așez pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng apărută după zugrăvit, de aproximativ două săptămâni",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: inflamație tendon supraspinatos (arc dureros pozitiv la abducție ~90°, test Hawkins pozitiv)\nObiective terapeutice: reducerea inflamației; recuperarea mobilității complete a umărului stâng"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "De vreo două săptămâni.", "Am zugrăvit."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Asta e un arc dureros, specific pentru tendonul supraspinatos.", "O să lucrăm să reducem inflamația și să recăpătăm mobilitatea completă."]
+  }
+}

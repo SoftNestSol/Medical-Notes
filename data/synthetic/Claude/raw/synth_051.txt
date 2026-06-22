@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Gheorghe Dănilă.\nSPEAKER_00: Și vârsta?\nSPEAKER_01: 51.\nSPEAKER_00: Cu ce problemă ne vedem, domnule Dănilă?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo trei săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, o lovitură, un efort?\nSPEAKER_01: Am cărat niște saci.\nSPEAKER_00: Saci grei.\nSPEAKER_01: Da.\nSPEAKER_00: Și după aia a apărut durerea?\nSPEAKER_01: Da, a doua zi.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare acum?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: Și în momentul cel mai rău, când e mai intens?\nSPEAKER_01: Noaptea, când mă întorc pe el.\nSPEAKER_00: Noaptea, pe umărul drept. Doare și când ridicați mâna în sus?\nSPEAKER_01: Da.\nSPEAKER_00: Până unde reușiți să ridicați?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci cam la 90 de grade. Și pe spate, dacă duceți mâna la spate, doare?\nSPEAKER_01: Da, nu prea merge.\nSPEAKER_00: Nu merge. Durerea se lasă și pe braț în jos sau e doar locală la umăr?\nSPEAKER_01: Locală.\nSPEAKER_00: Strict locală. Ok. Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Tensiune, diabet, ceva de genul?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune. Luați ceva pentru ea?\nSPEAKER_01: Da. Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: Zilnic?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, operații?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai făcut vreun tratament pentru umăr până acum?\nSPEAKER_01: Am pus niște gel, atât.\nSPEAKER_00: Gel antiinflamator. A ajutat?\nSPEAKER_01: Puțin.\nSPEAKER_00: Puțin. Haideți să vedem acum. Stați cu mâna relaxată. O să apăs câteva zone și îmi spuneți dacă doare.\nSPEAKER_01: Ok.\nSPEAKER_00: Aici, pe capul lung al bicepsului, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Tare?\nSPEAKER_01: Cam da.\nSPEAKER_00: Acum ridic ușor brațul și apăs pe supraspinat. Doare?\nSPEAKER_01: Au, da.\nSPEAKER_00: Da. Acolo e mai sensibil. Și dacă apăs pe acromion?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Bun. Eu zic că avem o inflamație la nivelul tendoanelor din zona umărului, cel mai probabil supraspinat și capul lung al bicepsului. Obiectivul nostru e să reducem inflamația și să refacem mobilitatea umărului. Începem de astăzi?\nSPEAKER_01: Da.\nSPEAKER_00: Bun, haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (carat saci), de aproximativ trei saptamani",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: Inflamatie tendon supraspinat si capul lung al bicepsului, umar drept. Mobilitate limitata in abductie (aprox. 90 grade) si rotatie interna.\nObiective terapeutice: reducerea inflamatiei; refacerea mobilitatii umarului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Am cărat niște saci.", "Vreo trei săptămâni."],
+    "evaluarea_durerii_vas": ["Pe o scară de la 0 la 10, cât de tare doare acum?\nSPEAKER_01: Vreo 6."],
+    "localizarea_durerii": ["Care umăr?\nSPEAKER_01: Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Enalapril.", "10 miligrame."],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendoanelor din zona umărului, cel mai probabil supraspinat și capul lung al bicepsului", "Obiectivul nostru e să reducem inflamația și să refacem mobilitatea umărului.", "Cam până aici.", "apăs pe supraspinat. Doare?\nSPEAKER_01: Au, da.", "apăs pe acromion?\nSPEAKER_01: Da, și acolo."]
+  }
+}

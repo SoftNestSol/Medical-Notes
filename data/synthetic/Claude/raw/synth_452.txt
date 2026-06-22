@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Gheorghe Niculescu.\nSPEAKER_00: Gheorghe, bine ați venit. Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Cel drept.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo trei săptămâni.\nSPEAKER_00: Și a apărut după ceva anume, o lovitură, un efort?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Aha, deci un efort brusc. Și de atunci doare continuu sau mai mult când faceți anumite mișcări?\nSPEAKER_01: Când mă mișc, mai ales când ridic mâna.\nSPEAKER_00: Când ridicați mâna în sus doare, da?\nSPEAKER_01: Da.\nSPEAKER_00: Și în rest, dacă stați nemișcat?\nSPEAKER_01: Mai puțin. Noaptea mă deranjează câteodată.\nSPEAKER_00: Vă trezește noaptea din somn?\nSPEAKER_01: Uneori.\nSPEAKER_00: Pe ce parte dormiți de obicei?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Deci chiar pe umărul care doare. Asta probabil agravează.\nSPEAKER_01: Probabil, da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, câte dați acestei dureri când ridicați mâna?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. Și când stați liniștit?\nSPEAKER_01: Vreo 2.\nSPEAKER_00: Bun. Durerea rămâne în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne pe aici, în umăr.\nSPEAKER_00: Bine. Aveți și vreo amorțeală pe braț sau pe degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Ce meserie aveți, dacă pot să întreb?\nSPEAKER_01: Electrician.\nSPEAKER_00: Muncă multă cu mâinile ridicate, presupun.\nSPEAKER_01: Da, destul de mult.\nSPEAKER_00: Și în momentul ăsta lucrați sau ați redus activitatea?\nSPEAKER_01: Lucrez, dar evit să ridic mâna prea sus.\nSPEAKER_00: Am înțeles. Tensiune, diabet, boli de inimă, osteoporoză, ceva de genul ăsta?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Bun. Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Nu am luat nimic.\nSPEAKER_00: Ok. Ați mai făcut vreodată kinetoterapie sau terapie manuală?\nSPEAKER_01: Nu.\nSPEAKER_00: Prima dată. Bun, haideți să facem câteva teste. Ridicați brațul drept, ușor, în față... cât puteți.\nSPEAKER_01: Până pe aici pot.\nSPEAKER_00: Deci cam la 90 de grade vă oprește durerea. Acum în lateral, ridicați în lateral.\nSPEAKER_01: La fel, pe aici.\nSPEAKER_00: Aproximativ la 80-90 de grade și în lateral. Bun. Acum pun mâna pe umăr și apăs ușor pe zona de deasupra articulației, spuneți-mi dacă doare.\nSPEAKER_01: Da, doare acolo.\nSPEAKER_00: Chiar pe zona subacromială. Acum faceți mișcarea asta, aduceți mâna la spate.\nSPEAKER_01: Greu, nu prea pot.\nSPEAKER_00: Se blochează. Ok, și apăs acum pe biceps, în zona de tendon.\nSPEAKER_01: Aia doare mai puțin.\nSPEAKER_00: Bun. Deci durerea principală e în zona superioară a umărului. Avem o inflamație la nivelul manșetei rotatorilor, cel mai probabil supraspinat implicat, cu o componență subacromială. Mobilitatea e limitată, flexie și abducție blocate cam la 90 de grade. O să lucrăm să reducem inflamația și să recuperăm amplitudinea de mișcare. Bine?\nSPEAKER_01: Da, bine.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutat mobila), de aproximativ trei saptamani",
+    "evaluarea_durerii_vas": [6, 2],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Inflamatie manseta rotatorilor umar drept (supraspinat), cu componenta subacromială.\nObiective terapeutice: reducerea inflamatiei; refacerea amplitudinii de miscare (flexie si abductie limitate la aproximativ 90 de grade)."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă.", "De vreo trei săptămâni."],
+    "evaluarea_durerii_vas": ["Un 6.", "Vreo 2."],
+    "localizarea_durerii": ["Cel drept.", "Rămâne pe aici, în umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Avem o inflamație la nivelul manșetei rotatorilor, cel mai probabil supraspinat implicat, cu o componență subacromială. Mobilitatea e limitată, flexie și abducție blocate cam la 90 de grade. O să lucrăm să reducem inflamația și să recuperăm amplitudinea de mișcare."]
+  }
+}

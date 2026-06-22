@@ -1,0 +1,25 @@
+{
+  "motivul_prezentarii": "Dureri cervicale cu iradiere spre umarul stang, accentuate la rotatia capului si dimineata la trezire, de aproximativ trei-patru saptamani.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_stg",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "operatie menisc drept (10 ani), fractura mana stanga (veche), colesterol marit",
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 mg"
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- Contractura musculara cervicala, predominant stanga;\n- Iritatie posibila C5-C6 cu iradiere spre umar stang;\n- Postura cap anterior (forward head posture);\n- Mobilitate redusa la rotatie cervicala spre stanga;\nObiective terapeutice:\n- Reducerea contracturii musculare cervicale;\n- Recuperarea mobilitatii in rotatie;\n- Ameliorarea durerii si imbunatatirea somnului;\n- Recomandare RMN cervical."
+}

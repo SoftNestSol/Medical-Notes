@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut din senin sau după ceva, după un efort, după o mișcare?\nSPEAKER_01: Am cărat niște saci.\nSPEAKER_00: Saci grei?\nSPEAKER_01: Da, de ciment.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde situați durerea?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Doar când ridicați sau și noaptea, când dormiți pe acea parte?\nSPEAKER_01: Și noaptea, da.\nSPEAKER_00: Mă înțeleg. Doare strict în umăr sau se lasă și pe braț, mai jos?\nSPEAKER_01: Mai mult în umăr. Un pic și aici.\nSPEAKER_00: Pe braț, pe față sau pe lateral?\nSPEAKER_01: Pe lateral, pe aici.\nSPEAKER_00: Ok. Amorțește mâna vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio boală mai veche?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Nimic.\nSPEAKER_00: Ok. Haideți să facem câteva mișcări. Ridicați brațul ăsta înainte, încet.\nSPEAKER_01: Au.\nSPEAKER_00: Doare la ce unghi, pe la mijloc sau mai sus?\nSPEAKER_01: De pe la mijloc încolo.\nSPEAKER_00: Lăsați brațul jos. Acum îl ridicați lateral.\nSPEAKER_01: Au, la fel.\nSPEAKER_00: La fel, același unghi. Acum duceți mâna la spate, ca și cum ați pune mâna la portofel.\nSPEAKER_01: Nu prea pot.\nSPEAKER_00: Se blochează sau doare?\nSPEAKER_01: Și doare și nu merge.\nSPEAKER_00: Am înțeles. Apăs puțin aici pe capul umărului, spuneți-mi dacă doare.\nSPEAKER_01: Da, doare.\nSPEAKER_00: Și dacă apăs pe muschiul ăsta de aici, de deasupra?\nSPEAKER_01: Mai tare.\nSPEAKER_00: Deci durere la palpare pe supraspinat și pe capul humeral. Avem un arc dureros la abducție activă, limitare la rotația internă. Pare o tendinopatie de coafă a rotatorilor, cel mai probabil supraspinat. O să lucrăm să reducem inflamația și să recuperăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng după căratul sacilor de ciment, de aproximativ două săptămâni",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": "braț stâng lateral",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinopatie coafă rotatori, supraspinat stâng. Arc dureros la abducție activă, limitare la rotația internă, durere la palpare supraspinat și cap humeral. Obiective terapeutice: reducerea inflamației, recuperarea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Am cărat niște saci.", "Da, de ciment.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 7."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": ["Un pic și aici.", "Pe lateral, pe aici."],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Deci durere la palpare pe supraspinat și pe capul humeral. Avem un arc dureros la abducție activă, limitare la rotația internă. Pare o tendinopatie de coafă a rotatorilor, cel mai probabil supraspinat. O să lucrăm să reducem inflamația și să recuperăm mobilitatea."]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 4.84,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem azi?"
+    },
+    {
+      "start": 4.96,
+      "end": 19.78,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, am o durere la umăr, la cel stâng, de vreo două săptămâni și jumătate. Adică a început mai ușor, credeam că trece singură, dar nu a trecut, ba chiar s-a mai înrăutățit un pic noaptea mai ales."
+    },
+    {
+      "start": 19.9,
+      "end": 22.18,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și vârsta, dacă se poate?"
+    },
+    {
+      "start": 22.3,
+      "end": 23.44,
+      "speaker": "SPEAKER_01",
+      "text": "37 de ani."
+    },
+    {
+      "start": 23.56,
+      "end": 28.88,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ce s-a întâmplat acum două săptămâni și jumătate, a fost ceva anume?"
+    },
+    {
+      "start": 29.0,
+      "end": 46.86,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, am mutat niște mobilă singur, că nu am avut cu cine, și am cărat niște cutii destul de grele, pe scări. Și a doua zi dimineața m-am trezit cu umărul blocat, nu puteam să ridic brațul sus. Adică am putut, dar m-a durut îngrozitor."
+    },
+    {
+      "start": 46.98,
+      "end": 50.4,
+      "speaker": "SPEAKER_00",
+      "text": "Și acum, în momentul de față, puteți ridica brațul?"
+    },
+    {
+      "start": 50.52,
+      "end": 60.4,
+      "speaker": "SPEAKER_01",
+      "text": "Da, pot, dar nu până sus de tot. Până pe la nivelul ăsta, cam până la ureche, și după aia e ca un zid, mă opresc."
+    },
+    {
+      "start": 60.52,
+      "end": 64.32,
+      "speaker": "SPEAKER_00",
+      "text": "Doare când ridicați în față sau mai mult pe lateral?"
+    },
+    {
+      "start": 64.44,
+      "end": 74.7,
+      "speaker": "SPEAKER_01",
+      "text": "Pe lateral e mai rău. În față merge mai bine. Și când întorc brațul, știți, ca și cum aș face o rotație, aia doare cel mai tare."
+    },
+    {
+      "start": 74.82,
+      "end": 77.86,
+      "speaker": "SPEAKER_00",
+      "text": "Doare și noaptea când stați pe umărul stâng?"
+    },
+    {
+      "start": 77.98,
+      "end": 93.18,
+      "speaker": "SPEAKER_01",
+      "text": "Da, de-aia nu dorm bine. M-am tot gândit dacă am rupt ceva acolo, că a mai pățit un coleg de-al meu și a ieșit că are tendonul rupt și a trebuit operat. M-a speriat treaba asta."
+    },
+    {
+      "start": 93.3,
+      "end": 106.98,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Haideți să vedem, că nu trebuie să ne îngrijorăm înainte să verificăm. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum ați situa durerea acum?"
+    },
+    {
+      "start": 107.1,
+      "end": 114.32,
+      "speaker": "SPEAKER_01",
+      "text": "Acum în repaus, un 3, poate un 4. Dar dacă ridic brațul sau dorm prost, ajunge și la 7."
+    },
+    {
+      "start": 114.44,
+      "end": 117.86,
+      "speaker": "SPEAKER_00",
+      "text": "Deci în repaus un 4, la mișcare un 7."
+    },
+    {
+      "start": 117.98,
+      "end": 119.12,
+      "speaker": "SPEAKER_01",
+      "text": "Cam așa, da."
+    },
+    {
+      "start": 119.24,
+      "end": 120.38,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțește mâna, degetele?"
+    },
+    {
+      "start": 120.5,
+      "end": 125.82,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, amorțeală nu am. E mai mult durerea aia surdă, adâncă, în umăr."
+    },
+    {
+      "start": 125.94,
+      "end": 129.74,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ați aplicat ceva pe el, vreun gel, vreun unguent?"
+    },
+    {
+      "start": 129.86,
+      "end": 135.94,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am pus Voltaren câteva zile, părea că mai ajută puțin, dar nu a rezolvat problema."
+    },
+    {
+      "start": 136.06,
+      "end": 139.1,
+      "speaker": "SPEAKER_00",
+      "text": "Alte afecțiuni, tensiune, diabet, osteoporoză, ceva de genul?"
+    },
+    {
+      "start": 139.22,
+      "end": 145.3,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea. Sunt destul de sănătos în rest, nu am nimic cronic."
+    },
+    {
+      "start": 145.42,
+      "end": 146.56,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale, fracturi?"
+    },
+    {
+      "start": 146.68,
+      "end": 147.48,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 147.6,
+      "end": 154.82,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să vă rog să stați în picioare și să ridicați ușor brațul stâng pe lateral pentru mine."
+    },
+    {
+      "start": 154.94,
+      "end": 158.36,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot... și după aia na, se oprește."
+    },
+    {
+      "start": 158.48,
+      "end": 169.5,
+      "speaker": "SPEAKER_00",
+      "text": "Da, văd. Cam 120 de grade. Stați puțin, o să vă prind brațul ușor și o să fac eu o mișcare mică de rotație externă. Spuneți-mi dacă doare."
+    },
+    {
+      "start": 169.62,
+      "end": 171.9,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, da, acolo e. Aia doare."
+    },
+    {
+      "start": 172.02,
+      "end": 176.58,
+      "speaker": "SPEAKER_00",
+      "text": "Da. O să verific și zona de tendoane sus, pe sub acromion."
+    },
+    {
+      "start": 176.7,
+      "end": 178.98,
+      "speaker": "SPEAKER_01",
+      "text": "Au, acolo e cel mai rău."
+    },
+    {
+      "start": 179.1,
+      "end": 181.0,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Apăsând aici doare, da?"
+    },
+    {
+      "start": 181.12,
+      "end": 181.92,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mult."
+    },
+    {
+      "start": 182.04,
+      "end": 195.72,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Cel mai probabil avem o inflamație la nivelul tendoanelor rotatorilor, zona de supraspinos în special. Nu pare a fi o ruptură, că mișcarea e prezentă, dar avem nevoie să reducem inflamația și să recuperăm mobilitatea."
+    },
+    {
+      "start": 195.84,
+      "end": 197.74,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu am rupt nimic?"
+    },
+    {
+      "start": 197.86,
+      "end": 208.88,
+      "speaker": "SPEAKER_00",
+      "text": "Funcțional nu arată a ruptură completă, dar ca să fim siguri ar fi bine să faceți o ecografie sau un RMN la umăr. Deocamdată putem să începem să lucrăm."
+    },
+    {
+      "start": 209.0,
+      "end": 212.42,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, asta mă liniștește. Mă gândeam la cel rău."
+    },
+    {
+      "start": 212.54,
+      "end": 214.06,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă, începem."
+    }
+  ]
+}

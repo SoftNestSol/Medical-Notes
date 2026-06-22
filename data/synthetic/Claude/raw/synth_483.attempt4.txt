@@ -1,0 +1,48 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce vă pot ajuta astăzi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de sus?\nSPEAKER_01: De jos, da.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut din senin sau după ceva anume?\nSPEAKER_01: Am ridicat niște saci de ciment.\nSPEAKER_00: Saci de ciment, înțeles. Și imediat după aia a apărut durerea sau a doua zi?\nSPEAKER_01: A doua zi dimineața.\nSPEAKER_00: Dimineața când v-ați ridicat din pat.\nSPEAKER_01: Da.\nSPEAKER_00: Și de atunci doare constant sau mai trece?\nSPEAKER_01: Mai trece când stau întins.\nSPEAKER_00: Când stați întins se ameliorează. Și când e mai rău, când stați jos pe scaun, când mergeți, când vă aplecați?\nSPEAKER_01: Când mă aplec și când stau mult pe scaun.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e cel mai rău, cum e durerea acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Și la cel mai rău, când vă aplecați, cât ajunge?\nSPEAKER_01: 7, poate 8.\nSPEAKER_00: 7-8 la aplecare. Durerea rămâne în zona lombară sau coboară și pe picior, pe fesă?\nSPEAKER_01: Nu, rămâne acolo.\nSPEAKER_00: Strict în spate, jos.\nSPEAKER_01: Da.\nSPEAKER_00: Amorțesc picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Și mai spre mijloc doare sau mai spre o parte?\nSPEAKER_01: Cam pe mijloc, poate un pic mai pe stânga.\nSPEAKER_00: Un pic mai pe stânga. Haideți să vedem. Stați puțin în picioare pentru mine.\nSPEAKER_01: Da.\nSPEAKER_00: Aplecați-vă încet în față, cât puteți.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare?\nSPEAKER_01: Da, acum doare.\nSPEAKER_00: Și spre stânga dacă vă aplecați lateral?\nSPEAKER_01: Uh, doare mai tare.\nSPEAKER_00: Spre dreapta?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Am înțeles. Și spre spate?\nSPEAKER_01: Nu prea doare.\nSPEAKER_00: Nu prea. Bun. Stați pe piciorul stâng singur, ridicați dreapta puțin.\nSPEAKER_01: Da, mă ține.\nSPEAKER_00: Vă ține, bine. Acum pe dreapta.\nSPEAKER_01: La fel.\nSPEAKER_00: Ok, echilibru bun. Haideți pe masă, vă rog, cu fața în jos.\nSPEAKER_01: Da.\nSPEAKER_00: O să apăs puțin pe zona lombară, îmi spuneți unde doare mai tare.\nSPEAKER_01: Ah, acolo, pe stânga.\nSPEAKER_00: Pe stânga, da, pătrat lombar. Și mai jos, spre sacru?\nSPEAKER_01: Mai puțin, dar tot simte.\nSPEAKER_00: Simte și acolo. Bun. Tensiune, diabet, alte boli știute?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nimic. Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Deci avem o contractură pe pătrat lombar stâng, zona lombosacrală sensibilă la palpare, și mobilitate limitată la flexie și înclinare laterală stânga. Vom lucra să reducem inflamația și contractura, să redobândim mobilitatea normală. Începem?\nSPEAKER_01: Da, desigur.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută după ridicare de saci de ciment, prezentă de două săptămâni, accentuată la aplecare și stat prelungit pe scaun, ameliorată în decubit.",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": [
+      "lombar",
+      "sacral_coccis"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nMobilitate limitată la flexie anterioară și înclinare laterală stânga, cu durere la aceste mișcări. Înclinare spre dreapta mai puțin dureroasă. Extensie relativ păstrată. Palpare: sensibilitate accentuată paravertebral stâng (pătrat lombar), sensibilitate mai redusă la nivel sacral. Echilibru unipodal păstrat bilateral.\nDiagnostic:\nContractură pătrat lombar stâng cu lombosacralgiet mecanică acută post-efort.\nObiective terapeutice:\n- reducerea inflamației și contracturii musculare;\n- redobândirea mobilității lombare normale."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Am ridicat niște saci de ciment.",
+      "Vreo două săptămâni.",
+      "Când mă aplec și când stau mult pe scaun.",
+      "Mai trece când stau întins."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5.",
+      "7, poate 8."
+    ],
+    "localizarea_durerii": [
+      "De jos, da.",
+      "Mai spre mijloc doare sau mai spre o parte? Cam pe mijloc, poate un pic mai pe stânga.",
+      "Mai puțin, dar tot simte."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Luați vreun medicament în prezent? Nu."
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură pe pătrat lombar stâng, zona lombosacrală sensibilă la palpare, și mobilitate limitată la flexie și înclinare laterală stânga",
+      "Vom lucra să reducem inflamația și contractura, să redobândim mobilitatea normală.",
+      "Ah, acolo, pe stânga.",
+      "Uh, doare mai tare.",
+      "Nu prea doare.",
+      "Da, mă ține."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere umar stang de aproximativ trei saptamani, aparuta dupa efort fizic intens (mutat mobila/carate cutii grele), accentuata la ridicarea bratului si la rotatia interna, mai intensa seara.",
+  "evaluarea_durerii_vas": [
+    3,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "partea superioara a bratului stang (nu coboara sub cot)",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: tendinita coif rotatori, supraspinos afectat.\nObiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii complete a umarului."
+}

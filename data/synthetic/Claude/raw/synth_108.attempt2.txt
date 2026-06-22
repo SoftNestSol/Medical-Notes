@@ -1,0 +1,63 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă vă confruntați.\nSPEAKER_01: Păi, mă doare spatele, da, de ceva vreme.\nSPEAKER_00: Spatele, bun. Unde anume, mai sus, mai jos?\nSPEAKER_01: Mai jos, pe aici, pe zona asta de jos.\nSPEAKER_00: Zona lombară, ok. Și de cât timp?\nSPEAKER_01: Nu știu exact, de câteva luni cel puțin. Parcă de prin vară a început mai serios.\nSPEAKER_00: Deci cam trei, patru luni.\nSPEAKER_01: Da, cam așa ceva, nu știu precis.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare insuportabil, unde ați situa durerea?\nSPEAKER_01: Păi nu știu, depinde, uneori e mai rău, uneori mai puțin.\nSPEAKER_00: La momentul ăsta, acum, cum e?\nSPEAKER_01: Acum, pe aici, un 5, 6, ceva de genul.\nSPEAKER_00: 5-6. Și când e mai rău?\nSPEAKER_01: Când mă aplec sau când stau mult în picioare. Atunci e mai nasol.\nSPEAKER_00: Dar noaptea, vă treziți din durere?\nSPEAKER_01: Da, câteodată da. Nu mereu, dar se întâmplă.\nSPEAKER_00: Înțeleg. Durerea asta se lasă și în altă parte, pe picior, pe fese?\nSPEAKER_01: Păi, pe aici, pe fesă stângă mai mult, și câteodată simt ceva pe coapsa, în spate.\nSPEAKER_00: Pe coapsa posterioară stângă?\nSPEAKER_01: Da, pe acolo, nu coboară mai jos, adică nu ajunge la picior propriu-zis.\nSPEAKER_00: Amorțeli, furnicături?\nSPEAKER_01: Câteodată furnicături, nu știu, rar.\nSPEAKER_00: Rar, ok. Și ce muncă faceți?\nSPEAKER_01: Stau mult la birou, programator.\nSPEAKER_00: Programator, deci mult stat jos.\nSPEAKER_01: Da, zece ore pe zi, uneori mai mult.\nSPEAKER_00: Și scaunul la birou e un scaun normal, nu ergonomic?\nSPEAKER_01: E un scaun obișnuit, nu știu ce să zic despre el.\nSPEAKER_00: Ok. Ați mai avut această durere înainte de vară, sau a apărut prima dată acum?\nSPEAKER_01: A mai fost și mai demult, dar nu așa. Adică mai aveam câte o zi, două, trecea. Acuma nu mai trece.\nSPEAKER_00: A devenit constantă. Ați mers la un medic, ați făcut vreo investigație?\nSPEAKER_01: Am fost la medicul de familie, mi-a dat niște antiinflamatoare. Le-am luat vreo două săptămâni, m-a mai ajutat un pic, dar nu s-a rezolvat.\nSPEAKER_00: Și acum mai luați ceva?\nSPEAKER_01: Iau Ibuprofen câteodată, când nu mai pot, nu regulat.\nSPEAKER_00: Câte miligrame?\nSPEAKER_01: Nu știu exact, cele de la farmacie, 400 parcă.\nSPEAKER_00: Ok, deci Ibuprofen 400. Altceva, alte medicamente?\nSPEAKER_01: Nu, nimic altceva.\nSPEAKER_00: Aveți vreo boală despre care știți, tensiune, diabet, osteoporoză, ceva diagnosticat?\nSPEAKER_01: Nu, nu am nimic, sunt sănătos altfel.\nSPEAKER_00: Fracturi, operații?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Stați în picioare, cu spatele la mine. Relaxați umerii.\nSPEAKER_01: Așa?\nSPEAKER_00: Da. Observ că aveți umărul stâng puțin mai jos decât cel drept, și bazinul ușor dezechilibrat.\nSPEAKER_01: Aha, nu știam.\nSPEAKER_00: Aplecați-vă încet în față, cât puteți.\nSPEAKER_01: Doare, da, pe aici.\nSPEAKER_00: Doare în zona lombară la flexie. Și înapoi, încet.\nSPEAKER_01: Și asta doare, mai puțin, dar da.\nSPEAKER_00: Bun. Acum stați pe masa de tratament, cu fața în sus. Ridic piciorul stâng, îmi spuneți când începe să doară.\nSPEAKER_01: Acum, cam pe aici.\nSPEAKER_00: La cam 40 de grade. Doare în lombă sau se lasă pe picior?\nSPEAKER_01: Se lasă un pic pe fesă și pe coapsa aia din spate.\nSPEAKER_00: Înțeleg. Piciorul drept.\nSPEAKER_01: Nu, dreapta nu doare.\nSPEAKER_00: Ok. Apăs acum pe coloana lombară, spuneți-mi unde simțiți ceva.\nSPEAKER_01: Acolo, la mijloc, cam acolo.\nSPEAKER_00: La nivelul L4-L5 simt o tensiune musculară destul de mare.\nSPEAKER_01: Doare când apăsați.\nSPEAKER_00: Da, musculatura e contractată. Și pe piriform, pe fesa stângă, apăs ușor.\nSPEAKER_01: Vai, da, acolo doare rău.\nSPEAKER_00: Piriformul stâng e inflamat. Asta explică și senzația pe coapsa.\nSPEAKER_01: Deci de asta simt pe acolo.\nSPEAKER_00: Exact. Avem o contractură lombară cu iritație la nivelul L4-L5 și o inflamație a piriformului stâng care dă durerea pe fesă și coapsa posterioară stângă. Cel mai probabil e legat de postura de la birou și de dezechilibrul pelvin pe care l-am observat.\nSPEAKER_01: Deci nu e ceva grav?\nSPEAKER_00: Nu are semne de radiculopatie activă la momentul acesta, dar trebuie să lucrăm ca să nu ajungă acolo. O să reducem inflamația, o să eliberăm musculatura și o să corectăm postura.\nSPEAKER_01: Bun, bun.\nSPEAKER_00: Ați mai făcut kinetoterapie, masaj, ceva de genul?\nSPEAKER_01: Nu, prima dată vin la ceva de genul acesta.\nSPEAKER_00: Ok. Câte ședințe pot, e ok?\nSPEAKER_01: Da, merg.\nSPEAKER_00: Bine, începem.",
+
+  "note": {
+    "motivul_prezentarii": "Pacient programator, stat prelungit la birou (~10 ore/zi). Durere lombară joasă cu debut în vară, persistentă de câteva luni, cu iradiere pe fesa stângă și coapsa posterioară stângă. Durere accentuată la flexie, ortostatism prelungit, uneori noaptea. Furnicături rare.",
+    "evaluarea_durerii_vas": null,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": "fesa stanga, coapsa posterioara stanga",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observatii posturale / biomecanice:\nUmar stang mai jos decat cel drept; bazin usor dezechilibrat. Contractura musculara paravertebrala lombara la nivelul L4-L5 la palpare. Piriform stang inflamat (durere la palpare). Test Lasegue pozitiv pe stanga la aproximativ 40 de grade, cu iradiere pe fesa si coapsa posterioara stanga; negativ pe dreapta. Durere la flexie si extensie lombara activa.\nDiagnostic:\nContractura lombara cu iritatie L4-L5 si inflamatie piriform stang; dezechilibru pelvin. Fara semne de radiculopatie activa la momentul evaluarii.\nObiective terapeutice:\nReducerea inflamatiei si eliberarea contracturii musculare lombare; tratarea inflamatiei piriformului stang; corectarea posturii si a dezechilibrului pelvin."
+  },
+
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, da, de ceva vreme",
+      "Mai jos, pe aici, pe zona asta de jos",
+      "de câteva luni cel puțin. Parcă de prin vară a început mai serios",
+      "pe fesă stângă mai mult, și câteodată simt ceva pe coapsa, în spate",
+      "Stau mult la birou, programator",
+      "zece ore pe zi, uneori mai mult",
+      "Câteodată furnicături, nu știu, rar",
+      "Când mă aplec sau când stau mult în picioare",
+      "câteodată da. Nu mereu, dar se întâmplă"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "mă doare spatele",
+      "Mai jos, pe aici, pe zona asta de jos",
+      "Zona lombară, ok"
+    ],
+    "localizarea_durerii_alta": [
+      "pe fesă stângă mai mult, și câteodată simt ceva pe coapsa, în spate",
+      "Se lasă un pic pe fesă și pe coapsa aia din spate",
+      "Piriformul stâng e inflamat. Asta explică și senzația pe coapsa"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Ibuprofen câteodată, când nu mai pot, nu regulat",
+      "400 parcă"
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți umărul stâng puțin mai jos decât cel drept, și bazinul ușor dezechilibrat",
+      "La cam 40 de grade. Doare în lombă sau se lasă pe picior?",
+      "Se lasă un pic pe fesă și pe coapsa aia din spate",
+      "Piciorul drept. Nu, dreapta nu doare",
+      "La nivelul L4-L5 simt o tensiune musculară destul de mare",
+      "Piriformul stâng e inflamat",
+      "Avem o contractură lombară cu iritație la nivelul L4-L5 și o inflamație a piriformului stâng",
+      "Nu are semne de radiculopatie activă la momentul acesta",
+      "o să reducem inflamația, o să eliberăm musculatura și o să corectăm postura"
+    ]
+  }
+}

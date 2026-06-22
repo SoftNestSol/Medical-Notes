@@ -1,0 +1,52 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți la noi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut dintr-o dată sau treptat?\nSPEAKER_01: Treptat.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Un 5. Doare mai mult când întoarceți capul sau tot timpul?\nSPEAKER_01: Când întorc, da. Și dimineața mai rău.\nSPEAKER_00: Dimineața e mai rău. Vă ține și ceafa, nu doar gâtul?\nSPEAKER_01: Da, cam pe aici tot.\nSPEAKER_00: Durerea se lasă și pe umăr sau pe braț?\nSPEAKER_01: Puțin pe umărul drept.\nSPEAKER_00: Puțin pe umărul drept. Amorțește mâna sau degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Lucrați la birou?\nSPEAKER_01: Da, tot timpul la calculator.\nSPEAKER_00: Înțeles. Și stați mult cu capul în față, aplecați spre ecran?\nSPEAKER_01: Probabil, nu știu.\nSPEAKER_00: Ok. Alte dureri în afară de gât și umărul drept?\nSPEAKER_01: Nu, astea.\nSPEAKER_00: Aveți tensiune, diabet, vreo altă afecțiune?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio operație, nicio fractură?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nurofen când nu mai suport.\nSPEAKER_00: Nurofen. Cât de des?\nSPEAKER_01: Rar, o dată două pe săptămână.\nSPEAKER_00: Ok, înțeles. Haideți să stați puțin cu spatele la mine. Stați drept, relaxat.\nSPEAKER_01: Așa?\nSPEAKER_00: Da, exact. Vedem o proiecție a capului în față, postura antepulsată. Întoarceți capul spre dreapta, ușor.\nSPEAKER_01: Au, da, doare.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Da, limitare de rotație pe dreapta. Apăs puțin aici, pe zona cervicală, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Și pe trapez, pe dreapta?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Bun. Deci avem o contractură musculară la nivel cervical, trapez drept, cu limitare de mobilitate la rotația dreaptă. Cel mai probabil din postura de la calculator. O să lucrăm să reducem tensiunea musculară și să recăpătăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală și ceafă cu iradiere ușoară pe umărul drept, instalată treptat în ultimele două săptămâni, accentuată la rotația capului spre dreapta și dimineața, la un pacient care lucrează la calculator.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Postură antepulsată, cap proiectat în față. Limitare de rotație cervicală pe dreapta, durere la rotație dreapta. Contractură musculară cervicală și trapez drept. Obiective: reducerea tensiunii musculare și recăpătarea mobilității cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "De vreo două săptămâni.",
+      "Treptat.",
+      "Când întorc, da. Și dimineața mai rău.",
+      "Puțin pe umărul drept.",
+      "Da, tot timpul la calculator."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Da, cam pe aici tot.",
+      "Puțin pe umărul drept."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nurofen când nu mai suport."
+    ],
+    "evaluare_functionala_initiala": [
+      "Vedem o proiecție a capului în față, postura antepulsată.",
+      "limitare de rotație pe dreapta",
+      "avem o contractură musculară la nivel cervical, trapez drept, cu limitare de mobilitate la rotația dreaptă",
+      "O să lucrăm să reducem tensiunea musculară și să recăpătăm mobilitatea."
+    ]
+  }
+}

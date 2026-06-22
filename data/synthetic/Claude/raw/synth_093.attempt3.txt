@@ -1,0 +1,44 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și ce-ați făcut în perioada asta, a apărut după ceva anume?\nSPEAKER_01: Am mutat niște cutii.\nSPEAKER_00: Ați ridicat greutăți, da?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde situați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Vă doare constant sau doar la mișcare?\nSPEAKER_01: La mișcare.\nSPEAKER_00: Când ridicați brațul în sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și când îl duceți în spate?\nSPEAKER_01: Da, mai tare.\nSPEAKER_00: Mai tare în spate. Vă doare și noaptea, vă treziți din somn?\nSPEAKER_01: Uneori.\nSPEAKER_00: Pe ce parte dormiți?\nSPEAKER_01: Pe dreapta de obicei.\nSPEAKER_00: Aha, asta poate agrava. Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Luați vreun medicament acum pentru durere?\nSPEAKER_01: Am luat un ibuprofen, dar rar.\nSPEAKER_00: Ibuprofen, știți ce doză?\nSPEAKER_01: Nu știu, cel obișnuit.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune arterială, diabet, probleme la inimă?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații anterioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Fracturi, traumatisme la umăr înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Ridicați brațul drept în față, așa, încet.\nSPEAKER_01: Până aici mai mult nu pot.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Acum duceți-l lateral, tot încet.\nSPEAKER_01: Aoleu, da.\nSPEAKER_00: Apăs acum pe zona asta de sus, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo fix.\nSPEAKER_00: Înțeleg. Avem o inflamație la nivelul tendoanelor umărului drept, cel mai probabil o tendinită de supraspinos. Mobilitatea e limitată, mai ales în abducție și în rotație externă. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă recomand să nu mai dormiți pe partea dreaptă deocamdată.\nSPEAKER_01: Da, înțeles.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după ridicat greutăți (mutat cutii), de aproximativ două săptămâni. Durere la mișcare (abducție și rotație externă), cu exacerbare nocturnă la dormit pe partea dreaptă.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinită de supraspinos umăr drept. Mobilitate limitată în abducție și rotație externă. Durere la palparea zonei superioare a umărului drept.\nObiective terapeutice: reducerea inflamației, recuperarea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul",
+      "Dreptul",
+      "Vreo două săptămâni",
+      "Am mutat niște cutii"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5"
+    ],
+    "localizarea_durerii": [
+      "Dreptul",
+      "Mă doare umărul"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un ibuprofen, dar rar"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o inflamație la nivelul tendoanelor umărului drept, cel mai probabil o tendinită de supraspinos. Mobilitatea e limitată, mai ales în abducție și în rotație externă. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "conversation_id": "synth_034",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Cel drept."
+    ],
+    "evaluarea_durerii_vas": [
+      "când ridicați brațul, cât e durerea?\nSPEAKER_01: Vreo 7.",
+      "Și când stați liniștit, nemișcat?\nSPEAKER_01: 2, poate."
+    ],
+    "localizarea_durerii": [
+      "Cel drept.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofen.",
+      "Una la două zile, când nu mai suport."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare o tendinopatie la nivelul coafei rotatorilor, cel mai probabil supraspinosul. Vom lucra să reducem inflamația de acolo și să refacem mobilitatea umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 13499
+    },
+    "cache_creation_input_tokens": 13499,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1793,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Durere umar drept aparuta brusc dupa ridicarea unui sac de ciment, de aproximativ doua saptamani. Limitare de mobilitate la abductie si rotatie interna, durere nocturna.",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: sindrom de impingement subacromial, inflamatie tendon supraspinos.\nObiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii umarul drept."
+}

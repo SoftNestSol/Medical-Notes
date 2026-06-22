@@ -1,0 +1,50 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne confruntăm azi.\nSPEAKER_01: Păi, mă doare umărul, cel stâng, de vreo două săptămâni. Adică a început mai ușor, credeam că trece de la sine, știți cum e, mai dormi strâmb, mai faci câte ceva și trece. Dar nu a trecut, dimpotrivă, parcă s-a mai agravat.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât estimați?\nSPEAKER_01: Aș zice un 5. Nu e insuportabil, dar mă deranjează când ridic mâna, când mă îmbrac dimineața, mai ales când trag un pulover pe cap, atunci chiar trage rău.\nSPEAKER_00: Deci durerea apare la mișcarea de ridicare a brațului.\nSPEAKER_01: Da, și dacă încerc să dau mâna în spate, știți, ca și cum ai lua portofelul din buzunarul de la spate, acolo simt că se blochează ceva și doare.\nSPEAKER_00: Înțeleg. Și durerea rămâne strict în umăr sau se lasă cumva pe braț, pe cot?\nSPEAKER_01: Rămâne pe aici, în umăr, poate puțin pe partea de sus a brațului, dar nu mai departe. Nu mă doare cotul sau mâna, nu.\nSPEAKER_00: Bun. Și cum a apărut? Ați lovit ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Nu, nimic spectaculos. Asta mă și frământă, pentru că n-am făcut nimic special. Lucrez la birou, stau mult la calculator. Poate de la postură, nu știu. Soția mea zice că stau cocoșat toată ziua, probabil are dreptate. Și mai merg la sală ocazional, nu regulat, o dată pe săptămână când am timp, și poate am forțat ceva acolo la o mișcare, dar nu știu exact.\nSPEAKER_00: Deci nu există un traumatism clar.\nSPEAKER_01: Nu, nu. Nimic clar. M-am trezit pur și simplu cu el.\nSPEAKER_00: Noaptea vă deranjează? Vă treziți din cauza durerii?\nSPEAKER_01: Da, asta e cel mai enervant. Dacă stau pe partea stângă, mă trezesc. Trebuie să stau pe dreapta sau pe spate, altfel nu pot. Și dimineața e mai rigid, parcă e înțepenit.\nSPEAKER_00: Am înțeles. Ați încercat ceva pentru durere până acum?\nSPEAKER_01: Am pus un gel antiinflamator, Voltaren, câteva zile. A mai ajutat puțin pe moment, dar nu a rezolvat problema. N-am luat pastile, nu prea îmi place să iau pastile.\nSPEAKER_00: Ok. Alte afecțiuni, diabet, tensiune, probleme cardiace?\nSPEAKER_01: Nu, nimic. Sunt destul de sănătos în rest, slavă Domnului. Tensiunea e bună, am făcut analize acum câteva luni, totul în regulă. Mă îngrijorează că o fi ceva grav la umăr, că o fi rupt ceva acolo, nu știu.\nSPEAKER_00: Haideți să facem câteva teste acum. Ridicați brațul în față, încet. Doare?\nSPEAKER_01: Da, cam de pe la jumătate în sus.\nSPEAKER_00: Și dacă îl ridicați lateral?\nSPEAKER_01: La fel, de pe la mijloc, da.\nSPEAKER_00: Stați puțin, apăs aici pe zona de sub acromion. Doare?\nSPEAKER_01: Au, da, acolo e sensibil.\nSPEAKER_00: Am înțeles. Și dacă faceți rotație internă, așa cum spuneați, mâna la spate.\nSPEAKER_01: Da, asta e mai grea. Se blochează și trage.\nSPEAKER_00: Bun. Avem o limitare de mobilitate la abducție și la rotația internă, cu sensibilitate subacromiala. Pare a fi un sindrom de impingement subacromial. Trebuie să lucrăm la reducerea inflamației din zona respectivă și să recuperăm mobilitatea umărului.\nSPEAKER_01: Și nu e rupt nimic? Asta mă temeam eu.\nSPEAKER_00: La testare nu am semne de ruptură de tendon, dar dacă durerea nu cedează după câteva ședințe, vă recomand să faceți o ecografie pe umăr ca să excludem. Deocamdată lucrăm și vedem cum evoluează.\nSPEAKER_01: Da, bine, îmi pare bine că nu e ceva grav. Sper să treacă repede, că mă deranjează și la serviciu, nu mai pot sta comod la calculator cu mâna ridicată.\nSPEAKER_00: O să facem tot posibilul. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere la nivelul umărului stâng de aproximativ două săptămâni, cu debut insidios, fără traumatism clar. Durere la ridicarea brațului (abducție și flexie) și la rotația internă. Deranjează îmbrăcatul și somnul pe partea stângă. Redoare matinală. Asociat cu activitate la birou și efort ocazional la sală.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": "partea de sus a brațului stâng",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare de mobilitate la abducție și rotație internă umăr stâng, cu sensibilitate la palpare subacromială. Diagnostic: sindrom de impingement subacromial. Obiective terapeutice: reducerea inflamației subacromiale și recuperarea mobilității umărului stâng. Recomandare ecografie umăr dacă evoluția nu este favorabilă după câteva ședințe."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel stâng, de vreo două săptămâni",
+      "a început mai ușor, credeam că trece de la sine",
+      "mă deranjează când ridic mâna, când mă îmbrac dimineața",
+      "dacă încerc să dau mâna în spate, acolo simt că se blochează ceva și doare",
+      "Lucrez la birou, stau mult la calculator",
+      "dimineața e mai rigid, parcă e înțepenit"
+    ],
+    "evaluarea_durerii_vas": [
+      "Aș zice un 5"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "poate puțin pe partea de sus a brațului, dar nu mai departe"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel antiinflamator, Voltaren, câteva zile"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o limitare de mobilitate la abducție și la rotația internă, cu sensibilitate subacromiala",
+      "Pare a fi un sindrom de impingement subacromial",
+      "Trebuie să lucrăm la reducerea inflamației din zona respectivă și să recuperăm mobilitatea umărului",
+      "dacă durerea nu cedează după câteva ședințe, vă recomand să faceți o ecografie pe umăr ca să excludem"
+    ]
+  }
+}

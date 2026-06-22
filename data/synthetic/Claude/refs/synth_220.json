@@ -1,0 +1,24 @@
+{
+  "motivul_prezentarii": "Pacientă cu cervicalgie dreaptă instalată de aproximativ trei săptămâni, agravată progresiv, posibil legată de postura la birou (sedentarism prelungit la calculator). Durere în gât cu iradiere în ceafă și cap, asociată cu jenă la nivelul umărului drept și amorțeli ocazionale la mâna dreaptă. Dureri de cap matinale și amețeli la schimbarea bruscă a poziției.",
+  "evaluarea_durerii_vas": [
+    6,
+    4
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "cap_ceafa",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "amorțeli mâna dreaptă, degete",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Perindopril",
+      "doza": "5 miligrame, o dată pe zi, dimineața"
+    }
+  ],
+  "evaluare_functionala_initiala": "Contractură musculară cervicală evidentă pe dreapta, musculatura paravertebrală cervicală dreaptă și trapez drept. Mobilitate cervicală limitată în rotație spre dreapta. Diagnostic: cervicalgie cu iritație musculară, posibilă componentă articulară C5-C6/C6-C7. Obiective terapeutice: reducerea contracturii musculare, redobândirea mobilității cervicale spre dreapta, ameliorarea amorțelilor prin reducerea presiunii la nivel cervical."
+}

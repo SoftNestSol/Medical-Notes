@@ -1,0 +1,337 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 5.26,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă veniți azi."
+    },
+    {
+      "start": 5.38,
+      "end": 6.52,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare spatele."
+    },
+    {
+      "start": 6.64,
+      "end": 9.68,
+      "speaker": "SPEAKER_00",
+      "text": "Spatele, zona de jos, de sus, de mijloc?"
+    },
+    {
+      "start": 9.8,
+      "end": 11.32,
+      "speaker": "SPEAKER_01",
+      "text": "Jos. Partea de jos."
+    },
+    {
+      "start": 11.44,
+      "end": 13.34,
+      "speaker": "SPEAKER_00",
+      "text": "Lombar, da? De cât timp?"
+    },
+    {
+      "start": 13.46,
+      "end": 14.98,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo două săptămâni."
+    },
+    {
+      "start": 15.1,
+      "end": 18.14,
+      "speaker": "SPEAKER_00",
+      "text": "Două săptămâni. Și a apărut brusc sau treptat?"
+    },
+    {
+      "start": 18.26,
+      "end": 21.3,
+      "speaker": "SPEAKER_01",
+      "text": "Brusc. M-am trezit dimineața și era acolo."
+    },
+    {
+      "start": 21.42,
+      "end": 25.22,
+      "speaker": "SPEAKER_00",
+      "text": "Fără să fi ridicat ceva greu, fără cădere, fără nimic?"
+    },
+    {
+      "start": 25.34,
+      "end": 28.76,
+      "speaker": "SPEAKER_01",
+      "text": "Poate de la stat la birou. Nu știu exact."
+    },
+    {
+      "start": 28.88,
+      "end": 32.68,
+      "speaker": "SPEAKER_00",
+      "text": "Lucrați la birou, deci. Câte ore pe zi stați jos?"
+    },
+    {
+      "start": 32.8,
+      "end": 34.32,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo opt, nouă ore."
+    },
+    {
+      "start": 34.44,
+      "end": 39.0,
+      "speaker": "SPEAKER_00",
+      "text": "Și durerea e mai rea când stați jos sau când vă ridicați?"
+    },
+    {
+      "start": 39.12,
+      "end": 42.92,
+      "speaker": "SPEAKER_01",
+      "text": "Când mă ridic. Și dimineața când mă scol din pat."
+    },
+    {
+      "start": 43.04,
+      "end": 48.36,
+      "speaker": "SPEAKER_00",
+      "text": "Dimineața e mai rău, da? Și după ce vă mișcați un pic, mai trece?"
+    },
+    {
+      "start": 48.48,
+      "end": 50.76,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic, da. Dar nu complet."
+    },
+    {
+      "start": 50.88,
+      "end": 59.62,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e cel mai rău, unde vă situați acum?"
+    },
+    {
+      "start": 59.74,
+      "end": 60.54,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 5."
+    },
+    {
+      "start": 60.66,
+      "end": 64.46,
+      "speaker": "SPEAKER_00",
+      "text": "Cinci. Și la cel mai rău moment, dimineața, cât ajunge?"
+    },
+    {
+      "start": 64.58,
+      "end": 65.38,
+      "speaker": "SPEAKER_01",
+      "text": "Poate 7."
+    },
+    {
+      "start": 65.5,
+      "end": 68.92,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea se lasă și pe fese sau pe picior?"
+    },
+    {
+      "start": 69.04,
+      "end": 70.94,
+      "speaker": "SPEAKER_01",
+      "text": "Pe fesă dreaptă un pic."
+    },
+    {
+      "start": 71.06,
+      "end": 75.62,
+      "speaker": "SPEAKER_00",
+      "text": "Pe fesă dreaptă. Coboară mai jos de fesă, pe coapsă, pe gambă?"
+    },
+    {
+      "start": 75.74,
+      "end": 76.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu. Rămâne acolo."
+    },
+    {
+      "start": 77.0,
+      "end": 78.14,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeli la picioare?"
+    },
+    {
+      "start": 78.26,
+      "end": 79.06,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 79.18,
+      "end": 82.22,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Tensiune arterială, diabet, osteoporoză, ceva de genul?"
+    },
+    {
+      "start": 82.34,
+      "end": 83.14,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic."
+    },
+    {
+      "start": 83.26,
+      "end": 84.4,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale, fracturi?"
+    },
+    {
+      "start": 84.52,
+      "end": 85.32,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 85.44,
+      "end": 88.1,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament acum, vreun antiinflamator, ceva?"
+    },
+    {
+      "start": 88.22,
+      "end": 89.02,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 89.14,
+      "end": 89.94,
+      "speaker": "SPEAKER_00",
+      "text": "Niciun tratament?"
+    },
+    {
+      "start": 90.06,
+      "end": 90.86,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 90.98,
+      "end": 97.82,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți să stați în picioare, cu spatele la mine. Picioarele ușor depărtate, mâinile pe lângă corp. Relaxat."
+    },
+    {
+      "start": 97.94,
+      "end": 98.74,
+      "speaker": "SPEAKER_01",
+      "text": "Așa?"
+    },
+    {
+      "start": 98.86,
+      "end": 106.46,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Văd o ușoară asimetrie la nivelul bazinului, mai jos pe dreapta. Acum aplecați-vă în față, încet, cât puteți."
+    },
+    {
+      "start": 106.58,
+      "end": 107.72,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot."
+    },
+    {
+      "start": 107.84,
+      "end": 109.36,
+      "speaker": "SPEAKER_00",
+      "text": "Doare când vă aplecați?"
+    },
+    {
+      "start": 109.48,
+      "end": 110.28,
+      "speaker": "SPEAKER_01",
+      "text": "Da, jos."
+    },
+    {
+      "start": 110.4,
+      "end": 113.82,
+      "speaker": "SPEAKER_00",
+      "text": "Îndreptați-vă. Și acum aplecați-vă pe spate, ușor."
+    },
+    {
+      "start": 113.94,
+      "end": 115.46,
+      "speaker": "SPEAKER_01",
+      "text": "Asta doare mai tare."
+    },
+    {
+      "start": 115.58,
+      "end": 122.8,
+      "speaker": "SPEAKER_00",
+      "text": "Extensia doare mai tare, ok. Întoarceți-vă cu fața la mine. Ridic eu piciorul drept, îmi spuneți dacă doare."
+    },
+    {
+      "start": 122.92,
+      "end": 124.82,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic acolo în spate."
+    },
+    {
+      "start": 124.94,
+      "end": 126.46,
+      "speaker": "SPEAKER_00",
+      "text": "Dar nu pe picior?"
+    },
+    {
+      "start": 126.58,
+      "end": 127.38,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 127.5,
+      "end": 131.68,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, testul e negativ pe traiect. Apăs acum zona paravertebrală. Doare?"
+    },
+    {
+      "start": 131.8,
+      "end": 132.94,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo exact."
+    },
+    {
+      "start": 133.06,
+      "end": 134.58,
+      "speaker": "SPEAKER_00",
+      "text": "Mai jos, zona sacroiliacă?"
+    },
+    {
+      "start": 134.7,
+      "end": 135.84,
+      "speaker": "SPEAKER_01",
+      "text": "Și acolo, da."
+    },
+    {
+      "start": 135.96,
+      "end": 154.58,
+      "speaker": "SPEAKER_00",
+      "text": "Deci avem o contractură paravertebrală lombară și o sensibilitate în zona sacroiliacă pe dreapta. Fără iradiere radiculară. Deci probabil e o blocaj mecanic, postural, de la stat mult la birou. Trebuie să lucrăm să eliberăm musculatura, să mobilizăm articulația sacroiliacă și să vă dau și câteva exerciții pentru acasă."
+    },
+    {
+      "start": 154.7,
+      "end": 155.5,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 155.62,
+      "end": 158.28,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă cu fața în sus."
+    }
+  ]
+}

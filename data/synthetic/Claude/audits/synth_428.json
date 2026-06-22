@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_428",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare undeva pe aici, pe zona de spate, jos",
+      "A apărut încet, nu dintr-o dată",
+      "stau mult la birou, poate de acolo",
+      "Când mă ridic e mai rău, când stau jos un timp lung de asemenea",
+      "Am mai avut, cu câțiva ani în urmă ceva similar, dar a trecut de la sine"
+    ],
+    "evaluarea_durerii_vas": [
+      "undeva pe la 5 poate, nu știu exact",
+      "Atunci poate un 7, undeva pe acolo, nu știu precis"
+    ],
+    "localizarea_durerii": [
+      "mă doare undeva pe aici, pe zona de spate, jos"
+    ],
+    "localizarea_durerii_alta": [
+      "simt ceva și pe fesă stângă"
+    ],
+    "antecedente": [
+      "mi-a zis cineva cândva, un medic, că am o ușoară scolioză"
+    ],
+    "antecedente_altele": [
+      "am operat meniscul la genunchiul drept, acum vreo șapte ani"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "observ că aveți umărul stâng ușor căzut față de cel drept și bazinul pare un pic dezaxat",
+      "avem o inflamație la nivelul musculaturii lombare, mai ales pe stânga, pătrat lombar și piriform",
+      "Scolioza ușoară din adolescență poate contribui și ea la dezechilibrul pe care îl vedem",
+      "Obiectivul nostru va fi să reducem inflamația, să lucrăm mobilitatea lombară și să corectăm puțin dezechilibrul postural"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21395,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 3526,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

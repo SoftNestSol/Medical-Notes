@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă venim azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare vă doare?\nSPEAKER_01: Un 5.\nSPEAKER_00: Doare tot timpul sau doar la mișcare?\nSPEAKER_01: La mișcare.\nSPEAKER_00: Când ridicați mâna sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și când o duceți în spate?\nSPEAKER_01: Da, mai rău.\nSPEAKER_00: Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați brațul pentru mine, cât puteți. Până aici se oprește?\nSPEAKER_01: Da, cam așa.\nSPEAKER_00: Doare la apăsare aici, pe capul humeral?\nSPEAKER_01: Da.\nSPEAKER_00: Și aici, sub acromial?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Aveți afecțiuni, tensiune, diabet, ceva de genul?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici antiinflamatoare, nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Deci ce avem noi aici pare o inflamație la nivelul tendonului supraspinos, cel mai probabil. Mobilitatea e limitată, mai ales în abducție și rotație externă. O să lucrăm să reducem inflamația și să recuperăm amplitudinea de mișcare a umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "durere umar stang aparuta dupa mutare mobilier, de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie tendon supraspinos\nObiective terapeutice:\n- reducerea inflamatiei\n- recuperarea amplitudinii de miscare a umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Vreo două săptămâni.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["pare o inflamație la nivelul tendonului supraspinos", "Mobilitatea e limitată, mai ales în abducție și rotație externă", "O să lucrăm să reducem inflamația și să recuperăm amplitudinea de mișcare a umărului."]
+  }
+}

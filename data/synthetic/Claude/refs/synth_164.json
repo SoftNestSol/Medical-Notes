@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Durere umar drept aparuta dupa ridicare de greutate la locul de munca, de aproximativ doua saptamani",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare la ridicarea bratului drept in fata si lateral, cu durere la aproximativ 90 de grade. Durere locala la palparea tendonului supraspinos. Obiective terapeutice: reducerea inflamatiei si recapatarea mobilitatii umarului."
+}

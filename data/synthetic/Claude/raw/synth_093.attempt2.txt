@@ -1,0 +1,50 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă vă confruntați.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva? Ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am ridicat niște saci la muncă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde situați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Doar când ridic mâna.\nSPEAKER_00: Până unde reușiți să ridicați?\nSPEAKER_01: Până aici cam.\nSPEAKER_00: Deci până la aproximativ 90 de grade. Doare și noaptea?\nSPEAKER_01: Uneori.\nSPEAKER_00: Când stați pe partea dreaptă?\nSPEAKER_01: Da.\nSPEAKER_00: Înțeles. Doare și în brăț, se lasă cumva pe braț?\nSPEAKER_01: Nu.\nSPEAKER_00: Strict umărul.\nSPEAKER_01: Da.\nSPEAKER_00: Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați luat ceva pentru durere?\nSPEAKER_01: Un ibuprofen uneori.\nSPEAKER_00: Cât, ce doză?\nSPEAKER_01: Nu știu, cel normal din farmacie.\nSPEAKER_00: 400, poate?\nSPEAKER_01: Cred că da.\nSPEAKER_00: Altceva nu luați, niciun alt medicament?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni aveți, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio intervenție chirurgicală la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să vă testez un pic. Ridicați mâna dreaptă în față, încet.\nSPEAKER_01: Până aici.\nSPEAKER_00: Doare?\nSPEAKER_01: Da, de pe la jumătate.\nSPEAKER_00: Acum duceți mâna lateral.\nSPEAKER_01: La fel.\nSPEAKER_00: La fel. Lăsați-mă să apăs puțin aici, pe capul humeral. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și aici, mai sus?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Acum puneți mâna la spate, ca și cum ați ajunge la buzunarul din spate.\nSPEAKER_01: Nu pot prea mult.\nSPEAKER_00: Doare la rotație internă.\nSPEAKER_01: Da.\nSPEAKER_00: Am înțeles. Pare a fi o inflamație la nivelul manșetei rotatorilor, cel mai probabil supraspinatus. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului. Bun, haideți pe masă cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa ridicare de saci la muncă, de aproximativ două săptămâni. Durere la mișcare (abducție și flexie de la ~90 de grade, rotație internă limitată), accentuată noaptea la statul pe partea dreaptă.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "ibuprofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie manseta rotatorilor (supraspinatus)\nObiective terapeutice:\n- reducerea inflamatiei\n- recuperarea mobilitatii umarului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Am ridicat niște saci la muncă.",
+      "Vreo două săptămâni.",
+      "Doar când ridic mâna.",
+      "Uneori.",
+      "Când stați pe partea dreaptă? Da."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Strict umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Un ibuprofen uneori.",
+      "400, poate? Cred că da."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o inflamație la nivelul manșetei rotatorilor, cel mai probabil supraspinatus.",
+      "Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului."
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "conversation_id": "synth_253",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Drept.",
+      "Vreo trei săptămâni.",
+      "Parcă după ce am cărat niște cutii."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Drept."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Deci avem o tendinopatie de biceps brahial cu posibil conflict subacromio-clavicular. Vom lucra să reducem inflamația și să recuperăm amplitudinea de mișcare."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13796,
+    "inference_geo": "global",
+    "input_tokens": 309,
+    "output_tokens": 1502,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

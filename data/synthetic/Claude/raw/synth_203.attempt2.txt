@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați lovit?\nSPEAKER_01: Nu. A apărut și gata.\nSPEAKER_00: Faceți vreun sport, muncă fizică?\nSPEAKER_01: Zugrăvesc. Mă ocup cu asta.\nSPEAKER_00: Deci muncă deasupra capului, ridicați brațul sus.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare maxim, cât e durerea?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: Doare constant sau doar când mișcați?\nSPEAKER_01: Când ridic brațul. Și noaptea.\nSPEAKER_00: Vă treziți din somn?\nSPEAKER_01: Da, dacă stau pe el.\nSPEAKER_00: Înțeleg. Doare și pe braț în jos sau e doar în umăr?\nSPEAKER_01: Doar aici.\nSPEAKER_00: Ok. Ridicați brațul în față, sus, cât puteți.\nSPEAKER_01: Până pe la orizontală și gata, nu mai pot.\nSPEAKER_00: Doare chiar acum?\nSPEAKER_01: Da.\nSPEAKER_00: Și în lateral, ridicați în lateral.\nSPEAKER_01: La fel, cam la orizontală mă blochează.\nSPEAKER_00: Bun. Vă apăs puțin pe zona asta de aici, spuneți-mi dacă doare.\nSPEAKER_01: Au. Da, acolo.\nSPEAKER_00: Deci punctul ăsta de aici e sensibil. Bine. Amorțește mâna sau degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte dureri mai aveți undeva, coloana, gât?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați ceva medicamente acum?\nSPEAKER_01: Ibuprofen uneori.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Când nu mai pot. Rar.\nSPEAKER_00: Doză?\nSPEAKER_01: Nu știu, cele normale, 400.\nSPEAKER_00: Ok. Deci avem o inflamație la nivelul tendonului supraspinosului, cel mai probabil, din cauza muncii repetitive deasupra capului. Limitare de mobilitate la abducție și flexie până la orizontală, arc dureros prezent. Trebuie să reducem inflamația și să recuperăm mobilitatea. O să lucrăm pe zona asta câteva ședințe.\nSPEAKER_01: Bine.\nSPEAKER_00: Și pe perioada asta evitați să ridicați greutăți deasupra capului cât puteți.\nSPEAKER_01: Ok.",
+  "note": {
+    "motivul_prezentarii": "Pacient zugrav, acuză durere la nivelul umărului drept apărută spontan acum două săptămâni, posibil legată de muncă repetitivă deasupra capului. Durere la ridicarea brațului și nocturnă (când stă pe umăr).",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamație tendon supraspinat (tendinopatie supraspinat dr.), arc dureros prezent, limitare mobilitate abducție și flexie până la orizontală.\nObiective terapeutice: reducerea inflamației, recuperarea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "De vreo două săptămâni.", "Zugrăvesc. Mă ocup cu asta.", "A apărut și gata."],
+    "evaluarea_durerii_vas": ["Vreo 7."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Ibuprofen uneori.", "Nu știu, cele normale, 400."],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendonului supraspinosului, cel mai probabil, din cauza muncii repetitive deasupra capului. Limitare de mobilitate la abducție și flexie până la orizontală, arc dureros prezent. Trebuie să reducem inflamația și să recuperăm mobilitatea."]
+  }
+}

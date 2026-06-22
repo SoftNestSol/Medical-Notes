@@ -1,0 +1,57 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut dintr-odată sau treptat?\nSPEAKER_01: Nu știu, treptat parcă.\nSPEAKER_00: Ok. Ați dormit într-o poziție proastă, ați stat mult la calculator, ceva de genul?\nSPEAKER_01: La birou stau toată ziua.\nSPEAKER_00: Toată ziua la birou, da. Doare și umărul sau doar gâtul?\nSPEAKER_01: Și umărul stâng un pic.\nSPEAKER_00: Umărul stâng. Vă amorțește mâna, degetele?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Câteodată. Mai mult noaptea sau ziua?\nSPEAKER_01: Noaptea mai mult.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde situați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Dureri de cap aveți?\nSPEAKER_01: Da, uneori.\nSPEAKER_00: Uneori. Amețeli?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune arterială, diabet, osteoporoză?\nSPEAKER_01: Tensiune am, da.\nSPEAKER_00: Tensiune. Luați medicamente pentru asta?\nSPEAKER_01: Iau, da. Prestarium.\nSPEAKER_00: Prestarium. Știți ce doză?\nSPEAKER_01: 5 miligrame.\nSPEAKER_00: 5 miligrame, bun. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio altă afecțiune în afară de tensiune?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să vă testez puțin. Întoarceți capul spre dreapta.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Da, e limitat. Doare când întoarceți?\nSPEAKER_01: Da.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: Mai mult doare pe stânga.\nSPEAKER_00: Mai mult pe stânga. Acum aplecați capul spre umărul stâng.\nSPEAKER_01: Au, da.\nSPEAKER_00: Doare.\nSPEAKER_01: Da.\nSPEAKER_00: Și apăs puțin pe ceafă. Doare?\nSPEAKER_01: Da, acolo e mai rău.\nSPEAKER_00: Acolo e mai rău. Pe umărul stâng dacă apăs?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Bun. Deci avem o contractură musculară cervicală, cu iradiere spre umărul stâng. Mobilitatea e limitată, mai ales în rotație și înclinare spre stânga. Probabil și o tensionare a trapezului. O să lucrăm să reducem contractura și să redăm mobilitatea. Câteva ședințe ar trebui să fie suficiente.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală de aproximativ două săptămâni, instalată treptat, asociată cu munca la birou. Iradiere spre umărul stâng, amorțeli ocazionale ale mâinii noaptea, dureri de cap uneori.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Prestarium",
+        "doza": "5 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractură musculară cervicală cu iradiere spre umărul stâng; tensionare trapez.\nMobilitate limitată în rotație și înclinare laterală stânga.\nObiective terapeutice: reducerea contracturii, redarea mobilității cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "Vreo două săptămâni.",
+      "treptat parcă",
+      "La birou stau toată ziua.",
+      "Și umărul stâng un pic.",
+      "Câteodată.",
+      "Noaptea mai mult.",
+      "Da, uneori."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Și umărul stâng un pic."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am, da."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau, da. Prestarium.",
+      "5 miligrame."
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară cervicală, cu iradiere spre umărul stâng",
+      "Mobilitatea e limitată, mai ales în rotație și înclinare spre stânga",
+      "Probabil și o tensionare a trapezului",
+      "O să lucrăm să reducem contractura și să redăm mobilitatea"
+    ]
+  }
+}

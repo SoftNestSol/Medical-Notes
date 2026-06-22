@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamna!\nSPEAKER_01: Bună ziua, bună ziua! Am așteptat puțin, dar n-are a face, eram oricum devreme.\nSPEAKER_00: Nicio problemă. Spuneți-mi, cu ce problemă ne vedem azi?\nSPEAKER_01: Păi, de unde să încep... mă doare umărul stâng, și nu de ieri de azi, adică e de vreo trei săptămâni deja, și la început am zis că trece, că poate am dormit prost, știți cum e, mai dormi prost și a doua zi te doare, dar nu a trecut, dimpotrivă.\nSPEAKER_00: Înțeles. Și doare permanent sau numai când faceți ceva anume?\nSPEAKER_01: Când ridic mâna, mai ales când o ridic în sus sau în lateral, atunci mă ia fix aici. Și noaptea mă trezesc uneori, că dacă mă întorc pe partea stângă... au, chiar și acum când m-am gândit la asta.\nSPEAKER_00: Da. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e cel mai rău, cât e durerea când ridicați mâna?\nSPEAKER_01: Aaaa... un 7, zic eu. Când ridic mâna sus, da, un 7. Noaptea poate și mai mult, dar ziua un 7.\nSPEAKER_00: Și în repaus, când nu mișcați?\nSPEAKER_01: Mai puțin, vreo 3, poate 4, depinde.\nSPEAKER_00: Ok. Ați lovit umărul, ați căzut, ceva de genul?\nSPEAKER_01: Nu, nu am căzut, nimic din astea. Eu lucrez la o firmă, stau mult la birou, și am observat că după ce am mutat niște cutii, niște dosare grele, cam de atunci a început. Nu știu dacă e de la aia sau nu, nu știu.\nSPEAKER_00: Posibil. Și durerea rămâne în umăr sau coboară pe braț?\nSPEAKER_01: Rămâne pe aici, mai sus, pe umăr și un pic pe braț în jos, dar nu până la cot, nu.\nSPEAKER_00: Amorțește ceva, degetele, mâna?\nSPEAKER_01: Nu, nu amorțește. Mă gândeam eu că poate e ceva la coloana, că am citit pe internet și m-am speriat un pic, că zice că uneori durerea de umăr vine de la gât și... dar nu știu, voi știți mai bine.\nSPEAKER_00: Hai să vedem. Alte afecțiuni aveți, tensiune, diabet, ceva de genul?\nSPEAKER_01: Da, am tensiune, am de câțiva ani, iau pastile pentru ea. Iau Enalapril, 10 miligrame, în fiecare dimineață. Altceva nu, adică mai am colesterolul un pic mărit, dar nu iau nimic pentru asta, doctorul a zis să slăbesc mai întâi.\nSPEAKER_00: Înțeles. Operații, fracturi?\nSPEAKER_01: Nu, niciodată, slavă Domnului, n-am avut nimic rupt, nimic operat.\nSPEAKER_00: Bun. Haideți, ridicați ușor mâna în față pentru mine, cât puteți... opriți când doare.\nSPEAKER_01: Până pe aici pot, mai sus deja mă ia.\nSPEAKER_00: Cam 90 de grade, da. Acum în lateral.\nSPEAKER_01: Cam la fel, poate un pic mai puțin.\nSPEAKER_00: Da. Stați puțin, apăs eu aici pe zona de aici, deasupra umărului, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare, da.\nSPEAKER_00: Și dacă ridic eu mâna pentru dumneavoastră pasiv, doare la fel?\nSPEAKER_01: Da, cam la fel, nu e mai bine.\nSPEAKER_00: Bun. Ce pot să vă spun acum este că avem cel mai probabil o inflamație la nivelul tendoanelor din umăr, zona de coafă a rotatorilor, și o limitare a mobilității. O să lucrăm mai întâi să reducem inflamația și după să recuperăm mișcarea completă.\nSPEAKER_01: Și o să treacă? Că mă tem că poate am nevoie de operație, că am văzut că unii ajung la operație cu umărul și mă sperie treaba asta.\nSPEAKER_00: Deocamdată nu avem semne de ruptură, e prea devreme să vorbim de operație. Hai să vedem cum răspunde la terapie, da?\nSPEAKER_01: Da, da, bine, mă liniștesc. Aveți dreptate, hai să vedem.\nSPEAKER_00: Haideți pe masă, vă rog, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "durere umar stang, de aproximativ trei saptamani, aparuta dupa efort fizic",
+    "evaluarea_durerii_vas": [7, 3],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": "braț superior stâng",
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": "colesterol mărit (fără medicație)",
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie tendoane umar stang, zona coafa rotatori; limitare mobilitate activa si pasiva (aproximativ 90 grade flexie si abductie).\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii complete."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul stâng, și nu de ieri de azi, adică e de vreo trei săptămâni deja", "după ce am mutat niște cutii, niște dosare grele, cam de atunci a început"],
+    "evaluarea_durerii_vas": ["un 7, zic eu. Când ridic mâna sus, da, un 7", "Mai puțin, vreo 3, poate 4, depinde"],
+    "localizarea_durerii": ["mă doare umărul stâng"],
+    "localizarea_durerii_alta": ["pe umăr și un pic pe braț în jos, dar nu până la cot"],
+    "antecedente": ["am tensiune, am de câțiva ani, iau pastile pentru ea"],
+    "antecedente_altele": ["mai am colesterolul un pic mărit, dar nu iau nimic pentru asta"],
+    "medicatie_actuala": ["Iau Enalapril, 10 miligrame, în fiecare dimineață"],
+    "evaluare_functionala_initiala": ["avem cel mai probabil o inflamație la nivelul tendoanelor din umăr, zona de coafă a rotatorilor, și o limitare a mobilității", "O să lucrăm mai întâi să reducem inflamația și după să recuperăm mișcarea completă", "Cam 90 de grade, da"]
+  }
+}

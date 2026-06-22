@@ -1,0 +1,301 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 4.84,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, numele dumneavoastră."
+    },
+    {
+      "start": 4.96,
+      "end": 5.76,
+      "speaker": "SPEAKER_01",
+      "text": "Gheorghe Mănescu."
+    },
+    {
+      "start": 5.88,
+      "end": 8.92,
+      "speaker": "SPEAKER_00",
+      "text": "Domnul Mănescu, cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 9.04,
+      "end": 29.56,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, uite, mă doare umărul drept de vreo... nu știu, de vreo trei săptămâni, poate mai mult. La început am zis că trece de la sine, că am mai avut și alte ori tot felul de dureri și au trecut, dar ăsta nu mai trece. Ba dimpotrivă, parcă s-a înrăutățit în ultima săptămână."
+    },
+    {
+      "start": 29.68,
+      "end": 37.66,
+      "speaker": "SPEAKER_00",
+      "text": "Umărul drept. Și durerea asta e locală, adică o simțiți fix în umăr, sau se lasă și pe braț în jos?"
+    },
+    {
+      "start": 37.78,
+      "end": 51.08,
+      "speaker": "SPEAKER_01",
+      "text": "Se lasă și pe braț, da. Până pe la cot, cam pe acolo se oprește. Uneori simt și un fel de... nu știu cum să spun, ca un curent, ca o furnicătură pe brațul ăsta."
+    },
+    {
+      "start": 51.2,
+      "end": 57.28,
+      "speaker": "SPEAKER_00",
+      "text": "Furnicături pe braț, înțeles. Și aceste furnicături le simțiți tot timpul sau doar în anumite poziții?"
+    },
+    {
+      "start": 57.4,
+      "end": 77.16,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult când ridic mâna sus, sau când încerc să ajung în spate, știți, ca atunci când vrei să-ți pui haina. Îmi e greu să fac mișcarea aia. Mă și jenează la muncă, că eu lucrez la birou și tot timpul am treabă cu calculatorul, și mă apucă durerea și... da."
+    },
+    {
+      "start": 77.28,
+      "end": 87.92,
+      "speaker": "SPEAKER_00",
+      "text": "Ați putea să-mi spuneți, pe o scară de la zero la zece, cât de tare doare în momentul în care ridicați brațul sau faceți mișcarea aia dificilă?"
+    },
+    {
+      "start": 88.04,
+      "end": 92.6,
+      "speaker": "SPEAKER_01",
+      "text": "Când fac mișcarea aia, la spate, spre opt, zic eu. Da, opt."
+    },
+    {
+      "start": 92.72,
+      "end": 95.76,
+      "speaker": "SPEAKER_00",
+      "text": "Opt. Și când stați liniștit, fără să mișcați?"
+    },
+    {
+      "start": 95.88,
+      "end": 100.82,
+      "speaker": "SPEAKER_01",
+      "text": "Trei, patru, ceva de genul. Nu mă omoară, dar mă ține, mă jenează."
+    },
+    {
+      "start": 100.94,
+      "end": 107.4,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și cum a apărut această durere? Ați făcut ceva anume, ați căzut, ați dus ceva greu?"
+    },
+    {
+      "start": 107.52,
+      "end": 130.32,
+      "speaker": "SPEAKER_01",
+      "text": "Asta e ce nu înțeleg eu, că nu mi-am amintit să fi făcut ceva special. Adică am mutat niște cutii, că ne-am mutat biroul cu totul într-o altă clădire, acum vreo lună. Am cărat cutii, mobilă, și după aia parcă s-a declanșat. Dar nu a durut imediat, a început mai ușor, după vreo săptămână după mutare."
+    },
+    {
+      "start": 130.44,
+      "end": 132.72,
+      "speaker": "SPEAKER_00",
+      "text": "Deci probabil efort fizic neobișnuit, mutatul."
+    },
+    {
+      "start": 132.84,
+      "end": 144.24,
+      "speaker": "SPEAKER_01",
+      "text": "Da, probabil. Soția mea zice că am cărat prea mult și prea repede, că eu nu sunt obișnuit cu așa ceva. Stau mai mult la birou, nu fac sport, recunosc."
+    },
+    {
+      "start": 144.36,
+      "end": 149.68,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți și durere în zona cervicală, adică în ceafă, gât, sau e strict umărul?"
+    },
+    {
+      "start": 149.8,
+      "end": 164.62,
+      "speaker": "SPEAKER_01",
+      "text": "Și un pic de ceafă, da. Că mă și trezesc noaptea uneori, mai ales dacă dorm pe partea dreaptă, cu o durere sâcâitoare pe ceafă și pe umăr. Asta mă deranjează cel mai tare, că nu mai dorm bine."
+    },
+    {
+      "start": 164.74,
+      "end": 168.16,
+      "speaker": "SPEAKER_00",
+      "text": "Dorm pe partea dreaptă vă trezește. Înțeles. Vârsta dumneavoastră?"
+    },
+    {
+      "start": 168.28,
+      "end": 169.42,
+      "speaker": "SPEAKER_01",
+      "text": "Patruzeci și șase."
+    },
+    {
+      "start": 169.54,
+      "end": 175.24,
+      "speaker": "SPEAKER_00",
+      "text": "Patruzeci și șase. Spuneți-mi, aveți antecedente medicale, boli cunoscute, tensiune, diabet, probleme de inimă?"
+    },
+    {
+      "start": 175.36,
+      "end": 205.0,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea, mulțumesc lui Dumnezeu. Tensiunea e bună, am făcut analize de curând, totul în regulă. Dar... am avut o operație la menisc la genunchiul stâng, acum vreo șapte ani. Aia a mers bine, nu mai am probleme acolo. Și când eram tânăr, la douăzeci și ceva de ani, am avut o fractură la claviculă, tot pe dreapta, de la un accident de mașină. S-a vindecat, dar mă gândeam că poate are legătură?"
+    },
+    {
+      "start": 205.12,
+      "end": 215.38,
+      "speaker": "SPEAKER_00",
+      "text": "Fractura de claviculă dreaptă, da, e relevant să știm. De obicei după o fractură veche pot rămâne tensiuni în zona umărului. Și genunchiul stâng cum e acum?"
+    },
+    {
+      "start": 215.5,
+      "end": 221.2,
+      "speaker": "SPEAKER_01",
+      "text": "Genunchiul e bine, nu mă deranjează. Uneori la frig mai simt ceva, dar nimic serios."
+    },
+    {
+      "start": 221.32,
+      "end": 225.12,
+      "speaker": "SPEAKER_00",
+      "text": "Luați în prezent vreun medicament, ceva pentru durere, suplimente, orice?"
+    },
+    {
+      "start": 225.24,
+      "end": 235.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu iau nimic. Am luat un Nurofen acum câteva zile că nu mai suportam, dar nu în mod regulat. Alea le iau doar când nu mai pot."
+    },
+    {
+      "start": 236.0,
+      "end": 242.84,
+      "speaker": "SPEAKER_00",
+      "text": "Deci nu aveți un tratament continuu. Bine. Ați mai făcut vreun tratament pentru umărul ăsta, kinetoterapie, fizioterapie, ceva?"
+    },
+    {
+      "start": 242.96,
+      "end": 269.18,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, direct la dumneavoastră am venit. Am văzut că un coleg de-al meu a venit la un cabinet de chiropractică și a zis că l-a ajutat, că el tot cu spatele avea probleme. Și am zis, hai să încerc și eu. Dar, sincer, am și o teamă, că am auzit că se trage de oase și că poate fi periculos. Mă scuzați că spun, dar... nu știu."
+    },
+    {
+      "start": 269.3,
+      "end": 275.76,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg, e normal să aveți întrebări. O să vă explic exact ce facem înainte să începem orice."
+    },
+    {
+      "start": 275.88,
+      "end": 277.4,
+      "speaker": "SPEAKER_01",
+      "text": "Mulțumesc, asta mă liniștește."
+    },
+    {
+      "start": 277.52,
+      "end": 284.74,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți acum să facem câteva mișcări, să văd cum stăm. Ridicați brațul drept în față, ușor, atât cât puteți."
+    },
+    {
+      "start": 284.86,
+      "end": 287.52,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe acolo pot... mai sus nu."
+    },
+    {
+      "start": 287.64,
+      "end": 292.2,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Cam la nouăzeci de grade se blochează. Acum duceți brațul lateral."
+    },
+    {
+      "start": 292.32,
+      "end": 295.74,
+      "speaker": "SPEAKER_01",
+      "text": "Și acolo cam la fel, nu prea mai merge."
+    },
+    {
+      "start": 295.86,
+      "end": 305.36,
+      "speaker": "SPEAKER_00",
+      "text": "Da, văd că mobilitatea e limitată atât în flexie cât și în abducție. Acum o să apăs ușor aici, pe zona de trapez superior, dreapta."
+    },
+    {
+      "start": 305.48,
+      "end": 307.0,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, acolo doare."
+    },
+    {
+      "start": 307.12,
+      "end": 309.78,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă apăs pe mușchiul supraspinos, aici..."
+    },
+    {
+      "start": 309.9,
+      "end": 312.18,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo e mai rău, da."
+    },
+    {
+      "start": 312.3,
+      "end": 314.58,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Întoarceți capul ușor spre stânga."
+    },
+    {
+      "start": 314.7,
+      "end": 315.84,
+      "speaker": "SPEAKER_01",
+      "text": "Da, asta pot."
+    },
+    {
+      "start": 315.96,
+      "end": 316.76,
+      "speaker": "SPEAKER_00",
+      "text": "Spre dreapta?"
+    },
+    {
+      "start": 316.88,
+      "end": 318.78,
+      "speaker": "SPEAKER_01",
+      "text": "Mai greu, simt că trage."
+    },
+    {
+      "start": 318.9,
+      "end": 327.64,
+      "speaker": "SPEAKER_00",
+      "text": "Trage pe dreapta la rotație. Bine. Stați puțin cu brațul ridicat la nouăzeci de grade... Doare mai tare când apăs acum pe umăr?"
+    },
+    {
+      "start": 327.76,
+      "end": 329.28,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, exact acolo."
+    },
+    {
+      "start": 329.4,
+      "end": 354.86,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Deci avem o limitare de mobilitate la nivelul umărului drept, cu tensiune în trapezul superior și supraspinos, și o restricție de rotație cervicală spre dreapta. Cel mai probabil vorbim de o tendinopatie la nivelul coifului rotatorilor, combinată cu o contractură musculară cervico-scapulară. Obiectivul nostru va fi să reducem inflamația din tendoane, să relaxăm musculatura cervicală și a umărului și să recuperăm amplitudinea de mișcare treptat."
+    },
+    {
+      "start": 354.98,
+      "end": 358.78,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine. Și cât durează, în general, să se rezolve?"
+    },
+    {
+      "start": 358.9,
+      "end": 364.98,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde, dar cu câteva ședințe ar trebui să simțiți o diferență. Hai să trecem la treabă."
+    }
+  ]
+}

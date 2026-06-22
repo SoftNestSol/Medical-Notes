@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște cutii.\nSPEAKER_00: Ah, deci după efort.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde puneți durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot timpul sau numai la mișcare?\nSPEAKER_01: La mișcare mai mult.\nSPEAKER_00: Ce mișcare vă doare cel mai tare?\nSPEAKER_01: Când ridic brațul sus.\nSPEAKER_00: Ridicarea brațului deasupra capului.\nSPEAKER_01: Da.\nSPEAKER_00: Doare și când vă culcați pe umărul ăsta noaptea?\nSPEAKER_01: Da, mă trezesc.\nSPEAKER_00: Înțeleg. Durerea se lasă pe braț, pe cot, mai jos?\nSPEAKER_01: Nu, numai acolo.\nSPEAKER_00: Strict în umăr. Amorțeli, furnicături în mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Ridicați brațul pentru mine, cât puteți.\nSPEAKER_01: Până aici cam.\nSPEAKER_00: Deci cam 90 de grade și se oprește. Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Acum duceti brațul în lateral, la fel.\nSPEAKER_01: Asta merge mai bine.\nSPEAKER_00: Merge ceva mai bine în abducție. Stați, apăs un pic aici pe umăr, îmi spuneți dacă doare.\nSPEAKER_01: Doare, da.\nSPEAKER_00: Chiar pe vârful umărului?\nSPEAKER_01: Mai pe față.\nSPEAKER_00: Pe față, pe zona bicipitală. Bun.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu iau nimic.\nSPEAKER_00: Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci ce avem aici pare a fi o tendinită la nivelul umărului drept, cel mai probabil tendoanele coifului rotatorilor sau tendonul bicipital. Limitare la flexie anterioară, durere la palpare pe zona anterioară a umărului. Va trebui să reducem inflamația și să recuperăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după efort fizic (mutat cutii), de aproximativ două săptămâni. Durere la mișcare, mai ales la ridicarea brațului deasupra capului și la culcatul pe umărul drept noaptea.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nLimitare flexie anterioară umăr drept la aproximativ 90 de grade cu durere. Abducție relativ mai puțin limitată. Durere la palpare pe zona anterioară a umărului (zona bicipitală).\nDiagnostic:\nTendinită umăr drept, cel mai probabil tendoanele coifului rotatorilor sau tendonul bicipital.\nObiective terapeutice:\nReducerea inflamației și recuperarea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "De vreo două săptămâni.", "Am mutat niște cutii.", "La mișcare mai mult.", "Când ridic brațul sus.", "Da, mă trezesc."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu iau nimic."],
+    "evaluare_functionala_initiala": ["Deci cam 90 de grade și se oprește.", "Merge ceva mai bine în abducție.", "Mai pe față.", "Pe față, pe zona bicipitală.", "pare a fi o tendinită la nivelul umărului drept, cel mai probabil tendoanele coifului rotatorilor sau tendonul bicipital.", "Limitare la flexie anterioară, durere la palpare pe zona anterioară a umărului.", "Va trebui să reducem inflamația și să recuperăm mobilitatea."]
+  }
+}

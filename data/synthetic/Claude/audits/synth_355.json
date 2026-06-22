@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_355",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept, de vreo trei săptămâni",
+      "mi se pare că s-a înrăutățit un pic față de acum o săptămână",
+      "dimineața e mai rău, primele minute după ce mă trezesc"
+    ],
+    "evaluarea_durerii_vas": [
+      "Zilnic, în repaus, cam un 4",
+      "dacă ridic brațul sau încerc să pun mâna la spate, sar la un 7, poate 8"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept",
+      "Se lasă puțin, da, pe... pe partea din față a brațului, până pe la cot"
+    ],
+    "localizarea_durerii_alta": [
+      "pe partea din față a brațului, până pe la cot"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel, Voltaren, când mă doare mai rău seara",
+      "Poate de două ori, nu regulat, mai mult când nu mai suport"
+    ],
+    "evaluare_functionala_initiala": [
+      "Arc dureros la abducție, mijlociu",
+      "Rotație internă limitată și dureroasă",
+      "Sensibilitate la palparea tendonului supraspinat",
+      "avem un tablou specific unui sindrom de impingement subacromial, cu afectare la nivelul tendonului supraspinat",
+      "Obiectivul nostru va fi să reducem inflamația locală, să refacem mobilitatea umărului și să lucrăm și postura"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13861,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2338,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

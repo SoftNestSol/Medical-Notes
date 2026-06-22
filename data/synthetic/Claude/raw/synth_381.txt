@@ -1,0 +1,44 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut după ceva anume sau a venit din senin?\nSPEAKER_01: Nu știu exact. Cred că am dormit pe el.\nSPEAKER_00: Ați dormit pe umărul stâng și de atunci vă doare?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maximum, unde îl situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare constant sau numai când faceți anumite mișcări?\nSPEAKER_01: Numai când ridic brațul.\nSPEAKER_00: Când îl ridicați în față, în lateral, sau în ambele direcții?\nSPEAKER_01: Mai mult în lateral.\nSPEAKER_00: În lateral. Și dacă ridicați brațul în față, doare la fel de tare?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Ok. Doare și noaptea, dacă stați pe acel umăr?\nSPEAKER_01: Da, noaptea e mai rău.\nSPEAKER_00: Mai rău noaptea. Simțiți cumva o amorțeală pe braț sau pe degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală. Bun. Aveți vreo crachet sau pocnitură când mișcați umărul?\nSPEAKER_01: Câteodată, da.\nSPEAKER_00: Câteodată pocnește. Ok. Ce ocupație aveți?\nSPEAKER_01: Lucrez la birou.\nSPEAKER_00: La birou, stați mult la calculator?\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Și mouse-ul îl folosiți cu mâna stângă sau cu dreapta?\nSPEAKER_01: Cu dreapta.\nSPEAKER_00: Cu dreapta. Deci nu e de la mouse. Vreun sport, vreo activitate fizică?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Nu faceți sport. Ok. Haideți să vă ridic puțin brațul și îmi spuneți unde apare durerea. Îl ridic în lateral, ușor.\nSPEAKER_01: Ah, acolo, cam la jumătate.\nSPEAKER_00: La jumătate, cam la 90 de grade?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă ridic mai sus de 90 de grade?\nSPEAKER_01: Se mai duce, e mai puțin.\nSPEAKER_00: Se diminuează dincolo de 90 de grade. Asta e un semn clasic pentru o problemă la nivelul tendoanelor din umăr, la manșeta rotatorilor. Vă apăs puțin pe umăr, pe zona de sus, îmi spuneți dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Doare la palpare pe zona supraspinosului. Acum vreau să rezistați când vă împing brațul în jos. Împingeți în sus.\nSPEAKER_01: Au.\nSPEAKER_00: Doare când rezistați?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Avem antecedente, afecțiuni pe care le știți, tensiune, diabet, ceva?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Nicio operație, nicio fractură?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Deci avem o inflamație la nivelul manșetei rotatorilor pe umărul stâng, cel mai probabil supraspinosul. O să lucrăm să reducem inflamația și să recuperăm mobilitatea completă a umărului. Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng de aproximativ două săptămâni, apărută după ce pacientul a dormit pe umăr. Durere la ridicarea brațului în lateral, mai intensă la 90 de grade, cu ameliorare dincolo de acest unghi. Accentuare nocturnă.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Tendinopatie manșetă rotatori umăr stâng (supraspinat) - arc dureros la abducție 90 de grade, palpare dureroasă supraspinat, test rezistență abducție pozitiv.\nObiective terapeutice: reducerea inflamației; recuperarea mobilității complete a umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Vreo două săptămâni.",
+      "Cred că am dormit pe el.",
+      "Numai când ridic brațul.",
+      "Mai mult în lateral.",
+      "Da, noaptea e mai rău."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "La jumătate, cam la 90 de grade?",
+      "Se diminuează dincolo de 90 de grade. Asta e un semn clasic pentru o problemă la nivelul tendoanelor din umăr, la manșeta rotatorilor.",
+      "Doare la palpare pe zona supraspinosului.",
+      "Doare când rezistați?",
+      "Avem o inflamație la nivelul manșetei rotatorilor pe umărul stâng, cel mai probabil supraspinosul. O să lucrăm să reducem inflamația și să recuperăm mobilitatea completă a umărului."
+    ]
+  }
+}

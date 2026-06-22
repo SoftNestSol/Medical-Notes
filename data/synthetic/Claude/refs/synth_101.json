@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Pacient cu durere lombară joasă instalată de aproximativ două săptămâni, apărută după stat prelungit la birou. Durere la flexie și la ridicarea din poziție, mai accentuată pe dreapta, fără iradiere pe membrul inferior.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară înclinare laterală spre stânga în ortostatism. Limitare la flexia trunchiului (ajunge aproximativ la nivelul genunchilor). Durere la aplecare și la ridicare. Sensibilitate la palpare paravertebrală lombară dreaptă. Test Lasègue negativ bilateral.\nDiagnostic:\nContractură musculară paravertebrală lombară, mai accentuată pe dreapta, fără semne de iradiere radiculară.\nObiective terapeutice:\nRelaxarea musculaturii paravertebrale lombare; mobilizare lombară; recuperarea amplitudinii de mișcare."
+}

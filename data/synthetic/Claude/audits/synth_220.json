@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_220",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare gâtul, adică... cervicala, cum s-ar zice. Și mă mai doare și umărul drept, dar mai puțin",
+      "cred că de vreo trei săptămâni, poate mai mult",
+      "A început mai ușor și acum e mai rău",
+      "Poate de la birou, stau mult la calculator toată ziua",
+      "Se duce uneori și în cap, în ceafă, mai sus",
+      "Dureri de cap am, da, mai ales dimineața. Și uneori mă simt un pic amețită când mă ridic brusc din pat"
+    ],
+    "evaluarea_durerii_vas": [
+      "un 6, poate 7. Mai ales când întorc capul spre dreapta, atunci e mai rău",
+      "Dacă stau nemișcată e mai suportabil, un 4 poate"
+    ],
+    "localizarea_durerii": [
+      "mă doare gâtul, adică... cervicala",
+      "Se duce uneori și în cap, în ceafă, mai sus",
+      "mă mai doare și umărul drept, dar mai puțin"
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori, da. La mâna dreaptă, degetele, parcă"
+    ],
+    "antecedente": [
+      "Da, am tensiune. Am descoperit-o acum doi ani"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Perindopril, mi-a prescris doctorul de familie. 5 miligrame, o dată pe zi, dimineața"
+    ],
+    "evaluare_functionala_initiala": [
+      "o contractură musculară cervicală destul de puternică, mai ales pe dreapta, cu o limitare a mișcării în rotație spre dreapta",
+      "cel mai probabil avem o cervicalgie cu iritație musculară, posibil și o componentă la nivelul articulațiilor mici de la C5-C6, C6-C7",
+      "Obiectivul nostru acum este să reducem contractura musculară, să redobândim mobilitatea cervicală, în special spre dreapta, și să ameliorăm amorțelile prin reducerea presiunii la nivel cervical"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22058,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 3439,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

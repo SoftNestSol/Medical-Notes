@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Durere umăr drept, aproximativ 2-3 săptămâni, agravată la ridicarea brațului și rotația internă, cu treziri nocturne când doarme pe partea dreaptă. Tensiune cronică în zona cervicală/ceafă de ani de zile, asociată stresului și posturii la birou.",
+  "evaluarea_durerii_vas": [
+    3,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "75 micrograme"
+    }
+  ],
+  "evaluare_functionala_initiala": "Arc dureros pozitiv la abducție 80-90 grade, durere la rotație internă și la presiune anterioară. Diagnostic: tendinită de supraspinos, posibilă afectare bursă subacromială; tensiune musculară cervicală secundară posturii. Obiective terapeutice: reducerea inflamației din umăr, decontracturarea musculaturii periscapulare, recâștigarea amplitudinii de mișcare, lucru pe zona cervicală."
+}

@@ -1,0 +1,53 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Gheorghe Tănasă.\nSPEAKER_00: Și vârsta, dacă se poate.\nSPEAKER_01: 38 de ani.\nSPEAKER_00: Cu ce problemă ne vedem astăzi, domnule Tănasă?\nSPEAKER_01: Păi, mă doare umărul, cel drept, de vreo două săptămâni. Sincer, am zis că trece de la sine, că am mai avut câte un mic disconfort și a trecut, dar ăsta nu mai trece. Și soția mi-a zis să vin, că tot amânăm, tot amânăm.\nSPEAKER_00: Înțeles. Și când a apărut prima dată, a fost după ceva anume, vreun efort, vreo mișcare?\nSPEAKER_01: Da, da. Am mutat niște mobilă, un dulap mare, greu, cu un prieten. Și în ziua aia am simțit ceva, un fel de... nu știu, ca o înțepătură acolo, în umăr. Am zis că e oboseală musculară, normal, și gata. Dar a doua zi dimineața m-am trezit și nu mai puteam să ridic bine brațul.\nSPEAKER_00: Deci de la un efort fizic, ridicat greutate.\nSPEAKER_01: Da, exact. Dulap mare, înalt, l-am ridicat cam incomod, pe deasupra.\nSPEAKER_00: Și durerea asta, e mai mult când ridicați brațul, când vă întindeți, sau doare și în repaus?\nSPEAKER_01: Doare mai rău când ridic brațul sus sau când încerc să-l duc în spate, să știți. Dar și noaptea mă deranjează, că nu pot să stau pe partea dreaptă deloc. Mă trezesc și trebuie să mă întorc. Soția deja s-a supărat că o trezesc și eu. Adică și ea doarme prost acum din cauza mea.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, cât de tare doare în momentul când ridicați brațul?\nSPEAKER_01: Când ridic brațul... un 6, aș zice. Dar dacă prind ceva de pe raft sus, în ziua aia e mai rău, poate un 8.\nSPEAKER_00: Și în repaus, noaptea?\nSPEAKER_01: Noaptea dacă stau pe el un 5, dacă nu stau pe el, un 2, 3.\nSPEAKER_00: Ok. Și în zona asta, doare doar umărul sau se lasă și pe braț în jos?\nSPEAKER_01: Mai mult umărul, pe aici sus. Câteodată simt ceva și spre ceafă, dar nu știu dacă e legat sau dacă e de la calculator, că stau mult la birou.\nSPEAKER_00: La ceafă apare constant sau ocazional?\nSPEAKER_01: Ocazional, mai ales seara. Nu știu, poate e de la postură, poate e de la umăr, nu știu să vă spun exact.\nSPEAKER_00: Înțeles. Ați făcut ceva pentru durere până acum, vreun tratament?\nSPEAKER_01: Am pus un gel, un Voltaren, de câteva ori, că aveam acasă. A mai ușurat un pic pe moment, dar a doua zi tot la fel. Și am luat o dată un Ibuprofen, că noaptea chiar nu puteam să dorm.\nSPEAKER_00: Am înțeles. Alte probleme de sănătate, tensiune, diabet, vreo intervenție chirurgicală la umăr vreodată?\nSPEAKER_01: Nu, nimic din astea. Sunt sănătos tun, să zic. Adică nu am nimic cronic, nu iau nimic în mod regulat.\nSPEAKER_00: Nicio alergie?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vedem puțin cum stați. Ridicați brațul drept în față, încet.\nSPEAKER_01: Până aici pot, da? Mai sus deja... au.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da, cam de la jumătate în sus doare.\nSPEAKER_00: Și dacă duc eu brațul, tot de la jumătate?\nSPEAKER_01: Da, cam același lucru.\nSPEAKER_00: Acum duceți brațul lateral.\nSPEAKER_01: Lateral e și mai rău, sincer.\nSPEAKER_00: Da, vedem o limitare clară la abducție. Apăs acum aici, pe zona de inserție a supraspinosului. Doare?\nSPEAKER_01: Au, da, fix acolo e cel mai rău.\nSPEAKER_00: Și acum în față, sub acromion.\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Ok. Vedem o inflamație la nivelul tendoanelor umărului drept, cel mai probabil o tendinopatie de supraspinos. Mobilitatea e limitată, mai ales la ridicarea laterală și frontală. Obiectivul nostru va fi să reducem inflamația și să recuperăm amplitudinea de mișcare.\nSPEAKER_01: Și o să pot să fac sport din nou? Că mai joc fotbal cu băieții duminica și asta m-a scos complet.\nSPEAKER_00: Haideți să vedem cum răspunde în primele două-trei ședințe și stabilim de acolo. Dar da, obiectivul e să reveniți la activitate.\nSPEAKER_01: Bine, mă bucur. Că mă gândeam că poate e ceva mai grav, ruptură sau nu știu ce.\nSPEAKER_00: Deocamdată nu avem semne pentru asta. Haideți pe masă, vă rog.",
+
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutat mobila grea), cu limitarea ridicarii bratului, de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": [6, 8, 5],
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "ceafa (ocazional)",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      },
+      {
+        "denumire": "Ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare la abductie si ridicare frontala a bratului drept, durere la palparea insertiei supraspinosului si sub acromion. Diagnostic: tendinopatie supraspinos umar drept. Obiective terapeutice: reducerea inflamatiei, recuperarea amplitudinii de miscare, revenirea la activitate fizica."
+  },
+
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel drept, de vreo două săptămâni",
+      "Am mutat niște mobilă, un dulap mare, greu, cu un prieten. Și în ziua aia am simțit ceva, un fel de... nu știu, ca o înțepătură acolo, în umăr."
+    ],
+    "evaluarea_durerii_vas": [
+      "Când ridic brațul... un 6, aș zice. Dar dacă prind ceva de pe raft sus, în ziua aia e mai rău, poate un 8.",
+      "Noaptea dacă stau pe el un 5"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel drept"
+    ],
+    "localizarea_durerii_alta": [
+      "Câteodată simt ceva și spre ceafă",
+      "Ocazional, mai ales seara."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel, un Voltaren, de câteva ori",
+      "am luat o dată un Ibuprofen, că noaptea chiar nu puteam să dorm"
+    ],
+    "evaluare_functionala_initiala": [
+      "Vedem o limitare clară la abducție.",
+      "Vedem o inflamație la nivelul tendoanelor umărului drept, cel mai probabil o tendinopatie de supraspinos. Mobilitatea e limitată, mai ales la ridicarea laterală și frontală. Obiectivul nostru va fi să reducem inflamația și să recuperăm amplitudinea de mișcare."
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă venim azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați lovit?\nSPEAKER_01: Nu, nu știu. A apărut și-atât.\nSPEAKER_00: Doare tot timpul sau numai când faceți ceva?\nSPEAKER_01: Mai mult când ridic mâna.\nSPEAKER_00: Când ridicați mâna în față, în lateral, cum?\nSPEAKER_01: Mai mult în lateral, așa.\nSPEAKER_00: Doare și noaptea?\nSPEAKER_01: Uneori. Dacă stau pe partea aia.\nSPEAKER_00: Pe o scară de la zero la zece, zero nu doare deloc, zece doare foarte rău, unde suntem?\nSPEAKER_01: Un șapte.\nSPEAKER_00: Șapte. Și când stați liniștit, fără să mișcați?\nSPEAKER_01: Trei, patru.\nSPEAKER_00: Înțeles. Doare și în zona gâtului sau mai jos pe braț?\nSPEAKER_01: Nu, numai umărul.\nSPEAKER_00: Amorțește mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Lucrați cu mâinile mult, ridicați greutăți?\nSPEAKER_01: Muncesc la depozit.\nSPEAKER_00: Deci ridicați greutăți, da?\nSPEAKER_01: Da.\nSPEAKER_00: Și în ultima perioadă ați muncit mai mult ca de obicei?\nSPEAKER_01: Păi s-au mai îngrămădit comenzile, da.\nSPEAKER_00: Asta explică probabil. Bun, hai să facem câteva teste. Ridicați mâna ușor în lateral pentru mine.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Cam la nouăzeci de grade se blochează?\nSPEAKER_01: Da, de-acolo doare tare.\nSPEAKER_00: Ok. Acum îmi lăsați brațul în mână, nu faceți nimic, vă rog.\nSPEAKER_01: Da.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Un pic.\nSPEAKER_00: Și dacă apăs aici, pe zona asta de sub acromion?\nSPEAKER_01: Da, doare acolo.\nSPEAKER_00: Da. Și dacă rotesc ușor brațul înăuntru?\nSPEAKER_01: Au, da, mai tare.\nSPEAKER_00: Înțeles. Bine. Tensiune, diabet, boli de inimă, aveți ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu am avut nimic.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme sau unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci avem o inflamație la nivelul tendoanelor din umăr, zona coafei rotatorilor cum îi spunem, cel mai probabil din suprasolicitare, de la ridicatul greutăților. Durerea la ridicarea brațului în lateral și la rotația internă e clasică pentru asta. Obiectivul nostru e să reducem inflamația, după care lucrăm mobilitatea și întărim zona ca să nu revină.\nSPEAKER_01: Ok.\nSPEAKER_00: O să simțiți un pic de căldură de la proceduri, e normal. Haideți pe masă cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng, apărută în urmă cu două săptămâni, fără traumatism, agravată de ridicarea brațului în lateral și de rotația internă, posibil legată de suprasolicitare la muncă (depozit, ridicat greutăți).",
+    "evaluarea_durerii_vas": [7, 3],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: inflamație coafă rotatori umăr stâng, suprasolicitare mecanică.\nObiective terapeutice: reducerea inflamației, refacerea mobilității, tonifierea musculaturii periarticulare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "De vreo două săptămâni.", "A apărut și-atât.", "Muncesc la depozit.", "s-au mai îngrămădit comenzile"],
+    "evaluarea_durerii_vas": ["Un șapte.", "Trei, patru."],
+    "localizarea_durerii": ["Stângul.", "numai umărul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendoanelor din umăr, zona coafei rotatorilor", "Durerea la ridicarea brațului în lateral și la rotația internă e clasică pentru asta", "Obiectivul nostru e să reducem inflamația, după care lucrăm mobilitatea și întărim zona"]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Andrei Costan.\nSPEAKER_00: Și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem astăzi, domnule Costan?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo trei săptămâni.\nSPEAKER_00: A apărut după ceva anume, după un efort, o mișcare?\nSPEAKER_01: Nu știu exact. Poate de la muncă.\nSPEAKER_00: Ce fel de muncă faceți?\nSPEAKER_01: Constructor. Ridic materiale.\nSPEAKER_00: Deci ridicați greutăți frecvent, da?\nSPEAKER_01: Da.\nSPEAKER_00: Și durerea a apărut treptat sau brusc?\nSPEAKER_01: Treptat.\nSPEAKER_00: Doare constant sau numai la mișcare?\nSPEAKER_01: Mai mult la mișcare. Când ridic mâna.\nSPEAKER_00: Când ridicați mâna în sus sau mai mult în lateral?\nSPEAKER_01: În sus mai rău.\nSPEAKER_00: Se lasă durerea și pe braț în jos sau e locală?\nSPEAKER_01: E locală, în umăr.\nSPEAKER_00: Noaptea vă deranjează? Dacă dormiți pe umărul drept?\nSPEAKER_01: Da, mă trezesc.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât estimați durerea când ridicați mâna?\nSPEAKER_01: Un 7.\nSPEAKER_00: Un 7. Și noaptea când dormiți pe el?\nSPEAKER_01: Cam la fel, 6-7.\nSPEAKER_00: Am înțeles. Alergii avem?\nSPEAKER_01: Nu.\nSPEAKER_00: Tensiune, diabet, alte afecțiuni?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai făcut vreun tratament pentru umărul ăsta, kinetoterapie, masaj?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Ați făcut vreo radiografie, vreo ecografie?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să facem câteva teste. Ridicați ușor mâna în lateral pentru mine.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare când ajungeți la nivelul ăsta, la aproximativ 90 de grade?\nSPEAKER_01: Da, de-aici încolo.\nSPEAKER_00: Și dacă vă ajut eu să continuați mai sus?\nSPEAKER_01: Au, doare mai tare.\nSPEAKER_00: Am înțeles. Apăs acum pe zona de deasupra umărului, pe tendonul supraspinos. Spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo e.\nSPEAKER_00: Acolo e. Bun. Și dacă rotesc brațul ușor în interior, cu cotul îndoit?\nSPEAKER_01: Doare și- așa.\nSPEAKER_00: Deci avem o limitare clară la abducție și la rotație internă, cu durere la palparea tendonului supraspinos. Eu zic că avem de-a face cu o inflamație la nivelul manșetei rotatorilor, cel mai probabil tendonul supraspinos. Obiectivul nostru va fi să reducem inflamația și să recuperăm mobilitatea umărului. Vom lucra și pe musculatura din jur ca să descărcăm zona.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să trecem la treabă.",
+
+  "note": {
+    "motivul_prezentarii": "Durere umar drept, aparuta treptat in ultimele trei saptamani, probabil legata de efort fizic la locul de munca (constructor, ridicat greutati). Durere la ridicarea mainii in sus si la dormit pe umarul drept.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Limitare la abductie si rotatie interna; durere la palparea tendonului supraspinos. Diagnostic: inflamatie manseta rotatorilor (tendon supraspinos). Obiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii umarului."
+  },
+
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Vreo trei săptămâni.", "Constructor. Ridic materiale.", "Treptat.", "În sus mai rău.", "mă trezesc."],
+    "evaluarea_durerii_vas": ["Un 7."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul.", "E locală, în umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o limitare clară la abducție și la rotație internă, cu durere la palparea tendonului supraspinos", "avem de-a face cu o inflamație la nivelul manșetei rotatorilor, cel mai probabil tendonul supraspinos", "Obiectivul nostru va fi să reducem inflamația și să recuperăm mobilitatea umărului"]
+  }
+}

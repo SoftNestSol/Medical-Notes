@@ -1,0 +1,313 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună dimineața!"
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună."
+    },
+    {
+      "start": 1.84,
+      "end": 4.12,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 4.24,
+      "end": 5.38,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare genunchiul."
+    },
+    {
+      "start": 5.5,
+      "end": 7.4,
+      "speaker": "SPEAKER_00",
+      "text": "Care genunchi, dreptul sau stângul?"
+    },
+    {
+      "start": 7.52,
+      "end": 8.32,
+      "speaker": "SPEAKER_01",
+      "text": "Dreptul."
+    },
+    {
+      "start": 8.44,
+      "end": 9.58,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp?"
+    },
+    {
+      "start": 9.7,
+      "end": 11.22,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo două săptămâni."
+    },
+    {
+      "start": 11.34,
+      "end": 15.52,
+      "speaker": "SPEAKER_00",
+      "text": "Două săptămâni. S-a întâmplat ceva, ai căzut, ai lovit genunchiul?"
+    },
+    {
+      "start": 15.64,
+      "end": 16.44,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 16.56,
+      "end": 17.36,
+      "speaker": "SPEAKER_00",
+      "text": "Nimic anume?"
+    },
+    {
+      "start": 17.48,
+      "end": 21.66,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, parcă după ce am stat mai mult pe scaun."
+    },
+    {
+      "start": 21.78,
+      "end": 25.96,
+      "speaker": "SPEAKER_00",
+      "text": "Deci a apărut după ce ai stat mult jos, la birou?"
+    },
+    {
+      "start": 26.08,
+      "end": 26.88,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 27.0,
+      "end": 29.28,
+      "speaker": "SPEAKER_00",
+      "text": "Doare când urci scări, când cobori?"
+    },
+    {
+      "start": 29.4,
+      "end": 30.92,
+      "speaker": "SPEAKER_01",
+      "text": "Când cobor mai ales."
+    },
+    {
+      "start": 31.04,
+      "end": 34.08,
+      "speaker": "SPEAKER_00",
+      "text": "Când cobori. Doare și când stai jos mult?"
+    },
+    {
+      "start": 34.2,
+      "end": 35.34,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și atunci."
+    },
+    {
+      "start": 35.46,
+      "end": 43.82,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde l-ai pune?"
+    },
+    {
+      "start": 43.94,
+      "end": 44.74,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 5."
+    },
+    {
+      "start": 44.86,
+      "end": 48.66,
+      "speaker": "SPEAKER_00",
+      "text": "5. Doare tot genunchiul sau mai mult pe o parte?"
+    },
+    {
+      "start": 48.78,
+      "end": 51.06,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult pe aici, în față."
+    },
+    {
+      "start": 51.18,
+      "end": 52.7,
+      "speaker": "SPEAKER_00",
+      "text": "În față, sub rotulă?"
+    },
+    {
+      "start": 52.82,
+      "end": 53.96,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam acolo."
+    },
+    {
+      "start": 54.08,
+      "end": 55.22,
+      "speaker": "SPEAKER_00",
+      "text": "Genunchiul se umflă?"
+    },
+    {
+      "start": 55.34,
+      "end": 56.14,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 56.26,
+      "end": 58.16,
+      "speaker": "SPEAKER_00",
+      "text": "Nu s-a umflat deloc?"
+    },
+    {
+      "start": 58.28,
+      "end": 59.08,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 59.2,
+      "end": 62.62,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Amorțeală pe picior, pe gambă, pe laba piciorului?"
+    },
+    {
+      "start": 62.74,
+      "end": 63.54,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 63.66,
+      "end": 66.32,
+      "speaker": "SPEAKER_00",
+      "text": "Nicio amorțeală. Și spatele nu te deranjează?"
+    },
+    {
+      "start": 66.44,
+      "end": 67.24,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 67.36,
+      "end": 70.02,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Ai diabet, tensiune, osteoporoză, alte boli?"
+    },
+    {
+      "start": 70.14,
+      "end": 70.94,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 71.06,
+      "end": 71.86,
+      "speaker": "SPEAKER_00",
+      "text": "Nicio afecțiune?"
+    },
+    {
+      "start": 71.98,
+      "end": 72.78,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic."
+    },
+    {
+      "start": 72.9,
+      "end": 74.42,
+      "speaker": "SPEAKER_00",
+      "text": "Operații la genunchi vreodată?"
+    },
+    {
+      "start": 74.54,
+      "end": 75.34,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 75.46,
+      "end": 76.98,
+      "speaker": "SPEAKER_00",
+      "text": "Iei vreun medicament acum?"
+    },
+    {
+      "start": 77.1,
+      "end": 77.9,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 78.02,
+      "end": 79.16,
+      "speaker": "SPEAKER_00",
+      "text": "Niciun antiinflamator, nimic?"
+    },
+    {
+      "start": 79.28,
+      "end": 80.08,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 80.2,
+      "end": 87.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să stăm un pic în picioare, să văd cum stați. Stai puțin pe piciorul drept singur... te ține?"
+    },
+    {
+      "start": 87.92,
+      "end": 90.2,
+      "speaker": "SPEAKER_01",
+      "text": "Mă ține, da, dar simt acolo."
+    },
+    {
+      "start": 90.32,
+      "end": 91.84,
+      "speaker": "SPEAKER_00",
+      "text": "Simți presiune sub rotulă."
+    },
+    {
+      "start": 91.96,
+      "end": 92.76,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 92.88,
+      "end": 95.92,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Îndoaie puțin genunchiul drept. Doare la îndoire?"
+    },
+    {
+      "start": 96.04,
+      "end": 96.84,
+      "speaker": "SPEAKER_01",
+      "text": "Puțin, da."
+    },
+    {
+      "start": 96.96,
+      "end": 99.62,
+      "speaker": "SPEAKER_00",
+      "text": "Hai să apăs puțin sub rotulă. Doare?"
+    },
+    {
+      "start": 99.74,
+      "end": 100.54,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo."
+    },
+    {
+      "start": 100.66,
+      "end": 118.14,
+      "speaker": "SPEAKER_00",
+      "text": "Exact acolo. Deci avem o inflamație la nivelul tendonului rotulian. Se numește tendinopatie rotuliană. Asta apare destul de des când stăm mult pe scaun și nu mișcăm suficient piciorul. O să lucrăm să reducem inflamația și să mobilizăm articulația. Hai pe masă, cu fața în sus."
+    }
+  ]
+}

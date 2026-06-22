@@ -1,0 +1,41 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți azi.\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. A apărut brusc sau treptat?\nSPEAKER_01: Brusc. M-am trezit dimineața și nu mai puteam să întorc capul.\nSPEAKER_00: Înțeles. Și acum, după două săptămâni, tot nu întoarceți capul bine?\nSPEAKER_01: Mai merge un pic, dar tot doare.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare mai mult într-o parte, stânga sau dreapta?\nSPEAKER_01: Pe stânga.\nSPEAKER_00: Pe stânga. Durerea se lasă cumva pe umăr sau pe braț?\nSPEAKER_01: Nu, rămâne sus, la gât.\nSPEAKER_00: Rămâne local. Amorțește ceva, degetele, mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Dureri de cap, amețeli?\nSPEAKER_01: Dureri de cap mai am, da.\nSPEAKER_00: Des?\nSPEAKER_01: Cam în fiecare zi de când a apărut treaba asta.\nSPEAKER_00: Deci durerile de cap au apărut odată cu durerea de gât?\nSPEAKER_01: Da, cam odată.\nSPEAKER_00: Înțeles. Ce faceți ca muncă, dacă pot să întreb?\nSPEAKER_01: Stau la birou, calculator.\nSPEAKER_00: Mult timp pe zi?\nSPEAKER_01: Vreo opt ore.\nSPEAKER_00: Opt ore la calculator. Și în ziua în care a apărut, ați făcut ceva special, ați dormit ciudat, ați ridicat ceva?\nSPEAKER_01: Nu știu. Poate am dormit prost.\nSPEAKER_00: Posibil. Ați mai avut episoade similare înainte?\nSPEAKER_01: Nu, prima dată.\nSPEAKER_00: Prima dată, ok. Alte afecțiuni, tensiune, diabet, probleme cardiace?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste rapide. Întoarceți capul ușor spre stânga pentru mine.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Da, văd că e limitată rotația spre stânga. Spre dreapta merge mai bine?\nSPEAKER_01: Da, dreapta merge.\nSPEAKER_00: Bun. Lăsați capul pe umărul stâng, ușor.\nSPEAKER_01: Au, da, doare aici.\nSPEAKER_00: Doare la înclinare laterală stânga. Înțeles. Vă apăs puțin pe zona asta, musculatura paravertebrală cervicală. Spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo, exact.\nSPEAKER_00: Pe trapez doare și el?\nSPEAKER_01: Un pic, dar mai puțin.\nSPEAKER_00: Ok. Deci avem o contractură musculară cervicală, cu limitare de mobilitate mai ales spre stânga, și durerile de cap sunt cel mai probabil de origine cervicală, ceea ce numim cefalee cervicogenă. Obiectivul nostru este să reducem contractura, să recuperăm mobilitatea și să vedem dacă dispar și durerile de cap.\nSPEAKER_01: Bine.\nSPEAKER_00: Câte ședințe depinde de cum răspunde, dar de obicei în câteva ședințe se simte bine. Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu debut brusc în urmă cu două săptămâni (posibil după somn în poziție vicioasă), cu limitarea rotației capului spre stânga și dureri de cap zilnice asociate. Pacient lucrează la birou, calculator, circa 8 ore/zi.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: contractură musculară cervicală cu limitare de mobilitate spre stânga; cefalee cervicogenă.\nObiective terapeutice: reducerea contracturii musculare; recuperarea mobilității cervicale; ameliorarea durerilor de cap."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "De vreo două săptămâni.",
+      "M-am trezit dimineața și nu mai puteam să întorc capul.",
+      "Poate am dormit prost.",
+      "Stau la birou, calculator.",
+      "Vreo opt ore."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "rămâne sus, la gât."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară cervicală, cu limitare de mobilitate mai ales spre stânga",
+      "durerile de cap sunt cel mai probabil de origine cervicală, ceea ce numim cefalee cervicogenă",
+      "Obiectivul nostru este să reducem contractura, să recuperăm mobilitatea și să vedem dacă dispar și durerile de cap."
+    ]
+  }
+}

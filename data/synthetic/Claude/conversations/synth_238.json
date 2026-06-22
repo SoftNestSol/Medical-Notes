@@ -1,0 +1,391 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, domnule!"
+    },
+    {
+      "start": 1.26,
+      "end": 2.78,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.9,
+      "end": 6.32,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi și mie cum vă numiți, vă rog."
+    },
+    {
+      "start": 6.44,
+      "end": 7.58,
+      "speaker": "SPEAKER_01",
+      "text": "Ionescu, Ionescu Mihai."
+    },
+    {
+      "start": 7.7,
+      "end": 9.6,
+      "speaker": "SPEAKER_00",
+      "text": "Mulțumesc, domnule Ionescu. Și vârsta?"
+    },
+    {
+      "start": 9.72,
+      "end": 11.24,
+      "speaker": "SPEAKER_01",
+      "text": "Am 38 de ani."
+    },
+    {
+      "start": 11.36,
+      "end": 14.78,
+      "speaker": "SPEAKER_00",
+      "text": "38, bun. Și cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 14.9,
+      "end": 25.54,
+      "speaker": "SPEAKER_01",
+      "text": "Păi mă doare... pe aici, pe zona asta de umăr, de gât, pe partea asta dreaptă. Nu știu exact cum să spun, dar mă ține de ceva vreme."
+    },
+    {
+      "start": 25.66,
+      "end": 29.84,
+      "speaker": "SPEAKER_00",
+      "text": "Deci e zona cervicală, gâtul, și se extinde spre umărul drept?"
+    },
+    {
+      "start": 29.96,
+      "end": 35.28,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam pe acolo. Mai mult gâtul, dar și umărul simte și el ceva."
+    },
+    {
+      "start": 35.4,
+      "end": 38.44,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și de când vă doare mai exact?"
+    },
+    {
+      "start": 38.56,
+      "end": 45.02,
+      "speaker": "SPEAKER_01",
+      "text": "Păi nu știu exact, cam de vreo două, trei săptămâni, poate mai mult. A început pe nesimțite."
+    },
+    {
+      "start": 45.14,
+      "end": 48.56,
+      "speaker": "SPEAKER_00",
+      "text": "Pe nesimțite, nu ați căzut, nu ați lovit nimic?"
+    },
+    {
+      "start": 48.68,
+      "end": 53.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, nimic din astea. Stau mult la birou, calculator, poate de-acolo."
+    },
+    {
+      "start": 53.74,
+      "end": 57.16,
+      "speaker": "SPEAKER_00",
+      "text": "Probabil da. Și doare constant sau vine și trece?"
+    },
+    {
+      "start": 57.28,
+      "end": 63.74,
+      "speaker": "SPEAKER_01",
+      "text": "Vine și trece, dar dimineața e mai rău, când mă ridic din pat e vai de mine."
+    },
+    {
+      "start": 63.86,
+      "end": 65.38,
+      "speaker": "SPEAKER_00",
+      "text": "Dimineața e mai rău."
+    },
+    {
+      "start": 65.5,
+      "end": 73.1,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și dacă stau mult la birou, după vreo oră-două la calculator, simte că mă înțepenesc pe partea asta."
+    },
+    {
+      "start": 73.22,
+      "end": 78.92,
+      "speaker": "SPEAKER_00",
+      "text": "Înțepenire pe partea dreaptă. Și vă lasă durerea cumva pe braț în jos, amorțește degetele?"
+    },
+    {
+      "start": 79.04,
+      "end": 86.26,
+      "speaker": "SPEAKER_01",
+      "text": "Păi câteodată simt ceva și pe braț, mai jos, pe... nu știu, pe aici undeva, dar nu tot timpul."
+    },
+    {
+      "start": 86.38,
+      "end": 89.42,
+      "speaker": "SPEAKER_00",
+      "text": "Pe braț, dar nu constant. Amorțeli la degete?"
+    },
+    {
+      "start": 89.54,
+      "end": 91.06,
+      "speaker": "SPEAKER_01",
+      "text": "Rar, rar, nu prea."
+    },
+    {
+      "start": 91.18,
+      "end": 99.54,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, cum ați situa durerea?"
+    },
+    {
+      "start": 99.66,
+      "end": 109.92,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... greu de spus. Când mă trezesc dimineața poate un... nu știu, undeva pe la 6, 7, ceva de genul ăsta. Dar în general, ziua, mai scade."
+    },
+    {
+      "start": 110.04,
+      "end": 117.26,
+      "speaker": "SPEAKER_00",
+      "text": "Deci dimineața 6-7, ziua mai scade. Bun, am înțeles. Aveți vreo radiografie sau RMN făcut pe zona asta?"
+    },
+    {
+      "start": 117.38,
+      "end": 126.5,
+      "speaker": "SPEAKER_01",
+      "text": "Am făcut un RMN acum vreo doi ani, mi-au spus ceva de o ușoară scolioză, dar nu mi-au zis că e grav."
+    },
+    {
+      "start": 126.62,
+      "end": 129.28,
+      "speaker": "SPEAKER_00",
+      "text": "Ușoară scolioză la nivel cervical sau toracal?"
+    },
+    {
+      "start": 129.4,
+      "end": 138.14,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu exact, nu m-am prins prea bine la ce nivel. Mi-au arătat pe poze dar nu am înțeles mare lucru."
+    },
+    {
+      "start": 138.26,
+      "end": 142.82,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Alte afecțiuni mai aveți, tensiune, diabet, epilepsie, ceva de genul?"
+    },
+    {
+      "start": 142.94,
+      "end": 145.22,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea."
+    },
+    {
+      "start": 145.34,
+      "end": 147.24,
+      "speaker": "SPEAKER_00",
+      "text": "Nici o problemă la inimă?"
+    },
+    {
+      "start": 147.36,
+      "end": 148.16,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 148.28,
+      "end": 149.08,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale?"
+    },
+    {
+      "start": 149.2,
+      "end": 154.14,
+      "speaker": "SPEAKER_01",
+      "text": "Am operat de apendicită acum vreo zece ani, dar aia e de mult."
+    },
+    {
+      "start": 154.26,
+      "end": 155.4,
+      "speaker": "SPEAKER_00",
+      "text": "Apendicită, da. Fracturi?"
+    },
+    {
+      "start": 155.52,
+      "end": 156.32,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată."
+    },
+    {
+      "start": 156.44,
+      "end": 159.86,
+      "speaker": "SPEAKER_00",
+      "text": "Boli cu transmitere prin sânge, implanturi metalice, stimulator cardiac?"
+    },
+    {
+      "start": 159.98,
+      "end": 161.12,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, nimic."
+    },
+    {
+      "start": 161.24,
+      "end": 162.76,
+      "speaker": "SPEAKER_00",
+      "text": "Medicamente luați în prezent?"
+    },
+    {
+      "start": 162.88,
+      "end": 170.1,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Am luat un ibuprofen din când în când când mă doare tare, dar nu îl iau regulat."
+    },
+    {
+      "start": 170.22,
+      "end": 172.88,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles, nu e un tratament regulat deci."
+    },
+    {
+      "start": 173.0,
+      "end": 175.28,
+      "speaker": "SPEAKER_01",
+      "text": "Da, doar când nu mai pot."
+    },
+    {
+      "start": 175.4,
+      "end": 183.38,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să vă examinez puțin, vă rog să stați drept în picioare. Faceți o rotație ușoară a capului spre dreapta."
+    },
+    {
+      "start": 183.5,
+      "end": 185.78,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, acolo e mai greu."
+    },
+    {
+      "start": 185.9,
+      "end": 188.56,
+      "speaker": "SPEAKER_00",
+      "text": "Mai greu spre dreapta. Și spre stânga?"
+    },
+    {
+      "start": 188.68,
+      "end": 190.2,
+      "speaker": "SPEAKER_01",
+      "text": "Merge mai bine, da."
+    },
+    {
+      "start": 190.32,
+      "end": 196.78,
+      "speaker": "SPEAKER_00",
+      "text": "Mai bine spre stânga. Deci limitare de rotație spre dreapta. Haideți să aplecăm capul spre umărul drept."
+    },
+    {
+      "start": 196.9,
+      "end": 199.56,
+      "speaker": "SPEAKER_01",
+      "text": "Ăă, mă cam ține, nu merge mult."
+    },
+    {
+      "start": 199.68,
+      "end": 207.28,
+      "speaker": "SPEAKER_00",
+      "text": "Vă ține pe flexia laterală dreaptă. Bun. Acum vă apăs puțin pe zona cervicală, spuneți-mi dacă și unde doare."
+    },
+    {
+      "start": 207.4,
+      "end": 210.82,
+      "speaker": "SPEAKER_01",
+      "text": "Da, pe aici, sus, spre baza craniului, pe dreapta."
+    },
+    {
+      "start": 210.94,
+      "end": 213.22,
+      "speaker": "SPEAKER_00",
+      "text": "La baza craniului pe dreapta, da?"
+    },
+    {
+      "start": 213.34,
+      "end": 217.9,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și un pic mai jos, dar mai sus e mai rău."
+    },
+    {
+      "start": 218.02,
+      "end": 219.92,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Trapezul, pe dreapta... doare?"
+    },
+    {
+      "start": 220.04,
+      "end": 222.32,
+      "speaker": "SPEAKER_01",
+      "text": "Au, aia da, aia mă omoară."
+    },
+    {
+      "start": 222.44,
+      "end": 227.38,
+      "speaker": "SPEAKER_00",
+      "text": "Trapez drept foarte contractat. Și umărul, dacă ridic brațul dvs. în față, doare?"
+    },
+    {
+      "start": 227.5,
+      "end": 232.44,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, umărul în sine nu prea, e mai mult gâtul care se simte."
+    },
+    {
+      "start": 232.56,
+      "end": 240.16,
+      "speaker": "SPEAKER_00",
+      "text": "Deci mobilitatea umărului e păstrată, problema e mai mult la nivel cervical și trapez. Hai să verificăm și zona toracală."
+    },
+    {
+      "start": 240.28,
+      "end": 247.88,
+      "speaker": "SPEAKER_01",
+      "text": "Păi acolo... nu știu, câteodată simt ceva și între omoplați, dar nu mă deranjează la fel de tare ca gâtul."
+    },
+    {
+      "start": 248.0,
+      "end": 249.14,
+      "speaker": "SPEAKER_00",
+      "text": "Între omoplați, intermitent."
+    },
+    {
+      "start": 249.26,
+      "end": 251.54,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, din când în când."
+    },
+    {
+      "start": 251.66,
+      "end": 277.5,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Deci avem o tensionare musculară importantă la nivel cervical cu iradiere spre umărul drept, contractura trapezului drept, și limitare de mobilitate de rotație și flexie laterală spre dreapta. Probabil este legat de postura prelungită la birou. Ce putem face este să lucrăm pe zona cervicală să reducem contractura musculară, să recuperăm mobilitatea, și ulterior vedem dacă e nevoie și de o ajustare manuală pe coloana cervicală."
+    },
+    {
+      "start": 277.62,
+      "end": 280.28,
+      "speaker": "SPEAKER_01",
+      "text": "Bun, și credeți că o să treacă?"
+    },
+    {
+      "start": 280.4,
+      "end": 290.28,
+      "speaker": "SPEAKER_00",
+      "text": "Cu câteva ședințe cu siguranță o să simțiți o îmbunătățire. Haideți să trecem la treabă, vă rog să vă așezați pe masă cu fața în sus."
+    },
+    {
+      "start": 290.4,
+      "end": 291.2,
+      "speaker": "SPEAKER_01",
+      "text": "Da, haideți."
+    }
+  ]
+}

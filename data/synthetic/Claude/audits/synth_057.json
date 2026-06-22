@@ -1,0 +1,54 @@
+{
+  "conversation_id": "synth_057",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, zona de jos, de ceva vreme deja",
+      "Am alunecat pe scări la birou și am căzut pe spate, pe zona asta de jos",
+      "Mi-a zis medicul de familie că am o hernie de disc, la L4-L5"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în momentul ăsta de repaus, un 5. Dar când mă mișc, când mă aplec sau când mă ridic din pat dimineața, ajunge ușor la 8."
+    ],
+    "localizarea_durerii": [
+      "principalul e jos, la lombar",
+      "cervical mai am câteodată, dar aia e veche, de când stau la calculator toată ziua"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă pe fesă, pe partea stângă mai ales, și câteodată simt ceva și mai jos, pe coapsă, tot pe stânga"
+    ],
+    "antecedente": [
+      "am tensiune. Am hipertensiune de vreo patru ani",
+      "Mi-a zis medicul de familie că am o hernie de disc, la L4-L5"
+    ],
+    "antecedente_altele": [
+      "Am avut o operație la menisc, la genunchiul drept, acum vreo opt ani",
+      "am și colesterol un pic crescut, dar deocamdată nu iau nimic specific pentru asta"
+    ],
+    "medicatie_actuala": [
+      "Iau Enalapril, 10 miligrame pe zi. Dimineața.",
+      "Am luat Ibuprofen, 400 de miligrame, când nu mai puteam de tot",
+      "o dată am luat un Ketoprofen, că nu aveam Ibuprofen la îndemână"
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ că stați cu o ușoară aplecare spre dreapta",
+      "E o postură antalgică, corpul încearcă să se ferească de durere",
+      "testul Lasègue pozitiv pe stânga",
+      "Avem o hernie confirmată L4-L5 cu iradiere pe membrul inferior stâng, semne de compresie radiculară",
+      "O să lucrăm cu grijă, cu tehnici blânde, scopul principal e să reducem inflamația, să eliberăm presiunea pe rădăcina nervoasă și să recuperăm mobilitatea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 13621
+    },
+    "cache_creation_input_tokens": 13621,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 271,
+    "output_tokens": 3865,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

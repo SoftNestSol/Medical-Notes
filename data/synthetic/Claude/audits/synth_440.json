@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_440",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare cervicalul, gâtul, de vreo două săptămâni",
+      "am și niște dureri de cap, mai ales dimineața",
+      "am avut o perioadă mai aglomerată, mai mult stres, mai multe ore petrecute în față la ecran. Și parcă atunci a început"
+    ],
+    "evaluarea_durerii_vas": [
+      "dimineața, când mă trezesc, un 7 sigur",
+      "Pe parcursul zilei mai scade, poate un 4-5"
+    ],
+    "localizarea_durerii": [
+      "mă doare cervicalul, gâtul",
+      "am și niște dureri de cap, mai ales dimineața",
+      "se lasă și pe umărul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "simt că mi se întinde și pe braț, pe dreapta"
+    ],
+    "antecedente": [
+      "am tensiune, hipertensiune de vreo doi ani"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Lozap, 50 de miligrame, o dată pe zi, dimineața",
+      "Mai iau uneori Paracetamol când mă doare capul sau gâtul",
+      "500, un comprimat sau două dacă e mai rău"
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți capul dus ușor în față față de umeri",
+      "avem o tensiune musculară importantă pe trapez și ridicătorul scapulei, plus o postură care solicită coloana cervicală mai mult decât ar trebui",
+      "există o iritație la nivelul rădăcinilor nervoase, probabil în zona cervicală inferioară",
+      "Obiectivul nostru va fi să relaxăm musculatura, să reducem iritația și să recuperăm mobilitatea gâtului. O să lucrăm și la postura de la birou"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13739,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 3454,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

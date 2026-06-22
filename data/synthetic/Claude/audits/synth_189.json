@@ -1,0 +1,50 @@
+{
+  "conversation_id": "synth_189",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere, nu știu exact cum să o descriu, pe undeva pe aici, pe zona asta de spate, mai sus, mai spre umăr, undeva acolo",
+      "A început mai ușor și acum parcă e mai des",
+      "Stau mult la birou, la calculator, cam toată ziua, și poate de acolo",
+      "spre seară mai ales. Dimineața când mă trezesc e mai ok, dar dacă stau mult, spre prânz, spre seară, parcă se strânge tot acolo",
+      "Mai am câte ceva, nu prea rău, dar câteodată simt ceva. Nu e principala problemă"
+    ],
+    "evaluarea_durerii_vas": [
+      "la 6 cred că da, câteodată. Nu mai mult de atât"
+    ],
+    "localizarea_durerii": [
+      "e cam la mijloc, pe undeva. Adică nu e chiar la gât, e mai jos, dar nu e nici chiar jos de tot",
+      "Da, da, cam pe acolo. Și un pic și spre umăr, pe stânga, spre umărul stâng",
+      "Câteodată simt ceva și pe gât, mai sus",
+      "Da, uneori, mai ales dacă stau mult în picioare sau merg mult"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiunea mi-a zis doctorul că e puțin mai mare, am hipertensiune, da, iau și ceva pentru asta"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Enalapril, un comprimat pe zi, cred că e de 10, 10 miligrame"
+    ],
+    "evaluare_functionala_initiala": [
+      "observ că umărul stâng e ușor mai căzut față de dreptul, și capul e un pic dus în față",
+      "Se mai blochează, nu doare foarte tare, dar simt că nu se duce mai departe",
+      "simt că musculatura e contractată în zona toracală superioară, paravertebral. Și cervical, în zona asta de C6-C7, e și tensiune",
+      "ce avem noi aici e o contractură musculară în zona toracală superioară, cu iradiere spre umărul stâng, și o tensiune cervicală jos, posibil legată de postura la birou",
+      "O să lucrăm să relaxăm musculatura de acolo, să ameliorăm mobilitatea cervicală și să corectăm un pic postura"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23026,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3625,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

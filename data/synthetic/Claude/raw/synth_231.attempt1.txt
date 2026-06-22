@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și s-a întâmplat ceva, ați făcut vreun efort, ați căzut?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Ați mutat mobilă, da, și de atunci a rămas?\nSPEAKER_01: Da.\nSPEAKER_00: Vă doare doar umărul sau se lasă și pe braț în jos?\nSPEAKER_01: Și pe braț puțin.\nSPEAKER_00: Pe braț, până unde?\nSPEAKER_01: Până pe la cot, cam așa.\nSPEAKER_00: Până la cot. Și cotul în sine doare?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare e durerea?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Doare mai tare când ridicați brațul sau când stați liniștit?\nSPEAKER_01: Când ridic.\nSPEAKER_00: Când ridicați. Puteți să ridicați brațul deasupra capului?\nSPEAKER_01: Greu.\nSPEAKER_00: Greu. Ridicați puțin acum pentru mine, ridicați ușor... până unde ajungeți?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Cam la orizontală, da. Și dacă ridic eu brațul pasiv, tot doare?\nSPEAKER_01: Da, cam la fel.\nSPEAKER_00: La fel. Noaptea vă deranjează, vă treziți din cauza durerii?\nSPEAKER_01: Uneori.\nSPEAKER_00: Uneori. Pe ce parte dormiți de obicei?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Pe dreapta, deci chiar pe umărul afectat. Asta nu ajută.\nSPEAKER_01: Da, știu.\nSPEAKER_00: Ce meserie aveți?\nSPEAKER_01: Zugrav.\nSPEAKER_00: Zugrav, deci mult cu brațul ridicat.\nSPEAKER_01: Da.\nSPEAKER_00: Am înțeles. Tensiune, diabet, afecțiuni cardiace, ceva de genul?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio operație la umăr, nicio fractură?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin, vă apăs zona de rotatori, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Aici pe supraspinat doare, da?\nSPEAKER_01: Da.\nSPEAKER_00: Și mai jos, pe deltoid?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin. Bun. Pare a fi o tendinopatie de supraspinat, cel mai probabil din suprasolicitare, atât de la mutat mobilă cât și din activitatea de zugrav. Va trebui să reducem inflamația în prima fază și să recuperăm mobilitatea umărului. Haideți să trecem la lucru.\nSPEAKER_01: Ok.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept cu iradiere pe brat, aparuta dupa efort fizic",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinopatie supraspinat dr.\nObiective terapeutice:\n- reducerea inflamatiei;\n- recuperarea mobilitatii umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Am mutat niște mobilă.", "Și pe braț puțin."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Dreptul.", "Și pe braț puțin.", "Până pe la cot, cam așa.", "Cotul în sine doare? Nu, nu."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Pare a fi o tendinopatie de supraspinat, cel mai probabil din suprasolicitare", "Va trebui să reducem inflamația în prima fază și să recuperăm mobilitatea umărului."]
+  }
+}

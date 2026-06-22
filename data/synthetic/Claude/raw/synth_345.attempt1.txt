@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi și mie numele, vă rog.\nSPEAKER_01: Ionescu Mihai.\nSPEAKER_00: Ionescu Mihai. Și vârsta?\nSPEAKER_01: 38 de ani. Deși mă simt de 60, sincer, de când mă doare umărul ăsta.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi mă doare umărul drept, de vreo trei săptămâni deja. Am crezut inițial că trece singur, că am mai pățit chestii din astea și au trecut. Dar acuma nu mai trece. Ba chiar parcă s-a înrăutățit în ultimele zile. Soția mea mi-a zis să vin mai devreme, dar eu am zis că se rezolvă, știți cum e.\nSPEAKER_00: Înțeles. Și durerea e localizată strict la umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Se lasă, da, pe braț, până pe la cot, pe partea din față. Uneori și noaptea mă trezesc din cauza ei, ceea ce e deranjant, că dorm prost oricum.\nSPEAKER_00: Pe ce parte dormiți?\nSPEAKER_01: Pe dreapta de obicei, da. Dar acum nu mai pot, că mă doare când stau pe umărul ăla.\nSPEAKER_00: Și când a apărut prima dată? A fost ceva anume, un efort, o mișcare?\nSPEAKER_01: Da, cred că de la treabă. Eu lucrez în construcții, fac muncă fizică, ridic materiale, și într-o zi am ridicat ceva mai greu și am simțit că ceva a plesnit acolo, nu știu cum să explic, nu a fost o durere acută pe moment, dar a doua zi m-am trezit și nu mai puteam să ridic brațul.\nSPEAKER_00: Nu mai puteați ridica brațul deloc sau era limitat?\nSPEAKER_01: Limitat. Adică dacă încerc să ridic mâna sus, doare tare. Și să duc mâna la spate, la fel. Nu pot să-mi prind centura la pantaloni, e ridicol, știți, un bărbat de 38 de ani nu poate să-și prindă centura.\nSPEAKER_00: Da, înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare maxim, cât de tare e durerea acum, în repaus?\nSPEAKER_01: Acum, în repaus, un 4. Dar dacă mă mișc prost, dacă ridic ceva, ajunge la 8, poate chiar 9.\nSPEAKER_00: Deci în mișcare un 8-9. Bun. Ați pus ceva pe umăr, ați luat ceva pentru durere?\nSPEAKER_01: Am pus un gel, un voltaren, de câteva ori, dar nu prea m-a ajutat. Adică mai trece puțin și după revine.\nSPEAKER_00: Altceva, pastile?\nSPEAKER_01: Nu, pastile nu iau. Nu-mi place să iau pastile dacă nu e cazul.\nSPEAKER_00: Bine. Alte afecțiuni aveți, tensiune, diabet, probleme cu oasele, ceva de genul?\nSPEAKER_01: Nu, nu am nimic. Sunt sănătos în rest, nu merg la medic aproape niciodată. Poate de-aia am amânat și acum să vin.\nSPEAKER_00: Ați mai avut probleme cu umărul ăsta sau cu vreo altă articulație în trecut?\nSPEAKER_01: Nu, prima dată pățesc ceva la umăr. La genunchi am avut ceva acum câțiva ani, dar a trecut singur. Nu știu ce a fost.\nSPEAKER_00: Bun. Haideți să faceți câteva mișcări pentru mine. Ridicați brațul drept în față, ușor.\nSPEAKER_01: Până aici pot, mai sus mă doare.\nSPEAKER_00: Da, deci undeva pe la 90 de grade se blochează. Acum încercați să duceți brațul lateral.\nSPEAKER_01: La fel, până pe la jumătate și gata, nu mai pot.\nSPEAKER_00: Și dacă duceți mâna la ceafă?\nSPEAKER_01: Asta merge, da, asta pot.\nSPEAKER_00: Bun. Acum o să apăs puțin în zona umărului. Spuneți-mi unde simțiți.\nSPEAKER_01: Acolo, mai sus, pe vârf, da. Și mai în față, pe tendoane parcă.\nSPEAKER_00: Da. Ce vă pot spune este că avem o inflamație la nivelul tendoanelor din zona umărului drept, cel mai probabil la manșeta rotatorilor, și un conflict la nivelul spațiului subacromial. Mobilitatea este limitată în abducție și în flexie. Obiectivul nostru va fi să reducem inflamația, să recuperăm mobilitatea și să vedem dacă e nevoie de investigații suplimentare, o ecografie sau radiografie.\nSPEAKER_01: Da, credeți că e grav? Că eu trebuie să lucrez, nu-mi permit să stau acasă.\nSPEAKER_00: Nu arată a ceva grav deocamdată, dar trebuie să lucrăm serios ca să nu agravăm situația. Haideți să începem.\nSPEAKER_01: Bine, bine, mă bazez pe dumneavoastră.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept cu iradiere pe brat, limitarea mobilitatii, debut dupa efort fizic la munca",
+    "evaluarea_durerii_vas": [4, 8],
+    "localizarea_durerii": ["umar_dr", "cot_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie tendoane umar drept, posibil conflict subacromia, limitarea mobilitatii in abductie si flexie la aprox 90 grade.\nObiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii articulare; investigatii suplimentare (ecografie/radiografie) daca e necesar."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul drept, de vreo trei săptămâni deja", "am ridicat ceva mai greu și am simțit că ceva a plesnit acolo", "a doua zi m-am trezit și nu mai puteam să ridic brațul"],
+    "evaluarea_durerii_vas": ["Acum, în repaus, un 4", "dacă mă mișc prost, dacă ridic ceva, ajunge la 8"],
+    "localizarea_durerii": ["mă doare umărul drept", "Se lasă, da, pe braț, până pe la cot, pe partea din față"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am pus un gel, un voltaren, de câteva ori"],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendoanelor din zona umărului drept, cel mai probabil la manșeta rotatorilor, și un conflict la nivelul spațiului subacromial", "Mobilitatea este limitată în abducție și în flexie", "Obiectivul nostru va fi să reducem inflamația, să recuperăm mobilitatea și să vedem dacă e nevoie de investigații suplimentare"]
+  }
+}

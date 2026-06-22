@@ -1,0 +1,33 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Nu știu. Treptat, cred.\nSPEAKER_00: Aveți o muncă la birou, la calculator?\nSPEAKER_01: Da.\nSPEAKER_00: Multe ore pe zi?\nSPEAKER_01: Vreo opt, nouă ore.\nSPEAKER_00: Înțeleg. Durerea rămâne doar în zona gâtului sau se lasă și pe braț, pe umăr?\nSPEAKER_01: Și pe umăr. Pe stânga.\nSPEAKER_00: Pe umărul stâng. Până unde se lasă, mai jos de umăr?\nSPEAKER_01: Nu. Doar umărul.\nSPEAKER_00: Doar umărul, ok. Amorțeli în mână stângă, în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde situați durerea?\nSPEAKER_01: Un 5.\nSPEAKER_00: 5. E mai rău dimineața sau seara?\nSPEAKER_01: Seara.\nSPEAKER_00: Seara, după ce ați stat mult la calculator.\nSPEAKER_01: Da.\nSPEAKER_00: Aveți și dureri de cap legate de asta?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Amețeli?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză, hernie de disc diagnosticată?\nSPEAKER_01: Nu știu de hernie. Tensiune am, da.\nSPEAKER_00: Tensiune arterială crescută. Luați medicamente pentru asta?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: Luați zilnic?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Alergii la medicamente?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai făcut vreodată terapie manuală, kinetoterapie?\nSPEAKER_01: Nu.\nSPEAKER_00: Prima oară. Bun. Haideți să facem câteva teste rapide. Întoarceți capul spre dreapta, încet. Doare?\nSPEAKER_01: Un pic.\nSPEAKER_00: Spre stânga.\nSPEAKER_01: Aia doare mai tare.\nSPEAKER_00: Da, limitare și durere la rotație stânga. Lăsați capul pe umărul stâng.\nSPEAKER_01: Au.\nSPEAKER_00: Doare. Pe umărul drept?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeleg. Apăs acum pe mușchii de la ceafă, îmi spuneți dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Contractură bună pe trapez și pe ridicătorul scapulei, mai ales pe stânga. Vedem o postură cu capul dus înainte, ceea ce pune presiune suplimentară pe cervical. Eu zic să începem cu relaxarea musculaturii cervicale și a trapezelui, să recuperăm mobilitatea, și în câteva ședințe ar trebui să vă simțiți mai bine.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă rugăm să vă așezați pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu iradiere pe umărul stâng, instalată treptat în ultimele două săptămâni, agravată după orele de stat la calculator.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nPostură cu capul dus înainte. Limitare și durere la rotație cervicală stânga. Contractură trapez și ridicător scapulă, predominant stânga.\nObiective terapeutice:\nRelaxarea musculaturii cervicale și a trapezelui; recuperarea mobilității cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "Vreo două săptămâni.", "Treptat, cred.", "Seara, după ce ați stat mult la calculator."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și pe umăr. Pe stânga."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am, da."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Enalapril.", "10 miligrame."],
+    "evaluare_functionala_initiala": ["Contractură bună pe trapez și pe ridicătorul scapulei, mai ales pe stânga.", "Vedem o postură cu capul dus înainte, ceea ce pune presiune suplimentară pe cervical.", "limitare și durere la rotație stânga", "să începem cu relaxarea musculaturii cervicale și a trapezelui, să recuperăm mobilitatea"]
+  }
+}

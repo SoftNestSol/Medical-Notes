@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Cel stâng.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: A apărut brusc sau a venit treptat?\nSPEAKER_01: Brusc, după ce am mutat niște mobilă.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde îl situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare constant sau doar la anumite mișcări?\nSPEAKER_01: La mișcări mai mult.\nSPEAKER_00: Ce mișcări anume?\nSPEAKER_01: Când ridic brațul sus. Și când mă întorc noaptea pe partea aia.\nSPEAKER_00: Deci și noaptea vă deranjează.\nSPEAKER_01: Da.\nSPEAKER_00: Durerea rămâne în umăr sau coboară pe braț?\nSPEAKER_01: Rămâne acolo.\nSPEAKER_00: Bun. Haideți să ridicați brațul stâng încet în față. Spuneți-mi când apare durerea.\nSPEAKER_01: Pe aici, cam la jumătate.\nSPEAKER_00: La aproximativ 80-90 de grade, da? Acum ridicați-l lateral, tot încet.\nSPEAKER_01: La fel, tot pe acolo doare.\nSPEAKER_00: Și dacă duceți mâna la spate, ca să ajungeți la buzunarul de la pantalon?\nSPEAKER_01: Au, da, aia doare mai tare.\nSPEAKER_00: Mai tare. Înțeleg. Aveți tensiune, diabet, osteoporoză, altceva?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament în momentul ăsta?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai avut probleme la umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci avem o limitare clară la abducție și la rotație internă, cu durere mai accentuată la rotația internă. Seamănă cu o inflamație la nivelul manșetei rotatorilor, cel mai probabil supraspinosul. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului. Vă așezați pe masă cu fața în sus, vă rog.\nSPEAKER_01: Da, bine.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng apărută după efort fizic (mutat mobilă), de aproximativ două săptămâni.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Limitare la abducție și rotație internă, durere mai accentuată la rotația internă. Diagnostic: inflamație manșetă rotatori, posibil supraspinat. Obiective terapeutice: reducerea inflamației și recuperarea mobilității umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Cel stâng.", "Brusc, după ce am mutat niște mobilă.", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Cel stâng.", "Rămâne acolo."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o limitare clară la abducție și la rotație internă, cu durere mai accentuată la rotația internă. Seamănă cu o inflamație la nivelul manșetei rotatorilor, cel mai probabil supraspinosul. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

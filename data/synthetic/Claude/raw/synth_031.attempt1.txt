@@ -1,0 +1,33 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule Ionescu.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Nu știu, treptat cred.\nSPEAKER_00: Înțeles. Lucrați la birou?\nSPEAKER_01: Da.\nSPEAKER_00: Mult timp la calculator?\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Cam un 5.\nSPEAKER_00: Un 5. Doare doar în gât sau se lasă și în umăr, în braț?\nSPEAKER_01: Mai mult în gât, dar uneori și în umărul drept.\nSPEAKER_00: În umărul drept. Amorțește mâna sau degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Doare mai tare dimineața sau seara?\nSPEAKER_01: Seara.\nSPEAKER_00: Seara, după o zi de muncă. Înțeles. Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am, da.\nSPEAKER_00: Tensiune arterială. Luați medicamente pentru asta?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: 10 miligrame. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Epilepsie, cancer, boli autoimune?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă verific puțin, stați drept, cu spatele la mine.\nSPEAKER_01: Ok.\nSPEAKER_00: Acum întoarceți ușor capul spre dreapta. Doare?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeles. Vă apăs puțin pe zona cervicală, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Și în umărul drept iradiază când apăs?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Avem o contractură musculară la nivel cervical, probabil de la postura la birou. Vom lucra să reducem tensiunea musculară și să refacem mobilitatea în zona cervicală. Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu iradiere în umărul drept",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractură musculară cervicală\nObiective terapeutice: reducerea tensiunii musculare; refacerea mobilității cervicale"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul", "uneori și în umărul drept"],
+    "evaluarea_durerii_vas": ["Cam un 5"],
+    "localizarea_durerii": ["Mă doare gâtul", "uneori și în umărul drept"],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am, da"],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Enalapril", "10 miligrame"],
+    "evaluare_functionala_initiala": ["Avem o contractură musculară la nivel cervical, probabil de la postura la birou. Vom lucra să reducem tensiunea musculară și să refacem mobilitatea în zona cervicală"]
+  }
+}

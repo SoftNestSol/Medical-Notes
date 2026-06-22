@@ -1,0 +1,56 @@
+{
+  "conversation_id": "synth_459",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, adică pe aici, în zona asta, și nu știu cum să zic, se lasă și pe brațul ăsta, pe partea din față",
+      "am dus niște bagaje mai grele, vreo trei sacoșe odată, și după aia a început mai rău",
+      "stau mult la calculator, stau cam strâmbă",
+      "și gâtul îl simt, da, mai ales pe partea asta dreaptă, de la gât în jos spre umăr, e tot cam tensionat"
+    ],
+    "evaluarea_durerii_vas": [
+      "când fac mișcarea aia în spate, un 8 sigur",
+      "când stau liniștită, nu știu, poate un 3, 4"
+    ],
+    "localizarea_durerii": [
+      "umărul drept",
+      "și gâtul îl simt, da, mai ales pe partea asta dreaptă",
+      "Pe acolo mai am câte un junghi uneori, dar nu e ceva constant"
+    ],
+    "localizarea_durerii_alta": [
+      "se lasă și pe brațul ăsta, pe partea din față",
+      "cam pe la mijlocul brațului, pe partea din față"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am tiroidă, hipotiroidie, de vreo patru ani"
+    ],
+    "medicatie_actuala": [
+      "iau Euthyrox",
+      "50 de micrograme, în fiecare dimineață",
+      "Am luat Paracetamol câteodată când nu mai puteam"
+    ],
+    "evaluare_functionala_initiala": [
+      "aveți o limitare de flexie, să zicem în jur de 90 de grade",
+      "limitare și la abducție, sub 90 de grade",
+      "Rotație internă limitată, clar",
+      "slăbiciune la abducție",
+      "mușchii de pe partea dreaptă sunt mai contractați, mai rigizi, comparativ cu stânga",
+      "avem de-a face cu o inflamație la nivelul tendoanelor coafei rotatorilor, în principal supraspinatus, și probabil și tendoanele bicepsului sunt implicate, deci o tendinopatie de coafă",
+      "Obiectivul nostru va fi să reducem inflamația în articulația umărului, să relaxăm musculatura cervicală și să recuperăm mobilitatea umărului"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13861,
+    "inference_geo": "global",
+    "input_tokens": 334,
+    "output_tokens": 4009,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

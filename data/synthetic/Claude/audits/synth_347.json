@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_347",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere în zona gâtului, la ceafă, și se duce și pe umărul drept, uneori și în braț, pe partea dreaptă",
+      "a apărut progresiv, legat de postura la birou"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum e vreo... un 5, 5 aș zice. Dar seara ajunge la 7, sigur, uneori chiar 8 dacă am avut o zi mai grea."
+    ],
+    "localizarea_durerii": [
+      "am o durere în zona gâtului, la ceafă, și se duce și pe umărul drept",
+      "Am dureri de cap, mai ales la ceafă, la baza craniului"
+    ],
+    "localizarea_durerii_alta": [
+      "se lasă pe braț, pe partea din afară, până la cot, câteodată simt și un fel de amorțeală în degete"
+    ],
+    "antecedente": [
+      "am o ușoară scolioză toracală"
+    ],
+    "antecedente_altele": [
+      "acum vreo zece ani am avut o operație la genunchi, la genunchiul stâng, aveam ceva la menisc, am căzut pe scări și s-a rupt"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară la nivelul trapezului și a mușchilor suboccipitali, probabil legată de postura la birou și de folosirea îndelungată a calculatorului și telefonului",
+      "Umărul drept e și el implicat, musculatura e tensionată",
+      "Nu excludem și o iritație la nivelul coloanei cervicale care poate explica amorțeala în braț",
+      "obiectivul principal este să reducem contractura musculară, să recuperăm mobilitatea cervicală și să ameliorăm durerea",
+      "Vom lucra și pe postura generală, că scolioza toracală pe care o aveți contribuie probabil la suprasolicitarea zonei cervicale",
+      "Vă recomand să facem un RMN cervical pe viitor"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13823,
+    "inference_geo": "global",
+    "input_tokens": 318,
+    "output_tokens": 3846,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

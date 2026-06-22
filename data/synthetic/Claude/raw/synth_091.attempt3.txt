@@ -1,0 +1,50 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă vă vedeți astăzi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar, deci. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume când a început? Ați ridicat ceva, ați căzut?\nSPEAKER_01: Am ridicat niște saci.\nSPEAKER_00: Saci grei, da?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât e acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare constant sau vine și trece?\nSPEAKER_01: Mai mult când mă mișc.\nSPEAKER_00: Când vă aplecați, când vă ridicați?\nSPEAKER_01: Da.\nSPEAKER_00: Doare doar în zona lombară sau se lasă și pe picior?\nSPEAKER_01: Nu, doar acolo.\nSPEAKER_00: Amorțesc picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Tensiune arterială aveți?\nSPEAKER_01: Nu.\nSPEAKER_00: Diabet?\nSPEAKER_01: Nu.\nSPEAKER_00: Hernie de disc diagnosticată vreodată?\nSPEAKER_01: Nu știu, n-am făcut investigații.\nSPEAKER_00: Ok. Luați vreun medicament în momentul de față?\nSPEAKER_01: Iau un ibuprofen când mă doare rău.\nSPEAKER_00: Doza, știți?\nSPEAKER_01: 400.\nSPEAKER_00: Ibuprofen 400, da. Cât de des?\nSPEAKER_01: Rar, când nu mai pot.\nSPEAKER_00: Ok. Haideți să vă ridic eu puțin piciorul drept, spuneți-mi dacă doare.\nSPEAKER_01: Puțin.\nSPEAKER_00: Puțin. Și pe stângul?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Aplecați-vă puțin în față pentru mine.\nSPEAKER_01: Mă ține.\nSPEAKER_00: Mă ține, înțeleg. Până unde ajungeți?\nSPEAKER_01: Cam până la genunchi.\nSPEAKER_00: Ok. Musculatura paravertebrală e contractată, se vede. Avem o lombalgie acută pe fond de contractură musculară, cel mai probabil declanșată de efortul cu sacii. O să lucrăm să reducem contractura și durerea, și să recuperăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în jos, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută în urmă cu două săptămâni după ridicare de saci grei. Durere prezentă la mișcare (aplecare, ridicare), VAS 5/10, fără iradiere pe membre, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "ibuprofen",
+        "doza": "400"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: lombalgie acută pe fond de contractură musculară paravertebrală. Mobilitate lombară redusă (flexie anterioară până la genunchi). Test Lasègue pozitiv discret bilateral (mai accentuat dreapta). Obiective terapeutice: reducerea contracturii și a durerii, recuperarea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele",
+      "Am ridicat niște saci",
+      "Vreo două săptămâni",
+      "Mai mult când mă mișc",
+      "Nu, doar acolo"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Lombar, deci."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau un ibuprofen când mă doare rău.",
+      "400."
+    ],
+    "evaluare_functionala_initiala": [
+      "Musculatura paravertebrală e contractată, se vede.",
+      "Avem o lombalgie acută pe fond de contractură musculară, cel mai probabil declanșată de efortul cu sacii.",
+      "O să lucrăm să reducem contractura și durerea, și să recuperăm mobilitatea.",
+      "Mă ține.",
+      "Cam până la genunchi."
+    ]
+  }
+}

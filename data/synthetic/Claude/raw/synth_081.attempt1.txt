@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă vă confruntați?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum estimați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare constant sau numai când mișcați brațul?\nSPEAKER_01: Când îl ridic mai mult.\nSPEAKER_00: Când ridicați brațul în sus doare, da? Puteți să-l ridicați până la nivelul umărului sau nu?\nSPEAKER_01: Până acolo merge, mai sus nu prea.\nSPEAKER_00: Doare și noaptea când dormiți pe el?\nSPEAKER_01: Da, mă trezesc.\nSPEAKER_00: Vă trezește noaptea. Amorțeală pe braț, pe mână, simțiți?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte dureri în afară de umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți tensiune, diabet, osteoporoză, vreo boală despre care știți?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune arterială. Luați medicamente pentru ea?\nSPEAKER_01: Da, Perindopril.\nSPEAKER_00: Perindopril. Ce doză?\nSPEAKER_01: Nu știu exact, 5, cred.\nSPEAKER_00: 5 mg, bine. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi la umăr vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să ridicăm puțin brațul. Vă prind eu de încheietură, ridicați ușor în față. Doare?\nSPEAKER_01: Da, aici.\nSPEAKER_00: Aici, în față, sus. Acum duc brațul lateral, spuneți când începe durerea.\nSPEAKER_01: Acum.\nSPEAKER_00: La aproximativ 90 de grade lateral. Și dacă rotesc brațul spre interior, cum e?\nSPEAKER_01: Au, da, doare.\nSPEAKER_00: Doare la rotația internă. Bun. Vedeți, avem o limitare la ridicarea brațului peste 90 de grade și durere la rotație internă, ceea ce ne spune că e o inflamație în zona umărului, cel mai probabil la nivelul tendoanelor. O să lucrăm să reducem inflamația și să recăpătăm mobilitatea normală a umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă așezați pe masă cu fața în sus, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa mutarea mobilei, de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Perindopril",
+        "doza": "5 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare la ridicarea brațului peste 90 de grade și durere la rotație internă. Diagnostic: inflamație la nivelul tendoanelor umărului drept. Obiective terapeutice: reducerea inflamației și recăpătarea mobilității normale a umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "De vreo două săptămâni.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Perindopril.", "Nu știu exact, 5, cred."],
+    "evaluare_functionala_initiala": ["avem o limitare la ridicarea brațului peste 90 de grade și durere la rotație internă, ceea ce ne spune că e o inflamație în zona umărului, cel mai probabil la nivelul tendoanelor. O să lucrăm să reducem inflamația și să recăpătăm mobilitatea normală a umărului."]
+  }
+}

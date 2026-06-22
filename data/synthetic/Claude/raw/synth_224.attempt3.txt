@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: A apărut brusc sau treptat?\nSPEAKER_01: Treptat, parcă.\nSPEAKER_00: Ați făcut ceva anume, mișcare, efort, ceva?\nSPEAKER_01: Poate de la serviciu. Stau mult la birou.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Mai mult când ridic mâna.\nSPEAKER_00: Sus, deasupra capului?\nSPEAKER_01: Da.\nSPEAKER_00: Și în lateral?\nSPEAKER_01: Și în lateral, da.\nSPEAKER_00: Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Durerea se lasă pe braț în jos?\nSPEAKER_01: Nu, e doar acolo.\nSPEAKER_00: Bun. Tensiune, diabet, epilepsie, cancer, alte boli?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Ridicați brațul ăsta pentru mine, încet. Până unde puteți.\nSPEAKER_01: Până pe aici cam.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da, de aici în sus nu mai pot.\nSPEAKER_00: Aproximativ la 90 de grade vă blochează durerea. Înțeles. Acum duc eu brațul, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Bun. Apăs aici pe tendonul supraspinatus, doare?\nSPEAKER_01: Da, chiar acolo e.\nSPEAKER_00: Înțeles. Pare o inflamație la nivelul coafei rotatorilor, tendonul supraspinatus mai precis. Probabil de la postura de la birou, umărul avansat. Trebuie să reducem inflamația și să recâștigăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Boli cu transmitere cutanată, proteze?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun, atunci putem începe.",
+  "note": {
+    "motivul_prezentarii": "durere umar stang",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie coafa rotatori, tendon supraspinatus stang\nObiective terapeutice:\n- reducerea inflamatiei\n- recastigarea mobilitatii"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Pare o inflamație la nivelul coafei rotatorilor, tendonul supraspinatus mai precis.", "Trebuie să reducem inflamația și să recâștigăm mobilitatea."]
+  }
+}

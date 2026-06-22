@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua! Mă bucur că am găsit un loc liber, am sunat de vreo trei ori, era ocupat, noroc că am insistat.\nSPEAKER_00: Bine că ați ajuns. Spuneți-mi, cu ce problemă ne vedem?\nSPEAKER_01: Păi, mă doare umărul stâng, de vreo două săptămâni și ceva. Adică, a început mai ușor, credeam că trece singur, și eu tot am amânat să vin, că nu-mi place să merg la doctori în general, știți cum e.\nSPEAKER_00: Înțeleg. Și acum doare mai tare decât la început?\nSPEAKER_01: Da, da, s-a agravat. Mai ales noaptea nu pot dormi pe partea stângă, mă trezesc. Și dimineața când încerc să ridic mâna, e ca și cum ceva blochează acolo.\nSPEAKER_00: Deci dimineața e mai rău?\nSPEAKER_01: Dimineața și noaptea, da. Ziua mai merge, dacă nu ridic mâna sus. Dar dacă încerc să iau ceva de pe raft, de pildă, trage imediat.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare când ridicați mâna?\nSPEAKER_01: Când ridic mâna sus, un 8 cel puțin. Și noaptea mă doare și când stau liniștit, acolo undeva la 5.\nSPEAKER_00: Bun. S-a întâmplat ceva înainte să înceapă? O lovitură, un efort mai mare?\nSPEAKER_01: Nu știu exact. Am mutat niște mobilă cu vreo trei săptămâni în urmă, cutii grele, rafturi. Cred că de atunci, dar nu mi-am dat seama imediat. Și mai am și un copil mic, îl car destul de mult în brațe, poate și aia contribuie.\nSPEAKER_00: Posibil, da. Durerea rămâne la umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne la umăr, cel mult până la jumătatea brațului, dar nu ajunge la mână.\nSPEAKER_00: Amorțeli avem?\nSPEAKER_01: Nu, amorțeli nu.\nSPEAKER_00: Bun. Ați luat ceva pentru durere?\nSPEAKER_01: Am luat Nurofen, câte un comprimat seara când nu puteam dormi. Nu zilnic, dar de vreo patru-cinci ori în ultima săptămână.\nSPEAKER_00: Doar Nurofen?\nSPEAKER_01: Da, altceva nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, probleme la inimă?\nSPEAKER_01: Tensiune am, mi s-a spus acum vreo doi ani, iau Amlodipină, 5 miligrame, o dată pe zi. Diabet nu, inimă nu.\nSPEAKER_00: Amlodipină 5 miligrame. Bine. Altceva la sănătate?\nSPEAKER_01: Nu, nimic altceva serios. Am mai avut ceva la spate acum mulți ani, o hernie, mi s-a spus, dar de atunci nu m-a mai deranjat, a trecut de la sine sau nu știu. Mă rog, poate e tot acolo, dar nu mă doare.\nSPEAKER_00: Înțeleg. Haideți să vedem puțin cum stăm. Ridicați brațul stâng în față, încet.\nSPEAKER_01: Până pe aici pot, după aia trage.\nSPEAKER_00: Stați. Și lateral?\nSPEAKER_01: Lateral e mai rău, stați că... au, da, acolo doare imediat.\nSPEAKER_00: Bine. O să apăs ușor pe zona tendonului supraspinos, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo e, exact acolo, aia e zona.\nSPEAKER_00: Da. Avem o limitare clară de mobilitate la abducție și o sensibilitate pe tendonul supraspinos. Probabil o tendinopatie la nivelul coafei rotatorilor, umăr stâng. O să lucrăm să reducem inflamația și să recuperăm mobilitatea.\nSPEAKER_01: Și credeți că trece? Că mă tem că ajung la operație, am auzit că la umăr se ajunge ușor la operație și mă sperie tare treaba asta.\nSPEAKER_00: Deocamdată nu avem indicii pentru asta. Vedem cum răspunde după primele ședințe.\nSPEAKER_01: Bine, bine, sper. Și cu Nurofenul mai pot continua?\nSPEAKER_00: Puteți, dar să nu exagerați. Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng cu limitare de mobilitate, agravată la ridicarea brațului și nocturn, debut după efort fizic (mutat mobilă)",
+    "evaluarea_durerii_vas": [8, 5],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": "jumătatea brațului stâng (iradiere parțială)",
+    "antecedente": ["hipertensiune_arteriala", "hernia_disc"],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      },
+      {
+        "denumire": "Amlodipină",
+        "doza": "5 miligrame o dată pe zi"
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare clară de mobilitate la abducție și sensibilitate pe tendonul supraspinos. Diagnostic: tendinopatie coafă rotatori umăr stâng. Obiective terapeutice: reducerea inflamației și recuperarea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul stâng, de vreo două săptămâni și ceva", "dimineața când încerc să ridic mâna, e ca și cum ceva blochează acolo", "Am mutat niște mobilă cu vreo trei săptămâni în urmă, cutii grele, rafturi. Cred că de atunci"],
+    "evaluarea_durerii_vas": ["Când ridic mâna sus, un 8 cel puțin. Și noaptea mă doare și când stau liniștit, acolo undeva la 5."],
+    "localizarea_durerii": ["mă doare umărul stâng"],
+    "localizarea_durerii_alta": ["Rămâne la umăr, cel mult până la jumătatea brațului, dar nu ajunge la mână."],
+    "antecedente": ["Tensiune am, mi s-a spus acum vreo doi ani", "Am mai avut ceva la spate acum mulți ani, o hernie, mi s-a spus"],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am luat Nurofen, câte un comprimat seara când nu puteam dormi", "iau Amlodipină, 5 miligrame, o dată pe zi"],
+    "evaluare_functionala_initiala": ["Avem o limitare clară de mobilitate la abducție și o sensibilitate pe tendonul supraspinos. Probabil o tendinopatie la nivelul coafei rotatorilor, umăr stâng. O să lucrăm să reducem inflamația și să recuperăm mobilitatea."]
+  }
+}

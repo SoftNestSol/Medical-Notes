@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce vă pot ajuta?\nSPEAKER_01: Bună ziua, deci eu am o problemă cu umărul, adică mă doare de vreo trei săptămâni, poate mai mult, nu știu exact când a început, dar știu că la un moment dat am ridicat ceva mai greu la serviciu și după aia a început să mă doară și de atunci nu m-a mai lăsat.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul, cel drept. Stângul e bine, nu am probleme acolo.\nSPEAKER_00: Și ce fel de durere e, vă doare când ridicați mâna, când o duceți în spate?\nSPEAKER_01: Când ridic mâna sus doare foarte rău, și când o duc așa în spate, nu pot să ajung acolo, adică normal ajungeam, acum nu mai pot. Și noaptea, doamne, noaptea e cel mai rău, că mă trezesc din somn dacă stau pe partea aia.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Păi depinde. Dacă stau liniștit, nu mă mișc, poate un 3, 4. Dar dacă ridic mâna sau fac o mișcare mai bruscă, ajunge la 7 ușor, poate chiar 8. Adică am și luat un Voltaren gel, că am mai avut eu dureri musculare și știam de el, dar nici ăla nu prea m-a ajutat de data asta, ceea ce m-a speriat un pic, că de obicei îmi face bine.\nSPEAKER_00: Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu, niciodată. Cu spatele am mai avut, acum vreo doi ani, dar cu umărul nu. Și eu sunt îngrijorat că poate e ceva rupt acolo, am citit pe internet despre tendoane rupte și mă tot gândesc că poate asta am și eu, nu știu, nu vreau să mă sperii singur.\nSPEAKER_00: Înțeleg. Haideți să facem câteva teste să vedem cum stăm. Ridicați mâna dreaptă drept în față, încet.\nSPEAKER_01: Până aici pot, mai sus deja... au, da, doare.\nSPEAKER_00: Bun. Acum duceți-o lateral, așa, la orizontală.\nSPEAKER_01: Și asta doare, da, cam de la jumătate în sus.\nSPEAKER_00: Și acum duc eu mâna, nu faceți nimic, lăsați-vă relaxat. Doare acum?\nSPEAKER_01: Nu, acum nu prea.\nSPEAKER_00: Bun. Tensiune, diabet, alte boli, luați medicamente zilnic?\nSPEAKER_01: Nu, nu am nimic din astea. Voltarenul ăla l-am folosit vreo câteva zile, dar nu îl iau constant.\nSPEAKER_00: Bun. Deci avem o limitare a mobilității active la nivelul umărului drept, cu durere la abducție și la flexie peste 90 de grade, dar mobilitatea pasivă e prezentă. Asta ne sugerează o afectare a coafei rotatorilor, cel mai probabil o tendinită sau o bursită subacromială. Nu e neapărat o ruptură, dar fără o ecografie nu putem fi siguri. Obiectivul nostru acum e să reducem inflamația și să recuperăm mobilitatea.\nSPEAKER_01: Deci nu credeți că e rupt?\nSPEAKER_00: Mobilitatea pasivă e bună, ceea ce e un semn bun. Dar recomand să faceți o ecografie de umăr ca să excludem o leziune parțială.\nSPEAKER_01: Bine, bine, mă duc. Și cât timp credeți că durează să treacă?\nSPEAKER_00: Depinde cum răspunde la tratament. Să vedem cum evoluați după primele ședințe.\nSPEAKER_01: Ok, înțeleg. Sper să meargă bine că am și vacanța în două luni și vreau să pot înota.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (ridicat greutate la serviciu), cu limitarea mobilitatii, accentuata nocturn si la miscari active.",
+    "evaluarea_durerii_vas": [3, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: afectare coafa rotatori umar drept - tendinita / bursita subacromiala.\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii active.\nObservatii functionale: limitare mobilitate activa la abductie si flexie peste 90 grade; mobilitate pasiva prezenta."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["am ridicat ceva mai greu la serviciu și după aia a început să mă doară", "mă doare de vreo trei săptămâni", "noaptea e cel mai rău, că mă trezesc din somn dacă stau pe partea aia"],
+    "evaluarea_durerii_vas": ["Dacă stau liniștit, nu mă mișc, poate un 3, 4. Dar dacă ridic mâna sau fac o mișcare mai bruscă, ajunge la 7 ușor"],
+    "localizarea_durerii": ["Dreptul, cel drept. Stângul e bine, nu am probleme acolo."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["am și luat un Voltaren gel, că am mai avut eu dureri musculare și știam de el", "Voltarenul ăla l-am folosit vreo câteva zile, dar nu îl iau constant"],
+    "evaluare_functionala_initiala": ["avem o limitare a mobilității active la nivelul umărului drept, cu durere la abducție și la flexie peste 90 de grade, dar mobilitatea pasivă e prezentă", "Asta ne sugerează o afectare a coafei rotatorilor, cel mai probabil o tendinită sau o bursită subacromială", "Obiectivul nostru acum e să reducem inflamația și să recuperăm mobilitatea"]
+  }
+}

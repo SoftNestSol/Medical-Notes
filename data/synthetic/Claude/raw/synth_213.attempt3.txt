@@ -1,0 +1,27 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți.\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și cum a apărut, brusc sau treptat?\nSPEAKER_01: Nu știu exact. M-am trezit dimineața și era.\nSPEAKER_00: Deci dimineața, la trezire.\nSPEAKER_01: Da.\nSPEAKER_00: Doare și în mișcare sau și când stați nemișcat?\nSPEAKER_01: Mai mult când întorc capul.\nSPEAKER_00: În care parte, mai mult?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Întoarcerea spre dreapta doare mai mult.\nSPEAKER_01: Da.\nSPEAKER_00: Se lasă durerea și pe umăr sau pe braț?\nSPEAKER_01: Puțin pe umărul drept, da.\nSPEAKER_00: Amorțesc degetele, mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Și noaptea vă deranjează?\nSPEAKER_01: Da, când mă întorc.\nSPEAKER_00: Aveți tensiune, diabet, epilepsie, altceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ce muncă faceți?\nSPEAKER_01: Stau mult la birou.\nSPEAKER_00: La calculator?\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Înțeleg. Haideți să vă palpez puțin zona cervicală. Stați relaxat.\nSPEAKER_01: Mm.\nSPEAKER_00: Doare aici?\nSPEAKER_01: Da.\nSPEAKER_00: Și mai jos, între omoplați?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Dar doare și acolo.\nSPEAKER_01: Da, puțin.\nSPEAKER_00: Întoarceți capul spre dreapta cât puteți.\nSPEAKER_01: Până cam aici.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: Merge mai bine.\nSPEAKER_00: Vedem o limitare clară la rotația dreaptă și o contractură paravertebrală cervicală, mai accentuată pe dreapta. Deci avem o cervicalgie cu iradiere în umărul drept, pe fond de postură la birou. O să lucrăm să reducem contractura și să refacem mobilitatea.\nSPEAKER_01: Bine.\nSPEAKER_00: Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Cervicalgie cu limitarea rotației spre dreapta și iradiere în umărul drept, instalată de aproximativ două săptămâni, posibil pe fond postural (muncă la birou/calculator).",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr",
+      "toracal"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Limitare clară la rotația dreaptă cervicală, contractură paravertebrală cervicală mai accentuată pe dreapta. Diagnostic: cervicalgie cu iradiere în umărul drept. Obiective terapeutice: reducerea contracturii și refacerea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "De vreo două săptămâni.", "Mai mult când întorc capul.", "Pe dreapta.", "Stau mult la birou.", "Da, toată ziua."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Puțin pe umărul drept, da.", "Și mai jos, între omoplați?", "Da, puțin."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Vedem o limitare clară la rotația dreaptă și o contractură paravertebrală cervicală, mai accentuată pe dreapta. Deci avem o cervicalgie cu iradiere în umărul drept, pe fond de postură la birou. O să lucrăm să reducem contractura și să refacem mobilitatea."]
+  }
+}

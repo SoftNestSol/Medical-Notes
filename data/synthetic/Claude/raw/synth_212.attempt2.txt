@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce vă pot ajuta azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Cel drept.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Am vopsit tavanul.\nSPEAKER_00: Ah, deci cu mâna ridicată mult timp.\nSPEAKER_01: Da.\nSPEAKER_00: Și de atunci doare.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât e durerea acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau mai mult când ridicați brațul?\nSPEAKER_01: Când ridic.\nSPEAKER_00: Și noaptea, vă deranjează?\nSPEAKER_01: Câteodată, dacă stau pe el.\nSPEAKER_00: Înțeleg. Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale la umăr sau altundeva?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați brațul pentru mine, așa, în față. Până unde puteți.\nSPEAKER_01: Până pe-aici, cam.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da, de pe la jumătate.\nSPEAKER_00: Și lateral, ridicați brațul în lateral, la fel.\nSPEAKER_01: La fel, de pe la jumătate doare.\nSPEAKER_00: Ok. Încerc să rotesc eu ușor. Spuneți-mi dacă doare.\nSPEAKER_01: Da, așa, acolo doare.\nSPEAKER_00: La rotația externă. Bun. Deci avem o limitare a mobilității și durere la ridicarea și rotația brațului drept, cel mai probabil o tendinită la nivelul coafei rotatorilor. Vom lucra să reducem inflamația și să refacem mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa vopsit tavanul cu bratul ridicat, de aproximativ doua saptamani.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita coafa rotatori umar dr.\nLimitarea mobilitatii la abductie si flexie (durere de la jumatatea amplitudinii), durere la rotatie externa.\nObiective terapeutice: reducerea inflamatiei, refacerea mobilitatii umarului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Cel drept.", "Am vopsit tavanul.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Cel drept.", "Mă doare umărul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu."],
+    "evaluare_functionala_initiala": ["Deci avem o limitare a mobilității și durere la ridicarea și rotația brațului drept, cel mai probabil o tendinită la nivelul coafei rotatorilor. Vom lucra să reducem inflamația și să refacem mobilitatea umărului.", "de pe la jumătate doare.", "La rotația externă."]
+  }
+}

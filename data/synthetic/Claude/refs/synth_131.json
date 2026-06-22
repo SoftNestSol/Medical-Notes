@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "durere umar drept",
+  "evaluarea_durerii_vas": [
+    7,
+    3
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: inflamatie manseta rotatorilor, tendon supraspinos\nObiective terapeutice: reducerea inflamatiei; recastigarea mobilitatii umarului"
+}

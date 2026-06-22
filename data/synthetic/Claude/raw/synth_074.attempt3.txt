@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo trei săptămâni.\nSPEAKER_00: Și cum a apărut, din senin sau după ceva efort?\nSPEAKER_01: Am zugrăvit.\nSPEAKER_00: Am înțeles, deci după efort la brațul ridicat sus.\nSPEAKER_01: Da.\nSPEAKER_00: Doare constant sau doar când mișcați brațul?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Mai doare și noaptea, când stați pe el?\nSPEAKER_01: Da, cam da.\nSPEAKER_00: Dacă ar fi să puneți durerea pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cam unde ați situa-o?\nSPEAKER_01: Un 6.\nSPEAKER_00: 6. Și noaptea, e mai rău sau la fel?\nSPEAKER_01: Mai rău noaptea.\nSPEAKER_00: Cât de rău noaptea?\nSPEAKER_01: Poate un 8.\nSPEAKER_00: Deci 6 ziua și 8 noaptea.\nSPEAKER_01: Da.\nSPEAKER_00: Doare strict în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Și puțin pe braț, dar mai mult în umăr.\nSPEAKER_00: Pe ce parte a brațului?\nSPEAKER_01: Pe față.\nSPEAKER_00: Alergii avem?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, ceva?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune arteriala? Luați ceva pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Cât la zi?\nSPEAKER_01: 10 miligrame, o dată pe zi.\nSPEAKER_00: Ok. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Altă afecțiune mai știți că aveți, oase, articulații?\nSPEAKER_01: Nu știu.\nSPEAKER_00: Ați mai avut probleme la umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai făcut vreo terapie, masaj, fizioterapie?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vedem puțin. Ridicați brațul în față, încet.\nSPEAKER_01: Până aici.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: De la ce unghi?\nSPEAKER_01: De pe la mijloc.\nSPEAKER_00: Deci arc dureros la abducție, aproximativ de la 90 de grade în sus. Acum duceți brațul în lateral.\nSPEAKER_01: Asta doare mai tare.\nSPEAKER_00: Înțeles. Apăs ușor pe tendoanele de aici, din față. Doare?\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Pe tendonul bicepsului în șanțul bicipital. Și la capul lateral al umărului dacă apăs?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Ok. Eu zic că avem o inflamație la nivelul tendonului supraspinosului și posibil al bicepsului. Arc dureros prezent, sensibilitate la palpare. O să lucrăm să reducem inflamația și să redăm mobilitatea completă a umărului.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept dupa efort (zugravit), cu arc dureros la ridicarea bratului si durere nocturna.",
+    "evaluarea_durerii_vas": [6, 8],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": "fata bratului drept",
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame, o dată pe zi"
+      }
+    ],
+    "evaluare_functionala_initiala": "Arc dureros la abductie de la aproximativ 90 de grade in sus; sensibilitate la palpare pe tendonul bicepsului in santul bicipital. Diagnostic: inflamatie tendon supraspinos si posibil tendon biceps. Obiective terapeutice: reducerea inflamatiei si refacerea mobilitatii complete a umarului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am zugrăvit.", "Asta doare mai tare."],
+    "evaluarea_durerii_vas": ["Un 6.", "Poate un 8."],
+    "localizarea_durerii": ["Dreptul.", "Doare strict în umăr sau se lasă și pe braț în jos?"],
+    "localizarea_durerii_alta": ["Și puțin pe braț, dar mai mult în umăr.", "Pe față."],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Enalapril.", "10 miligrame, o dată pe zi."],
+    "evaluare_functionala_initiala": ["arc dureros la abducție, aproximativ de la 90 de grade în sus", "Pe tendonul bicepsului în șanțul bicipital. Și la capul lateral al umărului dacă apăs?", "avem o inflamație la nivelul tendonului supraspinosului și posibil al bicepsului. Arc dureros prezent, sensibilitate la palpare. O să lucrăm să reducem inflamația și să redăm mobilitatea completă a umărului."]
+  }
+}

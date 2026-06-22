@@ -1,0 +1,50 @@
+{
+  "conversation_id": "synth_511",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos. Partea de jos.",
+      "De vreo două săptămâni.",
+      "M-am trezit dimineața și era acolo.",
+      "Poate de la stat la birou.",
+      "Pe fesă dreaptă un pic.",
+      "Asta doare mai tare."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5.",
+      "Poate 7."
+    ],
+    "localizarea_durerii": [
+      "Jos. Partea de jos.",
+      "Mai jos, zona sacroiliacă?"
+    ],
+    "localizarea_durerii_alta": [
+      "Pe fesă dreaptă un pic."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară asimetrie la nivelul bazinului, mai jos pe dreapta.",
+      "Extensia doare mai tare, ok.",
+      "Bun, testul e negativ pe traiect.",
+      "Apăs acum zona paravertebrală. Doare?",
+      "Mai jos, zona sacroiliacă?",
+      "Deci avem o contractură paravertebrală lombară și o sensibilitate în zona sacroiliacă pe dreapta. Fără iradiere radiculară. Deci probabil e o blocaj mecanic, postural, de la stat mult la birou. Trebuie să lucrăm să eliberăm musculatura, să mobilizăm articulația sacroiliacă și să vă dau și câteva exerciții pentru acasă."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22123,
+    "inference_geo": "global",
+    "input_tokens": 351,
+    "output_tokens": 2339,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

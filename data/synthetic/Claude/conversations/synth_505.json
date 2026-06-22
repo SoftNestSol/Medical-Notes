@@ -1,0 +1,235 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.18,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, spuneți-mi vă rog cu ce problemă vă confruntați."
+    },
+    {
+      "start": 4.3,
+      "end": 23.3,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua. Păi, știți, am o durere îngrozitoare în ceafă, de vreo zece zile acum, și nu mai pot, adică mă trezesc dimineața și parcă am un bolovan acolo. Am zis să vin să văd ce e, că m-am tot amânat, m-am tot amânat și nu mai merge."
+    },
+    {
+      "start": 23.42,
+      "end": 33.3,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, deci zona de ceafă, cervical. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maximum, unde situați durerea?"
+    },
+    {
+      "start": 33.42,
+      "end": 40.64,
+      "speaker": "SPEAKER_01",
+      "text": "Aș zice... un 7. Da, 7, pentru că dimineața e mai rău, seara mai suportabil, dar 7 în medie."
+    },
+    {
+      "start": 40.76,
+      "end": 44.56,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Durerea rămâne strict în ceafă sau se duce undeva?"
+    },
+    {
+      "start": 44.68,
+      "end": 56.84,
+      "speaker": "SPEAKER_01",
+      "text": "Ei, asta e problema, se urcă și pe cap, adică pe ceafă și pe cap, și câteodată simt că mă apasă și deasupra, nu știu cum să explic, ca o căciulă strânsă."
+    },
+    {
+      "start": 56.96,
+      "end": 58.86,
+      "speaker": "SPEAKER_00",
+      "text": "Deci se propagă spre cap."
+    },
+    {
+      "start": 58.98,
+      "end": 68.86,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact. Și mai am, nu știu dacă are legătură, dureri de cap mai vechi, dar acum cu chestia asta din ceafă parcă s-au acutizat."
+    },
+    {
+      "start": 68.98,
+      "end": 72.4,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Se lasă și pe umăr sau pe braț?"
+    },
+    {
+      "start": 72.52,
+      "end": 77.08,
+      "speaker": "SPEAKER_01",
+      "text": "Pe umăr un pic, stâng, câteodată, nu mereu. Pe braț nu, nu."
+    },
+    {
+      "start": 77.2,
+      "end": 79.1,
+      "speaker": "SPEAKER_00",
+      "text": "Deci pe umărul stâng ocazional."
+    },
+    {
+      "start": 79.22,
+      "end": 84.54,
+      "speaker": "SPEAKER_01",
+      "text": "Da, rar, nu e problema principală, că mă deranjează mai mult ceafa și capul."
+    },
+    {
+      "start": 84.66,
+      "end": 88.08,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. De când exact, ați spus vreo zece zile?"
+    },
+    {
+      "start": 88.2,
+      "end": 103.4,
+      "speaker": "SPEAKER_01",
+      "text": "Da, vreo zece zile, dar parcă mai înainte mai simțeam ceva, nu atât de tare. Acum zece zile am stat vreo trei ore la calculator și a doua zi m-am trezit și nu mai puteam să întorc capul deloc."
+    },
+    {
+      "start": 103.52,
+      "end": 106.94,
+      "speaker": "SPEAKER_00",
+      "text": "Deci a apărut după o perioadă lungă la calculator."
+    },
+    {
+      "start": 107.06,
+      "end": 119.22,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și mai stau mult la birou, știți, lucrez în contabilitate, deci toată ziua la computer. Nu fac mișcare, recunosc, nu fac sport, stau strâmb probabil, mi-a mai zis și soția."
+    },
+    {
+      "start": 119.34,
+      "end": 124.28,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Dimineața când vă treziți, ceafa e rigidă, se dezmorțește după un timp?"
+    },
+    {
+      "start": 124.4,
+      "end": 134.66,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da! Adică primele minute sunt groaznice, mă ridic, parcă e blocată, după vreo jumătate de oră, o oră, se mai dezmorțește. Dar nu dispare complet niciodată."
+    },
+    {
+      "start": 134.78,
+      "end": 136.68,
+      "speaker": "SPEAKER_00",
+      "text": "Ați luat ceva pentru durere?"
+    },
+    {
+      "start": 136.8,
+      "end": 145.92,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat Nurofen câteva zile, că aveam acasă, și mi-a mai trecut un pic, dar după câteva ore revenea. Nu am luat altceva."
+    },
+    {
+      "start": 146.04,
+      "end": 149.08,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ați mai avut episoade similare în trecut?"
+    },
+    {
+      "start": 149.2,
+      "end": 158.7,
+      "speaker": "SPEAKER_01",
+      "text": "Acum vreo doi ani mai aveam ceva, dar a trecut singur după o săptămână. Atunci nu m-am dus nicăieri. Acum parcă e mai persistent."
+    },
+    {
+      "start": 158.82,
+      "end": 161.1,
+      "speaker": "SPEAKER_00",
+      "text": "Afecțiuni cunoscute, tensiune, diabet, probleme cardiace?"
+    },
+    {
+      "start": 161.22,
+      "end": 171.48,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Sunt sănătos în rest, mulțumesc lui Dumnezeu. Adică mai am oboseală, dar cred că e de la stres, de la serviciu, nu de la altceva."
+    },
+    {
+      "start": 171.6,
+      "end": 176.92,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Haideți să facem câteva verificări. Stați drept puțin, cu mâinile pe lângă corp."
+    },
+    {
+      "start": 177.04,
+      "end": 177.84,
+      "speaker": "SPEAKER_01",
+      "text": "Așa?"
+    },
+    {
+      "start": 177.96,
+      "end": 187.08,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Văd că aveți capul ușor dus în față față de linia umerilor. Acum întoarceți capul spre dreapta, încet. Ajungeți acolo sau se oprește?"
+    },
+    {
+      "start": 187.2,
+      "end": 190.62,
+      "speaker": "SPEAKER_01",
+      "text": "Se oprește, da, nu pot mai mult, mă doare."
+    },
+    {
+      "start": 190.74,
+      "end": 191.54,
+      "speaker": "SPEAKER_00",
+      "text": "Spre stânga?"
+    },
+    {
+      "start": 191.66,
+      "end": 195.84,
+      "speaker": "SPEAKER_01",
+      "text": "Stânga merge un pic mai bine, dar tot nu e normal."
+    },
+    {
+      "start": 195.96,
+      "end": 202.04,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Acum apăs puțin pe musculatura de aici, la baza craniului, spuneți-mi dacă simțiți ceva."
+    },
+    {
+      "start": 202.16,
+      "end": 205.96,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, acolo exact e, acolo doare cel mai tare."
+    },
+    {
+      "start": 206.08,
+      "end": 210.26,
+      "speaker": "SPEAKER_00",
+      "text": "Mușchii suboccipitali sunt foarte contractați. Și pe paravertebral, pe dreapta, simțiți?"
+    },
+    {
+      "start": 210.38,
+      "end": 214.94,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și acolo, și acolo simt că e tras, ca o sfoară."
+    },
+    {
+      "start": 215.06,
+      "end": 229.88,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Deci avem o contractură musculară cervicală, probabil acutizată pe fond postural, de la munca la birou. Postura cu capul dus în față pune presiune suplimentară pe musculatura cervicală și asta explică și durerea care se urcă pe cap."
+    },
+    {
+      "start": 230.0,
+      "end": 236.46,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu e ceva grav? Că m-am speriat, am citit pe internet tot felul de lucruri."
+    },
+    {
+      "start": 236.58,
+      "end": 244.94,
+      "speaker": "SPEAKER_00",
+      "text": "Nu vă panicați. Lucrăm pe relaxarea musculaturii, corectăm postura și ar trebui să vedeți îmbunătățire. O să fie nevoie de câteva ședințe."
+    },
+    {
+      "start": 245.06,
+      "end": 247.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine, mă bucur. Atunci să începem."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere cervicala si umar drept",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Prenessa",
+      "doza": "4 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contractura zona cervicala si trapez drept, posibil de la postura la calculator.\nObiective terapeutice: reducerea contracturii, refacerea mobilitatii cervicale."
+}

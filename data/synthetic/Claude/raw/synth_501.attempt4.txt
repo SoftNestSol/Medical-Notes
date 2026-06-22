@@ -1,0 +1,48 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă veniți la noi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, lombarul?\nSPEAKER_01: Da.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, ați ridicat ceva greu, ați stat mai mult jos?\nSPEAKER_01: Am stat mult la birou.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum estimați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Un 5. Doare constant sau doar când faceți anumite mișcări?\nSPEAKER_01: Mai mult când mă ridic sau când stau mult jos.\nSPEAKER_00: Când vă ridicați din scaun doare, da?\nSPEAKER_01: Da.\nSPEAKER_00: Și când stați în picioare mai mult timp?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Durerea se lasă și pe picioare, pe fese, pe vreuna din părți?\nSPEAKER_01: Nu.\nSPEAKER_00: Strict în zona de jos a spatelui.\nSPEAKER_01: Da, aici.\nSPEAKER_00: Amorțesc picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Dimineața când vă treziți, simțiți o înțepenire?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Trece după ce vă mișcați?\nSPEAKER_01: Da, după un sfert de oră, ceva.\nSPEAKER_00: Bun. Lucrați la birou toată ziua?\nSPEAKER_01: Cam da, vreo opt ore.\nSPEAKER_00: Și stați mult nemișcat?\nSPEAKER_01: Da.\nSPEAKER_00: Înțeleg. Alte afecțiuni, tensiune, diabet, probleme de coloană diagnosticate anterior?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, nici antiinflamatoare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă rog să stați în picioare cu spatele la mine, relaxat, mâinile pe lângă corp.\nSPEAKER_01: Bun.\nSPEAKER_00: Vedem o ușoară rotație a bazinului, mai evident pe partea dreaptă. Aplecați-vă ușor în față, cât puteți.\nSPEAKER_01: Până cam aici pot.\nSPEAKER_00: Doare când vă aplecați?\nSPEAKER_01: Da, mai jos.\nSPEAKER_00: Simțiți tensiune sau durere?\nSPEAKER_01: Durere, da.\nSPEAKER_00: Și când vă îndreptați înapoi?\nSPEAKER_01: Și atunci, un pic.\nSPEAKER_00: Înțeleg. Acum apăs ușor zona paravertebrală, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Mai mult pe dreapta sau egal pe ambele părți?\nSPEAKER_01: Pe dreapta mai tare.\nSPEAKER_00: Am înțeles. Apăs și zona sacrului, simțiți ceva?\nSPEAKER_01: Da, și acolo puțin.\nSPEAKER_00: Bun. Deci avem o contractură paravertebrală lombară, mai accentuată pe dreapta, cu sensibilitate și la nivelul sacrului. Cel mai probabil este o lombalgie mecanică, din cauza posturii prelungite la birou. Fără iradiere pe picior, fără amorțeli, ceea ce e bine. O să lucrăm să reducem contractura musculară și să recuperăm mobilitatea lombară. Veți simți o îmbunătățire după primele ședințe.\nSPEAKER_01: Ok.\nSPEAKER_00: Aveți și o discretă anteverzie de bazin, probabil din cauza statului pe scaun. O să vă arăt și câteva exerciții simple pe care le puteți face acasă.\nSPEAKER_01: Bine.\nSPEAKER_00: Haideți pe masă atunci.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară joasă apărută în urmă cu aproximativ două săptămâni, asociată cu activitate sedentară prelungită la birou (circa 8 ore/zi). Durere intensificată la ridicarea din scaun și la flexia anterioară, cu redoare matinală ce cedează după aproximativ 15 minute. Fără iradiere pe membrele inferioare, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar",
+      "sacral_coccis"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară rotație de bazin mai evidentă pe partea dreaptă; anteverzie discretă de bazin; mobilitate lombară în flexie anterioară limitată; contractură paravertebrală lombară la palpare, mai accentuată pe dreapta; sensibilitate la nivelul sacrului.\nDiagnostic:\nLombalgie mecanică, fără iradiere radiculară, fără amorțeli.\nObiective terapeutice:\nReducerea contracturii musculare paravertebrale lombare; recuperarea mobilității lombare; corectarea posturii; exerciții de efectuat acasă."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Am stat mult la birou.",
+      "De vreo două săptămâni.",
+      "Mai mult când mă ridic sau când stau mult jos.",
+      "Nu.",
+      "Da, un pic.",
+      "Da, după un sfert de oră, ceva.",
+      "cam da, vreo opt ore."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Da, aici.",
+      "Apăs și zona sacrului, simțiți ceva? Da, și acolo puțin."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Vedem o ușoară rotație a bazinului, mai evident pe partea dreaptă.",
+      "contractură paravertebrală lombară, mai accentuată pe dreapta, cu sensibilitate și la nivelul sacrului",
+      "Cel mai probabil este o lombalgie mecanică, din cauza posturii prelungite la birou.",
+      "Fără iradiere pe picior, fără amorțeli",
+      "O să lucrăm să reducem contractura musculară și să recuperăm mobilitatea lombară.",
+      "Aveți și o discretă anteverzie de bazin, probabil din cauza statului pe scaun.",
+      "O să vă arăt și câteva exerciții simple pe care le puteți face acasă."
+    ]
+  }
+}

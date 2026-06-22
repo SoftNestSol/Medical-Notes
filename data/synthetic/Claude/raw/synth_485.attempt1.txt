@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua!\nSPEAKER_00: Cu ce problemă veniți la noi?\nSPEAKER_01: Păi am o durere cumplită în ceafă, de vreo două săptămâni și ceva. Sincer, am crezut că o să-mi treacă singură, că am mai pățit, dar nu trece. Mă ține tot timpul, dimineața când mă scol e cel mai rău, simt că am gâtul blocat, nu pot să întorc capul bine nici la dreapta, nici la stânga.\nSPEAKER_00: Și durerea asta e doar în ceafă sau se duce undeva, pe umăr, pe braț?\nSPEAKER_01: Mai mult în ceafă, da. Uneori îmi doare și puțin sus, spre cap, la baza craniului, știți, acolo unde se termină gâtul. Dar pe braț nu, nu am simțit nimic pe braț.\nSPEAKER_00: Și dimineața e cel mai rău, ați spus. Pe parcursul zilei se mai ameliorează?\nSPEAKER_01: Da, un pic. Adică după ce mă mișc, după ce fac un duș cald, mai slăbește. Dar dacă stau mult la calculator, reapare. Eu lucrez de acasă de doi ani și stau la birou cam șase-șapte ore pe zi. Cred că de-acolo vine, nu? Că și soția mea zice că stau cocoșat.\nSPEAKER_00: Posibil. Și dacă ar fi să puneți o notă acestei dureri, pe o scară de la zero la zece, unde zero nu doare deloc și zece e maxim?\nSPEAKER_01: Dimineața aș zice șapte. Pe parcursul zilei, când e mai bine, vreo patru. Depinde.\nSPEAKER_00: Deci fluctuează între patru și șapte.\nSPEAKER_01: Da, cam așa. Uneori mai mult.\nSPEAKER_00: Aveți și amețeli, dureri de cap propriu-zise?\nSPEAKER_01: Dureri de cap da, mai ales în spate, tot la baza craniului. Amețeli nu am observat ceva semnificativ. Adică uneori când mă ridic brusc simt ceva, dar trece repede și nu știu dacă e legat.\nSPEAKER_00: Ok. Și această durere a apărut brusc sau treptat?\nSPEAKER_01: Treptat, cred. Adică nu am căzut, nu am pățit nimic. Parcă a început mai ușor și s-a tot înrăutățit. Deși... stați, acum vreo trei săptămâni am dormit la un hotel, cu perna aceea îngrozitoare, complet plată. A doua zi m-am trezit cu gâtul rigid. Poate de-atunci a pornit mai serios.\nSPEAKER_00: Aha, deci posibil factorul declanșator să fi fost și postura de somn.\nSPEAKER_01: Da, da, exact. Și am mai zis eu la soție că perna de acasă nu e nici ea grozavă, dar nu am schimbat-o. Ar trebui, nu?\nSPEAKER_00: O să discutăm și despre asta. Ați luat ceva pentru durere în perioada asta?\nSPEAKER_01: Am luat un Nurofen de două ori, când n-am mai putut. Și mai am un gel, Voltaren, pe care îl aplic seara câteodată pe ceafă. Ajută un pic, dar nu rezolvă problema.\nSPEAKER_00: Înțeleg. Alte afecțiuni, tensiune, diabet, ceva de care știți?\nSPEAKER_01: Nu, nu am nimic. Sunt sănătos altfel, nu iau nimic regulat. Doar Nurofenul ăla de urgență.\nSPEAKER_00: Bine. Haideți să facem câteva mișcări. Întoarceți capul ușor spre dreapta, până unde puteți.\nSPEAKER_01: Până aici, cam atât.\nSPEAKER_00: Da, e limitat. Și spre stânga?\nSPEAKER_01: Stânga merge un pic mai bine, dar tot nu complet.\nSPEAKER_00: Și dacă lăsați bărbia în piept, simțiți ceva?\nSPEAKER_01: Da, trage în ceafă, trage.\nSPEAKER_00: Acum apăs puțin pe zona asta, la baza craniului. Doare?\nSPEAKER_01: Au, da! Acolo exact.\nSPEAKER_00: Și paravertebral, pe lateral.\nSPEAKER_01: Pe dreapta simț mai tare, da.\nSPEAKER_00: Ok. Deci avem o contractură paravertebrală cervicală mai accentuată pe dreapta, cu limitarea mobilității la rotație și flexie cervicală, și puncte dureroase la nivelul suboccipitalilor. Cel mai probabil o cervicalgie de postură, agravată de postura la calculator și de episodul cu perna de hotel. O să lucrăm să relaxăm musculatura, să creștem mobilitatea cervicală și să reducem tensiunea în zona suboccipitală.\nSPEAKER_01: Și o să-mi treacă? Că mă tem că e ceva mai grav, nu știu, hernie sau ceva.\nSPEAKER_00: Din ce văd la evaluarea de astăzi, tabloul e compatibil cu o tensiune musculară și un blocaj funcțional. Nu am semne de iradiere sau compresie nervoasă. Dar dacă durerea nu cedează după câteva ședințe, putem discuta despre un RMN, să excludem orice altceva.\nSPEAKER_01: Da, bine, mulțumesc. Mă liniștesc un pic.\nSPEAKER_00: Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală și ceafă, cu iradiere la baza craniului, de aproximativ două-trei săptămâni. Debut insidios, posibil agravat de postura de somn (pernă plată la hotel). Accentuată dimineața și la statul prelungit la calculator. Asociază cefalee occipitală.",
+    "evaluarea_durerii_vas": [7, 4],
+    "localizarea_durerii": ["cervical", "cap_ceafa"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      },
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nContractură paravertebrală cervicală mai accentuată pe dreapta. Limitarea mobilității la rotație cervicală bilaterală (mai redusă pe dreapta) și la flexie cervicală. Puncte dureroase la palpare suboccipital și paravertebral cervical dreapta.\nDiagnostic:\nCervicalgie de postură cu blocaj funcțional cervical și tensiune musculară suboccipitală. Fără semne de iradiere sau compresie nervoasă la evaluarea inițială.\nObiective terapeutice:\nRelaxarea musculaturii paravertebrale cervicale; creșterea mobilității cervicale la rotație și flexie; reducerea tensiunii în zona suboccipitală; corectare posturală."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere cumplită în ceafă, de vreo două săptămâni și ceva",
+      "acum vreo trei săptămâni am dormit la un hotel, cu perna aceea îngrozitoare, complet plată. A doua zi m-am trezit cu gâtul rigid",
+      "dacă stau mult la calculator, reapare",
+      "dureri de cap da, mai ales în spate, tot la baza craniului"
+    ],
+    "evaluarea_durerii_vas": [
+      "Dimineața aș zice șapte",
+      "Pe parcursul zilei, când e mai bine, vreo patru"
+    ],
+    "localizarea_durerii": [
+      "am o durere cumplită în ceafă",
+      "uneori îmi doare și puțin sus, spre cap, la baza craniului"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Nurofen de două ori, când n-am mai putut",
+      "mai am un gel, Voltaren, pe care îl aplic seara câteodată pe ceafă"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură paravertebrală cervicală mai accentuată pe dreapta, cu limitarea mobilității la rotație și flexie cervicală, și puncte dureroase la nivelul suboccipitalilor",
+      "Cel mai probabil o cervicalgie de postură, agravată de postura la calculator și de episodul cu perna de hotel",
+      "O să lucrăm să relaxăm musculatura, să creștem mobilitatea cervicală și să reducem tensiunea în zona suboccipitală",
+      "tabloul e compatibil cu o tensiune musculară și un blocaj funcțional. Nu am semne de iradiere sau compresie nervoasă"
+    ]
+  }
+}

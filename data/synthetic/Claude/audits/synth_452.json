@@ -1,0 +1,39 @@
+{
+  "conversation_id": "synth_452",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Am mutat niște mobilă.",
+      "De vreo trei săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6.",
+      "Vreo 2."
+    ],
+    "localizarea_durerii": [
+      "Cel drept.",
+      "Rămâne pe aici, în umăr."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Avem o inflamație la nivelul manșetei rotatorilor, cel mai probabil supraspinat implicat, cu o componență subacromială. Mobilitatea e limitată, flexie și abducție blocate cam la 90 de grade. O să lucrăm să reducem inflamația și să recuperăm amplitudinea de mișcare."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13861,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 2030,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

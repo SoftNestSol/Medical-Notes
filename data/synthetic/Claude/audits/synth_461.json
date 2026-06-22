@@ -1,0 +1,45 @@
+{
+  "conversation_id": "synth_461",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Cel drept.",
+      "Am cărat niște cutii grele la muncă. A doua zi m-am trezit cu durerea.",
+      "Uneori se lasă pe braț, până pe la cot."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6.",
+      "Poate 2, 3."
+    ],
+    "localizarea_durerii": [
+      "Cel drept.",
+      "Uneori se lasă pe braț, până pe la cot."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "pe la 90 de grade, după aia se blochează",
+      "Până la brâu cam",
+      "Nu pot, mă trezesc.",
+      "Da, chiar acolo.",
+      "Au, da, acolo mai tare.",
+      "Avem o limitare a mobilității umărului drept, mai ales la ridicarea laterală și la rotație. Durerea anterioară și sensibilitatea pe supraspinos sugerează o inflamație la nivelul coafei rotatorilor, probabil tendinită de supraspinos cu posibilă iritație a tendonului bicepsului. Obiectivul nostru o să fie să reducem inflamația, să recăpătăm mobilitatea și să întărim zona ca să nu se mai repete."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14094,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 2096,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

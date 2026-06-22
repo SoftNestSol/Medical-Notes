@@ -1,0 +1,26 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamnă.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Ionescu Mihaela.\nSPEAKER_00: Mulțumesc. Și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem astăzi, doamna Ionescu?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: Cam de două săptămâni.\nSPEAKER_00: Două săptămâni. A apărut după ceva anume, după un efort, după o mișcare bruscă?\nSPEAKER_01: Nu știu exact. M-am trezit și mă durea.\nSPEAKER_00: Deci dimineața, la trezire.\nSPEAKER_01: Da.\nSPEAKER_00: Și de atunci tot doare sau mai trece, mai vine?\nSPEAKER_01: Tot doare. Mai rău uneori.\nSPEAKER_00: Când e mai rău? La mișcare, la stat jos, seara?\nSPEAKER_01: Când întorc capul.\nSPEAKER_00: Când întoarceți capul. Pe ce parte e mai dificil?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Pe dreapta. Și durerea rămâne în zona gâtului sau se lasă și în umăr, în brăț?\nSPEAKER_01: Uneori în umăr.\nSPEAKER_00: În umărul drept?\nSPEAKER_01: Da.\nSPEAKER_00: Înțeles. Amorțeli în degete, în mână dreaptă?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Pe o scară de la zero la zece, zero nu doare deloc, zece doare cel mai tare, unde vă situați acum?\nSPEAKER_01: Un șase.\nSPEAKER_00: Un șase. Și când întoarceți capul spre dreapta, urcă?\nSPEAKER_01: Da, mai mult.\nSPEAKER_00: La cât?\nSPEAKER_01: Opt poate.\nSPEAKER_00: Opt la mișcare. Înțeles. Ce muncă faceți, dacă îmi spuneți?\nSPEAKER_01: Stau mult la calculator.\nSPEAKER_00: Mult la calculator, deci stat prelungit, capul aplecat înainte probabil.\nSPEAKER_01: Da.\nSPEAKER_00: Câte ore pe zi aproximativ?\nSPEAKER_01: Vreo opt, nouă.\nSPEAKER_00: Opt, nouă ore. Și în ultimele două săptămâni ați schimbat ceva, poziția, perna, ceva la birou?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Haideți să fac câteva verificări. Stați drept, vă rog, și întoarceți ușor capul la dreapta pentru mine.\nSPEAKER_01: Hmm.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Se oprește în gât sau merge și spre umăr acum?\nSPEAKER_01: Spre umăr.\nSPEAKER_00: Spre umăr drept. Acum spre stânga.\nSPEAKER_01: Merge mai bine.\nSPEAKER_00: Merge mai bine, da. O să apăs ușor pe zona cervicală, spuneți-mi unde simțiți.\nSPEAKER_01: Acolo, da.\nSPEAKER_00: Aici pe C5, C6, doare la apăsare?\nSPEAKER_01: Da, destul de tare.\nSPEAKER_00: Și trapezul, sus, pe dreapta?\nSPEAKER_01: Și acolo.\nSPEAKER_00: Da. Bine. Alte afecțiuni aveți, tensiune, diabet, probleme cardiace?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, accidente, fracturi la coloana cervicală?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați medicamente în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun fel de antiinflamator, analgezic?\nSPEAKER_01: Nu, n-am luat nimic.\nSPEAKER_00: Bine. Aveți radiografie sau RMN de coloana cervicală?\nSPEAKER_01: Nu.\nSPEAKER_00: N-ați făcut. Ar fi util pe viitor, dar putem începe și fără. Ce pot să vă spun este că avem o contractură destul de pronunțată pe musculatura cervicală dreaptă, trapez și ridicătorul scapulei, cu o restricție de mobilitate la rotația dreaptă. Cel mai probabil e legat de postura la calculator, stat prelungit cu capul în față. Vom lucra să reducem contractura și inflamația musculară și să refacem mobilitatea pe această rotație. Hai să trecem la treabă.\nSPEAKER_01: Ok.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicala cu iradiere in umar drept, aparuta de doua saptamani",
+    "evaluarea_durerii_vas": [6, 8],
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: contractura musculatura cervicala dreapta, trapez si ridicatorul scapulei; restrictie mobilitate rotatie dreapta\nObiective terapeutice: reducerea contracturii si inflamatiei musculare; refacerea mobilitatii la rotatia dreapta"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "Cam de două săptămâni.", "Uneori în umăr.", "În umărul drept?"],
+    "evaluarea_durerii_vas": ["Un șase.", "Opt poate."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Uneori în umăr.", "În umărul drept?", "Da."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o contractură destul de pronunțată pe musculatura cervicală dreaptă, trapez și ridicătorul scapulei, cu o restricție de mobilitate la rotația dreaptă", "Vom lucra să reducem contractura și inflamația musculară și să refacem mobilitatea pe această rotație."]
+  }
+}

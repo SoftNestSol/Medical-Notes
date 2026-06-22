@@ -1,0 +1,33 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule Radu.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De câte zile?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut din senin sau după ceva anume?\nSPEAKER_01: Nu știu, probabil de la calculator.\nSPEAKER_00: Stați mult la birou?\nSPEAKER_01: Da.\nSPEAKER_00: Câte ore pe zi aproximativ?\nSPEAKER_01: Vreo opt, nouă ore.\nSPEAKER_00: Înțeles. Vă doare strict gâtul sau se lasă și pe umăr, pe braț?\nSPEAKER_01: Și pe umăr, pe stânga.\nSPEAKER_00: Pe umărul stâng. Braț în jos, amorțeală?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Doare mai tare când vă mișcați gâtul sau și când stați nemișcat?\nSPEAKER_01: Când mă întorc.\nSPEAKER_00: Când rotiți, da. În ambele sensuri sau mai mult într-o parte?\nSPEAKER_01: Mai mult spre dreapta.\nSPEAKER_00: Spre dreapta doare mai tare. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Dimineața când vă treziți e mai rău sau seara?\nSPEAKER_01: Dimineața.\nSPEAKER_00: Dimineața. Înțeles. Alte afecțiuni, tensiune, diabet, osteoporoză, epilepsie?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Aveți tensiune. Luați și tratament pentru asta?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Enalapril. Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: 10 miligrame, o dată pe zi?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere prin sânge, implanturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă verific un pic. Stați drept, vă rog.\nSPEAKER_01: Da.\nSPEAKER_00: O să apăs pe zona cervicală, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Aici în C4, C5, da?\nSPEAKER_01: Da.\nSPEAKER_00: Apăs pe trapez, pe stânga.\nSPEAKER_01: Au, da.\nSPEAKER_00: Doare și trapezul stâng. Încercați să rotiți ușor spre dreapta.\nSPEAKER_01: Au.\nSPEAKER_00: Doare, mobilitate limitată la rotația dreaptă. Bun. Ce pot să vă spun este că avem o contractură musculară în zona cervicală, trapez și ridicătorul scapulei pe stânga, probabil de la postura la birou. Vom lucra să reducem contractura și să redobândim mobilitatea normală a gâtului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "durere cervicala si umar stang, de aproximativ doua saptamani, posibil legata de postura la birou",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractura musculara cervicala, trapez si ridicatorul scapulei stang;\nObiective terapeutice: reducerea contracturii, redobandirea mobilitatii cervicale"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "Vreo două săptămâni.", "probabil de la calculator", "Și pe umăr, pe stânga."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și pe umăr, pe stânga."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Enalapril", "10 miligrame"],
+    "evaluare_functionala_initiala": ["avem o contractură musculară în zona cervicală, trapez și ridicătorul scapulei pe stânga", "Vom lucra să reducem contractura și să redobândim mobilitatea normală a gâtului"]
+  }
+}

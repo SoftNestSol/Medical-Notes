@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă vă confruntați?\nSPEAKER_01: Mă doare spatele jos.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc.\nSPEAKER_00: A existat ceva anume? O mișcare, un efort, ceva?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Deci după ce ați mutat mobila a apărut durerea?\nSPEAKER_01: Da.\nSPEAKER_00: Și de atunci nu a cedat?\nSPEAKER_01: Nu.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 că doare foarte rău, unde ați pune durerea?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Și doare constant sau mai mult la anumite mișcări?\nSPEAKER_01: La mișcări. Când mă aplec.\nSPEAKER_00: Când vă aplecați. Și când vă ridicați dimineața din pat?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Se lasă durerea și pe fese sau pe picior în jos?\nSPEAKER_01: Un pic pe fesă dreaptă.\nSPEAKER_00: Doar pe fesă sau coboară și mai jos, pe coapsă, pe gambă?\nSPEAKER_01: Nu, doar pe fesă.\nSPEAKER_00: Ok. Simțiți amorțeală sau furnicături undeva?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți tensiune, diabet, probleme la inimă, osteoporoză, epilepsie, ceva de genul?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva verificări. Stați puțin în picioare, cu spatele la mine.\nSPEAKER_01: Ok.\nSPEAKER_00: Relaxați umerii. Văd o ușoară tensionare pe partea dreaptă a lombarului. Aplecați-vă ușor în față.\nSPEAKER_01: Doare mai tare.\nSPEAKER_00: Da, la flexie anterioară doare. Și dacă vă îndreptați?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Puneți mâna la ceafă și rotiți trunchiul spre dreapta.\nSPEAKER_01: Aoleu, acolo doare.\nSPEAKER_00: Pe ce zonă anume?\nSPEAKER_01: Aici jos, pe dreapta.\nSPEAKER_00: Pe zona lombară dreaptă. Înțeleg. Acum vă rog să vă întindeți pe masă, pe burtă.\nSPEAKER_01: Ok.\nSPEAKER_00: Apăs puțin pe pătratul lombar dreapta. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Deci mai sensibil pe dreapta. Apăs pe piriform, aici la fesă dreapta. Doare?\nSPEAKER_01: Da, exact acolo.\nSPEAKER_00: Exact acolo. Bun. Ridicați piciorul drept sus, genunchiul drept.\nSPEAKER_01: Doare un pic.\nSPEAKER_00: Un pic la ridicare. Nu se lasă pe picior durerea, rămâne în lombar și fesă?\nSPEAKER_01: Da, rămâne acolo.\nSPEAKER_00: Bun. Deci avem o contractură a pătratului lombar și a piriformului pe dreapta, apărute după efort fizic. Durerea este locală, fără iradiere pe membrul inferior, ceea ce e un semn bun. O să lucrăm să reducem inflamația și contractura musculară și să recuperăm mobilitatea în zona lombară.\nSPEAKER_01: Ok.\nSPEAKER_00: Ați mai făcut terapie manuală sau fizioterapie până acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Prima dată. Bun, atunci începem.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă cu iradiere ușoară în fesa dreaptă, instalată brusc după efort fizic (mutat mobilă), prezentă de aproximativ două săptămâni.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": "fesa dreaptă",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară tensionare paravertebrală pe partea dreaptă la inspecție. Durere la flexia anterioară a trunchiului, ameliorare la extensie. Rotație de trunchi spre dreapta dureroasă în zona lombară dreaptă. Palpare sensibilă la pătratul lombar drept și piriform drept. Test de ridicare a membrului inferior drept pozitiv cu durere locală (fără iradiere distală).\nDiagnostic:\nContractură musculară la nivelul pătratului lombar și piriformului drept, posttraumatică (efort fizic - mutat mobilă). Durere locală fără iradiere pe membrul inferior.\nObiective terapeutice:\nReducerea inflamației și a contracturii musculare; recuperarea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele jos.", "Am mutat niște mobilă.", "Vreo două săptămâni.", "Un pic pe fesă dreaptă."],
+    "evaluarea_durerii_vas": ["Vreo 6."],
+    "localizarea_durerii": ["Mă doare spatele jos."],
+    "localizarea_durerii_alta": ["Un pic pe fesă dreaptă."],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Văd o ușoară tensionare pe partea dreaptă a lombarului.", "la flexie anterioară doare", "Pe zona lombară dreaptă.", "Apăs puțin pe pătratul lombar dreapta. Doare?", "Apăs pe piriform, aici la fesă dreapta. Doare?", "Deci avem o contractură a pătratului lombar și a piriformului pe dreapta, apărute după efort fizic. Durerea este locală, fără iradiere pe membrul inferior", "O să lucrăm să reducem inflamația și contractura musculară și să recuperăm mobilitatea în zona lombară."]
+  }
+}

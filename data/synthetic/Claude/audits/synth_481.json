@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_481",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele jos.",
+      "Am ridicat niște saci la serviciu.",
+      "Vreo două săptămâni.",
+      "Mai tare dimineața.",
+      "dacă stau mult pe scaun iar se înrăutățește",
+      "Uneori un pic pe fesă dreapta."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Mai mult jos, în zona lombară.",
+      "Un pic și acolo.",
+      "mai jos, spre sacru, doare?"
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori un pic pe fesă dreapta."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "E o contractură destul de evidentă a musculaturii paravertebrale pe dreapta.",
+      "Vedem că avem o contractură musculară paravertebrală lombară dreaptă, cu iritație și în zona sacrală.",
+      "e o lombalgie acută mecanică, cel mai probabil instalată după efortul cu sacii.",
+      "O să lucrăm să reducem contractura, să scădem inflamația și să recăpătăm mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 23237
+    },
+    "cache_creation_input_tokens": 23237,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 351,
+    "output_tokens": 2173,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

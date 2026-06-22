@@ -1,0 +1,45 @@
+{
+  "conversation_id": "synth_371",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "De vreo două săptămâni.",
+      "Am ridicat niște saci la serviciu.",
+      "Mai mult când ridic brațul.",
+      "nu pot să dorm pe ea"
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5.",
+      "Atunci vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Rămâne sus, în umăr."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Limitare la abducție, observ.",
+      "Doare la rotație externă, limitare clară.",
+      "Cel mai probabil avem o inflamație la nivelul tendoanelor din zona umărului, ce numim o tendinopatie de coif rotator.",
+      "Obiectivul nostru e să reducem inflamația, să redobândiți mobilitatea completă și să întărim musculatura din jurul umărului ca să nu se repete."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 22971
+    },
+    "cache_creation_input_tokens": 22971,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 1735,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

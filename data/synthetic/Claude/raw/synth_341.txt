@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Dumitru.\nSPEAKER_00: Și prenumele?\nSPEAKER_01: Andrei.\nSPEAKER_00: Mulțumesc, domnule Andrei. Vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați făcut vreun efort, ați căzut?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Aha, la mutatul mobilei a apărut durerea.\nSPEAKER_01: Da.\nSPEAKER_00: Doare constant sau mai mult când ridicați brațul?\nSPEAKER_01: Când ridic.\nSPEAKER_00: Ridicați brațul în față sau în lateral?\nSPEAKER_01: Mai mult în lateral.\nSPEAKER_00: Și în spate, când dați brațul înapoi, doare?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare în momentul acesta?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Și când ridicați brațul, cât doare?\nSPEAKER_01: Un 7.\nSPEAKER_00: Un 7, deci se agravează la mișcare. Doare și în zona de gât, de ceafă?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Bine. Alte afecțiuni, tensiune, diabet, epilepsie?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați ceva în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Haideți să facem câteva teste. Ridicați brațul drept încet în lateral pentru mine.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Până la vreo 80 de grade vă oprește durerea, da?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Acum puneți mâna la ceafă.\nSPEAKER_01: Greu. Doare.\nSPEAKER_00: Doare. Și la spate, mâna la spate puteți?\nSPEAKER_01: Puțin.\nSPEAKER_00: Puțin. Apăs acum pe zona de sus a umărului, pe supraspinat. Spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Doare direct acolo. Și în față, pe bicipital?\nSPEAKER_01: Și un pic acolo.\nSPEAKER_00: Un pic și în față. Ce pot să vă spun e că avem o inflamație la nivelul tendonului supraspinat, posibil și tendonul bicipital afectat. E specific după eforturi din astea bruște. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului drept.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic la mutat mobila",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- Inflamatie tendon supraspinat;\n- Posibil tendon bicipital afectat;\nObiective terapeutice:\n- Reducerea inflamatiei;\n- Recuperarea mobilitatii umarului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Vreo 5.", "Un 7."],
+    "localizarea_durerii": ["Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendonului supraspinat, posibil și tendonul bicipital afectat", "Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului drept"]
+  }
+}

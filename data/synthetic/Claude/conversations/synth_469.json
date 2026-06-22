@@ -1,0 +1,385 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 5.26,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne vedem?"
+    },
+    {
+      "start": 5.38,
+      "end": 10.32,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare cotul, de ceva vreme, pe partea asta... nu știu, pe dreapta."
+    },
+    {
+      "start": 10.44,
+      "end": 11.58,
+      "speaker": "SPEAKER_00",
+      "text": "Cotul drept, da?"
+    },
+    {
+      "start": 11.7,
+      "end": 13.22,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, cotul drept."
+    },
+    {
+      "start": 13.34,
+      "end": 15.62,
+      "speaker": "SPEAKER_00",
+      "text": "Și de cât timp vă doare?"
+    },
+    {
+      "start": 15.74,
+      "end": 23.34,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... nu știu exact. Vreo două luni, poate mai mult. A început mai ușor și acum s-a mai acutizat."
+    },
+    {
+      "start": 23.46,
+      "end": 37.52,
+      "speaker": "SPEAKER_00",
+      "text": "A început mai ușor și acum s-a acutizat. Înțeles. Spuneți-mi, vă rog, pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 doare maxim, cum estimați durerea asta?"
+    },
+    {
+      "start": 37.64,
+      "end": 44.86,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... depinde. Câteodată e mai rău, câteodată mai puțin. Nu știu, undeva pe la... nu știu să zic exact."
+    },
+    {
+      "start": 44.98,
+      "end": 48.78,
+      "speaker": "SPEAKER_00",
+      "text": "Când e mai rău, pe la cât ați situa-o?"
+    },
+    {
+      "start": 48.9,
+      "end": 51.56,
+      "speaker": "SPEAKER_01",
+      "text": "Când e mai rău, poate un șapte."
+    },
+    {
+      "start": 51.68,
+      "end": 54.34,
+      "speaker": "SPEAKER_00",
+      "text": "Un șapte. Și când e mai lin?"
+    },
+    {
+      "start": 54.46,
+      "end": 57.88,
+      "speaker": "SPEAKER_01",
+      "text": "Un patru, pe la patru, ceva de genul ăsta."
+    },
+    {
+      "start": 58.0,
+      "end": 65.98,
+      "speaker": "SPEAKER_00",
+      "text": "Deci oscilează între patru și șapte. Înțeles. Și ce anume face să se înrăutățească? Există ceva anume care declanșează sau accentuează?"
+    },
+    {
+      "start": 66.1,
+      "end": 78.26,
+      "speaker": "SPEAKER_01",
+      "text": "Da, când apuc ceva, când încerc să strâng în mână sau să ridic ceva mai greu. Și mai ales când întorc mâna, nu știu cum să explic, când o fac... pe aici."
+    },
+    {
+      "start": 78.38,
+      "end": 81.42,
+      "speaker": "SPEAKER_00",
+      "text": "Când faceți o mișcare de rotație a antebrațului?"
+    },
+    {
+      "start": 81.54,
+      "end": 83.82,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, ceva de genul, da."
+    },
+    {
+      "start": 83.94,
+      "end": 89.64,
+      "speaker": "SPEAKER_00",
+      "text": "Doare mai tare pe exterior, pe lateralul cotului, sau pe interior, pe partea dinspre corp?"
+    },
+    {
+      "start": 89.76,
+      "end": 92.42,
+      "speaker": "SPEAKER_01",
+      "text": "Pe exterior, pe-aici, da. Pe exterior."
+    },
+    {
+      "start": 92.54,
+      "end": 97.48,
+      "speaker": "SPEAKER_00",
+      "text": "Pe epicondilul lateral, deci. Bine. Și există ceva care ameliorează durerea? Căldura, odihna?"
+    },
+    {
+      "start": 97.6,
+      "end": 108.62,
+      "speaker": "SPEAKER_01",
+      "text": "Odihna mai mult. Dacă îl las în pace o zi, mai trece. Și mi-am pus o compresă rece la un moment dat și a mai ajutat un pic."
+    },
+    {
+      "start": 108.74,
+      "end": 112.16,
+      "speaker": "SPEAKER_00",
+      "text": "Compresă rece. Bun. Ce muncă faceți, dacă îmi permiteți?"
+    },
+    {
+      "start": 112.28,
+      "end": 121.78,
+      "speaker": "SPEAKER_01",
+      "text": "Lucrez la birou, stau mult la calculator. Și mai fac și tenis de câmp, amator, dar... am mai redus în ultima vreme din cauza asta."
+    },
+    {
+      "start": 121.9,
+      "end": 124.94,
+      "speaker": "SPEAKER_00",
+      "text": "Tenis de câmp. Și de când ați redus?"
+    },
+    {
+      "start": 125.06,
+      "end": 130.0,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo lună, o lună jumate. Că mă durea și mai tare după."
+    },
+    {
+      "start": 130.12,
+      "end": 139.62,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Deci lucrul la calculator și tenisul sunt activitățile care accentuează. A fost vreun episod specific, o lovitură, o mișcare bruscă, sau a apărut treptat?"
+    },
+    {
+      "start": 139.74,
+      "end": 145.44,
+      "speaker": "SPEAKER_01",
+      "text": "Treptat, cred. Nu-mi aduc aminte să fi lovit ceva. Pur și simplu a apărut."
+    },
+    {
+      "start": 145.56,
+      "end": 153.54,
+      "speaker": "SPEAKER_00",
+      "text": "A apărut treptat, fără traumatism. Bine. Durerea rămâne la nivelul cotului sau se lasă și mai jos, pe antebraț, pe pumn?"
+    },
+    {
+      "start": 153.66,
+      "end": 160.5,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori simt ceva și pe... pe antebraț, în jos, pe față, pe-aici. Dar mai mult la cot."
+    },
+    {
+      "start": 160.62,
+      "end": 162.52,
+      "speaker": "SPEAKER_00",
+      "text": "Pe fața dorsală a antebrațului?"
+    },
+    {
+      "start": 162.64,
+      "end": 165.68,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cred că da. Pe dosul mâinii câteodată."
+    },
+    {
+      "start": 165.8,
+      "end": 171.12,
+      "speaker": "SPEAKER_00",
+      "text": "Câteodată și pe dosul mâinii. Amorțeli avem, furnicături la nivelul mâinii sau al degetelor?"
+    },
+    {
+      "start": 171.24,
+      "end": 173.52,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, amorțeli nu. Nu am simțit."
+    },
+    {
+      "start": 173.64,
+      "end": 178.58,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Ați mai avut episoade similare înainte, la același cot sau la celălalt?"
+    },
+    {
+      "start": 178.7,
+      "end": 185.92,
+      "speaker": "SPEAKER_01",
+      "text": "La celălalt nu. La ăsta... poate acum vreo trei ani a mai durut un pic, dar a trecut singur."
+    },
+    {
+      "start": 186.04,
+      "end": 187.94,
+      "speaker": "SPEAKER_00",
+      "text": "A trecut singur, fără tratament?"
+    },
+    {
+      "start": 188.06,
+      "end": 189.2,
+      "speaker": "SPEAKER_01",
+      "text": "Da, fără nimic."
+    },
+    {
+      "start": 189.32,
+      "end": 195.78,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Acum, câteva întrebări generale. Avem boli cronice despre care ar trebui să știu? Tensiune, diabet, altceva?"
+    },
+    {
+      "start": 195.9,
+      "end": 198.94,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune nu. Am hipotiroidism, iau medicație pentru asta."
+    },
+    {
+      "start": 199.06,
+      "end": 200.58,
+      "speaker": "SPEAKER_00",
+      "text": "Hipotiroidism. Ce medicament luați?"
+    },
+    {
+      "start": 200.7,
+      "end": 202.6,
+      "speaker": "SPEAKER_01",
+      "text": "Euthyrox, zilnic, 50 de micrograme."
+    },
+    {
+      "start": 202.72,
+      "end": 205.38,
+      "speaker": "SPEAKER_00",
+      "text": "Euthyrox 50 micrograme, zilnic. Altceva mai luați?"
+    },
+    {
+      "start": 205.5,
+      "end": 206.64,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic altceva."
+    },
+    {
+      "start": 206.76,
+      "end": 209.04,
+      "speaker": "SPEAKER_00",
+      "text": "Alergii la medicamente sau la altceva?"
+    },
+    {
+      "start": 209.16,
+      "end": 211.06,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu de nicio alergie."
+    },
+    {
+      "start": 211.18,
+      "end": 214.98,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Ați mai făcut radiografie sau RMN la cotul ăsta?"
+    },
+    {
+      "start": 215.1,
+      "end": 220.04,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am făcut nimic. Am zis să vin mai întâi pe aici."
+    },
+    {
+      "start": 220.16,
+      "end": 231.94,
+      "speaker": "SPEAKER_00",
+      "text": "Bine că ați venit. Haideți să facem câteva teste acum. Dați-mi mâna dreaptă, vă rog. O să apăs pe această zonă, pe exteriorul cotului, și îmi spuneți dacă simțiți durere."
+    },
+    {
+      "start": 232.06,
+      "end": 234.34,
+      "speaker": "SPEAKER_01",
+      "text": "Aaa, da, da. Doare. Chiar acolo."
+    },
+    {
+      "start": 234.46,
+      "end": 244.72,
+      "speaker": "SPEAKER_00",
+      "text": "Chiar pe epicondilul lateral. Acum vreau să faceți asta: strângeți pumnul și întindeți brațul, și eu o să apăs ușor pe dosul mâinii în jos, opuneți rezistență."
+    },
+    {
+      "start": 244.84,
+      "end": 246.36,
+      "speaker": "SPEAKER_01",
+      "text": "Aaa, doare, doare, da."
+    },
+    {
+      "start": 246.48,
+      "end": 251.8,
+      "speaker": "SPEAKER_00",
+      "text": "Doare la extensia pumnului cu rezistență. Acum o să testăm cealaltă parte. Același lucru."
+    },
+    {
+      "start": 251.92,
+      "end": 254.2,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, la ăsta nu simt nimic."
+    },
+    {
+      "start": 254.32,
+      "end": 260.4,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum întoarceți palma în sus, vă rog, și strângeți mâna mea. Cât puteți de tare."
+    },
+    {
+      "start": 260.52,
+      "end": 266.6,
+      "speaker": "SPEAKER_01",
+      "text": "Mmm, e neplăcut, da. Simț că nu pot strânge la fel de tare ca de obicei."
+    },
+    {
+      "start": 266.72,
+      "end": 278.5,
+      "speaker": "SPEAKER_00",
+      "text": "Da, grip-ul e diminuat față de normal. Acum stați puțin cu brațul întins în față, o să fac o mișcare ușoară de pronosupinație, de rotație, și îmi spuneți dacă apare."
+    },
+    {
+      "start": 278.62,
+      "end": 282.8,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, acolo. Acolo e fix ce simt și eu acasă."
+    },
+    {
+      "start": 282.92,
+      "end": 327.76,
+      "speaker": "SPEAKER_00",
+      "text": "Exact. Bine. Deci tabloul clinic e destul de clar. Ceea ce avem se numește epicondilită laterală, sau cum se mai știe popular, cotul tenismanului. Practic tendonul extensorilor pumnului și al degetelor se irită la inserția lui pe epicondilul lateral, din cauza suprasolicitării repetate, atât la tenis cât și la lucrul prelungit la calculator cu mouse-ul. Obiectivul nostru acum este să reducem inflamația locală la nivelul tendonului, să decontracturăm musculatura extensoare a antebrațului, să refacem mobilitatea articulației cotului și să prevenim recidivele. O să lucrăm și cu zona de antebraț, că văd că se lasă și pe acolo. Recomand să evitați mișcările care declanșează durerea în perioada asta și să continuăm cu câteva ședințe să vedem cum evoluează."
+    },
+    {
+      "start": 327.88,
+      "end": 330.92,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, da. Și tenisul mai pot să fac?"
+    },
+    {
+      "start": 331.04,
+      "end": 337.12,
+      "speaker": "SPEAKER_00",
+      "text": "Deocamdată mai bine pauză, da. Lăsăm să se liniștească și apoi vedem cum reintroducem activitatea treptat."
+    },
+    {
+      "start": 337.24,
+      "end": 338.04,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, înțeleg."
+    },
+    {
+      "start": 338.16,
+      "end": 340.06,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă, vă rog."
+    }
+  ]
+}

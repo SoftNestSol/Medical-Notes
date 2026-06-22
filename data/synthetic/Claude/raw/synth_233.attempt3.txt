@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut după ceva anume, după un efort, după o mișcare?\nSPEAKER_01: Păi am zugrăvit.\nSPEAKER_00: Ah, ați zugrăvit. Deci mult cu mâna sus.\nSPEAKER_01: Da.\nSPEAKER_00: Și vă doare când ridicați mâna sau și în repaus?\nSPEAKER_01: Când ridic.\nSPEAKER_00: Doar când ridicați. Doare și noaptea?\nSPEAKER_01: Uneori.\nSPEAKER_00: Uneori noaptea. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare când ridicați mâna?\nSPEAKER_01: Un 7.\nSPEAKER_00: Un 7. Și noaptea?\nSPEAKER_01: Mai puțin, un 4.\nSPEAKER_00: Un 4 noaptea. Înțeles. Vă doare și spre gât sau spre braț în jos?\nSPEAKER_01: Nu, doar umărul.\nSPEAKER_00: Doar umărul. Bun. Alte afecțiuni aveți, tensiune, diabet, probleme cardiace?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă. Bun. Haideți să ridic eu acum ușor brațul dumneavoastră. Spuneți-mi când simțiți durerea.\nSPEAKER_01: Acum. Aici.\nSPEAKER_00: Aici, la ridicare pe la 90 de grade, da?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă rotim ușor în interior?\nSPEAKER_01: Au, da, doare.\nSPEAKER_00: Doare mai tare la rotație internă. Bun. Stați puțin cu brațul așa... doare?\nSPEAKER_01: Da, tot acolo.\nSPEAKER_00: Tot în același loc. Bun, avem o inflamație la nivelul tendonului supraspinat, cel mai probabil. E o afecțiune frecventă după efort cu mâna sus. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului drept.\nSPEAKER_01: Bine.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept",
+    "evaluarea_durerii_vas": [7, 4],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie tendon supraspinatus umar dr.\nObiective terapeutice:\n- reducerea inflamatiei;\n- recuperarea mobilitatii umarului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul."],
+    "evaluarea_durerii_vas": ["Un 7.", "Mai puțin, un 4."],
+    "localizarea_durerii": ["Dreptul.", "Nu, doar umărul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Medicamente luați?\nSPEAKER_01: Nu."],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendonului supraspinat, cel mai probabil", "Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului drept."]
+  }
+}

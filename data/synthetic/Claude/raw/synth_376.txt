@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua!\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi, am o durere la umăr, la umărul drept, de vreo două săptămâni. Adică, sincer, am mai simțit-o și înainte, dar acum s-a înrăutățit tare. Cred că de la serviciu, stau mult la birou, la calculator, și parcă s-a adunat totul.\nSPEAKER_00: Înțeleg. Și durerea e locală, la umăr, sau se lasă și pe braț în jos?\nSPEAKER_01: Se lasă un pic, da, pe partea din față a brațului, până pe la cot, cam pe acolo. Nu mai jos, nu ajunge la mână.\nSPEAKER_00: Până la cot. Și e o durere continuă sau apare mai mult la mișcare?\nSPEAKER_01: Mai mult la mișcare, da. Adică dacă ridic brațul așa în sus, doare rău. Dacă îl duc în lateral, la fel. Dar dacă stau liniștit, e un disconfort, nu chiar durere puternică. Noaptea mai am momente când mă trezesc dacă mă întorc pe partea dreaptă.\nSPEAKER_00: Deci noaptea, pe partea dreaptă, doare.\nSPEAKER_01: Da, exact. Și de aia stau mai mult pe stânga acum, că altfel nu dorm. Am citit pe internet că ar putea fi ceva la tendoane, nu știu, m-am speriat un pic.\nSPEAKER_00: Hai să vedem noi ce e. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, cum ați situa durerea când ridicați brațul?\nSPEAKER_01: La ridicare, așa, un 7. Da, 7 e corect. Când stau, poate un 2-3, nu mai mult.\nSPEAKER_00: Ok. Și aceste două săptămâni, a apărut după ceva anume? Ați căzut, ați ridicat ceva?\nSPEAKER_01: Nu am căzut, nu. Dar acum vreo trei săptămâni am mutat niște cutii grele la birou, singur, și parcă de atunci a început. Deși, cum vă spuneam, mai simțeam și înainte ceva, o jenă, dar trecea. Acum nu mai trece.\nSPEAKER_00: Înțeles. Și în afară de umărul drept, mai aveți alte zone care vă deranjează?\nSPEAKER_01: Păi, mai am ceva pe zona gâtului, pe cervical, dar mai veche treaba asta. De ani de zile, de când lucrez la birou. Nu mă doare acum în mod special, dar e o tensiune acolo, mai ales spre seară. Și soția mea zice că stau cocoșat, ceea ce probabil e adevărat.\nSPEAKER_00: Da, postura la birou contează mult. Vârsta, dacă pot să întreb?\nSPEAKER_01: 38. Și sunt contabil, deci da, stau opt ore pe zi la calculator, uneori mai mult.\nSPEAKER_00: Alergii aveți?\nSPEAKER_01: Nu, nicio alergie.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, ceva de genul acesta?\nSPEAKER_01: Nu, nu am nimic din astea. Sunt sănătos în rest, mulțumesc lui Dumnezeu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Am luat un Voltaren gel, pe umăr, vreo câteva zile, dar nu prea m-a ajutat. Pastile nu iau nimic.\nSPEAKER_00: Ok. Stați puțin, ridicați brațul drept în față, încet... până unde puteți.\nSPEAKER_01: Până aici, cam atât, că mai sus doare.\nSPEAKER_00: Văd că e limitată ridicarea, aproximativ la 90 de grade, și apare durerea. Acum duc eu brațul, spuneți-mi dacă doare.\nSPEAKER_01: Da, doare, da, exact în față, pe acolo.\nSPEAKER_00: Și dacă apăs aici, pe tendonul supraspinosului...\nSPEAKER_01: Au, da, acolo e sensibil.\nSPEAKER_00: Da. Avem o inflamație la nivelul tendoanelor coifului rotatorilor, cel mai probabil supraspinosul. Durerea care coboară pe braț e din cauza iritației locale, nu e o problemă nervoasă. Obiectivul nostru va fi să reducem inflamația și să recuperăm amplitudinea de mișcare a umărului.\nSPEAKER_01: Și cât timp durează, aproximativ? Că am o prezentare la serviciu peste două săptămâni și trebuie să scriu pe tablă.\nSPEAKER_00: Depinde cum răspundeți la tratament, dar în câteva ședințe ar trebui să simțiți îmbunătățire. Hai să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept cu iradiere pe braț până la cot, debut după efort fizic (mutat cutii), accentuată la mișcare și noaptea în decubit pe partea dreaptă. Asociază tensiune cervicală cronică.",
+    "evaluarea_durerii_vas": [7, 2],
+    "localizarea_durerii": [
+      "umar_dr",
+      "cervical"
+    ],
+    "localizarea_durerii_alta": "braț drept anterior până la cot",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații funcționale: limitarea ridicării brațului drept la aproximativ 90 de grade cu apariția durerii; sensibilitate la palparea tendonului supraspinosului. Diagnostic: inflamație la nivelul tendoanelor coifului rotatorilor, cel mai probabil supraspinosul; durerea iradiată pe braț de origine locală, fără componentă nervoasă. Obiective terapeutice: reducerea inflamației și recuperarea amplitudinii de mișcare a umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere la umăr, la umărul drept, de vreo două săptămâni",
+      "acum vreo trei săptămâni am mutat niște cutii grele la birou, singur, și parcă de atunci a început",
+      "Dacă ridic brațul așa în sus, doare rău. Dacă îl duc în lateral, la fel.",
+      "noaptea mai am momente când mă trezesc dacă mă întorc pe partea dreaptă",
+      "mai am ceva pe zona gâtului, pe cervical, dar mai veche treaba asta"
+    ],
+    "evaluarea_durerii_vas": [
+      "La ridicare, așa, un 7. Da, 7 e corect. Când stau, poate un 2-3, nu mai mult."
+    ],
+    "localizarea_durerii": [
+      "am o durere la umăr, la umărul drept",
+      "mai am ceva pe zona gâtului, pe cervical"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă un pic, da, pe partea din față a brațului, până pe la cot, cam pe acolo."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Voltaren gel, pe umăr, vreo câteva zile"
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd că e limitată ridicarea, aproximativ la 90 de grade, și apare durerea.",
+      "Avem o inflamație la nivelul tendoanelor coifului rotatorilor, cel mai probabil supraspinosul.",
+      "Durerea care coboară pe braț e din cauza iritației locale, nu e o problemă nervoasă.",
+      "Obiectivul nostru va fi să reducem inflamația și să recuperăm amplitudinea de mișcare a umărului."
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "conversation_id": "synth_244",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "Și pe umăr. Pe dreapta."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6.",
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Și pe umăr. Pe dreapta."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "mușchiul trapez și ridicătorul scapulei sunt contractați destul de tare pe dreapta",
+      "avem o contractură musculară cervicală, mai ales pe dreapta, cu iradiere spre umărul drept. Vom lucra să reducem această contractură și să recâștigăm mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13758,
+    "inference_geo": "global",
+    "input_tokens": 309,
+    "output_tokens": 1648,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

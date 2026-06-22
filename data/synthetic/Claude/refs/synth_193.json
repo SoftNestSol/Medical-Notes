@@ -1,0 +1,19 @@
+{
+  "motivul_prezentarii": "Durere lombară apărută în urmă cu două săptămâni după efort fizic (mutat cutii). Durere la flexie și în șezut, fără iradiere, fără amorțeli. Redoare matinală ușoară care cedează la mișcare.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- Lombalgie acută pe fond de contractură musculară post-efort\nObiective terapeutice:\n- Relaxarea musculaturii lombare\n- Recuperarea mobilității"
+}

@@ -1,0 +1,349 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua..."
+    },
+    {
+      "start": 2.56,
+      "end": 6.74,
+      "speaker": "SPEAKER_00",
+      "text": "Luați loc, vă rog. Spuneți-mi cu ce problemă veniți astăzi."
+    },
+    {
+      "start": 6.86,
+      "end": 14.08,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... mă doare umărul, cel drept, de vreo trei săptămâni. Și sincer mă sperie un pic că nu trece."
+    },
+    {
+      "start": 14.2,
+      "end": 19.9,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și înainte de aceste trei săptămâni, nu ați mai avut nimic pe zona asta?"
+    },
+    {
+      "start": 20.02,
+      "end": 27.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am mai avut... adică, poate oboseală după ce ridic ceva greu, dar să mă doară constant așa, nu."
+    },
+    {
+      "start": 27.74,
+      "end": 33.82,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Spuneți-mi, s-a întâmplat ceva anume când a apărut durerea? O lovitură, un efort?"
+    },
+    {
+      "start": 33.94,
+      "end": 48.76,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cred că de la muncă. Eu lucrez în depozit și am ridicat niște cutii mai grele, vreo două lăzi una peste alta, și a doua zi dimineața m-am trezit cu umărul... nu puteam să-l ridic bine."
+    },
+    {
+      "start": 48.88,
+      "end": 51.92,
+      "speaker": "SPEAKER_00",
+      "text": "Deci a apărut a doua zi după efort."
+    },
+    {
+      "start": 52.04,
+      "end": 62.3,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact. Și de atunci... nu știu, nu se mai duce. Mă gândeam că trece de la sine, dar iată că n-a trecut. E ceva grav?"
+    },
+    {
+      "start": 62.42,
+      "end": 74.2,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să vedem mai întâi, să nu sărim la concluzii. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare insuportabil, unde situați durerea asta?"
+    },
+    {
+      "start": 74.32,
+      "end": 84.2,
+      "speaker": "SPEAKER_01",
+      "text": "Eeeh... depinde. Dacă stau liniștit, poate un 3. Dacă ridic mâna sus sau încerc să ajung la ceva în spate, dă un 7, 7 și ceva."
+    },
+    {
+      "start": 84.32,
+      "end": 87.74,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, deci 3 în repaus și 7 la mișcare."
+    },
+    {
+      "start": 87.86,
+      "end": 96.98,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam așa. Dar noaptea mă trezește uneori, că mă întorc pe partea dreaptă și mă ia o durere... nu știu, poate un 6?"
+    },
+    {
+      "start": 97.1,
+      "end": 101.28,
+      "speaker": "SPEAKER_00",
+      "text": "Deci și noaptea vă deranjează. Stați pe partea dreaptă de obicei?"
+    },
+    {
+      "start": 101.4,
+      "end": 108.24,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am obiceiul ăsta de ani de zile. Acum încerc să stau pe stânga dar nu reușesc mereu."
+    },
+    {
+      "start": 108.36,
+      "end": 113.68,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Durerea rămâne locală la umăr sau se lasă și pe braț, pe antebraț?"
+    },
+    {
+      "start": 113.8,
+      "end": 122.92,
+      "speaker": "SPEAKER_01",
+      "text": "Se lasă... adică se duce un pic pe braț, pe partea din față, până undeva pe la mijlocul brațului. Nu mai jos de atât."
+    },
+    {
+      "start": 123.04,
+      "end": 130.64,
+      "speaker": "SPEAKER_00",
+      "text": "Pe partea din față a brațului, până la mijloc. Bine. Simțiți amorțeală, furnicături, ceva ciudat la degete sau la mână?"
+    },
+    {
+      "start": 130.76,
+      "end": 134.18,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, la degete nu. Asta măcar nu am."
+    },
+    {
+      "start": 134.3,
+      "end": 140.0,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și la ce mișcări doare cel mai tare? Ați zis că ridicați mâna sus..."
+    },
+    {
+      "start": 140.12,
+      "end": 151.52,
+      "speaker": "SPEAKER_01",
+      "text": "Da, când ridic brațul în față sau lateral, la un moment dat se blochează și trage tare. Și dacă încerc să ajung la buzunarul din spate al pantalonului, e îngrozitor."
+    },
+    {
+      "start": 151.64,
+      "end": 155.82,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Faceți și mișcarea asta pentru mine, ridicați brațul ușor lateral..."
+    },
+    {
+      "start": 155.94,
+      "end": 159.36,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici mai merge... Au! Aici, la nivelul ăsta."
+    },
+    {
+      "start": 159.48,
+      "end": 168.22,
+      "speaker": "SPEAKER_00",
+      "text": "Deci undeva la 90 de grade apare durerea. Ok. Aveți și o senzație de... ca și cum ar scrâșni sau ar pocni înăuntru?"
+    },
+    {
+      "start": 168.34,
+      "end": 177.08,
+      "speaker": "SPEAKER_01",
+      "text": "Da! Da, exact, un fel de... cum să spun, ca un clac uneori. Asta e rău? Adică înseamnă că s-a rupt ceva?"
+    },
+    {
+      "start": 177.2,
+      "end": 187.46,
+      "speaker": "SPEAKER_00",
+      "text": "Nu neapărat, nu vă panicați. Clacmentul poate fi din mai multe cauze, o să evaluăm cu atenție. Spuneți-mi, aveți tensiune arterială, diabet, ceva diagnostic mai vechi?"
+    },
+    {
+      "start": 187.58,
+      "end": 195.18,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Mi-au zis acum vreo doi ani că am tensiune mare. Iau și un medicament pentru asta."
+    },
+    {
+      "start": 195.3,
+      "end": 196.44,
+      "speaker": "SPEAKER_00",
+      "text": "Ce medicament luați?"
+    },
+    {
+      "start": 196.56,
+      "end": 198.84,
+      "speaker": "SPEAKER_01",
+      "text": "Perindopril, 5 miligrame, în fiecare dimineață."
+    },
+    {
+      "start": 198.96,
+      "end": 201.24,
+      "speaker": "SPEAKER_00",
+      "text": "Și tensiunea e controlată cu el?"
+    },
+    {
+      "start": 201.36,
+      "end": 207.44,
+      "speaker": "SPEAKER_01",
+      "text": "Da, zice doctorul că e bine acum. Mă monitorizez și eu din când în când acasă."
+    },
+    {
+      "start": 207.56,
+      "end": 211.36,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Altceva în afară de tensiune? Diabet, probleme cardiace, osteoporoză?"
+    },
+    {
+      "start": 211.48,
+      "end": 219.08,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu cred. Adică nu mi-a spus nimeni altceva. Sper să nu fie ceva și eu să nu știu..."
+    },
+    {
+      "start": 219.2,
+      "end": 225.28,
+      "speaker": "SPEAKER_00",
+      "text": "Probabil nu, dacă nu aveți niciun diagnostic pus. Ați mai luat ceva pentru umăr? Antiinflamator, ceva?"
+    },
+    {
+      "start": 225.4,
+      "end": 232.62,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat Ketoprofen câteva zile, că am avut acasă. A mai calmat, dar când am terminat pastilele a revenit."
+    },
+    {
+      "start": 232.74,
+      "end": 234.26,
+      "speaker": "SPEAKER_00",
+      "text": "Câte zile ați luat?"
+    },
+    {
+      "start": 234.38,
+      "end": 237.42,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo patru, cinci zile. Câte un comprimat seara."
+    },
+    {
+      "start": 237.54,
+      "end": 241.34,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Acum nu mai luați nimic în afară de Perindopril?"
+    },
+    {
+      "start": 241.46,
+      "end": 247.16,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, acum nu mai iau nimic. Am terminat Ketoprofenul și n-am mai luat altceva."
+    },
+    {
+      "start": 247.28,
+      "end": 256.02,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Hai să facem câteva teste acum. Rămâneți cu brațul pe lângă corp... vă apăs ușor pe umăr aici, pe capul humeral. Doare?"
+    },
+    {
+      "start": 256.14,
+      "end": 259.18,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic, da. Nu mult, dar simt ceva."
+    },
+    {
+      "start": 259.3,
+      "end": 265.0,
+      "speaker": "SPEAKER_00",
+      "text": "Acum ridicați brațul cu cotul îndoit, ca și cum ați face un semn de stop."
+    },
+    {
+      "start": 265.12,
+      "end": 267.4,
+      "speaker": "SPEAKER_01",
+      "text": "Aaah, asta doare mai tare, da."
+    },
+    {
+      "start": 267.52,
+      "end": 270.56,
+      "speaker": "SPEAKER_00",
+      "text": "Doare. Acum rotați înspre interior, mâna în jos..."
+    },
+    {
+      "start": 270.68,
+      "end": 272.2,
+      "speaker": "SPEAKER_01",
+      "text": "Auuu, da, asta doare."
+    },
+    {
+      "start": 272.32,
+      "end": 274.6,
+      "speaker": "SPEAKER_00",
+      "text": "Și rotație externă, mâna în afară..."
+    },
+    {
+      "start": 274.72,
+      "end": 277.0,
+      "speaker": "SPEAKER_01",
+      "text": "Asta mai merge, e mai puțin."
+    },
+    {
+      "start": 277.12,
+      "end": 283.96,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Stați puțin cu brațul ridicat la 90 de grade și eu apăs în jos pe mână... rezistați?"
+    },
+    {
+      "start": 284.08,
+      "end": 287.5,
+      "speaker": "SPEAKER_01",
+      "text": "Au, nu pot să rezist bine, cedează un pic."
+    },
+    {
+      "start": 287.62,
+      "end": 303.58,
+      "speaker": "SPEAKER_00",
+      "text": "Da, am simțit. Bine. O să vă spun ce observ eu. Aveți o inflamație la nivelul tendonului supraspinos, cel mai probabil. E un tendon din manșonul rotatorilor, un grup de tendoane care stabilizează umărul. Se inflamează des la eforturi bruște de ridicare."
+    },
+    {
+      "start": 303.7,
+      "end": 306.36,
+      "speaker": "SPEAKER_01",
+      "text": "Și e grav? Adică se poate rezolva?"
+    },
+    {
+      "start": 306.48,
+      "end": 320.54,
+      "speaker": "SPEAKER_00",
+      "text": "Se poate rezolva, da. Nu e o ruptură, nu aveți semnele de ruptură completă. Dar trebuie să lucrăm la reducerea inflamației și să recâștigăm mobilitatea. Veți simți îmbunătățire în câteva ședințe dacă respectați și câteva indicații acasă."
+    },
+    {
+      "start": 320.66,
+      "end": 327.88,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine, mă bucur că nu e ceva mai rău. Mă tot gândeam că s-a rupt ceva acolo."
+    },
+    {
+      "start": 328.0,
+      "end": 334.84,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, nu, nu vă faceți griji degeaba. Ați mai avut fracturi pe zona asta, intervenții chirurgicale la umăr?"
+    },
+    {
+      "start": 334.96,
+      "end": 335.76,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată."
+    },
+    {
+      "start": 335.88,
+      "end": 338.16,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Haideți să trecem la treabă."
+    }
+  ]
+}

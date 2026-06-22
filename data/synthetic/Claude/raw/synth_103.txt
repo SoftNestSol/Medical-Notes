@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, spuneți-mi vă rog cu ce problemă veniți.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar. De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Am stat mult la birou.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare constant sau doar când vă mișcați?\nSPEAKER_01: Când mă ridic. Și dimineața.\nSPEAKER_00: Dimineața la trezire, când vă ridicați din pat. Se lasă durerea și pe picior?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeli, furnicături?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Ibuprofen, când nu mai suport.\nSPEAKER_00: Cât, ce doză?\nSPEAKER_01: Nu știu, ce am în casă. 400.\nSPEAKER_00: 400 de miligrame. Des?\nSPEAKER_01: Nu, rar.\nSPEAKER_00: Ok. Haideți să stați puțin cu spatele la mine, drept. Relaxați umerii. Văd o ușoară înclinare, bazinul e puțin dus pe stânga. Simțiți?\nSPEAKER_01: Nu știu.\nSPEAKER_00: Normal, nu se simte de obicei. Aplecați-vă ușor în față, cât puteți.\nSPEAKER_01: Până aici.\nSPEAKER_00: Doare când vă aplecați?\nSPEAKER_01: Da, la ridicat mai tare.\nSPEAKER_00: La revenire. Am înțeles. Stați pe piciorul drept o secundă.\nSPEAKER_01: Da.\nSPEAKER_00: Și pe stângul.\nSPEAKER_01: Merge.\nSPEAKER_00: Bun. Haideți pe masă, cu fața în jos. Vă apăs puțin în zona lombară, îmi spuneți dacă doare.\nSPEAKER_01: Aici doare.\nSPEAKER_00: Exact la nivelul L4-L5. Și pe lateral, musculatura paravertebrală e contractată, o simt eu, și dumneavoastră simțiți apăsarea?\nSPEAKER_01: Da, mai ales pe dreapta.\nSPEAKER_00: Mai mult pe dreapta. Deci avem o contractură musculară paravertebrală lombară, mai ales pe dreapta, cu un bazin ușor dezechilibrat. Cel mai probabil din postura sedentară prelungită. O să lucrăm la relaxarea musculaturii și la mobilitate. Bun?",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară cu debut de aproximativ două săptămâni, apărută după stat prelungit la birou. Durere la ridicare și dimineața la trezire, fără iradiere pe membre, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": ["lombar"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nBazin ușor dezechilibrat spre stânga. Contractură musculară paravertebrală lombară, mai accentuată pe dreapta. Durere la palpare L4-L5. Durere la revenirea din flexia anterioară a trunchiului.\nDiagnostic:\nContractură musculară paravertebrală lombară dreaptă cu dezechilibru de bazin, cel mai probabil pe fond de postură sedentară prelungită.\nObiective terapeutice:\nRelaxarea musculaturii paravertebrale lombare; ameliorarea mobilității; corectarea dezechilibrului postural."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele.", "Am stat mult la birou.", "De vreo două săptămâni.", "Când mă ridic. Și dimineața."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Jos.", "Lombar."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Ibuprofen, când nu mai suport.", "400 de miligrame."],
+    "evaluare_functionala_initiala": ["Văd o ușoară înclinare, bazinul e puțin dus pe stânga.", "Exact la nivelul L4-L5.", "musculatura paravertebrală e contractată", "mai ales pe dreapta", "Deci avem o contractură musculară paravertebrală lombară, mai ales pe dreapta, cu un bazin ușor dezechilibrat.", "Cel mai probabil din postura sedentară prelungită.", "O să lucrăm la relaxarea musculaturii și la mobilitate."]
+  }
+}

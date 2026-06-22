@@ -1,0 +1,45 @@
+{
+  "conversation_id": "synth_155",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul stâng, de vreo două săptămâni și ceva",
+      "dimineața când încerc să ridic mâna, e ca și cum ceva blochează acolo",
+      "Am mutat niște mobilă cu vreo trei săptămâni în urmă, cutii grele, rafturi. Cred că de atunci"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când ridic mâna sus, un 8 cel puțin. Și noaptea mă doare și când stau liniștit, acolo undeva la 5."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "Rămâne la umăr, cel mult până la jumătatea brațului, dar nu ajunge la mână."
+    ],
+    "antecedente": [
+      "Tensiune am, mi s-a spus acum vreo doi ani",
+      "Am mai avut ceva la spate acum mulți ani, o hernie, mi s-a spus"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat Nurofen, câte un comprimat seara când nu puteam dormi",
+      "iau Amlodipină, 5 miligrame, o dată pe zi"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o limitare clară de mobilitate la abducție și o sensibilitate pe tendonul supraspinos. Probabil o tendinopatie la nivelul coafei rotatorilor, umăr stâng. O să lucrăm să reducem inflamația și să recuperăm mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13650,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 2253,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

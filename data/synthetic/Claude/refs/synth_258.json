@@ -1,0 +1,16 @@
+{
+  "motivul_prezentarii": "Dureri în zona cervicală și dorsală superioară, cu iradiere pe umărul stâng, apărute de câteva săptămâni, agravate de postura la birou și calculator.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "cervical",
+    "toracal",
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "scolioza_cifoza"
+  ],
+  "antecedente_altele": "fractură mână veche (în copilărie)",
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Observații posturale: umărul stâng ușor mai căzut față de cel drept, cap proiectat anterior (postură antalgică/profesională). Rotație cervicală spre stânga limitată și dureroasă. Sensibilitate la palpare trapez superior stânga și paravertebral cervical C6-C7. Ușor disconfort la abducția umărului stâng. Diagnostic: tensionare musculară trapez superior și paravertebrali cervicali; mobilitate cervicală redusă în rotație stânga. Obiective terapeutice: reducerea tensiunii musculare, creșterea mobilității cervicale."
+}

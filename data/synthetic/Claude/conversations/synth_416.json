@@ -1,0 +1,193 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.28,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, luați loc vă rog."
+    },
+    {
+      "start": 2.4,
+      "end": 14.18,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, mulțumesc. Sper că nu vă deranjez, știu că e aproape de prânz, am văzut că mai era o doamnă pe hol și ziceam că poate întârzii, dar am reușit."
+    },
+    {
+      "start": 14.3,
+      "end": 20.38,
+      "speaker": "SPEAKER_00",
+      "text": "Nici o problemă, suntem ok cu timpul. Spuneți-mi, vă rog, cu ce problemă vă confruntați."
+    },
+    {
+      "start": 20.5,
+      "end": 34.56,
+      "speaker": "SPEAKER_01",
+      "text": "Păi mă doare umărul, cel stâng, de vreo două săptămâni și jumătate. Inițial am zis că trece, că am mai pățit ceva asemănător acum câțiva ani și a trecut de la sine, dar acum nu mai trece."
+    },
+    {
+      "start": 34.68,
+      "end": 39.24,
+      "speaker": "SPEAKER_00",
+      "text": "Umărul stâng, ok. Și durerea e continuă sau apare la anumite mișcări?"
+    },
+    {
+      "start": 39.36,
+      "end": 51.9,
+      "speaker": "SPEAKER_01",
+      "text": "Apare mai mult la mișcare, când ridic mâna, mai ales când încerc să ajung la ceva sus, la raft de exemplu. Sau când mă întorc noaptea pe partea stângă, mă trezesc din somn."
+    },
+    {
+      "start": 52.02,
+      "end": 61.14,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 înseamnă durere maximă, cât ați spune?"
+    },
+    {
+      "start": 61.26,
+      "end": 72.66,
+      "speaker": "SPEAKER_01",
+      "text": "Când ridic mâna sus aș zice un 7. Noaptea, când mă culc pe el, poate chiar un 8. Când stau liniștit, dacă nu-l mișc, e un 2, maxim 3."
+    },
+    {
+      "start": 72.78,
+      "end": 79.62,
+      "speaker": "SPEAKER_00",
+      "text": "Deci la mișcare 7, noaptea 8. Și există ceva care a declanșat durerea asta? Un efort, o căzătură?"
+    },
+    {
+      "start": 79.74,
+      "end": 101.4,
+      "speaker": "SPEAKER_01",
+      "text": "Păi nu știu exact, sincer. Am mutat niște mobilă, eram singur acasă, am tras un dulap greu. A doua zi dimineață m-am trezit cu umărul cam țeapăn și de atunci tot mai rău. Probabil de la dulap, nu? Soția mea zice că sigur de acolo, că i-am zis că era prea greu pentru unul singur."
+    },
+    {
+      "start": 101.52,
+      "end": 108.36,
+      "speaker": "SPEAKER_00",
+      "text": "Foarte posibil, da. Se lasă durerea și în altă parte, pe braț în jos, sau e strict umărul?"
+    },
+    {
+      "start": 108.48,
+      "end": 120.64,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, e mai mult acolo, în umăr. Uneori simt ceva și spre ceafă, dar nu știu dacă e legat sau e de la stres, că am o perioadă mai aglomerată la serviciu."
+    },
+    {
+      "start": 120.76,
+      "end": 122.66,
+      "speaker": "SPEAKER_00",
+      "text": "Spre ceafă. Și brațul amorțește?"
+    },
+    {
+      "start": 122.78,
+      "end": 126.2,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, amorțeală nu am. Degetele nu, nimic din astea."
+    },
+    {
+      "start": 126.32,
+      "end": 129.74,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ați luat ceva pentru durere în perioada asta?"
+    },
+    {
+      "start": 129.86,
+      "end": 138.22,
+      "speaker": "SPEAKER_01",
+      "text": "Am pus un gel, Voltaren, seara, câteva zile. Părea că ajută un pic dar nu a rezolvat nimic. Nu am luat pastile."
+    },
+    {
+      "start": 138.34,
+      "end": 143.28,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, deci Voltaren gel local. Alte afecțiuni, tensiune, diabet, vreo problemă la inimă?"
+    },
+    {
+      "start": 143.4,
+      "end": 156.32,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea. Sunt relativ sănătos, merg la control periodic și nu mi-a găsit nimic. Am 38 de ani, nu fumez, mai beau un pahar de vin la weekend, atât."
+    },
+    {
+      "start": 156.44,
+      "end": 159.1,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Fracturi sau operații la umăr, vreodată?"
+    },
+    {
+      "start": 159.22,
+      "end": 165.3,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată. Am mai avut o entorsă la gleznă acum mulți ani, dar la umăr nu."
+    },
+    {
+      "start": 165.42,
+      "end": 170.74,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți să faceți câteva mișcări să vedem amplitudinea. Ridicați mâna stângă înainte, încet."
+    },
+    {
+      "start": 170.86,
+      "end": 173.9,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, mai sus deja mă jenează."
+    },
+    {
+      "start": 174.02,
+      "end": 180.48,
+      "speaker": "SPEAKER_00",
+      "text": "Deci abducția anterioară e limitată cam la 90 de grade, dincolo de orizontală durere. Acum ridicați lateral."
+    },
+    {
+      "start": 180.6,
+      "end": 182.88,
+      "speaker": "SPEAKER_01",
+      "text": "Lateral e și mai rău, vai."
+    },
+    {
+      "start": 183.0,
+      "end": 188.32,
+      "speaker": "SPEAKER_00",
+      "text": "Da, văd. Și acum duceți mâna la spate, ca și cum ați apuca centura."
+    },
+    {
+      "start": 188.44,
+      "end": 191.86,
+      "speaker": "SPEAKER_01",
+      "text": "Asta o pot face, merge, dar simt că trage."
+    },
+    {
+      "start": 191.98,
+      "end": 204.52,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Deci rotația internă e prezentă, dar abducția e limitată și dureroasă. Asta sugerează o inflamație la nivelul tendoanelor manșetei rotatorilor, cel mai probabil supraspinosul. Vrem să reducem inflamația și să recuperăm mobilitatea."
+    },
+    {
+      "start": 204.64,
+      "end": 214.14,
+      "speaker": "SPEAKER_01",
+      "text": "Adică e ceva grav? Trebuie operație? Că m-a speriat un pic când am căutat pe internet și scria de rupturi și nu știu ce."
+    },
+    {
+      "start": 214.26,
+      "end": 229.46,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, în stadiul acesta nu vedem semne de ruptură. E o inflamație, se poate lucra bine cu terapie manuală și exerciții. Dacă nu răspunde, atunci eventual facem o ecografie să vedem mai precis, dar deocamdată nu e cazul de panică."
+    },
+    {
+      "start": 229.58,
+      "end": 234.9,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine, mă liniștește asta. Și cât timp durează, cam, să mă fac bine?"
+    },
+    {
+      "start": 235.02,
+      "end": 242.62,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde cum răspunde, dar cu câteva ședințe regulate ar trebui să simțiți o îmbunătățire clară. Haideți să trecem la treabă."
+    }
+  ]
+}

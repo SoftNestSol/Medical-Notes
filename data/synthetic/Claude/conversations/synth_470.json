@@ -1,0 +1,439 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 4.46,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi numele, vă rog."
+    },
+    {
+      "start": 4.58,
+      "end": 5.38,
+      "speaker": "SPEAKER_01",
+      "text": "Gheorghe Marin."
+    },
+    {
+      "start": 5.5,
+      "end": 8.54,
+      "speaker": "SPEAKER_00",
+      "text": "Domnule Marin, cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 8.66,
+      "end": 17.78,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... mă doare șoldul. De ceva vreme. Dreptul. Și sincer să fiu, m-am tot amânat să vin, dar acum chiar nu mai pot."
+    },
+    {
+      "start": 17.9,
+      "end": 20.18,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. De cât timp vă doare?"
+    },
+    {
+      "start": 20.3,
+      "end": 29.8,
+      "speaker": "SPEAKER_01",
+      "text": "Serios a început acum vreo trei săptămâni, dar parcă și înainte mai simțeam câte ceva. Nu știu, poate de mai mult. Două luni, trei luni?"
+    },
+    {
+      "start": 29.92,
+      "end": 34.1,
+      "speaker": "SPEAKER_00",
+      "text": "Și acum trei săptămâni s-a intensificat, sau a apărut brusc?"
+    },
+    {
+      "start": 34.22,
+      "end": 44.86,
+      "speaker": "SPEAKER_01",
+      "text": "S-a intensificat. Adică eu am mers pe jos mai mult, am fost la munte cu familia, vreo patru zile, și de acolo... s-a declanșat mai rău."
+    },
+    {
+      "start": 44.98,
+      "end": 52.2,
+      "speaker": "SPEAKER_00",
+      "text": "Și după ce v-ați întors de la munte a rămas la intensitatea aia sau s-a mai calmat?"
+    },
+    {
+      "start": 52.32,
+      "end": 56.5,
+      "speaker": "SPEAKER_01",
+      "text": "A mai scăzut un pic, dar tot e acolo. Nu dispare."
+    },
+    {
+      "start": 56.62,
+      "end": 62.7,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Durerea asta o simțiți fix în zona șoldului, sau se lasă și în altă parte?"
+    },
+    {
+      "start": 62.82,
+      "end": 72.32,
+      "speaker": "SPEAKER_01",
+      "text": "Mmm... mai mult în șold, dar câteodată simt ceva și pe fața... pe fața din afară a coapsei, în jos. Până la jumătatea coapsei poate."
+    },
+    {
+      "start": 72.44,
+      "end": 76.62,
+      "speaker": "SPEAKER_00",
+      "text": "Pe fața externă a coapsei. Se coboară mai jos de genunchi?"
+    },
+    {
+      "start": 76.74,
+      "end": 80.16,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu. Până pe la jumătatea coapsei, cam atât."
+    },
+    {
+      "start": 80.28,
+      "end": 84.46,
+      "speaker": "SPEAKER_00",
+      "text": "E o durere continuă, sau o simțiți mai mult la mișcare?"
+    },
+    {
+      "start": 84.58,
+      "end": 94.08,
+      "speaker": "SPEAKER_01",
+      "text": "La mișcare mai rău. Când mă ridic de pe scaun, primii pași sunt... vai de mine. Și când urc scările. Da, la urcat mai ales."
+    },
+    {
+      "start": 94.2,
+      "end": 96.1,
+      "speaker": "SPEAKER_00",
+      "text": "Și stând jos, relaxat, dispare?"
+    },
+    {
+      "start": 96.22,
+      "end": 101.16,
+      "speaker": "SPEAKER_01",
+      "text": "Dispare mai mult, da. Dar dacă stau prea mult tot apare un disconfort."
+    },
+    {
+      "start": 101.28,
+      "end": 110.02,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, unde ați pune durerea la mișcare?"
+    },
+    {
+      "start": 110.14,
+      "end": 112.42,
+      "speaker": "SPEAKER_01",
+      "text": "La mișcare... un 7. Da, 7."
+    },
+    {
+      "start": 112.54,
+      "end": 113.68,
+      "speaker": "SPEAKER_00",
+      "text": "Și în repaus?"
+    },
+    {
+      "start": 113.8,
+      "end": 117.22,
+      "speaker": "SPEAKER_01",
+      "text": "Aaah... poate un 2, un 3. Dacă stau liniștit."
+    },
+    {
+      "start": 117.34,
+      "end": 121.52,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ați mai avut vreo lovitură la șold, vreun traumatism, cădere?"
+    },
+    {
+      "start": 121.64,
+      "end": 129.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu cred. Nu-mi amintesc să fi căzut. Poate la munte am călcat greșit de câteva ori, dar cădere nu."
+    },
+    {
+      "start": 129.74,
+      "end": 131.26,
+      "speaker": "SPEAKER_00",
+      "text": "Dumneavoastră ce vârstă aveți?"
+    },
+    {
+      "start": 131.38,
+      "end": 132.18,
+      "speaker": "SPEAKER_01",
+      "text": "54."
+    },
+    {
+      "start": 132.3,
+      "end": 133.82,
+      "speaker": "SPEAKER_00",
+      "text": "Și ce ocupație aveți?"
+    },
+    {
+      "start": 133.94,
+      "end": 138.12,
+      "speaker": "SPEAKER_01",
+      "text": "Șofer de TIR. Deci stau mult pe scaun, știți cum e."
+    },
+    {
+      "start": 138.24,
+      "end": 142.04,
+      "speaker": "SPEAKER_00",
+      "text": "Da, înțeleg. Câte ore aproximativ pe zi stați în mașină?"
+    },
+    {
+      "start": 142.16,
+      "end": 145.58,
+      "speaker": "SPEAKER_01",
+      "text": "Depinde de cursă. Uneori și 8, și 10 ore."
+    },
+    {
+      "start": 145.7,
+      "end": 151.78,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Acum câteva întrebări despre starea generală de sănătate. Aveți tensiune arterială, diabet, probleme la inimă?"
+    },
+    {
+      "start": 151.9,
+      "end": 157.6,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Mi-a spus doctorul că am hipertensiune și iau ceva pentru ea."
+    },
+    {
+      "start": 157.72,
+      "end": 159.62,
+      "speaker": "SPEAKER_00",
+      "text": "Ce medicament luați pentru tensiune?"
+    },
+    {
+      "start": 159.74,
+      "end": 162.4,
+      "speaker": "SPEAKER_01",
+      "text": "Amlodipină. 5 miligrame, o dată pe zi."
+    },
+    {
+      "start": 162.52,
+      "end": 165.94,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Altceva mai luați, ceva pentru durere, vreun antiinflamator?"
+    },
+    {
+      "start": 166.06,
+      "end": 173.28,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am luat Diclofenac câteva zile când m-a durut mai rău. Nu în fiecare zi, dar mai iau."
+    },
+    {
+      "start": 173.4,
+      "end": 176.44,
+      "speaker": "SPEAKER_00",
+      "text": "Și acum îl luați sau v-ați oprit?"
+    },
+    {
+      "start": 176.56,
+      "end": 179.98,
+      "speaker": "SPEAKER_01",
+      "text": "Acum nu iau, m-am oprit de vreo săptămână."
+    },
+    {
+      "start": 180.1,
+      "end": 181.24,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Diabet avem?"
+    },
+    {
+      "start": 181.36,
+      "end": 182.16,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 182.28,
+      "end": 183.8,
+      "speaker": "SPEAKER_00",
+      "text": "Osteoporoză, probleme cu oasele?"
+    },
+    {
+      "start": 183.92,
+      "end": 197.22,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu... adică nu mi s-a spus nimic. Dar asta mă îngrijorează, știți? Că am 54 de ani și mă gândesc, oare nu e ceva mai grav? Nu e artroză sau ceva de genul?"
+    },
+    {
+      "start": 197.34,
+      "end": 204.18,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg că vă îngrijorează. Haideți să facem evaluarea și vedem ce se întâmplă. Ați făcut radiografie la șold?"
+    },
+    {
+      "start": 204.3,
+      "end": 211.52,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, n-am făcut nimic. De-aia și întreb, ar trebui să fac? E periculos să fac terapie fără?"
+    },
+    {
+      "start": 211.64,
+      "end": 221.52,
+      "speaker": "SPEAKER_00",
+      "text": "Dacă după evaluare considerăm că e necesar, vă recomand să faceți. Dar haideți să vedem mai întâi ce găsim la examinare. Altceva în antecedente, operații, fracturi?"
+    },
+    {
+      "start": 221.64,
+      "end": 225.44,
+      "speaker": "SPEAKER_01",
+      "text": "Am operat apendicita acum mulți ani, vreo 20. Altceva nu."
+    },
+    {
+      "start": 225.56,
+      "end": 226.36,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Alergii?"
+    },
+    {
+      "start": 226.48,
+      "end": 227.28,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 227.4,
+      "end": 233.1,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să faceți câțiva pași prin cabinet. Mergeți normal până la perete și întoarceți-vă."
+    },
+    {
+      "start": 233.22,
+      "end": 234.02,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 234.14,
+      "end": 240.98,
+      "speaker": "SPEAKER_00",
+      "text": "Observ că pășiți un pic mai scurt pe dreapta, evitați să puneți greutatea pe șoldul drept. Simțiți asta?"
+    },
+    {
+      "start": 241.1,
+      "end": 243.76,
+      "speaker": "SPEAKER_01",
+      "text": "Da, instinctiv evit. Că doare când apăs."
+    },
+    {
+      "start": 243.88,
+      "end": 252.24,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Acum stați în picioare, vă rog. O să apăs puțin pe zona din fața șoldului, trohanterul mare. Dacă doare, îmi spuneți."
+    },
+    {
+      "start": 252.36,
+      "end": 255.02,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, da, acolo doare! Asta e zona."
+    },
+    {
+      "start": 255.14,
+      "end": 258.18,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10?"
+    },
+    {
+      "start": 258.3,
+      "end": 260.2,
+      "speaker": "SPEAKER_01",
+      "text": "Acum când ați apăsat... 6."
+    },
+    {
+      "start": 260.32,
+      "end": 266.4,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum vreau să ridicați piciorul drept, îndoind genunchiul, ca și cum ați urca o treaptă."
+    },
+    {
+      "start": 266.52,
+      "end": 269.56,
+      "speaker": "SPEAKER_01",
+      "text": "Ugh... doare. Doare în față și în lateral."
+    },
+    {
+      "start": 269.68,
+      "end": 272.34,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și pe stânga, faceți la fel."
+    },
+    {
+      "start": 272.46,
+      "end": 274.36,
+      "speaker": "SPEAKER_01",
+      "text": "Pe stânga merge, nu doare."
+    },
+    {
+      "start": 274.48,
+      "end": 282.46,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum vă rugați să vă întindeți pe masă. Voi face rotația șoldului intern și extern, și îmi spuneți ce simțiți."
+    },
+    {
+      "start": 282.58,
+      "end": 285.62,
+      "speaker": "SPEAKER_01",
+      "text": "Rotația spre interior... uf, asta doare mai mult."
+    },
+    {
+      "start": 285.74,
+      "end": 291.06,
+      "speaker": "SPEAKER_00",
+      "text": "Deci rotația internă e limitată și dureroasă pe dreapta. Bine, și acum spre exterior."
+    },
+    {
+      "start": 291.18,
+      "end": 293.08,
+      "speaker": "SPEAKER_01",
+      "text": "Asta merge mai bine, da."
+    },
+    {
+      "start": 293.2,
+      "end": 315.62,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Domnule Marin, pe baza a ce am văzut, avem o inflamație la nivelul tendonului mușchilor abductori, în zona trohanterului mare, probabil agravată de efortul de la munte și de postura pe care o aveți în mașină ore în șir. Nu pare să fie o problemă articulară profundă, dar fără imagistică nu pot exclude complet o componentă artrozică."
+    },
+    {
+      "start": 315.74,
+      "end": 320.68,
+      "speaker": "SPEAKER_01",
+      "text": "Deci e bursită? Am citit pe internet despre bursită de șold. Ăsta e?"
+    },
+    {
+      "start": 320.8,
+      "end": 332.2,
+      "speaker": "SPEAKER_00",
+      "text": "Poate fi și o tendinopatie a abductorilor sau o bursită trohanterică, da, acestea sunt cele mai frecvente la ce descrieți. Vom lucra să reducem inflamația și să refacem mobilitatea șoldului."
+    },
+    {
+      "start": 332.32,
+      "end": 336.12,
+      "speaker": "SPEAKER_01",
+      "text": "Și o să treacă? Adică nu trebuie operație sau ceva?"
+    },
+    {
+      "start": 336.24,
+      "end": 346.88,
+      "speaker": "SPEAKER_00",
+      "text": "La ce vedem acum nu e cazul de operație. Vom începe cu terapia manuală, vedem cum răspundeți în primele ședințe, și dacă e necesar vă trimit la imagistică."
+    },
+    {
+      "start": 347.0,
+      "end": 351.18,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, bine. Îmi pare bine că nu e ceva îngrozitor. Mersi."
+    }
+  ]
+}

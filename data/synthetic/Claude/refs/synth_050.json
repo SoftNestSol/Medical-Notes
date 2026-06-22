@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Dureri cervicale si umar drept, cu iradiere in brat drept si cefalee matinala, aparute in context de postura vicioasa la calculator",
+  "evaluarea_durerii_vas": 8,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": "brat drept (iradiere)",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "apendicectomie in antecedente",
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "5 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contractura musculara cervicala importanta, predominant dreapta, cu iradiere spre umar drept; posibila afectare disc cervical (fara semne neurologice severe confirmate). Obiective terapeutice: reducerea contracturii musculare, eliberarea tensiunii cervicale, recuperarea mobilitatii cervicale, lucru pe umar drept."
+}

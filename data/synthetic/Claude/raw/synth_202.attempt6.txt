@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, vă rog, cu ce problemă vă confruntați.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar. De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Am stat mult la birou.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare extrem de tare, cât îi dați?\nSPEAKER_01: Un 5.\nSPEAKER_00: 5. Durerea rămâne acolo, în zona lombară, sau se lasă și pe picior?\nSPEAKER_01: Rămâne acolo.\nSPEAKER_00: Nu coboară pe fesă, pe coapsă?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțesc picioarele vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Doare mai tare când stați jos sau când vă ridicați?\nSPEAKER_01: Când stau jos mult.\nSPEAKER_00: Și când vă ridicați din scaun?\nSPEAKER_01: Da, atunci și.\nSPEAKER_00: Dar dacă mergeți, vă mai doare?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Am înțeles. Luați vreun medicament acum, pastile pentru durere, ceva?\nSPEAKER_01: Ibuprofen, uneori.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Când nu mai pot.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, osteoporoză, hernie de disc știută?\nSPEAKER_01: Nu știu de hernie. Tensiune nu am.\nSPEAKER_00: Diabet?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă văd puțin cum stați în picioare. Întoarceți-vă cu spatele la mine. Vedem o ușoară tensionare a musculaturii paravertebrale lombare, mai ales pe dreapta. Aplecați-vă puțin în față, cât puteți. Doare?\nSPEAKER_01: Da, aici.\nSPEAKER_00: Și când vă îndreptați?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Deci avem o contractură musculară lombară, cel mai probabil pe fond de postură. Trebuie să lucrăm să reducem tensiunea musculară și să corectăm un pic postura. Sunteți de acord să începem azi?\nSPEAKER_01: Da.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară instalată de aproximativ două săptămâni, apărută după stat prelungit la birou. Durere locală, fără iradiere pe membrele inferioare, fără amorțeli. VAS 5/10. Se accentuează la șezut prelungit și la ridicarea din scaun, ameliorată la mers.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nTensionare musculatură paravertebrală lombară, mai accentuată pe dreapta. Durere la flexia anterioară a trunchiului și la revenire.\nDiagnostic:\nContractură musculară lombară pe fond de postură (șezut prelungit).\nObiective terapeutice:\nReducerea tensiunii musculare lombare; corectarea posturii."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele",
+      "Jos",
+      "Am stat mult la birou",
+      "Vreo două săptămâni",
+      "Rămâne acolo",
+      "Nu",
+      "Când stau jos mult",
+      "Da, atunci și",
+      "Mai puțin"
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Jos",
+      "zona lombară"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofen, uneori."
+    ],
+    "evaluare_functionala_initiala": [
+      "Vedem o ușoară tensionare a musculaturii paravertebrale lombare, mai ales pe dreapta.",
+      "Deci avem o contractură musculară lombară, cel mai probabil pe fond de postură.",
+      "Trebuie să lucrăm să reducem tensiunea musculară și să corectăm un pic postura."
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "Durere umar stang, aparuta probabil dupa efort la sala de fitness, de aproximativ trei saptamani. Durere la ridicarea bratului si intinderea mainii sus, accentuata noaptea.",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame dimineata"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- tendinopatie coafa rotatorilor umar stang (inflamatie tendon supraspinos)\nObiective terapeutice:\n- reducerea inflamatiei\n- refacerea mobilitatii complete a umarului"
+}

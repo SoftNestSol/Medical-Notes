@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă venim astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut din senin sau după ceva anume?\nSPEAKER_01: Am zugrăvit acasă. Cam de atunci.\nSPEAKER_00: Înțeles. Deci cu brațul ridicat mult timp.\nSPEAKER_01: Da.\nSPEAKER_00: Și acum doare constant sau doar la mișcare?\nSPEAKER_01: Doar când ridic brațul.\nSPEAKER_00: Ridică brațul pentru mine acum, până unde poți.\nSPEAKER_01: Până pe la nivelul ăsta... Au.\nSPEAKER_00: Cam la 90 de grade te oprești.\nSPEAKER_01: Da, cam acolo.\nSPEAKER_00: Și mai sus de atât nu poți deloc?\nSPEAKER_01: Pot, dar doare rău.\nSPEAKER_00: Pe o scară de la 0 la 10, la mișcarea asta cât ar fi?\nSPEAKER_01: Un 7.\nSPEAKER_00: 7. Și în repaus, când stai liniștit?\nSPEAKER_01: Vreo 2, 3.\nSPEAKER_00: Deci și în repaus simți ceva.\nSPEAKER_01: Da, mai ales noaptea.\nSPEAKER_00: Te trezește din somn?\nSPEAKER_01: Uneori.\nSPEAKER_00: Pe ce parte dormi de obicei?\nSPEAKER_01: Pe stânga.\nSPEAKER_00: Aha, asta poate agrava. Doare și spre gât sau e strict umărul?\nSPEAKER_01: E mai mult umărul. Puțin și pe braț, în jos.\nSPEAKER_00: Pe braț, pe ce parte? Pe față sau pe exterior?\nSPEAKER_01: Exterior.\nSPEAKER_00: Până unde coboară?\nSPEAKER_01: Până pe la mijlocul brațului. Nu mai jos.\nSPEAKER_00: Bine. Amorțeală în mână, în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stai puțin cu brațul pe lângă corp, relaxat. Îți apăs puțin aici pe umăr, îmi spui dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Și aici?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Acum ridică brațul cu cotul îndoit, aşa... Doare?\nSPEAKER_01: Da, dar mai puțin decât drept.\nSPEAKER_00: Înțeles. Altă treabă, tensiune, diabet, osteoporoză, vreo afecțiune pe care o știi?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații la umăr vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente acum, iei ceva?\nSPEAKER_01: Nu iau nimic.\nSPEAKER_00: Radiografie sau RMN la umăr ai făcut?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Deci durerea a apărut după efort susținut cu brațul ridicat, la zugrăvit, acum două săptămâni. Avem limitare la ridicarea brațului, durere la palpare pe zona deltoidului și a acromionului, mai sensibil sus. Semnul ăsta cu cotul îndoit mai puțin dureros îmi spune că e vorba de o inflamație la nivelul tendonului din umăr, cel mai probabil o tendinită de supraspinat. O să lucrăm să scădem inflamația, să eliberăm zona și să recuperezi mobilitatea completă.\nSPEAKER_01: Cât o să dureze?\nSPEAKER_00: Depinde cum răspunde, dar în general câteva ședințe. Și te rog să nu mai dormi pe partea stângă deocamdată.\nSPEAKER_01: Ok.\nSPEAKER_00: Hai să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng apărută după zugrăvit, de aproximativ două săptămâni, cu limitarea ridicării brațului și durere nocturnă.",
+    "evaluarea_durerii_vas": [7, 2],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": "braț stâng, față exterioară, până la mijlocul brațului",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Limitare la ridicarea brațului stâng la aproximativ 90 de grade. Durere la palpare pe zona deltoidului și acromionului. Semnul abducției cu cotul îndoit pozitiv (mai puțin dureros decât abducția dreaptă). Diagnostic: tendinită de supraspinat. Obiective terapeutice: reducerea inflamației, eliberarea zonei, recuperarea mobilității complete."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am zugrăvit acasă. Cam de atunci.", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un 7.", "Vreo 2, 3."],
+    "localizarea_durerii": ["Stângul.", "E mai mult umărul."],
+    "localizarea_durerii_alta": ["Puțin și pe braț, în jos.", "Exterior.", "Până pe la mijlocul brațului. Nu mai jos."],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Cam la 90 de grade te oprești.", "Durere la palpare pe zona deltoidului și a acromionului, mai sensibil sus.", "Semnul ăsta cu cotul îndoit mai puțin dureros îmi spune că e vorba de o inflamație la nivelul tendonului din umăr, cel mai probabil o tendinită de supraspinat.", "O să lucrăm să scădem inflamația, să eliberăm zona și să recuperezi mobilitatea completă."]
+  }
+}

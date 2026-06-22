@@ -1,0 +1,35 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamna!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Ionescu Mihaela.\nSPEAKER_00: Și vârsta?\nSPEAKER_01: 38 de ani. Păi da, 38, chiar am făcut zilele trecute.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare gâtul, da, zona de ceafă, și am și niște amețeli, nu știu dacă sunt legate, că am citit pe internet că pot fi legate și m-am speriat un pic. Am zis să vin să văd ce e, că prietena mea a venit și la dumneavoastră și i-a trecut durerea de spate și mi-a zis să încerc.\nSPEAKER_00: Înțeles. Deci zona de ceafă și gât. De cât timp?\nSPEAKER_01: Păi de vreo trei săptămâni, cam așa. A început după ce am dormit prost într-o noapte, știți cum e, cu gâtul strâmb, și de atunci nu mi-a mai trecut. Ba mai bine, ba mai rău.\nSPEAKER_00: Și amețelile când apar?\nSPEAKER_01: Dimineața mai mult, când mă ridic repede din pat. Dar nu știu, poate e altceva, poate e tensiunea, nu știu. M-a speriat că am citit că poate fi ceva la coloana cervicală și poate afecta circulația și...\nSPEAKER_00: Ok, lăsați, o să verificăm. Pe o scară de la 0 la 10, cât de tare doare zona de ceafă?\nSPEAKER_01: Așa, un 6. Când întorc capul spre dreapta doare mai tare, poate un 8.\nSPEAKER_00: Deci 6 în repaus și 8 la rotație spre dreapta.\nSPEAKER_01: Da, exact. Și mai am și o durere de cap câteodată, tot din zona asta, parcă pornește din ceafă și urcă.\nSPEAKER_00: Se lasă durerea pe braț, pe mână, amorțeli?\nSPEAKER_01: Nu, nu, pe braț nu. Doar capul ăsta care doare uneori.\nSPEAKER_00: Ați luat ceva pentru durere?\nSPEAKER_01: Am luat un Nurofen acum vreo săptămână când m-a durut mai tare, dar nu în mod regulat. Și am un gel, Voltaren, îl mai pun seara pe ceafă, dar nu știu dacă ajută.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, probleme la inimă?\nSPEAKER_01: Nu, nu am nimic. Sunt sănătoasă, doar stresată. Lucrez la calculator toată ziua, opt ore, uneori zece, și știu că nu stau bine, mi-a zis și soțul că stau cocoșată, dar ce să fac.\nSPEAKER_00: Am înțeles. Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu, niciodată.\nSPEAKER_00: Bun. Haideți să vă evaluez un pic. Puneți capul drept, relaxat.\nSPEAKER_01: Ok.\nSPEAKER_00: Întoarceți ușor spre dreapta.\nSPEAKER_01: Au, da, acolo doare.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: E mai bine, dar tot simt ceva.\nSPEAKER_00: Acum aplecați capul înainte.\nSPEAKER_01: Da, merge, nu doare așa rău.\nSPEAKER_00: Vă apăs puțin pe musculatura de ceafă, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo, pe partea dreaptă, acolo e mai rău.\nSPEAKER_00: Pe trapez doare?\nSPEAKER_01: Da, și acolo. Chiar aseară m-a durut și umărul drept, tot din cauza asta cred.\nSPEAKER_00: Umărul drept a durut aseară, dar în mod curent?\nSPEAKER_01: Nu, nu în mod curent, aseară a fost prima oară. Poate am stat prost.\nSPEAKER_00: Am înțeles. Deci avem o contractură musculară semnificativă la nivel cervical, mai ales pe partea dreaptă, cu afectarea trapezului și a mușchilor suboccipitali. Asta explică și durerile de cap pe care le aveți. Obiectivul nostru e să reducem contractura și să refacem mobilitatea cervicală, ok?\nSPEAKER_01: Da, și amețelile dispar?\nSPEAKER_00: Pe măsură ce se eliberează tensiunea musculară, da, de obicei se ameliorează. Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere zona ceafa si gat, amețeli",
+    "evaluarea_durerii_vas": [6, 8],
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      },
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractura musculara cervicala, afectare trapez si muschi suboccipitali dr.\nObiective terapeutice: reducerea contracturii, refacerea mobilitatii cervicale"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul, da, zona de ceafă, și am și niște amețeli"],
+    "evaluarea_durerii_vas": ["Așa, un 6. Când întorc capul spre dreapta doare mai tare, poate un 8."],
+    "localizarea_durerii": ["Mă doare gâtul, da, zona de ceafă", "parcă pornește din ceafă și urcă"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am luat un Nurofen acum vreo săptămână când m-a durut mai tare", "am un gel, Voltaren, îl mai pun seara pe ceafă"],
+    "evaluare_functionala_initiala": ["avem o contractură musculară semnificativă la nivel cervical, mai ales pe partea dreaptă, cu afectarea trapezului și a mușchilor suboccipitali", "Obiectivul nostru e să reducem contractura și să refacem mobilitatea cervicală"]
+  }
+}

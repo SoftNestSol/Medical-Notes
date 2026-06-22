@@ -1,0 +1,67 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamna!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi și mie numele complet, vă rog.\nSPEAKER_01: Ionescu Mihaela.\nSPEAKER_00: Mulțumesc, doamna Ionescu. Și vârsta?\nSPEAKER_01: 47 de ani. Da, știu, arăt mai mult, din cauza stresului probabil.\nSPEAKER_00: Nu, nu, deloc. Cum ați aflat de noi?\nSPEAKER_01: O colegă de la serviciu, Anca, a venit la dumneavoastră acum vreo două luni și a zis că i-a mers bine cu niște dureri de spate. Și eu tot amânasem, că nu prea am timp, știți cum e, am doi copii, serviciu, casă... dar nu mai pot.\nSPEAKER_00: Înțeles. Spuneți-mi, vă rog, cu ce problemă ne vedem?\nSPEAKER_01: Mă doare gâtul și umărul, pe partea dreaptă. Adică în zona asta, ceafa, și se duce și pe umăr. Și câteodată simt și un pic pe braț în jos, dar nu mereu.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Păi... să zic vreo trei luni. Dar mai slab a mai fost și înainte, sincer. Adică îmi mai apărea câte o zi-două și trecea. Acum nu mai trece, stă.\nSPEAKER_00: Constant sau mai rău la anumite momente?\nSPEAKER_01: Mai rău dimineața când mă trezesc, că nu știu cum dorm, și după ce stau mult la calculator la serviciu. Eu lucrez în contabilitate, tot la birou, câte opt-nouă ore pe zi la ecran.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare maxim, cât de tare o situați?\nSPEAKER_01: Dimineața e un șapte clar. După ce mă dezmorțesc puțin, mai scade, poate un cinci. La calculator iar urcă.\nSPEAKER_00: Deci un 7 dimineața și un 5 pe parcursul zilei.\nSPEAKER_01: Da, cam așa. Uneori simt și o amorțeală pe degetele astea, arătătorul și mijlociul, dar nu știu dacă are legătură.\nSPEAKER_00: Are probabil. Brațul drept?\nSPEAKER_01: Da, drept.\nSPEAKER_00: Și durerea din umăr, se lasă sub cot sau se oprește pe undeva la mijlocul brațului?\nSPEAKER_01: Nu coboară chiar sub cot. Pe la jumătatea brațului, maxim.\nSPEAKER_00: Ok. Când întoarceți capul la dreapta, se înrăutățește?\nSPEAKER_01: Da! Aia e cel mai rău. Nici în oglindă când merg cu mașina nu pot să întorc bine capul, și sincer mi-e frică să conduc. Mi-e teamă să nu fac vreun accident că nu văd în spate.\nSPEAKER_00: Înțeles, e important ce spuneți. Și la stânga?\nSPEAKER_01: La stânga e ok, nu mă doare.\nSPEAKER_00: Bun. Ați făcut vreo investigație, radiografie, RMN?\nSPEAKER_01: Am făcut o radiografie acum două luni la medicul de familie. A zis că am o ușoară pensare la nivelul vertebrelor cervicale, cred că a zis C5-C6, dar n-am înțeles exact ce înseamnă. Mi-a dat niște medicamente și atât, nu m-a trimis mai departe.\nSPEAKER_00: Ce medicamente v-a dat?\nSPEAKER_01: Un antiinflamator, Ibuprofen, 400 de miligrame. Și un miorelaxant, Mydocalm, cred că 150 de miligrame. Le iau de vreo trei săptămâni, dar sincer nu simț că ajută prea mult. Poate puțin miorelaxantul, că mai dorm, dar durerea nu pleacă.\nSPEAKER_00: Le luați zilnic?\nSPEAKER_01: Ibuprofenul nu, că mi-e frică pentru stomac. Îl iau când nu mai pot. Mydocalm îl iau aproape zilnic, seara.\nSPEAKER_00: Am înțeles. Alte afecțiuni mai aveți? Tensiune, diabet, probleme de inimă?\nSPEAKER_01: Da, am tensiune. Am tensiune arterială de vreo doi ani. Iau pastile pentru asta, Enalapril, 10 miligrame, în fiecare dimineață. Altceva nu știu, în rest mă consider sănătoasă. Deși... am și puțin colesterol, dar nu iau nimic pentru asta, că doctorul a zis să încerc mai întâi cu dieta.\nSPEAKER_00: Colesterol ridicat, dar fără medicație pentru el.\nSPEAKER_01: Exact. Dieta... mai mult sau mai puțin. Știți cum e, cu doi copii nu prea ai timp de gătit sănătos.\nSPEAKER_00: Da, înțeleg. Intervenții chirurgicale?\nSPEAKER_01: Am avut o operație de apendicită acum vreo zece ani. Nimic altceva.\nSPEAKER_00: Fracturi, accidente?\nSPEAKER_01: Nu, nu. Sau... acum că ziceți, am căzut o dată de pe scări acum vreo șapte-opt ani, m-am lovit la spate, dar a trecut. Nu m-am dus la medic atunci.\nSPEAKER_00: Și înainte de această problemă cu gâtul, aveați dureri pe coloana lombară sau în altă parte?\nSPEAKER_01: Mă mai doare spatele la mijloc uneori, dar nu acum. Acum gâtul e problema principală. Lombarul mai vine și trece, nu e constant.\nSPEAKER_00: Înțeles. Stimulator cardiac, implant de vreun fel?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Boli de piele, alergii?\nSPEAKER_01: Nu știu de alergii, nu. La medicamente nu, cel puțin nu am știut până acum.\nSPEAKER_00: Bun. Acum haideți să fac câteva teste, dacă sunteți de acord.\nSPEAKER_01: Da, sigur. Eu sper să poți face ceva, că am citit pe internet tot felul de lucruri și m-am speriat un pic. Am văzut că poate fi hernie de disc cervicală și mi-e frică să nu rămân cu amorțeli permanente sau mai rău.\nSPEAKER_00: Înțeleg îngrijorarea, o să vedem exact ce se întâmplă. Hai să stați puțin în picioare, cu spatele drept. O să vă apăs ușor pe zona de ceafă, în mușchii trapez, și îmi spuneți dacă doare și pe unde simțiți.\nSPEAKER_01: Auuu, da, acolo, și se duce imediat pe umărul drept.\nSPEAKER_00: Se duce și pe braț în acel moment?\nSPEAKER_01: Un pic, da. Uite, pe aici.\nSPEAKER_00: Bun. Acum înclinați ușor capul spre dreapta.\nSPEAKER_01: Aaah, asta chiar doare. Nu pot prea mult.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: Merge mult mai bine.\nSPEAKER_00: Da, se vede. Rotația la dreapta, cum ați spus, limitată. O să vă mai apăs pe zona de pătrat, pe scaleni, pe partea dreaptă. Spuneți-mi dacă doare.\nSPEAKER_01: Da, și acolo. Vai, că nici nu știam că mă doare acolo până acum.\nSPEAKER_00: De obicei nu conștientizăm până nu apăsăm. Bun, doamna Ionescu. Ce pot să vă spun după ce am văzut și ce povestiți și testele, este că avem o inflamație importantă pe mușchii din zona cervicală, trapez, scaleni, și o mobilitate limitată la rotația și înclinarea spre dreapta. Tabloul clinic sugerează și o posibilă iritație pe rădăcina nervoasă, ceea ce ar explica amorțelile pe degete. Ar fi util să faceți un RMN cervical ca să vedem exact ce se întâmplă la nivel de discuri. Până atunci, putem să lucrăm pe reducerea inflamației musculare și pe recuperarea mobilității cervicale. O să fie nevoie de câteva ședințe, cel puțin patru-cinci, să vedem cum răspundeți.\nSPEAKER_01: Și o să treacă amorțelile? Că aia mă îngrijorează cel mai tare. Că am citit că dacă e nerv comprimat se poate agrava.\nSPEAKER_00: Tocmai de aceea e important RMN-ul. Dar în multe cazuri, după ce reducem inflamația și redăm mobilitatea, simptomele se ameliorează semnificativ. Nu vă promit în avans, dar prognosticul este rezonabil bun.\nSPEAKER_01: Ok, înțeleg. Și pot să conduc mașina?\nSPEAKER_00: Deocamdată, cu prudență, pe distanțe scurte. Faceți pauze, nu stați blocat cu gâtul într-o poziție.\nSPEAKER_01: Bine, bine. Și la serviciu, la calculator?\nSPEAKER_00: O să vorbim și despre postură după ședință. Haideți să trecem la treabă.\nSPEAKER_01: Da, gata, sunt pregătită.",
+
+  "note": {
+    "motivul_prezentarii": "Durere cervicala si umar drept, cu iradiere pe brat drept si amorteala degete, accentuata dimineata si la calculator",
+    "evaluarea_durerii_vas": [7, 5],
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": "brat drept (pana la jumatatea bratului), amorteala aratatorul si mijlociul mana dreapta",
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": "colesterol ridicat fara medicatie; operatie apendicita in antecedente",
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 miligrame"
+      },
+      {
+        "denumire": "Mydocalm",
+        "doza": "150 miligrame"
+      },
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie musculatura cervicala (trapez, scaleni); mobilitate limitata rotatie si inclinare dreapta; posibila iritatie radacina nervoasa cervicala\nObiective terapeutice: reducerea inflamatiei musculare; recuperarea mobilitatii cervicale; recomandat RMN cervical"
+  },
+
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul și umărul, pe partea dreaptă. Adică în zona asta, ceafa, și se duce și pe umăr. Și câteodată simt și un pic pe braț în jos, dar nu mereu.",
+      "Mai rău dimineața când mă trezesc, că nu știu cum dorm, și după ce stau mult la calculator la serviciu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Dimineața e un șapte clar. După ce mă dezmorțesc puțin, mai scade, poate un cinci."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul și umărul, pe partea dreaptă. Adică în zona asta, ceafa, și se duce și pe umăr.",
+      "Nici în oglindă când merg cu mașina nu pot să întorc bine capul"
+    ],
+    "localizarea_durerii_alta": [
+      "Și câteodată simt și un pic pe braț în jos, dar nu mereu.",
+      "Nu coboară chiar sub cot. Pe la jumătatea brațului, maxim.",
+      "simt și o amorțeală pe degetele astea, arătătorul și mijlociul"
+    ],
+    "antecedente": [
+      "Da, am tensiune. Am tensiune arterială de vreo doi ani."
+    ],
+    "antecedente_altele": [
+      "am și puțin colesterol, dar nu iau nimic pentru asta, că doctorul a zis să încerc mai întâi cu dieta.",
+      "Am avut o operație de apendicită acum vreo zece ani."
+    ],
+    "medicatie_actuala": [
+      "un antiinflamator, Ibuprofen, 400 de miligrame",
+      "un miorelaxant, Mydocalm, cred că 150 de miligrame",
+      "Enalapril, 10 miligrame, în fiecare dimineață"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație importantă pe mușchii din zona cervicală, trapez, scaleni, și o mobilitate limitată la rotația și înclinarea spre dreapta",
+      "Tabloul clinic sugerează și o posibilă iritație pe rădăcina nervoasă, ceea ce ar explica amorțelile pe degete.",
+      "putem să lucrăm pe reducerea inflamației musculare și pe recuperarea mobilității cervicale",
+      "Ar fi util să faceți un RMN cervical ca

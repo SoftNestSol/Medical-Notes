@@ -1,0 +1,48 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți astăzi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar, deci. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc. Am ridicat ceva.\nSPEAKER_00: Ați ridicat ceva greu.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum estimați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare constant sau mai mult când vă mișcați?\nSPEAKER_01: Când mă mișc. Când mă aplec.\nSPEAKER_00: Când vă aplecați în față doare mai tare.\nSPEAKER_01: Da.\nSPEAKER_00: Durerea se lasă și pe picior, pe fesă?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Amorțeli în picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Dimineața când vă treziți, vă ține?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Trece după ce vă mișcați?\nSPEAKER_01: Da, după câteva minute.\nSPEAKER_00: Ok. Aveți vreo afecțiune cunoscută, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio intervenție chirurgicală?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Ibuprofen.\nSPEAKER_00: Cât luați?\nSPEAKER_01: 400. Când e mai rău.\nSPEAKER_00: Ibuprofen 400, la nevoie. Altceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să vă văd puțin cum stați. Întoarceți-vă cu spatele la mine.\nSPEAKER_01: Așa?\nSPEAKER_00: Da. Aplecați-vă în față încet.\nSPEAKER_01: Au.\nSPEAKER_00: Doare la aplecare, da. Și înapoi?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin pe extensie. Bun. Stați puțin pe piciorul drept... vă ține?\nSPEAKER_01: Da.\nSPEAKER_00: Și stângul?\nSPEAKER_01: Da, și ăla.\nSPEAKER_00: Ok. Văd o ușoară tensionare pe paravertebral, mai mult pe dreapta. Apăs puțin aici, doare?\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Aici exact. Și mai jos?\nSPEAKER_01: Tot acolo cam.\nSPEAKER_00: Bun. Deci avem o contractură musculară paravertebrală lombară, apărută după un efort de ridicare. Mobilitatea e limitată la flexie. O să lucrăm să relaxăm musculatura și să recuperăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în jos.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută brusc după ridicare de greutate, de aproximativ două săptămâni. Durere la mișcare, în special la flexia trunchiului. Redoare matinală care cedează după câteva minute.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractură musculară paravertebrală lombară după efort de ridicare. Mobilitate limitată la flexie. Obiective terapeutice: relaxarea musculaturii paravertebrale și recuperarea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele",
+      "Am ridicat ceva",
+      "Vreo două săptămâni",
+      "Când mă aplec",
+      "Da, un pic",
+      "Da, după câteva minute"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Lombar, deci."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofen",
+      "400. Când e mai rău."
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară tensionare pe paravertebral, mai mult pe dreapta.",
+      "avem o contractură musculară paravertebrală lombară, apărută după un efort de ridicare. Mobilitatea e limitată la flexie. O să lucrăm să relaxăm musculatura și să recuperăm mobilitatea."
+    ]
+  }
+}

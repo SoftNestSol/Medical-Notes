@@ -1,0 +1,253 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună."
+    },
+    {
+      "start": 1.84,
+      "end": 5.64,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 5.76,
+      "end": 6.9,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare gâtul."
+    },
+    {
+      "start": 7.02,
+      "end": 8.54,
+      "speaker": "SPEAKER_00",
+      "text": "Gâtul. De cât timp?"
+    },
+    {
+      "start": 8.66,
+      "end": 9.8,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo trei zile."
+    },
+    {
+      "start": 9.92,
+      "end": 14.1,
+      "speaker": "SPEAKER_00",
+      "text": "Trei zile. Și a apărut brusc sau mai aveați durerea asta?"
+    },
+    {
+      "start": 14.22,
+      "end": 18.4,
+      "speaker": "SPEAKER_01",
+      "text": "Brusc. M-am trezit dimineața și nu puteam să mișc capul."
+    },
+    {
+      "start": 18.52,
+      "end": 28.02,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde v-ați situa acum?"
+    },
+    {
+      "start": 28.14,
+      "end": 28.94,
+      "speaker": "SPEAKER_01",
+      "text": "Un 6."
+    },
+    {
+      "start": 29.06,
+      "end": 34.38,
+      "speaker": "SPEAKER_00",
+      "text": "6. Durerea rămâne în zona gâtului sau se lasă și pe braț, pe umăr?"
+    },
+    {
+      "start": 34.5,
+      "end": 36.02,
+      "speaker": "SPEAKER_01",
+      "text": "Pe umăr, pe dreapta."
+    },
+    {
+      "start": 36.14,
+      "end": 39.18,
+      "speaker": "SPEAKER_00",
+      "text": "Pe umărul drept. Mai jos de umăr coboară?"
+    },
+    {
+      "start": 39.3,
+      "end": 40.1,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 40.22,
+      "end": 42.88,
+      "speaker": "SPEAKER_00",
+      "text": "Nu. Aveți și amorțeală, furnicături pe mână?"
+    },
+    {
+      "start": 43.0,
+      "end": 43.8,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 43.92,
+      "end": 51.9,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și dimineața când v-ați trezit, v-ați amintit dacă ați dormit ciudat, ați stat cu capul într-o poziție?"
+    },
+    {
+      "start": 52.02,
+      "end": 53.16,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu. Poate."
+    },
+    {
+      "start": 53.28,
+      "end": 56.32,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Luați vreun medicament în momentul de față?"
+    },
+    {
+      "start": 56.44,
+      "end": 58.72,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat un Nurofen, dar atât."
+    },
+    {
+      "start": 58.84,
+      "end": 61.12,
+      "speaker": "SPEAKER_00",
+      "text": "Un Nurofen. Știți doza, câte miligrame?"
+    },
+    {
+      "start": 61.24,
+      "end": 62.76,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, cel normal."
+    },
+    {
+      "start": 62.88,
+      "end": 66.3,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Ați mai avut dureri de genul acesta înainte?"
+    },
+    {
+      "start": 66.42,
+      "end": 67.56,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mai rar."
+    },
+    {
+      "start": 67.68,
+      "end": 73.0,
+      "speaker": "SPEAKER_00",
+      "text": "Mai rar, dar au mai apărut. Aveți și dureri de cap odată cu asta?"
+    },
+    {
+      "start": 73.12,
+      "end": 73.92,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori."
+    },
+    {
+      "start": 74.04,
+      "end": 77.84,
+      "speaker": "SPEAKER_00",
+      "text": "Uneori. Acum în momentul de față aveți durere de cap?"
+    },
+    {
+      "start": 77.96,
+      "end": 78.76,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 78.88,
+      "end": 82.3,
+      "speaker": "SPEAKER_00",
+      "text": "Nu. Bun. Alte probleme de sănătate, tensiune, diabet, ceva?"
+    },
+    {
+      "start": 82.42,
+      "end": 83.22,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 83.34,
+      "end": 87.9,
+      "speaker": "SPEAKER_00",
+      "text": "Nimic. Haideți să vedem puțin. Vreau să întoarceți capul spre dreapta, încet."
+    },
+    {
+      "start": 88.02,
+      "end": 88.82,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici."
+    },
+    {
+      "start": 88.94,
+      "end": 93.5,
+      "speaker": "SPEAKER_00",
+      "text": "Da, văd că avem limitare pe rotație spre dreapta. Și spre stânga?"
+    },
+    {
+      "start": 93.62,
+      "end": 94.76,
+      "speaker": "SPEAKER_01",
+      "text": "Merge mai bine."
+    },
+    {
+      "start": 94.88,
+      "end": 99.06,
+      "speaker": "SPEAKER_00",
+      "text": "Merge mai bine spre stânga. Acum aplecați capul spre umărul drept."
+    },
+    {
+      "start": 99.18,
+      "end": 99.98,
+      "speaker": "SPEAKER_01",
+      "text": "Au."
+    },
+    {
+      "start": 100.1,
+      "end": 106.94,
+      "speaker": "SPEAKER_00",
+      "text": "Doare pe partea dreaptă la înclinare. Bun. Apăs puțin pe mușchii de aici, pe trapez, pe dreapta. Doare?"
+    },
+    {
+      "start": 107.06,
+      "end": 107.86,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 107.98,
+      "end": 111.4,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe zona cervicală, în dreapta sus, apăs acum."
+    },
+    {
+      "start": 111.52,
+      "end": 113.42,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo e mai rău."
+    },
+    {
+      "start": 113.54,
+      "end": 126.46,
+      "speaker": "SPEAKER_00",
+      "text": "Mai rău sus în cervical pe dreapta. Înțeles. Avem o contractură musculară în zona cervicală cu limitare de mobilitate pe rotație și înclinare spre dreapta. Vom lucra să relaxăm musculatura și să redobândim mobilitatea."
+    }
+  ]
+}

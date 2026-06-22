@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "durere umar drept cu limitarea ridicarii bratului",
+  "evaluarea_durerii_vas": [
+    4,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cot_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Diclofenac",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie tendon supraspinatus;\n- posibila tendinita cap lung biceps;\nObiective terapeutice:\n- reducerea inflamatiei;\n- recuperarea mobilitatii articulare"
+}

@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Pacient cu durere lombară cu debut de aproximativ două săptămâni, apărută după stat prelungit la birou. Durere la ridicare și dimineața la trezire, fără iradiere pe membre, fără amorțeli.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nBazin ușor dezechilibrat spre stânga. Contractură musculară paravertebrală lombară, mai accentuată pe dreapta. Durere la palpare L4-L5. Durere la revenirea din flexia anterioară a trunchiului.\nDiagnostic:\nContractură musculară paravertebrală lombară dreaptă cu dezechilibru de bazin, cel mai probabil pe fond de postură sedentară prelungită.\nObiective terapeutice:\nRelaxarea musculaturii paravertebrale lombare; ameliorarea mobilității; corectarea dezechilibrului postural."
+}

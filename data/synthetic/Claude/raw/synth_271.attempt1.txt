@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume, după un efort, o lovitură?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Și de atunci doare?\nSPEAKER_01: Da.\nSPEAKER_00: Doare tot timpul sau numai când ridicați mâna?\nSPEAKER_01: Mai mult când ridic.\nSPEAKER_00: Și în repaus?\nSPEAKER_01: Noaptea mă mai trezește.\nSPEAKER_00: Doare și noaptea, da. Pe o scară de la 0 la 10, cât de tare doare când ridicați brațul?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Și noaptea?\nSPEAKER_01: Cam la fel.\nSPEAKER_00: Doare și în zona gâtului sau doar umărul?\nSPEAKER_01: Doar umărul.\nSPEAKER_00: Simțiți amorțeală pe braț sau pe degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ați mai pățit asta la umărul ăsta?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte probleme de sănătate, tensiune, diabet, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, niciun antiinflamator?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să vă examinez puțin. Ridicați brațul în față, încet.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: La ce unghi, cam pe la 90 de grade începe?\nSPEAKER_01: Da, cam acolo.\nSPEAKER_00: Și dincolo de 90 grade?\nSPEAKER_01: Nu pot mai sus.\nSPEAKER_00: Nu poate. Acum în lateral, la fel.\nSPEAKER_01: Ăsta doare mai tare.\nSPEAKER_00: Da, arcul dureros pe abducție. Apăs acum pe tendonul de aici, deasupra umărului.\nSPEAKER_01: Au, da.\nSPEAKER_00: Sensibil. Rotiți brațul ușor înăuntru.\nSPEAKER_01: Doare.\nSPEAKER_00: Da. Pare o inflamație la nivelul tendoanelor manșetei rotatorilor. Cel mai probabil supraspinosul. O să lucrăm să reducem inflamația și să refacem mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Câteva ședințe și ar trebui să se îmbunătățeze. Dacă nu, o să vă recomand și o ecografie.\nSPEAKER_01: Bine.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutat mobilier), de aproximativ doua saptamani, accentuata la ridicarea bratului si nocturna.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Arc dureros la abductie si flexie activa (limitare peste 90 grade). Sensibilitate la palparea tendonului supraspinos. Durere la rotatia interna. Diagnostic: tendinopatie manșeta rotatorilor (supraspinos). Obiective terapeutice: reducerea inflamatiei, refacerea mobilitatii umarului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 7."],
+    "localizarea_durerii": ["Dreptul.", "Doar umărul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu.", "Nicio pastilă, niciun antiinflamator?", "Nu."],
+    "evaluare_functionala_initiala": ["Nu poate mai sus.", "Da, arcul dureros pe abducție.", "Sensibil.", "Pare o inflamație la nivelul tendoanelor manșetei rotatorilor. Cel mai probabil supraspinosul. O să lucrăm să reducem inflamația și să refacem mobilitatea umărului."]
+  }
+}

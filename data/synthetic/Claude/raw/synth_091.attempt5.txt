@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi numele, vă rog.\nSPEAKER_01: Mihai Andrei.\nSPEAKER_00: Mihai, câți ani aveți?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, zona de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume, un efort, o mișcare?\nSPEAKER_01: Am ridicat ceva mai greu la serviciu.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde e durerea acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Și la cel mai rău moment al zilei?\nSPEAKER_01: 7 poate.\nSPEAKER_00: Când e mai rău, dimineața sau seara?\nSPEAKER_01: Dimineața.\nSPEAKER_00: Durerea rămâne doar în zona lombară sau se lasă și în picioare?\nSPEAKER_01: Nu, stă acolo.\nSPEAKER_00: Bun. Amorțeli în picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați ceva medicamente acum pentru durere?\nSPEAKER_01: Ibuprofen.\nSPEAKER_00: Cât la doză?\nSPEAKER_01: 400, una seara.\nSPEAKER_00: Și vă ajută?\nSPEAKER_01: Un pic.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză, ceva de coloană diagnosticat?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciodată hernie, scolioză?\nSPEAKER_01: Nu știu de scolioză. Hernie nu.\nSPEAKER_00: Ok. Haideți să stați în picioare cu spatele la mine. Relaxat, mâinile pe lângă corp.\nSPEAKER_01: Bun.\nSPEAKER_00: Vedem o ușoară tensionare a musculaturii paravertebrale pe dreapta. Aplecați-vă puțin în față, încet.\nSPEAKER_01: Doare când mă aplec.\nSPEAKER_00: Doare mai tare sau la fel?\nSPEAKER_01: Mai tare.\nSPEAKER_00: Bun, ridicați-vă încet. Acum o ușoară rotație spre dreapta. Doare?\nSPEAKER_01: Da, puțin.\nSPEAKER_00: Spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Am înțeles. Întindeți-vă pe masă cu fața în sus. Vreau să ridic piciorul drept, îmi spuneți dacă apare durere în spate.\nSPEAKER_01: Acum da, doare.\nSPEAKER_00: La câte grade aproximativ ați simțit?\nSPEAKER_01: Nu știu.\nSPEAKER_00: Era destul de jos, sub 45 de grade. Piciorul stâng.\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Deci avem un test Lasègue pozitiv pe dreapta la sub 45 de grade, ceea ce înseamnă iritație radiculară. Musculatura paravertebrală dreaptă e contractată, blocaj mecanic lombar după efort. O să lucrăm să reducem contractura și inflamația locală.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută după ridicare de greutate la serviciu, în urmă cu două săptămâni.",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["lombar"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg, una seara"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nTensionare musculatură paravertebrală pe dreapta. Flexie anterioară limitată și dureroasă. Rotație spre dreapta mai dureroasă decât spre stânga. Test Lasègue pozitiv pe dreapta la sub 45 de grade.\nDiagnostic:\nBlockaj mecanic lombar cu contractură paravertebrală dreaptă și iritație radiculară, după efort fizic.\nObiective terapeutice:\nReducerea contracturii și a inflamației locale."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele", "Am ridicat ceva mai greu la serviciu", "vreo două săptămâni"],
+    "evaluarea_durerii_vas": ["Vreo 5", "7 poate"],
+    "localizarea_durerii": ["Jos", "Lombar", "stă acolo"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Ibuprofen", "400, una seara"],
+    "evaluare_functionala_initiala": ["Vedem o ușoară tensionare a musculaturii paravertebrale pe dreapta", "test Lasègue pozitiv pe dreapta la sub 45 de grade, ceea ce înseamnă iritație radiculară", "Musculatura paravertebrală dreaptă e contractată, blocaj mecanic lombar după efort", "O să lucrăm să reducem contractura și inflamația locală"]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "conversation_id": "synth_055",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele în partea de jos, zona asta lombară cum îi ziceți voi. Mă doare de vreo trei săptămâni bune. A început după ce am mutat niște mobilă, am ajutat un prieten la mutat și am ridicat un șifonier"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în repaus, un 4. Dar dacă mă aplec sau ridic ceva, ajunge ușor la 7-8."
+    ],
+    "localizarea_durerii": [
+      "mă doare spatele în partea de jos, zona asta lombară"
+    ],
+    "localizarea_durerii_alta": [
+      "câteodată simt ceva pe fesa stângă"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Am hipertensiune de vreo doi ani"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Enalapril, 10 miligrame pe zi",
+      "Mai iau câteodată un Ibuprofen când nu mai suport"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară în zona lombară, pătratul lombar și paravertebralii sunt tensionați, probabil ca urmare a acelei încărcări. Obiectivul nostru este să reducem această tensiune musculară și să refacem mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 13621
+    },
+    "cache_creation_input_tokens": 13621,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 1956,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "motivul_prezentarii": "Pacient cu durere la nivelul umărului drept de aproximativ două săptămâni, apărută fără traumatism, agravată nocturn, cu limitare de mobilitate la abducție și rotație internă. Lucrează la birou, stă mult la calculator cu brațul pe mouse. Asociază tensiune cervicală.",
+  "evaluarea_durerii_vas": [
+    7,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "braț drept anterior",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Perindopril",
+      "doza": "5 miligrame, o dată pe zi"
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUmărul drept mai ridicat față de stânga (menționat de pacient). Limitare la abducție activă (aprox. 90 grade), rotație internă sever limitată (nu poate duce mâna la spate). Flexie anterioară limitată la 90 de grade. Sensibilitate la palpare locală pe umăr. Mobilitate cervicală păstrată, cu tensiune musculară cervicală bilaterală.\nDiagnostic:\nTendinopatie / inflamație la nivelul manșetei rotatorilor umăr drept, pe fond de suprasolicitare posturală (lucru la calculator cu abducție prelungită). Tensiune musculară cervicală asociată.\nObiective terapeutice:\nReducerea inflamației și a durerii nocturne; recuperarea mobilității umărului drept (abducție, rotație internă); relaxarea musculaturii trapez, ridicător scapulă; recomandare ecografie umăr drept."
+}

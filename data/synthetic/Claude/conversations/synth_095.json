@@ -1,0 +1,163 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua. Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 3.16,
+      "end": 21.78,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua. Deci, mă doare spatele de vreo două săptămâni, dar știți cum e, eu am și un stres la serviciu acum, schimbăm sediul și tot mișcăm cutii, și am zis că poate e de la aia, dar tot nu-mi trece și soția mea a zis să vin."
+    },
+    {
+      "start": 21.9,
+      "end": 26.46,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și zona de spate care vă doare, mai exact unde simțiți?"
+    },
+    {
+      "start": 26.58,
+      "end": 37.98,
+      "speaker": "SPEAKER_01",
+      "text": "Jos, aici, la mijlocul de jos. Adică nu sus la gât, ci jos. Mă ține mai ales dimineața când mă ridic din pat, îmi ia câteva minute să mă îndoi."
+    },
+    {
+      "start": 38.1,
+      "end": 43.42,
+      "speaker": "SPEAKER_00",
+      "text": "Lombar, deci. Pe o scară de la 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 43.54,
+      "end": 53.8,
+      "speaker": "SPEAKER_01",
+      "text": "Hmm, depinde. Dimineața când mă ridic poate un 7. Peste zi, dacă stau la birou, mai scade, vreo 4. Dar dacă ridic ceva greu, înapoi la 7."
+    },
+    {
+      "start": 53.92,
+      "end": 60.0,
+      "speaker": "SPEAKER_00",
+      "text": "Deci fluctuează între 4 și 7. Durerea rămâne în zona lombară sau se lasă pe picior?"
+    },
+    {
+      "start": 60.12,
+      "end": 72.66,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, rămâne acolo. Nu se duce pe picior. Deși, uite, acum că ziceți, odată, acum vreo săptămână, am simțit ceva pe fesa stângă, dar a trecut repede, n-am mai simțit de atunci."
+    },
+    {
+      "start": 72.78,
+      "end": 75.82,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și cum a apărut, brusc sau treptat?"
+    },
+    {
+      "start": 75.94,
+      "end": 89.24,
+      "speaker": "SPEAKER_01",
+      "text": "Treptat, cred. Adică poate că și înainte mai aveam câte un pic, dar de când am început să mișcăm cutiile alea s-a acutizat. Și stau mult pe scaun la birou, opt ore, nouă ore."
+    },
+    {
+      "start": 89.36,
+      "end": 92.02,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai avut episoade similare în trecut?"
+    },
+    {
+      "start": 92.14,
+      "end": 110.76,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acum doi ani am avut ceva asemănător, dar a trecut singur după vreo două săptămâni. N-am mers la nimeni atunci. Acum m-am speriat puțin că nu-mi trece și am citit pe internet despre hernie și... știți cum e internetul, m-a speriat și mai tare."
+    },
+    {
+      "start": 110.88,
+      "end": 115.06,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Aveți vreo afecțiune diagnosticată, tensiune, diabet, osteoporoză, ceva de coloană?"
+    },
+    {
+      "start": 115.18,
+      "end": 128.48,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea. Adică am tensiunea puțin crescută, doctorul de familie mi-a spus că e la limită, dar nu iau nimic pentru ea, zice că deocamdată nu e cazul. Altceva nu."
+    },
+    {
+      "start": 128.6,
+      "end": 130.88,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Luați vreun medicament în prezent?"
+    },
+    {
+      "start": 131.0,
+      "end": 139.36,
+      "speaker": "SPEAKER_01",
+      "text": "Ibuprofen, 400, mai iau câte unul când nu mai suport. Nu în fiecare zi, dar uite, săptămâna asta am luat vreo trei."
+    },
+    {
+      "start": 139.48,
+      "end": 144.04,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Stați puțin în picioare pentru mine. Relaxat, mâinile pe lângă corp."
+    },
+    {
+      "start": 144.16,
+      "end": 144.96,
+      "speaker": "SPEAKER_01",
+      "text": "Așa?"
+    },
+    {
+      "start": 145.08,
+      "end": 151.92,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Văd o ușoară anteverisie de bazin și o tensionare paravertebrală lombară bilaterală. Aplecați-vă ușor în față."
+    },
+    {
+      "start": 152.04,
+      "end": 153.94,
+      "speaker": "SPEAKER_01",
+      "text": "Doare aici când mă plec."
+    },
+    {
+      "start": 154.06,
+      "end": 157.86,
+      "speaker": "SPEAKER_00",
+      "text": "Și în spate, ridicați-vă pe vârfuri. Ține piciorul stâng?"
+    },
+    {
+      "start": 157.98,
+      "end": 158.78,
+      "speaker": "SPEAKER_01",
+      "text": "Da, ține."
+    },
+    {
+      "start": 158.9,
+      "end": 176.76,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Ce pot spune este că avem o lombalgie mecanică acută, cel mai probabil pe fond de suprasolicitare. Musculatura paravertebrală este tensionată bilateral. Obiectivul nostru va fi să reducem contractura musculară și să recuperăm mobilitatea lombară. Dacă lucrăm bine, ar trebui să se amelioreze în câteva ședințe."
+    },
+    {
+      "start": 176.88,
+      "end": 182.96,
+      "speaker": "SPEAKER_01",
+      "text": "Și nu e hernie? Adică nu trebuie să fac RMN? M-am tot gândit la asta."
+    },
+    {
+      "start": 183.08,
+      "end": 193.34,
+      "speaker": "SPEAKER_00",
+      "text": "La momentul acesta semnele nu indică o compresie radiculară. Nu avem iradiere pe picior, nu avem amorțeli. Dacă după câteva ședințe nu răspunde, atunci recomandăm investigații suplimentare."
+    },
+    {
+      "start": 193.46,
+      "end": 195.74,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, mă liniștește asta. Bun, haideți."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "conversation_id": "synth_396",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere de umăr, umărul drept, de vreo două săptămâni încoace",
+      "acum două săptămâni am mutat niște cutii mai grele în weekend și după aia a început să doară mai tare",
+      "noaptea mă trezesc uneori",
+      "mai ales când stau pe partea dreaptă"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în repaus, poate un 4, 4 și ceva",
+      "e un 7 cel puțin"
+    ],
+    "localizarea_durerii": [
+      "am o durere de umăr, umărul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "câteodată simt ceva și pe aici, pe braț, dar nu jos, nu ajunge la mână"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Ibuprofen când mă durea rău",
+      "am pus un gel, cum îl cheamă, Voltaren, de două ori poate"
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare o tendinopatie la nivelul coafei rotatorilor, mai precis supraspinatus",
+      "Avem inflamație locală, mobilitate limitată la abducție și la ridicarea anterioară",
+      "O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22994,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2338,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

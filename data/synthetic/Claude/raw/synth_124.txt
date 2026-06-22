@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce problemă ne vedem?\nSPEAKER_01: Genunchiul.\nSPEAKER_00: Care genunchi?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați lovit?\nSPEAKER_01: Nu știu, a apărut așa.\nSPEAKER_00: Deci fără traumatism, a apărut din senin.\nSPEAKER_01: Da.\nSPEAKER_00: Doare constant sau numai când mergeți?\nSPEAKER_01: Când merg, când urc scările.\nSPEAKER_00: Pe scări mai rău, da?\nSPEAKER_01: Da.\nSPEAKER_00: Și în repaus?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât e acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Pe scări ajunge mai sus?\nSPEAKER_01: Da, poate 7.\nSPEAKER_00: Înțeles. Și doare în față la genunchi, în spate, pe lateral?\nSPEAKER_01: În față, mai jos de... sub genunchi.\nSPEAKER_00: Sub rotulă, cam aici?\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Genunchiul se umflă?\nSPEAKER_01: Puțin, uneori.\nSPEAKER_00: Cedează, simțiți că nu vă ține?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte zone mai dor? Spatele, șoldul?\nSPEAKER_01: Nu.\nSPEAKER_00: Ce ocupație aveți?\nSPEAKER_01: Stau mult în picioare, la serviciu.\nSPEAKER_00: Multe ore pe zi?\nSPEAKER_01: Vreo opt, nouă.\nSPEAKER_00: Am înțeles. Afecțiuni mai vechi, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune, da.\nSPEAKER_00: Luați ceva pentru tensiune?\nSPEAKER_01: Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi la genunchi?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere cutanată, proteze?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin în picioare, puneți greutatea pe piciorul stâng. Vă ține?\nSPEAKER_01: Mă ține, dar simțim ceva.\nSPEAKER_00: O jenă?\nSPEAKER_01: Da.\nSPEAKER_00: Înțeles. Vă aplecați puțin, îndoiți genunchiul. Doare?\nSPEAKER_01: Da, acolo, sub rotulă.\nSPEAKER_00: Ok. Pare a fi o tendinită rotuliană, dat fiind că doare sub rotulă, că stați mult în picioare și că scările agravează. Vom lucra să reducem inflamația din tendon și să refacem mobilitatea genunchiului.\nSPEAKER_01: Ok.\nSPEAKER_00: RMN aveți făcut?\nSPEAKER_01: Nu.\nSPEAKER_00: Ar fi util pe viitor, dar deocamdată începem cu ce avem. Hai pe masă.",
+  "note": {
+    "motivul_prezentarii": "durere genunchi stâng",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": [
+      "genunchi_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinită rotuliană\nObiective terapeutice:\n- reducerea inflamației din tendon;\n- refacerea mobilității genunchiului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Genunchiul.", "Stângul."],
+    "evaluarea_durerii_vas": ["Vreo 5.", "Da, poate 7."],
+    "localizarea_durerii": ["Stângul.", "Da, acolo."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune, da."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Enalapril.", "10 miligrame."],
+    "evaluare_functionala_initiala": ["Pare a fi o tendinită rotuliană, dat fiind că doare sub rotulă, că stați mult în picioare și că scările agravează. Vom lucra să reducem inflamația din tendon și să refacem mobilitatea genunchiului."]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, spuneți-mi și mie cu ce problemă ne vedem azi.\nSPEAKER_01: Bună ziua. Păi, mă doare umărul, umărul stâng, de vreo două săptămâni, poate mai bine, și sincer nu știu ce să mai fac cu el. Am încercat un gel, un Voltaren, am uns seara, dar nu prea mi-a făcut mare lucru. Adică mai merge, dar tot mă ține.\nSPEAKER_00: Deci umărul stâng, de două săptămâni. Și cum a apărut? A apărut brusc sau a venit treptat?\nSPEAKER_01: Păi, treptat, treptat. Eu lucrez la birou, stau mult la calculator, și știu că în perioada aia avusesem niște termene și stăteam câte zece ore pe zi. Nu știu, poate de acolo, sau poate că am dormit ciudat, că mi s-a mai întâmplat, dar de data asta a rămas. Nu mi-a trecut singur cum a mai trecut.\nSPEAKER_00: Înțeleg. Și acum, pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum îl situați?\nSPEAKER_01: Eu zic că e un 5, poate 6 când ridic mâna sus sau când mă întorc noaptea pe el. Ziua, dacă stau cuminte, e mai suportabil, 4, 4 și ceva.\nSPEAKER_00: Deci mai tare când ridicați brațul sau când stați pe el noaptea.\nSPEAKER_01: Da, exact. Și mai am o problemă că mă trezesc noaptea când mă întorc pe stânga. Adică mă trezesc din durere, ceea ce e super enervant pentru că deja sunt obosit la serviciu și... da, asta mă deranjează cel mai tare de fapt.\nSPEAKER_00: Înțeleg. Și durerea asta rămâne în umăr sau coboară și pe braț?\nSPEAKER_01: Rămâne în umăr, da. Uneori simt că se duce un pic pe partea de sus a brațului, nu mai jos, nu ajunge la cot sau la mână.\nSPEAKER_00: Bun. Amorțeală în mână sau în degete?\nSPEAKER_01: Nu, nu, asta nu.\nSPEAKER_00: Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu, cu umărul nu. Cu spatele mai am din când în când, adică lombar, dar asta e altă poveste, de aia nu am venit, de aia mi-am zis hai să văd cu umărul că asta e mai acută acum.\nSPEAKER_00: Da, sigur. Alte afecțiuni, tensiune, diabet, ceva?\nSPEAKER_01: Nu, nimic. Sunt relativ sănătos, am 34 de ani, nu iau nimic în mod regulat. Gelul ăla cu Voltaren l-am luat doar câteva zile și l-am lăsat.\nSPEAKER_00: Ok. Ridicați brațul pentru mine, ridicați-l înainte, încet.\nSPEAKER_01: Până aici merge, după aia...\nSPEAKER_00: Doare?\nSPEAKER_01: Da, cam de aici încolo începe să doară, de pe la nouăzeci de grade în sus.\nSPEAKER_00: Bun. Și dacă ducem brațul în lateral?\nSPEAKER_01: La fel, cam la același nivel se blochează.\nSPEAKER_00: Stați puțin, vă apăs puțin în zona asta de sub acromion. Doare?\nSPEAKER_01: Ah, da, acolo doare mai tare. Uite că nici nu știam că doare acolo până ați apăsat.\nSPEAKER_00: Da. Și dacă duceți mâna la spate, la nivelul șoldului, reușiți?\nSPEAKER_01: Da, asta merge, nu mă doare la mișcarea asta.\nSPEAKER_00: Bine. Deci avem o limitare la ridicarea brațului, durere la palpare sub acromion. Pare a fi o tendinită sau o bursită la nivelul umărului stâng, posibil din suprasolicitare posturală de la birou. Trebuie să reducem inflamația și să recâștigăm mobilitatea.\nSPEAKER_01: Și e ceva grav? Că m-am uitat pe internet și am văzut tot felul de chestii cu rupturi de tendon și m-am speriat un pic.\nSPEAKER_00: Nu aveți semne de ruptură, mobilitatea pasivă e bună. Cel mai probabil e o iritație a tendoanelor din zona rotatorie, suprasolicitare, nu traumă. O să lucrăm să calmăm zona și după o să vedem și mobilizarea.\nSPEAKER_01: Bine, mă bucur. Și gelul mai are rost să-l pun?\nSPEAKER_00: Puteți să-l mai folosiți seara, nu strică, dar nu e suficient singur.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng de aproximativ două săptămâni, apărută treptat, posibil din suprasolicitare posturală (muncă la birou, stat la calculator multe ore). Durere accentuată la ridicarea brațului peste 90 de grade și la dormitul pe umărul afectat.",
+    "evaluarea_durerii_vas": [5, 4],
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": "partea de sus a brațului stâng",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare la ridicarea brațului anterior și lateral de la aproximativ 90 de grade. Durere la palpare sub acromion. Mișcarea de ducere a mâinii la spate la nivelul șoldului păstrată fără durere. Fără amorțeli. Diagnostic: tendinită sau bursită umăr stâng, posibil suprasolicitare posturală. Obiective terapeutice: reducerea inflamației, recâștigarea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, umărul stâng, de vreo două săptămâni",
+      "stăteam câte zece ore pe zi. Nu știu, poate de acolo",
+      "mai tare când ridicați brațul sau când stați pe el noaptea"
+    ],
+    "evaluarea_durerii_vas": [
+      "Eu zic că e un 5, poate 6 când ridic mâna sus sau când mă întorc noaptea pe el. Ziua, dacă stau cuminte, e mai suportabil, 4, 4 și ceva."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, umărul stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "simt că se duce un pic pe partea de sus a brațului, nu mai jos, nu ajunge la cot sau la mână"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am încercat un gel, un Voltaren, am uns seara"
+    ],
+    "evaluare_functionala_initiala": [
+      "cam de aici încolo începe să doară, de pe la nouăzeci de grade în sus",
+      "vă apăs puțin în zona asta de sub acromion. Doare? Ah, da, acolo doare mai tare.",
+      "Pare a fi o tendinită sau o bursită la nivelul umărului stâng, posibil din suprasolicitare posturală de la birou. Trebuie să reducem inflamația și să recâștigăm mobilitatea."
+    ]
+  }
+}

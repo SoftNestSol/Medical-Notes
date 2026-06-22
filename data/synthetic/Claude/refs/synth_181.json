@@ -1,0 +1,19 @@
+{
+  "motivul_prezentarii": "Durere umăr stâng apărută după mutarea mobilei, de aproximativ două săptămâni. Durere la abducție, limitată la circa 90 de grade.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "5 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: tendinită de supraspinat, posibil conflict subacomial.\nObiective terapeutice: reducerea inflamației; redarea mobilității complete a umărului."
+}

@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "Durere în zona toracală superioară, între omoplați, cu iradiere spre umărul stâng, instalată progresiv în ultimele 2-3 luni, accentuată de postura la birou, mai ales spre seară. Dureri de cap ocazionale asociate. Durere lombară ușoară secundară.",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "toracal",
+    "umar_stg",
+    "cervical",
+    "lombar"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 mg/zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUmărul stâng ușor coborât față de dreptul; cap proiectat anterior (postură de birou). Limitarea rotației cervicale spre stânga. Contractură musculară paravertebrală în zona toracală superioară la palpare. Tensiune în zona cervicală inferioară C6-C7.\nDiagnostic:\nContractură musculară toracală superioară cu iradiere spre umărul stâng; tensiune cervicală inferioară (C6-C7), posibil pe fond postural.\nObiective terapeutice:\nRelaxarea contracturii musculare toracale superioare; ameliorarea mobilității cervicale; corectarea posturii; prevenirea cronicizării."
+}

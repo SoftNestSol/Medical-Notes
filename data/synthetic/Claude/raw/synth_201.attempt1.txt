@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Cu ce problemă vă confruntați?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Ce zonă anume? Sus, jos?\nSPEAKER_01: Jos.\nSPEAKER_00: Zona lombară. De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume, după un efort, după o mișcare?\nSPEAKER_01: Nu știu. M-am trezit dimineața și era.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau numai la mișcare?\nSPEAKER_01: Mai mult când mă ridic sau când stau mult jos.\nSPEAKER_00: Când vă ridicați din scaun, adică?\nSPEAKER_01: Da.\nSPEAKER_00: Se lasă durerea și pe picior, pe fesă, mai jos?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală pe picior?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Vă rog să stați în picioare, cu spatele la mine. Relaxați umerii.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă aplecați puțin în față, lent. Doare?\nSPEAKER_01: Da, aici jos.\nSPEAKER_00: Bun. Rămâneți drept. Apăs puțin pe musculatura de lângă coloană. Spuneți-mi dacă simțiți ceva.\nSPEAKER_01: Da, acolo doare mai tare.\nSPEAKER_00: Pe dreapta sau pe stânga simțiți mai mult?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Înțeleg. Lucrați la birou sau faceți muncă fizică?\nSPEAKER_01: La birou.\nSPEAKER_00: Multe ore stând jos?\nSPEAKER_01: Da, cam tot ziua.\nSPEAKER_00: Asta explică. Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio intervenție chirurgicală, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nurofen, uneori.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Când doare mai tare. O dată, două pe zi.\nSPEAKER_00: Doza?\nSPEAKER_01: Normală, 400.\nSPEAKER_00: Ok. Altceva nu luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Pare o contractură musculară paravertebrală lombară, mai accentuată pe dreapta, probabil pe fond de poziție prelungită la birou. Fără semne de afectare radiculară. O să lucrăm pe relaxarea musculaturii și mobilizarea zonei lombare.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară apărută brusc în urmă cu două săptămâni, fără un traumatism identificat. Durere accentuată la ridicarea din scaun și după ședința prelungită. Fără iradiere pe membrul inferior, fără amorțeli. Lucrează la birou, poziție șezândă aproape toată ziua.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\nContractură musculară paravertebrală lombară, mai accentuată pe dreapta, pe fond de poziție prelungită la birou. Fără semne de afectare radiculară.\nObiective terapeutice:\nRelaxarea musculaturii paravertebrale lombare; mobilizarea zonei lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "De vreo două săptămâni.",
+      "M-am trezit dimineața și era.",
+      "Mai mult când mă ridic sau când stau mult jos.",
+      "Nicio amorțeală pe picior?",
+      "Nu.",
+      "La birou.",
+      "Da, cam tot ziua."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "Da, acolo doare mai tare."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nurofen, uneori.",
+      "Normală, 400."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare o contractură musculară paravertebrală lombară, mai accentuată pe dreapta, probabil pe fond de poziție prelungită la birou. Fără semne de afectare radiculară. O să lucrăm pe relaxarea musculaturii și mobilizarea zonei lombare."
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "conversation_id": "synth_470",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare șoldul. De ceva vreme. Dreptul.",
+      "S-a intensificat. Adică eu am mers pe jos mai mult, am fost la munte cu familia, vreo patru zile, și de acolo... s-a declanșat mai rău.",
+      "Când mă ridic de pe scaun, primii pași sunt... vai de mine. Și când urc scările."
+    ],
+    "evaluarea_durerii_vas": [
+      "La mișcare... un 7. Da, 7.",
+      "Aaah... poate un 2, un 3. Dacă stau liniștit."
+    ],
+    "localizarea_durerii": [
+      "mă doare șoldul. De ceva vreme. Dreptul."
+    ],
+    "localizarea_durerii_alta": [
+      "mai mult în șold, dar câteodată simt ceva și pe fața... pe fața din afară a coapsei, în jos. Până la jumătatea coapsei poate."
+    ],
+    "antecedente": [
+      "Tensiune am, da. Mi-a spus doctorul că am hipertensiune și iau ceva pentru ea."
+    ],
+    "antecedente_altele": [
+      "Am operat apendicita acum mulți ani, vreo 20."
+    ],
+    "medicatie_actuala": [
+      "Amlodipină. 5 miligrame, o dată pe zi.",
+      "Da, am luat Diclofenac câteva zile când m-a durut mai rău."
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ că pășiți un pic mai scurt pe dreapta, evitați să puneți greutatea pe șoldul drept.",
+      "Ah, da, acolo doare! Asta e zona.",
+      "Acum când ați apăsat... 6.",
+      "Ugh... doare. Doare în față și în lateral.",
+      "Rotația spre interior... uf, asta doare mai mult.",
+      "avem o inflamație la nivelul tendonului mușchilor abductori, în zona trohanterului mare",
+      "Vom lucra să reducem inflamația și să refacem mobilitatea șoldului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14094,
+    "inference_geo": "global",
+    "input_tokens": 347,
+    "output_tokens": 3749,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

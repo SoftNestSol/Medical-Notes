@@ -1,0 +1,41 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva? O lovitură, un efort mai mare?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Ah, deci după efort a început?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: La mișcare mai mult.\nSPEAKER_00: Când ridicați brațul sus, doare?\nSPEAKER_01: Da, nu pot ridica bine.\nSPEAKER_00: Până unde ajungeți?\nSPEAKER_01: Până aici, cam.\nSPEAKER_00: Deci până la orizontală aproximativ. Doare și în spate, spre omoplaț?\nSPEAKER_01: Nu știu. Poate un pic.\nSPEAKER_00: Înțeleg. Doare și noaptea când stați pe el?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Luați ceva medicamente pentru durere?\nSPEAKER_01: Am luat un ibuprofen, două zile.\nSPEAKER_00: Acum mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Haideți să facem câteva teste. Ridicați brațul în față, încet.\nSPEAKER_01: Până aici.\nSPEAKER_00: Doare?\nSPEAKER_01: Da, de aici doare.\nSPEAKER_00: Bun. Acum ridicați lateral.\nSPEAKER_01: Au, asta doare mai tare.\nSPEAKER_00: Mai tare lateral. Și dacă duceți mâna la spate, la nivel de șold?\nSPEAKER_01: Merge, dar doare.\nSPEAKER_00: Stați puțin. Apăs aici, pe capul humerusului. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă rezistați când ridic eu brațul lateral?\nSPEAKER_01: Au, da.\nSPEAKER_00: Bun. Avem o inflamație la nivelul tendonului supraspinos, cel mai probabil. O tendinopatie de coafă a rotatorilor. Trebuie să reducem inflamația și să recuperăm mobilitatea umărului drept.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă mai doare altceva, cervical, gât?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere la nivelul umărului drept instalată după efort fizic (mutat mobilă), de aproximativ două săptămâni. Durere la mișcare, limitarea abducției și flexiei brațului, durere nocturnă în decubit pe umărul afectat.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinopatie coafă rotatori umăr drept (tendon supraspinos)\nObiective terapeutice:\n- reducerea inflamației\n- recuperarea mobilității umărului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Vreo două săptămâni.",
+      "Am mutat niște mobilă.",
+      "La mișcare mai mult.",
+      "nu pot ridica bine.",
+      "Da." ,
+      "Da, de aici doare."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Dreptul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Avem o inflamație la nivelul tendonului supraspinos, cel mai probabil. O tendinopatie de coafă a rotatorilor. Trebuie să reducem inflamația și să recuperăm mobilitatea umărului drept."
+    ]
+  }
+}

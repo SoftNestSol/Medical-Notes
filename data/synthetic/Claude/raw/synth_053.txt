@@ -1,0 +1,53 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Gheorghe Matei.\nSPEAKER_00: Și vârsta, domnule Matei?\nSPEAKER_01: 51.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc. M-am trezit dimineața și nu mai puteam să întorc capul.\nSPEAKER_00: Înțeles. Doare mai mult pe o parte sau pe ambele?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Pe dreapta. Se lasă cumva pe umăr sau pe braț în jos?\nSPEAKER_01: Un pic pe umăr.\nSPEAKER_00: Pe umărul drept?\nSPEAKER_01: Da.\nSPEAKER_00: Și mai jos de umăr, pe braț, simțiți ceva? Amorțeală, furnicături?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Doare constant sau mai mult când vă mișcați capul?\nSPEAKER_01: Când mă mișc.\nSPEAKER_00: Când vă mișcați. Lucrați la birou?\nSPEAKER_01: Da, mult la calculator.\nSPEAKER_00: Mult la calculator, deci mult timp cu capul în față.\nSPEAKER_01: Da.\nSPEAKER_00: Ați mai avut dureri de gât înainte, episoade similare?\nSPEAKER_01: Mai demult, da, dar nu atât de rău.\nSPEAKER_00: Înțeles. Alte afecțiuni, tensiune, diabet, probleme cu inima?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune. Luați ceva pentru asta?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Enalapril. Știți doza?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: 10 miligrame, bun. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să verificăm un pic. Stați drept, da, așa. Întoarceți capul ușor spre dreapta.\nSPEAKER_01: Au.\nSPEAKER_00: Doare la rotație spre dreapta. Spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin. Acum o să apăs un pic pe mușchii de la gât, spuneți-mi dacă doare. Aici?\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: Pe trapez și pe ridicătorul scapulei pe dreapta doare. Pe coloana cervicală dacă apăs?\nSPEAKER_01: Un pic.\nSPEAKER_00: Un pic. Deci avem o contractură musculară pe partea dreaptă și o mobilitate cervicală redusă, mai ales la rotație dreapta. Eu zic că putem să lucrăm, haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală pe dreapta cu iradiere pe umărul drept, apărută brusc dimineața, de aproximativ două săptămâni",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: Contractură musculară cervicală dreaptă (trapez, ridicător scapulă); mobilitate cervicală redusă la rotație dreapta.\nObiective terapeutice: reducerea contracturii musculare; creșterea amplitudinii de mișcare cervicală."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "M-am trezit dimineața și nu mai puteam să întorc capul.",
+      "Pe dreapta.",
+      "Un pic pe umăr.",
+      "Vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Un pic pe umăr.",
+      "Pe umărul drept?"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Enalapril.",
+      "10 miligrame."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pe trapez și pe ridicătorul scapulei pe dreapta doare.",
+      "Deci avem o contractură musculară pe partea dreaptă și o mobilitate cervicală redusă, mai ales la rotație dreapta."
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 11.18,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua! Scuzați că am întârziat un pic, am avut trafic îngrozitor pe Calea Floreasca, nu știu ce se întâmplă în ultimul timp pe acolo."
+    },
+    {
+      "start": 11.3,
+      "end": 13.96,
+      "speaker": "SPEAKER_00",
+      "text": "Nicio problemă. Cu ce vă pot ajuta?"
+    },
+    {
+      "start": 14.08,
+      "end": 31.56,
+      "speaker": "SPEAKER_01",
+      "text": "Păi uite, mă doare umărul stâng de vreo două săptămâni. Adică nu știu exact de când, poate mai mult, dar mai tare l-am simțit acum două săptămâni. Am zis că îmi trece, că poate am dormit prost, știți cum e, dar nu mi-a trecut."
+    },
+    {
+      "start": 31.68,
+      "end": 34.34,
+      "speaker": "SPEAKER_00",
+      "text": "Și doare constant sau doar la mișcare?"
+    },
+    {
+      "start": 34.46,
+      "end": 56.5,
+      "speaker": "SPEAKER_01",
+      "text": "La mișcare mai rău, da. Adică dacă stau liniștit nu mă deranjează atât de mult, dar când ridic mâna, mai ales când o duc în sus sau în spate... au, nu pot. De exemplu dimineața când mă îmbrac mă chinui groaznic. Și soția mea îmi zice că dorm prost noaptea, mă întorc mereu, că nu-mi găsesc poziția."
+    },
+    {
+      "start": 56.62,
+      "end": 61.18,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 61.3,
+      "end": 69.28,
+      "speaker": "SPEAKER_01",
+      "text": "Când ridic mâna sus, un 7 solid. Când stau jos, poate un 2, un 3. Adică suportabil, dar tot mă ține."
+    },
+    {
+      "start": 69.4,
+      "end": 73.96,
+      "speaker": "SPEAKER_00",
+      "text": "A existat vreun traumatism, o lovitură, ceva care să fi declanșat durerea?"
+    },
+    {
+      "start": 74.08,
+      "end": 93.08,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Asta mă și îngrijorează, știți? Că n-am căzut, n-am lovit nimic. Pur și simplu a apărut. Am citit pe internet și m-am speriat, că scrie acolo că poate fi tot felul de lucruri grave, tendon rupt, nu știu ce... Sper să nu fie ceva serios."
+    },
+    {
+      "start": 93.2,
+      "end": 94.72,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Lucrați la birou?"
+    },
+    {
+      "start": 94.84,
+      "end": 114.6,
+      "speaker": "SPEAKER_01",
+      "text": "Da, stau foarte mult la calculator, vreo 8-9 ore pe zi. Și mouse-ul îl țin cu stânga, că așa m-am obișnuit eu de mult. Poate de aia, nu? Că poate am stat prost cu mâna. De fapt și tastatura e cam la marginea biroului și trebuie să mă întind."
+    },
+    {
+      "start": 114.72,
+      "end": 118.9,
+      "speaker": "SPEAKER_00",
+      "text": "Posibil să contribuie, da. Aveți tensiune arterială, diabet, alte boli cunoscute?"
+    },
+    {
+      "start": 119.02,
+      "end": 130.42,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Iau pastile pentru ea de vreo trei ani. Altceva nu știu să am, am fost la analize acum șase luni și doctorul a zis că e bine."
+    },
+    {
+      "start": 130.54,
+      "end": 132.44,
+      "speaker": "SPEAKER_00",
+      "text": "Ce pastile luați pentru tensiune?"
+    },
+    {
+      "start": 132.56,
+      "end": 134.46,
+      "speaker": "SPEAKER_01",
+      "text": "Iau Prestarium, 5 miligrame, dimineața."
+    },
+    {
+      "start": 134.58,
+      "end": 135.72,
+      "speaker": "SPEAKER_00",
+      "text": "Altceva mai luați?"
+    },
+    {
+      "start": 135.84,
+      "end": 144.2,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic altceva. Am mai luat eu un ibuprofen acum câteva zile că mă durea mai tare, dar nu în mod regulat."
+    },
+    {
+      "start": 144.32,
+      "end": 146.6,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să vedem puțin mișcarea."
+    },
+    {
+      "start": 146.72,
+      "end": 162.3,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da. Dar să știți că și noaptea mă trezesc uneori, dacă mă întorc pe partea stângă. Mă gândeam că poate am ceva la coloană și de aia se lasă în umăr? Am citit că se poate, că nervi și chestii."
+    },
+    {
+      "start": 162.42,
+      "end": 166.6,
+      "speaker": "SPEAKER_00",
+      "text": "O să verificăm. Ridicați ușor brațul în față... opriți unde doare."
+    },
+    {
+      "start": 166.72,
+      "end": 171.66,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, cam la 90 de grade, după aia nu mai merge."
+    },
+    {
+      "start": 171.78,
+      "end": 175.96,
+      "speaker": "SPEAKER_00",
+      "text": "Simțiți durere și înăuntru, în adâncime, sau mai mult la suprafață?"
+    },
+    {
+      "start": 176.08,
+      "end": 180.64,
+      "speaker": "SPEAKER_01",
+      "text": "Mai în adâncime, da. Ca și cum ar fi ceva blocat acolo."
+    },
+    {
+      "start": 180.76,
+      "end": 196.34,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Vedem o limitare la abducție și la rotație externă. Cel mai probabil avem de-a face cu o inflamație la nivelul tendoanelor manșetei rotatorilor, posibil și cu un conflict subacomial. O să lucrăm să reducem inflamația și să recuperăm mobilitatea."
+    },
+    {
+      "start": 196.46,
+      "end": 201.78,
+      "speaker": "SPEAKER_01",
+      "text": "Și o să treacă? Adică nu e ceva mai grav? Că mă tot gândeam..."
+    },
+    {
+      "start": 201.9,
+      "end": 206.84,
+      "speaker": "SPEAKER_00",
+      "text": "Cu terapia adecvată ar trebui să se amelioreze. Haideți pe masă, vă rog."
+    }
+  ]
+}

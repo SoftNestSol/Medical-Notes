@@ -1,0 +1,39 @@
+{
+  "conversation_id": "synth_236",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere la umăr, la cel drept",
+      "a început cam acum vreo trei săptămâni"
+    ],
+    "evaluarea_durerii_vas": [
+      "la ridicat mâna... un 7. Da, 7."
+    ],
+    "localizarea_durerii": [
+      "am o durere la umăr, la cel drept"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel, Voltaren, câteva zile"
+    ],
+    "evaluare_functionala_initiala": [
+      "pare a fi o tendinită la nivelul coafei rotatorilor, mai precis la supraspinat",
+      "să reducem inflamația și să recuperăm mobilitatea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13674,
+    "inference_geo": "global",
+    "input_tokens": 314,
+    "output_tokens": 1835,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

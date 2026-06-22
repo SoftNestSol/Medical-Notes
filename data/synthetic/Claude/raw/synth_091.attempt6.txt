@@ -1,0 +1,50 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și ce s-a întâmplat? A apărut din senin sau ați făcut ceva?\nSPEAKER_01: Am ridicat ceva mai greu la serviciu.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum estimați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare mereu sau doar la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Când ridicați brațul în sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă duceți mâna la spate, la fel?\nSPEAKER_01: Da, acolo doare mai tare.\nSPEAKER_00: Noaptea vă deranjează, nu puteți dormi pe partea dreaptă?\nSPEAKER_01: Da, nu pot sta pe el.\nSPEAKER_00: Înțeleg. Durerea rămâne în umăr sau coboară pe braț?\nSPEAKER_01: Stă în umăr.\nSPEAKER_00: Bun. Amorțeli, furnicături?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai pățit asta cu umărul sau e prima dată?\nSPEAKER_01: Prima dată.\nSPEAKER_00: Alte probleme de sănătate, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Ibuprofen.\nSPEAKER_00: Cât luați?\nSPEAKER_01: 400, când mă doare rău.\nSPEAKER_00: Vă mai ajută?\nSPEAKER_01: Un pic.\nSPEAKER_00: Intervenții chirurgicale la umăr sau în altă parte?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Ridicați brațul drept în față, încet.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Deci până la vreo 90 de grade și începe să doară. Acum duceți-l lateral.\nSPEAKER_01: La fel.\nSPEAKER_00: Stați puțin. Apăs ușor pe zona asta de aici, deasupra umărului. Doare?\nSPEAKER_01: Da, exact acolo.\nSPEAKER_00: Înțeleg. Avem o inflamație la nivelul tendonului supraspinos. Pare o tendinopatie de coafă a rotatorilor, umăr drept. Va trebui să reducem inflamația și să lucrăm mobilitatea umărului ca să nu se rigidizeze.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic la serviciu, de aproximativ doua saptamani. Durere la miscare, mai ales la ridicarea bratului si la ducerea mainii la spate. Nu poate dormi pe partea dreapta.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinopatie coafa rotatori, umar drept\nObiective terapeutice:\n- reducerea inflamatiei\n- recuperarea mobilitatii umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Am ridicat ceva mai greu la serviciu.",
+      "Vreo două săptămâni.",
+      "Mai mult la mișcare.",
+      "acolo doare mai tare.",
+      "nu pot sta pe el."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Stă în umăr."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofen.",
+      "400, când mă doare rău."
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o inflamație la nivelul tendonului supraspinos.",
+      "Pare o tendinopatie de coafă a rotatorilor, umăr drept.",
+      "Va trebui să reducem inflamația și să lucrăm mobilitatea umărului ca să nu se rigidizeze."
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_415",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o problemă cu umărul, cu umărul stâng, de câteva săptămâni mă tot chinuie",
+      "am mutat niște mobilă, am fost cu un prieten, am cărat cutii grele, vreo câteva ore bune, și a doua zi m-am trezit că nu mai pot să ridic mâna stângă sus",
+      "dacă dorm pe partea stângă noaptea, mă trezesc din durere"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când mișc mâna, ridic brațul, aș zice șapte, șapte sigur",
+      "Când stau liniștit nu e chiar așa, poate un trei, patru"
+    ],
+    "localizarea_durerii": [
+      "E mai mult la umăr, pe aici, în vârful umărului"
+    ],
+    "localizarea_durerii_alta": [
+      "un pic pe braț în jos, dar nu departe, nu ajunge la cot sau ceva"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat Nurofen câteva zile la început",
+      "am dat și cu un gel antiinflamator, am avut acasă un Diclofenac gel"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul manșonului rotatorilor, cel mai probabil tendinita supraspinosului",
+      "Trebuie să reducem inflamația în prima fază, după care lucrăm mobilitatea și stabilitatea umărului"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22123,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2388,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

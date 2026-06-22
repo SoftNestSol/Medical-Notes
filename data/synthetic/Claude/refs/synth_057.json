@@ -1,0 +1,32 @@
+{
+  "motivul_prezentarii": "Durere lombară joasă cu iradiere pe membrul inferior stâng (fesă, coapsă), agravată după cădere pe scări; hernie de disc L4-L5 confirmată RMN",
+  "evaluarea_durerii_vas": [
+    5,
+    8
+  ],
+  "localizarea_durerii": [
+    "lombar",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "fesă stângă, coapsă stângă",
+  "antecedente": [
+    "hipertensiune_arteriala",
+    "hernia_disc"
+  ],
+  "antecedente_altele": "operație menisc genunchi drept (8 ani), colesterol crescut fără medicație",
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 mg/zi"
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400 mg, ocazional"
+    },
+    {
+      "denumire": "Ketoprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Postură antalgică cu aplecare laterală spre dreapta; test Lasègue pozitiv pe stânga; sensibilitate la presiune lombară mai accentuată pe stânga; flexie anterioară limitată și dureroasă (VAS 7). Diagnostic: hernie disc L4-L5 cu compresie radiculară stângă. Obiective terapeutice: reducerea inflamației, decomprimarea rădăcinii nervoase, recuperarea mobilității lombare."
+}

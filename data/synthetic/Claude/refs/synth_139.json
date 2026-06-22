@@ -1,0 +1,28 @@
+{
+  "motivul_prezentarii": "Dureri zona toracala superioara si cervicala, aparute treptat in ultimele doua luni, agravate de postura la birou",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "toracal",
+    "cervical",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "apendicectomie",
+  "medicatie_actuala": [
+    {
+      "denumire": "Nebilet",
+      "doza": "o pastila pe zi"
+    },
+    {
+      "denumire": "ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Contractura musculara cervical si toracal superior; mobilitate restrictionata in rotatie stanga; umarul stang coborat fata de cel drept; postura antalgica cu capul dus in fata. Obiective: reducerea contracturii musculare, recuperarea mobilitatii cervicale in rotatie stanga, corectarea posturii."
+}

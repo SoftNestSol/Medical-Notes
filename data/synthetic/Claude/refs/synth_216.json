@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (ridicat greutate la serviciu), cu limitarea mobilitatii, accentuata nocturn si la miscari active.",
+  "evaluarea_durerii_vas": [
+    3,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren gel",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: afectare coafa rotatori umar drept - tendinita / bursita subacromiala.\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii active.\nObservatii functionale: limitare mobilitate activa la abductie si flexie peste 90 grade; mobilitate pasiva prezenta."
+}

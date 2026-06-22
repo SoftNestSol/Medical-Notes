@@ -1,0 +1,229 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, doamna!"
+    },
+    {
+      "start": 1.26,
+      "end": 2.78,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua!"
+    },
+    {
+      "start": 2.9,
+      "end": 5.18,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 5.3,
+      "end": 22.78,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare gâtul, adică zona de ceafă, și mi se lasă și pe umărul stâng, știți? Și am zis să vin pentru că, sincer, m-a speriat un pic, am citit pe internet tot felul de lucruri și nu știu, poate e ceva grav, nu?"
+    },
+    {
+      "start": 22.9,
+      "end": 25.18,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. De cât timp vă doare?"
+    },
+    {
+      "start": 25.3,
+      "end": 46.96,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo două săptămâni, dar mai rău a fost de când am stat la birou non-stop, avem un proiect mare la serviciu și stau câte zece ore pe zi la calculator, vă dați seama, și dimineața mă trezesc și parcă am gâtul blocat, nu pot să mă întorc bine nici într-o parte nici în alta."
+    },
+    {
+      "start": 47.08,
+      "end": 52.4,
+      "speaker": "SPEAKER_00",
+      "text": "Aha. Și durerea se lasă și pe braț în jos sau doar pe umăr?"
+    },
+    {
+      "start": 52.52,
+      "end": 64.3,
+      "speaker": "SPEAKER_01",
+      "text": "Pe umăr, da, pe stânga. Pe braț nu știu, câteodată simt ceva, dar nu știu dacă e de la asta sau de la stres, că și stres am destul, credeți-mă."
+    },
+    {
+      "start": 64.42,
+      "end": 65.94,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțește ceva, degetele, mâna?"
+    },
+    {
+      "start": 66.06,
+      "end": 75.94,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, amorțeli nu am. Doar că mă doare când mă întorc spre stânga, și când stau mult la calculator simte că se strânge totul acolo."
+    },
+    {
+      "start": 76.06,
+      "end": 84.8,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați cu durerea?"
+    },
+    {
+      "start": 84.92,
+      "end": 94.8,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, acum, în repaus, poate un 4. Dar când mă întorc sau când stau prea mult la birou, ajunge la un 7, chiar 7 și ceva."
+    },
+    {
+      "start": 94.92,
+      "end": 96.82,
+      "speaker": "SPEAKER_00",
+      "text": "Deci în mișcare un 7."
+    },
+    {
+      "start": 96.94,
+      "end": 98.08,
+      "speaker": "SPEAKER_01",
+      "text": "Da, 7 da."
+    },
+    {
+      "start": 98.2,
+      "end": 101.62,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai avut așa ceva în trecut, la ceafă?"
+    },
+    {
+      "start": 101.74,
+      "end": 117.32,
+      "speaker": "SPEAKER_01",
+      "text": "Am mai avut acum vreo doi ani ceva similar, dar a trecut singur. Acum nu trece și m-am speriat, că am văzut că pot fi probleme cu discurile și nu știu, mi-e teamă să nu rămân cu ceva permanent."
+    },
+    {
+      "start": 117.44,
+      "end": 120.86,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Alte afecțiuni, cum ar fi tensiune, diabet, epilepsie?"
+    },
+    {
+      "start": 120.98,
+      "end": 126.3,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Am tensiune de vreo trei ani, iau și pastile pentru asta."
+    },
+    {
+      "start": 126.42,
+      "end": 127.56,
+      "speaker": "SPEAKER_00",
+      "text": "Ce pastile luați?"
+    },
+    {
+      "start": 127.68,
+      "end": 131.86,
+      "speaker": "SPEAKER_01",
+      "text": "Iau Enalapril, 10 miligrame, în fiecare dimineață. Atât, altceva nu iau."
+    },
+    {
+      "start": 131.98,
+      "end": 133.88,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Cancer, osteoporoză, alte boli?"
+    },
+    {
+      "start": 134.0,
+      "end": 136.66,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, nimic din astea, slavă Domnului."
+    },
+    {
+      "start": 136.78,
+      "end": 137.92,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale, fracturi?"
+    },
+    {
+      "start": 138.04,
+      "end": 139.94,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am avut nimic."
+    },
+    {
+      "start": 140.06,
+      "end": 147.28,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Haideți să facem câteva teste. Stați drept, vă rog. O să vă rog să întoarceți capul spre dreapta."
+    },
+    {
+      "start": 147.4,
+      "end": 150.06,
+      "speaker": "SPEAKER_01",
+      "text": "Merge, da, nu mă doare spre dreapta."
+    },
+    {
+      "start": 150.18,
+      "end": 151.32,
+      "speaker": "SPEAKER_00",
+      "text": "Spre stânga acum."
+    },
+    {
+      "start": 151.44,
+      "end": 154.86,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, asta doare, simțiți cât de puțin merg?"
+    },
+    {
+      "start": 154.98,
+      "end": 163.72,
+      "speaker": "SPEAKER_00",
+      "text": "Da, văd că e limitată rotația spre stânga. O să apăs acum un pic pe musculatura de la ceafă. Spuneți-mi dacă doare."
+    },
+    {
+      "start": 163.84,
+      "end": 166.12,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo e, exact acolo strânge."
+    },
+    {
+      "start": 166.24,
+      "end": 168.52,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe trapez spre umărul stâng?"
+    },
+    {
+      "start": 168.64,
+      "end": 170.16,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, și acolo."
+    },
+    {
+      "start": 170.28,
+      "end": 186.24,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ce pot să vă spun este că avem o contractură musculară la nivel cervical, cu iradiere pe trapezul stâng. Poate fi legată de postura de la birou. O să lucrăm în prima fază să reducem tensiunea musculară și să recâștigăm mobilitatea."
+    },
+    {
+      "start": 186.36,
+      "end": 190.16,
+      "speaker": "SPEAKER_01",
+      "text": "Și nu e nimic grav? Nu e disc sau ceva?"
+    },
+    {
+      "start": 190.28,
+      "end": 199.78,
+      "speaker": "SPEAKER_00",
+      "text": "Deocamdată nu avem semne clare de afectare de disc, nu aveți amorțeli, nu vă lasă pe braț. Dar vom vedea după primele ședințe cum răspunde."
+    },
+    {
+      "start": 199.9,
+      "end": 206.36,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, mă liniștiti un pic. Vin de trei ori pe săptămână dacă e nevoie, nu mă deranjează."
+    },
+    {
+      "start": 206.48,
+      "end": 208.38,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă, vă rog."
+    }
+  ]
+}

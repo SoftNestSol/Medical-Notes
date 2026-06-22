@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "durere cervicala si umar stang, de aproximativ doua saptamani, posibil legata de postura la birou",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contractura musculara cervicala, trapez si ridicatorul scapulei stang;\nObiective terapeutice: reducerea contracturii, redobandirea mobilitatii cervicale"
+}

@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, vă rog, cu ce vă pot ajuta.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Spatele... Unde anume? Mai sus, mai jos?\nSPEAKER_01: Jos. Zona de jos.\nSPEAKER_00: Deci zona lombară. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Am ridicat niște saci.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare e durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot timpul sau doar când faceți ceva anume?\nSPEAKER_01: Când mă aplec.\nSPEAKER_00: Când vă aplecați. Și când stați jos, în scaun?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Durerea se lasă și pe picior, pe fesă, pe coapsă?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio iradiere. Amorțesc picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ce lucru faceți?\nSPEAKER_01: Depozit. Cărăm marfă.\nSPEAKER_00: Deci ridicați des greutăți. Am înțeles. Ați mai avut probleme cu spatele înainte?\nSPEAKER_01: Acum doi ani, ceva similar.\nSPEAKER_00: Și a trecut de la sine?\nSPEAKER_01: Da.\nSPEAKER_00: Alte afecțiuni? Tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Ibuprofen, când e mai rău.\nSPEAKER_00: Cât luați?\nSPEAKER_01: 400, o pastilă.\nSPEAKER_00: Ok. Alergii la medicamente sau creme?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă examinez puțin. Stați în picioare, cu spatele la mine, relaxat.\nSPEAKER_00: Văd o ușoară tensionare pe partea dreaptă a coloanei. Vă aplecați ușor în față pentru mine.\nSPEAKER_01: Au.\nSPEAKER_00: Doare când vă aplecați înainte, da?\nSPEAKER_01: Da.\nSPEAKER_00: Și în lateral spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Apăs puțin pe zona lombară, spuneți-mi dacă doare.\nSPEAKER_01: Da, aici.\nSPEAKER_00: Paravertebral dreapta, da?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Deci avem o contractură musculară paravertebrală lombară, mai accentuată pe dreapta, apărută după efort de ridicare. Scopul nostru e să reducem contractura și să decomprimăm zona, ca să puteți munci fără durere. Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă apărută după ridicare de saci, de aproximativ două săptămâni. Durere la aplecarea înainte și în șezut, fără iradiere pe membre inferioare, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": "Episod similar acum doi ani, remis spontan.",
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nTensionare paravertebrală lombară dreaptă vizibilă în ortostatism. Mobilitate lombară limitată la flexia anterioară (dureroasă), mai puțin limitată în înclinarea laterală stângă. Durere la palpare paravertebral dreapta.\nDiagnostic:\nContractură musculară paravertebrală lombară, accentuată pe dreapta, pe fond de efort de ridicare repetitivă.\nObiective terapeutice:\nReducerea contracturii musculare și decompresia zonei lombare; reluarea activității fără durere."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele.", "Jos. Zona de jos.", "Am ridicat niște saci.", "Vreo două săptămâni.", "Când mă aplec.", "Da, și atunci.", "Nu.", "Nu."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Jos. Zona de jos.", "Apăs puțin pe zona lombară, spuneți-mi dacă doare.", "Da, aici."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": ["Acum doi ani, ceva similar.", "Da."],
+    "medicatie_actuala": ["Ibuprofen, când e mai rău.", "400, o pastilă."],
+    "evaluare_functionala_initiala": ["Văd o ușoară tensionare pe partea dreaptă a coloanei.", "Doare când vă aplecați înainte, da?", "Paravertebral dreapta, da?", "Deci avem o contractură musculară paravertebrală lombară, mai accentuată pe dreapta, apărută după efort de ridicare.", "Scopul nostru e să reducem contractura și să decomprimăm zona, ca să puteți munci fără durere."]
+  }
+}

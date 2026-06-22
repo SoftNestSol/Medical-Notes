@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_489",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare la mână, pe aici, la încheietură",
+      "Lucrez mult la calculator, stau la birou toată ziua, și la un moment dat am observat că mă doare",
+      "mai mult când fac ceva, când scriu, când ridic ceva",
+      "dimineața e mai rău un pic"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "mă doare la mână, pe aici, la încheietură",
+      "La dreapta."
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori simt ceva și pe antebraț, pe partea de sus",
+      "Pe partea dorsală a antebrațului, deci spre exterior."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am tiroida. Adică hipotiroidism, iau pastile pentru asta de vreo trei ani."
+    ],
+    "medicatie_actuala": [
+      "Eutirox. 50 de micrograme, în fiecare dimineață."
+    ],
+    "evaluare_functionala_initiala": [
+      "observ că umărul drept e puțin mai căzut față de stângul, și postura la birou probabil că nu ajută",
+      "Extensia e mai dureroasă",
+      "Amplitudinea de mișcare e păstrată, dar cu durere la extensie și rotație",
+      "avem o tendinopatie la nivelul pumnului drept, cel mai probabil legată de suprasolicitarea de la tastare și de postura la birou",
+      "Mobilitatea e afectată la extensie, durere la palpare pe zona dorsală",
+      "Obiectivul nostru este să reducem inflamația locală, să lucrăm mobilitatea pumnului și să vedem și postura la umăr și antebraț"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23237,
+    "inference_geo": "global",
+    "input_tokens": 364,
+    "output_tokens": 3429,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

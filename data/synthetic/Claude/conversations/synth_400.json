@@ -1,0 +1,373 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 6.74,
+      "speaker": "SPEAKER_00",
+      "text": "Luați loc, vă rog. Spuneți-mi cu ce problemă venim astăzi."
+    },
+    {
+      "start": 6.86,
+      "end": 14.46,
+      "speaker": "SPEAKER_01",
+      "text": "Da, deci, am o durere... mă doare umărul, umărul drept. De vreo două săptămâni, poate mai mult, nu știu exact."
+    },
+    {
+      "start": 14.58,
+      "end": 23.32,
+      "speaker": "SPEAKER_00",
+      "text": "Umărul drept, bine. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât estimați?"
+    },
+    {
+      "start": 23.44,
+      "end": 31.42,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... depinde. Uneori e mai rău. Eu aș zice un 7, dar noaptea ajunge poate și la 8, nu știu sigur."
+    },
+    {
+      "start": 31.54,
+      "end": 33.06,
+      "speaker": "SPEAKER_00",
+      "text": "Deci noaptea se înrăutățește."
+    },
+    {
+      "start": 33.18,
+      "end": 40.4,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mă trezesc, nu pot să stau pe partea dreaptă deloc. Și dimineața când mă ridic, sunt foarte blocat."
+    },
+    {
+      "start": 40.52,
+      "end": 43.56,
+      "speaker": "SPEAKER_00",
+      "text": "Blocat în ce sens? Nu puteți ridica brațul?"
+    },
+    {
+      "start": 43.68,
+      "end": 54.32,
+      "speaker": "SPEAKER_01",
+      "text": "Nu pot să-l ridic sus, adică mă opresc cam pe la... nu știu, pe la jumătate, ceva. Și doare și dacă încerc să duc mâna la spate."
+    },
+    {
+      "start": 54.44,
+      "end": 59.38,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. S-a întâmplat ceva? O lovitură, o cădere, ați ridicat ceva greu?"
+    },
+    {
+      "start": 59.5,
+      "end": 70.9,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, asta e ce mă îngrijorează, n-am făcut nimic special. A apărut din senin. Adică lucrez la birou, stau mult la calculator, dar... nu știu dacă de la asta."
+    },
+    {
+      "start": 71.02,
+      "end": 75.2,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. La birou stați cum, cu brațul drept sus, pe mouse?"
+    },
+    {
+      "start": 75.32,
+      "end": 84.44,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, exact. Toată ziua practic. Și poate stau și un pic strâmb, mi-a mai zis cineva că am umărul drept mai sus."
+    },
+    {
+      "start": 84.56,
+      "end": 91.02,
+      "speaker": "SPEAKER_00",
+      "text": "Bine, notăm asta. Durerea rămâne în umăr sau se lasă și pe braț, pe cot, spre mână?"
+    },
+    {
+      "start": 91.14,
+      "end": 100.26,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori simt ceva și pe braț, pe partea din față, dar nu știu dacă e din umăr sau altceva. Mă îngrijorează, e ceva grav?"
+    },
+    {
+      "start": 100.38,
+      "end": 104.56,
+      "speaker": "SPEAKER_00",
+      "text": "Să vedem mai întâi ce avem. Amorțeli în mână, în degete?"
+    },
+    {
+      "start": 104.68,
+      "end": 106.58,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am amorțeli, nu."
+    },
+    {
+      "start": 106.7,
+      "end": 110.12,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Vă doare și zona de gât, de ceafă?"
+    },
+    {
+      "start": 110.24,
+      "end": 115.94,
+      "speaker": "SPEAKER_01",
+      "text": "Și acolo mai am ceva tensiune, da, mai ales seara. Dar mai puțin decât umărul."
+    },
+    {
+      "start": 116.06,
+      "end": 122.14,
+      "speaker": "SPEAKER_00",
+      "text": "Tensiune în ceafă, bine. Alte afecțiuni pe care le știți, tensiune arterială, diabet, ceva de inimă?"
+    },
+    {
+      "start": 122.26,
+      "end": 127.96,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am tensiune. Adică am hipertensiune, mi-a descoperit-o acum doi ani. Iau tratament."
+    },
+    {
+      "start": 128.08,
+      "end": 130.36,
+      "speaker": "SPEAKER_00",
+      "text": "Ce medicament luați pentru tensiune, știți?"
+    },
+    {
+      "start": 130.48,
+      "end": 133.52,
+      "speaker": "SPEAKER_01",
+      "text": "Perindopril, 5 miligrame, o dată pe zi, dimineața."
+    },
+    {
+      "start": 133.64,
+      "end": 136.3,
+      "speaker": "SPEAKER_00",
+      "text": "Perindopril 5 miligrame, bine. Altceva mai luați?"
+    },
+    {
+      "start": 136.42,
+      "end": 146.68,
+      "speaker": "SPEAKER_01",
+      "text": "Mai iau uneori câte un ibuprofen când mă doare umărul, dar nu în fiecare zi, numai când nu mai pot. Nu știu dacă e bine sau nu."
+    },
+    {
+      "start": 146.8,
+      "end": 148.32,
+      "speaker": "SPEAKER_00",
+      "text": "Cât de des, aproximativ?"
+    },
+    {
+      "start": 148.44,
+      "end": 152.24,
+      "speaker": "SPEAKER_01",
+      "text": "Poate de două-trei ori pe săptămână în ultima vreme."
+    },
+    {
+      "start": 152.36,
+      "end": 155.4,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Alte afecțiuni, diabet, probleme de coloană, osteoporoză?"
+    },
+    {
+      "start": 155.52,
+      "end": 164.26,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am altceva. Cel puțin nu știu. Adică nu mi-a zis nimeni. Poate am și nu știu, asta mă și îngrijorează."
+    },
+    {
+      "start": 164.38,
+      "end": 165.52,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale, fracturi?"
+    },
+    {
+      "start": 165.64,
+      "end": 166.44,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată."
+    },
+    {
+      "start": 166.56,
+      "end": 169.98,
+      "speaker": "SPEAKER_00",
+      "text": "Boli cu transmitere prin sânge, alergii la unguente, creme?"
+    },
+    {
+      "start": 170.1,
+      "end": 171.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am alergii."
+    },
+    {
+      "start": 171.74,
+      "end": 176.68,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să facem câteva teste simple. Ridicați brațul drept în față, încet."
+    },
+    {
+      "start": 176.8,
+      "end": 179.84,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot... și apoi mă opresc, doare."
+    },
+    {
+      "start": 179.96,
+      "end": 182.62,
+      "speaker": "SPEAKER_00",
+      "text": "Cam la 90 de grade vă opriți."
+    },
+    {
+      "start": 182.74,
+      "end": 184.64,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam acolo. E grav?"
+    },
+    {
+      "start": 184.76,
+      "end": 189.7,
+      "speaker": "SPEAKER_00",
+      "text": "Nu vă panicați, să terminăm testele. Acum ridicați brațul lateral, în laterala corpului."
+    },
+    {
+      "start": 189.82,
+      "end": 194.0,
+      "speaker": "SPEAKER_01",
+      "text": "Aaah, pe asta o simt mai tare. Doare chiar la început."
+    },
+    {
+      "start": 194.12,
+      "end": 198.3,
+      "speaker": "SPEAKER_00",
+      "text": "Deci abducția este mai dureroasă. Și când duceți mâna la spate?"
+    },
+    {
+      "start": 198.42,
+      "end": 202.98,
+      "speaker": "SPEAKER_01",
+      "text": "Nu pot aproape deloc. Simt că se blochează și doare foarte tare."
+    },
+    {
+      "start": 203.1,
+      "end": 210.32,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Acum lăsați brațul relaxat lângă corp. Eu apăs ușor pe umăr, pe zona asta, spuneți-mi dacă doare."
+    },
+    {
+      "start": 210.44,
+      "end": 215.38,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo e sensibil. Dar nu e la fel ca atunci când mișc."
+    },
+    {
+      "start": 215.5,
+      "end": 218.92,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Acum duceți mâna la urechea opusă, peste cap."
+    },
+    {
+      "start": 219.04,
+      "end": 222.46,
+      "speaker": "SPEAKER_01",
+      "text": "Asta... merge puțin mai bine, dar tot simt ceva."
+    },
+    {
+      "start": 222.58,
+      "end": 228.28,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Stați puțin, vreau să testez și zona de cervical. Întoarceți capul la dreapta, încet."
+    },
+    {
+      "start": 228.4,
+      "end": 230.68,
+      "speaker": "SPEAKER_01",
+      "text": "Merge, da. Un pic de tensiune."
+    },
+    {
+      "start": 230.8,
+      "end": 231.6,
+      "speaker": "SPEAKER_00",
+      "text": "La stânga?"
+    },
+    {
+      "start": 231.72,
+      "end": 234.0,
+      "speaker": "SPEAKER_01",
+      "text": "La fel, nu e durere mare."
+    },
+    {
+      "start": 234.12,
+      "end": 236.02,
+      "speaker": "SPEAKER_00",
+      "text": "Aplecați capul spre umărul drept."
+    },
+    {
+      "start": 236.14,
+      "end": 239.56,
+      "speaker": "SPEAKER_01",
+      "text": "Mhm. Doare puțin pe partea stângă, ca o întindere."
+    },
+    {
+      "start": 239.68,
+      "end": 259.44,
+      "speaker": "SPEAKER_00",
+      "text": "Normal, musculatura e tensionată. Bine, vă spun ce observ. Aveți o limitare destul de clară a mobilității umărului drept, mai ales la abducție și rotație internă. Asta, coroborat cu durerea nocturnă și cu debutul fără traumatism, mă face să mă gândesc la o tendinopatie sau la o inflamație la nivelul manșetei rotatorilor."
+    },
+    {
+      "start": 259.56,
+      "end": 262.6,
+      "speaker": "SPEAKER_01",
+      "text": "Manșeta rotatorilor, asta e ceva grav? Trebuie operație?"
+    },
+    {
+      "start": 262.72,
+      "end": 277.54,
+      "speaker": "SPEAKER_00",
+      "text": "Nu neapărat. Foarte multe cazuri se rezolvă bine fără operație, cu terapie manuală, cu exerciții, cu reducerea inflamației. Voi recomanda și o ecografie de umăr ca să vedem exact ce se întâmplă acolo, dar nu trebuie să vă panicați."
+    },
+    {
+      "start": 277.66,
+      "end": 281.84,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, bine, bine. Dar de ce a apărut? De la calculator?"
+    },
+    {
+      "start": 281.96,
+      "end": 291.84,
+      "speaker": "SPEAKER_00",
+      "text": "Postura la birou contribuie mult. Umărul drept ridicat, brațul în abducție tot timpul pe mouse, tensiunea cervicală acumulată. Toate astea suprasolicitează musculatura și tendoanele din jur."
+    },
+    {
+      "start": 291.96,
+      "end": 293.86,
+      "speaker": "SPEAKER_01",
+      "text": "Înțeleg. Și ce facem acum?"
+    },
+    {
+      "start": 293.98,
+      "end": 306.52,
+      "speaker": "SPEAKER_00",
+      "text": "Astăzi lucrăm să reducem inflamația și să relaxăm musculatura din jur, trapezul, ridicătorul scapulei, și să mobilizăm puțin articulația. Obiectivul nostru pe termen scurt este să reducem durerea nocturnă și să recâștigăm mobilitatea."
+    },
+    {
+      "start": 306.64,
+      "end": 307.78,
+      "speaker": "SPEAKER_01",
+      "text": "Cât durează, credeți?"
+    },
+    {
+      "start": 307.9,
+      "end": 314.74,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde de cum răspunde, dar în general câteva ședințe. Haideți pe masă, cu fața în sus, să începem."
+    }
+  ]
+}

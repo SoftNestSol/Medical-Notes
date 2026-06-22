@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_449",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, mai mult pe partea dreaptă, și câteodată simt că se duce și în gât",
+      "mai simt câteodată, pe degetele astea, pe ultimele două, parcă amorțesc puțin"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum nu e chiar rău, acum poate un 4",
+      "când mă mișc sau fac ce-am zis cu mașina, crește, poate un 7"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, mai mult pe partea dreaptă",
+      "câteodată simt că se duce și în gât"
+    ],
+    "localizarea_durerii_alta": [
+      "mai simt câteodată, pe degetele astea, pe ultimele două, parcă amorțesc puțin",
+      "Pe degetele inelare și mic de la mâna dreaptă?"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Tiroida da, am hipotiroidism, iau medicamente pentru asta deja de vreo doi ani"
+    ],
+    "medicatie_actuala": [
+      "Euthyrox, mi-a dat medicul de familie. 50 de micrograme, o pastilă pe zi dimineața",
+      "Uneori mai iau câte un Paracetamol când e mai rău, dar nu constant"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară semnificativă pe zona cervicală inferioară și la nivelul umărului drept, cu implicarea mușchilor trapez, scaleni și probabil și a bicepsului",
+      "Mobilitatea cervicală e redusă spre stânga și mobilitatea umărului drept e limitată la flexie și rotație internă",
+      "Există și o iritație la nivel C7-T1 care ar putea explica amorțelile pe care le simțiți pe degetele mici",
+      "Va trebui să reducim mai întâi contractura și inflamația locală și să lucrăm la postura dumneavoastră de la birou"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13823,
+    "inference_geo": "global",
+    "input_tokens": 334,
+    "output_tokens": 3682,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

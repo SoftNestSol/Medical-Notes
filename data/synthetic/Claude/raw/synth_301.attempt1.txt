@@ -1,0 +1,41 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă vă confruntați.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume? Efort, o mișcare greșită?\nSPEAKER_01: Nu știu. Am ridicat ceva mai greu la serviciu.\nSPEAKER_00: Și de atunci doare?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât îi dați?\nSPEAKER_01: Un 5.\nSPEAKER_00: Doare constant sau doar la anumite mișcări?\nSPEAKER_01: La mișcări. Când ridic brațul.\nSPEAKER_00: Când ridicați brațul în față sau în lateral?\nSPEAKER_01: Mai mult în lateral.\nSPEAKER_00: Amorțește mâna sau brațul?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți senzație de slăbiciune în braț?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Noaptea vă deranjează, vă treziți din cauza durerii?\nSPEAKER_01: Da, dacă stau pe el.\nSPEAKER_00: Pe umărul stâng nu puteți dormi, da?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Afecțiuni mai aveți, cum ar fi tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la unguente, creme?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Ridicați brațul stâng în lateral, încet.\nSPEAKER_01: Până aici merge.\nSPEAKER_00: Doare?\nSPEAKER_01: Da, de pe la jumătate.\nSPEAKER_00: Deci avem un arc dureros undeva între 70 și 120 de grade. Și dacă ridicați mai sus de atât?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Exact, deci trece. Asta e sugestiv pentru o afectare a tendonului supraspinosului. Apăs acum pe umăr, spuneți-mi dacă doare.\nSPEAKER_01: Da, aici.\nSPEAKER_00: Pe zona subacromială, da. Bun. Avem cel mai probabil o tendinopatie de supraspinos, posibil și o ușoară iritație a bursei subacromiale. Va trebui să reducem inflamația și să lucrăm stabilizatorii umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Pacient acuză durere la nivelul umărului stâng, apărută în urmă cu aproximativ două săptămâni după ridicarea unei greutăți la serviciu. Durere prezentă la abducție (mai ales între 70-120 de grade), cu arc dureros sugestiv pentru afectare de supraspinos. Fără amorțeli sau slăbiciune. Dificultate la somnul pe umărul afectat.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- Tendinopatie supraspinos stâng; posibilă iritație bursă subacromială.\nObiective terapeutice:\n- Reducerea procesului inflamator; lucrul stabilizatorilor umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Am ridicat ceva mai greu la serviciu.",
+      "La mișcări. Când ridic brațul.",
+      "Mai mult în lateral.",
+      "Da, dacă stau pe el."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Stângul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Avem cel mai probabil o tendinopatie de supraspinos, posibil și o ușoară iritație a bursei subacromiale.",
+      "Va trebui să reducem inflamația și să lucrăm stabilizatorii umărului.",
+      "avem un arc dureros undeva între 70 și 120 de grade"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_457",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept de ceva timp",
+      "în ultimele două săptămâni s-a înrăutățit considerabil",
+      "Nu mai pot să ridic mâna, adică dincolo de... până la nivelul umărului merge, dar mai sus de atât nu mai pot",
+      "am mutat niște cutii grele acasă și de atunci s-a agravat brusc",
+      "noaptea e groaznic, mă trezesc din somn"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în repaus, un 4. Dar când încerc să ridic mâna, ajunge la un 8 ușor."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt și ceva pe acolo, pe lateral, pe braț în jos",
+      "Până cam pe la cot, nu mai jos"
+    ],
+    "antecedente": [
+      "am o scolioză ușoară, mi-a zis un doctor acum mulți ani, că am coloana un pic deviată"
+    ],
+    "antecedente_altele": [
+      "acum vreo zece ani am avut o fractură la clavicula dreaptă",
+      "Am căzut la schi, am stat cu brațul în eșarfă vreo șase săptămâni",
+      "Da, da, fără operație. Doar imobilizare."
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Cam la 90 de grade se blochează, da?",
+      "am observat o slăbiciune la abducție",
+      "pare mai degrabă o tendinopatie, o iritație a tendonului, posibil și o bursită asociată",
+      "Vom lucra pe reducerea inflamației locale la nivelul tendonului supraspinosului și a bursei, pe refacerea mobilității umărului și pe tonifierea musculaturii stabilizatoare a scapulei."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13861,
+    "inference_geo": "global",
+    "input_tokens": 318,
+    "output_tokens": 3579,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

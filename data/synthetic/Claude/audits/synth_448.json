@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_448",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul, pe... pe partea asta, dreapta. De ceva vreme deja.",
+      "poate de la stat la birou, că stau mult la calculator",
+      "simt că mă strânge pe undeva pe aici, pe umăr și pe gât uneori"
+    ],
+    "evaluarea_durerii_vas": [
+      "Atunci e mai rău, poate un 7."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul, pe... pe partea asta, dreapta.",
+      "se duce și sus, mai ales spre seară",
+      "simt că mă strânge pe undeva pe aici, pe umăr și pe gât uneori"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [
+      "am fracturat claviculă acum vreo zece ani, tot pe dreapta",
+      "Numai imobilizare, nu m-au operat. Vreo șase săptămâni cu eșarfă."
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "umărul drept e ușor ridicat față de cel stâng, vedeți că îl țineți un pic în tensiune",
+      "pe trapezul superior drept e contractură clară",
+      "Sensibilitate la nivel de acromion",
+      "Limitare de rotație cervicală dreaptă",
+      "avem de-a face cu o contractură musculară la nivel de trapez, ridicător al scapulei, zona cervicală inferioară",
+      "Posibil să fie implicat și tendoanele de la nivelul umărului, din zona coifului rotatorilor",
+      "Obiectivul nostru în primele ședințe va fi să reducem contractura musculară și să recâștigăm mobilitatea la nivelul umărului și al cervicalului"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13823,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 3370,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

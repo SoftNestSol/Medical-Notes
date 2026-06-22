@@ -1,0 +1,43 @@
+{
+  "conversation_id": "synth_086",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul stâng de vreo două săptămâni",
+      "când ridic mâna, mai ales când o duc în sus sau în spate... au, nu pot",
+      "n-am căzut, n-am lovit nimic. Pur și simplu a apărut",
+      "stau foarte mult la calculator, vreo 8-9 ore pe zi. Și mouse-ul îl țin cu stânga"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când ridic mâna sus, un 7 solid. Când stau jos, poate un 2, un 3."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul stâng"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am, da. Iau pastile pentru ea de vreo trei ani."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Prestarium, 5 miligrame, dimineața."
+    ],
+    "evaluare_functionala_initiala": [
+      "Vedem o limitare la abducție și la rotație externă. Cel mai probabil avem de-a face cu o inflamație la nivelul tendoanelor manșetei rotatorilor, posibil și cu un conflict subacomial. O să lucrăm să reducem inflamația și să recuperăm mobilitatea.",
+      "Până aici pot, cam la 90 de grade, după aia nu mai merge."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23026,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 2045,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

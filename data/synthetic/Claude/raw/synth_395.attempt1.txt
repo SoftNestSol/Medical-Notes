@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Păi, uite, mă doare umărul, umărul drept, de vreo trei săptămâni. Inițial am crezut că o să-mi treacă de la sine, știți cum e, am zis că poate am dormit strâmb sau am făcut ceva, dar nu mi-a trecut și m-a trimis cumnatu-meu încoace, el a mai venit la dumneavoastră.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Ei, depinde. Adică, dimineața, când mă trezesc și vreau să ridic mâna, e vreo 7, poate 7 și ceva. Dar dacă stau liniștit, nu fac nimic deosebit, e ceva mai suportabil, un 4.\nSPEAKER_00: Deci 7 la mișcare și 4 în repaus.\nSPEAKER_01: Da, cam așa. Dimineața e cel mai rău, sincer. Mă trezesc și simt că nu pot să ridic mâna nici până la nivelul umărului. Adică literalmente nu pot, nu că doare și mă forțez, chiar nu pot.\nSPEAKER_00: Înțeles. Durerea e localizată strict pe umăr sau se lasă și pe braț?\nSPEAKER_01: Se lasă un pic, da, pe brațul drept, mai mult pe partea din față. Nu ajunge la cot sau ceva, dar sus, pe biceps, pe acolo, da.\nSPEAKER_00: Amorțeală, furnicături pe mână sau pe degete?\nSPEAKER_01: Nu, nu, asta nu. Adică eu am mai citit pe internet și m-am speriat că poate e ceva la gât, la coloană, dar furnicături n-am.\nSPEAKER_00: Bine. Și de la ce a apărut? Ați căzut, ați ridicat ceva?\nSPEAKER_01: Asta e, nu știu exact. Am mutat niște mobilă acasă, chestii mai grele, canapea, am dat ajutor la un prieten. Și cam de atunci. Adică nu am simțit ceva imediat, a doua zi dimineața m-am trezit cu durerea. Am stat și m-am gândit, și îmi dau seama că de acolo a pornit.\nSPEAKER_00: Ok. Ați luat ceva pentru durere?\nSPEAKER_01: Am luat Nurofen vreo două-trei zile când era mai rău, plus am pus un gel, Diclofenac, pe umăr seara. A mai calmat, dar n-a trecut.\nSPEAKER_00: Nurofen la ce doză?\nSPEAKER_01: Normal, 400, câte unul.\nSPEAKER_00: Îl mai luați acum?\nSPEAKER_01: Nu, am lăsat. Acum pun gelul din când în când.\nSPEAKER_00: Înțeles. Alte afecțiuni, tensiune, diabet, ceva mai vechi?\nSPEAKER_01: Nu, nu am nimic din astea. Sunt destul de sănătos altfel, lucrez, fac sport, mă mișc. Am 35 de ani, nu m-aș fi așteptat să am o problemă de umăr, sincer.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu, niciodată. Cel mult o scrântitură la gleznă acum câțiva ani, dar aia a trecut.\nSPEAKER_00: Bine. Stați puțin, ridicați mâna în față, încet.\nSPEAKER_01: Uite, până aici pot, mai sus deja doare.\nSPEAKER_00: Până la orizontală ajungeți, da. Doare la ridicat în lateral?\nSPEAKER_01: Da, pe lateral e și mai rău. Pe lateral nu pot nici până la orizontală.\nSPEAKER_00: Și dacă duc eu brațul în spate, uite așa, apare durerea?\nSPEAKER_01: Da, da, apare, pe față pe umăr.\nSPEAKER_00: Înțeles. Vedeți, limitarea asta la abducție și la rotație externă, combinată cu durerea anterioară, sugerează o inflamație la nivelul tendoanelor din zona rotator cuff, cel mai probabil tendonul supraspinos. Nu e o problemă gravă, dar trebuie să o luăm în serios acum ca să nu se cronicizeze.\nSPEAKER_01: Adică nu e ceva rupt? Pentru că m-am speriat, am tot căutat pe internet și scria de rupturi, de operații.\nSPEAKER_00: Nu e un semn de ruptură la testele pe care le-am făcut. Dar ar fi util să faceți o ecografie de umăr ca să vedem exact tendonul.\nSPEAKER_01: Da, asta aș vrea și eu, să știu sigur.\nSPEAKER_00: O să lucrăm să reducem inflamația și să recuperăm mobilitatea. Obiectivul e să ajungeți să ridicați mâna complet fără durere.\nSPEAKER_01: Și cât durează, aproximativ? Că am treabă, nu pot să stau eu mult timp...\nSPEAKER_00: Depinde cum răspundeți la terapie, dar în general câteva ședințe.\nSPEAKER_01: Ok, înțeles. Bun, mergem.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept de aproximativ trei saptamani, aparuta dupa efort fizic (mutare mobilier greu). Limitare la ridicarea bratului, mai intensa dimineata si la abductie.",
+    "evaluarea_durerii_vas": [7, 4],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": "brat drept anterior (biceps)",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": "400 mg"
+      },
+      {
+        "denumire": "Diclofenac gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare la abductie si rotatie externa umar drept. Durere anterioara la mobilizare pasiva in extensie. Diagnostic: inflamatie tendoane rotator cuff, cel mai probabil tendon supraspinos. Obiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii complete a umarului drept. Recomandat: ecografie umar."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul, umărul drept, de vreo trei săptămâni", "Am mutat niște mobilă acasă, chestii mai grele, canapea, am dat ajutor la un prieten. Și cam de atunci."],
+    "evaluarea_durerii_vas": ["dimineața, când mă trezesc și vreau să ridic mâna, e vreo 7", "dacă stau liniștit, nu fac nimic deosebit, e ceva mai suportabil, un 4"],
+    "localizarea_durerii": ["mă doare umărul, umărul drept"],
+    "localizarea_durerii_alta": ["se lasă un pic, da, pe brațul drept, mai mult pe partea din față. Nu ajunge la cot sau ceva, dar sus, pe biceps, pe acolo, da"],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am luat Nurofen vreo două-trei zile când era mai rău, plus am pus un gel, Diclofenac, pe umăr seara", "Nurofen la ce doză? Normal, 400, câte unul"],
+    "evaluare_functionala_initiala": ["limitarea asta la abducție și la rotație externă, combinată cu durerea anterioară, sugerează o inflamație la nivelul tendoanelor din zona rotator cuff, cel mai probabil tendonul supraspinos", "O să lucrăm să reducem inflamația și să recuperăm mobilitatea. Obiectivul e să ajungeți să ridicați mâna complet fără durere", "ar fi util să faceți o ecografie de umăr ca să vedem exact tendonul"]
+  }
+}

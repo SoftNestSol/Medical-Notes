@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_095",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele de vreo două săptămâni",
+      "de când am început să mișcăm cutiile alea s-a acutizat",
+      "Mă ține mai ales dimineața când mă ridic din pat",
+      "acum doi ani am avut ceva asemănător, dar a trecut singur după vreo două săptămâni"
+    ],
+    "evaluarea_durerii_vas": [
+      "Dimineața când mă ridic poate un 7",
+      "Peste zi, dacă stau la birou, mai scade, vreo 4"
+    ],
+    "localizarea_durerii": [
+      "Jos, aici, la mijlocul de jos",
+      "lombar"
+    ],
+    "localizarea_durerii_alta": [
+      "odată, acum vreo săptămână, am simțit ceva pe fesa stângă, dar a trecut repede"
+    ],
+    "antecedente": [
+      "am tensiunea puțin crescută, doctorul de familie mi-a spus că e la limită"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofen, 400, mai iau câte unul când nu mai suport"
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară anteverisie de bazin și o tensionare paravertebrală lombară bilaterală",
+      "avem o lombalgie mecanică acută, cel mai probabil pe fond de suprasolicitare",
+      "Musculatura paravertebrală este tensionată bilateral",
+      "Obiectivul nostru va fi să reducem contractura musculară și să recuperăm mobilitatea lombară"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22783,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 2130,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

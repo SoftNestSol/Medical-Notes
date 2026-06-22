@@ -1,0 +1,50 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți.\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau a venit treptat?\nSPEAKER_01: Brusc. M-am trezit dimineața și... nu mai puteam să mișc capul.\nSPEAKER_00: Înțeles. Și acum, față de atunci, e mai bine, mai rău, la fel?\nSPEAKER_01: Cam la fel.\nSPEAKER_00: Cam la fel. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde vă situați?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Doare tot timpul sau numai când mișcați?\nSPEAKER_01: Mai mult când mișc.\nSPEAKER_00: Când întoarceți capul, în ce parte doare mai tare?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Pe dreapta. Doare și jos, spre umăr?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Umărul drept sau stâng?\nSPEAKER_01: Drept.\nSPEAKER_00: Amorțește ceva, mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală. Dureri de cap?\nSPEAKER_01: Câteodată, da.\nSPEAKER_00: Câteodată. La ceafă sau mai sus, pe frunte?\nSPEAKER_01: La ceafă.\nSPEAKER_00: La ceafă. Înțeles. Și stați mult la birou, la calculator?\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Toată ziua. Și aveți ecranul cam la ce înălțime, mai jos față de ochi?\nSPEAKER_01: Da, mai jos.\nSPEAKER_00: Deci stați cu capul aplecat.\nSPEAKER_01: Da.\nSPEAKER_00: Înțeles. Alte afecțiuni, tensiune, diabet, probleme cu inima, epilepsie?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio operație anterioară?\nSPEAKER_01: Nu.\nSPEAKER_00: Fracturi, accidente?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun medicament. Bun. Haideți să vă văd puțin cum stați în picioare. Drepți, cu mâinile pe lângă corp. Așa. Vedeți că aveți capul dus un pic în față, față de umeri. Acum întoarceți capul spre dreapta, încet. Până unde puteți.\nSPEAKER_01: Până aici.\nSPEAKER_00: Da, limitat. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și spre stânga.\nSPEAKER_01: Asta merge mai bine.\nSPEAKER_00: Mai bine, da. Acum aplecați capul spre spate.\nSPEAKER_01: Au, asta doare.\nSPEAKER_00: Doare la extensie. Bun. Vă apăs puțin în zona cervicală, spuneți-mi unde simțiți mai tare.\nSPEAKER_01: Aici, pe partea asta.\nSPEAKER_00: Deci pe partea dreaptă, în zona C4-C5, C5-C6. Contractură musculară paravertebrală. Deci avem o contractură cervicală dreaptă, cu limitarea rotației pe dreapta și la extensie, cap antepus, probabil de la poziția la birou. Trebuie să lucrăm să eliberăm musculatura, să recuperăm mobilitatea și să vă arăt și niște exerciții pentru postură.\nSPEAKER_01: Da.\nSPEAKER_00: Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu debut brusc acum două săptămâni, limitarea rotației capului spre dreapta și la extensie, iradiere spre umărul drept, cefalee ocipitală ocazională. Posibil factorul postural: muncă la birou toată ziua cu ecranul mai jos față de ochi.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nCap antepus față de umeri în ortostatism. Rotație cervicală limitată pe dreapta, dureroasă. Rotație stânga în limite mai bune. Extensie cervicală dureroasă. Contractură musculară paravertebrală cervicală dreaptă la palpare, zona C4-C5, C5-C6.\nDiagnostic:\nContractură cervicală dreaptă cu limitarea mobilității, cap antepus - postural.\nObiective terapeutice:\n- eliberarea musculaturii cervicale contractate;\n- recuperarea mobilității cervicale;\n- corectare posturală, exerciții specifice."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "M-am trezit dimineața și... nu mai puteam să mișc capul.",
+      "Vreo două săptămâni.",
+      "Da, un pic.",
+      "Umărul drept.",
+      "Câteodată, da.",
+      "La ceafă.",
+      "Da, toată ziua.",
+      "Da, mai jos."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Doare și jos, spre umăr? Da, un pic. Umărul drept.",
+      "La ceafă."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Vedeți că aveți capul dus un pic în față, față de umeri.",
+      "Da, limitat. Doare?",
+      "Asta merge mai bine.",
+      "Au, asta doare.",
+      "Deci pe partea dreaptă, în zona C4-C5, C5-C6. Contractură musculară paravertebrală.",
+      "Deci avem o contractură cervicală dreaptă, cu limitarea rotației pe dreapta și la extensie, cap antepus, probabil de la poziția la birou. Trebuie să lucrăm să eliberăm musculatura, să recuperăm mobilitatea și să vă arăt și niște exerciții pentru postură."
+    ]
+  }
+}

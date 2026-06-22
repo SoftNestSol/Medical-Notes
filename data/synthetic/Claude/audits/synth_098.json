@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_098",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, mai jos, de ceva vreme",
+      "O lună, ceva de genul",
+      "dimineața când mă scol e mai rău, după aia mai trece, dar dacă stau mult pe scaun la serviciu iar începe",
+      "Și dacă ridic ceva, mai ales dacă mă aplec",
+      "cam toată ziua la calculator. Opt, nouă ore"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "mă doare spatele, mai jos"
+    ],
+    "localizarea_durerii_alta": [
+      "se lasă și pe... pe aici, pe fesă, pe dreapta mai mult",
+      "parcă se duce un pic pe piciorul drept, dar nu mereu"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Iau pastile pentru asta."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Amlodipină, cred că se cheamă. 5 miligrame.",
+      "Rosuvastatina, parcă. Nu știu doza exact.",
+      "Am mai luat Ibuprofen când m-a durut mai rău"
+    ],
+    "evaluare_functionala_initiala": [
+      "Vedeți că aveți umărul drept un pic mai jos",
+      "bazinul e ușor înclinat",
+      "Deci avem un test Lasègue pozitiv pe dreapta la peste 50 de grade",
+      "e posibil să avem o protruzie discală sau o inflamație locală care apasă pe rădăcina nervoasă",
+      "cel mai probabil avem o lombalgie cu componentă radiculară dreaptă, posibil L5-S1",
+      "Musculatura din zona lombară este și ea contractată, piriformul și fesierii sunt tensionați",
+      "Va trebui să lucrăm să reducem inflamația și contractura, să mobilizăm zona"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22783,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3708,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

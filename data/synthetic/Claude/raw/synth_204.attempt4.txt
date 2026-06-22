@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât îl situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare constant sau doar când mișcați brațul?\nSPEAKER_01: Când îl ridic.\nSPEAKER_00: Ridic brațul sus, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și când îl duceți în spate?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Simțiți o durere care se lasă și pe braț în jos?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeli la mână sau la degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Vă doare și cervical, la gât?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte dureri în altă parte?\nSPEAKER_01: Nu, doar umărul.\nSPEAKER_00: Aveți vreo afecțiune, tensiune, diabet, osteoporoză, ceva de genul?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin cu brațul pe lângă corp. Vă apăs pe zona asta de aici, pe tendonul supraspinat. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Doare tare?\nSPEAKER_01: Destul de tare.\nSPEAKER_00: Ridicați brațul lateral până unde puteți.\nSPEAKER_01: Până pe la orizontală, cam atât.\nSPEAKER_00: Deci limitare la abducție, cam 90 de grade. Deasupra orizontalei nu mai merge?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Rotație internă, duceți mâna la spate.\nSPEAKER_01: Merge un pic, dar doare.\nSPEAKER_00: Înțeles. Pare o tendinită a coifului rotatorilor, mai exact pe supraspinat. Procesul inflamator e activ, de aia doare la abducție și la rotație. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea. Dacă simțiți că doare mai mult în zilele următoare, evitați să ridicați greutăți cu mâna stângă.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Pacient acuză durere la umărul stâng de aproximativ două săptămâni, apărută după mutarea mobilei. Durere la abducție și rotație internă, fără iradiere pe braț, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații funcționale:\nLimitare la abducție aproximativ 90 de grade (nu depășește orizontala). Durere la rotație internă (mâna la spate). Sensibilitate la palpare pe tendonul supraspinat.\nDiagnostic:\nTendinită coif rotatori, supraspinat stâng.\nObiective terapeutice:\nReducerea procesului inflamator; recâștigarea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Vreo două săptămâni.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Până pe la orizontală, cam atât.", "Deci limitare la abducție, cam 90 de grade. Deasupra orizontalei nu mai merge?", "Vă apăs pe zona asta de aici, pe tendonul supraspinat. Doare?", "Pare o tendinită a coifului rotatorilor, mai exact pe supraspinat.", "O să lucrăm să reducem inflamația și să recâștigăm mobilitatea."]
+  }
+}

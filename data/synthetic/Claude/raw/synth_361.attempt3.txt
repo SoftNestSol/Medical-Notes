@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva? O lovitură, un efort mai mare?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Deci după efort a apărut durerea.\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, cât de tare doare acum?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Și când e mai rău, când ridicați brațul sau când stați liniștit?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Ridicați pentru mine brațul, ușor, până unde puteți... stop. Doare acum?\nSPEAKER_01: Da, aici.\nSPEAKER_00: Deci la ridicare laterală doare. Puteți să ridicați deasupra capului?\nSPEAKER_01: Greu.\nSPEAKER_00: Greu. Și noaptea vă treziți din durere?\nSPEAKER_01: Uneori.\nSPEAKER_00: Când dormiți pe umărul drept?\nSPEAKER_01: Da.\nSPEAKER_00: Am înțeles. Durerea rămâne în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne în umăr.\nSPEAKER_00: Doar în umăr, ok. Amorțeli în mână sau în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ați mai avut vreo problemă la umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, probleme cardiace?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă?\nSPEAKER_01: Nu.\nSPEAKER_00: Am înțeles. Haideți să vedem cum stă umărul. O să apăs în câteva zone și îmi spuneți dacă doare. Apăs acum pe tendonul bicepsului, aici în față. Doare?\nSPEAKER_01: Da, puțin.\nSPEAKER_00: Puțin. Acum apăs pe bursa, deasupra, pe acromion. Doare mai tare?\nSPEAKER_01: Da, mai tare.\nSPEAKER_00: Ok. Rotați-mi brațul spre interior, ca și cum ați băga mâna la spate. Puteți?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Limitare la rotație internă. Și rotație externă, brațul în afară... merge mai bine?\nSPEAKER_01: Da, asta merge.\nSPEAKER_00: Da. Avem o limitare la ridicare și la rotație internă, cu sensibilitate pe bursă și pe tendon. Asta sugerează o inflamație la nivelul bursei subacromiale și o iritație a tendonului coifului rotatorilor. Obiectivul nostru e să reducem inflamația și să recâștigăm mobilitatea umărului. Facem câteva ședințe și vedem cum răspunde.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă rog să vă așezați pe masă, cu fața spre mine.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după efort fizic (mutat mobilă), de aproximativ două săptămâni",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Limitare la ridicare laterală și la rotație internă a umărului drept; sensibilitate la palpare pe bursă subacromială și pe tendonul bicepsului. Diagnostic: inflamație bursă subacromială și iritație tendon coif rotatori. Obiective terapeutice: reducerea inflamației și recâștigarea mobilității umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă.", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Dreptul.", "Rămâne în umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Limitare la ridicare și la rotație internă, cu sensibilitate pe bursă și pe tendon.", "Asta sugerează o inflamație la nivelul bursei subacromiale și o iritație a tendonului coifului rotatorilor.", "Obiectivul nostru e să reducem inflamația și să recâștigăm mobilitatea umărului."]
+  }
+}

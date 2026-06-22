@@ -1,0 +1,84 @@
+SPEAKER_00: Bună ziua.
+SPEAKER_01: Bună ziua.
+SPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.
+SPEAKER_01: Păi... mă doare spatele, mai jos, de ceva vreme.
+SPEAKER_00: Bun. De cât timp?
+SPEAKER_01: Nu știu exact... vreo câteva săptămâni, poate mai mult. O lună, ceva de genul.
+SPEAKER_00: O lună. Și durerea asta a apărut brusc sau a venit treptat?
+SPEAKER_01: Treptat, cred. Adică nu știu să zic că m-am trezit dintr-o dată, a venit așa, mai ușor, mai tare.
+SPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum ați situa durerea?
+SPEAKER_01: Ehh... nu știu, cam pe la... pe la 5, 6 poate, depinde.
+SPEAKER_00: Depinde de ce?
+SPEAKER_01: Depinde când. Adică dimineața când mă scol e mai rău, după aia mai trece, dar dacă stau mult pe scaun la serviciu iar începe.
+SPEAKER_00: Deci mai rău dimineața și după statul prelungit.
+SPEAKER_01: Da, exact. Și dacă ridic ceva, mai ales dacă mă aplec.
+SPEAKER_00: Când vă aplecați doare mai tare?
+SPEAKER_01: Da, da, și când mă ridic înapoi, mai ales.
+SPEAKER_00: Înțeles. Durerea rămâne doar în spate sau se lasă și în altă parte?
+SPEAKER_01: Uneori parcă se lasă și pe... pe aici, pe fesă, pe dreapta mai mult.
+SPEAKER_00: Pe fesa dreaptă.
+SPEAKER_01: Da, mai mult pe dreapta, da.
+SPEAKER_00: Coboară mai jos de fesă? Pe picior?
+SPEAKER_01: Uneori parcă da, parcă se duce un pic pe piciorul drept, dar nu mereu. Nu știu exact până unde.
+SPEAKER_00: Amorțeste sau înțeapă piciorul?
+SPEAKER_01: Nu, nu chiar. Adică parcă mai trage, dar amorțit nu aș zice.
+SPEAKER_00: Bun. Și la serviciu ce faceți, stați mult la birou?
+SPEAKER_01: Da, cam toată ziua la calculator. Opt, nouă ore.
+SPEAKER_00: Înțeles. Aveți vreo afecțiune despre care știți? Tensiune, diabet, osteoporoză, ceva?
+SPEAKER_01: Tensiune am, da. Iau pastile pentru asta.
+SPEAKER_00: De mult timp?
+SPEAKER_01: De vreo trei ani, ceva de genul.
+SPEAKER_00: Ce pastile luați pentru tensiune, știți?
+SPEAKER_01: Amlodipină, cred că se cheamă. 5 miligrame.
+SPEAKER_00: Amlodipină 5 mg. Altceva mai luați?
+SPEAKER_01: Mai am ceva pentru colesterol, dar rar îl iau, nu prea sunt consecvent.
+SPEAKER_00: Știți cum se numește?
+SPEAKER_01: Rosuvastatina, parcă. Nu știu doza exact.
+SPEAKER_00: Ok. Altceva pentru spate, antiinflamatoare, ceva?
+SPEAKER_01: Am mai luat Ibuprofen când m-a durut mai rău, dar nu constant.
+SPEAKER_00: Înțeles. Ați mai avut probleme cu spatele înainte de asta?
+SPEAKER_01: Păi... acum vreo doi ani am mai avut ceva, dar a trecut de la sine. Nu am fost la nimeni atunci.
+SPEAKER_00: Dar acum de ce ați venit?
+SPEAKER_01: Pentru că nu mai trece singur. Și m-a recomandat o colegă, a zis că i-a făcut bine.
+SPEAKER_00: Bine. Ați mai făcut vreodată chiropractică sau osteopatie?
+SPEAKER_01: Nu, niciodată. Prima dată.
+SPEAKER_00: Ok. Hernie de disc știți dacă aveți, ați făcut vreun RMN?
+SPEAKER_01: Nu am făcut niciun RMN. Nu știu ce am acolo.
+SPEAKER_00: Înțeles. Scolioză, cifotă, ceva de genul?
+SPEAKER_01: Mi-a zis cineva cândva că am spatele un pic strâmb, dar nu știu, nu am văzut nicăieri scris.
+SPEAKER_00: Cine v-a zis?
+SPEAKER_01: Un medic de familie, acum mulți ani. Dar nu mi-a dat nimic, nimic scris.
+SPEAKER_00: Ok, nu e confirmat. Alergii la medicamente sau creme?
+SPEAKER_01: Nu.
+SPEAKER_00: Bun. Haideți să stați cu spatele la mine un moment. Picioarele ușor depărtate, mâinile pe lângă corp, relaxat.
+SPEAKER_01: Așa?
+SPEAKER_00: Da. Vedeți că aveți umărul drept un pic mai jos.
+SPEAKER_01: Serios? Nu știam.
+SPEAKER_00: Da. Și bazinul e ușor înclinat. Acum aplecați-vă încet în față, cât puteți.
+SPEAKER_01: Auu, da, doare.
+SPEAKER_00: Simțiți durerea în zona de jos a spatelui?
+SPEAKER_01: Da, fix acolo, pe aici.
+SPEAKER_00: Și pe fesă dreapta se lasă?
+SPEAKER_01: Da, da.
+SPEAKER_00: Bun. Îndreptați-vă.
+SPEAKER_00: Acum vă rog să stați pe piciorul drept singur. Vă ține?
+SPEAKER_01: Da, mă ține, dar parcă nu e stabil.
+SPEAKER_00: Pe stângul?
+SPEAKER_01: Mai bine.
+SPEAKER_00: Înțeles. Haideți pe masă, cu fața în sus vă rog.
+SPEAKER_01: Ok.
+SPEAKER_00: Ridic piciorul drept, îmi spuneți dacă apare durere în zona lombară sau pe picior.
+SPEAKER_01: Ah, da, acolo în spate se simte ceva.
+SPEAKER_00: La câte grade aproximativ?
+SPEAKER_01: Nu știu, nu e chiar de la început, mai sus.
+SPEAKER_00: Undeva la 50-60 de grade începe?
+SPEAKER_01: Da, cam acolo, cam acolo.
+SPEAKER_00: Piciorul stâng.
+SPEAKER_01: Nu, stângul nu doare.
+SPEAKER_00: Bun. Deci avem un test Lasègue pozitiv pe dreapta la peste 50 de grade. Asta înseamnă că există o iritație la nivelul rădăcinii nervoase, probabil L4-L5 sau L5-S1. Combinat cu durerea care se lasă pe fesa dreaptă și pe picior, e posibil să avem o protruzie discală sau o inflamație locală care apasă pe rădăcina nervoasă.
+SPEAKER_01: Adică hernie?
+SPEAKER_00: Nu pot spune cu certitudine fără un RMN. Ar fi util să faceți. Dar cel mai probabil avem o lombalgie cu componentă radiculară dreaptă, posibil L5-S1. Musculatura din zona lombară este și ea contractată, piriformul și fesierii sunt tensionați. Va trebui să lucrăm să reducem inflamația și contractura, să mobilizăm zona și să vedem cum evoluați.
+SPEAKER_01: Cât o să dureze?
+SPEAKER_00: Depinde de cum răspunde corpul. De obicei câteva ședințe pentru a simți o îmbunătățire. Dar vă recomand și acel RMN ca să știm exact cu ce ne confruntăm.
+SPEAKER_01: Ok, înțeles.
+SPEAKER_00: Bun, începem.

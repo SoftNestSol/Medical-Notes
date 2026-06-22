@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Durere umăr stâng de aproximativ trei săptămâni, accentuată la ridicarea brațului și noaptea la dormit pe partea stângă. Asociază cervicalgie cronică în fundal. Debut posibil legat de ridicare de cutii.",
+  "evaluarea_durerii_vas": [
+    7,
+    3
+  ],
+  "localizarea_durerii": [
+    "umar_stg",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Arc dureros la abducție și flexie anterioară (aproximativ 80-90 grade), durere la palpare subacromială și capul humerusului. Diagnostic: tendinopatie sau bursită subacromială. Obiective terapeutice: reducerea inflamației din zonă, refacerea mobilității umărului, corectare posturală."
+}

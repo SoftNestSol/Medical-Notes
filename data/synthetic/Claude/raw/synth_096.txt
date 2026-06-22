@@ -1,0 +1,55 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, vă rog, cu ce problemă veniți azi.\nSPEAKER_01: Bună ziua. Păi, mă doare umărul stâng de vreo două săptămâni. Adică, sincer, a început mai demult, poate de o lună, dar acum două săptămâni s-a înrăutățit rău de tot. Am crezut că o să-mi treacă singur, pentru că mai am eu uneori și mă rog, trece, dar de data asta nu a trecut.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Aaaa... 7. Da, 7. Noaptea e mai rău, nu pot dormi pe partea aia. Și mă gândesc că poate am ceva rupt acolo, știți? Am văzut pe internet că poți să ai tendonul rupt și să nu știi și... nu știu, mă sperie.\nSPEAKER_00: Înțeleg. Doare și când ridicați brațul?\nSPEAKER_01: Da, da, exact. Când ridic brațul așa, sus, doare îngrozitor. Și când îl duc în spate, să mă îmbrac, spre exemplu. Adică să pun jacheta e o dramă. Soția mă ajută dimineața, vă dați seama la 52 de ani.\nSPEAKER_00: Și în repaus, când stați liniștit, doare?\nSPEAKER_01: În repaus mai puțin. Dar dacă stau pe el noaptea mă trezesc. Ziua mai uit de el dacă nu fac nimic cu brațul.\nSPEAKER_00: A fost vreun traumatism, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Nu că îmi amintesc. Păi, adică... am mutat niște mobilă acum vreo lună și jumătate, singur, că n-am avut pe cine să rog. Poate de atunci, nu știu sigur. Dar n-am simțit nimic în momentul ăla, a apărut treptat.\nSPEAKER_00: Înțeles. Alte dureri în afară de umăr?\nSPEAKER_01: Păi, mai am ceva la gât uneori, cervical, dar aia e veche, mă obișnuisem cu ea. Zicea medicul meu de familie că am ceva la vertebre, dar n-am mai mers să investighez. Nu mă deranjează acum, la umăr m-am oprit.\nSPEAKER_00: Aveți tensiune, diabet, alte boli?\nSPEAKER_01: Tensiune am, da. Iau pastile pentru ea. Metoprolol, 50 de miligrame, o dată pe zi. Și mai iau ceva pentru colesterol, Rosuvastatina, dar doza... 10 miligrame, cred. Da, 10. Altceva nu.\nSPEAKER_00: Bun. Intervenții chirurgicale, fracturi?\nSPEAKER_01: Meniscul la genunchiul drept, acum vreo zece ani. Operație, da. Și după a mers bine, nu mă mai deranjează.\nSPEAKER_00: Ok. Haideți să fac câteva teste. Ridicați brațul stâng în față, încet.\nSPEAKER_01: Până aici merge, după aia... au, da, uite.\nSPEAKER_00: Doare undeva pe la 90 de grade?\nSPEAKER_01: Da, exact pe acolo începe.\nSPEAKER_00: Stați puțin. Acum apăs pe zona asta de sus, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo e! Exact acolo. Ăla e locul.\nSPEAKER_00: Și dacă ridicați brațul lateral, la fel?\nSPEAKER_01: La fel, poate chiar mai rău lateral.\nSPEAKER_00: Înțeles. Pare o tendinopatie a manșonului rotator, cel mai probabil supraspinosul. Arc dureros prezent între 60 și 120 de grade. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Deci nu e rupt? Pentru că am citit că dacă nu tratezi se rupe și atunci numai cu operație.\nSPEAKER_00: Acum nu avem semne de ruptură completă. Dar e bine că ați venit.\nSPEAKER_01: Bun, mă liniștesc un pic. Ziceam eu că poate exagerez, dar noaptea e greu.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng cu debut progresiv de aproximativ o lună, agravată în ultimele două săptămâni. Durere la ridicarea brațului și la ducerea lui în spate. Exacerbare nocturnă.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": "operație menisc genunchi drept",
+    "medicatie_actuala": [
+      {
+        "denumire": "Metoprolol",
+        "doza": "50 mg, o dată pe zi"
+      },
+      {
+        "denumire": "Rosuvastatina",
+        "doza": "10 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinopatie manizon rotator, supraspinat. Arc dureros prezent între 60 și 120 de grade. Obiective terapeutice: reducerea inflamației și recuperarea mobilității umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul stâng de vreo două săptămâni",
+      "a început mai demult, poate de o lună",
+      "acum două săptămâni s-a înrăutățit rău de tot",
+      "Când ridic brațul așa, sus, doare îngrozitor. Și când îl duc în spate",
+      "noaptea e mai rău, nu pot dormi pe partea aia"
+    ],
+    "evaluarea_durerii_vas": [
+      "7. Da, 7."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul stâng"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am, da."
+    ],
+    "antecedente_altele": [
+      "Meniscul la genunchiul drept, acum vreo zece ani. Operație, da."
+    ],
+    "medicatie_actuala": [
+      "Metoprolol, 50 de miligrame, o dată pe zi",
+      "Rosuvastatina, dar doza... 10 miligrame, cred. Da, 10."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare o tendinopatie a manșonului rotator, cel mai probabil supraspinosul. Arc dureros prezent între 60 și 120 de grade. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului."
+    ]
+  }
+}

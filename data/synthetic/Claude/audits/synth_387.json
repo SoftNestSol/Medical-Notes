@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_387",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere la umăr, la umărul drept, de vreo două luni și ceva",
+      "dacă ridic mâna, sau dacă încerc să ajung, nu știu, la ceva pe un raft mai sus, atunci simt că mă trage rău",
+      "noaptea mă doare mai rău, mai ales dacă stau pe partea dreaptă",
+      "Se lasă un pic pe braț, pe partea din față, nu coboară mai jos de cot",
+      "când încerc să ridic ceva un pic mai greu cu mâna dreaptă, simt că nu am aceeași putere ca înainte"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când fac mișcări... aș zice un 7. Noaptea când mă trezesc tot un 7",
+      "Când stau liniștit poate un 3"
+    ],
+    "localizarea_durerii": [
+      "am o durere la umăr, la umărul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă un pic pe braț, pe partea din față, nu coboară mai jos de cot"
+    ],
+    "antecedente": [
+      "doctorița mea mi-a zis acum vreo câțiva ani că am o ușoară scolioză, dar că nu e gravă"
+    ],
+    "antecedente_altele": [
+      "acum doi ani am avut o mică accidentare la fotbal, dar la celălalt umăr, la stânga",
+      "o entorsă mică ziceau, nu știu exact, am stat vreo zece zile cu brațul mai ferit și a trecut"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "de pe la jumătate în sus doare",
+      "Au, asta doare mai rău. Nu pot să duc mâna chiar la ceafă, mă opresc pe la ureche",
+      "ajung cam la mijlocul spatelui și gata, nu mai pot",
+      "Pe tendonul supraspinosului",
+      "Tabloul acesta este consistent cu o tendinopatie a coifului rotatorilor, probabil la nivelul supraspinosului",
+      "Obiectivul nostru este să reducem inflamația tendonului, să refacem mobilitatea umărului și să corectăm postura"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23237,
+    "inference_geo": "global",
+    "input_tokens": 318,
+    "output_tokens": 3776,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

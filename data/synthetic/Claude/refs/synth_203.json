@@ -1,0 +1,19 @@
+{
+  "motivul_prezentarii": "Durere la nivelul umărului stâng, instalată după efort de ridicare a mobilei, de aproximativ trei săptămâni. Limitarea abducției și flexiei (nu depășește orizontala), durere nocturnă cu trezire din somn la decubit pe umărul afectat.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\nTendinopatie supraspinatus cu posibil impingement subacomial stâng. Abducție mai limitată decât flexia; durere la presiune directă pe tendonul supraspinatus; rotație internă limitată.\nObiective terapeutice:\nReducerea inflamației și recâștigarea mobilității umărului stâng."
+}

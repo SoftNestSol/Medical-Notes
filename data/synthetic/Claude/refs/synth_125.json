@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (ridicare dulap), de trei saptamani. Durere la miscari ample, mai ales la ducerea bratului in spate. Nu poate dormi pe partea dreapta.",
+  "evaluarea_durerii_vas": [
+    3,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "deltoid lateral",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "episod de cervicalgie cu blocaj in antecedente (rezolvat spontan)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "o pastila pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Abductie si flexie activa limitate la aproximativ 90 de grade cu durere. Rotatie interna pastrata mai bine. Durere la palparea tendonului supraspinatus. Diagnostic: tendinopatie supraspinatus drept, inflamatie post-efort. Obiective terapeutice: reducerea inflamatiei, refacerea mobilitatii articulare."
+}

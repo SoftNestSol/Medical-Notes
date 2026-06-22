@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi cu ce problemă ne vedem azi.\nSPEAKER_01: Păi, mă doare umărul drept, de vreo două săptămâni, și sincer nu știu ce am făcut, poate de la calculatoare, stau mult la birou, poate de la bagaje că am venit din vacanță săptămâna trecută și am căratu mult, nu știu exact de unde, dar mă doare rău.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, cât de tare vă doare?\nSPEAKER_01: Eu zic că un 6, poate 7 când ridic mâna sus. Când stau liniștit, 4-5, dar dacă ridic sau trag ceva, au, se duce sus.\nSPEAKER_00: Deci 6-7 la mișcare și 4-5 în repaus.\nSPEAKER_01: Da, cam așa. Și noaptea mă mai trezesc, că dorm pe partea dreaptă și mă doare, trebuie să mă întorc. Ceea ce e super deranjant pentru că și soția mea zice că mă foiesc toată noaptea.\nSPEAKER_00: Doare doar în umăr sau coboară și pe braț?\nSPEAKER_01: Mai mult în umăr, pe aici, dar câteodată simt un pic ceva și pe față laterală a brațului, nu jos de tot, nu ajunge la cot sau mai jos, doar pe braț un pic.\nSPEAKER_00: Amorțeli, furnicături în mână sau degete?\nSPEAKER_01: Nu, asta nu.\nSPEAKER_00: Ok. De când exact, spuneți vreo două săptămâni?\nSPEAKER_01: Da, aproximativ două săptămâni, poate puțin mai mult. Stai, că acum că mă gândesc, eu am mai simțit ceva și în urmă cu o lună, dar a trecut repede, credeam că am dormit prost și atât. Și după vacanță s-a întors și nu mai trece.\nSPEAKER_00: Ați mai avut problema asta la același umăr în trecut, înainte de o lună?\nSPEAKER_01: Nu, niciodată. Eu în general nu am probleme cu spatele, umărul, nimic. Asta e prima dată.\nSPEAKER_00: Ați făcut vreun sport, activitate mai intensă înainte să apară durerea?\nSPEAKER_01: Eu merg la sală uneori, nu constant, și în vacanță am făcut niște kayaking, prima dată în viața mea, și poate de acolo, nu știu. Și piscina, am înotat mult.\nSPEAKER_00: Probabil de acolo. Deci suprasolicitare.\nSPEAKER_01: Da, probabil, că nu sunt obișnuit cu mișcările astea. Și eu eram convins că trece singur, dar iată că nu.\nSPEAKER_00: Ați luat ceva pentru durere?\nSPEAKER_01: Am dat cu un gel antiinflamator, Voltaren, de câteva ori, dar nu a ajutat prea mult. Și o pastilă de Ibuprofen uneori seara când nu pot să dorm, dar nu iau constant, doar când e mai rău.\nSPEAKER_00: Înțeles. Alte afecțiuni medicale, tensiune, diabet, probleme de inimă, ceva?\nSPEAKER_01: Nu, nu, sunt sănătos tun altfel. Am 34 de ani, nu am nimic. Fac analize în fiecare an și e totul ok.\nSPEAKER_00: Bine. Intervenții chirurgicale, fracturi la umăr sau braț?\nSPEAKER_01: Nimic, nu am rupt nimic în viața mea.\nSPEAKER_00: Ok. Ridicați mâna dreaptă în față, încet. Cât puteți.\nSPEAKER_01: Până pe la orizontală merge, mai sus deja...\nSPEAKER_00: Doare?\nSPEAKER_01: Da, de la orizontală în sus doare mai tare.\nSPEAKER_00: Acum duceți mâna în lateral, tot încet.\nSPEAKER_01: La fel, pe la 90 de grade se blochează și doare.\nSPEAKER_00: Bun. Puneți mâna la spate, ca și cum ați prinde centura.\nSPEAKER_01: Ăsta merge mai bine, nu doare la fel de tare.\nSPEAKER_00: Apăs acum pe umăr, pe zona asta de deasupra, spuneți-mi dacă doare.\nSPEAKER_01: Da, da, exact acolo doare, pe acolo e.\nSPEAKER_00: Deci avem o inflamație la nivelul tendonului supraspinosului, cel mai probabil. Limitare la abducție și flexie peste 90 de grade, durere la palpare pe zona subacromiala.\nSPEAKER_01: Și ce înseamnă asta, e grav? Că mă gândeam că poate am rupt ceva, că durerea e destul de mare.\nSPEAKER_00: Nu e ruptură, nu arată a ruptură. E o tendinopatie, o inflamație de suprasolicitare. Se poate rezolva.\nSPEAKER_01: Bine, că mă speriasem. Și cât durează?\nSPEAKER_00: Depinde cum răspundeți la tratament, dar cu câteva ședințe ar trebui să se amelioreze. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Perfect, hai să facem asta.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept de aproximativ două săptămâni, apărută după activități fizice neobișnuite (kayaking, înot) în vacanță. Durere la ridicarea brațului, limitare la abducție și flexie peste 90 de grade, treziri nocturne din cauza durerii.",
+    "evaluarea_durerii_vas": [6, 7],
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "față laterală a brațului drept",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      },
+      {
+        "denumire": "Ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- Tendinopatie supraspinat / inflamație subacromială\n- Limitare la abducție și flexie umăr drept peste 90 de grade\n- Durere la palpare zona subacromiala\nObiective terapeutice:\n- Reducerea inflamației\n- Recuperarea mobilității umărului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept, de vreo două săptămâni",
+      "în vacanță am făcut niște kayaking, prima dată în viața mea, și poate de acolo",
+      "noaptea mă mai trezesc, că dorm pe partea dreaptă și mă doare"
+    ],
+    "evaluarea_durerii_vas": [
+      "un 6, poate 7 când ridic mâna sus. Când stau liniștit, 4-5"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "câteodată simt un pic ceva și pe față laterală a brațului, nu jos de tot, nu ajunge la cot sau mai jos, doar pe braț un pic"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am dat cu un gel antiinflamator, Voltaren, de câteva ori",
+      "o pastilă de Ibuprofen uneori seara când nu pot să dorm"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendonului supraspinosului, cel mai probabil",
+      "Limitare la abducție și flexie peste 90 de grade, durere la palpare pe zona subacromiala",
+      "Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului"
+    ]
+  }
+}

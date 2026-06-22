@@ -1,0 +1,265 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 4.12,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 4.24,
+      "end": 5.38,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare gâtul."
+    },
+    {
+      "start": 5.5,
+      "end": 6.64,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp?"
+    },
+    {
+      "start": 6.76,
+      "end": 7.9,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo două săptămâni."
+    },
+    {
+      "start": 8.02,
+      "end": 12.2,
+      "speaker": "SPEAKER_00",
+      "text": "Două săptămâni. Și a apărut din senin sau după ceva anume?"
+    },
+    {
+      "start": 12.32,
+      "end": 15.36,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, m-am trezit dimineața și era."
+    },
+    {
+      "start": 15.48,
+      "end": 19.28,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Doare și în ceafă sau mai jos, spre umăr?"
+    },
+    {
+      "start": 19.4,
+      "end": 22.82,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult în ceafă. Și puțin pe umărul stâng."
+    },
+    {
+      "start": 22.94,
+      "end": 27.12,
+      "speaker": "SPEAKER_00",
+      "text": "Pe umărul stâng. Se lasă durerea și pe braț, amorțește ceva?"
+    },
+    {
+      "start": 27.24,
+      "end": 28.04,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 28.16,
+      "end": 36.52,
+      "speaker": "SPEAKER_00",
+      "text": "Nu. Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maximul, unde vă situați?"
+    },
+    {
+      "start": 36.64,
+      "end": 37.44,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 5."
+    },
+    {
+      "start": 37.56,
+      "end": 41.74,
+      "speaker": "SPEAKER_00",
+      "text": "5. Doare mai tare când întoarceți capul sau când stați nemișcat?"
+    },
+    {
+      "start": 41.86,
+      "end": 43.0,
+      "speaker": "SPEAKER_01",
+      "text": "Când îl întorc."
+    },
+    {
+      "start": 43.12,
+      "end": 44.26,
+      "speaker": "SPEAKER_00",
+      "text": "În ce parte?"
+    },
+    {
+      "start": 44.38,
+      "end": 45.9,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult spre dreapta."
+    },
+    {
+      "start": 46.02,
+      "end": 49.82,
+      "speaker": "SPEAKER_00",
+      "text": "Spre dreapta. Și la calculator sau la birou stați mult?"
+    },
+    {
+      "start": 49.94,
+      "end": 50.74,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 50.86,
+      "end": 52.38,
+      "speaker": "SPEAKER_00",
+      "text": "Cât pe zi aproximativ?"
+    },
+    {
+      "start": 52.5,
+      "end": 53.64,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo opt ore."
+    },
+    {
+      "start": 53.76,
+      "end": 57.94,
+      "speaker": "SPEAKER_00",
+      "text": "Opt ore la birou. Înțeles. Alte afecțiuni, tensiune, diabet, epilepsie, osteoporoză?"
+    },
+    {
+      "start": 58.06,
+      "end": 58.86,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic."
+    },
+    {
+      "start": 58.98,
+      "end": 60.12,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale, fracturi?"
+    },
+    {
+      "start": 60.24,
+      "end": 61.04,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 61.16,
+      "end": 61.96,
+      "speaker": "SPEAKER_00",
+      "text": "Medicamente luați?"
+    },
+    {
+      "start": 62.08,
+      "end": 62.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 63.0,
+      "end": 64.9,
+      "speaker": "SPEAKER_00",
+      "text": "Alergii la creme sau unguente?"
+    },
+    {
+      "start": 65.02,
+      "end": 65.82,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 65.94,
+      "end": 70.88,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să facem câteva verificări. Întoarceți capul ușor spre dreapta pentru mine."
+    },
+    {
+      "start": 71.0,
+      "end": 72.14,
+      "speaker": "SPEAKER_01",
+      "text": "Pân-aici pot."
+    },
+    {
+      "start": 72.26,
+      "end": 76.44,
+      "speaker": "SPEAKER_00",
+      "text": "Da, vedem că rotația spre dreapta e limitată. Acum spre stânga."
+    },
+    {
+      "start": 76.56,
+      "end": 78.08,
+      "speaker": "SPEAKER_01",
+      "text": "Asta merge mai bine."
+    },
+    {
+      "start": 78.2,
+      "end": 82.0,
+      "speaker": "SPEAKER_00",
+      "text": "Da, stânga e mai liberă. Aplecați capul puțin spre piept."
+    },
+    {
+      "start": 82.12,
+      "end": 83.64,
+      "speaker": "SPEAKER_01",
+      "text": "Doare puțin în ceafă."
+    },
+    {
+      "start": 83.76,
+      "end": 91.36,
+      "speaker": "SPEAKER_00",
+      "text": "Doare în ceafă la flexie. Bun. O să apăs puțin pe mușchii de lângă coloana cervicală, spuneți-mi dacă doare."
+    },
+    {
+      "start": 91.48,
+      "end": 92.28,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo."
+    },
+    {
+      "start": 92.4,
+      "end": 100.0,
+      "speaker": "SPEAKER_00",
+      "text": "Contractură musculară destul de pronunțată pe zona cervicală, mai ales pe dreapta. Și pe umărul stâng o să apăs puțin."
+    },
+    {
+      "start": 100.12,
+      "end": 100.92,
+      "speaker": "SPEAKER_01",
+      "text": "Mmm, doare."
+    },
+    {
+      "start": 101.04,
+      "end": 121.56,
+      "speaker": "SPEAKER_00",
+      "text": "Doare. Trapezul stâng e și el încordat. Ce pot să vă spun este că avem o contractură cervicală cu iradiere spre umărul stâng, cel mai probabil legată și de postura la birou. Va trebui să lucrăm la reducerea tensiunii musculare și să îmbunătățim mobilitatea pe rotație dreaptă. Câteva ședințe ar trebui să rezolve lucrurile."
+    },
+    {
+      "start": 121.68,
+      "end": 122.48,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 122.6,
+      "end": 124.5,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă, vă rog."
+    }
+  ]
+}

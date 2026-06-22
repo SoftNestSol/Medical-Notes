@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și cum a apărut? A apărut brusc sau treptat?\nSPEAKER_01: Treptat, nu știu exact.\nSPEAKER_00: Ați făcut ceva anume, ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau doar când mișcați?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Până unde reușiți să ridicați?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci cam la orizontală. Doare când ridicați în față sau în lateral?\nSPEAKER_01: Mai mult în lateral.\nSPEAKER_00: Se lasă durerea pe braț, pe gât?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțește mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Noaptea vă treziți din cauza durerii?\nSPEAKER_01: Da, câteodată.\nSPEAKER_00: Când stați pe umărul stâng?\nSPEAKER_01: Da.\nSPEAKER_00: Înțeles. Ce ocupație aveți?\nSPEAKER_01: Stau la birou.\nSPEAKER_00: Mult la calculator?\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, cancer, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați medicamente în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Ridicați brațul în lateral, ușor. Spuneți-mi unde simțiți că doare.\nSPEAKER_01: Aici, pe aici.\nSPEAKER_00: Pe zona de deasupra articulației, exact pe acromion. Doare mai tare când ridicați între 60 și 90 de grade?\nSPEAKER_01: Da, exact acolo.\nSPEAKER_00: Și dacă continuați mai sus?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Și dacă vă pun mâna pe umăr și apăs puțin, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Deci avem un arc dureros, ceea ce ne indică o inflamație la nivelul tendoanelor din spațiul subacromial. Cel mai probabil o tendinopatie a coifului rotatorilor. Vom lucra să reducem inflamația și să recuperăm mobilitatea completă a umărului.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang, aparuta treptat in urma cu aproximativ doua saptamani, fara traumatism identificat. Durere la ridicarea bratului in lateral, mai ales intre 60 si 90 de grade, cu treziri nocturne la decubit pe umarul afectat.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\nTendinopatie coif rotatori umar stang, sindrom de impingement subacromial (arc dureros 60-90 grade abductie).\nObiective terapeutice:\n- reducerea inflamatiei;\n- recuperarea mobilitatii complete a umarului stang."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "De vreo două săptămâni.", "Treptat, nu știu exact.", "Nu, nimic.", "Mai mult în lateral.", "Da, câteodată.", "Când stați pe umărul stâng? Da."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Luați medicamente în prezent? Nu."],
+    "evaluare_functionala_initiala": ["Deci avem un arc dureros, ceea ce ne indică o inflamație la nivelul tendoanelor din spațiul subacromial. Cel mai probabil o tendinopatie a coifului rotatorilor. Vom lucra să reducem inflamația și să recuperăm mobilitatea completă a umărului.", "Doare mai tare când ridicați între 60 și 90 de grade? Da, exact acolo.", "Pe zona de deasupra articulației, exact pe acromion."]
+  }
+}

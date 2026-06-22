@@ -1,0 +1,28 @@
+{
+  "motivul_prezentarii": "Durere la nivelul coloanei lombare si toracale, instalata treptat, agravata in ultima luna, cu iradiere pe fesa stanga si coapsa stanga",
+  "evaluarea_durerii_vas": [
+    5,
+    8
+  ],
+  "localizarea_durerii": [
+    "lombar",
+    "toracal"
+  ],
+  "localizarea_durerii_alta": "fesa stanga, coapsa stanga",
+  "antecedente": [
+    "hipertensiune_arteriala",
+    "artrita_artroza"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Amlodipina",
+      "doza": "5 mg"
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observatii posturale: umarul stang mai jos decat cel drept. Mobilitate redusa in flexie anterioara lombara si in inclinare laterala stanga, cu durere la inclinare stanga. Contractura musculatura paravertebrala lombara, mai pronuntata pe stanga. Sensibilitate zona toracala inferioara.\nDiagnostic: contractura paravertebrala lombara, mobilitate redusa zona lombara\nObiective terapeutice: reducerea contracturii musculare, cresterea mobilitatii lombare"
+}

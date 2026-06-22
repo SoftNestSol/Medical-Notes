@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo trei săptămâni.\nSPEAKER_00: Și apare durerea în repaus sau mai mult când mișcați brațul?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Când îl ridicați în sus sau și în lateral?\nSPEAKER_01: Mai mult în sus.\nSPEAKER_00: Ajungeți cu brațul sus de tot sau vă blochează la un moment dat?\nSPEAKER_01: Mă blochează pe la jumătate cam așa.\nSPEAKER_00: Am înțeles. Și noaptea vă deranjează, nu puteți dormi pe partea dreaptă?\nSPEAKER_01: Da, nu pot.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât estimați durerea?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. A existat vreun traumatism, vreo lovitură, vreo căzătură?\nSPEAKER_01: Nu, nu știu de unde a apărut.\nSPEAKER_00: Faceți vreun sport sau aveți o muncă fizică?\nSPEAKER_01: Stau mai mult la birou.\nSPEAKER_00: La birou. Și cu mâna dreaptă lucrați mult la tastatură sau mouse?\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Am înțeles. Tensiune arterială, diabet, alte afecțiuni?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreo medicație în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să fac câteva teste să văd exact ce se întâmplă. Ridicați brațul drept în față, încet. Spuneți-mi când apare durerea.\nSPEAKER_01: Acum.\nSPEAKER_00: Pe la 80-90 de grade, da?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă apăs aici, pe tendonul supraspinos, doare?\nSPEAKER_01: Au, da.\nSPEAKER_00: Doare destul de tare?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă faceți rotație internă, aduceți mâna la spate, până unde ajungeți?\nSPEAKER_01: Până aici, mai jos de brâu nu pot.\nSPEAKER_00: Nu puteți. Ok. Avem o inflamație la nivelul tendoanelor coafei rotatorilor, zona supraspinos în special. Muncă la birou, poziție proastă, suprasolicitare cu mâna dreaptă, toate astea contribuie. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului drept. Haideți să începem.\nSPEAKER_01: Ok.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept, aparuta de aproximativ trei saptamani, fara traumatism, asociata cu munca la birou",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Inflamatie tendoane coafa rotatorilor, zona supraspinos;\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii umarului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "De vreo trei săptămâni.", "Nu, nu știu de unde a apărut.", "Stau mai mult la birou."],
+    "evaluarea_durerii_vas": ["Un 6."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu."],
+    "evaluare_functionala_initiala": ["Avem o inflamație la nivelul tendoanelor coafei rotatorilor, zona supraspinos în special.", "Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului drept."]
+  }
+}

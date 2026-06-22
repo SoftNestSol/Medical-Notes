@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere umăr drept apărută după mutatul mobilei, de aproximativ două săptămâni",
+  "evaluarea_durerii_vas": [
+    6,
+    2
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: inflamație tendon supraspinos.\nObiective terapeutice: reducerea inflamației, recuperarea amplitudinii de mișcare."
+}

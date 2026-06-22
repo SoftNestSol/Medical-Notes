@@ -1,0 +1,34 @@
+{
+  "motivul_prezentarii": "Durere umăr stâng de aproximativ 3-4 săptămâni, apărută după efort fizic (mutat mobilă grea). Durere exacerbată seara/noaptea, cu limitarea mișcării la abducție și rotație internă, redoare matinală de 10-15 minute. Iradiere pe brațul stâng până la mijloc.",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "brațul stâng până la mijloc",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400 miligrame"
+    },
+    {
+      "denumire": "Voltaren",
+      "doza": null
+    },
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    },
+    {
+      "denumire": "Vitamina D",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: Tendinită manșon rotatori umăr stâng. Limitarea mișcării în abducție (durere din aprox. 90 grade) și rotație internă. Durere la palparea inserției supraspinosului. Obiective terapeutice: reducerea inflamației, recuperarea mobilității umărului stâng."
+}

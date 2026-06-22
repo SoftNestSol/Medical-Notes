@@ -1,0 +1,361 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, doamnă."
+    },
+    {
+      "start": 1.26,
+      "end": 2.06,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 2.18,
+      "end": 4.84,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cum vă numiți?"
+    },
+    {
+      "start": 4.96,
+      "end": 5.76,
+      "speaker": "SPEAKER_01",
+      "text": "Ionescu Mariana."
+    },
+    {
+      "start": 5.88,
+      "end": 7.78,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, și vârsta, doamna Ionescu?"
+    },
+    {
+      "start": 7.9,
+      "end": 9.04,
+      "speaker": "SPEAKER_01",
+      "text": "54 de ani."
+    },
+    {
+      "start": 9.16,
+      "end": 12.2,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 12.32,
+      "end": 23.34,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... mă doare gâtul, adică... cervicala, cum s-ar zice. Și mă mai doare și umărul drept, dar mai puțin. Nu știu, e ceva grav? Mă îngrijorează un pic."
+    },
+    {
+      "start": 23.46,
+      "end": 31.44,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg că vă îngrijorează. Haideți să vedem mai întâi ce se întâmplă și după vorbim. De cât timp vă doare gâtul?"
+    },
+    {
+      "start": 31.56,
+      "end": 39.92,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... cred că de vreo trei săptămâni, poate mai mult. Nu știu exact. A început mai ușor și acum e mai rău."
+    },
+    {
+      "start": 40.04,
+      "end": 44.6,
+      "speaker": "SPEAKER_00",
+      "text": "A apărut după ceva anume? Un efort, o mișcare, ați dormit ciudat?"
+    },
+    {
+      "start": 44.72,
+      "end": 58.02,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu sigur. Poate de la birou, stau mult la calculator toată ziua. Parcă s-a agravat după o ședință mai lungă, vreo cinci ore fără să mă ridic. Și poate și de la stres."
+    },
+    {
+      "start": 58.14,
+      "end": 64.22,
+      "speaker": "SPEAKER_00",
+      "text": "Și durerea asta în gât, vă rămâne doar acolo sau se duce și în altă parte?"
+    },
+    {
+      "start": 64.34,
+      "end": 72.7,
+      "speaker": "SPEAKER_01",
+      "text": "Se duce uneori și în cap, în ceafă, mai sus. Și câteodată simt un pic pe umărul drept, dar nu tot timpul."
+    },
+    {
+      "start": 72.82,
+      "end": 74.34,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeli la mâini, degete?"
+    },
+    {
+      "start": 74.46,
+      "end": 82.82,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori, da. La mâna dreaptă, degetele, parcă. Nu știu dacă e de la gât sau de la altceva. Asta mă sperie, sincer."
+    },
+    {
+      "start": 82.94,
+      "end": 94.34,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare cel mai rău posibil, unde v-ați situa cu durerea de gât acum?"
+    },
+    {
+      "start": 94.46,
+      "end": 100.54,
+      "speaker": "SPEAKER_01",
+      "text": "Acum... un 6, poate 7. Mai ales când întorc capul spre dreapta, atunci e mai rău."
+    },
+    {
+      "start": 100.66,
+      "end": 105.22,
+      "speaker": "SPEAKER_00",
+      "text": "Când întoarceți capul spre dreapta doare mai tare. Și dacă stați nemișcată?"
+    },
+    {
+      "start": 105.34,
+      "end": 111.8,
+      "speaker": "SPEAKER_01",
+      "text": "Dacă stau nemișcată e mai suportabil, un 4 poate. Dar nu pot să stau tot timpul nemișcată."
+    },
+    {
+      "start": 111.92,
+      "end": 114.96,
+      "speaker": "SPEAKER_00",
+      "text": "Bineînțeles. Și umărul drept, cât de tare doare?"
+    },
+    {
+      "start": 115.08,
+      "end": 121.92,
+      "speaker": "SPEAKER_01",
+      "text": "Umărul... un 4, nu e la fel de rău ca gâtul. Mai mult mă jenează decât mă doare."
+    },
+    {
+      "start": 122.04,
+      "end": 124.7,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Aveți amețeli, greață, dureri de cap?"
+    },
+    {
+      "start": 124.82,
+      "end": 133.94,
+      "speaker": "SPEAKER_01",
+      "text": "Dureri de cap am, da, mai ales dimineața. Și uneori mă simt un pic amețită când mă ridic brusc din pat. Asta e normal?"
+    },
+    {
+      "start": 134.06,
+      "end": 139.38,
+      "speaker": "SPEAKER_00",
+      "text": "Notăm și asta. Ați mai avut probleme cu gâtul înainte sau e prima dată?"
+    },
+    {
+      "start": 139.5,
+      "end": 148.62,
+      "speaker": "SPEAKER_01",
+      "text": "Păi am mai avut, acum doi ani a fost ceva similar dar a trecut singur. Acum nu trece și de asta m-am speriat."
+    },
+    {
+      "start": 148.74,
+      "end": 156.34,
+      "speaker": "SPEAKER_00",
+      "text": "Bine că ați venit. Alte afecțiuni pe care le aveți, cum ar fi tensiune arterială, diabet, probleme de inimă, osteoporoză?"
+    },
+    {
+      "start": 156.46,
+      "end": 162.92,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am tensiune. Am descoperit-o acum doi ani, tot cam pe atunci. Iau pastile pentru ea."
+    },
+    {
+      "start": 163.04,
+      "end": 164.94,
+      "speaker": "SPEAKER_00",
+      "text": "Ce pastile luați pentru tensiune?"
+    },
+    {
+      "start": 165.06,
+      "end": 170.38,
+      "speaker": "SPEAKER_01",
+      "text": "Perindopril, mi-a prescris doctorul de familie. 5 miligrame, o dată pe zi, dimineața."
+    },
+    {
+      "start": 170.5,
+      "end": 173.92,
+      "speaker": "SPEAKER_00",
+      "text": "Și altceva mai luați, vreun antiinflamator, ceva pentru durere?"
+    },
+    {
+      "start": 174.04,
+      "end": 182.02,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat Ketoprofen acum câteva zile, am cumpărat de la farmacie, dar nu prea m-a ajutat. Nu mai iau acum."
+    },
+    {
+      "start": 182.14,
+      "end": 185.56,
+      "speaker": "SPEAKER_00",
+      "text": "Deci în momentul de față luați doar Perindopril, nu?"
+    },
+    {
+      "start": 185.68,
+      "end": 187.2,
+      "speaker": "SPEAKER_01",
+      "text": "Da, doar ăla acum."
+    },
+    {
+      "start": 187.32,
+      "end": 188.84,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale, accidente, fracturi?"
+    },
+    {
+      "start": 188.96,
+      "end": 192.38,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am avut nimic din astea, slavă Domnului."
+    },
+    {
+      "start": 192.5,
+      "end": 195.54,
+      "speaker": "SPEAKER_00",
+      "text": "Boli cu transmitere, alergii la medicamente sau creme?"
+    },
+    {
+      "start": 195.66,
+      "end": 197.56,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu știu de niciuna."
+    },
+    {
+      "start": 197.68,
+      "end": 204.14,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să vă examinez puțin. Stați cu spatele la mine, relaxat. Puteți să întoarceți capul spre dreapta?"
+    },
+    {
+      "start": 204.26,
+      "end": 205.4,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici... doare."
+    },
+    {
+      "start": 205.52,
+      "end": 209.7,
+      "speaker": "SPEAKER_00",
+      "text": "Da, văd că mobilitatea e limitată spre dreapta. Și spre stânga?"
+    },
+    {
+      "start": 209.82,
+      "end": 212.1,
+      "speaker": "SPEAKER_01",
+      "text": "Spre stânga merge mai bine, da."
+    },
+    {
+      "start": 212.22,
+      "end": 216.78,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Apăs un pic musculatura cervicală pe dreapta, spuneți-mi dacă doare."
+    },
+    {
+      "start": 216.9,
+      "end": 218.8,
+      "speaker": "SPEAKER_01",
+      "text": "Doare, da, acolo chiar doare."
+    },
+    {
+      "start": 218.92,
+      "end": 220.82,
+      "speaker": "SPEAKER_00",
+      "text": "Pe stânga e la fel?"
+    },
+    {
+      "start": 220.94,
+      "end": 221.74,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 221.86,
+      "end": 224.9,
+      "speaker": "SPEAKER_00",
+      "text": "Și trapezul, musculatura de pe umăr, apăs aici."
+    },
+    {
+      "start": 225.02,
+      "end": 227.3,
+      "speaker": "SPEAKER_01",
+      "text": "Și acolo, da. E contractat, nu?"
+    },
+    {
+      "start": 227.42,
+      "end": 235.78,
+      "speaker": "SPEAKER_00",
+      "text": "Da, e o contractură evidentă pe toată zona trapez dreapta și musculatura paravertebrală cervicală pe dreapta. Acum aplecați capul puțin în față."
+    },
+    {
+      "start": 235.9,
+      "end": 238.18,
+      "speaker": "SPEAKER_01",
+      "text": "Pot, dar până la un punct."
+    },
+    {
+      "start": 238.3,
+      "end": 261.1,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Doamna Ionescu, ce observ eu la dumneavoastră este o contractură musculară cervicală destul de puternică, mai ales pe dreapta, cu o limitare a mișcării în rotație spre dreapta. Cel mai probabil avem o cervicalgie cu iritație musculară, posibil și o componentă la nivelul articulațiilor mici de la C5-C6, C6-C7 dat fiind că amorțelile sunt la mâna dreaptă."
+    },
+    {
+      "start": 261.22,
+      "end": 264.26,
+      "speaker": "SPEAKER_01",
+      "text": "Adică e hernie? Asta mă temeam. E grav?"
+    },
+    {
+      "start": 264.38,
+      "end": 279.96,
+      "speaker": "SPEAKER_00",
+      "text": "Nu putem spune cu certitudine fără o investigație imagistică, un RMN de preferință, nu? Dar important este că putem lucra să reducem contractura și inflamația și să vedem cum răspundeți. Nu e ceva care să mă îngrijoreze suplimentar la această etapă."
+    },
+    {
+      "start": 280.08,
+      "end": 285.78,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, am înțeles. Deci nu e urgent, nu trebuie să merg la urgențe sau ceva?"
+    },
+    {
+      "start": 285.9,
+      "end": 298.06,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, nu e urgență. Lucrăm progresiv. Obiectivul nostru acum este să reducem contractura musculară, să redobândim mobilitatea cervicală, în special spre dreapta, și să ameliorăm amorțelile prin reducerea presiunii la nivel cervical."
+    },
+    {
+      "start": 298.18,
+      "end": 302.74,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, ușurat sunt un pic. Și câte ședințe credeți că ar trebui?"
+    },
+    {
+      "start": 302.86,
+      "end": 309.7,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde de răspuns, dar haideți să facem câteva ședințe și vedem evoluția. Putem vorbi la finalul acestei ședințe."
+    },
+    {
+      "start": 309.82,
+      "end": 311.34,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, de acord."
+    },
+    {
+      "start": 311.46,
+      "end": 314.88,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă cu fața în sus să începem."
+    }
+  ]
+}

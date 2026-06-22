@@ -1,0 +1,397 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, doamnă!"
+    },
+    {
+      "start": 1.26,
+      "end": 2.06,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 2.18,
+      "end": 4.08,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, numele."
+    },
+    {
+      "start": 4.2,
+      "end": 5.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ionescu Mihaela."
+    },
+    {
+      "start": 5.12,
+      "end": 7.02,
+      "speaker": "SPEAKER_00",
+      "text": "Mulțumesc, doamna Ionescu. Și vârsta?"
+    },
+    {
+      "start": 7.14,
+      "end": 8.28,
+      "speaker": "SPEAKER_01",
+      "text": "38 de ani."
+    },
+    {
+      "start": 8.4,
+      "end": 11.06,
+      "speaker": "SPEAKER_00",
+      "text": "E prima dată când veniți la noi?"
+    },
+    {
+      "start": 11.18,
+      "end": 12.32,
+      "speaker": "SPEAKER_01",
+      "text": "Da, prima oară."
+    },
+    {
+      "start": 12.44,
+      "end": 16.62,
+      "speaker": "SPEAKER_00",
+      "text": "Bine ați venit atunci. Spuneți-mi cu ce problemă ne vedem."
+    },
+    {
+      "start": 16.74,
+      "end": 25.48,
+      "speaker": "SPEAKER_01",
+      "text": "Păi mă doare... pe aici, pe zona asta a umărului, și nu știu, se lasă și un pic mai jos, în brațul ăsta."
+    },
+    {
+      "start": 25.6,
+      "end": 26.74,
+      "speaker": "SPEAKER_00",
+      "text": "Umărul drept, stâng?"
+    },
+    {
+      "start": 26.86,
+      "end": 27.66,
+      "speaker": "SPEAKER_01",
+      "text": "Stângul, stângul."
+    },
+    {
+      "start": 27.78,
+      "end": 33.1,
+      "speaker": "SPEAKER_00",
+      "text": "Și brațul stâng. Se lasă până unde, până la cot, mai jos de cot?"
+    },
+    {
+      "start": 33.22,
+      "end": 37.4,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu exact, undeva pe la mijlocul brațului, nu mai jos."
+    },
+    {
+      "start": 37.52,
+      "end": 40.18,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. De cât timp aveți această problemă?"
+    },
+    {
+      "start": 40.3,
+      "end": 49.42,
+      "speaker": "SPEAKER_01",
+      "text": "Păi de vreo... nu știu, de ceva vreme. Poate de o lună, poate ceva mai mult. Nu-mi dau seama exact când a început."
+    },
+    {
+      "start": 49.54,
+      "end": 54.86,
+      "speaker": "SPEAKER_00",
+      "text": "A apărut după ceva anume, după un efort, un traumatism, ați cărat ceva greu?"
+    },
+    {
+      "start": 54.98,
+      "end": 66.76,
+      "speaker": "SPEAKER_01",
+      "text": "Da, probabil de la servici, stau mult la birou și... nu știu, poate și că am mutat niște cutii atunci, nu eram sigură. A început pe la sfârșitul lui octombrie, cred."
+    },
+    {
+      "start": 66.88,
+      "end": 69.92,
+      "speaker": "SPEAKER_00",
+      "text": "Deci muncă de birou, stat mult la calculator."
+    },
+    {
+      "start": 70.04,
+      "end": 72.32,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, mult la calculator, da."
+    },
+    {
+      "start": 72.44,
+      "end": 77.38,
+      "speaker": "SPEAKER_00",
+      "text": "Și brațul, cel mai des îl folosiți cum la calculator, cu mouse-ul?"
+    },
+    {
+      "start": 77.5,
+      "end": 81.68,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cu mouse-ul, mereu pe stânga, că eu sunt stângace."
+    },
+    {
+      "start": 81.8,
+      "end": 87.12,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Și durerea aceasta, e mai rea dimineața, seara, în mișcare, când stați?"
+    },
+    {
+      "start": 87.24,
+      "end": 98.64,
+      "speaker": "SPEAKER_01",
+      "text": "Mai ales când ridic mâna așa, în sus sau la spate... atunci mă doare mai tare. Când stau liniștită nu simt neapărat, dar uneori și noaptea mă trezesc din somn."
+    },
+    {
+      "start": 98.76,
+      "end": 102.94,
+      "speaker": "SPEAKER_00",
+      "text": "Vă trezește din somn, deci. Pe ce parte dormiți de obicei?"
+    },
+    {
+      "start": 103.06,
+      "end": 108.76,
+      "speaker": "SPEAKER_01",
+      "text": "Pe partea stângă de obicei, da. Acum am încercat să schimb, dar tot mă întorc."
+    },
+    {
+      "start": 108.88,
+      "end": 119.9,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 înseamnă o durere insuportabilă, când ridicați mâna cât ar fi?"
+    },
+    {
+      "start": 120.02,
+      "end": 124.96,
+      "speaker": "SPEAKER_01",
+      "text": "Hmm... nu știu, un 6 sau un 7, nu știu cum să spun."
+    },
+    {
+      "start": 125.08,
+      "end": 127.36,
+      "speaker": "SPEAKER_00",
+      "text": "Rămânem la 6 sau la 7?"
+    },
+    {
+      "start": 127.48,
+      "end": 131.66,
+      "speaker": "SPEAKER_01",
+      "text": "Zic 6, că nu e chiar... nu e cel mai rău."
+    },
+    {
+      "start": 131.78,
+      "end": 134.82,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, un 6. Și noaptea când vă trezește?"
+    },
+    {
+      "start": 134.94,
+      "end": 137.6,
+      "speaker": "SPEAKER_01",
+      "text": "Noaptea e mai rău, poate un 7."
+    },
+    {
+      "start": 137.72,
+      "end": 145.7,
+      "speaker": "SPEAKER_00",
+      "text": "7 noaptea, înțeles. Haideți să trecem puțin la antecedente. Ați mai avut probleme cu umărul acesta înainte sau e ceva nou?"
+    },
+    {
+      "start": 145.82,
+      "end": 156.84,
+      "speaker": "SPEAKER_01",
+      "text": "E ceva nou pentru umăr. La spate am mai avut, nu știu, eu am un pic de scolioză, mi s-a spus, dar nu am urmat nimic pentru ea."
+    },
+    {
+      "start": 156.96,
+      "end": 159.24,
+      "speaker": "SPEAKER_00",
+      "text": "Cine v-a diagnosticat cu scolioză?"
+    },
+    {
+      "start": 159.36,
+      "end": 167.72,
+      "speaker": "SPEAKER_01",
+      "text": "Medicul de familie, când eram mai tânără, prin liceu, și mi-a zis că e mică și să mă mai mișc. Atât."
+    },
+    {
+      "start": 167.84,
+      "end": 170.5,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Altceva, vreo operație, vreo fractură veche?"
+    },
+    {
+      "start": 170.62,
+      "end": 182.02,
+      "speaker": "SPEAKER_01",
+      "text": "Am avut o fractură la mâna dreaptă, la... nu știu cum se numește osul ăla mic, acum mulți ani, pe la 20 și ceva de ani. S-a vindecat bine."
+    },
+    {
+      "start": 182.14,
+      "end": 186.7,
+      "speaker": "SPEAKER_00",
+      "text": "Deci fractură la mâna dreaptă, vindecată. Bun. Tensiune, diabet, boli de inimă?"
+    },
+    {
+      "start": 186.82,
+      "end": 188.34,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic din astea."
+    },
+    {
+      "start": 188.46,
+      "end": 191.12,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament în prezent, orice fel?"
+    },
+    {
+      "start": 191.24,
+      "end": 196.94,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Poate uneori un paracetamol dacă mă doare capul, dar nu în mod regulat."
+    },
+    {
+      "start": 197.06,
+      "end": 198.96,
+      "speaker": "SPEAKER_00",
+      "text": "Deci nimic în mod regulat."
+    },
+    {
+      "start": 199.08,
+      "end": 199.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu."
+    },
+    {
+      "start": 200.0,
+      "end": 200.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Alergii?"
+    },
+    {
+      "start": 200.92,
+      "end": 202.82,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu de vreo alergie."
+    },
+    {
+      "start": 202.94,
+      "end": 213.58,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți acum să fac câteva testări, să văd ce se întâmplă exact. Ridicați brațul stâng pentru mine, ușor în față... mai sus... mai sus... opriți unde doare."
+    },
+    {
+      "start": 213.7,
+      "end": 215.22,
+      "speaker": "SPEAKER_01",
+      "text": "Aaai... cam pe aici."
+    },
+    {
+      "start": 215.34,
+      "end": 217.24,
+      "speaker": "SPEAKER_00",
+      "text": "Deci undeva la orizontală doare."
+    },
+    {
+      "start": 217.36,
+      "end": 220.4,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam de pe la jumătate în sus."
+    },
+    {
+      "start": 220.52,
+      "end": 223.94,
+      "speaker": "SPEAKER_00",
+      "text": "Acum dați brațul la spate ușor, atât cât puteți."
+    },
+    {
+      "start": 224.06,
+      "end": 227.1,
+      "speaker": "SPEAKER_01",
+      "text": "Se poate cam atât, nu merge mai mult."
+    },
+    {
+      "start": 227.22,
+      "end": 237.1,
+      "speaker": "SPEAKER_00",
+      "text": "Limitare în rotație internă. Acum stați puțin cu brațul pe lângă corp. Eu o să apăs pe zona asta, pe capul humeral, spuneți-mi dacă doare."
+    },
+    {
+      "start": 237.22,
+      "end": 238.74,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo da, doare."
+    },
+    {
+      "start": 238.86,
+      "end": 243.04,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe zona asta de deasupra, pe acromion, doare și aici?"
+    },
+    {
+      "start": 243.16,
+      "end": 244.68,
+      "speaker": "SPEAKER_01",
+      "text": "Și acolo, da, puțin."
+    },
+    {
+      "start": 244.8,
+      "end": 252.78,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. O să fac testul ăsta, ridicați brațul cu cotul la 90 de grade... eu o să apăs în jos... rezistați."
+    },
+    {
+      "start": 252.9,
+      "end": 254.8,
+      "speaker": "SPEAKER_01",
+      "text": "Hmm, nu pot prea tare."
+    },
+    {
+      "start": 254.92,
+      "end": 259.86,
+      "speaker": "SPEAKER_00",
+      "text": "Slăbiciune în abducție, da. Și dacă fac rotație externă cu rezistență... rezistați acum."
+    },
+    {
+      "start": 259.98,
+      "end": 261.5,
+      "speaker": "SPEAKER_01",
+      "text": "Ăsta doare mai tare."
+    },
+    {
+      "start": 261.62,
+      "end": 295.44,
+      "speaker": "SPEAKER_00",
+      "text": "Deci durere și la rotație externă contra rezistență. Și postural, observ că umărul stâng e ușor ridicat față de cel drept, e o tensiune musculară compensatorie acolo, probabil de la timp îndelungat la birou. Doamna Ionescu, pe baza a ce am verificat acum și a ce mi-ați povestit, avem o inflamație la nivelul manșetei rotatorilor umărului stâng, cel mai probabil tendonul supraspinos, și o ușoară pensare subacromială. Obiectivul nostru va fi să reducem inflamația, să recuperăm amplitudinea de mișcare și să corectăm postura ca să nu se repete."
+    },
+    {
+      "start": 295.56,
+      "end": 297.08,
+      "speaker": "SPEAKER_01",
+      "text": "Și o să treacă?"
+    },
+    {
+      "start": 297.2,
+      "end": 306.32,
+      "speaker": "SPEAKER_00",
+      "text": "Cu tratament, da, dar o să avem nevoie de câteva ședințe. Și va trebui să evitați să dormiți pe partea stângă în perioada asta."
+    },
+    {
+      "start": 306.44,
+      "end": 307.24,
+      "speaker": "SPEAKER_01",
+      "text": "Înțeles, încerc."
+    },
+    {
+      "start": 307.36,
+      "end": 308.5,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să începem."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_465",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare ceafa de vreo două săptămâni",
+      "se lasă și în cap, adică simt o tensiune care pornește de jos, din ceafă, și urcă așa până spre ceafă, spre ceafă, sus, spre creștet",
+      "dimineața e cel mai rău",
+      "când stau mult la calculator, că lucrez în birou, opt ore pe zi"
+    ],
+    "evaluarea_durerii_vas": [
+      "dimineața sau după calculator aș zice un 6, 7",
+      "În rest, mai suportabil, un 4 poate"
+    ],
+    "localizarea_durerii": [
+      "mă doare ceafa",
+      "se lasă și în cap",
+      "E mai mult sus, în ceafă și în cap"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel, un Voltaren, de vreo două ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură a musculaturii suboccipitale și paravertebrale cervicale, cu limitare de mobilitate la extensie și rotație dreaptă",
+      "Scopul nostru va fi să reducem această contractură, să eliberăm mobilitatea cervicală"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14094,
+    "inference_geo": "global",
+    "input_tokens": 362,
+    "output_tokens": 2037,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

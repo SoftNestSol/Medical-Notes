@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_218",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare pe aici, la spate, în zona de jos, de ceva timp",
+      "e undeva jos, mai mult pe partea dreaptă, dar uneori și pe stânga",
+      "a început treptat, nu dintr-o dată",
+      "stau mult la birou, la calculator, și la un moment dat am simțit că mă ține tot mai tare",
+      "Dimineața când mă trezesc mă cam ține, e mai rău",
+      "gâtul mă mai deranjează uneori, tot de la calculator cred",
+      "Câteodată simt ceva pe aici, pe fesă, pe dreapta. Nu știu dacă e același lucru sau altceva. Dar nu coboară mai jos, nu ajunge la genunchi sau la picior."
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "mă doare pe aici, la spate, în zona de jos",
+      "gâtul mă mai deranjează uneori"
+    ],
+    "localizarea_durerii_alta": [
+      "Câteodată simt ceva pe aici, pe fesă, pe dreapta."
+    ],
+    "antecedente": [
+      "mi-a zis că am o ușoară scolioză"
+    ],
+    "antecedente_altele": [
+      "am avut o operație la menisc, la genunchiul stâng, acum vreo șapte ani",
+      "mi-am rupt claviculele, pe dreapta, când eram mic, la vreo 12 ani"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți umărul drept puțin mai ridicat față de cel stâng și bazinul ușor dezaxat.",
+      "avem o contractură paravertebrală lombară mai accentuată pe dreapta, cu limitare de mobilitate în rotație",
+      "Probabil și musculatura fesieră dreaptă e implicată, de aia simțiți și pe fesă.",
+      "Zona cervicală o să o atingem și pe ea, că e rigiditate acolo din postură.",
+      "O să lucrăm pe reducerea contracturii și a inflamației la lombar, mobilizare articulară, și o să vedem și gâtul. Ar fi bine să facem câteva ședințe și să vorbim și despre postură la birou."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22058,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 3525,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "Durere lombară cu debut insidios (aproximativ o lună), agravată de statul prelungit la birou și la trezire, cu ameliorare la mișcare. Asociază cervicalgie cronică și disconfort ocazional pe coapsa stângă.",
+  "evaluarea_durerii_vas": null,
+  "localizarea_durerii": [
+    "lombar",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "coapsa stanga",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observatii posturale / biomecanice:\nUmar stang mai sus decat cel drept. Bazin inclinat, coborat pe stanga. Contractura paravertebrala lombara stanga la palpare. Sensibilitate la nivelul fesierului stang. Test de ridicare picior stang fara iradiere. Limitarea flexiei anterioare lombare. Disconfort la rotatia cervicala bilateral.\nDiagnostic:\nContractura paravertebrala lombara, predominant stanga, cu dezechilibru de bazin, pe fond postural (munca sedentara). Tensiune musculara cervicala bilaterala, probabil posturala.\nObiective terapeutice:\nReducerea contracturii paravertebrale lombare; corectarea dezechilibrului de bazin; ameliorarea tensiunii cervicale; imbunatatirea posturii."
+}

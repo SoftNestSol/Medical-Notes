@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă venim astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva? O lovitură, un efort mai mare?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Am înțeles. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Când ridici brațul sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și în spate, dacă duci mâna la spate?\nSPEAKER_01: Da, acolo mai tare.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: Doare și noaptea, când ești culcat pe el?\nSPEAKER_01: Da, mă trezesc.\nSPEAKER_00: Înțeles. Amorțeală pe braț sau pe mână simți?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Tensiune, diabet, alte afecțiuni?\nSPEAKER_01: Nu.\nSPEAKER_00: Iei vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Ai mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu, prima dată.\nSPEAKER_00: Ok. Hai să facem câteva mișcări. Ridică brațul drept în față, încet.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare de la ce unghi?\nSPEAKER_01: Pe la jumătate.\nSPEAKER_00: Bun. Acum lateral, ridică-l lateral.\nSPEAKER_01: Cam la fel.\nSPEAKER_00: Apăs acum pe umăr, îmi spui dacă doare. Aici?\nSPEAKER_01: Da.\nSPEAKER_00: Și aici, pe vârful umărului?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Avem o inflamație a tendonului supraspinos, cel mai probabil. Îți limitează mobilitatea și te trezește noaptea din cauza presiunii pe umăr. O să lucrăm să reducem inflamația și să recuperăm mișcarea completă a umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Începem chiar acum, dacă ești de acord.\nSPEAKER_01: Da.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutat mobilier), de aproximativ doua saptamani, accentuata la miscare si noaptea.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Inflamatie tendon supraspinos drept.\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii complete a umarului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Vreo două săptămâni.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Vreo 6."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Avem o inflamație a tendonului supraspinos, cel mai probabil. Îți limitează mobilitatea și te trezește noaptea din cauza presiunii pe umăr. O să lucrăm să reducem inflamația și să recuperăm mișcarea completă a umărului."]
+  }
+}

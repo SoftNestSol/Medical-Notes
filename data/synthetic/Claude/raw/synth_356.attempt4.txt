@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi numele complet, vă rog.\nSPEAKER_01: Ionescu Mihai.\nSPEAKER_00: Și vârsta?\nSPEAKER_01: 38 de ani.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi, mă doare umărul drept. De vreo trei săptămâni, poate mai mult, nu știu exact. Adică a început ușor, credeam că trece singur, dar nu trece. De fapt acum e mai rău decât la început, sincer.\nSPEAKER_00: Umărul drept. Și durerea este locală, pe umăr, sau se lasă și pe braț în jos?\nSPEAKER_01: Se lasă și pe braț, da. Până la cot cam. Uneori simt și un fel de amorțeală în degete, dar nu tot timpul.\nSPEAKER_00: Pe ce degete simțiți amorțeala?\nSPEAKER_01: Parcă pe ultimele două, inelarul și degetul mic. Nu știu dacă e important.\nSPEAKER_00: E important, da. Și cum a apărut? Ați făcut ceva anume, ați ridicat ceva greu, ați dormit într-o postură ciudată?\nSPEAKER_01: Asta e, nu știu exact. Adică eu lucrez la birou, stau mult la calculator, și cred că asta e problema principală, că stau cocoșat toată ziua. Dar a cam început după ce am mutat niște cutii, ajutam un prieten la mutat. Nu era chiar ușor.\nSPEAKER_00: Deci efort la mutatul cutiilor, combinat cu postura la birou.\nSPEAKER_01: Da, exact. Și soția mea zice că dorm pe partea dreaptă mereu, că poate de aia. Cine știe. Eu nu simt că dorm prost, dar poate are dreptate.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare maxim, cât estimați durerea în momentul de față?\nSPEAKER_01: Acum, stând jos, un 5. Dar dacă ridic mâna sus sau dacă încerc să ajung la ceva pe raft, imediat sare la 8, poate 9.\nSPEAKER_00: Deci 5 în repaus și 8-9 la mișcare.\nSPEAKER_01: Da. Noaptea e și mai nasol, mă trezesc din somn dacă mă întorc pe partea dreaptă.\nSPEAKER_00: Ați luat ceva pentru durere?\nSPEAKER_01: Am dat cu un gel, Voltaren, pe umăr, de câteva ori. Ajută un pic, dar trece repede efectul.\nSPEAKER_00: Altceva, pastile?\nSPEAKER_01: Nu, pastile nu iau. M-am ferit, nu-mi place să iau medicamente.\nSPEAKER_00: Bine. Alte afecțiuni, tensiune, diabet, probleme cardiace?\nSPEAKER_01: Nu, nimic. Sunt sănătos tun altfel. Mă duc la controlul anual și n-a zis nimeni nimic. Poate puțin colesterol, dar nici aia nu e mare lucru, ziceau doctorii că nu trebuie tratament.\nSPEAKER_00: Deci fără tratament pentru colesterol.\nSPEAKER_01: Da, fără. Mănânc mai atent și aia e.\nSPEAKER_00: Alte traumatisme la umăr în trecut, operații?\nSPEAKER_01: Nu, niciodată. Nici măcar nu m-am lovit serios acolo.\nSPEAKER_00: Bun. Haideți să vă examinez puțin. Ridicați brațul drept înainte, ușor... până unde puteți.\nSPEAKER_01: Până pe-aici pot, mai sus nu mai merge, mă taie.\nSPEAKER_00: Bine. Acum lateral, la 90 de grade... doare?\nSPEAKER_01: Da, chiar de la 60-70 de grade simt că începe.\nSPEAKER_00: Am înțeles. Stați puțin cu brațul pe lângă corp... apăs acum pe zona de sub acromion, spuneți-mi dacă doare.\nSPEAKER_01: Au, da, acolo e exact unde mă doare cel mai tare.\nSPEAKER_00: Da. Și dacă apăs aici, pe biceps în partea superioară?\nSPEAKER_01: Și aia doare, da, dar mai puțin.\nSPEAKER_00: Înțeleg. Deci avem o limitare de mobilitate destul de clară și o durere subacrominală. Cel mai probabil este vorba de o tendinopatie a coifului rotatorilor, probabil și cu o ușoară inflamație a bursei subacromiale. Asta ar explica și durerea nocturnă și senzația de blocare la ridicarea brațului.\nSPEAKER_01: Adică e grav? Că mă gândeam să nu am ceva rupt acolo, că am citit pe internet și m-am speriat.\nSPEAKER_00: Nu, nu arată a ruptură. Testele pe care le-am făcut nu sugerează asta. Dar va trebui să evitați pozițiile care agravează, în special somnul pe partea dreaptă și ridicările deasupra capului.\nSPEAKER_01: Bine, înțeleg. Și o să-mi treacă?\nSPEAKER_00: Cu terapia potrivită, da. Obiectivul nostru este să reducem inflamația, să recuperăm mobilitatea umărului și să întărim musculatura din jur ca să nu reapară.\nSPEAKER_01: Bun, bun. Și cu Voltarenul pot să mai dau?\nSPEAKER_00: Puteți, nu face rău, dar nu se adresează cauzei. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept cu iradiere pe braț până la cot, amorțeală în inelar și degetul mic, debut după efort fizic (mutat cutii) și postură prelungită la birou, agravată la ridicarea brațului și nocturn",
+    "evaluarea_durerii_vas": [5, 8],
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "iradiere pe braț drept până la cot, amorțeală inelar și degetul mic mână dreaptă",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare mobilitate umăr drept la abducție din 60-70 grade; durere subacrominală la presiune locală; diagnostic: tendinopatie coif rotatori cu inflamație bursă subacromială; obiective terapeutice: reducerea inflamației, recuperarea mobilității umărului, întărirea musculaturii periarticulare"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept. De vreo trei săptămâni, poate mai mult",
+      "Se lasă și pe braț, da. Până la cot cam. Uneori simt și un fel de amorțeală în degete",
+      "a cam început după ce am mutat niște cutii",
+      "eu lucrez la birou, stau mult la calculator"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, stând jos, un 5.",
+      "dacă ridic mâna sus sau dacă încerc să ajung la ceva pe raft, imediat sare la 8, poate 9"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă și pe braț, da. Până la cot cam.",
+      "simt și un fel de amorțeală în degete",
+      "Parcă pe ultimele două, inelarul și degetul mic"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am dat cu un gel, Voltaren, pe umăr, de câteva ori."
+    ],
+    "evaluare_functionala_initiala": [
+      "chiar de la 60-70 de grade simt că începe",
+      "Au, da, acolo e exact unde mă doare cel mai tare",
+      "Deci avem o limitare de mobilitate destul de clară și o durere subacrominală. Cel mai probabil este vorba de o tendinopatie a coifului rotatorilor, probabil și cu o ușoară inflamație a bursei subacromiale.",
+      "Obiectivul nostru este să reducem inflamația, să recuperăm mobilitatea umărului și să întărim musculatura din jur ca să nu reapară."
+    ]
+  }
+}

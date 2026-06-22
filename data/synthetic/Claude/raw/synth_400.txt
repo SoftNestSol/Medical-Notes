@@ -1,0 +1,64 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Luați loc, vă rog. Spuneți-mi cu ce problemă venim astăzi.\nSPEAKER_01: Da, deci, am o durere... mă doare umărul, umărul drept. De vreo două săptămâni, poate mai mult, nu știu exact.\nSPEAKER_00: Umărul drept, bine. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât estimați?\nSPEAKER_01: Păi... depinde. Uneori e mai rău. Eu aș zice un 7, dar noaptea ajunge poate și la 8, nu știu sigur.\nSPEAKER_00: Deci noaptea se înrăutățește.\nSPEAKER_01: Da, mă trezesc, nu pot să stau pe partea dreaptă deloc. Și dimineața când mă ridic, sunt foarte blocat.\nSPEAKER_00: Blocat în ce sens? Nu puteți ridica brațul?\nSPEAKER_01: Nu pot să-l ridic sus, adică mă opresc cam pe la... nu știu, pe la jumătate, ceva. Și doare și dacă încerc să duc mâna la spate.\nSPEAKER_00: Ok. S-a întâmplat ceva? O lovitură, o cădere, ați ridicat ceva greu?\nSPEAKER_01: Nu, asta e ce mă îngrijorează, n-am făcut nimic special. A apărut din senin. Adică lucrez la birou, stau mult la calculator, dar... nu știu dacă de la asta.\nSPEAKER_00: Înțeleg. La birou stați cum, cu brațul drept sus, pe mouse?\nSPEAKER_01: Da, da, exact. Toată ziua practic. Și poate stau și un pic strâmb, mi-a mai zis cineva că am umărul drept mai sus.\nSPEAKER_00: Bine, notăm asta. Durerea rămâne în umăr sau se lasă și pe braț, pe cot, spre mână?\nSPEAKER_01: Uneori simt ceva și pe braț, pe partea din față, dar nu știu dacă e din umăr sau altceva. Mă îngrijorează, e ceva grav?\nSPEAKER_00: Să vedem mai întâi ce avem. Amorțeli în mână, în degete?\nSPEAKER_01: Nu, nu am amorțeli, nu.\nSPEAKER_00: Bine. Vă doare și zona de gât, de ceafă?\nSPEAKER_01: Și acolo mai am ceva tensiune, da, mai ales seara. Dar mai puțin decât umărul.\nSPEAKER_00: Tensiune în ceafă, bine. Alte afecțiuni pe care le știți, tensiune arterială, diabet, ceva de inimă?\nSPEAKER_01: Da, am tensiune. Adică am hipertensiune, mi-a descoperit-o acum doi ani. Iau tratament.\nSPEAKER_00: Ce medicament luați pentru tensiune, știți?\nSPEAKER_01: Perindopril, 5 miligrame, o dată pe zi, dimineața.\nSPEAKER_00: Perindopril 5 miligrame, bine. Altceva mai luați?\nSPEAKER_01: Mai iau uneori câte un ibuprofen când mă doare umărul, dar nu în fiecare zi, numai când nu mai pot. Nu știu dacă e bine sau nu.\nSPEAKER_00: Cât de des, aproximativ?\nSPEAKER_01: Poate de două-trei ori pe săptămână în ultima vreme.\nSPEAKER_00: Ok. Alte afecțiuni, diabet, probleme de coloană, osteoporoză?\nSPEAKER_01: Nu, nu am altceva. Cel puțin nu știu. Adică nu mi-a zis nimeni. Poate am și nu știu, asta mă și îngrijorează.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu, niciodată.\nSPEAKER_00: Boli cu transmitere prin sânge, alergii la unguente, creme?\nSPEAKER_01: Nu, nu am alergii.\nSPEAKER_00: Bun. Haideți să facem câteva teste simple. Ridicați brațul drept în față, încet.\nSPEAKER_01: Până aici pot... și apoi mă opresc, doare.\nSPEAKER_00: Cam la 90 de grade vă opriți.\nSPEAKER_01: Da, cam acolo. E grav?\nSPEAKER_00: Nu vă panicați, să terminăm testele. Acum ridicați brațul lateral, în laterala corpului.\nSPEAKER_01: Aaah, pe asta o simt mai tare. Doare chiar la început.\nSPEAKER_00: Deci abducția este mai dureroasă. Și când duceți mâna la spate?\nSPEAKER_01: Nu pot aproape deloc. Simt că se blochează și doare foarte tare.\nSPEAKER_00: Bine. Acum lăsați brațul relaxat lângă corp. Eu apăs ușor pe umăr, pe zona asta, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo e sensibil. Dar nu e la fel ca atunci când mișc.\nSPEAKER_00: Înțeleg. Acum duceți mâna la urechea opusă, peste cap.\nSPEAKER_01: Asta... merge puțin mai bine, dar tot simt ceva.\nSPEAKER_00: Bun. Stați puțin, vreau să testez și zona de cervical. Întoarceți capul la dreapta, încet.\nSPEAKER_01: Merge, da. Un pic de tensiune.\nSPEAKER_00: La stânga?\nSPEAKER_01: La fel, nu e durere mare.\nSPEAKER_00: Aplecați capul spre umărul drept.\nSPEAKER_01: Mhm. Doare puțin pe partea stângă, ca o întindere.\nSPEAKER_00: Normal, musculatura e tensionată. Bine, vă spun ce observ. Aveți o limitare destul de clară a mobilității umărului drept, mai ales la abducție și rotație internă. Asta, coroborat cu durerea nocturnă și cu debutul fără traumatism, mă face să mă gândesc la o tendinopatie sau la o inflamație la nivelul manșetei rotatorilor.\nSPEAKER_01: Manșeta rotatorilor, asta e ceva grav? Trebuie operație?\nSPEAKER_00: Nu neapărat. Foarte multe cazuri se rezolvă bine fără operație, cu terapie manuală, cu exerciții, cu reducerea inflamației. Voi recomanda și o ecografie de umăr ca să vedem exact ce se întâmplă acolo, dar nu trebuie să vă panicați.\nSPEAKER_01: Ok, bine, bine. Dar de ce a apărut? De la calculator?\nSPEAKER_00: Postura la birou contribuie mult. Umărul drept ridicat, brațul în abducție tot timpul pe mouse, tensiunea cervicală acumulată. Toate astea suprasolicitează musculatura și tendoanele din jur.\nSPEAKER_01: Înțeleg. Și ce facem acum?\nSPEAKER_00: Astăzi lucrăm să reducem inflamația și să relaxăm musculatura din jur, trapezul, ridicătorul scapulei, și să mobilizăm puțin articulația. Obiectivul nostru pe termen scurt este să reducem durerea nocturnă și să recâștigăm mobilitatea.\nSPEAKER_01: Cât durează, credeți?\nSPEAKER_00: Depinde de cum răspunde, dar în general câteva ședințe. Haideți pe masă, cu fața în sus, să începem.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere la nivelul umărului drept de aproximativ două săptămâni, apărută fără traumatism, agravată nocturn, cu limitare de mobilitate la abducție și rotație internă. Lucrează la birou, stă mult la calculator cu brațul pe mouse. Asociază tensiune cervicală.",
+    "evaluarea_durerii_vas": [7, 8],
+    "localizarea_durerii": [
+      "umar_dr",
+      "cervical"
+    ],
+    "localizarea_durerii_alta": "braț drept anterior",
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Perindopril",
+        "doza": "5 miligrame, o dată pe zi"
+      },
+      {
+        "denumire": "Ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUmărul drept mai ridicat față de stânga (menționat de pacient). Limitare la abducție activă (aprox. 90 grade), rotație internă sever limitată (nu poate duce mâna la spate). Flexie anterioară limitată la 90 de grade. Sensibilitate la palpare locală pe umăr. Mobilitate cervicală păstrată, cu tensiune musculară cervicală bilaterală.\nDiagnostic:\nTendinopatie / inflamație la nivelul manșetei rotatorilor umăr drept, pe fond de suprasolicitare posturală (lucru la calculator cu abducție prelungită). Tensiune musculară cervicală asociată.\nObiective terapeutice:\nReducerea inflamației și a durerii nocturne; recuperarea mobilității umărului drept (abducție, rotație internă); relaxarea musculaturii trapez, ridicător scapulă; recomandare ecografie umăr drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, umărul drept. De vreo două săptămâni, poate mai mult",
+      "nu pot să-l ridic sus",
+      "doare și dacă încerc să duc mâna la spate",
+      "n-am făcut nimic special. A apărut din senin",
+      "lucrez la birou, stau mult la calculator",
+      "mai ales seara. Dar mai puțin decât umărul"
+    ],
+    "evaluarea_durerii_vas": [
+      "Eu aș zice un 7, dar noaptea ajunge poate și la 8"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, umărul drept",
+      "Și acolo mai am ceva tensiune, da, mai ales seara"
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori simt ceva și pe braț, pe partea din față"
+    ],
+    "antecedente": [
+      "am tensiune. Adică am hipertensiune, mi-a descoperit-o acum doi ani"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Perindopril, 5 miligrame, o dată pe zi, dimineața",
+      "mai iau uneori câte un ibuprofen când mă doare umărul"
+    ],
+    "evaluare_functionala_initiala": [
+      "Cam la 90 de grade vă opriți",
+      "abducția este mai dureroasă",
+      "Nu pot aproape deloc. Simt că se blochează și doare foarte tare",
+      "Aveți o limitare destul de clară a mobilității umărului drept, mai ales la abducție și rotație internă",
+      "Asta, coroborat cu durerea nocturnă și cu debutul fără traumatism, mă face să mă gândesc la o tendinopatie sau la o inflamație la nivelul manșetei rotatorilor",
+      "Astăzi lucrăm să reducem inflamația și să relaxăm musculatura din jur, trapezul, ridicătorul scapulei, și să mobilizăm puțin articulația",
+      "Obiectivul nostru pe termen scurt este să reducem durerea nocturnă și să recâștigăm mobilitatea"
+    ]
+  }
+}

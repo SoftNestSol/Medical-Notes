@@ -1,0 +1,45 @@
+{
+  "conversation_id": "synth_425",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul stâng. De vreo trei săptămâni",
+      "Dacă stau pe partea stângă mă trezesc, mă doare",
+      "uneori mă mai doare gâtul, cervicala, dar aia o am de ani de zile",
+      "am ridicat niște cutii la mutat mobila acum o lună"
+    ],
+    "evaluarea_durerii_vas": [
+      "Cam 7. Da, 7.",
+      "În repaus poate 3, ceva de genul."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul stâng",
+      "uneori mă mai doare gâtul, cervicala"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un ibuprofen acum vreo zece zile când m-a durut mai tare, dar o singură dată"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem un arc dureros la abducție și la flexie anterioară, durere la palpare subacromială",
+      "Pare a fi o tendinopatie sau o bursită subacromială",
+      "Trebuie să reducem inflamația din zonă și să refacem mobilitatea umărului",
+      "Postura de la birou contribuie și ea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21395,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2532,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

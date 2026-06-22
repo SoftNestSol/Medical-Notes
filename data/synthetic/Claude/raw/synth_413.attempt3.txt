@@ -1,0 +1,43 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut din senin sau după ceva efort?\nSPEAKER_01: După ce am vopsit tavanul.\nSPEAKER_00: Deci ați stat cu brațul ridicat mai mult timp.\nSPEAKER_01: Da, vreo două zile la rând.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați?\nSPEAKER_01: Cam la 5.\nSPEAKER_00: Vă doare permanent sau doar la mișcare?\nSPEAKER_01: La mișcare mai mult.\nSPEAKER_00: Când ridicați brațul în sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și la rotație, dacă faceți așa?\nSPEAKER_01: Da, acolo doare mai rău.\nSPEAKER_00: Noaptea vă deranjează, nu puteți dormi pe partea dreaptă?\nSPEAKER_01: Nu pot, da.\nSPEAKER_00: Se lasă durerea și pe braț, pe biceps?\nSPEAKER_01: Puțin, dar nu mult.\nSPEAKER_00: Amorțeli în mână, în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte dureri în altă parte, coloana, gât?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză, ceva de genul?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale sau fracturi la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Nimic.\nSPEAKER_00: Bun. Ridicați brațul drept în față, încet. Până unde puteți?\nSPEAKER_01: Cam până aici, nu mai pot.\nSPEAKER_00: Deci undeva la 90 de grade vă blochează durerea. Și lateral, ridicați brațul pe lângă corp?\nSPEAKER_01: La fel, cam tot acolo.\nSPEAKER_00: Doare mai tare la ridicarea laterală?\nSPEAKER_01: Da, mai tare.\nSPEAKER_00: Apăs acum pe zona de aici, pe capul humeral, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și în față, pe tendonul bicipital?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Bun. Ceea ce aveți pare a fi o tendinită a coifului rotatorilor, cel mai probabil supraspinosul afectat, pe fondul efortului cu brațul ridicat. Avem o limitare a abducției și a flexiei la aproximativ 90 de grade, cu durere la palpare în zona subacromială. Obiectivul principal e să reducem inflamația și să recuperăm mobilitatea completă a umărului.\nSPEAKER_01: Cât durează?\nSPEAKER_00: Depinde de cum răspunde, dar cu câteva ședințe ar trebui să simțiți îmbunătățire. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după efort cu brațul ridicat (vopsit tavan două zile la rând), de aproximativ două săptămâni. Durere la mișcare, limitare la abducție și flexie, imposibilitate de a dormi pe partea dreaptă.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinită coif rotatori (supraspinat), limitare abducție și flexie la aproximativ 90 de grade, durere la palpare zona subacromială și tendon bicipital.\nObiective terapeutice: reducerea inflamației, recuperarea mobilității complete a umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "De vreo două săptămâni.",
+      "După ce am vopsit tavanul.",
+      "Da, vreo două zile la rând.",
+      "Nu pot, da."
+    ],
+    "evaluarea_durerii_vas": [
+      "Cam la 5."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nimic."
+    ],
+    "evaluare_functionala_initiala": [
+      "Ceea ce aveți pare a fi o tendinită a coifului rotatorilor, cel mai probabil supraspinosul afectat, pe fondul efortului cu brațul ridicat.",
+      "Avem o limitare a abducției și a flexiei la aproximativ 90 de grade, cu durere la palpare în zona subacromială.",
+      "Obiectivul principal e să reducem inflamația și să recuperăm mobilitatea completă a umărului."
+    ]
+  }
+}

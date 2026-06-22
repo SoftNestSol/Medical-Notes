@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere cervicală cu iradiere spre umărul drept",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contractură cervicală cu posibilă iritație C5-C6\nObiective terapeutice: reducerea contracturii musculare și refacerea mobilității cervicale"
+}

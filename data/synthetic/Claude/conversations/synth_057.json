@@ -1,0 +1,367 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 4.46,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi vă rog numele."
+    },
+    {
+      "start": 4.58,
+      "end": 5.38,
+      "speaker": "SPEAKER_01",
+      "text": "Ionescu Mircea."
+    },
+    {
+      "start": 5.5,
+      "end": 7.4,
+      "speaker": "SPEAKER_00",
+      "text": "Mulțumesc, domnule Ionescu. Și vârsta?"
+    },
+    {
+      "start": 7.52,
+      "end": 8.66,
+      "speaker": "SPEAKER_01",
+      "text": "47 de ani."
+    },
+    {
+      "start": 8.78,
+      "end": 11.06,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 11.18,
+      "end": 31.32,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare spatele, zona de jos, de ceva vreme deja. Am venit că nu mai pot, sincer. Adică am tot amânat, mi-am zis că trece, că poate am dormit prost, că poate e de la stress, de la serviciu, și tot nu trece. Dimpotrivă, s-a mai acutizat în ultima perioadă."
+    },
+    {
+      "start": 31.44,
+      "end": 32.96,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp exact?"
+    },
+    {
+      "start": 33.08,
+      "end": 54.36,
+      "speaker": "SPEAKER_01",
+      "text": "Ei, asta e întrebarea. Așa o durere mai mică am tot avut, poate de vreun an și ceva. Dar acum, în ultimele trei săptămâni s-a agravat serios. Am și căzut, de fapt asta cred că a declanșat toată treaba. Am alunecat pe scări la birou și am căzut pe spate, pe zona asta de jos."
+    },
+    {
+      "start": 54.48,
+      "end": 56.76,
+      "speaker": "SPEAKER_00",
+      "text": "Deci o cădere pe zona lombară."
+    },
+    {
+      "start": 56.88,
+      "end": 68.28,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact. Și de atunci parcă... nu mai e la fel. Înainte mai trecea, acum stau și nu pot să mă ridic din scaun fără să mă țin de ceva."
+    },
+    {
+      "start": 68.4,
+      "end": 72.96,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Durerea rămâne locală sau se lasă undeva în jos, pe picior?"
+    },
+    {
+      "start": 73.08,
+      "end": 85.62,
+      "speaker": "SPEAKER_01",
+      "text": "Aaaa, da, asta voiam să vă spun. Se lasă pe fesă, pe partea stângă mai ales, și câteodată simt ceva și mai jos, pe coapsă, tot pe stânga. Nu mereu, dar se întâmplă."
+    },
+    {
+      "start": 85.74,
+      "end": 87.64,
+      "speaker": "SPEAKER_00",
+      "text": "Ajunge mai jos de genunchi?"
+    },
+    {
+      "start": 87.76,
+      "end": 98.02,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori am simțit ceva și până la genunchi, dar nu mai jos. Sau poate o dată, două, nu știu exact. Mai ales când stau jos mult timp."
+    },
+    {
+      "start": 98.14,
+      "end": 108.4,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 că doare îngrozitor, unde v-ați situa acum?"
+    },
+    {
+      "start": 108.52,
+      "end": 118.4,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, în momentul ăsta de repaus, un 5. Dar când mă mișc, când mă aplec sau când mă ridic din pat dimineața, ajunge ușor la 8."
+    },
+    {
+      "start": 118.52,
+      "end": 121.56,
+      "speaker": "SPEAKER_00",
+      "text": "Un 5 în repaus și 8 la mișcare."
+    },
+    {
+      "start": 121.68,
+      "end": 133.84,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da. Dimineața e cel mai rău, primele minute sunt groaznice. Și stau câteodată pe marginea patului și mă gândesc cum să mă ridic ca să nu simt că mă rupe ceva."
+    },
+    {
+      "start": 133.96,
+      "end": 136.62,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Aveți vreo radiografie sau RMN făcut?"
+    },
+    {
+      "start": 136.74,
+      "end": 152.7,
+      "speaker": "SPEAKER_01",
+      "text": "Am făcut acum două săptămâni un RMN. Mi-a zis medicul de familie că am o hernie de disc, la L4-L5, și că ar trebui să mă văd cu cineva care se pricepe. El m-a trimis la dumneavoastră, de fapt."
+    },
+    {
+      "start": 152.82,
+      "end": 156.62,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Hernie de disc L4-L5 confirmată pe RMN."
+    },
+    {
+      "start": 156.74,
+      "end": 169.66,
+      "speaker": "SPEAKER_01",
+      "text": "Da. Și mă speriasem rău când am auzit, că am citit pe internet tot felul de lucruri, că poate ajungi la operație, că... nu știu, că rămâi cu probleme. Sper că nu e cazul."
+    },
+    {
+      "start": 169.78,
+      "end": 176.62,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg îngrijorarea, o să discutăm și despre asta. Haideți să continuăm anamneza. Aveți și dureri în altă parte?"
+    },
+    {
+      "start": 176.74,
+      "end": 190.42,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, cervical mai am câteodată, dar aia e veche, de când stau la calculator toată ziua. Nu mă deranjează acum, adică nu din asta am venit. Mai mult că mă țin de gât câteodată, dar trece."
+    },
+    {
+      "start": 190.54,
+      "end": 193.96,
+      "speaker": "SPEAKER_00",
+      "text": "Deci cervical mai apare, dar nu e motivul principal."
+    },
+    {
+      "start": 194.08,
+      "end": 196.74,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, principalul e jos, la lombar."
+    },
+    {
+      "start": 196.86,
+      "end": 200.66,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți tensiune arterială, diabet, alte afecțiuni despre care să știu?"
+    },
+    {
+      "start": 200.78,
+      "end": 215.98,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am tensiune. Am hipertensiune de vreo patru ani. Iau pastile pentru asta zilnic. Altceva, nu cred... Ah, am și colesterol un pic crescut, dar deocamdată nu iau nimic specific pentru asta, mi-a zis doctorul să încerc cu dieta."
+    },
+    {
+      "start": 216.1,
+      "end": 219.14,
+      "speaker": "SPEAKER_00",
+      "text": "Deci hipertensiune arterială, cu medicație. Ce pastile luați?"
+    },
+    {
+      "start": 219.26,
+      "end": 221.92,
+      "speaker": "SPEAKER_01",
+      "text": "Iau Enalapril, 10 miligrame pe zi. Dimineața."
+    },
+    {
+      "start": 222.04,
+      "end": 222.84,
+      "speaker": "SPEAKER_00",
+      "text": "Numai Enalapril?"
+    },
+    {
+      "start": 222.96,
+      "end": 231.7,
+      "speaker": "SPEAKER_01",
+      "text": "Da, momentan doar ăla. Am mai luat și un beta-blocant la un moment dat, dar medicul l-a scos acum câteva luni."
+    },
+    {
+      "start": 231.82,
+      "end": 233.72,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Altă medicație, pentru durere?"
+    },
+    {
+      "start": 233.84,
+      "end": 248.66,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat Ibuprofen, 400 de miligrame, când nu mai puteam de tot. Nu în fiecare zi, dar cam de trei ori pe săptămână în ultimele săptămâni. Și o dată am luat un Ketoprofen, că nu aveam Ibuprofen la îndemână."
+    },
+    {
+      "start": 248.78,
+      "end": 251.82,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Deci Ibuprofen 400 și ocazional Ketoprofen."
+    },
+    {
+      "start": 251.94,
+      "end": 263.72,
+      "speaker": "SPEAKER_01",
+      "text": "Da. Nici nu știu dacă fac bine că iau, că am citit că nu e bine cu tensiunea și cu antiinflamatoarele. Poate ar trebui să mă las de ele, nu știu."
+    },
+    {
+      "start": 263.84,
+      "end": 271.06,
+      "speaker": "SPEAKER_00",
+      "text": "O să discutăm și cu medicul de familie pe tema asta. Ați mai avut vreo operație, traumatisme mai vechi?"
+    },
+    {
+      "start": 271.18,
+      "end": 280.3,
+      "speaker": "SPEAKER_01",
+      "text": "Am avut o operație la menisc, la genunchiul drept, acum vreo opt ani. A mers bine, nu mai am probleme acolo. Restul, nimic special."
+    },
+    {
+      "start": 280.42,
+      "end": 283.46,
+      "speaker": "SPEAKER_00",
+      "text": "Operație menisc genunchi drept. Altceva, osteoporoză, afecțiuni reumatologice?"
+    },
+    {
+      "start": 283.58,
+      "end": 290.42,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu. Sper că nu. Mama a avut osteoporoză, dar eu nu am fost verificat specific pentru asta."
+    },
+    {
+      "start": 290.54,
+      "end": 293.2,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Unde lucrați, ce activitate fizică aveți?"
+    },
+    {
+      "start": 293.32,
+      "end": 308.9,
+      "speaker": "SPEAKER_01",
+      "text": "Lucrez la birou, stau cam opt-nouă ore pe zi pe scaun. Nu fac sport, în afară de mers pe jos câteodată. Am vrut să mă apuc de sală, dar tot amân. Acum cu spatele ăsta nici nu mai am curaj."
+    },
+    {
+      "start": 309.02,
+      "end": 313.58,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Haideți să facem câteva verificări. Ridicați-vă vă rog în picioare."
+    },
+    {
+      "start": 313.7,
+      "end": 314.5,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 314.62,
+      "end": 319.94,
+      "speaker": "SPEAKER_00",
+      "text": "Observ că stați cu o ușoară aplecare spre dreapta, ați observat și dumneavoastră asta?"
+    },
+    {
+      "start": 320.06,
+      "end": 326.14,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mi-a mai spus și soția că merg un pic strâmb. Nu știam de ce."
+    },
+    {
+      "start": 326.26,
+      "end": 332.72,
+      "speaker": "SPEAKER_00",
+      "text": "E o postură antalgică, corpul încearcă să se ferească de durere. Acum aplecați-vă ușor în față..."
+    },
+    {
+      "start": 332.84,
+      "end": 334.36,
+      "speaker": "SPEAKER_01",
+      "text": "Au. Da, asta doare."
+    },
+    {
+      "start": 334.48,
+      "end": 337.52,
+      "speaker": "SPEAKER_00",
+      "text": "Cât de tare, de la 0 la 10?"
+    },
+    {
+      "start": 337.64,
+      "end": 339.54,
+      "speaker": "SPEAKER_01",
+      "text": "Un 7 când mă aplec."
+    },
+    {
+      "start": 339.66,
+      "end": 343.84,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă mă lăsați să apăs ușor aici, pe coloana lombară..."
+    },
+    {
+      "start": 343.96,
+      "end": 346.62,
+      "speaker": "SPEAKER_01",
+      "text": "Doare, da. Doare mai mult pe stânga."
+    },
+    {
+      "start": 346.74,
+      "end": 352.06,
+      "speaker": "SPEAKER_00",
+      "text": "Mai mult pe stânga. Și dacă ridic eu piciorul stâng în sus, întins, doare?"
+    },
+    {
+      "start": 352.18,
+      "end": 355.6,
+      "speaker": "SPEAKER_01",
+      "text": "Da, simt ceva pe toată fesa și pe coapsă."
+    },
+    {
+      "start": 355.72,
+      "end": 381.94,
+      "speaker": "SPEAKER_00",
+      "text": "Deci testul Lasègue pozitiv pe stânga. Bine. Haideți să discutăm despre ce am constatat. Avem o hernie confirmată L4-L5 cu iradiere pe membrul inferior stâng, semne de compresie radiculară. O să lucrăm cu grijă, cu tehnici blânde, scopul principal e să reducem inflamația, să eliberăm presiunea pe rădăcina nervoasă și să recuperăm mobilitatea. Nu vă așteptați la rezultate dintr-o ședință, dar cu siguranță reușim să ameliorăm situația."
+    },
+    {
+      "start": 382.06,
+      "end": 384.72,
+      "speaker": "SPEAKER_01",
+      "text": "Și operația chiar nu ar fi necesară?"
+    },
+    {
+      "start": 384.84,
+      "end": 393.96,
+      "speaker": "SPEAKER_00",
+      "text": "Pe baza a ce am văzut, cu terapie conservatoare există șanse bune. Haideți să trecem la treabă și o să reevaluăm după câteva ședințe."
+    },
+    {
+      "start": 394.08,
+      "end": 395.6,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, bine. Vă mulțumesc."
+    }
+  ]
+}

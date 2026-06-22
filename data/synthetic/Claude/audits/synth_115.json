@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_115",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel stâng, de vreo două săptămâni",
+      "Am mutat un șifonier, cam greu, și după aia seara am simțit că mă ține umărul"
+    ],
+    "evaluarea_durerii_vas": [
+      "la 7"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "simt ceva și pe braț, cam până la jumătate, nu mai jos"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Iau tratament pentru ea de vreo trei ani."
+    ],
+    "antecedente_altele": [
+      "Mai am și puțin colesterol, dar medicul a zis că deocamdată fără pastile, să încerc cu dieta."
+    ],
+    "medicatie_actuala": [
+      "Îmi dă Lisinoprile, 10 miligrame, dimineața"
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o inflamație la nivelul tendoanelor din umăr, zona de manșetă a rotatorilor. Avem limitare la abducție și la rotație externă, cu durere la palpare subacromială. O să lucrăm să reducem inflamația și să recuperăm mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21912,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 1950,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

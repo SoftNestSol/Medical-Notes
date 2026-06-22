@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut din senin sau după ceva anume?\nSPEAKER_01: După ce am mutat niște cutii.\nSPEAKER_00: Deci un efort fizic. Am înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Doare tot timpul sau numai când faci anumite mișcări?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Când ridici brațul. Și când dormi, te deranjează?\nSPEAKER_01: Da, dacă stau pe partea aia.\nSPEAKER_00: Pe partea dreaptă. Am înțeles. Se lasă durerea și pe braț în jos, pe cot, pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Alergii avem?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, probleme cardiace?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luăm vreun medicament în momentul ăsta?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Haideți să facem câteva mișcări. Ridicați brațul drept în față, încet. Doare?\nSPEAKER_01: Da, de pe la jumătate în sus.\nSPEAKER_00: De pe la jumătate. Și lateral, ridicați-l în lateral.\nSPEAKER_01: La fel, da.\nSPEAKER_00: La fel. Acum duc eu brațul înapoi, spuneți-mi dacă simțiți ceva.\nSPEAKER_01: Uite, acolo doare mai tare.\nSPEAKER_00: Da, în rotația externă. Apăs acum pe zona asta de sub umăr, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Doare la palpare pe bursa subacromială. Înțeleg. Deci avem o inflamație la nivelul tendonului și a bursei, probabil declanșată de efortul de la mutatul cutiilor. Vom lucra să reducem inflamația și să recuperăm amplitudinea de mișcare a umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutat cutii), de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Inflamatie tendon si bursa subacromială umar drept\nObiective terapeutice: - reducerea inflamatiei; - recuperarea amplitudinii de miscare a umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Vreo două săptămâni.", "După ce am mutat niște cutii."],
+    "evaluarea_durerii_vas": ["Vreo 6."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Doare la palpare pe bursa subacromială. Înțeleg. Deci avem o inflamație la nivelul tendonului și a bursei, probabil declanșată de efortul de la mutatul cutiilor. Vom lucra să reducem inflamația și să recuperăm amplitudinea de mișcare a umărului."]
+  }
+}

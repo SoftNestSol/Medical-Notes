@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere umăr stâng de aproximativ trei săptămâni, accentuată nocturn, posibil declanșată la mutarea de mobilă. Limitarea mișcării la ridicarea brațului peste 90 de grade.",
+  "evaluarea_durerii_vas": [
+    4,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "biceps stâng (iradiere anterioară ocazională)",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren gel",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: Tendinopatie de supraspinos, posibil conflict subacroamial.\nObservații funcționale: Arc dureros prezent la abducție și flexie de la 90° în sus; rotație externă limitată; rotație anterioară relativ păstrată.\nObiective terapeutice: Reducerea inflamației; creșterea mobilității umărului stâng; reluarea treptată a activității fizice."
+}

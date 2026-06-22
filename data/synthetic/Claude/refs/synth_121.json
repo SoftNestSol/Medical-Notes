@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere umar stang aparuta dupa efort fizic (mutat cutii la serviciu), cu debut de aproximativ doua saptamani.",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie tendon biceps lung;\n- posibila inflamatie bursa subacromiala;\nObiective terapeutice:\n- reducerea inflamatiei;\n- refacerea mobilitatii umarului stang;"
+}

@@ -1,0 +1,29 @@
+{
+  "motivul_prezentarii": "Pacient de 38 de ani cu durere lombară joasă instalată treptat după genuflexiuni cu bara la sală, acum două săptămâni. Durere VAS 7/10, constantă, mai intensă seara și la rotație în decubit. Iradiere ocazională pe membrul inferior stâng (fesă, coapsă), mai ales în șezut prelungit. Amorțeală inconstantă pe piciorul stâng. Episoade similare în antecedente (primul acum 4 ani). Muncă sedentară la birou 8-9 ore/zi. Cervicalgie ocazională, secundară.",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "lombar",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "fesă și coapsă stângă",
+  "antecedente": [
+    "hipertensiune_arteriala",
+    "scolioza_cifoza"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "5 miligrame, o pastilă pe zi dimineața"
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400 mg"
+    },
+    {
+      "denumire": "Fastum gel",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nContractură paravertebrală lombară mai accentuată pe stânga. Flexie lombară anterioară dureroasă cu iradiere pe stânga; extensia mai puțin dureroasă. Test Lasègue pozitiv pe membrul inferior stâng la aproximativ 45 de grade; dreptul negativ.\nDiagnostic:\nIritație radiculară lombosacrală cu posibilă hernie de disc (de confirmat prin RMN lombar). Contractură musculară paravertebrală lombară stângă.\nObiective terapeutice:\nReducerea contracturii musculare; ameliorarea durerii; creșterea mobilității lombare; recomandare RMN lombar; restricție temporară exerciții cu compresie axială."
+}

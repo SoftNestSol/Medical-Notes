@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_045",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare gâtul de vreo două săptămâni",
+      "A început după ce am stat vreo trei zile la calculator aproape non-stop"
+    ],
+    "evaluarea_durerii_vas": [
+      "Zic un 6",
+      "dimineața când mă trezesc e mai rău, poate un 8"
+    ],
+    "localizarea_durerii": [
+      "mă doare gâtul",
+      "uneori simt și în umărul drept, se duce pe acolo"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am, da, de vreo doi ani am tensiune"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Enalapril, 10 miligrame, în fiecare dimineață"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară semnificativă în zona cervicală, cu iradiere spre umărul drept",
+      "Rotația e limitată pe dreapta",
+      "Vom începe prin a reduce această contractură și inflamația"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 13583
+    },
+    "cache_creation_input_tokens": 13583,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 2040,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

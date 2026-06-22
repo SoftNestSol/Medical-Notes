@@ -1,0 +1,205 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 7.0,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua! Scuzați că am întârziat puțin, am avut trafic îngrozitor pe Mihai Bravu."
+    },
+    {
+      "start": 7.12,
+      "end": 10.92,
+      "speaker": "SPEAKER_00",
+      "text": "Nu-i nicio problemă. Cu ce problemă veniți la noi?"
+    },
+    {
+      "start": 11.04,
+      "end": 25.48,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare umărul stâng de vreo trei săptămâni. Adică a început mai ușor, credeam că trece de la sine, știți cum e, mai trăgem o geantă, mai facem câte ceva și zicem că trece. N-a trecut."
+    },
+    {
+      "start": 25.6,
+      "end": 27.12,
+      "speaker": "SPEAKER_00",
+      "text": "Și acum cum doare?"
+    },
+    {
+      "start": 27.24,
+      "end": 38.64,
+      "speaker": "SPEAKER_01",
+      "text": "Doare când ridic mâna sus, mai ales când o duc lateral, și noaptea mă trezesc dacă cumva stau pe partea stângă. E deranjant rău de tot, nu mai dorm bine."
+    },
+    {
+      "start": 38.76,
+      "end": 46.36,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare maxim, cum situați durerea?"
+    },
+    {
+      "start": 46.48,
+      "end": 55.22,
+      "speaker": "SPEAKER_01",
+      "text": "Ziua, când nu fac nimic special, așa un 4. Dar când ridic mâna sau noaptea când stau pe el, ajunge lejer la 7."
+    },
+    {
+      "start": 55.34,
+      "end": 59.9,
+      "speaker": "SPEAKER_00",
+      "text": "Și ce s-a întâmplat acum trei săptămâni? A fost ceva anume?"
+    },
+    {
+      "start": 60.02,
+      "end": 80.54,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am mutat niște cutii mari la birou, am reorganizat un depozit cu un coleg. Am tot cărat de sus în jos, cutii destul de grele, și la un moment dat am simțit ceva, un fel de... nu știu, ca o înțepătură acolo. Dar pe moment nu m-am oprit, am continuat. Prostie, știu."
+    },
+    {
+      "start": 80.66,
+      "end": 84.84,
+      "speaker": "SPEAKER_00",
+      "text": "Da, înțeleg. Durerea rămâne în umăr sau coboară și pe braț?"
+    },
+    {
+      "start": 84.96,
+      "end": 95.22,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult în umăr, dar uneori simt ceva și pe... pe față anterioară a brațului, până pe la jumătatea lui. Nu ajunge la cot sau la mână."
+    },
+    {
+      "start": 95.34,
+      "end": 97.24,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeală în mână sau degete?"
+    },
+    {
+      "start": 97.36,
+      "end": 100.02,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, asta nu. Doar durerea aia."
+    },
+    {
+      "start": 100.14,
+      "end": 103.18,
+      "speaker": "SPEAKER_00",
+      "text": "Ați pus ceva pe el, ați luat ceva?"
+    },
+    {
+      "start": 103.3,
+      "end": 112.8,
+      "speaker": "SPEAKER_01",
+      "text": "Am pus un gel antiinflamator, Voltaren, câteva zile, dar nu m-a ajutat prea mult sincer. Nu am luat pastile, mi-e frică de stomac."
+    },
+    {
+      "start": 112.92,
+      "end": 116.72,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Alte probleme de sănătate, diabet, tensiune, ceva de genul?"
+    },
+    {
+      "start": 116.84,
+      "end": 133.18,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Sunt destul de sănătos altfel, mă mișc, mai fac și sală de vreo doi ani. De fapt asta mă supără cel mai tare, că n-am putut să merg la sală deloc în perioada asta, orice mișcare cu greutăți mă doare."
+    },
+    {
+      "start": 133.3,
+      "end": 137.48,
+      "speaker": "SPEAKER_00",
+      "text": "Da, normal. Haideți să facem câteva mișcări. Ridicați brațul înainte, ușor."
+    },
+    {
+      "start": 137.6,
+      "end": 139.12,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe-aici merge."
+    },
+    {
+      "start": 139.24,
+      "end": 140.38,
+      "speaker": "SPEAKER_00",
+      "text": "Și lateral acum."
+    },
+    {
+      "start": 140.5,
+      "end": 143.92,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, asta... asta doare mai tare. Până pe-aici."
+    },
+    {
+      "start": 144.04,
+      "end": 151.26,
+      "speaker": "SPEAKER_00",
+      "text": "Vedeți că aveți o limitare la abducție, nu ajungeți la 90 de grade fără durere. Și dacă apăs aici?"
+    },
+    {
+      "start": 151.38,
+      "end": 153.28,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, acolo e sensibil."
+    },
+    {
+      "start": 153.4,
+      "end": 154.54,
+      "speaker": "SPEAKER_00",
+      "text": "Și rotația internă?"
+    },
+    {
+      "start": 154.66,
+      "end": 156.56,
+      "speaker": "SPEAKER_01",
+      "text": "Asta merge ceva mai bine."
+    },
+    {
+      "start": 156.68,
+      "end": 180.24,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Vedeți, zona asta unde apăs e inserția mușchilor manșonului rotatorilor. Tabloul pe care îl aveți, durere la abducție, sensibilitate la nivelul marelui tubercul, limitarea mișcării, seamănă cu o tendinopatie sau o iritație în zona manșonului rotatorilor, posibil și cu un mic conflict subacrom ial. Nu e nimic care să mă îngrijoreze major, dar trebuie să lucrăm ca să nu se cronicizeze."
+    },
+    {
+      "start": 180.36,
+      "end": 183.78,
+      "speaker": "SPEAKER_01",
+      "text": "Adică poate deveni ceva grav dacă nu fac nimic?"
+    },
+    {
+      "start": 183.9,
+      "end": 189.6,
+      "speaker": "SPEAKER_00",
+      "text": "Poate deveni o problemă cronică, da, dacă ignorăm. Dar dacă lucrăm acum, recuperarea e bună."
+    },
+    {
+      "start": 189.72,
+      "end": 192.0,
+      "speaker": "SPEAKER_01",
+      "text": "Și la sală mai pot merge?"
+    },
+    {
+      "start": 192.12,
+      "end": 195.92,
+      "speaker": "SPEAKER_00",
+      "text": "Deocamdată pauză la exercițiile cu umărul stâng. Restul corpului da."
+    },
+    {
+      "start": 196.04,
+      "end": 201.74,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine. Mă bucur că am venit până la urmă, stătusem prea mult pe gânduri."
+    },
+    {
+      "start": 201.86,
+      "end": 203.38,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă, începem."
+    }
+  ]
+}

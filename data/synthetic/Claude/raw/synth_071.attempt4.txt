@@ -1,0 +1,31 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Treptat.\nSPEAKER_00: Aveți o muncă de birou, stați mult la calculator?\nSPEAKER_01: Da.\nSPEAKER_00: Durerea rămâne doar în zona gâtului sau se lasă și pe umăr, pe braț?\nSPEAKER_01: Și pe umărul drept un pic.\nSPEAKER_00: Pe umărul drept. Mai departe de umăr, pe braț, pe mână, simțiți ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeli la mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde situați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Dimineața e mai rău sau seara?\nSPEAKER_01: Seara.\nSPEAKER_00: Seara după ce stați la birou.\nSPEAKER_01: Da.\nSPEAKER_00: Ați luat ceva pentru durere, vreun medicament?\nSPEAKER_01: Ibuprofen, uneori.\nSPEAKER_00: Cât, ce doză?\nSPEAKER_01: Nu știu exact. 400, cred.\nSPEAKER_00: 400 de miligrame. Cât de des?\nSPEAKER_01: Când nu mai suport. O dată, de două ori pe săptămână.\nSPEAKER_00: Am înțeles. Alergii la medicamente?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, hernie de disc diagnosticată?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai avut probleme la coloana cervicală înainte?\nSPEAKER_01: Nu, prima oară.\nSPEAKER_00: Prima oară. Ok. Haideți să facem câteva teste rapide. Întoarceți capul spre dreapta încet.\nSPEAKER_01: Mm.\nSPEAKER_00: Doare?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Lăsați capul pe spate.\nSPEAKER_01: Doare mai tare.\nSPEAKER_00: Doare mai tare în extensie, da. Apăs acum pe mușchii de la baza gâtului, îmi spuneți dacă simțiți ceva.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Pe dreapta mai mult?\nSPEAKER_01: Da.\nSPEAKER_00: Am înțeles. Postura la birou nu e tocmai bună, gâtul e dus în față. Vedem o contractură pe partea dreaptă, trapez și paravertebral cervical. Mobilitatea e redusă la extensie și rotație dreapta. O să lucrăm să reducem contractura și să recuperăm mobilitatea cervicală.\nSPEAKER_01: Ok.\nSPEAKER_00: Ședința de astăzi o să fie de masaj și mobilizare. Vedem cum vă simțiți după.\nSPEAKER_01: Bine.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu iradiere pe umărul drept, instalată treptat în ultimele două săptămâni, probabil legată de munca la birou (postură cu gâtul în față).",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Postura la birou nu e tocmai bună, gâtul e dus în față. Contractură pe partea dreaptă, trapez și paravertebral cervical. Mobilitatea redusă la extensie și rotație dreapta. Obiective: reducerea contracturii și recuperarea mobilității cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "De vreo două săptămâni.", "Treptat.", "Și pe umărul drept un pic."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și pe umărul drept un pic."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Ibuprofen, uneori.", "400, cred."],
+    "evaluare_functionala_initiala": ["Postura la birou nu e tocmai bună, gâtul e dus în față. Vedem o contractură pe partea dreaptă, trapez și paravertebral cervical. Mobilitatea e redusă la extensie și rotație dreapta. O să lucrăm să reducem contractura și să recuperăm mobilitatea cervicală."]
+  }
+}

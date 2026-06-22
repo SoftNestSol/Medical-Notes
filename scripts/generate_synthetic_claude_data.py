@@ -20,6 +20,7 @@ import os
 import re
 import sys
 import time
+import unicodedata
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any, Optional
@@ -94,7 +95,7 @@ REGION_LABELS = {
 }
 
 WORD_TARGETS = {
-    "short_sparse": "450-750 cuvinte",
+    "short_sparse": "550-850 cuvinte",
     "detailed_long": "800-1200 cuvinte",
 }
 
@@ -128,8 +129,44 @@ def eprint(message: str) -> None:
 
 def normalize_text(text: str) -> str:
     text = text.lower()
+    text = "".join(
+        char for char in unicodedata.normalize("NFKD", text)
+        if not unicodedata.combining(char)
+    )
     text = re.sub(r"\s+", " ", text)
     return text.strip()
+
+
+def content_tokens(text: str) -> list[str]:
+    normalized = normalize_text(text)
+    tokens = re.findall(r"\w+", normalized, flags=re.UNICODE)
+    stop = {
+        "de", "la", "pe", "cu", "si", "și", "o", "un", "una", "unu", "unul",
+        "cand", "când", "mai", "zi", "zile", "saptamana", "săptămână",
+        "saptamani", "săptămâni", "ori", "doar", "cam", "vreo", "pentru",
+    }
+    return [token for token in tokens if len(token) > 1 and token not in stop]
+
+
+def dose_is_supported(doza: str, support_text: str) -> bool:
+    normalized_dose = normalize_text(doza)
+    normalized_support = normalize_text(support_text)
+    if normalized_dose in normalized_support:
+        return True
+
+    dose_tokens = content_tokens(doza)
+    if not dose_tokens:
+        return False
+    support_tokens = set(content_tokens(support_text))
+
+    numeric_tokens = [token for token in dose_tokens if any(char.isdigit() for char in token)]
+    if numeric_tokens:
+        return all(token in support_tokens for token in numeric_tokens)
+
+    # For non-numeric doses ("un sfert de pastilă dimineața", "una singură"),
+    # require most content words to appear in medication evidence/conversation.
+    matched = sum(1 for token in dose_tokens if token in support_tokens)
+    return matched >= max(1, min(len(dose_tokens), 2))
 
 
 def is_populated(value: Any) -> bool:
@@ -310,6 +347,8 @@ Dacă o informație nu este rostită explicit în conversație, câmpul corespun
 
 ## Distribuția cazurilor
 Inventează cazuri realiste, așa cum apar de fapt la un cabinet de chiropractică. Nu forța varietate artificială și nu încerca să acoperi afecțiuni rare. Lasă cazul să fie ce ar fi plauzibil: majoritatea pacienților vin cu dureri lombare, cervicale, de genunchi, umăr, apărute din efort, postură sau activitate. Antecedentele și medicația apar doar când e firesc pentru caz, nu ca să bifezi categorii.
+Nu transforma întrebarea de screening ("aveți tensiune, diabet...?") într-un motiv ca pacientul să confirme mereu ceva. În multe consultații răspunsul natural este "nu", iar `antecedente` și `medicatie_actuala` rămân goale. Hipertensiunea NU este default: folosește-o rar, doar când profilul cerut pentru exemplu permite explicit asta. Evită să repeți aceleași combinații de medicamente (Enalapril/Prestarium/Nurofen/Ibuprofen) ca șablon.
+Chiar și când antecedentele și medicația sunt negative, conversația nu trebuie să devină telegrafică: păstrează anamneză, clarificări despre debut, factori agravanți, funcție, teste simple și observații funcționale rostite.
 
 ## Exemplele seed — contractul tău de mapare
 Mai jos ai perechi REALE conversație→notă, extrase din cabinet. Ele nu sunt doar mostre de stil. Sunt contractul care îți arată CUM se mapează vorbirea colocvială în câmpuri structurate. Studiază în special:
@@ -319,6 +358,7 @@ Mai jos ai perechi REALE conversație→notă, extrase din cabinet. Ele nu sunt 
 - cum sună un VAS rostit vs. o durere descrisă fără cifră (care rămâne null);
 - diferența dintre o boală pe care pacientul o confirmă clar și una atinsă în treacăt.
 Reproduci aceeași disciplină de mapare în perechile pe care le generezi.
+Dar incearca sa fii creativ și să inventezi cazuri noi, nu să copiezi exemplele seed.
 
 ## Stilul conversației
 Imită mecanica dialogurilor seed, nu o idee abstractă de "oralitate":
@@ -366,7 +406,7 @@ Reguli evidence:
 
 def build_plan(n: int, *, start: int = 1) -> list[dict[str, str]]:
     """Minimal form-only plan: controls conversation length and patient register,
-    never clinical values. Clinical content is invented freely by the model.
+    plus broad background density. Clinical content is invented freely by the model.
 
     Distributions chosen to resemble a real clinic, not a gallery of extremes:
     - richness: ~60% short, ~40% long (most real visits are brief and to the point)
@@ -378,6 +418,22 @@ def build_plan(n: int, *, start: int = 1) -> list[dict[str, str]]:
     style_cycle = (
         ["tacut"] * 4 + ["vorbaret"] * 3 + ["vag"] * 2 + ["anxios"] * 1
     )
+    background_cycle = (
+        ["fara_antecedente_fara_medicatie"] * 4
+        + ["fara_antecedente_otc_rar"] * 2
+        + ["istoric_minor_fara_medicatie"] * 2
+        + ["cronic_non_hta"] * 1
+        + ["hta_permisa_rar"] * 1
+    )
+    region_cycle = (
+        ["lombar"] * 3
+        + ["cervical_ceafa"] * 2
+        + ["sacral_coccis"] * 1
+        + ["toracal"] * 1
+        + ["genunchi"] * 1
+        + ["cot_pumn"] * 1
+        + ["sold"] * 1
+    )
     rows = []
     for i in range(start, start + n):
         rows.append(
@@ -385,6 +441,8 @@ def build_plan(n: int, *, start: int = 1) -> list[dict[str, str]]:
                 "conversation_id": f"synth_{i:03d}",
                 "richness": richness_cycle[(i - 1) % len(richness_cycle)],
                 "patient_style": style_cycle[(i - 1) % len(style_cycle)],
+                "background_profile": background_cycle[(i - 1) % len(background_cycle)],
+                "region_profile": region_cycle[(i - 1) % len(region_cycle)],
             }
         )
     return rows
@@ -392,7 +450,7 @@ def build_plan(n: int, *, start: int = 1) -> list[dict[str, str]]:
 
 def build_user_prompt(row: dict[str, str]) -> str:
     richness_hint = {
-        "scurt_rar": "scurt_rar = 450-750 cuvinte, consultație simplă, la obiect",
+        "scurt_rar": "scurt_rar = 550-850 cuvinte, consultație simplă, la obiect, dar cu anamneză suficientă",
         "detaliat_lung": "detaliat_lung = 800-1200 cuvinte, mai multe schimburi, anamneză mai bogată",
     }.get(row["richness"], "450-1000 cuvinte")
     style_hint = {
@@ -401,11 +459,39 @@ def build_user_prompt(row: dict[str, str]) -> str:
         "anxios": "anxios: îngrijorat, întreabă dacă e grav, nesigur pe răspunsuri",
         "vag": "vag: descrie impreciz, 'pe aici', 'nu știu exact', greu de fixat pe valori clare",
     }.get(row["patient_style"], "natural")
+    background_hint = {
+        "fara_antecedente_fara_medicatie": (
+            "fără antecedente relevante și fără medicație actuală; la screening pacientul răspunde natural negativ"
+        ),
+        "fara_antecedente_otc_rar": (
+            "fără antecedente relevante; poate menționa rar/ocazional un antiinflamator sau gel folosit la nevoie, dar nu forța"
+        ),
+        "istoric_minor_fara_medicatie": (
+            "poate avea un istoric minor verbalizat (operație veche, fractură veche, scolioză ușoară), dar fără tratament curent"
+        ),
+        "cronic_non_hta": (
+            "dacă apare o afecțiune cronică, evită hipertensiunea; poți folosi realist tiroidă, gastrită, colesterol, astm sau altceva comun"
+        ),
+        "hta_permisa_rar": (
+            "hipertensiunea este permisă în acest exemplu, dar nu obligatorie; dacă apare, variază formularea și tratamentul"
+        ),
+    }.get(row["background_profile"], "natural, fără default de hipertensiune")
+    region_hint = {
+        "lombar": "durere lombară / lombosacrală; NU folosi umăr ca acuza principală",
+        "cervical_ceafa": "durere cervicală, ceafă sau cap-ceafă; NU folosi umăr ca acuza principală",
+        "sacral_coccis": "durere sacrală, coccis sau bazin jos; NU folosi umăr ca acuza principală",
+        "toracal": "durere toracală / mijlocul spatelui; NU folosi umăr ca acuza principală",
+        "genunchi": "durere de genunchi; NU folosi umăr ca acuza principală",
+        "cot_pumn": "durere de cot sau pumn; NU folosi umăr ca acuza principală",
+        "sold": "durere de șold; NU folosi umăr ca acuza principală",
+    }.get(row["region_profile"], "evită să repeți umărul drept ca acuza principală")
     return f"""Generează o pereche conversație–notă nouă.
 
 Formă țintă pentru acest exemplu (afectează DOAR lungimea și registrul, NU valorile clinice):
 - bogăție: {richness_hint}
 - stil pacient: {style_hint}
+- profil antecedente/medicație: {background_hint}
+- profil localizare: {region_hint}
 
 Inventează liber cazul clinic (ce îl doare, de când, dacă ia medicație, ce antecedente are) astfel încât să fie plauzibil și natural pentru un cabinet de chiropractică. Lasă distribuția să fie realistă — nu forța afecțiuni rare.
 
@@ -469,10 +555,11 @@ def validate_evidence(pair: dict[str, Any], row: dict[str, str]) -> None:
                     f"{row['conversation_id']} evidence quote not found for {field}: {quote!r}"
                 )
 
+    medication_support = "\n".join(evidence.get("medicatie_actuala", [])) + "\n" + conversation
     for med in note["medicatie_actuala"]:
         if normalize_text(med["denumire"]) not in normalized_conversation:
             raise GenerationValidationError(f"{row['conversation_id']} medication name not spoken: {med}")
-        if med["doza"] and normalize_text(med["doza"]) not in normalized_conversation:
+        if med["doza"] and not dose_is_supported(med["doza"], medication_support):
             raise GenerationValidationError(f"{row['conversation_id']} medication dose not spoken: {med}")
 
 
@@ -759,8 +846,28 @@ def process_row(
         except anthropic.APIError as exc:
             last_error = f"APIError: {exc}"
             eprint(f"[{cid}] api attempt={attempt}: {last_error}")
-            time.sleep(max(sleep_seconds, 2.0))
+            wait_seconds = max(sleep_seconds, 2.0)
+            if "rate_limit" in str(exc).lower() or "429" in str(exc):
+                wait_seconds = max(wait_seconds, min(60.0, 10.0 * attempt))
+                eprint(f"[{cid}] rate limited; sleeping {wait_seconds:.0f}s before retry")
+            time.sleep(wait_seconds)
     return cid, False, last_error
+
+
+def round_robin_jobs_by_block(
+    jobs: list[tuple[int, dict[str, str]]]
+) -> list[tuple[int, dict[str, str]]]:
+    jobs_by_block: dict[int, list[tuple[int, dict[str, str]]]] = {}
+    for job in jobs:
+        jobs_by_block.setdefault(job[0], []).append(job)
+
+    ordered: list[tuple[int, dict[str, str]]] = []
+    block_ids = sorted(jobs_by_block)
+    while any(jobs_by_block.values()):
+        for block_id in block_ids:
+            if jobs_by_block[block_id]:
+                ordered.append(jobs_by_block[block_id].pop(0))
+    return ordered
 
 
 def main() -> None:
@@ -820,6 +927,7 @@ def main() -> None:
             successes.append(cid)
             continue
         jobs.append((block_index, row))
+    jobs = round_robin_jobs_by_block(jobs)
 
     workers = max(1, args.workers)
     if workers == 1:
@@ -872,14 +980,17 @@ def main() -> None:
 
     build_index(out_root, successes)
     write_reports(out_root, rows, successes)
+    failure_path = out_root / "_failures.tsv"
     if failures:
         failure_lines = ["conversation_id\terror"]
         failure_lines.extend(f"{cid}\t{message}" for cid, message in failures)
-        (out_root / "_failures.tsv").write_text("\n".join(failure_lines) + "\n", encoding="utf-8")
+        failure_path.write_text("\n".join(failure_lines) + "\n", encoding="utf-8")
+    elif failure_path.exists():
+        failure_path.unlink()
 
     eprint(f"[done] successes={len(successes)}/{len(rows)} failures={len(failures)}")
     if failures:
-        eprint(f"[done] failure log: {out_root / '_failures.tsv'}")
+        eprint(f"[done] failure log: {failure_path}")
 
 
 if __name__ == "__main__":

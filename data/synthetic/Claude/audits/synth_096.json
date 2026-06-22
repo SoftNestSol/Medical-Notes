@@ -1,0 +1,46 @@
+{
+  "conversation_id": "synth_096",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul stâng de vreo două săptămâni",
+      "a început mai demult, poate de o lună",
+      "acum două săptămâni s-a înrăutățit rău de tot",
+      "Când ridic brațul așa, sus, doare îngrozitor. Și când îl duc în spate",
+      "noaptea e mai rău, nu pot dormi pe partea aia"
+    ],
+    "evaluarea_durerii_vas": [
+      "7. Da, 7."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul stâng"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am, da."
+    ],
+    "antecedente_altele": [
+      "Meniscul la genunchiul drept, acum vreo zece ani. Operație, da."
+    ],
+    "medicatie_actuala": [
+      "Metoprolol, 50 de miligrame, o dată pe zi",
+      "Rosuvastatina, dar doza... 10 miligrame, cred. Da, 10."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare o tendinopatie a manșonului rotator, cel mai probabil supraspinosul. Arc dureros prezent între 60 și 120 de grade. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22783,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 2097,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

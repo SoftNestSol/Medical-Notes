@@ -1,0 +1,50 @@
+{
+  "conversation_id": "synth_490",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare șoldul. Șoldul drept. De vreo trei săptămâni, poate patru",
+      "am cărat niște cutii la mutat, cam în perioada aia a apărut",
+      "dimineața când mă ridic din pat, mă ține vreo zece minute bune",
+      "La urcat mai mult. La coborât merge"
+    ],
+    "evaluarea_durerii_vas": [
+      "dimineața, când e mai rău, zic un șapte. Ziua, când merg pe plat, poate un patru"
+    ],
+    "localizarea_durerii": [
+      "mă doare șoldul. Șoldul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă și pe coapsă, pe partea din față, uneori",
+      "câteodată simt un pic și în zona inghinală"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Am hipertensiune de vreo șase ani"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "iau Amlodipină, 5 miligrame, dimineața"
+    ],
+    "evaluare_functionala_initiala": [
+      "bazinul e ușor lăsat pe dreapta",
+      "piciorul drept îl țineti un pic în rotatie externă",
+      "Flexia e limitată și dureroasă pe dreapta",
+      "Abducție limitată ușor",
+      "tabloul clinic sugereaza o inflamatie la nivelul articulatiei coxofemurale drepte, posibil si o afectare a burselor periarticulare, adică bursite trohanteriana",
+      "Vrem să reducem inflamatia, să mobilizam articulatia și să corectam dezechilibrele musculare"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23237,
+    "inference_geo": "global",
+    "input_tokens": 347,
+    "output_tokens": 3686,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

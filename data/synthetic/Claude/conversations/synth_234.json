@@ -1,0 +1,265 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, domnule."
+    },
+    {
+      "start": 1.26,
+      "end": 2.06,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 2.18,
+      "end": 4.08,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă veniți azi?"
+    },
+    {
+      "start": 4.2,
+      "end": 5.34,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare gâtul."
+    },
+    {
+      "start": 5.46,
+      "end": 6.6,
+      "speaker": "SPEAKER_00",
+      "text": "Gâtul. De când?"
+    },
+    {
+      "start": 6.72,
+      "end": 8.24,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo două săptămâni."
+    },
+    {
+      "start": 8.36,
+      "end": 12.54,
+      "speaker": "SPEAKER_00",
+      "text": "Două săptămâni. Și a apărut după ceva anume sau... nu știți?"
+    },
+    {
+      "start": 12.66,
+      "end": 15.7,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu. M-am trezit dimineața și era."
+    },
+    {
+      "start": 15.82,
+      "end": 22.28,
+      "speaker": "SPEAKER_00",
+      "text": "S-a trezit cu durerea. Înțeles. Doare doar gâtul sau se lasă și pe umăr, pe braț?"
+    },
+    {
+      "start": 22.4,
+      "end": 23.92,
+      "speaker": "SPEAKER_01",
+      "text": "Și pe umărul ăsta."
+    },
+    {
+      "start": 24.04,
+      "end": 25.18,
+      "speaker": "SPEAKER_00",
+      "text": "Pe care umăr?"
+    },
+    {
+      "start": 25.3,
+      "end": 26.1,
+      "speaker": "SPEAKER_01",
+      "text": "Pe dreptul."
+    },
+    {
+      "start": 26.22,
+      "end": 30.02,
+      "speaker": "SPEAKER_00",
+      "text": "Pe umărul drept. Mai jos de umăr, pe braț, amorțește?"
+    },
+    {
+      "start": 30.14,
+      "end": 30.94,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 31.06,
+      "end": 39.8,
+      "speaker": "SPEAKER_00",
+      "text": "Nu. Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde vă situați?"
+    },
+    {
+      "start": 39.92,
+      "end": 40.72,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 5."
+    },
+    {
+      "start": 40.84,
+      "end": 43.5,
+      "speaker": "SPEAKER_00",
+      "text": "5. Doare mai tare când întoarceți capul?"
+    },
+    {
+      "start": 43.62,
+      "end": 44.42,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 44.54,
+      "end": 45.68,
+      "speaker": "SPEAKER_00",
+      "text": "În ce parte?"
+    },
+    {
+      "start": 45.8,
+      "end": 46.6,
+      "speaker": "SPEAKER_01",
+      "text": "La dreapta."
+    },
+    {
+      "start": 46.72,
+      "end": 49.76,
+      "speaker": "SPEAKER_00",
+      "text": "La dreapta. Și când ridicați umărul drept doare?"
+    },
+    {
+      "start": 49.88,
+      "end": 51.02,
+      "speaker": "SPEAKER_01",
+      "text": "Da, un pic."
+    },
+    {
+      "start": 51.14,
+      "end": 54.18,
+      "speaker": "SPEAKER_00",
+      "text": "Un pic. Stați mult la birou, la calculator?"
+    },
+    {
+      "start": 54.3,
+      "end": 55.44,
+      "speaker": "SPEAKER_01",
+      "text": "Da, toată ziua."
+    },
+    {
+      "start": 55.56,
+      "end": 60.12,
+      "speaker": "SPEAKER_00",
+      "text": "Toată ziua la calculator. Și cum stați, cu capul aplecat în față?"
+    },
+    {
+      "start": 60.24,
+      "end": 61.04,
+      "speaker": "SPEAKER_01",
+      "text": "Cam da."
+    },
+    {
+      "start": 61.16,
+      "end": 64.2,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Alte afecțiuni, tensiune, diabet, epilepsie, ceva?"
+    },
+    {
+      "start": 64.32,
+      "end": 65.12,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 65.24,
+      "end": 66.38,
+      "speaker": "SPEAKER_00",
+      "text": "Nimic. Medicamente luați?"
+    },
+    {
+      "start": 66.5,
+      "end": 67.3,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 67.42,
+      "end": 71.22,
+      "speaker": "SPEAKER_00",
+      "text": "Nicio pastilă. Intervenții chirurgicale, fracturi la gât sau la coloană?"
+    },
+    {
+      "start": 71.34,
+      "end": 72.14,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 72.26,
+      "end": 78.72,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să fac câteva mișcări cu dumneavoastră să văd cum stăm. Întoarceți capul spre dreapta, încet."
+    },
+    {
+      "start": 78.84,
+      "end": 79.64,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici."
+    },
+    {
+      "start": 79.76,
+      "end": 82.04,
+      "speaker": "SPEAKER_00",
+      "text": "Da, e limitat. Și spre stânga?"
+    },
+    {
+      "start": 82.16,
+      "end": 83.68,
+      "speaker": "SPEAKER_01",
+      "text": "Aia merge mai bine."
+    },
+    {
+      "start": 83.8,
+      "end": 89.12,
+      "speaker": "SPEAKER_00",
+      "text": "Da, e clar. Apăs acum pe mușchii de lângă gât, aici, pe trapez. Doare?"
+    },
+    {
+      "start": 89.24,
+      "end": 90.38,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo da."
+    },
+    {
+      "start": 90.5,
+      "end": 93.16,
+      "speaker": "SPEAKER_00",
+      "text": "Și aici mai sus, la baza craniului?"
+    },
+    {
+      "start": 93.28,
+      "end": 94.08,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 94.2,
+      "end": 110.54,
+      "speaker": "SPEAKER_00",
+      "text": "Mai puțin. Bun. Ce pot să vă spun este că avem o contractură musculară în zona cervicală, pe trapez și pe ridicătorul scapulei, probabil din postura la birou. Rotația spre dreapta e limitată. O să lucrăm să reducem contractura și să recăpătăm mobilitatea."
+    },
+    {
+      "start": 110.66,
+      "end": 111.46,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 111.58,
+      "end": 113.48,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă, vă rog."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "durere umar stang, de aproximativ trei saptamani, aparuta dupa efort fizic",
+  "evaluarea_durerii_vas": [
+    7,
+    3
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "braț superior stâng",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "colesterol mărit (fără medicație)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: inflamatie tendoane umar stang, zona coafa rotatori; limitare mobilitate activa si pasiva (aproximativ 90 grade flexie si abductie).\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii complete."
+}

@@ -1,0 +1,47 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua!\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Ionescu Mihai.\nSPEAKER_00: Mulțumesc, domnule Ionescu. Vârsta?\nSPEAKER_01: 38 de ani.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi, mă doare umărul, cel drept, de vreo două săptămâni. Adică inițial am crezut că trece singur, că am mai avut eu dureri, dar nu a trecut și m-am gândit să vin. Soția mea mi-a zis de mult să vin, dar știți cum e, tot amâni.\nSPEAKER_00: Înțeles. Și cum a apărut durerea asta, s-a întâmplat ceva anume?\nSPEAKER_01: Da, deci am stat un weekend întreg să vopsesc casa, plafoanele mai ales, cu mâna sus tot timpul, și luni dimineața m-am trezit și nu mai puteam să ridic mâna. Adică pot, dar doare foarte rău.\nSPEAKER_00: Deci durerea a apărut după efort prelungit cu brațul ridicat.\nSPEAKER_01: Exact, exact. Și acum mă doare și când dorm, mai ales dacă stau pe partea dreaptă, mă trezesc noaptea. E enervant, nu mai dorm bine de două săptămâni.\nSPEAKER_00: Doare și în repaus sau numai când mișcați brațul?\nSPEAKER_01: Și în repaus doare, dar mai puțin. Când încerc să ridic brațul sus sau să îl duc în spate, doare cel mai tare.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare când ridicați brațul?\nSPEAKER_01: Când ridic brațul așa, sus, un 8. Și în repaus, noaptea, un 5, că mă și trezesc din cauza asta.\nSPEAKER_00: Durerea rămâne la umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Se lasă un pic pe braț, pe față, pe zona asta, dar nu prea jos, până pe la jumătatea brațului.\nSPEAKER_00: Înțeles. Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu, niciodată. Adică am mai avut dureri de spate, dar la umăr nu. Și tocmai de asta m-am speriat un pic, că nu știu ce e, am citit pe internet și am găsit tot felul de lucruri, rupturi de tendoane și nu știu ce, și m-am speriat.\nSPEAKER_00: Ok, să nu ne panicăm înainte de evaluare. Tensiune, diabet, alte afecțiuni?\nSPEAKER_01: Nu, nimic din astea. Sunt sănătos altfel.\nSPEAKER_00: Luați vreun medicament în perioada asta?\nSPEAKER_01: Am pus un gel, Voltaren, de câteva ori, dar nu prea m-a ajutat sincer. Altceva nu.\nSPEAKER_00: Am înțeles. Haideți să vedem un pic mișcările. Ridicați brațul înainte, încet.\nSPEAKER_01: Până aici pot, mai sus doare.\nSPEAKER_00: Bun. Și acum dus lateral.\nSPEAKER_01: Ahh, da, asta doare mai tare, nu pot să trec de jumătate.\nSPEAKER_00: Și dacă duceți mâna la spate, ca și cum ați prinde centura?\nSPEAKER_01: Asta e cel mai rău, nu ajung, mă doare foarte tare.\nSPEAKER_00: Ok. Apăs acum puțin aici, pe zona anterioară a umărului. Doare?\nSPEAKER_01: Da, da, exact acolo e, ați nimerit exact locul.\nSPEAKER_00: Și aici sus, pe creasta umărului?\nSPEAKER_01: Mai puțin, dar tot simt ceva.\nSPEAKER_00: Bun. Deci avem o inflamație la nivelul tendoanelor rotatorilor, cel mai probabil tendon supraspinos afectat, cu limitare de mobilitate pe abducție și rotație internă. O să lucrăm să reducem inflamația și să refacem mobilitatea umărului.\nSPEAKER_01: Și cât durează până trece? Că am și niște treburi de făcut acasă și mă tot gândesc...\nSPEAKER_00: Depinde cum răspunde, dar hai să vedem primele două-trei ședințe și ne dăm seama mai bine.\nSPEAKER_01: Ok, ok. Și pot să mă duc la sală între timp?\nSPEAKER_00: Sala o lăsăm puțin deoparte, mai ales exercițiile cu umărul implicat. Haideți să ne apucăm.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după efort prelungit cu brațul ridicat (vopsit plafonul), persistentă de două săptămâni, cu limitare de mobilitate și iradiere pe braț",
+    "evaluarea_durerii_vas": [8, 5],
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "iradiere pe fața anterioară a brațului drept până la jumătate",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare mobilitate umăr drept pe abducție și rotație internă; durere la palpare zona anterioară a umărului și creastă; diagnostic: inflamație tendoane rotatori, cel mai probabil tendon supraspinos afectat; obiective terapeutice: reducerea inflamației și refacerea mobilității umărului"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel drept, de vreo două săptămâni",
+      "am stat un weekend întreg să vopsesc casa, plafoanele mai ales, cu mâna sus tot timpul, și luni dimineața m-am trezit și nu mai puteam să ridic mâna"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când ridic brațul așa, sus, un 8",
+      "în repaus, noaptea, un 5"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel drept"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă un pic pe braț, pe față, pe zona asta, dar nu prea jos, până pe la jumătatea brațului"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel, Voltaren, de câteva ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendoanelor rotatorilor, cel mai probabil tendon supraspinos afectat, cu limitare de mobilitate pe abducție și rotație internă",
+      "O să lucrăm să reducem inflamația și să refacem mobilitatea umărului",
+      "nu pot să trec de jumătate",
+      "Asta e cel mai rău, nu ajung, mă doare foarte tare"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă veniți astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stângul sau dreptul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am zugrăvit.\nSPEAKER_00: Deci ați stat cu mâna sus mai mult timp.\nSPEAKER_01: Da.\nSPEAKER_00: Și de atunci vă doare.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la zero la zece, unde zero nu doare deloc și zece doare foarte rău, cum estimați durerea?\nSPEAKER_01: Un șapte.\nSPEAKER_00: Șapte. Doare constant sau doar când mișcați mâna?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Când ridicați mâna în sus sau și lateral?\nSPEAKER_01: Și în sus și lateral.\nSPEAKER_00: Ajungeți cu mâna la ureche, puteți?\nSPEAKER_01: Greu.\nSPEAKER_00: Greu. Și noaptea vă deranjează, vă treziți din somn?\nSPEAKER_01: Uneori.\nSPEAKER_00: Când stați pe partea dreaptă?\nSPEAKER_01: Da.\nSPEAKER_00: Am înțeles. Amorțeală simțiți în mână sau în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală. Durerea se lasă pe braț, pe cot, mai jos?\nSPEAKER_01: Nu, e doar la umăr.\nSPEAKER_00: Strict la umăr. Ok. Haideți să vedem. Ridicați ușor brațul drept în față, cât puteți.\nSPEAKER_01: Până pe la orizontală merge.\nSPEAKER_00: Doare când urcați?\nSPEAKER_01: Da, de pe la jumătate.\nSPEAKER_00: De la jumătate în sus doare. Și acum lateral, la fel.\nSPEAKER_01: La fel.\nSPEAKER_00: Același arc dureros. Bun. Apăs puțin aici pe tendoanele din față, spuneți-mi dacă simțiți ceva.\nSPEAKER_01: Da, doare acolo.\nSPEAKER_00: Doare la apăsare în fața umărului. Și aici sus?\nSPEAKER_01: Un pic.\nSPEAKER_00: Un pic. Bun. Întrebări de rutină: aveți tensiune, diabet, osteoporoză, ceva de felul ăsta?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio afecțiune.\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun medicament. Ați mai avut probleme la umărul ăsta înainte?\nSPEAKER_01: Nu, prima oară.\nSPEAKER_00: Prima oară. Ok. Deci avem o tendinită la nivelul umărului drept, cel mai probabil la nivelul coafei rotatoare, apărută după efort cu brațul ridicat la zugrăvit. O să lucrăm să reducem inflamația și să recuperăm mobilitatea. Haideți pe masă cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept, debut după zugrăvit (muncă cu brațul ridicat), de aproximativ două săptămâni.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Tendinită coafă rotatoare umăr drept. Arc dureros la abducție și flexie de la ~90° în sus. Durere la palpare anterioară și superioară umăr drept. Limitare funcțională la ridicarea brațului în față și lateral. Parestezii absente.\nObiective terapeutice: reducerea inflamației; recuperarea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Am zugrăvit.", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un șapte."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul.", "e doar la umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Deci avem o tendinită la nivelul umărului drept, cel mai probabil la nivelul coafei rotatoare, apărută după efort cu brațul ridicat la zugrăvit. O să lucrăm să reducem inflamația și să recuperăm mobilitatea.", "De la jumătate în sus doare.", "Doare la apăsare în fața umărului.", "Arc dureros la abducție și flexie"]
+  }
+}

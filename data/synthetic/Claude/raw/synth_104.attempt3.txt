@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am vopsit tavanul.\nSPEAKER_00: Ați stat cu mâna ridicată mult timp, da?\nSPEAKER_01: Da.\nSPEAKER_00: Și după aia a început să doară?\nSPEAKER_01: Da, a doua zi.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde situați durerea?\nSPEAKER_01: Un 5.\nSPEAKER_00: Doare constant sau numai când mișcați?\nSPEAKER_01: Când mișc.\nSPEAKER_00: Când ridicați brațul, doare mai tare?\nSPEAKER_01: Da.\nSPEAKER_00: Sus de tot sau undeva la mijloc?\nSPEAKER_01: Pe la mijloc, așa.\nSPEAKER_00: Deci între 60 și 120 de grade aproximativ. Durerea rămâne în umăr sau se lasă și pe braț?\nSPEAKER_01: Nu, stă acolo.\nSPEAKER_00: Amorțeli, furnicături?\nSPEAKER_01: Nu.\nSPEAKER_00: Noaptea vă treziți din cauza durerii?\nSPEAKER_01: Câteodată, dacă stau pe partea aia.\nSPEAKER_00: Pe umărul stâng. Ok. Alte zone care mai dor?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Am luat un ibuprofen câteodată, dar nu regulat.\nSPEAKER_00: Ok. Haideți să facem câteva teste. Ridicați brațul în față, încet.\nSPEAKER_01: Până aici doare.\nSPEAKER_00: Deci până la vreo 90 de grade. Acum în lateral.\nSPEAKER_01: La fel.\nSPEAKER_00: Stați puțin. Dacă apăs aici, pe mușchiul ăsta de deasupra umărului, doare?\nSPEAKER_01: Da, doare.\nSPEAKER_00: Deci supraspinosul e sensibil. Acum puneți mâna la spate.\nSPEAKER_01: Pot, dar trage puțin.\nSPEAKER_00: Înțeleg. Rotație internă limitată ușor. Deci avem o tendinopatie de supraspinos, cel mai probabil, apărută după efort în abducție prelungită. Obiectivul nostru în primele ședințe e să reducem inflamația locală și să recuperăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: O să lucrăm cu terapie manuală și o să vă dau și câteva exerciții acasă. Evitați să ridicați greutăți cu brațul stâng deocamdată.\nSPEAKER_01: Da, bine.",
+  "note": {
+    "motivul_prezentarii": "Pacient acuză durere la nivelul umărului stâng, instalată după vopsit tavan (efort în abducție prelungită), de aproximativ două săptămâni. Durere la mișcare, mai ales la ridicarea brațului (arc dureros la mijlocul amplitudinii), cu sensibilitate nocturnă la decubit pe umărul afectat.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\nTendinopatie de supraspinos stâng, apărută după efort în abducție prelungită.\nObservații funcționale:\nArc dureros la flexie și abducție până la aproximativ 90 de grade. Sensibilitate la palpare supraspinos. Rotație internă ușor limitată.\nObiective terapeutice:\nReducerea inflamației locale; recuperarea mobilității umărului stâng; terapie manuală și exerciții la domiciliu."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Am vopsit tavanul.", "Vreo două săptămâni.", "a doua zi"],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am luat un ibuprofen câteodată, dar nu regulat."],
+    "evaluare_functionala_initiala": ["Deci supraspinosul e sensibil.", "avem o tendinopatie de supraspinos, cel mai probabil, apărută după efort în abducție prelungită", "Obiectivul nostru în primele ședințe e să reducem inflamația locală și să recuperăm mobilitatea.", "Rotație internă limitată ușor."]
+  }
+}

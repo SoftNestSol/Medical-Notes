@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, vă rog, cu ce problemă vă confruntați.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, lombarul?\nSPEAKER_01: Da.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a instalat brusc sau treptat?\nSPEAKER_01: Treptat.\nSPEAKER_00: A existat vreun efort, ceva ce ați ridicat, o mișcare bruscă?\nSPEAKER_01: Am stat mult la birou, probabil.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare extrem de tare, unde situați durerea?\nSPEAKER_01: Un 5.\nSPEAKER_00: 5. E o durere constantă sau vine și trece?\nSPEAKER_01: Vine și trece.\nSPEAKER_00: Când e mai intensă, dimineața sau seara?\nSPEAKER_01: Seara.\nSPEAKER_00: Și dimineața, când vă ridicați din pat, simțiți o înțepenire?\nSPEAKER_01: Da, puțin.\nSPEAKER_00: Trece după ce vă mișcați?\nSPEAKER_01: Da, după vreo zece minute.\nSPEAKER_00: Durerea se lasă și pe fesă sau pe picior?\nSPEAKER_01: Nu.\nSPEAKER_00: Strict zona de jos a spatelui.\nSPEAKER_01: Da.\nSPEAKER_00: Amorțesc picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Statul pe scaun agravează durerea?\nSPEAKER_01: Da, dacă stau mult.\nSPEAKER_00: Și în picioare?\nSPEAKER_01: Și în picioare, după un timp.\nSPEAKER_00: Culcat pe spate?\nSPEAKER_01: Mai bine.\nSPEAKER_00: Bun. Ați mai avut episoade similare în trecut?\nSPEAKER_01: Acum un an, ceva mai ușor.\nSPEAKER_00: A trecut de la sine?\nSPEAKER_01: Da.\nSPEAKER_00: Acum nu luați nimic pentru durere?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, niciun gel?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, ceva care să fie diagnosticat?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Stați cu spatele la mine, picioarele ușor depărtate, relaxat.\nSPEAKER_01: Bine.\nSPEAKER_00: Aplecați-vă puțin în față. Doare?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Și pe spate, extensie?\nSPEAKER_01: Mai mult acolo.\nSPEAKER_00: Extensia agravează mai tare. Bun. Apăs acum la nivelul lombar, spuneți-mi dacă doare.\nSPEAKER_01: Da, chiar acolo.\nSPEAKER_00: L4-L5, zona asta. Și mai jos, zona sacral?\nSPEAKER_01: Și acolo puțin.\nSPEAKER_00: Înțeleg. Culcați-vă pe spate, vă rog. Ridic piciorul drept, spuneți-mi dacă pornește o durere spre picior.\nSPEAKER_01: Nu.\nSPEAKER_00: Stânga?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun, testul e negativ pe ambele. Vedem că nu avem iradiere pe membrul inferior, ceea ce e bine. Durerea e localizată lombar și sacral, agravată de extensie și de stat prelungit. Pare o contractură musculară paravertebrală pe fond postural, probabil din cauza statului la birou. Obiectivul nostru acum e să reducem tensiunea musculară și să mai câștigăm mobilitate în zona lombară.\nSPEAKER_01: Da, bine.\nSPEAKER_00: O să lucrăm și câteva exerciții pe care să le faceți și acasă. Aveți întrebări deocamdată?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun, atunci începem.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară instalată treptat de aproximativ două săptămâni, asociată cu statul prelungit la birou. Durere intermitentă, EVA 5/10, mai intensă seara și la extensie lombară. Redoare matinală de scurtă durată (circa 10 minute). Fără iradiere pe membrul inferior, fără amorțeli. Agravată de șezut prelungit și ortostatism prelungit, ameliorată în decubit dorsal.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar",
+      "sacral_coccis"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nDurere la palpare paravertebrală lombar L4-L5 și sacral. Extensia lombară agravează mai mult decât flexia. Test Lasègue negativ bilateral. Fără iradiere radiculară.\nDiagnostic:\nContractură musculară paravertebrală lombosacrală pe fond postural (stat prelungit la birou).\nObiective terapeutice:\nReducerea tensiunii musculare paravertebrale; câștigarea mobilității lombare; exerciții de efectuat acasă."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Vreo două săptămâni.",
+      "Am stat mult la birou, probabil.",
+      "Vine și trece.",
+      "Seara.",
+      "Da, puțin.",
+      "După vreo zece minute.",
+      "Nu.",
+      "Da, dacă stau mult."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Strict zona de jos a spatelui.",
+      "Și acolo puțin."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nu, nimic."
+    ],
+    "evaluare_functionala_initiala": [
+      "Apăs acum la nivelul lombar, spuneți-mi dacă doare.",
+      "Da, chiar acolo.",
+      "L4-L5, zona asta. Și mai jos, zona sacral?",
+      "Și acolo puțin.",
+      "testul e negativ pe ambele",
+      "Durerea e localizată lombar și sacral, agravată de extensie și de stat prelungit. Pare o contractură musculară paravertebrală pe fond postural, probabil din cauza statului la birou. Obiectivul nostru acum e să reducem tensiunea musculară și să mai câștigăm mobilitate în zona lombară.",
+      "O să lucrăm și câteva exerciții pe care să le faceți și acasă."
+    ]
+  }
+}

@@ -1,0 +1,445 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 4.84,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi vă rog numele dumneavoastră."
+    },
+    {
+      "start": 4.96,
+      "end": 5.76,
+      "speaker": "SPEAKER_01",
+      "text": "Ionescu Mircea."
+    },
+    {
+      "start": 5.88,
+      "end": 8.54,
+      "speaker": "SPEAKER_00",
+      "text": "Ionescu Mircea. Și vârsta, dacă se poate?"
+    },
+    {
+      "start": 8.66,
+      "end": 9.8,
+      "speaker": "SPEAKER_01",
+      "text": "38 de ani."
+    },
+    {
+      "start": 9.92,
+      "end": 12.58,
+      "speaker": "SPEAKER_00",
+      "text": "Mulțumesc, domnule Ionescu. Prima vizită la noi?"
+    },
+    {
+      "start": 12.7,
+      "end": 14.22,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, prima oară."
+    },
+    {
+      "start": 14.34,
+      "end": 18.52,
+      "speaker": "SPEAKER_00",
+      "text": "Bine ați venit. Spuneți-mi, cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 18.64,
+      "end": 30.04,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... mă doare spatele de ceva vreme, mai ales pe aici, pe partea asta de jos, și nu știu, uneori se duce și mai jos, pe... pe șold, pe acolo."
+    },
+    {
+      "start": 30.16,
+      "end": 33.58,
+      "speaker": "SPEAKER_00",
+      "text": "Pe zona lombară și se lasă și pe șold?"
+    },
+    {
+      "start": 33.7,
+      "end": 36.36,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam pe acolo, undeva pe acolo."
+    },
+    {
+      "start": 36.48,
+      "end": 39.52,
+      "speaker": "SPEAKER_00",
+      "text": "Pe care parte mai mult, dreapta sau stânga?"
+    },
+    {
+      "start": 39.64,
+      "end": 45.34,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... mai mult pe dreapta, zic eu. Deși câteodată și stânga, dar dreapta mai rău."
+    },
+    {
+      "start": 45.46,
+      "end": 50.02,
+      "speaker": "SPEAKER_00",
+      "text": "Pe dreapta predominant. Și de cât timp vă doare, aveți o idee?"
+    },
+    {
+      "start": 50.14,
+      "end": 60.4,
+      "speaker": "SPEAKER_01",
+      "text": "Mmm... nu știu exact, de câteva luni. Poate trei, poate patru luni. A fost și mai bine la un moment dat, dar acum s-a mai agravat."
+    },
+    {
+      "start": 60.52,
+      "end": 65.46,
+      "speaker": "SPEAKER_00",
+      "text": "Și ce s-a întâmplat mai recent, ceva anume, o mișcare, un efort?"
+    },
+    {
+      "start": 65.58,
+      "end": 75.46,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... am mutat niște mobilă acum vreo trei săptămâni, și de atunci parcă s-a agravat mai tare. Înainte mai mergea, acum nu prea mai merge."
+    },
+    {
+      "start": 75.58,
+      "end": 79.0,
+      "speaker": "SPEAKER_00",
+      "text": "Deci aveați deja ceva, și mutatul a agravat situația."
+    },
+    {
+      "start": 79.12,
+      "end": 84.44,
+      "speaker": "SPEAKER_01",
+      "text": "Exact, exact. Adică era acolo, nu mă omora, dar de la mobilă a sărit."
+    },
+    {
+      "start": 84.56,
+      "end": 89.12,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Durerea aceasta cum este, doare constant sau apare la anumite mișcări?"
+    },
+    {
+      "start": 89.24,
+      "end": 99.12,
+      "speaker": "SPEAKER_01",
+      "text": "La mișcări mai ales. Când mă ridic de pe scaun, aia e groaznică. Și când mă aplec să leg șireturile, sau să ridic ceva de jos."
+    },
+    {
+      "start": 99.24,
+      "end": 101.14,
+      "speaker": "SPEAKER_00",
+      "text": "Și când stați culcat, noaptea?"
+    },
+    {
+      "start": 101.26,
+      "end": 106.58,
+      "speaker": "SPEAKER_01",
+      "text": "Noaptea mai merge, dacă stau pe o parte. Dacă stau pe spate mai rău."
+    },
+    {
+      "start": 106.7,
+      "end": 108.98,
+      "speaker": "SPEAKER_00",
+      "text": "Pe care parte stați mai comod?"
+    },
+    {
+      "start": 109.1,
+      "end": 110.24,
+      "speaker": "SPEAKER_01",
+      "text": "Pe stânga, parcă."
+    },
+    {
+      "start": 110.36,
+      "end": 116.06,
+      "speaker": "SPEAKER_00",
+      "text": "Pe stânga. Deci pe stânga e mai confortabil. Și dimineața, când vă treziți, cum e?"
+    },
+    {
+      "start": 116.18,
+      "end": 125.3,
+      "speaker": "SPEAKER_01",
+      "text": "Dimineața e cam rău, primele, nu știu, zece, cincisprezece minute sunt grele. Mă mișc puțin și mai trece, dar la început e cam greu."
+    },
+    {
+      "start": 125.42,
+      "end": 135.3,
+      "speaker": "SPEAKER_00",
+      "text": "Înredare matinală, da, clasic. Și durerea asta care se lasă pe șold, se duce și mai jos pe picior, pe coapsă, sau se oprește la șold?"
+    },
+    {
+      "start": 135.42,
+      "end": 145.68,
+      "speaker": "SPEAKER_01",
+      "text": "Mmm... uneori simt ceva și pe coapsă, pe partea din spate, dar nu știu dacă e de la spate sau nu. Nu prea mai jos de atât."
+    },
+    {
+      "start": 145.8,
+      "end": 149.6,
+      "speaker": "SPEAKER_00",
+      "text": "Deci maxim până la coapsă, nu mai jos de genunchi?"
+    },
+    {
+      "start": 149.72,
+      "end": 151.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, genunchiul e bine."
+    },
+    {
+      "start": 151.74,
+      "end": 153.26,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeală sau furnicături simțiți?"
+    },
+    {
+      "start": 153.38,
+      "end": 162.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu cred. Adică nu... nu știu, uneori am senzația că e amorțit un pic acolo, dar nu știu dacă chiar e sau îmi imaginez."
+    },
+    {
+      "start": 163.0,
+      "end": 172.88,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să vedem. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, cum estimați durerea în acest moment?"
+    },
+    {
+      "start": 173.0,
+      "end": 176.04,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, stând jos, un... un 4, zic eu."
+    },
+    {
+      "start": 176.16,
+      "end": 181.1,
+      "speaker": "SPEAKER_00",
+      "text": "Un 4 în repaus. Dar când vă ridicați de pe scaun, cât e?"
+    },
+    {
+      "start": 181.22,
+      "end": 184.64,
+      "speaker": "SPEAKER_01",
+      "text": "Uf, atunci e un 7, 8, nu știu exact."
+    },
+    {
+      "start": 184.76,
+      "end": 187.42,
+      "speaker": "SPEAKER_00",
+      "text": "Deci la mișcare sărim la 7-8."
+    },
+    {
+      "start": 187.54,
+      "end": 188.68,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam așa."
+    },
+    {
+      "start": 188.8,
+      "end": 192.22,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Spuneți-mi, ce lucrați, dacă pot să întreb?"
+    },
+    {
+      "start": 192.34,
+      "end": 196.14,
+      "speaker": "SPEAKER_01",
+      "text": "Stau mult la birou, programator. Opt ore, mai mult chiar."
+    },
+    {
+      "start": 196.26,
+      "end": 202.72,
+      "speaker": "SPEAKER_00",
+      "text": "Mult stat pe scaun. Și scaunul de la birou e reglabil, ergonomic, sau e un scaun obișnuit?"
+    },
+    {
+      "start": 202.84,
+      "end": 205.88,
+      "speaker": "SPEAKER_01",
+      "text": "E... un scaun obișnuit. Nu e nimic special."
+    },
+    {
+      "start": 206.0,
+      "end": 213.22,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și în general cum stați, v-ați uitat vreodată, vă aplecați mult în față, sau stați mai drept?"
+    },
+    {
+      "start": 213.34,
+      "end": 217.9,
+      "speaker": "SPEAKER_01",
+      "text": "Mă aplec în față, da, toată lumea îmi spune că stau cocoșat."
+    },
+    {
+      "start": 218.02,
+      "end": 222.96,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Acum câteva întrebări de rutină. Aveți tensiune, diabet, epilepsie, alte boli?"
+    },
+    {
+      "start": 223.08,
+      "end": 225.36,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea."
+    },
+    {
+      "start": 225.48,
+      "end": 227.76,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Operații sau fracturi în trecut?"
+    },
+    {
+      "start": 227.88,
+      "end": 237.38,
+      "speaker": "SPEAKER_01",
+      "text": "Am avut... acum mulți ani, vreo zece ani, o operație la menisc, la genunchiul stâng. Dar de atunci nu am mai avut probleme cu el."
+    },
+    {
+      "start": 237.5,
+      "end": 241.3,
+      "speaker": "SPEAKER_00",
+      "text": "Operație de menisc la genunchiul stâng, acum zece ani. Altceva?"
+    },
+    {
+      "start": 241.42,
+      "end": 252.82,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic altceva. Ah, ba da, mi-a zis un doctor acum câțiva ani că am o scolioză mică, ușoară, că n-ar fi nimic grav, nu m-a îngrijorat."
+    },
+    {
+      "start": 252.94,
+      "end": 256.36,
+      "speaker": "SPEAKER_00",
+      "text": "O scolioză ușoară. V-a spus pe ce nivel?"
+    },
+    {
+      "start": 256.48,
+      "end": 261.42,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu îmi amintesc. Mi-a arătat pe radiografie, dar nu am reținut."
+    },
+    {
+      "start": 261.54,
+      "end": 265.72,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Luați vreun medicament în prezent, ceva pentru durere sau altceva?"
+    },
+    {
+      "start": 265.84,
+      "end": 273.82,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu iau nimic. Am luat un nurofen acum vreo săptămână când m-a omorât, dar nu iau în mod regulat."
+    },
+    {
+      "start": 273.94,
+      "end": 277.36,
+      "speaker": "SPEAKER_00",
+      "text": "Deci nu aveți tratament curent, doar un nurofen ocazional."
+    },
+    {
+      "start": 277.48,
+      "end": 278.62,
+      "speaker": "SPEAKER_01",
+      "text": "Da, ocazional, exact."
+    },
+    {
+      "start": 278.74,
+      "end": 283.3,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să facem câteva verificări. Ridicați-vă puțin în picioare, dacă puteți."
+    },
+    {
+      "start": 283.42,
+      "end": 284.22,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 284.34,
+      "end": 296.88,
+      "speaker": "SPEAKER_00",
+      "text": "Stați puțin cu picioarele apropiate. Vedem că bazinul e ușor aplecat anterior, și umărul drept e ușor coborât față de cel stâng. O să apăs acum pe zona lombară, spuneți-mi dacă doare."
+    },
+    {
+      "start": 297.0,
+      "end": 298.52,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, da, acolo doare."
+    },
+    {
+      "start": 298.64,
+      "end": 300.92,
+      "speaker": "SPEAKER_00",
+      "text": "Cât, de la 0 la 10?"
+    },
+    {
+      "start": 301.04,
+      "end": 302.18,
+      "speaker": "SPEAKER_01",
+      "text": "Un 6, aproximativ."
+    },
+    {
+      "start": 302.3,
+      "end": 308.38,
+      "speaker": "SPEAKER_00",
+      "text": "Un 6 la palpare pe lombarul drept. Acum pe zona de piriform, aici pe fesă dreapta."
+    },
+    {
+      "start": 308.5,
+      "end": 310.78,
+      "speaker": "SPEAKER_01",
+      "text": "Au! Da, aia doare mai rău."
+    },
+    {
+      "start": 310.9,
+      "end": 318.88,
+      "speaker": "SPEAKER_00",
+      "text": "Doare mai rău. Și iată că durerea de pe coapsă poate veni de aici. Aplecați-vă ușor în față, cât puteți."
+    },
+    {
+      "start": 319.0,
+      "end": 323.18,
+      "speaker": "SPEAKER_01",
+      "text": "Până... până pe la jumătate mă duc, mai jos nu pot."
+    },
+    {
+      "start": 323.3,
+      "end": 327.86,
+      "speaker": "SPEAKER_00",
+      "text": "Mobilitate limitată la flexie anterioară. Și spre dreapta, o mică rotație laterală."
+    },
+    {
+      "start": 327.98,
+      "end": 329.5,
+      "speaker": "SPEAKER_01",
+      "text": "Asta doare mai tare."
+    },
+    {
+      "start": 329.62,
+      "end": 355.46,
+      "speaker": "SPEAKER_00",
+      "text": "Rotația spre dreapta e dureroasă. Ok, puteți să vă așezați înapoi. Pe baza a ce am văzut, avem o lombalgie cu contractură musculară paravertebrală și o iritație pe zona de piriform dreapta, care explică și durerea pe coapsă. Scolioza ușoară contribuie probabil la dezechilibrul postural pe care îl vedem. Obiectivul nostru va fi să reducem inflamația și contractura musculară, să refacem mobilitatea lombară și să corectăm dezechilibrul postural."
+    },
+    {
+      "start": 355.58,
+      "end": 359.38,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, înțeleg. Și în câte ședințe credeți că se rezolvă?"
+    },
+    {
+      "start": 359.5,
+      "end": 367.48,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde cum răspunde corpul, dar în primele trei-patru ședințe ar trebui să simțiți o diferență. Haideți să trecem la treabă."
+    }
+  ]
+}

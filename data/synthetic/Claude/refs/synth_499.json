@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere la pumnul drept, cu iradiere pe fața anterioară a antebrațului, instalată treptat în aproximativ o lună, asociată muncii intense la calculator (8-9 ore/zi). Amorțeală matinală la primele trei degete (police, index, medius), care cedează după scuturarea mâinii în circa 10 minute. Durere la strângerea pumnului și la flexia pumnului.",
+  "evaluarea_durerii_vas": [
+    6,
+    7
+  ],
+  "localizarea_durerii": [
+    "pumn_dr"
+  ],
+  "localizarea_durerii_alta": "antebraț drept față anterioară",
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism (diagnosticat de aproximativ 3 ani)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "75 micrograme"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: sindrom de tunel carpian drept, secundar suprasolicitării la calculator. Obiective terapeutice: reducerea inflamației din zona tunelului carpian, relaxarea musculaturii flexorilor antebrațului, mobilizarea articulației radiocarpale."
+}

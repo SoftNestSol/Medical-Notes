@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_388",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, cam pe zona de mijloc, mai jos",
+      "De vreo... nu știu, câteva săptămâni. Poate o lună, ceva de genul.",
+      "Poate de la stat la birou, că stau mult, cam toată ziua.",
+      "dimineața când mă dau jos din pat, primele minute sunt urâte"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "Mai jos, da, cam pe acolo. Uneori și mai sus, dar mai mult jos.",
+      "Pe zona de jos, de lombar"
+    ],
+    "localizarea_durerii_alta": [
+      "simt ceva și pe... pe partea asta, pe fesă, pe stânga, dar nu mereu"
+    ],
+    "antecedente": [
+      "mi-a zis medicul că am o ușoară scolioză, dar că nu e gravă"
+    ],
+    "antecedente_altele": [
+      "Am avut o fractură la mâna dreaptă, acum vreo zece ani, de la o căzătură, s-a vindecat, nu mă mai doare."
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți umărul stâng un pic mai jos decât cel drept",
+      "bazinul pare ușor dezaxat",
+      "contractură paravertebrală lombară, mai pronunțată pe dreapta, combinată cu tensiunea din fesierul stâng",
+      "scolioza ușoară despre care v-a spus medicul contribuie la dezechilibrul ăsta",
+      "Obiectivul nostru va fi să relaxăm musculatura, să reducem durerea și să lucrăm puțin și pe mobilitate, că ați văzut că extensia e cam blocată"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23237,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 3603,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

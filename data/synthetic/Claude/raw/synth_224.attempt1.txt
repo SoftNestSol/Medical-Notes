@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă vă vedeți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Cel stâng.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Doare constant sau numai când faceți ceva cu mâna?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Sus, deasupra capului?\nSPEAKER_01: Da, acolo mai rău.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Se lasă și pe braț în jos sau doare strict la umăr?\nSPEAKER_01: Mai mult la umăr, puțin și pe braț.\nSPEAKER_00: Pe care parte a brațului, în față sau în spate?\nSPEAKER_01: În față.\nSPEAKER_00: Amorțește mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Noaptea vă trezește durerea?\nSPEAKER_01: Uneori.\nSPEAKER_00: Când stați pe partea stângă?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Afecțiuni, tensiune, diabet, cancer, epilepsie?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Ridicați brațul ăsta în față, încet.\nSPEAKER_01: Până aici mai merge.\nSPEAKER_00: Doare?\nSPEAKER_01: Da, de pe la jumătate.\nSPEAKER_00: Înțeles. Acum lateral, ridicați tot brațul.\nSPEAKER_01: Uf, asta doare mai tare.\nSPEAKER_00: Dă-ți mâna la spate, la spate jos.\nSPEAKER_01: Merge, nu doare.\nSPEAKER_00: Bun. Apăs acum aici pe tendon, spuneți-mi dacă doare.\nSPEAKER_01: Da, exact acolo.\nSPEAKER_00: Pare o inflamație la tendonul de la biceps și la bursa subacromială. Asta e la nivelul umărului stâng. O să lucrăm să reducem inflamația, după o să recuperăm mobilitatea completă a umărului.",
+  "note": {
+    "motivul_prezentarii": "durere umar stang aparuta dupa mutare mobilier, acum doua saptamani",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": "braț stâng față",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: inflamație tendon biceps și bursă subacromială stânga.\nObiective terapeutice: reducerea inflamației; recuperarea mobilității complete a umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Cel stâng.", "De vreo două săptămâni.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Cel stâng.", "Mai mult la umăr"],
+    "localizarea_durerii_alta": ["Mai mult la umăr, puțin și pe braț.", "În față."],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Pare o inflamație la tendonul de la biceps și la bursa subacromială. Asta e la nivelul umărului stâng. O să lucrăm să reducem inflamația, după o să recuperăm mobilitatea completă a umărului."]
+  }
+}

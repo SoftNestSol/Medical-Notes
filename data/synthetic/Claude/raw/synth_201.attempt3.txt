@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, cu ce vă putem ajuta?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de sus, jos, mijloc?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar. De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Am ridicat niște saci la serviciu.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: Doare și când stați jos, sau doar când vă mișcați?\nSPEAKER_01: Mai mult când mă ridic sau mă aplec.\nSPEAKER_00: Durerea se lasă și pe picior, pe fesă, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeli la picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Luați ceva medicamente acum pentru durere?\nSPEAKER_01: Da, Ibuprofen.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 400.\nSPEAKER_00: De câte ori pe zi?\nSPEAKER_01: O dată, două.\nSPEAKER_00: Ok. Aveți tensiune, diabet, probleme cu inima, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai avut episoade de genul ăsta înainte?\nSPEAKER_01: Da, acum doi ani ceva asemănător.\nSPEAKER_00: A trecut de la sine atunci?\nSPEAKER_01: Da.\nSPEAKER_00: Haideți să vă examinăm puțin. Stați cu spatele la mine. Aplecați-vă înainte încet.\nSPEAKER_01: Cam până aici pot.\nSPEAKER_00: Doare când vă aplecați?\nSPEAKER_01: Da.\nSPEAKER_00: Îndreptați-vă. Acum pe spate, extensie. Doare mai mult sau mai puțin?\nSPEAKER_01: Mai mult.\nSPEAKER_00: Deci extensia agravează. Apăs acum pe coloana lombară, spuneți-mi unde simțiți.\nSPEAKER_01: Acolo, la mijloc.\nSPEAKER_00: L4-L5 pare cel mai sensibil. Musculatura paravertebrală e contractată bilateral. Avem o lombalgie mecanică acută, probabil pe fond de efort, fără iradiere, fără semne radiculare. Obiectivul nostru acum e să reducem contractura și să redăm mobilitatea.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută după ridicare de saci la serviciu, de aproximativ două săptămâni. Durere la mișcare (ridicare, aplecare), fără iradiere pe membrele inferioare.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": "Episod lombar similar în urmă cu doi ani, rezolvat spontan.",
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nFlexie lombară anterioară limitată, dureroasă. Extensia lombară agravează durerea. Sensibilitate la palpare la nivel L4-L5. Contractură musculară paravertebrală bilaterală.\nDiagnostic:\nLombalgie mecanică acută, fără iradiere, fără semne radiculare.\nObiective terapeutice:\nReducerea contracturii musculare și refacerea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele.", "Am ridicat niște saci la serviciu.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 6."],
+    "localizarea_durerii": ["Jos.", "Lombar."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": ["Da, acum doi ani ceva asemănător.", "A trecut de la sine atunci?", "Da."],
+    "medicatie_actuala": ["Da, Ibuprofen.", "400."],
+    "evaluare_functionala_initiala": ["Cam până aici pot.", "Mai mult.", "Acolo, la mijloc.", "L4-L5 pare cel mai sensibil. Musculatura paravertebrală e contractată bilateral. Avem o lombalgie mecanică acută, probabil pe fond de efort, fără iradiere, fără semne radiculare. Obiectivul nostru acum e să reducem contractura și să redăm mobilitatea."]
+  }
+}

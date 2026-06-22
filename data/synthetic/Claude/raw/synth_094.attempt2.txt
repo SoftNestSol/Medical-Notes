@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi cu ce problemă veniți la noi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau ușor ușor?\nSPEAKER_01: Brusc. Am ridicat ceva mai greu la servici.\nSPEAKER_00: Ce faceți la servici?\nSPEAKER_01: Depozit. Cărăm marfă.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde e durerea acum?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Doare tot timpul sau numai când mișcați?\nSPEAKER_01: Mai mult când ridic mâna.\nSPEAKER_00: Puteți ridica brațul drept deasupra capului?\nSPEAKER_01: Până pe aici, după aia nu mai pot.\nSPEAKER_00: Adică cam până la nivelul umărului?\nSPEAKER_01: Da.\nSPEAKER_00: Și apare durere exact acolo sau se lasă și în altă parte?\nSPEAKER_01: Stă aici, în umăr.\nSPEAKER_00: Nu coboară pe braț, pe cot?\nSPEAKER_01: Nu.\nSPEAKER_00: Noaptea vă trezește durerea?\nSPEAKER_01: Da, dacă stau pe partea aia.\nSPEAKER_00: Pe umărul drept dacă dormiți doare.\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Alte afecțiuni aveți? Tensiune, diabet, ceva?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Hipertensiune?\nSPEAKER_01: Da.\nSPEAKER_00: Luați ceva pentru tensiune?\nSPEAKER_01: Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: În fiecare zi?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Ridicați brațul ușor în față... aici doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă ducem brațul în lateral, tot la fel?\nSPEAKER_01: Mai tare.\nSPEAKER_00: Mai tare în abducție. Bun, lăsați brațul jos. Vă prind eu umărul, stați relaxat... apăs ici pe tendonul ăsta de sus, doare?\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Da, e sensibil la nivelul tendoanelor. Rotație internă... ați putea să duceți mâna la spate?\nSPEAKER_01: Un pic, nu de tot.\nSPEAKER_00: Limitată. Bun. Pare o tendinopatie de coifă a rotatorilor, posibil și o mică inflamație subacromială. Trebuie să reducem inflamația și să reluăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în sus, să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută brusc după efort fizic la locul de muncă (ridicat greutăți), de aproximativ două săptămâni. Limitarea abducției și flexiei brațului drept, durere nocturnă în decubit pe umărul afectat.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinopatie coifă rotatori umăr drept\n- posibilă inflamație subacromială\nObiective terapeutice:\n- reducerea inflamației\n- reluarea mobilității umărului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Brusc. Am ridicat ceva mai greu la servici.",
+      "Vreo două săptămâni.",
+      "Da, dacă stau pe partea aia."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Stă aici, în umăr."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am.",
+      "Da."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Enalapril.",
+      "10 miligrame."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare o tendinopatie de coifă a rotatorilor, posibil și o mică inflamație subacromială. Trebuie să reducem inflamația și să reluăm mobilitatea."
+    ]
+  }
+}

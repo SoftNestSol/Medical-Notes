@@ -1,0 +1,24 @@
+{
+  "motivul_prezentarii": "Pacientă de 51 de ani, lucrează la birou (mult la calculator), prezintă durere la nivelul umărului drept instalată treptat de aproximativ două luni, agravată nocturn (mai ales în decubit pe umărul afectat) și la ridicarea brațului. Durere iradiată ocazional pe brațul drept, fără coborâre sub cot, fără amorțeli. Asociază cervicalgie cronică veche, accentuată la postura la calculator.",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cervical",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": "partea de sus a brațului drept (deasupra cotului)",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Perindopril",
+      "doza": "5 miligrame, o dată pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "La examinare: durere la abducție activă a brațului drept de la aproximativ 90 de grade, agravată deasupra; limitare și durere la rotația externă; sensibilitate la palpare pe capul humeral și mai accentuat la nivelul supraspinosului; test de rezistență la abducție pozitiv cu durere moderată. Diagnostic: tendinopatie / inflamație la nivelul manșetei rotatorilor, posibil supraspinos. Obiective terapeutice: reducerea inflamației, refacerea mobilității umărului drept; adresarea cervicalului în context postural."
+}

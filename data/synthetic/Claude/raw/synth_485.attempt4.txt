@@ -1,0 +1,53 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua!\nSPEAKER_00: Cu ce problemă ne vedem?\nSPEAKER_01: Păi am o durere teribilă în ceafă, de vreo două săptămâni, poate mai mult, de fapt de când am început să lucrez de acasă, că știți cum e, stau la laptop toată ziua și... nu știu, la un moment dat m-am trezit că nu mai pot să întorc capul.\nSPEAKER_00: Înțeleg. Și doare doar în ceafă sau se lasă și în altă parte?\nSPEAKER_01: Ei, asta e, că se lasă și sus, în cap, adică am și niște dureri de cap din cauza asta, cred eu. Și uneori simt ceva și pe partea asta dreaptă, mai spre umăr, dar nu umărul în sine, mai sus, pe gât.\nSPEAKER_00: Deci durere în ceafă, cu iradiere spre cap și pe partea dreaptă a gâtului.\nSPEAKER_01: Exact, exact. Și mă îngrijorez un pic că e ceva grav, știți? Am căutat pe internet și am văzut tot felul de lucruri îngrozitoare, cu artere și nu știu ce...\nSPEAKER_00: Înțeleg, dar să nu anticipăm. Pe o scară de la zero la zece, unde zero înseamnă că nu doare deloc și zece înseamnă că doare insuportabil, unde ați situa durerea?\nSPEAKER_01: Hmm... un șapte, aș zice. Uneori mai scade, spre cinci, dimineața când mă trezesc, dar după ce stau la birou câteva ore ajunge iarăși la șapte, opt chiar.\nSPEAKER_00: Deci fluctuează între cinci și opt în funcție de activitate.\nSPEAKER_01: Da, da. Noaptea e mai suportabil, dar dimineața am o înțepenire, nu pot să mișc capul ușor. Trece după vreo zece minute, dar e neplăcut.\nSPEAKER_00: Aveți amețeli, greață, tinitus?\nSPEAKER_01: Amețeli... nu chiar, dar am simțit de câteva ori ceva, nu știu cum să descriu, ca un pic de ceață în cap. Nu știu dacă ăla e amețeală sau nu.\nSPEAKER_00: Și asta apare mai ales când întoarceți capul sau și altfel?\nSPEAKER_01: Mai ales când mă ridic repede sau când întorc capul brusc. Dar nu în fiecare zi.\nSPEAKER_00: Înțeleg. Și cum stați la birou, aveți monitorul la nivelul ochilor sau mai jos?\nSPEAKER_01: Asta e problema, stau cu laptopul pe masă și mă uit în jos, ore în șir. Soțul meu îmi tot spune să îmi iau un suport, dar tot amân. Plus că stau cu telefonul mult și eu cred că de acolo a pornit tot.\nSPEAKER_00: Probabil că da, postura joacă un rol important. Ați mai avut episoade similare în trecut?\nSPEAKER_01: Nu chiar așa de puternic. Poate mai aveam dureri de gât când eram obosită, dar treceau singure. Ăsta nu trece.\nSPEAKER_00: Luați ceva pentru durere acum?\nSPEAKER_01: Am luat un Nurofen acum vreo trei zile că nu mai suportam, dar nu vreau să tot iau pastile. Și am pus un gel, un Voltaren, pe ceafă câteva seri, că aveam acasă. Nu știu dacă a ajutat.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, probleme cardiace?\nSPEAKER_01: Nu, nu am nimic din astea, sunt relativ sănătoasă. Mă tot gândeam dacă nu e de la stres, că am o perioadă mai agitată la muncă, dar nu știu.\nSPEAKER_00: Bine. Hai să facem câteva mișcări simple. Întoarceți capul spre dreapta, ușor.\nSPEAKER_01: Până aici pot, mai departe... au, da, doare.\nSPEAKER_00: Doare mai mult la rotație spre dreapta decât spre stânga?\nSPEAKER_01: Da, da, spre dreapta e mai rău. Spre stânga mai merge.\nSPEAKER_00: Acum aplecați capul puțin în față.\nSPEAKER_01: Asta mai merge, dar simt o presiune jos, în ceafă.\nSPEAKER_00: Și înapoi?\nSPEAKER_01: Înapoi e ok, nu doare.\nSPEAKER_00: Bun. Stați puțin, apăs ușor pe musculatura de aici. Spuneți dacă doare.\nSPEAKER_01: Da, acolo doare, pe dreapta mai tare. Au!\nSPEAKER_00: Pe dreapta e mai sensibil. Vedem că musculatura cervicală e contractată, mai ales pe dreapta, cu limitarea rotației spre dreapta. Cel mai probabil e o contractură musculară cervicală legată de postură, tensionat de orele petrecute cu capul aplecat. O să lucrăm să relaxăm zona, să reducem durerea și să recâștigăm mobilitatea.\nSPEAKER_01: Și cu amețelile alea ocazionale, e ceva grav?\nSPEAKER_00: Nu am motive să cred că e ceva grav acum, dar urmărim evoluția. Senzația de ceață pe care o descrieți poate fi legată de tensiunea musculară din ceafă. Dacă se intensifică, vedem mai departe.\nSPEAKER_01: Bine, mă liniștește puțin. Și cât de des ar trebui să vin?\nSPEAKER_00: Să vedem cum răspunde după prima ședință și stabilim. Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală și ceafă cu iradiere spre cap și pe partea dreaptă a gâtului, instalată de aproximativ două săptămâni, asociată cu postură vicioasă la laptop. Limitarea rotației capului spre dreapta și înțepenire matinală.",
+    "evaluarea_durerii_vas": [5, 8],
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      },
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nContractură musculară cervicală mai accentuată pe dreapta, durere la palparea musculaturii cervicale drepte. Limitarea rotației capului spre dreapta. Flexia anterioară posibilă cu presiune în ceafă. Extensia fără durere. Postură vicioasă la birou (laptop jos, cap aplecat).\nDiagnostic:\nContractură musculară cervicală legată de postură.\nObiective terapeutice:\nRelaxarea musculaturii cervicale contractate; reducerea durerii; recâștigarea mobilității cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere teribilă în ceafă, de vreo două săptămâni",
+      "m-am trezit că nu mai pot să întorc capul",
+      "stau cu laptopul pe masă și mă uit în jos, ore în șir"
+    ],
+    "evaluarea_durerii_vas": [
+      "un șapte, aș zice. Uneori mai scade, spre cinci, dimineața când mă trezesc, dar după ce stau la birou câteva ore ajunge iarăși la șapte, opt chiar"
+    ],
+    "localizarea_durerii": [
+      "am o durere teribilă în ceafă",
+      "se lasă și sus, în cap, adică am și niște dureri de cap din cauza asta",
+      "durere în ceafă, cu iradiere spre cap și pe partea dreaptă a gâtului"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Nurofen acum vreo trei zile că nu mai suportam",
+      "am pus un gel, un Voltaren, pe ceafă câteva seri"
+    ],
+    "evaluare_functionala_initiala": [
+      "musculatura cervicală e contractată, mai ales pe dreapta, cu limitarea rotației spre dreapta",
+      "Da, acolo doare, pe dreapta mai tare",
+      "Cel mai probabil e o contractură musculară cervicală legată de postură",
+      "O să lucrăm să relaxăm zona, să reducem durerea și să recâștigăm mobilitatea"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "motivul_prezentarii": "Durere lombară apărută în urmă cu două săptămâni după ridicare de saci, accentuată la flexie și ridicare din poziție, ameliorată în decubit.",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nContractură paravertebrală lombară, mai accentuată pe stânga. Mobilitate lombară limitată în flexie. Durere la palpare paravertebral stânga > dreapta.\nDiagnostic:\nLombalgie acută mecanică, cel mai probabil declanșată de ridicarea acelor saci.\nObiective terapeutice:\nReducerea contracturii și redarea mobilității lombare."
+}

@@ -1,0 +1,26 @@
+{
+  "motivul_prezentarii": "Durere umăr stâng, apărută progresiv, fără traumatism direct, de aproximativ trei săptămâni",
+  "evaluarea_durerii_vas": [
+    7,
+    2
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "o pastilă pe zi"
+    },
+    {
+      "denumire": "vitamina D",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare de mobilitate la abducție (blocaj la aproximativ 90 de grade) și la rotație internă (imposibilitate de a duce mâna la umărul opus pe la spate). Diagnostic: inflamație și tensionare capsulă articulară umăr stâng. Obiective terapeutice: reducerea inflamației și recuperarea amplitudinii de mișcare."
+}

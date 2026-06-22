@@ -1,0 +1,16 @@
+{
+  "motivul_prezentarii": "Durere cervicala si umar drept, aparuta dupa stat prelungit la calculator",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic: - contractura musculara cervicala, trapez superior si ridicatorul scapulei, predominant dreapta;\n- mobilitate redusa rotatie cervicala dreapta;\n- postura: cap antepozitionat, umeri ridicati\nObiective terapeutice: - reducerea contracturii musculare;\n- refacerea mobilitatii cervicale;\n- corectarea posturii la birou"
+}

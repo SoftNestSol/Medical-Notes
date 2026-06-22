@@ -1,0 +1,43 @@
+{
+  "conversation_id": "synth_124",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Genunchiul.",
+      "Stângul."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5.",
+      "Da, poate 7."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "Da, acolo."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune, da."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Enalapril.",
+      "10 miligrame."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o tendinită rotuliană, dat fiind că doare sub rotulă, că stați mult în picioare și că scările agravează. Vom lucra să reducem inflamația din tendon și să refacem mobilitatea genunchiului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21184,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1647,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

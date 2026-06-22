@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, zona de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar, deci. De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. S-a întâmplat ceva anume, ați ridicat ceva, ați căzut?\nSPEAKER_01: Am stat mult la birou.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, 0 nu doare deloc, 10 doare foarte rău, unde o situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot timpul sau mai mult când stați jos?\nSPEAKER_01: Când stau jos mai mult. Și când mă ridic.\nSPEAKER_00: Când vă ridicați din scaun doare.\nSPEAKER_01: Da.\nSPEAKER_00: Se lasă durerea și pe picior, pe fesă, pe coapsă?\nSPEAKER_01: Nu.\nSPEAKER_00: Strict în zona lombară.\nSPEAKER_01: Da.\nSPEAKER_00: Amorțesc picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Tensiune arterială, diabet, osteoporoză, ceva din astea?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio afecțiune.\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Ibuprofen, câteodată.\nSPEAKER_00: Câte miligrame?\nSPEAKER_01: Nu știu. Cel obișnuit.\nSPEAKER_00: Ok. Haideți să stați puțin în picioare, cu spatele la mine.\nSPEAKER_01: Așa?\nSPEAKER_00: Da, exact. Relaxați umerii. Văd o ușoară înclinare spre stânga. Simțiți?\nSPEAKER_01: Nu știu, nu am observat.\nSPEAKER_00: Aplecați-vă puțin în față, ca să atingeți podeaua.\nSPEAKER_01: Doare când mă aplec.\nSPEAKER_00: Doare la aplecare. Până unde ajungeți?\nSPEAKER_01: Cam până la genunchi.\nSPEAKER_00: Ok, limitare la flexie. Acum ridicați-vă ușor. Doare mai rău?\nSPEAKER_01: Da, la ridicat doare mai tare.\nSPEAKER_00: Apăs puțin în zona lombară. Spuneți-mi dacă doare.\nSPEAKER_01: Da, aici doare.\nSPEAKER_00: Pe dreapta sau pe stânga mai mult?\nSPEAKER_01: Dreapta parcă.\nSPEAKER_00: Dreapta. Haideți pe masă acum, cu fața în sus.\nSPEAKER_01: Ok.\nSPEAKER_00: Ridic piciorul drept încet. Spuneți-mi dacă se simte ceva.\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Piciorul stâng.\nSPEAKER_01: Nu, nu doare.\nSPEAKER_00: Bun. Deci nu avem iradiere, nu avem test Lasègue pozitiv. Este o contractură musculară paravertebrală lombară, mai accentuată pe dreapta. Cel mai probabil din postura de la birou. O să lucrăm pe relaxarea musculaturii și pe mobilizare lombară. Câteva ședințe și ar trebui să se regleze.\nSPEAKER_01: Ok.\nSPEAKER_00: Vârsta dacă pot să întreb?\nSPEAKER_01: 34.\nSPEAKER_00: Mulți înainte. Lucrați mult de acasă sau la birou?\nSPEAKER_01: La birou, zi de zi.\nSPEAKER_00: Înțeles. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară joasă instalată de aproximativ două săptămâni, apărută după stat prelungit la birou. Durere la flexie și la ridicarea din poziție, mai accentuată pe dreapta, fără iradiere pe membrul inferior.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": ["lombar"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară înclinare laterală spre stânga în ortostatism. Limitare la flexia trunchiului (ajunge aproximativ la nivelul genunchilor). Durere la aplecare și la ridicare. Sensibilitate la palpare paravertebrală lombară dreaptă. Test Lasègue negativ bilateral.\nDiagnostic:\nContractură musculară paravertebrală lombară, mai accentuată pe dreapta, fără semne de iradiere radiculară.\nObiective terapeutice:\nRelaxarea musculaturii paravertebrale lombare; mobilizare lombară; recuperarea amplitudinii de mișcare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele.", "Am stat mult la birou.", "De vreo două săptămâni.", "Doare când mă aplec.", "Da, la ridicat doare mai tare.", "Dreapta parcă."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Jos.", "Strict în zona lombară."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Ibuprofen, câteodată."],
+    "evaluare_functionala_initiala": ["Văd o ușoară înclinare spre stânga.", "Limitare la flexie.", "Da, la ridicat doare mai tare.", "Da, aici doare.", "Dreapta parcă.", "nu avem iradiere, nu avem test Lasègue pozitiv", "Este o contractură musculară paravertebrală lombară, mai accentuată pe dreapta.", "O să lucrăm pe relaxarea musculaturii și pe mobilizare lombară."]
+  }
+}

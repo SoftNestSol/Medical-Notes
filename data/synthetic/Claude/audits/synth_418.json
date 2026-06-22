@@ -1,0 +1,53 @@
+{
+  "conversation_id": "synth_418",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare pe aici, pe zona asta din spate, nu știu exact cum să zic, undeva mai jos, pe mijloc, mai spre stânga",
+      "A început cam pe nesimțite",
+      "am mutat niște cutii acasă, cam cu două săptămâni în urmă, poate de atunci",
+      "dimineața e cam rău, mă ține vreo jumătate de oră, până mă mai dezmorțesc",
+      "parcă se mai duce ceva pe fesa stângă, dar nu coboară mai jos",
+      "Nu, nu am simțit",
+      "Când stau mult în picioare sau când merg mult",
+      "Sunt inginer, stau mult la birou, la calculator"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "undeva mai jos, pe mijloc, mai spre stânga",
+      "Ceafa mă mai deranjează câteodată, mai ales după multe ore la calculator"
+    ],
+    "localizarea_durerii_alta": [
+      "parcă se mai duce ceva pe fesa stângă, dar nu coboară mai jos"
+    ],
+    "antecedente": [
+      "mi-a zis un medic cândva că am o ușoară scolioză, dar că nu e gravă"
+    ],
+    "antecedente_altele": [
+      "am avut la genunchiul drept, acum vreo zece ani, menisc",
+      "Am mai rupt o coastă când eram mai mic"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Observ că bazinul e ușor înclinat, mai jos pe stânga",
+      "avem o contractură musculară paravertebrală lombară, predominant pe stânga, cu o ușoară dezaliniere de bazin",
+      "Probabil totul a fost declanșat de efortul cu cutiile, pe fondul posturii de birou și al scoliozei ușoare pe care o aveți",
+      "Nu avem semne de afectare radiculară",
+      "Obiectivul nostru principal e să reducem contractura și inflamația musculară, să realiniem bazinul și să lucrăm pe mobilitatea lombară, ca să prevenim și recurența",
+      "testul Lasègue negativ bilateral"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22123,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 3932,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

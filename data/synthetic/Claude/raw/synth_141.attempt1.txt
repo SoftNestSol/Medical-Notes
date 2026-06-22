@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Gheorghe Marin.\nSPEAKER_00: Și vârsta?\nSPEAKER_01: 51.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume, după un efort, după o lovitură?\nSPEAKER_01: Nu știu, parcă după ce am ridicat niște saci.\nSPEAKER_00: Saci grei?\nSPEAKER_01: Da, cu ciment.\nSPEAKER_00: Înțeles. Doare constant sau doar când mișcați brațul?\nSPEAKER_01: Când îl ridic mai ales.\nSPEAKER_00: Ridici brațul în față sau în lateral mai greu?\nSPEAKER_01: În lateral.\nSPEAKER_00: Noaptea vă trezește durerea?\nSPEAKER_01: Da, câteodată.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare acum?\nSPEAKER_01: Un 5.\nSPEAKER_00: Și când ridicați brațul?\nSPEAKER_01: Atunci mai tare, un 8.\nSPEAKER_00: Am înțeles. Se lasă durerea și pe braț în jos sau doar în umăr?\nSPEAKER_01: Doar în umăr, aici.\nSPEAKER_00: Bun. Alte zone mai dor? Spatele, gâtul?\nSPEAKER_01: Nu.\nSPEAKER_00: Afecțiuni mai aveți, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: De mult timp?\nSPEAKER_01: Câțiva ani.\nSPEAKER_00: Luați ceva pentru tensiune?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: O dată pe zi?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Haideți să stați în picioare, domnule Marin. Voi ridica eu brațul și îmi spuneți unde simțiți.\nSPEAKER_01: Ok.\nSPEAKER_00: Ridic în lateral, da? Spuneți când doare.\nSPEAKER_01: Acolo, cam la jumătate.\nSPEAKER_00: La abducție la vreo 80 de grade apare durerea. Doare și când apăs aici pe capul humerusului?\nSPEAKER_01: Da, doare.\nSPEAKER_00: Mai apăs puțin în zona de rotator, deasupra, pe supraspinat. Doare?\nSPEAKER_01: Da, acolo mai tare.\nSPEAKER_00: Înțeles. Cel mai probabil avem o inflamație la nivelul coifului rotatorilor, tendonul supraspinat în principal. Va trebui să reducem inflamația și să refacem mobilitatea umărului drept. Hai să trecem la treabă.\nSPEAKER_01: Bine.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa ridicat saci grei, de doua saptamani",
+    "evaluarea_durerii_vas": [5, 8],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame, o dată pe zi"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie coif rotatori, tendon supraspinat umar drept\nObiective terapeutice: reducerea inflamatiei, refacerea mobilitatii umarului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Vreo două săptămâni.", "parcă după ce am ridicat niște saci"],
+    "evaluarea_durerii_vas": ["Un 5.", "Atunci mai tare, un 8."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul.", "Doar în umăr, aici."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Enalapril.", "10 miligrame.", "Da."],
+    "evaluare_functionala_initiala": ["Cel mai probabil avem o inflamație la nivelul coifului rotatorilor, tendonul supraspinat în principal. Va trebui să reducem inflamația și să refacem mobilitatea umărului drept."]
+  }
+}

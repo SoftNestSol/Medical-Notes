@@ -1,0 +1,40 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă veniți azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: A apărut brusc sau treptat?\nSPEAKER_01: Brusc. Am ridicat ceva mai greu la serviciu.\nSPEAKER_00: Ce fel de muncă faceți?\nSPEAKER_01: Depozit. Cărăm marfă.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde vă situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Doar când ridic brațul.\nSPEAKER_00: Sus doare, jos nu?\nSPEAKER_01: Da.\nSPEAKER_00: Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun pic?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Și în spate, între omoplați, simțiți ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Afecțiuni, tensiune, diabet, epilepsie, ceva?\nSPEAKER_01: Nu am nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la unguente, creme?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să vedem puțin. Ridicați brațul drept în față, ușor.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare la nivelul ăsta, la aproximativ 90 de grade?\nSPEAKER_01: Da, cam de aici.\nSPEAKER_00: Și dacă duceți brațul în lateral?\nSPEAKER_01: La fel, doare.\nSPEAKER_00: Puteți să duceți mâna la ceafă?\nSPEAKER_01: Cu greu.\nSPEAKER_00: Doare?\nSPEAKER_01: Da, destul de tare.\nSPEAKER_00: Stați, apăs puțin aici, pe zona de sub acromion. Doare?\nSPEAKER_01: Da, acolo e cel mai rău.\nSPEAKER_00: Înțeleg. Deci avem o inflamație la nivelul tendoanelor din umăr, zona de coafă a rotatorilor. Cel mai probabil tendinita supraspinosului, apărută după efortul respectiv. Trebuie să reducem inflamația și să refacem mobilitatea umărului.\nSPEAKER_01: Cât durează?\nSPEAKER_00: Depinde cum răspunde, dar cu câteva ședințe ar trebui să mergeți mai bine. Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept, aparuta dupa efort fizic la serviciu (ridicat greutati), de aproximativ doua saptamani. Durere la ridicarea bratului, fara amorteli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinita supraspinosului umar dr.\nObiective terapeutice:\n- reducerea inflamatiei;\n- refacerea mobilitatii umarului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "De vreo două săptămâni.",
+      "Brusc. Am ridicat ceva mai greu la serviciu.",
+      "Doar când ridic brațul."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "acolo e cel mai rău"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Medicamente luați?\nSPEAKER_01: Nu."
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendoanelor din umăr, zona de coafă a rotatorilor. Cel mai probabil tendinita supraspinosului, apărută după efortul respectiv. Trebuie să reducem inflamația și să refacem mobilitatea umărului."
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă venim azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște cutii.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare constant sau numai când mișcați brațul?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Sus doare, jos nu?\nSPEAKER_01: Da.\nSPEAKER_00: Ridicați mâna așa pentru mine. Până unde puteți fără durere?\nSPEAKER_01: Până pe aici, cam la jumătate.\nSPEAKER_00: Deci până la orizontală doare, mai sus nu mai puteți.\nSPEAKER_01: Nu prea.\nSPEAKER_00: Amorțește brațul sau mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Noaptea vă trezește durerea?\nSPEAKER_01: Uneori.\nSPEAKER_00: Când stați pe partea dreaptă?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Tensiune, diabet, epilepsie, alte afecțiuni?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale la umăr sau altundeva?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați ceva în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la unguente sau creme?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin cu spatele la mine. Vă apăs zona de rotatori, îmi spuneți dacă doare.\nSPEAKER_01: Da, doare acolo.\nSPEAKER_00: Doare mai tare în față sau în spate?\nSPEAKER_01: În față.\nSPEAKER_00: Pe zona de biceps, tendonul din față?\nSPEAKER_01: Da, pe acolo.\nSPEAKER_00: Înțeles. Avem o inflamație la nivelul tendoanelor din zona umărului drept, cel mai probabil tendinită de manșetă rotatoare. Vom lucra să reducem inflamația și să refacem mobilitatea. Haideți pe masă cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept aparuta dupa mutarea unor cutii, de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita manseta rotatoare umar dr.\nObiective terapeutice: reducerea inflamatiei; refacerea mobilitatii."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Vreo două săptămâni.", "Am mutat niște cutii."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Avem o inflamație la nivelul tendoanelor din zona umărului drept, cel mai probabil tendinită de manșetă rotatoare. Vom lucra să reducem inflamația și să refacem mobilitatea."]
+  }
+}

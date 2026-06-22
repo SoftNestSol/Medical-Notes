@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Cel drept.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Cam de două săptămâni.\nSPEAKER_00: Și a apărut după ceva anume sau din senin?\nSPEAKER_01: După ce am mutat niște cutii.\nSPEAKER_00: Ați ridicat ceva greu?\nSPEAKER_01: Da, cutii cu cărți, mai multe.\nSPEAKER_00: Înțeles. Și de atunci doare constant sau numai când mișcați mâna?\nSPEAKER_01: Numai când mișc.\nSPEAKER_00: Când ridicați brațul, da?\nSPEAKER_01: Da, mai ales în sus.\nSPEAKER_00: Ridicați-l acum puțin, să văd. Până unde puteți ajunge fără să doară?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci undeva la nouăzeci de grade. Mai sus doare?\nSPEAKER_01: Da, mai sus nu pot.\nSPEAKER_00: Și noaptea vă trezește durerea?\nSPEAKER_01: Uneori, dacă stau pe el.\nSPEAKER_00: Pe partea dreaptă nu puteți dormi comod?\nSPEAKER_01: Nu.\nSPEAKER_00: Doare și în față, în zona asta de piept, sau numai sus pe umăr?\nSPEAKER_01: Mai mult pe sus și pe lateral.\nSPEAKER_00: Pe lateral, bine. Se lasă ceva durere pe braț în jos, spre cot?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Nu. Amorțește ceva degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Pe o scară de la zero la zece, cât de tare doare când ridicați brațul sus?\nSPEAKER_01: Un șapte.\nSPEAKER_00: Șapte. Și dacă stați nemișcat, doare?\nSPEAKER_01: Nu prea. Poate un doi.\nSPEAKER_00: Un doi în repaus, șapte la mișcare. Am înțeles.\nSPEAKER_00: Aveți vreo afecțiune știută, tensiune, diabet, osteoporoză, ceva de genul?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale la umăr sau altundeva?\nSPEAKER_01: Nu.\nSPEAKER_00: Fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum, orice?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici măcar ceva pentru durere?\nSPEAKER_01: Nu, n-am luat nimic.\nSPEAKER_00: Bine. Vă apăs puțin aici pe muschiul supraspinos. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și aici mai în față?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Acum voi face testul cu brațul întins lateral, împingeți în sus contra mâinii mele.\nSPEAKER_01: Au.\nSPEAKER_00: Doare când împingeți?\nSPEAKER_01: Da, chiar dacă nu e tare.\nSPEAKER_00: Înțeles. Și dacă rotesc ușor brațul spre interior, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Bun, mulțumesc. Ce muncă faceți, dacă pot să întreb?\nSPEAKER_01: Stau mult la birou, calculator.\nSPEAKER_00: Deci mult stat jos, postura aplecată.\nSPEAKER_01: Da.\nSPEAKER_00: Înțeles. Deci ce avem noi aici pare a fi o tendinită la nivelul coifului rotatorilor, mai exact a supraspinosului. Asta înseamnă că tendonul s-a inflamat când ați forțat cu acele cutii. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului drept. O să lucrăm în câteva ședințe și ar fi bine să evitați să ridicați greutăți cu brațul drept deocamdată.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă atunci, cu fața în jos, vă rog.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept aparuta dupa ridicat greutati, de doua saptamani",
+    "evaluarea_durerii_vas": [7, 2],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita coif rotatori, supraspinos drept\nObiective terapeutice:\n- reducerea inflamatiei;\n- recuperarea mobilitatii umarului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Cel drept.", "Cam de două săptămâni.", "După ce am mutat niște cutii.", "cutii cu cărți, mai multe"],
+    "evaluarea_durerii_vas": ["Un șapte.", "poate un doi"],
+    "localizarea_durerii": ["Cel drept.", "mai ales în sus", "Mai mult pe sus și pe lateral"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["pare a fi o tendinită la nivelul coifului rotatorilor, mai exact a supraspinosului", "Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului drept"]
+  }
+}

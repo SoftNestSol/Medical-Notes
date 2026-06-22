@@ -1,0 +1,40 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște cutii mai grele la serviciu.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Doar când ridic mâna.\nSPEAKER_00: Sus, lateral, în față?\nSPEAKER_01: Mai mult în față și lateral.\nSPEAKER_00: Doare și noaptea când stați pe el?\nSPEAKER_01: Un pic, da.\nSPEAKER_00: Amorțește brațul sau mâna vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Vă întreb și câteva lucruri generale. Tensiune, diabet, osteoporoză, cancer, epilepsie?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale la umăr sau în altă parte?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme sau unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Stați puțin în picioare, cu fața la mine. Ridicați mâna stângă înainte, încet.\nSPEAKER_01: Până pe aici pot.\nSPEAKER_00: Doare de pe la 90 de grade?\nSPEAKER_01: Da, cam de acolo.\nSPEAKER_00: Și lateral, ridicați lateral.\nSPEAKER_01: La fel.\nSPEAKER_00: Bun. Acum puneți mâna la spate, ca și cum ați ajunge la buzunar.\nSPEAKER_01: Asta merge mai bine.\nSPEAKER_00: Înțeles. Apăs puțin pe umăr, pe zona asta de sus, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Și pe față, pe zona asta?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Ce văd eu este o inflamație la nivelul tendonului supraspinos, cel mai probabil o tendinită de umăr stâng. Limitare la abducție și flexie după 90 de grade, durere la palpare pe acromion. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng apărută după mutarea unor cutii grele la serviciu, de aproximativ două săptămâni. Durere la ridicarea brațului în față și lateral, de la aproximativ 90 de grade. Disconfort ușor nocturn când stă pe umăr.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinită umăr stâng (tendon supraspinos)\n- limitare la abducție și flexie după 90 de grade\n- durere la palpare pe acromion\nObiective terapeutice:\n- reducerea inflamației\n- recâștigarea mobilității"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul",
+      "Stângul",
+      "Vreo două săptămâni",
+      "Am mutat niște cutii mai grele la serviciu",
+      "Doar când ridic mâna",
+      "Mai mult în față și lateral",
+      "Un pic, da"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5"
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul",
+      "Stângul"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Ce văd eu este o inflamație la nivelul tendonului supraspinos, cel mai probabil o tendinită de umăr stâng. Limitare la abducție și flexie după 90 de grade, durere la palpare pe acromion. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea."
+    ]
+  }
+}

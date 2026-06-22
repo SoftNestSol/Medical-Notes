@@ -1,0 +1,55 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, cu ce problemă veniți astăzi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos sau mai sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar, deci. De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și s-a instalat brusc sau treptat?\nSPEAKER_01: Brusc. Am ridicat ceva.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde ați situa durerea?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Doare permanent sau mai mult la mișcare?\nSPEAKER_01: La mișcare. Când mă aplec.\nSPEAKER_00: Când vă aplecați în față. Durerea se lasă și pe picior, pe fesă?\nSPEAKER_01: Nu.\nSPEAKER_00: Rămâne doar în zona lombară?\nSPEAKER_01: Da.\nSPEAKER_00: Amorțiți vreodată picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Dimineața când vă ridicați din pat, vă ține?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Și trece după ce vă mișcați?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Luați vreun medicament acum, ceva pentru durere?\nSPEAKER_01: Nurofen, da.\nSPEAKER_00: Nurofen. Știți ce doză?\nSPEAKER_01: Nu știu, normal, din ăla obișnuit.\nSPEAKER_00: Ok. Vă ajută?\nSPEAKER_01: Puțin.\nSPEAKER_00: Ați mai avut episoade de acest gen înainte?\nSPEAKER_01: Acum doi ani, ceva similar.\nSPEAKER_00: Și a trecut singur?\nSPEAKER_01: Da, cu pastile.\nSPEAKER_00: Alte probleme de sănătate, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio intervenție chirurgicală, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să stați puțin în picioare, cu spatele la mine.\nSPEAKER_01: Ok.\nSPEAKER_00: Relaxați umerii. Văd că aveți o ușoară înclinare spre stânga. Simțiți?\nSPEAKER_01: Nu știu.\nSPEAKER_00: Aplicați-vă în față, încet.\nSPEAKER_01: Au, doare.\nSPEAKER_00: Unde exact?\nSPEAKER_01: Aici, jos, pe mijloc.\nSPEAKER_00: Pe zona lombară centrală. Și în lateral, spre dreapta, doare?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Haideți pe masă cu fața în jos.\nSPEAKER_01: Da.\nSPEAKER_00: Apăs puțin paravertebral. Doare aici?\nSPEAKER_01: Da.\nSPEAKER_00: Și aici mai jos?\nSPEAKER_01: Da, mai tare.\nSPEAKER_00: Am înțeles. Avem o contractură musculară paravertebrală lombară, cel mai probabil declanșată de efortul de ridicare. O să lucrăm să relaxăm musculatura și să reducem inflamația. Câteva ședințe ar trebui să vă aducă îmbunătățiri.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară instalată brusc acum două săptămâni după un efort de ridicare, VAS 7/10, accentuată la flexia anterioară, cu redoare matinală care cedează la mișcare. Fără iradiere pe membrul inferior, fără amorțeli.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": "Episod lombar similar acum doi ani, rezolvat cu medicație",
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară înclinare laterală spre stânga în ortostatism. Durere la flexia anterioară activă, localizată lombar central. Durere la palpare paravertebrală lombară bilateral, mai accentuată inferior.\nDiagnostic:\nContractură musculară paravertebrală lombară post-efort.\nObiective terapeutice:\nRelaxarea musculaturii paravertebrale lombare și reducerea inflamației."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "Brusc. Am ridicat ceva.",
+      "De vreo două săptămâni.",
+      "La mișcare. Când mă aplec.",
+      "Nu.",
+      "Da, un pic."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Lombar, deci.",
+      "Rămâne doar în zona lombară?"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Acum doi ani, ceva similar.",
+      "Da, cu pastile."
+    ],
+    "medicatie_actuala": [
+      "Nurofen, da."
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți o ușoară înclinare spre stânga.",
+      "Au, doare.",
+      "Aici, jos, pe mijloc.",
+      "Da, mai tare.",
+      "Avem o contractură musculară paravertebrală lombară, cel mai probabil declanșată de efortul de ridicare. O să lucrăm să relaxăm musculatura și să reducem inflamația."
+    ]
+  }
+}

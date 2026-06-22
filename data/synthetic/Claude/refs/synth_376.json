@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Durere umăr drept cu iradiere pe braț până la cot, debut după efort fizic (mutat cutii), accentuată la mișcare și noaptea în decubit pe partea dreaptă. Asociază tensiune cervicală cronică.",
+  "evaluarea_durerii_vas": [
+    7,
+    2
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "braț drept anterior până la cot",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren gel",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații funcționale: limitarea ridicării brațului drept la aproximativ 90 de grade cu apariția durerii; sensibilitate la palparea tendonului supraspinosului. Diagnostic: inflamație la nivelul tendoanelor coifului rotatorilor, cel mai probabil supraspinosul; durerea iradiată pe braț de origine locală, fără componentă nervoasă. Obiective terapeutice: reducerea inflamației și recuperarea amplitudinii de mișcare a umărului."
+}

@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_161",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Drept.",
+      "Vreo două săptămâni.",
+      "Am mutat niște cutii grele."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo șase."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Umărul drept sau stâng?",
+      "Drept."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofen, un comprimat când mă doare tare."
+    ],
+    "evaluare_functionala_initiala": [
+      "Deci undeva la nouăzeci de grade și deja apare durerea?",
+      "Deci arc dureros prezent atât la flexie cât și la abducție.",
+      "Apăs acum ușor pe acromion... doare?",
+      "Da, acolo fix.",
+      "Și dacă apăs pe tendonul bicepsului, în față?",
+      "Avem o inflamație la nivelul umărului drept, cel mai probabil tendonul supraspinatusului și poate o tendinită de biceps asociată. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea completă a umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13883,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1787,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

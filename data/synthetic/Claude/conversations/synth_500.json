@@ -1,0 +1,409 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 5.64,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi."
+    },
+    {
+      "start": 5.76,
+      "end": 13.74,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare șoldul, de ceva vreme deja. Șoldul drept. Și... nu știu, m-am speriat un pic, de asta am venit."
+    },
+    {
+      "start": 13.86,
+      "end": 18.42,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, bine că ați venit. Și de cât timp simțiți durerea asta?"
+    },
+    {
+      "start": 18.54,
+      "end": 25.38,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... vreo două luni, poate mai mult. Parcă a început mai ușor și acum s-a mai accentuat."
+    },
+    {
+      "start": 25.5,
+      "end": 29.68,
+      "speaker": "SPEAKER_00",
+      "text": "A apărut după ceva anume, după un efort, o căzătură, ceva?"
+    },
+    {
+      "start": 29.8,
+      "end": 39.3,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu exact. Nu m-am lovit sau ceva. Cred că de la stat mult jos, stau mult la birou, opt, nouă ore pe zi."
+    },
+    {
+      "start": 39.42,
+      "end": 43.98,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și unde simțiți cel mai mult durerea, puteți să-mi arătați?"
+    },
+    {
+      "start": 44.1,
+      "end": 49.8,
+      "speaker": "SPEAKER_01",
+      "text": "Aici, pe partea laterală, așa. Și uneori se duce și puțin în jos, spre coapsă."
+    },
+    {
+      "start": 49.92,
+      "end": 53.34,
+      "speaker": "SPEAKER_00",
+      "text": "Pe fața laterală a șoldului, și iradiază spre coapsă."
+    },
+    {
+      "start": 53.46,
+      "end": 58.02,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact. E... e grav? Adică, nu e ceva la os, nu?"
+    },
+    {
+      "start": 58.14,
+      "end": 71.44,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să vedem împreună, să facem câteva teste și apoi vă spun ce observ. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum este durerea?"
+    },
+    {
+      "start": 71.56,
+      "end": 79.16,
+      "speaker": "SPEAKER_01",
+      "text": "Hmm... zi de zi aș zice un 5. Dar dacă merg mai mult sau urc scări, ajunge și la 7."
+    },
+    {
+      "start": 79.28,
+      "end": 83.46,
+      "speaker": "SPEAKER_00",
+      "text": "Deci 5 în mod obișnuit și până la 7 la efort."
+    },
+    {
+      "start": 83.58,
+      "end": 84.72,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam așa."
+    },
+    {
+      "start": 84.84,
+      "end": 87.12,
+      "speaker": "SPEAKER_00",
+      "text": "Și noaptea vă deranjează? Vă trezește?"
+    },
+    {
+      "start": 87.24,
+      "end": 92.94,
+      "speaker": "SPEAKER_01",
+      "text": "Da, dacă stau pe partea dreaptă mă trezesc. Mă întorc pe stânga și mai trece."
+    },
+    {
+      "start": 93.06,
+      "end": 97.62,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Dimineața, când vă ridicați din pat, simțiți o rigiditate, o înțepenire?"
+    },
+    {
+      "start": 97.74,
+      "end": 104.58,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, fix asta. Primii pași sunt grei. Poate vreo zece, cincisprezece minute și după se mai deblochează."
+    },
+    {
+      "start": 104.7,
+      "end": 109.26,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și pe parcursul zilei, dacă stați mult în picioare, se accentuează?"
+    },
+    {
+      "start": 109.38,
+      "end": 117.36,
+      "speaker": "SPEAKER_01",
+      "text": "Și dacă stau mult jos și dacă stau mult în picioare, parcă oricum mă doare. Nu știu care e mai rău."
+    },
+    {
+      "start": 117.48,
+      "end": 122.8,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Haideți să vorbim un pic și despre istoricul dumneavoastră. Câți ani aveți?"
+    },
+    {
+      "start": 122.92,
+      "end": 123.72,
+      "speaker": "SPEAKER_01",
+      "text": "54."
+    },
+    {
+      "start": 123.84,
+      "end": 124.64,
+      "speaker": "SPEAKER_00",
+      "text": "Și ocupația?"
+    },
+    {
+      "start": 124.76,
+      "end": 127.42,
+      "speaker": "SPEAKER_01",
+      "text": "Contabil, deci da, mult stat pe scaun."
+    },
+    {
+      "start": 127.54,
+      "end": 132.48,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți vreo afecțiune despre care știți, tensiune arterială, diabet, ceva la inimă, osteoporoză?"
+    },
+    {
+      "start": 132.6,
+      "end": 137.54,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Mi s-a descoperit acum vreo trei ani. Iau tratament."
+    },
+    {
+      "start": 137.66,
+      "end": 139.56,
+      "speaker": "SPEAKER_00",
+      "text": "Ce medicament luați pentru tensiune?"
+    },
+    {
+      "start": 139.68,
+      "end": 143.48,
+      "speaker": "SPEAKER_01",
+      "text": "Perindopril, cred că cinci miligrame. O dată pe zi, dimineața."
+    },
+    {
+      "start": 143.6,
+      "end": 146.64,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Altceva mai luați, antiinflamatoare, ceva pentru durere?"
+    },
+    {
+      "start": 146.76,
+      "end": 157.4,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat Ketoprofen câteva zile când m-a durut mai tare, dar nu mai iau acum. M-a ajutat un pic dar n-am vrut să țin mult."
+    },
+    {
+      "start": 157.52,
+      "end": 161.7,
+      "speaker": "SPEAKER_00",
+      "text": "Bine că ați oprit. Altă medicație permanentă în afară de Perindopril?"
+    },
+    {
+      "start": 161.82,
+      "end": 162.96,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, doar aia."
+    },
+    {
+      "start": 163.08,
+      "end": 164.22,
+      "speaker": "SPEAKER_00",
+      "text": "Fracturi, operații, accidente?"
+    },
+    {
+      "start": 164.34,
+      "end": 165.86,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată, slavă Domnului."
+    },
+    {
+      "start": 165.98,
+      "end": 167.12,
+      "speaker": "SPEAKER_00",
+      "text": "Boli autoimune, osteoporoză?"
+    },
+    {
+      "start": 167.24,
+      "end": 174.46,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, nu mi s-a spus nimic de genul ăsta. Sper că nu e osteoporoză, asta mă sperie."
+    },
+    {
+      "start": 174.58,
+      "end": 179.9,
+      "speaker": "SPEAKER_00",
+      "text": "Nu vă îngrijorați înainte să vedem ce avem. Investigații imagistice ați făcut, radiografie, RMN?"
+    },
+    {
+      "start": 180.02,
+      "end": 184.96,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, de asta am venit, nu știam dacă trebuie, dacă e ceva serios."
+    },
+    {
+      "start": 185.08,
+      "end": 193.44,
+      "speaker": "SPEAKER_00",
+      "text": "O să vedem după teste dacă e nevoie. Haideți acum să fac câteva mișcări cu dumneavoastră. Stați puțin în picioare pentru mine."
+    },
+    {
+      "start": 193.56,
+      "end": 194.36,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 194.48,
+      "end": 202.84,
+      "speaker": "SPEAKER_00",
+      "text": "Observ că șoldul drept e un pic mai sus față de cel stâng. Aveți cumva senzația că un picior e mai scurt?"
+    },
+    {
+      "start": 202.96,
+      "end": 206.76,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, nu m-am gândit la asta. E posibil?"
+    },
+    {
+      "start": 206.88,
+      "end": 214.48,
+      "speaker": "SPEAKER_00",
+      "text": "Se poate întâmpla o dezechilibrare de bazin din cauza musculaturii. Acum, ridicați piciorul drept, așa, faceți un pas în loc."
+    },
+    {
+      "start": 214.6,
+      "end": 216.12,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, doare când ridic."
+    },
+    {
+      "start": 216.24,
+      "end": 217.76,
+      "speaker": "SPEAKER_00",
+      "text": "Doare în zona laterală?"
+    },
+    {
+      "start": 217.88,
+      "end": 219.02,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact acolo."
+    },
+    {
+      "start": 219.14,
+      "end": 226.36,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți puțin pe masă, cu fața în sus. O să rotesc eu piciorul, îmi spuneți când simțiți ceva."
+    },
+    {
+      "start": 226.48,
+      "end": 230.28,
+      "speaker": "SPEAKER_01",
+      "text": "Ok... uite, acum, când ați rotit înăuntru, doare mai tare."
+    },
+    {
+      "start": 230.4,
+      "end": 232.68,
+      "speaker": "SPEAKER_00",
+      "text": "La rotația internă doare. În afară?"
+    },
+    {
+      "start": 232.8,
+      "end": 233.94,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, da."
+    },
+    {
+      "start": 234.06,
+      "end": 241.66,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum o să apăs ușor pe zona de tendon al mușchiului tensor fascia lata, pe bandeleta iliotibială. Spuneți-mi."
+    },
+    {
+      "start": 241.78,
+      "end": 244.44,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, acolo exact. Asta e punctul."
+    },
+    {
+      "start": 244.56,
+      "end": 248.74,
+      "speaker": "SPEAKER_00",
+      "text": "Sensibilitate crescută la apăsare pe tractul iliotibial și pe marele trohanter."
+    },
+    {
+      "start": 248.86,
+      "end": 250.0,
+      "speaker": "SPEAKER_01",
+      "text": "E ceva rău?"
+    },
+    {
+      "start": 250.12,
+      "end": 264.56,
+      "speaker": "SPEAKER_00",
+      "text": "Ce observ eu este o inflamație la nivelul bursei trohanteriene și o tensionare a benzii iliotibiale. Se numește bursită trohanterică, și apare frecvent la persoane care stau mult pe scaun, au o dezechilibrare de bazin sau mers modificat."
+    },
+    {
+      "start": 264.68,
+      "end": 266.58,
+      "speaker": "SPEAKER_01",
+      "text": "Adică nu e la os."
+    },
+    {
+      "start": 266.7,
+      "end": 271.64,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, nu la os. E la nivel de bursa și mușchi. E tratabil."
+    },
+    {
+      "start": 271.76,
+      "end": 274.42,
+      "speaker": "SPEAKER_01",
+      "text": "Uf, mă bucur. Și o să treacă?"
+    },
+    {
+      "start": 274.54,
+      "end": 290.12,
+      "speaker": "SPEAKER_00",
+      "text": "Cu terapie, da. O să lucrăm să reducem inflamația din zona bursei, să relaxăm tractul iliotibial și mușchiul piriform care e și el tensionat, și să corectăm dezechilibrul de bazin. Și vă voi arăta câteva exerciții pe care le faceți acasă."
+    },
+    {
+      "start": 290.24,
+      "end": 292.52,
+      "speaker": "SPEAKER_01",
+      "text": "Cât timp durează să se rezolve?"
+    },
+    {
+      "start": 292.64,
+      "end": 303.28,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde de fiecare, dar cu câteva ședințe ar trebui să simțiți o îmbunătățire clară. Important e și să nu mai stați câte nouă ore fără să vă mișcați."
+    },
+    {
+      "start": 303.4,
+      "end": 309.1,
+      "speaker": "SPEAKER_01",
+      "text": "Da, știu, știu, trebuie să am grijă. Și tensiunea nu e o problemă pentru tratament?"
+    },
+    {
+      "start": 309.22,
+      "end": 314.16,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, cu Perindopril tensiunea e controlată, nu avem restricții pentru ce facem noi."
+    },
+    {
+      "start": 314.28,
+      "end": 316.56,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, bine. Mulțumesc, mă liniștit puțin."
+    },
+    {
+      "start": 316.68,
+      "end": 317.82,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să începem."
+    }
+  ]
+}

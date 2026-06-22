@@ -1,0 +1,211 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 4.84,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 4.96,
+      "end": 18.64,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare umărul drept de vreo trei săptămâni, dar nu știu, poate mai mult, poate de o lună, că eu nu am ținut cont la început, am zis că trece singur. Și nu a trecut."
+    },
+    {
+      "start": 18.76,
+      "end": 21.8,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și ce ați făcut în perioada asta?"
+    },
+    {
+      "start": 21.92,
+      "end": 37.12,
+      "speaker": "SPEAKER_01",
+      "text": "Nimic, am pus un gel, am pus Fastum gel de vreo două ori că aveam prin casă, dar nu prea m-a ajutat. Știți cum e, dai cu el, simți că faci ceva, dar după o oră e la fel."
+    },
+    {
+      "start": 37.24,
+      "end": 43.32,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Și această durere e locală, în umăr, sau se lasă și pe braț în jos?"
+    },
+    {
+      "start": 43.44,
+      "end": 52.56,
+      "speaker": "SPEAKER_01",
+      "text": "Se lasă puțin, da, pe braț, pe partea din față, cam până la cot. Nu amorțesc degetele sau ceva, dar simt o greutate acolo."
+    },
+    {
+      "start": 52.68,
+      "end": 55.34,
+      "speaker": "SPEAKER_00",
+      "text": "Pe față sau pe spate a brațului?"
+    },
+    {
+      "start": 55.46,
+      "end": 56.6,
+      "speaker": "SPEAKER_01",
+      "text": "Pe față, da."
+    },
+    {
+      "start": 56.72,
+      "end": 65.46,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare insuportabil, cum ați pune această durere?"
+    },
+    {
+      "start": 65.58,
+      "end": 76.22,
+      "speaker": "SPEAKER_01",
+      "text": "Așa, în repaus, poate un 4. Dar când ridic mâna sau când mă întorc noaptea pe el, ajunge la 7-8. Noaptea e cel mai rău, mă trezesc."
+    },
+    {
+      "start": 76.34,
+      "end": 78.24,
+      "speaker": "SPEAKER_00",
+      "text": "Mă trezesc din cauza durerii."
+    },
+    {
+      "start": 78.36,
+      "end": 81.78,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact, mai ales dacă stau pe umărul drept."
+    },
+    {
+      "start": 81.9,
+      "end": 87.22,
+      "speaker": "SPEAKER_00",
+      "text": "Știți cumva ce s-a întâmplat, a fost vreo mișcare bruscă, vreo lovitură, ceva?"
+    },
+    {
+      "start": 87.34,
+      "end": 100.64,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu exact, sincer. Am muncit la grădină cam o zi întreagă, am săpat, am cărat lucruri, și a doua zi m-am trezit cu el înțepenit. Dar nu am căzut, nu m-am lovit."
+    },
+    {
+      "start": 100.76,
+      "end": 104.94,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Aveți vreo afecțiune, tensiune, diabet, ceva de care știți?"
+    },
+    {
+      "start": 105.06,
+      "end": 118.74,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea. Sunt destul de sănătos, doar că am mai multă treabă decât ar trebui, vă dați seama, grădina, casa... Și vârsta, am 54 de ani, nu mai sunt ce-am fost."
+    },
+    {
+      "start": 118.86,
+      "end": 121.52,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Luați vreun medicament în mod regulat?"
+    },
+    {
+      "start": 121.64,
+      "end": 127.72,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu iau nimic. Doar gelul acela pe care vi l-am spus, și aia rar."
+    },
+    {
+      "start": 127.84,
+      "end": 133.54,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți să facem câteva mișcări. Ridicați brațul drept în față, ușor... Și acum lateral..."
+    },
+    {
+      "start": 133.66,
+      "end": 135.94,
+      "speaker": "SPEAKER_01",
+      "text": "Ăsta e mai greu, lateral. Simțiți?"
+    },
+    {
+      "start": 136.06,
+      "end": 141.38,
+      "speaker": "SPEAKER_00",
+      "text": "Da, văd că se limitează pe la 90 de grade lateral. Doare chiar acolo?"
+    },
+    {
+      "start": 141.5,
+      "end": 143.4,
+      "speaker": "SPEAKER_01",
+      "text": "Da, chiar acolo se blochează."
+    },
+    {
+      "start": 143.52,
+      "end": 146.56,
+      "speaker": "SPEAKER_00",
+      "text": "Acum apăs puțin aici, pe tendonul supraspinatusului. Doare?"
+    },
+    {
+      "start": 146.68,
+      "end": 148.96,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, mult. Ăsta e locul."
+    },
+    {
+      "start": 149.08,
+      "end": 153.26,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și în față, când ridicați, tot doare sau mai puțin?"
+    },
+    {
+      "start": 153.38,
+      "end": 154.9,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin în față."
+    },
+    {
+      "start": 155.02,
+      "end": 168.32,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Deci avem o limitare la abducție și sensibilitate pe tendon. Cel mai probabil e o tendinopatie de supraspinat, cu o inflamație în zona manșetei rotatorilor. Vom lucra să reducem inflamația și să recuperăm mobilitatea."
+    },
+    {
+      "start": 168.44,
+      "end": 182.12,
+      "speaker": "SPEAKER_01",
+      "text": "Și credeți că o să treacă? Că mă tem că dacă nu fac ceva acum o să rămân cu ea. Am un coleg care și-a operat umărul și nu s-a mai vindecat bine niciodată."
+    },
+    {
+      "start": 182.24,
+      "end": 189.84,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde de stadiu, dar ce văd eu acum e tratabil fără operație. Haideți să vedem cum răspunde la primele ședințe."
+    },
+    {
+      "start": 189.96,
+      "end": 194.9,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, bine. Mă liniștesc un pic. Și pot să mai lucrez la grădină?"
+    },
+    {
+      "start": 195.02,
+      "end": 198.44,
+      "speaker": "SPEAKER_00",
+      "text": "Deocamdată evitați ridicaturile și mișcările deasupra capului. Câteva săptămâni."
+    },
+    {
+      "start": 198.56,
+      "end": 199.36,
+      "speaker": "SPEAKER_01",
+      "text": "Înțeles, da."
+    }
+  ]
+}

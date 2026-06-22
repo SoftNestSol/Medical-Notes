@@ -1,0 +1,39 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și durerea a apărut brusc sau a venit treptat?\nSPEAKER_01: Brusc. Am ridicat ceva greu la serviciu.\nSPEAKER_00: Ce ați ridicat?\nSPEAKER_01: Niște cutii.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e cel mai rău, unde situați durerea acum?\nSPEAKER_01: Șase.\nSPEAKER_00: Șase. Și durerea e locală la umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Și pe braț un pic.\nSPEAKER_00: Până unde pe braț?\nSPEAKER_01: Până pe la cot, cam așa.\nSPEAKER_00: Până la cot. Simțiți și amorțeală sau furnicături?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. E mai rău când ridicați brațul sau când îl coborâți?\nSPEAKER_01: Când ridic, da.\nSPEAKER_00: Și noaptea vă deranjează, nu puteți dormi pe partea dreaptă?\nSPEAKER_01: Nu pot, da.\nSPEAKER_00: Am înțeles. Ați mai avut probleme la umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Tensiune, diabet, vreo altă afecțiune?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, nicio vitamină?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să facem câteva mișcări să văd cum stăm. Ridicați brațul drept înainte, lent.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Cam 90 de grade, deci. Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Acum ridicați-l lateral.\nSPEAKER_01: Și asta doare.\nSPEAKER_00: Doare mai tare lateral decât înainte?\nSPEAKER_01: Da, mai tare.\nSPEAKER_00: Am înțeles. Apăs acum pe zona de sub acromion, pe aici. Simțiți?\nSPEAKER_01: Au, da.\nSPEAKER_00: Durere la presiune sub acromion, pozitiv. Deci avem o inflamație la nivelul tendonului supraspinos, cel mai probabil o tendinopatie sau o iritație a bursei subacromiale, apărută după efort. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului. Facem câteva ședințe și vedem cum evoluează.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă așez acum pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept cu iradiere pe brat pana la cot, aparuta dupa efort fizic (ridicat cutii grele), de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr",
+      "cot_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Tendinopatie / iritatie bursa subacromala umar drept\nObiective terapeutice: - reducerea inflamatiei;\n- recuperarea mobilitatii umarul drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "De vreo două săptămâni.",
+      "Am ridicat ceva greu la serviciu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Șase."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Și pe braț un pic.",
+      "Până pe la cot, cam așa."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Durere la presiune sub acromion, pozitiv. Deci avem o inflamație la nivelul tendonului supraspinos, cel mai probabil o tendinopatie sau o iritație a bursei subacromiale, apărută după efort. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului."
+    ]
+  }
+}

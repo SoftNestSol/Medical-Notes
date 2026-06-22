@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce problemă ne vedem azi?\nSPEAKER_01: Bună ziua, deci am o problemă cu umărul, umărul drept, și mă doare de vreo trei săptămâni deja, și sincer m-am tot gândit că trece de la sine, că am mai pățit chestii din astea și au trecut, dar de data asta nu vrea să treacă.\nSPEAKER_00: Înțeles. Și cum a apărut, s-a întâmplat ceva anume?\nSPEAKER_01: Păi eram la sală, am ridicat niște gantere, nu chiar grele, adică eu ridic de obicei mai mult, dar am simțit pe moment ceva, un fel de... nu știu cum să spun, ca o pocnitură, nu chiar pocnitură, dar ceva. Și de atunci mă doare.\nSPEAKER_00: Ok. Durerea e constantă sau mai vine și pleacă?\nSPEAKER_01: Vine și pleacă, mai ales când ridic mâna sus sau când fac așa, în lateral. Dimineața e mai rău, că mă trezesc pe partea aia și mă doare și nu știu cum să stau.\nSPEAKER_00: Mâna o puteți ridica deasupra capului?\nSPEAKER_01: Da, pot, dar doare când ajung pe la... nu știu, pe la jumătate de arc sau mai sus, pe acolo undeva.\nSPEAKER_00: Pe o scară de la 0 la 10, zero nu doare deloc, zece doare foarte rău, unde vă situați?\nSPEAKER_01: Acum în repaus un 3, dar când mă mișc, când ridic ceva, 7 ușor.\nSPEAKER_00: Deci 7 la mișcare.\nSPEAKER_01: Da, da. Și mai am și eu o teamă, că sora mea a avut ceva cu rotatorii, cu manșeta rotatorie, și a stat câteva luni, și m-am gândit că poate și eu am ceva din asta. Nu știu, poate mă sperie degeaba.\nSPEAKER_00: Înțelegem teama, o să vedem ce e. Amorțeală sau furnicături în braț, în mână?\nSPEAKER_01: Nu, nu, nimic din astea. Doar durerea.\nSPEAKER_00: Și în zona gâtului, doare și acolo, sau e strict umărul?\nSPEAKER_01: E mai mult umărul, gâtul nu mă doare în mod special, poate câteodată un pic de tensiune acolo, dar nu cred că e legat.\nSPEAKER_00: Alte afecțiuni aveți, tensiune, diabet, ceva mai vechi?\nSPEAKER_01: Nu, nu am nimic, sunt destul de sănătos din punctul ăsta de vedere. Singurul lucru e că mai iau câteodată un Voltaren gel, pun pe umăr seara, mai ajută un pic, dar nu rezolvă problema.\nSPEAKER_00: Înțeles. Și pastile antiinflamatoare, luați?\nSPEAKER_01: Nu, nu iau, nu-mi plac pastilele, mă feresc de ele dacă pot.\nSPEAKER_00: Bun. Haideți să fac câteva teste scurte. Ridicați brațul drept înainte, așa, încet.\nSPEAKER_01: Până aici merge, după aici doare.\nSPEAKER_00: Pe la 90 de grade începe. Și lateral?\nSPEAKER_01: La fel, cam pe la același nivel.\nSPEAKER_00: Stați puțin, o să apăs în zona asta de pe umăr. Spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare, exact acolo.\nSPEAKER_00: Și mai sus, sub acromion?\nSPEAKER_01: Și acolo, da, cam la fel.\nSPEAKER_00: Ok. Deci avem durere la palpare subacromială și limitare de mobilitate la flexie și abducție. Pare o tendinopatie a manșetei rotatorii, probabil supraspinatus, cu o componentă de bursită subacromială. Nu e o ruptură, e o inflamație. Se poate rezolva, dar trebuie să lucrăm.\nSPEAKER_01: Deci nu e ca la sora mea?\nSPEAKER_00: Nu putem spune sigur fără un RMN, dar tabloul clinic nu sugerează o ruptură. O să reducem inflamația și refacem mobilitatea, și vedem cum evoluează.\nSPEAKER_01: Bine, bine, mă bucur că nu e ceva grav. Și cu sala, pot să merg?\nSPEAKER_00: Deocamdată evităm exercițiile care solicită umărul deasupra capului. Restul merge.\nSPEAKER_01: Ok, înțeles.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta la sala de sport (ridicare gantere), prezenta de aproximativ 3 saptamani. Durere la miscare (ridicarea bratului in flexie si abductie), mai accentuata dimineata. Fara amorteala sau furnicaturi.",
+    "evaluarea_durerii_vas": [3, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- Tendinopatie manseta rotatorie (posibil supraspinatus) cu componenta de bursita subacomiala\nObservatii functionale:\n- durere la palpare subacomiala;\n- limitare mobilitate la flexie si abductie (debut durere la ~90 grade)\nObiective terapeutice:\n- reducerea inflamatiei;\n- refacerea mobilitatii articulare"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["am o problemă cu umărul, umărul drept, și mă doare de vreo trei săptămâni deja", "eram la sală, am ridicat niște gantere, nu chiar grele, adică eu ridic de obicei mai mult, dar am simțit pe moment ceva", "Doar durerea."],
+    "evaluarea_durerii_vas": ["Acum în repaus un 3, dar când mă mișc, când ridic ceva, 7 ușor."],
+    "localizarea_durerii": ["am o problemă cu umărul, umărul drept"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["mai iau câteodată un Voltaren gel, pun pe umăr seara"],
+    "evaluare_functionala_initiala": ["avem durere la palpare subacromială și limitare de mobilitate la flexie și abducție. Pare o tendinopatie a manșetei rotatorii, probabil supraspinatus, cu o componentă de bursită subacromială.", "o să reducem inflamația și refacem mobilitatea"]
+  }
+}

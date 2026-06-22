@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_372",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Am mutat niște mobilă.",
+      "A doua zi dimineață.",
+      "Mai mult la umăr, dar uneori merge și pe braț.",
+      "Până pe la cot, cam așa.",
+      "În lateral mai rău.",
+      "Da, dacă stau pe partea dreaptă."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6."
+    ],
+    "localizarea_durerii": [
+      "Drept.",
+      "Până pe la cot, cam așa."
+    ],
+    "localizarea_durerii_alta": [
+      "Pe față.",
+      "Până pe la cot, cam așa."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "La aproximativ 80 de grade doare, da?",
+      "Deci doare mai tare între 70 și 90 de grade, după care mai puțin. Ăsta se numește arc dureros, e specific pentru tendonul supraspinat.",
+      "Da, exact în zona inserției supraspinosului.",
+      "Doare puțin.",
+      "Nu doare.",
+      "Cred că avem o tendinită la nivelul tendonului supraspinat, cu o ușoară iritație a bursei subacromiale.",
+      "Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea completă a umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22971,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 2034,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

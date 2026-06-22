@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Durere umar drept la ridicarea bratului, aparuta de aproximativ trei saptamani",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: tendinita coafa rotatorilor, supraspinat\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii"
+}

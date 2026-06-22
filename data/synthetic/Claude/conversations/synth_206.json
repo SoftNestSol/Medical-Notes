@@ -1,0 +1,169 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua. Spuneți-mi, vă rog, cu ce problemă veniți."
+    },
+    {
+      "start": 3.92,
+      "end": 19.5,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua. Păi, mă doare umărul stâng, de vreo două săptămâni deja. Și nu știu, am zis să vin, că inițial credeam că trece singur, mai ales că eu nu fac sport, nu ridic greutăți, nu înțeleg de unde a apărut."
+    },
+    {
+      "start": 19.62,
+      "end": 24.18,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 24.3,
+      "end": 34.94,
+      "speaker": "SPEAKER_01",
+      "text": "Undeva la un 5, aș zice. Nu e insuportabil, dar mă deranjează mai ales noaptea când mă întorc pe partea aia. Și dimineața, primele mișcări sunt mai grele."
+    },
+    {
+      "start": 35.06,
+      "end": 38.1,
+      "speaker": "SPEAKER_00",
+      "text": "Doare și în repaus sau doar la mișcare?"
+    },
+    {
+      "start": 38.22,
+      "end": 54.94,
+      "speaker": "SPEAKER_01",
+      "text": "La mișcare mai mult, da. Adică dacă stau liniștit nu e mare problemă, dar dacă ridic brațul sau mă întind după ceva... uite, de exemplu, ieri am vrut să iau o carte de pe raftul de sus și m-a luat cu un junghi."
+    },
+    {
+      "start": 55.06,
+      "end": 58.1,
+      "speaker": "SPEAKER_00",
+      "text": "Se lasă durerea și pe braț, pe antebraț?"
+    },
+    {
+      "start": 58.22,
+      "end": 65.06,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, rămâne aici, pe umăr. Poate puțin pe deasupra, pe sus, pe zona asta, dar nu coboară."
+    },
+    {
+      "start": 65.18,
+      "end": 68.98,
+      "speaker": "SPEAKER_00",
+      "text": "Ați lovit umărul în ultima vreme? Vreo căzătură, vreun accident?"
+    },
+    {
+      "start": 69.1,
+      "end": 94.94,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, absolut nimic. Asta e ce nu înțeleg. M-am gândit că poate de la stres, că am o perioadă mai încărcată la serviciu, stau mult la birou, la calculator. Poate de la poziție, nu știu. Soția mea zice că dorm mereu pe partea stângă, poate de-aia. Sau poate... nu știu, am citit pe internet că poate fi ceva mai serios și m-am speriat un pic."
+    },
+    {
+      "start": 95.06,
+      "end": 97.34,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Alte afecțiuni, tensiune, diabet, osteoporoză?"
+    },
+    {
+      "start": 97.46,
+      "end": 102.02,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Iau Enalapril, 10 miligrame, în fiecare dimineață. Altceva nu."
+    },
+    {
+      "start": 102.14,
+      "end": 104.04,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp aveți tensiunea?"
+    },
+    {
+      "start": 104.16,
+      "end": 115.56,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo trei ani. Mi-a descoperit-o medicul de familie, la un control de rutină. Nici nu știam, că nu aveam niciun simptom. Dar e sub control cu medicamentul."
+    },
+    {
+      "start": 115.68,
+      "end": 119.48,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Vă rog să ridicați brațul stâng în față, încet."
+    },
+    {
+      "start": 119.6,
+      "end": 125.3,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe aici merge, după aceea apare durerea. Cam la 90 de grade, pe acolo."
+    },
+    {
+      "start": 125.42,
+      "end": 127.32,
+      "speaker": "SPEAKER_00",
+      "text": "Și lateral, ridicați brațul lateral."
+    },
+    {
+      "start": 127.44,
+      "end": 133.14,
+      "speaker": "SPEAKER_01",
+      "text": "La fel, cam pe la jumătate se simte. Mai rău lateral decât în față, parcă."
+    },
+    {
+      "start": 133.26,
+      "end": 137.06,
+      "speaker": "SPEAKER_00",
+      "text": "Stați așa. Apăs puțin pe zona de sub acromion... doare?"
+    },
+    {
+      "start": 137.18,
+      "end": 139.08,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, exact acolo e."
+    },
+    {
+      "start": 139.2,
+      "end": 140.34,
+      "speaker": "SPEAKER_00",
+      "text": "Rotație internă... doare?"
+    },
+    {
+      "start": 140.46,
+      "end": 141.26,
+      "speaker": "SPEAKER_01",
+      "text": "Doare, da."
+    },
+    {
+      "start": 141.38,
+      "end": 153.54,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Pare a fi o tendinită la nivelul manșetei rotatorilor, posibil o inflamație subacromială. Nu e ceva grav, e frecvent la persoanele care stau mult la birou și dorm pe aceeași parte."
+    },
+    {
+      "start": 153.66,
+      "end": 160.5,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu e nimic mai serios? Că m-am tot gândit, pe internet scrie tot felul de lucruri..."
+    },
+    {
+      "start": 160.62,
+      "end": 168.6,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, la momentul acesta nu avem semne de ruptură sau altceva. O să lucrăm să reducem inflamația și să recuperăm mobilitatea."
+    },
+    {
+      "start": 168.72,
+      "end": 171.76,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, mă bucur. Și cât timp durează, aproximativ?"
+    },
+    {
+      "start": 171.88,
+      "end": 177.58,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde de răspuns, dar câteva ședințe ar trebui să simțiți o diferență. Haideți să începem."
+    }
+  ]
+}

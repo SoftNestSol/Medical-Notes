@@ -1,0 +1,163 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 8.9,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua! Scuzați că am întârziat un pic, am stat în trafic, știți cum e pe la ora asta."
+    },
+    {
+      "start": 9.02,
+      "end": 13.2,
+      "speaker": "SPEAKER_00",
+      "text": "Nu e nicio problemă. Spuneți-mi cu ce problemă ne vedem."
+    },
+    {
+      "start": 13.32,
+      "end": 42.2,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare spatele în zona de jos, de vreo două săptămâni, dar sincer cred că a început de mai demult, adică am tot simțit ceva, dar n-am dat importanță. Acum nu mai pot să stau în picioare mai mult de zece minute fără să mă apuce durerea aia. Și mă tem că e ceva grav, că am citit pe internet tot felul de lucruri despre hernie și nu știu ce, și m-am speriat."
+    },
+    {
+      "start": 42.32,
+      "end": 48.02,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Deci zona lombară. Durerea rămâne locală sau se lasă și pe picior în jos?"
+    },
+    {
+      "start": 48.14,
+      "end": 70.94,
+      "speaker": "SPEAKER_01",
+      "text": "Se lasă, da, pe piciorul drept, pe coapsă în jos, câteodată simt un fel de furnicătură până la genunchi. Nu mai jos, că aia n-am, mulțumesc lui Dumnezeu, dar până la genunchi da. Am zis că poate am stat prost, că lucrez la birou, stau mult pe scaun, opt-nouă ore pe zi, și poate de aia, nu știu."
+    },
+    {
+      "start": 71.06,
+      "end": 76.0,
+      "speaker": "SPEAKER_00",
+      "text": "Da, postura la birou poate contribui. De când exact cu furnicătura pe picior?"
+    },
+    {
+      "start": 76.12,
+      "end": 82.96,
+      "speaker": "SPEAKER_01",
+      "text": "Furnicătura a apărut mai recent, adică vreo cinci zile, nu mai mult. Înainte era doar durerea în spate."
+    },
+    {
+      "start": 83.08,
+      "end": 89.16,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cât de tare doare acum în zona lombară?"
+    },
+    {
+      "start": 89.28,
+      "end": 101.44,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, în repaus, un 5. Dar dacă stau mult în picioare sau ridic ceva, ajunge ușor la 8. Am ridicat o ladă de apă acum câteva zile și am crezut că leșin."
+    },
+    {
+      "start": 101.56,
+      "end": 104.22,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Alte afecțiuni, tensiune, diabet, ceva?"
+    },
+    {
+      "start": 104.34,
+      "end": 119.54,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Iau și pastile pentru asta. Iau Prestarium, un comprimat pe zi, de vreo doi ani. Altceva nu știu, adică am mai avut și probleme cu stomacul, gastrită, dar aia e mai veche și nu știu dacă contează."
+    },
+    {
+      "start": 119.66,
+      "end": 121.94,
+      "speaker": "SPEAKER_00",
+      "text": "Contează, mulțumesc. Altceva, vreo operație, accident?"
+    },
+    {
+      "start": 122.06,
+      "end": 141.06,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, operație n-am avut. Accident... păi, acum vreo trei ani am căzut pe gheață și m-am lovit la același spate, dar atunci a trecut, n-am mers la doctor, probabil n-a fost nimic serios. Sau poate a lăsat ceva, cine știe, de aia mă și tem acum."
+    },
+    {
+      "start": 141.18,
+      "end": 145.74,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Haideți să verificăm puțin. Rămâneți în picioare. Aplecați-vă ușor înainte."
+    },
+    {
+      "start": 145.86,
+      "end": 147.76,
+      "speaker": "SPEAKER_01",
+      "text": "Aaah, da, uite, asta doare."
+    },
+    {
+      "start": 147.88,
+      "end": 152.44,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Acum o să apăs pe zona lombară, îmi spuneți dacă doare."
+    },
+    {
+      "start": 152.56,
+      "end": 155.22,
+      "speaker": "SPEAKER_01",
+      "text": "Da, doare, pe partea dreaptă mai tare."
+    },
+    {
+      "start": 155.34,
+      "end": 157.62,
+      "speaker": "SPEAKER_00",
+      "text": "Pe partea dreaptă. Și la piriform?"
+    },
+    {
+      "start": 157.74,
+      "end": 160.02,
+      "speaker": "SPEAKER_01",
+      "text": "Acolo... da, și acolo e sensibil."
+    },
+    {
+      "start": 160.14,
+      "end": 178.38,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Avem o tensiune musculară importantă pe dreapta în zona lombară și în piriform. Din ce îmi descrieți, cu iradierea pe coapsă și furnicătura până la genunchi, e posibil să avem o iritație pe nervul sciatic. O să lucrăm să reducem inflamația musculară și să vedem cum evoluează."
+    },
+    {
+      "start": 178.5,
+      "end": 186.1,
+      "speaker": "SPEAKER_01",
+      "text": "Și nu e hernie? Că mă tot gândesc la asta, am citit că odată cu hernia nu mai ești același."
+    },
+    {
+      "start": 186.22,
+      "end": 194.58,
+      "speaker": "SPEAKER_00",
+      "text": "Nu putem stabili asta fără un RMN. Deocamdată tratăm ce vedem funcțional. Dacă nu răspunde în câteva ședințe, vă recomand investigație imagistică."
+    },
+    {
+      "start": 194.7,
+      "end": 206.1,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, înțeleg. Și pot să fac și sport? Că eu alerg de obicei, de două ori pe săptămână, dar de o săptămână m-am oprit că mi-a fost teamă."
+    },
+    {
+      "start": 206.22,
+      "end": 211.92,
+      "speaker": "SPEAKER_00",
+      "text": "Bine ați făcut că v-ați oprit. Deocamdată pauză de la alergat, până stabilizăm situația."
+    },
+    {
+      "start": 212.04,
+      "end": 216.22,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, înțeleg. Sper să meargă repede că mă plictisesc fără mișcare."
+    }
+  ]
+}

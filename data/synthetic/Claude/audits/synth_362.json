@@ -1,0 +1,41 @@
+{
+  "conversation_id": "synth_362",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Am mutat niște mobilă.",
+      "Când ridic mâna sus.",
+      "mai ales când o duc în spate"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo șase."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Rămâne acolo, nu coboară."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Arc dureros la abducție și flexie între 60 și 120 de grade, cu limitarea rotației interne și sensibilitate la palparea tendonului supraspinosului.",
+      "Cel mai probabil ne confruntăm cu o tendinopatie de supraspinos, posibil cu un sindrom de impingement subacromial.",
+      "Obiectivul nostru va fi să reducem inflamația, să recuperăm mobilitatea și să întărim musculatura rotatorilor."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14094,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 1900,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: A apărut după ceva, după un efort, după o mișcare?\nSPEAKER_01: Nu știu, m-am trezit dimineața și mă durea.\nSPEAKER_00: Și s-a agravat de atunci sau e la fel?\nSPEAKER_01: Cam la fel.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât e?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Doare când ridicați mâna în sus?\nSPEAKER_01: Da.\nSPEAKER_00: Dar când o duceți în spate?\nSPEAKER_01: Și atunci, da.\nSPEAKER_00: Și în repaus, când stați liniștit, doare?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin, deci mai mult la mișcare.\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Lucrați ceva fizic, ridicați greutăți?\nSPEAKER_01: Muncesc în depozit.\nSPEAKER_00: Înțeles, deci ridicați des.\nSPEAKER_01: Da.\nSPEAKER_00: Vă doare și în zona gâtului sau numai în umăr?\nSPEAKER_01: Numai umărul.\nSPEAKER_00: Ok. Amorțește ceva pe braț, pe degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Afecțiuni mai aveți, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale la umăr, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun fel?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să fac câteva teste. Ridicați mâna asta în față, încet.\nSPEAKER_01: Până aici merge, după aia nu.\nSPEAKER_00: Doare când ridicați dincolo de orizontală?\nSPEAKER_01: Da, da.\nSPEAKER_00: Și dacă faceți ușor așa, rotație internă... doare?\nSPEAKER_01: Au, da.\nSPEAKER_00: Și externă?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Am înțeles. Apăs ușor pe zona de deasupra umărului, pe supraspinos. Spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Exact. Deci avem o inflamație în zona coifului rotatorilor, cel mai probabil tendinita supraspinosului. Va trebui să reducem inflamația întâi și după să recâștigăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "durere umar dr.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinita supraspinosului dr.\n- inflamatie coif rotatori\nObiective terapeutice:\n- reducerea inflamatiei;\n- recastigarea mobilitatii"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o inflamație în zona coifului rotatorilor, cel mai probabil tendinita supraspinosului. Va trebui să reducem inflamația întâi și după să recâștigăm mobilitatea."]
+  }
+}

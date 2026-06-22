@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Cel stâng.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: A apărut după ceva? Ați căzut, ați ridicat ceva?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Deci după efort. Și doare constant sau doar la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Când ridicați brațul sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și când îl duceți în spate?\nSPEAKER_01: Da, mai tare.\nSPEAKER_00: Pe o scară de la zero la zece, cât e durerea?\nSPEAKER_01: Un 5.\nSPEAKER_00: Doare și în braț, mai jos de umăr?\nSPEAKER_01: Nu, doar acolo.\nSPEAKER_00: Amorțeală, furnicături în mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vedem. Ridicați brațul așa, înainte... Stați, spuneți-mi când apare durerea.\nSPEAKER_01: Pe la jumătate.\nSPEAKER_00: Pe la jumătate, deci pe la 90 de grade. Și mai sus?\nSPEAKER_01: Mai sus mai puțin.\nSPEAKER_00: Înțeles. Asta e un arc dureros, specific pentru tendon. Acum duceți brațul în lateral.\nSPEAKER_01: Au.\nSPEAKER_00: Tot pe la jumătate?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Apăs aici pe umăr, doare?\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: E sensibil la palpare pe zona de sus a umărului. Aveți tensiune, diabet, altceva?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale la umăr vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci avem o tendinită la umărul stâng, apărută după efort, cu arc dureros la abducție pe la 90 de grade. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea. Facem câteva ședințe și vedem cum răspunde.\nSPEAKER_01: Ok.\nSPEAKER_00: Așezați-vă pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng după efort fizic (mutat mobilă), de aproximativ două săptămâni, accentuată la mișcare.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinită umăr stâng, arc dureros la abducție pe la 90 de grade, sensibilitate la palpare pe zona superioară a umărului.\nObiective terapeutice: reducerea inflamației, recâștigarea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Cel stâng.", "Am mutat niște mobilă.", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Cel stâng."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Medicamente luați?\nSPEAKER_01: Nu."],
+    "evaluare_functionala_initiala": ["Deci avem o tendinită la umărul stâng, apărută după efort, cu arc dureros la abducție pe la 90 de grade. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea."]
+  }
+}

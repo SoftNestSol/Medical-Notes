@@ -1,0 +1,50 @@
+{
+  "conversation_id": "synth_504",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare ceafa.",
+      "De vreo două săptămâni.",
+      "Treptat, parcă.",
+      "Mai mult când întorc capul.",
+      "Mai mult spre dreapta.",
+      "Da, câteodată.",
+      "Pe spate, spre ceafă.",
+      "Seara.",
+      "toată ziua la calculator"
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare ceafa.",
+      "Pe spate, spre ceafă."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Musculatura e contractată bilateral, mai accentuat pe dreapta.",
+      "Vedem o limitare a rotației drepte și a extensiei.",
+      "Pare o contractură musculară cervicală superioară, cu iritație la nivelul C2-C3 și C4-C5, cel mai probabil postural, din poziția la calculator.",
+      "Asta explică și durerile de cap occipitale.",
+      "O să lucrăm să relaxăm musculatura și să eliberăm blocajele respective.",
+      "Apăs puțin la nivelul C4-C5, spuneți-mi dacă simțiți ceva.",
+      "Și mai sus, C2-C3?"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23139,
+    "inference_geo": "global",
+    "input_tokens": 357,
+    "output_tokens": 2141,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

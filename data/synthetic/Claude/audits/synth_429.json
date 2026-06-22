@@ -1,0 +1,50 @@
+{
+  "conversation_id": "synth_429",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel stâng, de ceva vreme. Nu știu exact de când, poate de vreo două luni, poate mai mult",
+      "Stau la birou, la calculator, mult. Aproape toată ziua.",
+      "Când ridic mâna sus, de exemplu, doare mai tare. Și noaptea, uneori, mă trezesc pe el și atunci e mai rău.",
+      "Uneori parcă simt ceva și pe braț, dar nu jos de tot. Până la cot, nu știu, cam pe jumătate de braț.",
+      "Nu, nu, asta nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "cam pe la 6, 7 când ridic mâna sau când mă trezesc noaptea. Altfel, pe la 4, ceva de genul."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel stâng",
+      "ceafa mă mai doare, da. Adică nu la fel de rău, dar și acolo simt ceva, mai ales seara."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am tiroidă, hipotiroidism. De vreo trei ani."
+    ],
+    "medicatie_actuala": [
+      "Euthyrox, 50 de micrograme, în fiecare dimineață",
+      "mai iau câte un Paracetamol",
+      "500, câte unul"
+    ],
+    "evaluare_functionala_initiala": [
+      "umărul stâng e puțin mai ridicat și ușor dus în față față de dreptul",
+      "musculatura pe trapez, pe partea asta, e contractată",
+      "avem o inflamație la nivelul tendonului supraspinat, cel mai probabil, plus o contractură musculară destul de extinsă pe trapez și pe ridicătorul scapulei",
+      "Postura de la birou contribuie semnificativ. Ceafa e și ea afectată, probabil și din aceeași cauză.",
+      "o să trebuiască să lucrăm pe reducerea inflamației, pe relaxarea musculaturii și ulterior pe corecție posturală"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21395,
+    "inference_geo": "global",
+    "input_tokens": 334,
+    "output_tokens": 3686,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

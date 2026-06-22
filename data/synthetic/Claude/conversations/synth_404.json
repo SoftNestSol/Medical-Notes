@@ -1,0 +1,277 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 5.64,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne vedem azi."
+    },
+    {
+      "start": 5.76,
+      "end": 6.9,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare umărul."
+    },
+    {
+      "start": 7.02,
+      "end": 7.82,
+      "speaker": "SPEAKER_00",
+      "text": "Care umăr?"
+    },
+    {
+      "start": 7.94,
+      "end": 8.74,
+      "speaker": "SPEAKER_01",
+      "text": "Stângul."
+    },
+    {
+      "start": 8.86,
+      "end": 9.66,
+      "speaker": "SPEAKER_00",
+      "text": "De când?"
+    },
+    {
+      "start": 9.78,
+      "end": 11.3,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo două săptămâni."
+    },
+    {
+      "start": 11.42,
+      "end": 13.32,
+      "speaker": "SPEAKER_00",
+      "text": "A apărut brusc sau treptat?"
+    },
+    {
+      "start": 13.44,
+      "end": 14.24,
+      "speaker": "SPEAKER_01",
+      "text": "Treptat, parcă."
+    },
+    {
+      "start": 14.36,
+      "end": 18.16,
+      "speaker": "SPEAKER_00",
+      "text": "A existat vreun efort, ceva ce ați ridicat, un accident?"
+    },
+    {
+      "start": 18.28,
+      "end": 20.94,
+      "speaker": "SPEAKER_01",
+      "text": "Am mutat niște cutii la muncă. Grele."
+    },
+    {
+      "start": 21.06,
+      "end": 22.96,
+      "speaker": "SPEAKER_00",
+      "text": "Și după aia a început?"
+    },
+    {
+      "start": 23.08,
+      "end": 23.88,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 24.0,
+      "end": 33.12,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare vă doare?"
+    },
+    {
+      "start": 33.24,
+      "end": 34.04,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 5."
+    },
+    {
+      "start": 34.16,
+      "end": 36.44,
+      "speaker": "SPEAKER_00",
+      "text": "Doare constant sau numai la mișcare?"
+    },
+    {
+      "start": 36.56,
+      "end": 37.7,
+      "speaker": "SPEAKER_01",
+      "text": "Numai când mișc."
+    },
+    {
+      "start": 37.82,
+      "end": 39.72,
+      "speaker": "SPEAKER_00",
+      "text": "Când ridicați brațul, de exemplu?"
+    },
+    {
+      "start": 39.84,
+      "end": 42.88,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mai ales când îl ridic în sus."
+    },
+    {
+      "start": 43.0,
+      "end": 45.66,
+      "speaker": "SPEAKER_00",
+      "text": "Doare și când îl duceți în lateral?"
+    },
+    {
+      "start": 45.78,
+      "end": 46.92,
+      "speaker": "SPEAKER_01",
+      "text": "Și acolo, da."
+    },
+    {
+      "start": 47.04,
+      "end": 50.84,
+      "speaker": "SPEAKER_00",
+      "text": "Se lasă durerea și pe braț, pe cot, mai jos?"
+    },
+    {
+      "start": 50.96,
+      "end": 52.48,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, stă la umăr."
+    },
+    {
+      "start": 52.6,
+      "end": 54.5,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeli în mână, în degete?"
+    },
+    {
+      "start": 54.62,
+      "end": 55.42,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 55.54,
+      "end": 58.58,
+      "speaker": "SPEAKER_00",
+      "text": "Noaptea vă deranjează, dacă stați pe partea stângă?"
+    },
+    {
+      "start": 58.7,
+      "end": 61.74,
+      "speaker": "SPEAKER_01",
+      "text": "Da, nu pot să dorm pe acea parte."
+    },
+    {
+      "start": 61.86,
+      "end": 66.8,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Haideți să facem câteva teste. Ridicați brațul ușor, așa, în față. Doare?"
+    },
+    {
+      "start": 66.92,
+      "end": 68.82,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam de aici începe."
+    },
+    {
+      "start": 68.94,
+      "end": 75.4,
+      "speaker": "SPEAKER_00",
+      "text": "Deci pe la 90 de grade începe durerea. Acum duceți-l lateral, tot așa, lent. Și aici?"
+    },
+    {
+      "start": 75.52,
+      "end": 76.66,
+      "speaker": "SPEAKER_01",
+      "text": "Da, la fel."
+    },
+    {
+      "start": 76.78,
+      "end": 81.34,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Apăs puțin pe zona de sus a umărului, pe acromion. Doare?"
+    },
+    {
+      "start": 81.46,
+      "end": 83.36,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo e mai rău."
+    },
+    {
+      "start": 83.48,
+      "end": 86.52,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă apăs aici, pe capul humeral, față?"
+    },
+    {
+      "start": 86.64,
+      "end": 87.44,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 87.56,
+      "end": 100.48,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Deci avem o sensibilitate la acromion, arc dureros la abducție și la flexie anterioară. Pare a fi o tendinită la nivelul manșetei rotatorilor, posibil o iritație subacromială. Afecțiuni cunoscute, tensiune, diabet, osteoporoză, altceva?"
+    },
+    {
+      "start": 100.6,
+      "end": 101.4,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic."
+    },
+    {
+      "start": 101.52,
+      "end": 103.04,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale la umăr?"
+    },
+    {
+      "start": 103.16,
+      "end": 103.96,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 104.08,
+      "end": 105.6,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament acum?"
+    },
+    {
+      "start": 105.72,
+      "end": 106.52,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 106.64,
+      "end": 124.5,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Deci ce avem de făcut e să reducem inflamația din zona subacromială, să lucrăm musculatura manșetei rotatorilor și să recăpătați mobilitatea completă a umărului. O să facem terapie manuală, câteva mobilizări și o să vă arăt și niște exerciții pe care să le faceți acasă. Da?"
+    },
+    {
+      "start": 124.62,
+      "end": 125.42,
+      "speaker": "SPEAKER_01",
+      "text": "Da, bine."
+    },
+    {
+      "start": 125.54,
+      "end": 126.34,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți atunci."
+    }
+  ]
+}

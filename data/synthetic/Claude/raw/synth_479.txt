@@ -1,0 +1,60 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi am o durere... pe aici, la cot, pe partea asta dreaptă. De ceva vreme.\nSPEAKER_00: De cât timp aproximativ?\nSPEAKER_01: Nu știu exact, poate vreo lună, lună și ceva. Nu îmi aduc aminte exact când a început.\nSPEAKER_00: A apărut după ceva anume? Cădere, lovitură, efort?\nSPEAKER_01: Nu, nu am căzut sau ceva. Cred că de la birou, stau mult la calculator. Sau poate de când am reparat gardul, am săpat, am carat niște lucruri. Nu știu sigur.\nSPEAKER_00: Deci o activitate fizică mai intensă la un moment dat.\nSPEAKER_01: Da, cam așa, dar nu știu dacă de acolo sau de la stat la birou. Poate și una, poate și alta.\nSPEAKER_00: Înțeleg. Durerea este locală, pe cot, sau se lasă și în altă parte, pe antebraț, pe mână?\nSPEAKER_01: Se lasă un pic pe aici, pe antebraț, uneori. Nu mereu, dar câteodată simt că merge și mai jos.\nSPEAKER_00: Mai jos de cot, pe antebraț. Și pe mână, pe degete?\nSPEAKER_01: Pe degete nu. Pe mână nu cred, nu. Mai mult pe antebraț, în partea de sus, nu știu cum să spun.\nSPEAKER_00: Pe fața externă a antebrațului sau pe fața internă?\nSPEAKER_01: Externă, pe aici. Asta în sus, când ridic ceva.\nSPEAKER_00: Când ridicați ceva. Și când faceți alte mișcări, cum ar fi să strângeți mâna, să apucați ceva?\nSPEAKER_01: Da, și atunci doare. Când strâng ceva, sau când ridic o cană, nu știu, orice duc la gură, cam doare.\nSPEAKER_00: Și la apăsare pe cot, doare?\nSPEAKER_01: Da, dacă cineva atinge acolo, doare destul de tare.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, 0 înseamnă că nu doare deloc, 10 că e insuportabil, unde ați pune durerea asta?\nSPEAKER_01: Păi... nu știu, depinde. Uneori e mai mică, alteori mai mare.\nSPEAKER_00: La momentul cel mai rău?\nSPEAKER_01: Poate un 7, 7 pe acolo.\nSPEAKER_00: Și în rest, când nu faceți nimic, stați liniștit?\nSPEAKER_01: Atunci mai trece, da. Poate un 2, 3, nu știu precis.\nSPEAKER_00: Deci fluctuează destul de mult.\nSPEAKER_01: Da, da, exact.\nSPEAKER_00: Noaptea vă deranjează?\nSPEAKER_01: Câteodată mă trezesc dacă stau pe partea aia. Dar nu tot timpul.\nSPEAKER_00: Ok. Ați mai avut ceva similar înainte, la același cot?\nSPEAKER_01: Nu, la cotul ăsta nu. Poate am mai simțit ceva la pumn, la dreapta, acum câțiva ani, dar a trecut singur.\nSPEAKER_00: A trecut singur, fără tratament?\nSPEAKER_01: Da, nu am făcut nimic.\nSPEAKER_00: Ați luat ceva pentru durerea de acum? Antiinflamatoare, ceva?\nSPEAKER_01: Am luat Voltaren gel, îl pun pe acolo seara. Ajută un pic, dar nu trece.\nSPEAKER_00: Voltaren gel, local, seara. Ok. Pastile nu ați luat?\nSPEAKER_01: Nu, pastile nu.\nSPEAKER_00: Aveți alte afecțiuni, boli cronice? Tensiune, diabet, ceva cu tiroida?\nSPEAKER_01: Am ceva cu tiroida, da. Hipotiroidie mi-au spus. Iau un medicament pentru asta.\nSPEAKER_00: Ce medicament luați?\nSPEAKER_01: Euthyrox. Nu știu doza exact, e pe cutie acasă.\nSPEAKER_00: Euthyrox, ok. Altceva?\nSPEAKER_01: Nu, altceva nu cred.\nSPEAKER_00: Tensiune normală, inimă ok?\nSPEAKER_01: Da, mi-au verificat, e bine.\nSPEAKER_00: Bun. Alergii la medicamente sau la altceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai făcut fizioterapie sau chiropractică până acum?\nSPEAKER_01: Nu, niciodată. Asta e prima oară.\nSPEAKER_00: Și la serviciu, cât stați la calculator pe zi?\nSPEAKER_01: Mult, vreo 7, 8 ore. Mouse-ul îl țin cu dreapta.\nSPEAKER_00: Cu mâna dreaptă. Și mouse-ul îl mișcați mult în sus-jos sau mai mult lateral?\nSPEAKER_01: Nu știu exact cum să spun, normal. Poate mai mult dintr-astea, din încheietură.\nSPEAKER_00: Din încheietură, mișcări repetitive cu mouse-ul.\nSPEAKER_01: Da, da.\nSPEAKER_00: Ok, haideți să facem câteva teste simple. Întindeți cotul, la orizontală. Bun. Acum faceți o mână strânsă și aplecați pumnul în jos. Doare?\nSPEAKER_01: Da, uite, doare pe aici.\nSPEAKER_00: Pe zona externă a cotului.\nSPEAKER_01: Da, exact, acolo.\nSPEAKER_00: Bun. Acum țineți pumnul strâns și eu apăs ușor pe degetul mijlociu în jos. Spuneți-mi dacă crește durerea.\nSPEAKER_01: Uf, da, crește.\nSPEAKER_00: Crește. Ok. Și dacă apăs chiar pe epicondilul lateral, proeminența asta osoasă de pe cot, doare?\nSPEAKER_01: Da, acolo e cel mai tare.\nSPEAKER_00: Cel mai tare acolo. Înțeleg. Și acum ridicați brațul, cu cotul drept, ca și cum ați turna apă dintr-o cană. Doare?\nSPEAKER_01: Da, când fac mișcarea asta, da.\nSPEAKER_00: Bun. Deci avem o imagine destul de clară. Pare a fi o epicondilită laterală, ceea ce se numește colocvial cotul tenismenului, deși nu trebuie să jucați tenis ca să o faceți. Apare frecvent la cei care lucrează mult la calculator cu mouse-ul sau fac mișcări repetitive cu mâna. Tendoanele extensorilor se inflamează la inserția lor pe epicondilul lateral.\nSPEAKER_01: Și ce facem?\nSPEAKER_00: Vom lucra local pe reducerea inflamației, pe detensionarea musculaturii extensorilor antebrațului, și o să vă dau și niște exerciții de stretching pe care să le faceți acasă. O să vedem cum evoluează în primele ședințe.\nSPEAKER_01: Ok, înțeleg.\nSPEAKER_00: Și ar fi bine să reduceți pe cât posibil mișcările repetitive cu mouse-ul, sau cel puțin să faceți pauze.\nSPEAKER_01: Da, o să încerc.",
+  "note": {
+    "motivul_prezentarii": "Durere la cotul drept, cu iradiere ocazională pe fața externă a antebrațului, de aproximativ o lună. Apare la apucare, ridicare, strângerea mâinii și la apăsare locală. Posibil legată de muncă la calculator (utilizare mouse cu mâna dreaptă, mișcări repetitive din încheietură) sau efort fizic anterior.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "cot_dr"
+    ],
+    "localizarea_durerii_alta": "antebraț drept, față externă",
+    "antecedente": [],
+    "antecedente_altele": "hipotiroidie",
+    "medicatie_actuala": [
+      {
+        "denumire": "Euthyrox",
+        "doza": null
+      },
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: Epicondilită laterală dreaptă (cotul tenismenului). Durere reproductibilă la palparea epicondilului lateral, la testul de extensie a pumnului cu cotul întins și la compresia degetului mijlociu. Mișcarea de pronație-supinație contra rezistență și ridicarea cu cotul extins sunt dureroase. Obiective terapeutice: reducerea inflamației locale; detensionarea musculaturii extensorilor antebrațului; exerciții de stretching la domiciliu; reducerea factorilor mecanici repetitivi (mouse)."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere... pe aici, la cot, pe partea asta dreaptă. De ceva vreme.",
+      "poate vreo lună, lună și ceva",
+      "Cred că de la birou, stau mult la calculator. Sau poate de când am reparat gardul, am săpat, am carat niște lucruri.",
+      "Când strâng ceva, sau când ridic o cană, nu știu, orice duc la gură, cam doare.",
+      "dacă cineva atinge acolo, doare destul de tare"
+    ],
+    "evaluarea_durerii_vas": [
+      "Poate un 7, 7 pe acolo."
+    ],
+    "localizarea_durerii": [
+      "am o durere... pe aici, la cot, pe partea asta dreaptă",
+      "acolo e cel mai tare",
+      "Pe zona externă a cotului"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă un pic pe aici, pe antebraț, uneori.",
+      "Externă, pe aici. Asta în sus, când ridic ceva."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am ceva cu tiroida, da. Hipotiroidie mi-au spus."
+    ],
+    "medicatie_actuala": [
+      "Euthyrox. Nu știu doza exact, e pe cutie acasă.",
+      "Am luat Voltaren gel, îl pun pe acolo seara."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o epicondilită laterală, ceea ce se numește colocvial cotul tenismenului",
+      "Tendoanele extensorilor se inflamează la inserția lor pe epicondilul lateral.",
+      "Vom lucra local pe reducerea inflamației, pe detensionarea musculaturii extensorilor antebrațului, și o să vă dau și niște exerciții de stretching pe care să le faceți acasă.",
+      "acolo e cel mai tare",
+      "crește"
+    ]
+  }
+}

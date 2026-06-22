@@ -1,0 +1,31 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă venim astăzi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Treptat.\nSPEAKER_00: Aveți o muncă de birou, stați mult la calculator?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Durerea rămâne la gât sau se lasă și în altă parte?\nSPEAKER_01: Și pe umărul drept un pic.\nSPEAKER_00: Pe umărul drept. Coboară mai jos, pe braț?\nSPEAKER_01: Nu.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. E constantă sau fluctuează?\nSPEAKER_01: Fluctuează.\nSPEAKER_00: Când e mai rău?\nSPEAKER_01: Seara, după muncă.\nSPEAKER_00: Dimineața cum vă treziți, aveți rigiditate la gât?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Trece după ce vă mișcați?\nSPEAKER_01: Da.\nSPEAKER_00: Amorțeli în mână sau degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Amețeli, dureri de cap?\nSPEAKER_01: Dureri de cap câteodată.\nSPEAKER_00: Des?\nSPEAKER_01: Nu, rar.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune mare, diabet, ceva cronic?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nurofen, când nu mai pot.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Nu știu, o dată, de două ori pe săptămână poate.\nSPEAKER_00: Am înțeles. Ați mai făcut terapie pentru asta?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok, stați puțin așa, cu spatele la mine. Vă uit la poziția umerilor. Vedeți că umărul drept e un pic mai ridicat decât cel stâng?\nSPEAKER_01: Nu știam.\nSPEAKER_00: Da, e o tensiune musculară pe trapezul drept. Întoarceți capul la dreapta, încet.\nSPEAKER_01: Până aici ajung.\nSPEAKER_00: Doare?\nSPEAKER_01: Da, trage.\nSPEAKER_00: La stânga?\nSPEAKER_01: Mai bine.\nSPEAKER_00: Am înțeles. Apăs puțin pe mușchi aici, la baza gâtului. Doare?\nSPEAKER_01: Da, acolo exact.\nSPEAKER_00: Da, e contractura pe trapez și ridicătorul scapulei pe dreapta. Cred că putem să reducem durerea destul de rapid. O să lucrăm zona cervicală și umărul drept, să relaxăm musculatura și să refacem mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu iradiere pe umărul drept, instalată treptat în aproximativ două săptămâni, asociată cu munca la calculator.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice: umărul drept mai ridicat decât cel stâng, tensiune musculară pe trapezul drept. Rotație cervicală la dreapta limitată și dureroasă, rotație la stânga în limite mai bune. Palpare dureroasă la baza gâtului pe dreapta. Diagnostic: contractură trapez și ridicător scapulă dreapta. Obiective terapeutice: reducerea durerii, relaxarea musculaturii cervicale și a umărului drept, refacerea mobilității cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "De vreo două săptămâni.", "Treptat.", "Da.", "stați mult la calculator"],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și pe umărul drept un pic."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nurofen, când nu mai pot."],
+    "evaluare_functionala_initiala": ["umărul drept e un pic mai ridicat decât cel stâng", "e o tensiune musculară pe trapezul drept", "Doare? Da, trage.", "e contractura pe trapez și ridicătorul scapulei pe dreapta", "O să lucrăm zona cervicală și umărul drept, să relaxăm musculatura și să refacem mobilitatea."]
+  }
+}

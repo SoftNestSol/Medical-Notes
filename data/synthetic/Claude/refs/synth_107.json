@@ -1,0 +1,26 @@
+{
+  "motivul_prezentarii": "Pacientă cu durere lombară în bară, bilaterală, instalată după efort fizic (mutarea unui dulap), de aproximativ trei săptămâni. Durere prezentă mai ales dimineața la trezire și după orele petrecute la birou. Fără iradiere pe membrul inferior, fără amorțeli. Redoare matinală de 10-15 minute.",
+  "evaluarea_durerii_vas": [
+    4,
+    6
+  ],
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": "fese (fără iradiere distală)",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "gastrită, operație menisc genunchi drept (acum 8 ani)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Perindopril",
+      "doza": "5 miligrame"
+    },
+    {
+      "denumire": "Omeprazol",
+      "doza": "20 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nAsimetrie la nivelul bazinului, umăr stâng mai coborât. Mobilitate limitată la flexie anterioară și la înclinare laterală stângă (dureroasă). Statul pe piciorul drept limitează stabilitatea față de cel stâng. Contractură paravertebrală lombară mai pronunțată pe stânga la palpare.\nDiagnostic:\nContractură paravertebrală lombară predominant stângă cu dezechilibru de bazin, instalată post-efort (mobilare). Fără semne clinice clare de compresie radiculară (absența iradierii pe membrul inferior și a amorțelilor). Investigații imagistice recomandate (RMN lombar).\nObiective terapeutice:\nRelaxarea musculaturii paravertebrale lombare; mobilizarea bazinului; reducerea durerii și a redorii matinale."
+}

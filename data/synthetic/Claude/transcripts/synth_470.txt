@@ -1,0 +1,72 @@
+SPEAKER_00: Bună ziua!
+SPEAKER_01: Bună ziua, bună ziua.
+SPEAKER_00: Spuneți-mi numele, vă rog.
+SPEAKER_01: Gheorghe Marin.
+SPEAKER_00: Domnule Marin, cu ce problemă ne vedem astăzi?
+SPEAKER_01: Păi... mă doare șoldul. De ceva vreme. Dreptul. Și sincer să fiu, m-am tot amânat să vin, dar acum chiar nu mai pot.
+SPEAKER_00: Înțeles. De cât timp vă doare?
+SPEAKER_01: Serios a început acum vreo trei săptămâni, dar parcă și înainte mai simțeam câte ceva. Nu știu, poate de mai mult. Două luni, trei luni?
+SPEAKER_00: Și acum trei săptămâni s-a intensificat, sau a apărut brusc?
+SPEAKER_01: S-a intensificat. Adică eu am mers pe jos mai mult, am fost la munte cu familia, vreo patru zile, și de acolo... s-a declanșat mai rău.
+SPEAKER_00: Și după ce v-ați întors de la munte a rămas la intensitatea aia sau s-a mai calmat?
+SPEAKER_01: A mai scăzut un pic, dar tot e acolo. Nu dispare.
+SPEAKER_00: Ok. Durerea asta o simțiți fix în zona șoldului, sau se lasă și în altă parte?
+SPEAKER_01: Mmm... mai mult în șold, dar câteodată simt ceva și pe fața... pe fața din afară a coapsei, în jos. Până la jumătatea coapsei poate.
+SPEAKER_00: Pe fața externă a coapsei. Se coboară mai jos de genunchi?
+SPEAKER_01: Nu, nu. Până pe la jumătatea coapsei, cam atât.
+SPEAKER_00: E o durere continuă, sau o simțiți mai mult la mișcare?
+SPEAKER_01: La mișcare mai rău. Când mă ridic de pe scaun, primii pași sunt... vai de mine. Și când urc scările. Da, la urcat mai ales.
+SPEAKER_00: Și stând jos, relaxat, dispare?
+SPEAKER_01: Dispare mai mult, da. Dar dacă stau prea mult tot apare un disconfort.
+SPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, unde ați pune durerea la mișcare?
+SPEAKER_01: La mișcare... un 7. Da, 7.
+SPEAKER_00: Și în repaus?
+SPEAKER_01: Aaah... poate un 2, un 3. Dacă stau liniștit.
+SPEAKER_00: Bun. Ați mai avut vreo lovitură la șold, vreun traumatism, cădere?
+SPEAKER_01: Nu, nu cred. Nu-mi amintesc să fi căzut. Poate la munte am călcat greșit de câteva ori, dar cădere nu.
+SPEAKER_00: Dumneavoastră ce vârstă aveți?
+SPEAKER_01: 54.
+SPEAKER_00: Și ce ocupație aveți?
+SPEAKER_01: Șofer de TIR. Deci stau mult pe scaun, știți cum e.
+SPEAKER_00: Da, înțeleg. Câte ore aproximativ pe zi stați în mașină?
+SPEAKER_01: Depinde de cursă. Uneori și 8, și 10 ore.
+SPEAKER_00: Înțeles. Acum câteva întrebări despre starea generală de sănătate. Aveți tensiune arterială, diabet, probleme la inimă?
+SPEAKER_01: Tensiune am, da. Mi-a spus doctorul că am hipertensiune și iau ceva pentru ea.
+SPEAKER_00: Ce medicament luați pentru tensiune?
+SPEAKER_01: Amlodipină. 5 miligrame, o dată pe zi.
+SPEAKER_00: Ok. Altceva mai luați, ceva pentru durere, vreun antiinflamator?
+SPEAKER_01: Da, am luat Diclofenac câteva zile când m-a durut mai rău. Nu în fiecare zi, dar mai iau.
+SPEAKER_00: Și acum îl luați sau v-ați oprit?
+SPEAKER_01: Acum nu iau, m-am oprit de vreo săptămână.
+SPEAKER_00: Bine. Diabet avem?
+SPEAKER_01: Nu.
+SPEAKER_00: Osteoporoză, probleme cu oasele?
+SPEAKER_01: Nu știu... adică nu mi s-a spus nimic. Dar asta mă îngrijorează, știți? Că am 54 de ani și mă gândesc, oare nu e ceva mai grav? Nu e artroză sau ceva de genul?
+SPEAKER_00: Înțeleg că vă îngrijorează. Haideți să facem evaluarea și vedem ce se întâmplă. Ați făcut radiografie la șold?
+SPEAKER_01: Nu, n-am făcut nimic. De-aia și întreb, ar trebui să fac? E periculos să fac terapie fără?
+SPEAKER_00: Dacă după evaluare considerăm că e necesar, vă recomand să faceți. Dar haideți să vedem mai întâi ce găsim la examinare. Altceva în antecedente, operații, fracturi?
+SPEAKER_01: Am operat apendicita acum mulți ani, vreo 20. Altceva nu.
+SPEAKER_00: Bun. Alergii?
+SPEAKER_01: Nu.
+SPEAKER_00: Haideți să faceți câțiva pași prin cabinet. Mergeți normal până la perete și întoarceți-vă.
+SPEAKER_01: Ok.
+SPEAKER_00: Observ că pășiți un pic mai scurt pe dreapta, evitați să puneți greutatea pe șoldul drept. Simțiți asta?
+SPEAKER_01: Da, instinctiv evit. Că doare când apăs.
+SPEAKER_00: Înțeles. Acum stați în picioare, vă rog. O să apăs puțin pe zona din fața șoldului, trohanterul mare. Dacă doare, îmi spuneți.
+SPEAKER_01: Ah, da, acolo doare! Asta e zona.
+SPEAKER_00: Pe o scară de la 0 la 10?
+SPEAKER_01: Acum când ați apăsat... 6.
+SPEAKER_00: Bun. Acum vreau să ridicați piciorul drept, îndoind genunchiul, ca și cum ați urca o treaptă.
+SPEAKER_01: Ugh... doare. Doare în față și în lateral.
+SPEAKER_00: Ok. Și pe stânga, faceți la fel.
+SPEAKER_01: Pe stânga merge, nu doare.
+SPEAKER_00: Bun. Acum vă rugați să vă întindeți pe masă. Voi face rotația șoldului intern și extern, și îmi spuneți ce simțiți.
+SPEAKER_01: Rotația spre interior... uf, asta doare mai mult.
+SPEAKER_00: Deci rotația internă e limitată și dureroasă pe dreapta. Bine, și acum spre exterior.
+SPEAKER_01: Asta merge mai bine, da.
+SPEAKER_00: Am înțeles. Domnule Marin, pe baza a ce am văzut, avem o inflamație la nivelul tendonului mușchilor abductori, în zona trohanterului mare, probabil agravată de efortul de la munte și de postura pe care o aveți în mașină ore în șir. Nu pare să fie o problemă articulară profundă, dar fără imagistică nu pot exclude complet o componentă artrozică.
+SPEAKER_01: Deci e bursită? Am citit pe internet despre bursită de șold. Ăsta e?
+SPEAKER_00: Poate fi și o tendinopatie a abductorilor sau o bursită trohanterică, da, acestea sunt cele mai frecvente la ce descrieți. Vom lucra să reducem inflamația și să refacem mobilitatea șoldului.
+SPEAKER_01: Și o să treacă? Adică nu trebuie operație sau ceva?
+SPEAKER_00: La ce vedem acum nu e cazul de operație. Vom începe cu terapia manuală, vedem cum răspundeți în primele ședințe, și dacă e necesar vă trimit la imagistică.
+SPEAKER_01: Ok, bine. Îmi pare bine că nu e ceva îngrozitor. Mersi.

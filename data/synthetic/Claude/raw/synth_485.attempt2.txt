@@ -1,0 +1,55 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua!\nSPEAKER_00: Cu ce problemă vă vedem astăzi?\nSPEAKER_01: Păi, am o durere îngrozitoare în ceafă, de vreo două săptămâni. Adică nu e prima oară că mă doare pe-acolo, mai am din când în când, dar acum e cu totul altceva, nu trece deloc, stă acolo și mă deranjează și noaptea, și ziua, și dimineața când mă ridic din pat.\nSPEAKER_00: Și doare strict în ceafă sau se lasă și în altă parte?\nSPEAKER_01: Mai mult în ceafă, dar uneori simt că urcă și spre cap, mai ales occipital, în spate, știți, acolo unde se termină capul. Și uneori mă doare și un pic lateral pe gât, pe dreapta.\nSPEAKER_00: Pe dreapta. Doare și când rotiți capul?\nSPEAKER_01: Da, da, mai ales când îl rotesc spre dreapta, sau când îl las pe spate. Adică nici nu pot să mă uit în tavan, că imediat simt o tensiune acolo.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum estimați durerea?\nSPEAKER_01: Aș zice un 7. Uneori mai mult, dar în medie un 7.\nSPEAKER_00: Și ce credeți că a declanșat-o? S-a întâmplat ceva anume?\nSPEAKER_01: Sincer, nu știu exact. Lucrez mult la birou, stau ore întregi la calculator, și am un scaun, să știți, îngrozitor, mi-a tot zis soția să îl schimb. Probabil de acolo. Și mai dorm cam prost, adică pe burtă, am auzit că nu e bine dar tot nu mă pot dezvăța.\nSPEAKER_00: Înțeleg. Și dimineața când vă treziți, e mai rău sau mai bine față de seară?\nSPEAKER_01: Dimineața e mai rău, da. Mă trezesc și parcă am gâtul blocat, mă mișc greu, îmi ia cam jumătate de oră până se mai dezmorțește. Și asta mă sperie un pic, sincer, că mă gândesc că poate e ceva mai grav, știți?\nSPEAKER_00: Înțeleg îngrijorarea. Ați mai avut înainte episoade similare sau e pentru prima dată?\nSPEAKER_01: Am mai avut, da, dar mai ușoare. Mai ales când lucrez mult și stau aplecat. Dar nu au durat atât, de obicei trecea singur în câteva zile.\nSPEAKER_00: Ați luat ceva pentru durere în ultima perioadă?\nSPEAKER_01: Am luat niște ibuprofen, câte o pastilă seara, când nu mai puteam. Și am mai pus un gel, Voltaren, pe ceafă, dar nu prea m-a ajutat mult.\nSPEAKER_00: Voltaren gel și ibuprofen. Aveți alte afecțiuni cunoscute, tensiune, diabet, probleme la inimă?\nSPEAKER_01: Nu, nu, nimic din astea. Sunt destul de sănătos în rest, nu merg aproape deloc la medic. Poate că tocmai de aia m-am și speriat acum.\nSPEAKER_00: Bine. Haideți să facem câteva mișcări simple. Rotiți ușor capul spre dreapta.\nSPEAKER_01: Ah, da, acolo trage imediat.\nSPEAKER_00: Spre stânga acum.\nSPEAKER_01: Asta merge mai bine, da.\nSPEAKER_00: Acum lăsați capul puțin pe spate.\nSPEAKER_01: Au, da, asta e mai neplăcut.\nSPEAKER_00: Bun. Apăs puțin aici, la baza craniului. Doare?\nSPEAKER_01: Da, da, exact acolo e centrul, parcă.\nSPEAKER_00: Și aici, paravertebral cervical pe dreapta?\nSPEAKER_01: Da, și acolo. Mult mai tare decât pe stânga.\nSPEAKER_00: Înțeleg. Aveți și senzație de amețeală, de greață, vă țiuie urechile?\nSPEAKER_01: Amețeală nu prea. Dar mai am câteodată dureri de cap, mai ales când stau mult la ecran. Nu știu dacă e legat.\nSPEAKER_00: Și aceste dureri de cap unde le simțiți, mai mult în față, în tâmple, sau tot în spate?\nSPEAKER_01: Tot în spate, occipital. Exact unde mă doare și ceafa.\nSPEAKER_00: Bun, deci avem o contractură musculară cervicală destul de pronunțată, mai ales pe dreapta, cu iradiere occipitală. Mobilitatea este limitată la rotația dreaptă și extensie. O să lucrăm să reducem contractura și tensiunea din această zonă și să recâștigăm mobilitatea.\nSPEAKER_01: Și credeți că o să treacă? Adică nu e ceva mai serios?\nSPEAKER_00: Din ce vedem acum e o problemă musculară, mecanică, fără semne de ceva mai grav. Cu câteva ședințe ar trebui să se amelioreze.\nSPEAKER_01: Bine, mă bucur. Vă mulțumesc.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală și ceafă cu iradiere occipitală, mai pronunțată pe dreapta, cu limitarea rotației drepte și extensiei cervicale. Simptome prezente de aproximativ două săptămâni, agravate dimineața. Posibil declanșate de postură incorectă la birou și poziție de somn pe burtă.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "ibuprofen",
+        "doza": "câte o pastilă seara"
+      },
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Contractură musculară cervicală pronunțată bilateral, mai accentuată pe dreapta. Mobilitate limitată la rotația dreaptă și extensie cervicală. Durere la palpare paravertebral cervical dreapta și la baza craniului. Obiective terapeutice: reducerea contracturii și tensiunii musculare cervicale, recâștigarea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere îngrozitoare în ceafă, de vreo două săptămâni",
+      "mai ales când îl rotesc spre dreapta, sau când îl las pe spate",
+      "Lucrez mult la birou, stau ore întregi la calculator",
+      "mai dorm cam prost, adică pe burtă"
+    ],
+    "evaluarea_durerii_vas": [
+      "Aș zice un 7. Uneori mai mult, dar în medie un 7."
+    ],
+    "localizarea_durerii": [
+      "am o durere îngrozitoare în ceafă",
+      "simt că urcă și spre cap, mai ales occipital, în spate",
+      "mă doare și un pic lateral pe gât, pe dreapta"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat niște ibuprofen, câte o pastilă seara, când nu mai puteam",
+      "am mai pus un gel, Voltaren, pe ceafă"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară cervicală destul de pronunțată, mai ales pe dreapta, cu iradiere occipitală",
+      "Mobilitatea este limitată la rotația dreaptă și extensie",
+      "O să lucrăm să reducem contractura și tensiunea din această zonă și să recâștigăm mobilitatea",
+      "Apăs puțin aici, la baza craniului. Doare?",
+      "Și aici, paravertebral cervical pe dreapta? Da, și acolo. Mult mai tare decât pe stânga."
+    ]
+  }
+}

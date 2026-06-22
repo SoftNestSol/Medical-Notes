@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi cum vă numiți, vă rog.\nSPEAKER_01: Ionescu Mihai.\nSPEAKER_00: Domnule Ionescu, cu ce problemă veniți astăzi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, zona de mijloc, sau mai sus?\nSPEAKER_01: Jos. Partea de jos.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, o mișcare bruscă, ceva ridicat greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Aha, deci a apărut după ce ați mutat mobilă. Imediat după sau a doua zi?\nSPEAKER_01: A doua zi dimineață.\nSPEAKER_00: A doua zi dimineață, înțeles. Pe o scară de la 0 la 10, cât de tare doare acum, în momentul de față?\nSPEAKER_01: Vreo șase.\nSPEAKER_00: Șase. Și la cel mai rău moment, cum a fost?\nSPEAKER_01: Poate opt.\nSPEAKER_00: Opt. Doare mai tare când stați jos, când stați în picioare, sau când vă ridicați?\nSPEAKER_01: Când mă ridic. Și când stau mult pe scaun.\nSPEAKER_00: Când vă ridicați de pe scaun doare, da. Durerea rămâne în zona lombară sau se lasă și pe picior, pe fesă?\nSPEAKER_01: Nu, rămâne acolo.\nSPEAKER_00: Rămâne locală. Nu simțiți amorțeală sau furnicături pe picior?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Ați mai avut dureri de spate și înainte, sau e prima dată?\nSPEAKER_01: Mai am din când în când, dar nu așa tare.\nSPEAKER_00: Din când în când, dar nu ca acum. Ați făcut vreun tratament până acum pentru episodul ăsta? Antiinflamatoare, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nimic. Aveți vreo afecțiune cronică, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio intervenție chirurgicală la coloană?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Luați vreun medicament în mod curent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio alergie?\nSPEAKER_01: Nu știu de nicio alergie.\nSPEAKER_00: Ok. Ce profesie aveți, dacă pot să întreb?\nSPEAKER_01: Șofer.\nSPEAKER_00: Șofer, deci stați mult pe scaun. Asta explică de ce se agravează când stați jos mai mult. Haideți să facem câteva mișcări simple. Ridicați-vă în picioare, vă rog.\nSPEAKER_01: Da.\nSPEAKER_00: Aplecați-vă ușor înainte, cât puteți.\nSPEAKER_01: Până aici.\nSPEAKER_00: Până acolo doare?\nSPEAKER_01: Da, trage.\nSPEAKER_00: Trage în zona lombară. Acum întoarceți-vă ușor spre dreapta.\nSPEAKER_01: Doare un pic.\nSPEAKER_00: Spre stânga?\nSPEAKER_01: La fel.\nSPEAKER_00: Simetric. Acum apăs puțin pe musculatura paravertebrală, îmi spuneți dacă simțiți ceva.\nSPEAKER_01: Acolo doare, da.\nSPEAKER_00: Pe dreapta sau pe stânga mai mult?\nSPEAKER_01: Pe dreapta parcă.\nSPEAKER_00: Pe dreapta mai intens. Bun. Staţi puţin pe un picior, pe cel drept.\nSPEAKER_01: Da.\nSPEAKER_00: Vă ține bine?\nSPEAKER_01: Da, mă ține.\nSPEAKER_00: Bine. Pe stângul.\nSPEAKER_01: Și pe ăsta.\nSPEAKER_00: Ok, echilibru bun. Nu avem radiografii sau RMN făcute pentru zona asta?\nSPEAKER_01: Nu.\nSPEAKER_00: Înțeles. Deci avem o contractură musculară lombară apărută după efort, cu limitarea flexiei și a rotațiilor, sensibilitate mai mare pe dreapta la nivelul paravertebralilor. Vom lucra să reducem contractura și să recuperăm mobilitatea. Putem începe chiar astăzi dacă doriți.\nSPEAKER_01: Da, bine.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută după mutarea de mobilă, cu debut a doua zi dimineață, prezentă de aproximativ două săptămâni.",
+    "evaluarea_durerii_vas": [6, 8],
+    "localizarea_durerii": ["lombar"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații funcționale: limitarea flexiei anterioare a trunchiului, rotații lombare dureroase bilateral simetric, sensibilitate paravertebrală lombară mai accentuată pe dreapta. Echilibru monopodalic prezent bilateral.\nDiagnostic: Contractură musculară lombară post-efort.\nObiective terapeutice: reducerea contracturii musculare; recuperarea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele.", "Am mutat niște mobilă.", "A doua zi dimineață.", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo șase.", "Poate opt."],
+    "localizarea_durerii": ["Jos. Partea de jos.", "Rămâne acolo."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Trage în zona lombară.", "Pe dreapta parcă.", "avem o contractură musculară lombară apărută după efort, cu limitarea flexiei și a rotațiilor, sensibilitate mai mare pe dreapta la nivelul paravertebralilor. Vom lucra să reducem contractura și să recuperăm mobilitatea."]
+  }
+}

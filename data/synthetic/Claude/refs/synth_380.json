@@ -1,0 +1,23 @@
+{
+  "motivul_prezentarii": "Durere umăr drept cu debut insidios în urmă cu aproximativ trei săptămâni, accentuată la mișcare (ridicarea brațului) și noaptea la dormitul pe partea dreaptă. Iradiere ocazională spre ceafă. Limitarea amplitudinii de mișcare a umărului drept.",
+  "evaluarea_durerii_vas": [
+    7,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "Episod de cervicalgie în urmă cu aproximativ doi ani, remis spontan.",
+  "medicatie_actuala": [
+    {
+      "denumire": "Lercanidipină",
+      "doza": "10 mg/zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: Tendinopatie tendon lung biceps și suspiciune afectare manșetă rotatori umăr drept. Ușoară tensiune paravertebrală cervicală cu limitarea rotației cervicale spre dreapta.\nObiective terapeutice: reducerea inflamației locale la nivelul umărului drept; mobilizarea articulației umărului; relaxarea musculaturii periarticulare (trapez, deltoid); recuperarea amplitudinii de mișcare; evaluare cervicală asociată. Recomandare ecografie umăr drept."
+}

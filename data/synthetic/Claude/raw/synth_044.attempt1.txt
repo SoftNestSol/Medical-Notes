@@ -1,0 +1,52 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Gheorghe Marin.\nSPEAKER_00: Vârsta?\nSPEAKER_01: 48.\nSPEAKER_00: Cu ce problemă ne vedem astăzi, domnule Marin?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, v-ați lovit, ați dormit prost?\nSPEAKER_01: Nu știu, m-am trezit și mă durea.\nSPEAKER_00: Deci a apărut brusc, dimineața.\nSPEAKER_01: Da.\nSPEAKER_00: Doare doar gâtul sau se lasă și pe umăr, pe braț?\nSPEAKER_01: Și pe umărul drept.\nSPEAKER_00: Pe umărul drept. Se lasă și pe braț în jos?\nSPEAKER_01: Nu, nu chiar.\nSPEAKER_00: Amorțeli în mână?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Câteodată. Pe ce degete?\nSPEAKER_01: Nu știu, pe toate parcă.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde vă situați?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Doare mai tare când vă întoarceți capul sau când stați nemișcat?\nSPEAKER_01: Când mă întorc.\nSPEAKER_00: Spre dreapta sau spre stânga?\nSPEAKER_01: Mai mult spre dreapta.\nSPEAKER_00: Bun. Ce lucru faceți, stați mult la birou?\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Toată ziua la calculator.\nSPEAKER_01: Da.\nSPEAKER_00: Alte afecțiuni aveți, tensiune, diabet, osteoporoză, epilepsie?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune arterială. Luați ceva pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: 10 miligrame, o dată pe zi?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme, unguiente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să fac câteva teste. Puneți-vă în picioare un moment, vă rog.\nSPEAKER_01: Ok.\nSPEAKER_00: Întoarceți capul ușor spre dreapta... doare?\nSPEAKER_01: Da.\nSPEAKER_00: Spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Aplecați capul spre umărul drept.\nSPEAKER_01: Au, da.\nSPEAKER_00: Doare pe partea dreaptă a gâtului, da?\nSPEAKER_01: Da.\nSPEAKER_00: Apăs puțin aici pe musculatura cervicală dreaptă, spuneți-mi dacă doare.\nSPEAKER_01: Da, doare.\nSPEAKER_00: Și aici pe trapez?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Bun. Ce vă pot spune este că avem o contractură musculară destul de serioasă pe zona cervicală și trapez pe partea dreaptă. Mobilitatea rotației spre dreapta e redusă. O să lucrăm să reducem contractura și să recâștigăm mobilitatea. Fără imagistică deocamdată, dacă nu se ameliorează în câteva ședințe, o să vă recomand să faceți o radiografie.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să ne așezăm pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicala si umar drept, aparuta spontan, de doua saptamani",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractura musculara cervicala si trapez dreapta; mobilitate rotatie cervicala dreapta redusa.\nObiective terapeutice: reducerea contracturii, recastigarea mobilitatii."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul",
+      "m-am trezit și mă durea",
+      "Vreo două săptămâni",
+      "Și pe umărul drept"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul",
+      "Și pe umărul drept"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Enalapril.",
+      "10 miligrame."
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară destul de serioasă pe zona cervicală și trapez pe partea dreaptă",
+      "Mobilitatea rotației spre dreapta e redusă",
+      "O să lucrăm să reducem contractura și să recâștigăm mobilitatea"
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 7.76,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua. Scuzați că am întârziat puțin, am stat la semafor și... da, nu mai contează."
+    },
+    {
+      "start": 7.88,
+      "end": 10.54,
+      "speaker": "SPEAKER_00",
+      "text": "Nicio problemă. Cu ce problemă ne vedem?"
+    },
+    {
+      "start": 10.66,
+      "end": 29.28,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare umărul drept. Și nu de ieri de azi, adică deja de vreo trei săptămâni mă tot chinui. La început am zis că trece de la sine, că poate am dormit strâmb sau ceva, dar nu trece. Ba chiar mi se pare că s-a mai agravat."
+    },
+    {
+      "start": 29.4,
+      "end": 35.48,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și durerea e locală, doar în umăr, sau se lasă și pe braț în jos?"
+    },
+    {
+      "start": 35.6,
+      "end": 58.78,
+      "speaker": "SPEAKER_01",
+      "text": "Se lasă și pe braț, da. Mai ales când ridic mâna, știți, ca să iau ceva de pe raft sau la volan când întorc. Și sincer m-a speriat puțin că mă gândeam, nu știu, poate e ceva cu inima? Că am citit că durerea de umăr stâng poate fi semn... dar e pe dreapta la mine, deci probabil nu, nu?"
+    },
+    {
+      "start": 58.9,
+      "end": 66.5,
+      "speaker": "SPEAKER_00",
+      "text": "Da, pe dreapta e altă poveste. De obicei nu. Spuneți-mi, faceți vreun sport, muncă fizică, ceva repetat cu brațul?"
+    },
+    {
+      "start": 66.62,
+      "end": 89.04,
+      "speaker": "SPEAKER_01",
+      "text": "Lucrez la birou, dar acum vreo lună am ajutat un prieten să mute niște cutii, mobilă, chestii d-astea grele. Și după aia a doua zi m-am trezit cu umărul... nu știu, parcă blocat. Am stat cu o pungă de gheață, am luat un Nurofen și a mai trecut, dar de atunci parcă nu mai e același umăr."
+    },
+    {
+      "start": 89.16,
+      "end": 91.44,
+      "speaker": "SPEAKER_00",
+      "text": "Deci a început după efortul acela."
+    },
+    {
+      "start": 91.56,
+      "end": 103.72,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact atunci. Și mai am ceva, că voiam să vă spun, am tensiunea un pic ridicată, iau Enalapril de vreo doi ani, 10 miligrame. Sper că nu e problemă pentru tratament."
+    },
+    {
+      "start": 103.84,
+      "end": 105.74,
+      "speaker": "SPEAKER_00",
+      "text": "Nu e problemă. Altă medicație?"
+    },
+    {
+      "start": 105.86,
+      "end": 108.14,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, doar Enalaprilu' ăla. Nimic altceva."
+    },
+    {
+      "start": 108.26,
+      "end": 114.34,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Pe o scară de la 0 la 10, cât de tare doare acum, în repaus?"
+    },
+    {
+      "start": 114.46,
+      "end": 121.68,
+      "speaker": "SPEAKER_01",
+      "text": "Acum în repaus... un 4. Dar dacă ridic brațul sau dacă apasă cineva acolo, e un 7, cel puțin."
+    },
+    {
+      "start": 121.8,
+      "end": 125.22,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Ridică brațul drept pentru mine, cât poți."
+    },
+    {
+      "start": 125.34,
+      "end": 129.52,
+      "speaker": "SPEAKER_01",
+      "text": "Până... cam până aici, nu mai pot mai sus. Că doare."
+    },
+    {
+      "start": 129.64,
+      "end": 134.58,
+      "speaker": "SPEAKER_00",
+      "text": "Până la aproximativ 90 de grade. Și rotație internă, duceți mâna la spate?"
+    },
+    {
+      "start": 134.7,
+      "end": 154.46,
+      "speaker": "SPEAKER_01",
+      "text": "Puțin, da, dar tare mă doare dacă forțez. Știți, mă temeam că poate am rupt ceva acolo, un tendon sau nu știu ce, că am văzut la un vecin care a pățit ceva la umăr și a stat luni de zile. Și eu nu-mi permit să stau, am mult de lucru."
+    },
+    {
+      "start": 154.58,
+      "end": 158.76,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Haideți să apăs puțin aici, pe zona asta anterioară. Doare?"
+    },
+    {
+      "start": 158.88,
+      "end": 160.78,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da! Acolo da, tare."
+    },
+    {
+      "start": 160.9,
+      "end": 163.56,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă apăs mai sus, pe acromion?"
+    },
+    {
+      "start": 163.68,
+      "end": 165.96,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și acolo, dar mai puțin."
+    },
+    {
+      "start": 166.08,
+      "end": 177.86,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Avem o inflamație în zona tendoanelor rotatorilor, cel mai probabil tendinită de coafă a rotatorilor la nivelul umărului drept. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea brațului."
+    },
+    {
+      "start": 177.98,
+      "end": 179.5,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu e ruptură?"
+    },
+    {
+      "start": 179.62,
+      "end": 187.98,
+      "speaker": "SPEAKER_00",
+      "text": "Nu avem semne clare de ruptură acum. Dacă după câteva ședințe nu răspunde, vom recomanda o ecografie, dar deocamdată începem cu terapia."
+    },
+    {
+      "start": 188.1,
+      "end": 191.9,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, mă bucur. Că m-am tot speriat degeaba, da."
+    }
+  ]
+}

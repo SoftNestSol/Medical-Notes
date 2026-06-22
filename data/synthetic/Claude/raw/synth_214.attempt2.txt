@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Cel drept.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și ce ați făcut înainte să înceapă? Ceva efort, sport, ridicat ceva greu?\nSPEAKER_01: Am mutat niște cutii. Cam multe.\nSPEAKER_00: Înțeles. Și de atunci doare?\nSPEAKER_01: Da.\nSPEAKER_00: Doare mereu sau numai la mișcare?\nSPEAKER_01: Mai mult când ridic mâna.\nSPEAKER_00: Când o ridicați în față sau în lateral?\nSPEAKER_01: În lateral mai rău.\nSPEAKER_00: Și noaptea vă deranjează?\nSPEAKER_01: Uneori, dacă stau pe partea aia.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde vă situați acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Și la ridicarea brațului în lateral?\nSPEAKER_01: Atunci poate 7.\nSPEAKER_00: Amorțește mâna sau degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Simțiți slăbiciune în braț?\nSPEAKER_01: Nu știu... nu prea.\nSPEAKER_00: Ok. Alte dureri în afară de umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Tensiune, diabet, osteoporoză, alte boli?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați medicamente acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Haideți să facem câteva teste. Ridicați brațul drept în lateral, cât puteți.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Deci undeva la vreo 90 de grade se oprește și doare. Și dacă vă duc eu mai sus?\nSPEAKER_01: Au, da, doare.\nSPEAKER_00: Înțeles. Acum apăs ușor pe zona asta, pe acromion. Doare?\nSPEAKER_01: Da, acolo e.\nSPEAKER_00: Și dacă rotesc brațul intern, așa?\nSPEAKER_01: Doare și aia.\nSPEAKER_00: Bun. Deci avem o inflamație la nivelul coafei rotatorilor, cel mai probabil supraspinosul. E o problemă frecventă după efort cu ridicare de greutăți. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului. Evitați deocamdată să ridicați obiecte grele cu brațul drept, da?\nSPEAKER_01: Da, ok.\nSPEAKER_00: Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa mutare cutii grele, de aproximativ doua saptamani. Doare la ridicarea bratului in lateral si la rotatia interna, uneori noaptea la dormitul pe partea dreapta.",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie coafa rotatori (supraspinos) umar drept\nObiective terapeutice:\n- reducerea inflamatiei\n- recuperarea mobilitatii umarului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Cel drept.", "Vreo două săptămâni.", "Am mutat niște cutii. Cam multe.", "Mai mult când ridic mâna.", "În lateral mai rău.", "Uneori, dacă stau pe partea aia."],
+    "evaluarea_durerii_vas": ["Vreo 5.", "Atunci poate 7."],
+    "localizarea_durerii": ["Cel drept.", "Mă doare umărul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Deci avem o inflamație la nivelul coafei rotatorilor, cel mai probabil supraspinosul.", "O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

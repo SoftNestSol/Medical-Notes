@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Păi, mă doare umărul drept de vreo trei săptămâni, nu știu exact de ce, adică nu am căzut sau ceva, pur și simplu a început să doară, poate de la calculator, stau mult la birou, lucrezi mult la calculator și... nu știu, la un moment dat m-am trezit că nu mai pot să ridic mâna deasupra capului.\nSPEAKER_00: Înțeles. Și durerea e localizată doar la umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Pe braț, da, uneori se lasă, cam până la cot, dar mai mult umărul în sine, în față, aici, mă doare mai rău.\nSPEAKER_00: În față, pe zona anterioară.\nSPEAKER_01: Da, exact, și mai ales noaptea e groaznic, mă trezesc din somn, nu știu pe ce parte să stau, pe dreapta nu pot deloc, nici pe stânga nu-i bine că tot trag de braț... e o nebunie, sincer.\nSPEAKER_00: Da, înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum ați situa durerea?\nSPEAKER_01: Ziua, când nu fac nimic special, un 4. Noaptea când mă trezesc, lejer un 8.\nSPEAKER_00: 4 ziua, 8 noaptea. Ați luat ceva pentru durere?\nSPEAKER_01: Am pus un gel, Diclofenac, câteodată când nu mai pot, dar nu prea ajută, sau poate ajută puțin și eu nu-mi dau seama. Nu știu.\nSPEAKER_00: Și oral nu luați nimic?\nSPEAKER_01: Nu, nu, nu vreau să iau pastile dacă nu e cazul, am o teamă față de medicamente în general.\nSPEAKER_00: Înțeles. Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu, nimic din astea, sunt relativ sănătos, adică am 38 de ani, mă consider ok, poate un pic de stres la muncă dar asta nu e o boală.\nSPEAKER_00: Bun. Intervenții chirurgicale, fracturi la umăr sau braț?\nSPEAKER_01: Nu, niciodată, nici măcar o fractură n-am avut.\nSPEAKER_00: Ok. Haideți să ridicați brațul drept în față, ușor.\nSPEAKER_01: Până aici pot, mai sus deja doare.\nSPEAKER_00: Cam la 90 de grade se oprește.\nSPEAKER_01: Da, cam așa, și dacă forțez mai sus e rău.\nSPEAKER_00: Acum duceți mâna în lateral.\nSPEAKER_01: Lateral e ceva mai bine, dar tot nu ajung sus de tot.\nSPEAKER_00: Apăs puțin aici pe tendonul bicepsului, doare?\nSPEAKER_01: Au, da, acolo doare tare.\nSPEAKER_00: Și dacă apăs în zona de acromion, mai sus...\nSPEAKER_01: Da, și acolo, da.\nSPEAKER_00: Înțeles. Deci avem o inflamație la nivelul tendonului supraspinatus și posibil și o tendinită a capului lung al bicepsului. Asta explică și durerea nocturnă, și limitarea la ridicarea brațului. Va trebui în prima fază să reducem inflamația și să recuperăm mobilitatea articulară.\nSPEAKER_01: Dar o să treacă, nu? Adică nu e ceva grav? Mă tot gândesc că poate am rupt ceva, că nu mă pot mișca bine și îmi e teamă.\nSPEAKER_00: Fără panică, nu pare o ruptură, dar dacă vreți liniște putem recomanda o ecografie ulterior. Deocamdată lucrăm și vedem cum răspunde.\nSPEAKER_01: Da, ok, asta mă liniștește un pic, mulțumesc.\nSPEAKER_00: Haideți pe masă, vă rog, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept cu limitarea ridicarii bratului",
+    "evaluarea_durerii_vas": [4, 8],
+    "localizarea_durerii": ["umar_dr", "cot_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Diclofenac",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie tendon supraspinatus;\n- posibila tendinita cap lung biceps;\nObiective terapeutice:\n- reducerea inflamatiei;\n- recuperarea mobilitatii articulare"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul drept de vreo trei săptămâni", "nu mai pot să ridic mâna deasupra capului"],
+    "evaluarea_durerii_vas": ["Ziua, când nu fac nimic special, un 4. Noaptea când mă trezesc, lejer un 8."],
+    "localizarea_durerii": ["mă doare umărul drept", "se lasă, cam până la cot"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am pus un gel, Diclofenac, câteodată când nu mai pot"],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendonului supraspinatus și posibil și o tendinită a capului lung al bicepsului", "Va trebui în prima fază să reducem inflamația și să recuperăm mobilitatea articulară"]
+  }
+}

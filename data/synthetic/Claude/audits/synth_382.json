@@ -1,0 +1,40 @@
+{
+  "conversation_id": "synth_382",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Vreo două săptămâni.",
+      "A apărut așa, din senin.",
+      "pe umărul stâng nu pot să dorm."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Stângul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o limitare destul de clară la ridicarea brațului deasupra orizontalei și durere la palparea zonei subacromiale. Cel mai probabil e o inflamație la nivelul tendonului supraspinos, o tendinopatie de coafă a rotatorilor, posibil și un conflict subacromial. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23237,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 1767,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

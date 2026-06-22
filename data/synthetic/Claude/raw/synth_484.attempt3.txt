@@ -1,0 +1,26 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare ceafa.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Treptat.\nSPEAKER_00: Ok. S-a întâmplat ceva în perioada aia, ați căzut, ați stat într-o poziție ciudată, ați dormit prost?\nSPEAKER_01: Poate de la calculator. Stau mult la birou.\nSPEAKER_00: Înțeleg. Câte ore pe zi aproximativ?\nSPEAKER_01: Vreo opt, nouă ore.\nSPEAKER_00: Deci aproape toată ziua. Și durerea e doar în ceafă sau se lasă și în altă parte?\nSPEAKER_01: Mai mult în ceafă. Câteodată și în cap, sus.\nSPEAKER_00: Sus în cap, ca o durere de cap sau ca o presiune?\nSPEAKER_01: Ca o presiune.\nSPEAKER_00: Pe o parte sau pe ambele?\nSPEAKER_01: Pe ambele.\nSPEAKER_00: Se lasă și pe umăr sau pe braț?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bine. Pe o scară de la zero la zece, unde zero nu doare deloc și zece e maxim, unde situați durerea?\nSPEAKER_01: Vreo cinci.\nSPEAKER_00: Cinci. Doare constant sau mai mult la anumite momente?\nSPEAKER_01: Mai mult seara, după muncă.\nSPEAKER_00: Seara după muncă e mai rău. Dimineața cum vă treziți?\nSPEAKER_01: Merge. Un pic înțepenit, dar trece.\nSPEAKER_00: Trece repede sau durează?\nSPEAKER_01: Repede.\nSPEAKER_00: Ok. Când întoarceți capul, doare?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Mai mult pe o parte?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Pe dreapta. Aveți și amețeli, senzație de vertij?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici țiuit în ureche?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Afecțiuni mai aveți, tensiune, diabet, altceva?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Medicamente luați ceva în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun fel de pastilă?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să vă văd puțin. Stați drept așa, relaxat, cu mâinile pe lângă corp.\nSPEAKER_01: Bine.\nSPEAKER_00: Întoarceți capul ușor la dreapta. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și la stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Am văzut. Lăsați capul pe spate, ușor.\nSPEAKER_01: Doare un pic în ceafă.\nSPEAKER_00: Bun, bun. Acum înainte, bărbia spre piept.\nSPEAKER_01: Asta merge.\nSPEAKER_00: Merge mai bine, da. Apăs puțin pe mușchii din ceafă, îmi spuneți dacă doare undeva anume.\nSPEAKER_01: Da, acolo... Mai jos, pe dreapta.\nSPEAKER_00: Exact, aici e tensionat. Pe stânga mai puțin?\nSPEAKER_01: Da.\nSPEAKER_00: Deci avem o contractură a mușchilor paravertebrali cervicali, mai accentuată pe dreapta, cu limitare la rotație dreapta și extensie. Cel mai probabil din postura la birou, capul dus înainte, stând ore întregi așa. Asta creează o suprasolicitare a musculaturii din ceafă și apare și acea presiune în cap pe care o simțiți. Vom lucra să relaxăm musculatura și să recuperăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă așezați pe masă cu fața în sus, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere în ceafă cu presiune în cap, apărută treptat de aproximativ două săptămâni, probabil legată de munca prelungită la calculator.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nContractură musculară paravertebrală cervicală, mai accentuată pe dreapta. Limitare la rotație dreapta și extensie cervicală. Flexia cervicală fără restricție semnificativă.\nDiagnostic:\nCervicalgie cu contractură musculară paravertebrală, predominant dreapta, și cefalee de tip tensional secundară posturii prelungite la birou.\nObiective terapeutice:\nRelaxarea musculaturii cervicale și recuperarea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare ceafa.", "De vreo două săptămâni.", "Poate de la calculator. Stau mult la birou."],
+    "evaluarea_durerii_vas": ["Vreo cinci."],
+    "localizarea_durerii": ["Mă doare ceafa.", "Câteodată și în cap, sus."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu.", "Niciun fel de pastilă?", "Nu."],
+    "evaluare_functionala_initiala": ["Deci avem o contractură a mușchilor paravertebrali cervicali, mai accentuată pe dreapta, cu limitare la rotație dreapta și extensie.", "Vom lucra să relaxăm musculatura și să recuperăm mobilitatea."]
+  }
+}

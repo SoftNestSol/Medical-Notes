@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_203",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul",
+      "Stângul",
+      "Am mutat niște mobilă",
+      "De vreo trei săptămâni",
+      "Noaptea mai mult",
+      "Da, dacă stau pe partea aia",
+      "nu pot ridica",
+      "Până pe la nivelul umărului, cam atât"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5"
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul",
+      "Stângul"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Enalapril, 10 miligrame",
+      "Da, în fiecare dimineață"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o tendinopatie a supraspinatusului, cu posibil impingement subacomial",
+      "Obiectivul e să reducem inflamația și să recâștigăm mobilitatea",
+      "Vedem că abducția e mai limitată decât flexia",
+      "Doare la presiune directă",
+      "e limitată rotația"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22928,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1915,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Durere cervicala cu iradiere in umar drept, debut acut acum doua saptamani",
+  "evaluarea_durerii_vas": [
+    5,
+    8
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic: contractura ridicatori scapula si trapez superior drept; inflamatie si blocaj cervical C2-C3\nObiective terapeutice: reducerea contracturii si inflamatiei; recuperarea mobilitatii de rotatie spre dreapta"
+}

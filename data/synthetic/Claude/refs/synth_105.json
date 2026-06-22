@@ -1,0 +1,19 @@
+{
+  "motivul_prezentarii": "Pacient cu durere la umărul stâng instalată de aproximativ două săptămâni, apărută după efort fizic intens (mutat mobilă). Durere la mobilizarea activă a umărului, limitare la ridicarea brațului până la 90 de grade, junghi la mișcări bruște. Durere surdă în repaus, accentuată nocturn la culcatul pe umărul afectat.",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "colesterol ridicat (fără tratament medicamentos)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\nInflamație tendon supraspinos cu iritația bursei subacromiale; forță prezentă, fără suspiciune de ruptură de manșetă rotatorie.\nObiective terapeutice:\nReducerea inflamației; recuperarea mobilității complete a umărului stâng; evitarea mișcărilor cu membrul superior ridicat deasupra capului în perioada de tratament."
+}

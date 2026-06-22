@@ -1,0 +1,50 @@
+{
+  "conversation_id": "synth_401",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare genunchiul.",
+      "Dreptul.",
+      "De vreo două săptămâni.",
+      "A apărut așa, treptat.",
+      "Mai mult când merg, când cobor scările.",
+      "Un pic, seara.",
+      "Ospătar.",
+      "stau mult în picioare"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum... 4.",
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Mă doare genunchiul.",
+      "Dreptul.",
+      "Mai mult pe aici, în față, sub rotulă."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o tendinopatie rotuliană, cel mai probabil, dată de suprasolicitare",
+      "Statul prelungit în picioare plus efortul zilnic a inflamat tendonul rotulian",
+      "Obiectivul nostru e să reducem inflamația din zona respectivă și să descărcăm tendonul",
+      "Dacă apăs ușor sub rotulă, doare?",
+      "La flexie completă doare.",
+      "Mă ține, dar se simte."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23139,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 1985,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_383",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Cel drept.",
+      "Am mutat niște mobilă.",
+      "De vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Cel drept.",
+      "Rămâne acolo sus."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Vedem o limitare la ridicarea brațului, cam la 90 de grade începe durerea.",
+      "La fel, undeva la 90 de grade se blochează.",
+      "Rotația internă e limitată și dureroasă.",
+      "Sensibilitate pe acromion.",
+      "avem o tendinopatie de supraspinos cel mai probabil",
+      "Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului drept."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23237,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 1698,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

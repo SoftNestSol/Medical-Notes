@@ -1,0 +1,49 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce vă pot ajuta?\nSPEAKER_01: Bună ziua. Mă doare spatele.\nSPEAKER_00: Spatele, da. Mai jos, mai sus, undeva anume?\nSPEAKER_01: Mai jos. Aici, zona asta.\nSPEAKER_00: Zona lombară, în jur de brâu și sub brâu.\nSPEAKER_01: Da.\nSPEAKER_00: De cât timp vă doare?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva înainte să înceapă? Ați ridicat ceva greu, ați stat mult jos?\nSPEAKER_01: Am stat mult la birou. Mai mult decât de obicei.\nSPEAKER_00: Ok. Și durerea asta e constantă sau apare la anumite mișcări?\nSPEAKER_01: Mai mult când mă ridic de pe scaun. Sau dimineața când mă scol.\nSPEAKER_00: Dimineața e mai rău?\nSPEAKER_01: Da, primele minute. Apoi trece un pic.\nSPEAKER_00: Pe o scară de la 0 la 10, 0 fără durere, 10 durere maximă, unde o situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Se lasă durerea și pe picior, pe fesă, pe coapsă?\nSPEAKER_01: Nu. Rămâne acolo.\nSPEAKER_00: Strict lombar, ok. Amorțeli la picioare, furnicături?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Și dacă stați în picioare mai mult, se accentuează?\nSPEAKER_01: Puțin, da.\nSPEAKER_00: Ce lucrați, dacă pot să întreb?\nSPEAKER_01: Contabil. Stau mult la calculator.\nSPEAKER_00: Am înțeles, deci mult stat jos. Ați mai avut episoade similare înainte?\nSPEAKER_01: Acum doi ani, ceva mai ușor.\nSPEAKER_00: Și atunci a trecut de la sine?\nSPEAKER_01: Da, în vreo săptămână.\nSPEAKER_00: Acum nu a trecut în două săptămâni, deci ați venit să verificăm. Bine ați făcut. Luați vreun medicament în momentul ăsta, pentru orice?\nSPEAKER_01: Nu.\nSPEAKER_00: Tensiune, diabet, osteoporoză, ceva diagnostic pus de medic?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să facem câteva teste. Stați drept, cu spatele la mine, relaxat.\nSPEAKER_00: Văd o ușoară tensionare pe partea stângă paravertebral. Aplecați-vă ușor în față.\nSPEAKER_01: Doare când mă aplec.\nSPEAKER_00: Doare la flexie, deci. Și când vă îndreptați?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Apăs puțin aici, pe zona lombară. Doare?\nSPEAKER_01: Da, acolo exact.\nSPEAKER_00: Și mai jos, spre sacral?\nSPEAKER_01: Da, și acolo un pic.\nSPEAKER_00: Deci avem sensibilitate și lombar și sacral. Ridicați piciorul drept întins, cât puteți.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Ok, nu declanșează durere pe picior. Și stângul la fel.\nSPEAKER_01: La fel.\nSPEAKER_00: Lasègue negativ bilateral. Bun. Ce putem spune deocamdată este că avem o lombalgie mecanică, cel mai probabil legată de postura prelungită la birou. Musculatura paravertebrală e contractată, în special pe stânga. Nu avem iradiere, nu avem semne de afectare radiculară. Obiectivul nostru va fi să reducem contractura musculară, să îmbunătățim mobilitatea lombară și să corectăm puțin postura ca să nu se repete.\nSPEAKER_01: Da, bine.\nSPEAKER_00: O să lucrăm și câteva exerciții simple pe care le puteți face acasă. Ok?\nSPEAKER_01: Ok.",
+  "note": {
+    "motivul_prezentarii": "Pacient contabil acuză durere lombară și lombosacrală de aproximativ două săptămâni, apărută în contextul statului prelungit la birou. Durere la ridicarea de pe scaun și dimineața la sculare, cu ameliorare parțială după câteva minute. VAS 5/10. Fără iradiere pe membre inferioare, fără amorțeli. Episod similar mai ușor acum doi ani, remis spontan.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar",
+      "sacral_coccis"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nTensionare paravertebrală pe partea stângă vizibilă în ortostatism. Durere la flexia lombară anterioară, mai redusă la extensie. Sensibilitate la palpare lombar și sacral. Test Lasègue negativ bilateral.\nDiagnostic:\nLombalgie mecanică, cel mai probabil postural-profesională (statul prelungit la birou). Contractură musculară paravertebrală predominant stângă. Fără semne de afectare radiculară.\nObiective terapeutice:\nReducerea contracturii musculare paravertebrale; îmbunătățirea mobilității lombare; corectarea posturii; exerciții de efectuat acasă pentru prevenirea recidivelor."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Mai jos. Aici, zona asta.",
+      "Am stat mult la birou. Mai mult decât de obicei.",
+      "Mai mult când mă ridic de pe scaun. Sau dimineața când mă scol.",
+      "Vreo două săptămâni.",
+      "Acum doi ani, ceva mai ușor.",
+      "Nu. Rămâne acolo.",
+      "Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Zona lombară, în jur de brâu și sub brâu.",
+      "Apăs puțin aici, pe zona lombară. Doare?",
+      "Da, acolo exact.",
+      "Și mai jos, spre sacral?",
+      "Da, și acolo un pic."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară tensionare pe partea stângă paravertebral.",
+      "Doare la flexie, deci.",
+      "Lasègue negativ bilateral.",
+      "avem o lombalgie mecanică, cel mai probabil legată de postura prelungită la birou. Musculatura paravertebrală e contractată, în special pe stânga. Nu avem iradiere, nu avem semne de afectare radiculară. Obiectivul nostru va fi să reducem contractura musculară, să îmbunătățim mobilitatea lombară și să corectăm puțin postura ca să nu se repete.",
+      "O să lucrăm și câteva exerciții simple pe care le puteți face acasă."
+    ]
+  }
+}

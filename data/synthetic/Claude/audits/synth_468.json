@@ -1,0 +1,46 @@
+{
+  "conversation_id": "synth_468",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare genunchiul, ăsta din dreapta. De ceva vreme deja.",
+      "Vreo două luni, poate mai mult. A început ușor, și acum parcă se agravează.",
+      "la coborât e mai rău",
+      "după vreo jumătate de oră începe să mă doară din nou"
+    ],
+    "evaluarea_durerii_vas": [
+      "Pe scări... pe la 7, să zic. Sau poate 6-7, nu știu exact.",
+      "În repaus e suportabil, vreo 2, poate 3."
+    ],
+    "localizarea_durerii": [
+      "Mă doare genunchiul, ăsta din dreapta."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am avut o fractură la gleznă, la piciorul stâng, acum vreo zece ani.",
+      "Nu, nu operație. Cu ghips, vreo șase săptămâni, și gata."
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd că la mers aveți un ușor antalgism pe dreapta, ocoliți puțin genunchiul.",
+      "Pe linia articulară medială. Și dacă apăs sub rotulă?",
+      "deci flexia e limitată. Și extensia, îl îndreptați complet?",
+      "tabloul clinic pe care îl văd acum arată o iritație la nivelul meniscului medial, posibil și la nivelul cartilajului rotulian",
+      "să reducem inflamația din articulație, să lucrăm musculatura din jurul genunchiului, cvasii și ischio-gambieri"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14094,
+    "inference_geo": "global",
+    "input_tokens": 353,
+    "output_tokens": 3506,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

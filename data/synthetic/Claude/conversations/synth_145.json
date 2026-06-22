@@ -1,0 +1,241 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, doamna."
+    },
+    {
+      "start": 1.26,
+      "end": 15.32,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua. Scuzați că am întârziat un pic, am venit cu metroul și știți cum e, o linie era blocată și am stat vreo douăzeci de minute în tunel, nici nu știam dacă mai ajung."
+    },
+    {
+      "start": 15.44,
+      "end": 18.48,
+      "speaker": "SPEAKER_00",
+      "text": "Nici o problemă. Spuneți-mi numele, vă rog."
+    },
+    {
+      "start": 18.6,
+      "end": 19.4,
+      "speaker": "SPEAKER_01",
+      "text": "Ionescu Mihaela."
+    },
+    {
+      "start": 19.52,
+      "end": 20.32,
+      "speaker": "SPEAKER_00",
+      "text": "Și vârsta?"
+    },
+    {
+      "start": 20.44,
+      "end": 25.38,
+      "speaker": "SPEAKER_01",
+      "text": "38 de ani. Tânără încă, nu? Deși mă simt de vreo optzeci acum."
+    },
+    {
+      "start": 25.5,
+      "end": 27.4,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem?"
+    },
+    {
+      "start": 27.52,
+      "end": 46.14,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare gâtul îngrozitor, cervicalele, și capul, adică la ceafă mai ales. Și am dureri de cap din cauza asta, cel puțin asta cred eu. Am zis că poate e de la stres, că am multă treabă la birou, stau toată ziua la calculator, dar nu trece deloc."
+    },
+    {
+      "start": 46.26,
+      "end": 47.4,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp?"
+    },
+    {
+      "start": 47.52,
+      "end": 64.24,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo trei săptămâni. Dar de fapt mai demult îl simt, poate două luni, numai că în ultimele trei săptămâni s-a agravat. Inițial era mai mult dimineața, mă trezeam cu gâtul țeapăn, ziceam că am dormit prost și gata. Acum e tot timpul."
+    },
+    {
+      "start": 64.36,
+      "end": 68.16,
+      "speaker": "SPEAKER_00",
+      "text": "Doare și pe umăr sau strict pe gât și ceafă?"
+    },
+    {
+      "start": 68.28,
+      "end": 83.48,
+      "speaker": "SPEAKER_01",
+      "text": "Și pe umăr, da, pe partea dreaptă. Ăla e mai mult o tensiune, știți, ca și cum ar fi ceva încordat acolo. Și uneori simt că îmi merge până în omoplat, pe partea dreaptă. Dar gâtul e cel mai rău."
+    },
+    {
+      "start": 83.6,
+      "end": 92.34,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare îngrozitor, câte dați durerii de acum?"
+    },
+    {
+      "start": 92.46,
+      "end": 104.24,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, în momentul ăsta? Aș zice un 6. Dar dimineața când mă trezesc poate fi și 8, că nu pot să-mi întorc capul deloc. Seara după birou iarăși 7-8."
+    },
+    {
+      "start": 104.36,
+      "end": 107.02,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți amorțeli pe braț sau pe mână?"
+    },
+    {
+      "start": 107.14,
+      "end": 120.44,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, amorțeli nu. Adică uneori simt că îmi gâdilă puțin degetele, dar nu știu dacă e asta sau e de la faptul că stau pe calculator cu mâna pe mouse tot timpul. Nu știu sigur."
+    },
+    {
+      "start": 120.56,
+      "end": 123.22,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Luați vreun medicament în prezent?"
+    },
+    {
+      "start": 123.34,
+      "end": 139.68,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat Nurofen când mă durea foarte tare, câte unul-două, dar nu în fiecare zi. Nu e medicație fixă. Și mai iau Magne B6, că mi-a zis o colegă că e bun pentru stres și mușchi. Astea-s tot ce iau."
+    },
+    {
+      "start": 139.8,
+      "end": 141.32,
+      "speaker": "SPEAKER_00",
+      "text": "Doza de Magne B6?"
+    },
+    {
+      "start": 141.44,
+      "end": 143.72,
+      "speaker": "SPEAKER_01",
+      "text": "Câte o pastilă pe zi, dimineața."
+    },
+    {
+      "start": 143.84,
+      "end": 147.26,
+      "speaker": "SPEAKER_00",
+      "text": "Alte afecțiuni, tensiune arterială, diabet, probleme la coloană diagnosticate?"
+    },
+    {
+      "start": 147.38,
+      "end": 164.1,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune nu am, diabet nu. Am tensiunea mică uneori, dar nu e diagnosticată nimic. Ah, și mi-a spus medicul de familie că am o ușoară cifoză toracală, de la postura de la birou probabil. Dar nu am facut nimic pentru asta pana acum."
+    },
+    {
+      "start": 164.22,
+      "end": 167.26,
+      "speaker": "SPEAKER_00",
+      "text": "Cifoză toracală, da. Și coloana lombară, vă doare?"
+    },
+    {
+      "start": 167.38,
+      "end": 177.26,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, lombarul nu. Adică dacă stau mult în picioare mă mai obosește, dar nu aș spune că doare. Nu ăla e motivul pentru care am venit."
+    },
+    {
+      "start": 177.38,
+      "end": 178.52,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale, fracturi?"
+    },
+    {
+      "start": 178.64,
+      "end": 190.42,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Ah, ba da, am avut o fractură la mâna dreaptă acum vreo zece ani, la pumn, de la o căzătură, dar s-a vindecat complet. Nu știu dacă contează."
+    },
+    {
+      "start": 190.54,
+      "end": 195.48,
+      "speaker": "SPEAKER_00",
+      "text": "Mulțumesc. Haideți să vă ridic puțin în picioare, vreau să văd cum stați."
+    },
+    {
+      "start": 195.6,
+      "end": 208.52,
+      "speaker": "SPEAKER_01",
+      "text": "Sigur, sigur. Vă spun că mă și tem un pic, o prietenă mi-a zis că i-ați trosnit gâtul și i-a fost frică, sper că nu... adică știu că e normal, dar."
+    },
+    {
+      "start": 208.64,
+      "end": 216.24,
+      "speaker": "SPEAKER_00",
+      "text": "O să vă explic tot ce facem înainte, nu vă faceți griji. Priviți înainte... acum întoarceți capul spre dreapta, ușor."
+    },
+    {
+      "start": 216.36,
+      "end": 218.64,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, mai mult doare."
+    },
+    {
+      "start": 218.76,
+      "end": 219.9,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Spre stânga."
+    },
+    {
+      "start": 220.02,
+      "end": 221.92,
+      "speaker": "SPEAKER_01",
+      "text": "Asta merge mai bine, da."
+    },
+    {
+      "start": 222.04,
+      "end": 226.98,
+      "speaker": "SPEAKER_00",
+      "text": "Văd o restricție clară de rotație spre dreapta. Aplecați capul spre umărul drept."
+    },
+    {
+      "start": 227.1,
+      "end": 228.62,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, acolo trage."
+    },
+    {
+      "start": 228.74,
+      "end": 230.26,
+      "speaker": "SPEAKER_00",
+      "text": "Dă și în umăr?"
+    },
+    {
+      "start": 230.38,
+      "end": 231.9,
+      "speaker": "SPEAKER_01",
+      "text": "Da, chiar acum da."
+    },
+    {
+      "start": 232.02,
+      "end": 248.74,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Deci avem o tensionare a musculaturii cervicale, mai ales pe partea dreaptă, cu iradiere spre umărul drept și omoplat. Mobilitatea rotatorie spre dreapta e limitată. O să începem cu relaxarea musculaturii cervicale și a trapezului, și urmărim cum evoluează în două-trei ședințe."
+    },
+    {
+      "start": 248.86,
+      "end": 251.52,
+      "speaker": "SPEAKER_01",
+      "text": "Și durerile de cap dispar și ele?"
+    },
+    {
+      "start": 251.64,
+      "end": 258.1,
+      "speaker": "SPEAKER_00",
+      "text": "Cel mai probabil da, odată ce reducem tensiunea musculară din zonă. Haideți să ne așezăm pe masă."
+    }
+  ]
+}

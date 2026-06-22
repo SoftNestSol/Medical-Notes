@@ -1,0 +1,50 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: A apărut brusc sau treptat?\nSPEAKER_01: Treptat, parcă.\nSPEAKER_00: A existat vreun efort, vreo mișcare mai bruscă, ceva ce ați făcut înainte să apară?\nSPEAKER_01: Am mutat niște cutii mai grele la serviciu.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum estimați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Ce mișcare o agravează cel mai tare?\nSPEAKER_01: Când ridic brațul sus.\nSPEAKER_00: Și când dormiți pe partea stângă?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Se lasă durerea și pe braț, pe cot, pe mână?\nSPEAKER_01: Nu, stă fix în umăr.\nSPEAKER_00: Amorțeli nu simțiți?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Vreun accident, vreo căzătură?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Vă întreb câteva lucruri de rutină. Tensiune arterială, diabet, ceva de felul ăsta?\nSPEAKER_01: Nu am nimic.\nSPEAKER_00: Bun. Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici antiinflamatoare, nimic?\nSPEAKER_01: Nimic.\nSPEAKER_00: Ok, înțeles. Haideți să facem câteva teste. Ridicați brațul stâng în față, încet. Doare?\nSPEAKER_01: Da, pe la jumătate în sus.\nSPEAKER_00: Deci durere la abducție activă, în arcul de mișcare de la aproximativ 60 de grade în sus. Acum duceți brațul lateral, tot în sus.\nSPEAKER_01: Tot acolo doare.\nSPEAKER_00: Înțeleg. Stați puțin, apăs aici pe zona de sub acromion. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și mai spre față, pe tendoanele de aici?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Bun. Vă spun ce observ. Avem o inflamație la nivelul tendonului supraspinat, posibil și o afectare a bursei subacromiale. Asta explică durerea la ridicarea brațului și noaptea pe partea stângă. Cel mai probabil a declanșat-o efortul cu cutiile acelea. O să lucrăm pe reducerea inflamației și pe mobilitatea umărului, ca să reveniți la normal.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă doare și în repaus complet, când nu faceți nimic?\nSPEAKER_01: Rar.\nSPEAKER_00: Dar dimineața, la trezire?\nSPEAKER_01: Un pic, la început.\nSPEAKER_00: Cedează după ce vă mișcați puțin?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Haideți pe masă să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere la nivelul umărului stâng, instalată treptat în ultimele două săptămâni, după un efort fizic (mutare cutii grele la serviciu). Durere predominant la mișcare (ridicarea brațului), agravată și în decubit pe partea stângă și dimineața la trezire (cedează la încălzire). Fără iradiere, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații funcționale:\nDurere la abducție activă a brațului stâng în arcul de mișcare de la aproximativ 60 de grade în sus, atât în flexie cât și în abducție laterală. Sensibilitate la palpare în zona subacromială și pe tendoanele anterioare ale umărului stâng.\nDiagnostic:\nInflamație tendon supraspinat, posibilă afectare bursă subacromială stângă.\nObiective terapeutice:\nReducerea inflamației și recuperarea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "De vreo două săptămâni.",
+      "Treptat, parcă.",
+      "Am mutat niște cutii mai grele la serviciu.",
+      "Mai mult la mișcare.",
+      "Când ridic brațul sus.",
+      "Da, și atunci.",
+      "Nu, stă fix în umăr.",
+      "Nu.",
+      "Un pic, la început.",
+      "Da."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "durere la abducție activă, în arcul de mișcare de la aproximativ 60 de grade în sus",
+      "Tot acolo doare.",
+      "Avem o inflamație la nivelul tendonului supraspinat, posibil și o afectare a bursei subacromiale.",
+      "O să lucrăm pe reducerea inflamației și pe mobilitatea umărului, ca să reveniți la normal.",
+      "apăs aici pe zona de sub acromion. Doare?",
+      "Da, și acolo."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Dumitru.\nSPEAKER_00: Și prenumele?\nSPEAKER_01: Constantin.\nSPEAKER_00: Mulțumesc, domnule Constantin. Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Treptat, cred.\nSPEAKER_00: Am înțeles. Doare doar în zona gâtului sau se lasă și în umăr, în braț?\nSPEAKER_01: Și în umăr. Dreapta.\nSPEAKER_00: Umărul drept. Mai jos de umăr se lasă, pe braț, pe degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare acum?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Și când e mai rău, când e mai bine?\nSPEAKER_01: Dimineața e mai rău. Când mă scol.\nSPEAKER_00: Dimineața. Lucrați la birou, la calculator?\nSPEAKER_01: Da.\nSPEAKER_00: Mult timp pe zi?\nSPEAKER_01: Vreo opt ore.\nSPEAKER_00: Opt ore. Și capul cum îl țineți de obicei, drept sau mai aplecat?\nSPEAKER_01: Aplecat, probabil.\nSPEAKER_00: Probabil aplecat în față. Am înțeles. Tensiune, diabet, epilepsie, alte afecțiuni?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi, accidente?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să fac câteva teste. Ridicați-vă, vă rog.\nSPEAKER_01: Ok.\nSPEAKER_00: Voi apăsa ușor pe zona cervicală. Spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Doare chiar la baza gâtului, da?\nSPEAKER_01: Da.\nSPEAKER_00: Și sus, mai aproape de ceafă?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Am înțeles. Înclinați-vă capul ușor spre dreapta.\nSPEAKER_01: Doare.\nSPEAKER_00: Doare când înclinați spre dreapta. Și spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bine. Rotație spre dreapta, ușor.\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Se duce durerea și în umărul drept când rotiți?\nSPEAKER_01: Da.\nSPEAKER_00: Am înțeles. Ce vă pot spune este că avem o contractură musculară la nivel cervical, cu iradiere spre umărul drept, cel mai probabil din cauza posturii la birou, capul aplecat față de ecran. Trapezul și mușchii scaleni sunt afectați. Va trebui să reducem această contractură și să lucrăm la mobilitatea cervicală. Haideți pe masă, vă rog.\nSPEAKER_01: Ok.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicala cu iradiere in umar drept",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: - Contractura musculara cervicala;\n- Iradiere umar drept;\n- Afectare trapez si scaleni\nObiective terapeutice: - Reducerea contracturii;\n- Cresterea mobilitatii cervicale"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "Și în umăr. Dreapta."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și în umăr. Dreapta."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o contractură musculară la nivel cervical, cu iradiere spre umărul drept, cel mai probabil din cauza posturii la birou, capul aplecat față de ecran. Trapezul și mușchii scaleni sunt afectați. Va trebui să reducem această contractură și să lucrăm la mobilitatea cervicală."]
+  }
+}

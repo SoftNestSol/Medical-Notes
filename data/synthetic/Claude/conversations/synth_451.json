@@ -1,0 +1,361 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 3.74,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi numele, vă rog."
+    },
+    {
+      "start": 3.86,
+      "end": 4.66,
+      "speaker": "SPEAKER_01",
+      "text": "Radu Ionescu."
+    },
+    {
+      "start": 4.78,
+      "end": 5.58,
+      "speaker": "SPEAKER_00",
+      "text": "Și vârsta?"
+    },
+    {
+      "start": 5.7,
+      "end": 6.5,
+      "speaker": "SPEAKER_01",
+      "text": "38."
+    },
+    {
+      "start": 6.62,
+      "end": 9.66,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem astăzi, domnule Ionescu?"
+    },
+    {
+      "start": 9.78,
+      "end": 10.92,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare umărul."
+    },
+    {
+      "start": 11.04,
+      "end": 11.84,
+      "speaker": "SPEAKER_00",
+      "text": "Care umăr?"
+    },
+    {
+      "start": 11.96,
+      "end": 12.76,
+      "speaker": "SPEAKER_01",
+      "text": "Dreptul."
+    },
+    {
+      "start": 12.88,
+      "end": 13.68,
+      "speaker": "SPEAKER_00",
+      "text": "De când?"
+    },
+    {
+      "start": 13.8,
+      "end": 14.94,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo două săptămâni."
+    },
+    {
+      "start": 15.06,
+      "end": 18.48,
+      "speaker": "SPEAKER_00",
+      "text": "A apărut după ceva anume, o mișcare, un efort?"
+    },
+    {
+      "start": 18.6,
+      "end": 19.74,
+      "speaker": "SPEAKER_01",
+      "text": "Am mutat mobilă."
+    },
+    {
+      "start": 19.86,
+      "end": 24.04,
+      "speaker": "SPEAKER_00",
+      "text": "Aha. Și în momentul ăla a apărut durerea sau mai târziu?"
+    },
+    {
+      "start": 24.16,
+      "end": 25.3,
+      "speaker": "SPEAKER_01",
+      "text": "A doua zi."
+    },
+    {
+      "start": 25.42,
+      "end": 29.6,
+      "speaker": "SPEAKER_00",
+      "text": "A doua zi. Deci a apărut treptat, nu brusc pe loc."
+    },
+    {
+      "start": 29.72,
+      "end": 30.52,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 30.64,
+      "end": 32.92,
+      "speaker": "SPEAKER_00",
+      "text": "Doare constant sau doar la mișcare?"
+    },
+    {
+      "start": 33.04,
+      "end": 34.18,
+      "speaker": "SPEAKER_01",
+      "text": "Când ridic brațul."
+    },
+    {
+      "start": 34.3,
+      "end": 38.48,
+      "speaker": "SPEAKER_00",
+      "text": "Până unde reușiți să ridicați, mai sus de umăr, mai jos?"
+    },
+    {
+      "start": 38.6,
+      "end": 43.16,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe la... nu știu, la nivelul umărului, mai sus doare rău."
+    },
+    {
+      "start": 43.28,
+      "end": 45.94,
+      "speaker": "SPEAKER_00",
+      "text": "Deci peste orizontală nu mai puteți, practic."
+    },
+    {
+      "start": 46.06,
+      "end": 46.86,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 46.98,
+      "end": 50.02,
+      "speaker": "SPEAKER_00",
+      "text": "Noaptea vă deranjează? Dacă dormiți pe umărul drept?"
+    },
+    {
+      "start": 50.14,
+      "end": 51.28,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mă trezesc."
+    },
+    {
+      "start": 51.4,
+      "end": 60.14,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e cel mai rău, cât ați pune?"
+    },
+    {
+      "start": 60.26,
+      "end": 61.06,
+      "speaker": "SPEAKER_01",
+      "text": "Un 6."
+    },
+    {
+      "start": 61.18,
+      "end": 65.74,
+      "speaker": "SPEAKER_00",
+      "text": "Un 6. Și noaptea, când vă treziți, tot 6 sau mai mult?"
+    },
+    {
+      "start": 65.86,
+      "end": 67.38,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult, un 8."
+    },
+    {
+      "start": 67.5,
+      "end": 72.44,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Durerea rămâne în umăr sau se lasă și pe braț în jos?"
+    },
+    {
+      "start": 72.56,
+      "end": 73.36,
+      "speaker": "SPEAKER_01",
+      "text": "Rămâne acolo."
+    },
+    {
+      "start": 73.48,
+      "end": 76.14,
+      "speaker": "SPEAKER_00",
+      "text": "Nu aveți amorțeală pe braț, pe degete?"
+    },
+    {
+      "start": 76.26,
+      "end": 77.06,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 77.18,
+      "end": 79.46,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Spuneți-mi, ce muncă faceți?"
+    },
+    {
+      "start": 79.58,
+      "end": 80.72,
+      "speaker": "SPEAKER_01",
+      "text": "Stau la birou."
+    },
+    {
+      "start": 80.84,
+      "end": 85.4,
+      "speaker": "SPEAKER_00",
+      "text": "La birou, deci mult pe calculator. Cu ce mână folosiți mouse-ul?"
+    },
+    {
+      "start": 85.52,
+      "end": 86.32,
+      "speaker": "SPEAKER_01",
+      "text": "Cu dreapta."
+    },
+    {
+      "start": 86.44,
+      "end": 92.52,
+      "speaker": "SPEAKER_00",
+      "text": "Cu dreapta, da. Și stați mult cu mâna ridicată sau cu cotul în aer când lucrați?"
+    },
+    {
+      "start": 92.64,
+      "end": 94.92,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, nu m-am gândit."
+    },
+    {
+      "start": 95.04,
+      "end": 99.98,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, o să verificăm și postura. Aveți tensiune, diabet, osteoporoză, vreo altă afecțiune?"
+    },
+    {
+      "start": 100.1,
+      "end": 100.9,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 101.02,
+      "end": 103.68,
+      "speaker": "SPEAKER_00",
+      "text": "Nicio operație, nicio fractură la umărul ăsta?"
+    },
+    {
+      "start": 103.8,
+      "end": 104.6,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 104.72,
+      "end": 106.62,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament în prezent?"
+    },
+    {
+      "start": 106.74,
+      "end": 107.54,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 107.66,
+      "end": 117.54,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ridicați-vă puțin, stați cu brațele pe lângă corp. O să vă rog să ridicați brațul drept în față, încet. Spuneți-mi când apare durerea."
+    },
+    {
+      "start": 117.66,
+      "end": 118.46,
+      "speaker": "SPEAKER_01",
+      "text": "Acum."
+    },
+    {
+      "start": 118.58,
+      "end": 121.62,
+      "speaker": "SPEAKER_00",
+      "text": "La aproximativ 70 de grade. Și dacă continuăm?"
+    },
+    {
+      "start": 121.74,
+      "end": 123.26,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, asta doare."
+    },
+    {
+      "start": 123.38,
+      "end": 129.46,
+      "speaker": "SPEAKER_00",
+      "text": "Arc dureros prezent. O să apăs acum pe zona de sub acromion, spuneți-mi dacă doare."
+    },
+    {
+      "start": 129.58,
+      "end": 130.72,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo exact."
+    },
+    {
+      "start": 130.84,
+      "end": 133.88,
+      "speaker": "SPEAKER_00",
+      "text": "Exact acolo. Și dacă apăs pe tendonul bicepsului?"
+    },
+    {
+      "start": 134.0,
+      "end": 134.8,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 134.92,
+      "end": 137.96,
+      "speaker": "SPEAKER_00",
+      "text": "Mai puțin. Rotați brațul spre exterior, ușor... doare?"
+    },
+    {
+      "start": 138.08,
+      "end": 138.88,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic."
+    },
+    {
+      "start": 139.0,
+      "end": 157.62,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Tabloul pare destul de clar. Avem o inflamație la nivelul tendoanelor manșetei rotatorilor, cel mai probabil supraspinosul, agravată de postura la birou și de efortul cu mutatul mobilei. Obiectivul nostru va fi să reducem inflamația, să recăpătăm amplitudinea de mișcare și să vedem cum poziționăm brațul când lucrați."
+    },
+    {
+      "start": 157.74,
+      "end": 158.54,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 158.66,
+      "end": 160.56,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți pe masă, vă rog."
+    }
+  ]
+}

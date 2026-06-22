@@ -1,0 +1,54 @@
+{
+  "conversation_id": "synth_149",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare... undeva pe la spate, pe partea asta, cam de vreo câteva săptămâni",
+      "Stau foarte mult pe scaun la serviciu, probabil de aia",
+      "mai ales lombarul mă deranjează"
+    ],
+    "evaluarea_durerii_vas": [
+      "Cam pe la... nu știu, pe la un 5, 6, ceva de genul",
+      "Dimineața e mai rău, poate un 7, nu știu sigur"
+    ],
+    "localizarea_durerii": [
+      "Mai degrabă pe la mijloc, jos, pe aici",
+      "uneori mai simt ceva și mai sus",
+      "Pe la mijlocul spatelui, nu chiar sus la gât. Undeva pe acolo, pe la omoplați poate"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt ceva și pe aici, pe partea stângă, pe fesă",
+      "câteodată parcă simt ceva pe coapsă dar trece repede"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Mi s-a zis că am tensiune un pic mai mare",
+      "mi-a spus medicul că am o mică hernie de disc"
+    ],
+    "antecedente_altele": [
+      "Am avut o operație de apendicită acum mulți ani"
+    ],
+    "medicatie_actuala": [
+      "Perindopril, cred că se numesc. Iau o pastilă pe zi dimineața",
+      "Mai iau uneori câte un ibuprofen când mă doare prea tare spatele, dar nu în fiecare zi"
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți o ușoară înclinare a bazinului spre stânga și o tensionare evidentă pe toată zona lombară",
+      "Mușchii paravertebrali sunt contractați bilateral, mai mult pe stânga",
+      "Piriformul stâng este și el sensibil",
+      "obiectivul principal va fi să reducem contractura musculară și inflamația, ca să avem o bază mai bună pentru mobilizare"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13612,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3588,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

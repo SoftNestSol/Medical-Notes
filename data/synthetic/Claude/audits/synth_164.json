@@ -1,0 +1,42 @@
+{
+  "conversation_id": "synth_164",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "parcă am ridicat ceva greu la muncă",
+      "De vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo șase."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Rămâne acolo."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau un Nurofen din când în când, când nu mai suport."
+    ],
+    "evaluare_functionala_initiala": [
+      "Doare undeva pe la 90 de grade, cam pe la orizontală.",
+      "Chiar pe tendonul supraspinos.",
+      "avem o limitare la ridicarea brațului atât în față cât și lateral, cu durere locală la nivelul tendonului supraspinos. O să lucrăm să reducem inflamația și să recăpătăm mobilitatea umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13883,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1612,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "conversation_id": "synth_148",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, de mai multă vreme deja",
+      "Mai mult jos, da, da, în partea de jos. Dar uneori simt ceva și mai sus, cam pe la mijloc.",
+      "mă doare și ceafa, și câteodată capul, mai ales spre seară"
+    ],
+    "evaluarea_durerii_vas": [
+      "poate un 4, un 5... pe la mijloc, ceva",
+      "Atunci poate un 7, ceva de genul."
+    ],
+    "localizarea_durerii": [
+      "Mai mult jos, da, da, în partea de jos",
+      "uneori simt ceva și mai sus, cam pe la mijloc",
+      "mă doare și ceafa, și câteodată capul, mai ales spre seară"
+    ],
+    "localizarea_durerii_alta": [
+      "câteodată simt ceva pe partea stângă, pe acolo pe fesă"
+    ],
+    "antecedente": [
+      "Da, am tensiune, iau pastile pentru asta de vreo doi ani."
+    ],
+    "antecedente_altele": [
+      "Am avut apendicele scos acum mulți ani"
+    ],
+    "medicatie_actuala": [
+      "Știu că e Enalapril, da, Enalapril. Mi-a dat doctorul 10 miligrame.",
+      "Mai iau uneori ceva pentru durere, când nu mai suport, un Ibuprofen.",
+      "Nu știu exact, ce am în casă, 400 poate."
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți umerii puțin aduși în față, o postură mai aplecată în față.",
+      "Mobilitate lombară redusă la flexie, ajunge la genunchi.",
+      "Rotația spre stânga provoacă durere.",
+      "Pe paravertebralii stângi, în zona lombară superioară.",
+      "Tensiune musculară cervicală prezentă.",
+      "avem o contractură musculară destul de serioasă pe zona lombară, mai accentuată pe stânga, și o tensiune musculară la nivel cervical",
+      "O să lucrăm în prima fază să reducem contractura, să îmbunătățim mobilitatea lombară și să relaxăm musculatura cervicală."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13612,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3736,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

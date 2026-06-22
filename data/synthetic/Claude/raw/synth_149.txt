@@ -1,0 +1,65 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamnă!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cum vă numiți?\nSPEAKER_01: Ionescu Mihaela.\nSPEAKER_00: Ionescu Mihaela, bun. Și vârsta, dacă se poate?\nSPEAKER_01: Am 47 de ani.\nSPEAKER_00: Mulțumesc. Și cu ce problemă ne vedem astăzi, doamna Ionescu?\nSPEAKER_01: Păi, mă doare... undeva pe la spate, pe partea asta, cam de vreo câteva săptămâni. Nu știu exact cum să zic, e un fel de... mă ține, mă strânge.\nSPEAKER_00: Pe la spate, adică mai sus, mai jos, pe mijloc?\nSPEAKER_01: Mai degrabă pe la mijloc, jos, pe aici, undeva pe la... nu știu exact cum se numește.\nSPEAKER_00: Zona lombară, mai jos de talie.\nSPEAKER_01: Da, da, cam pe acolo. Și uneori mai simt ceva și mai sus, dar mai rar.\nSPEAKER_00: Mai sus, adică în zona umerilor, a toracelui, sau chiar sus?\nSPEAKER_01: Pe la mijlocul spatelui, nu chiar sus la gât. Undeva pe acolo, pe la omoplați poate.\nSPEAKER_00: Între omoplați, zona toracală.\nSPEAKER_01: Da, ceva de genul, dar mai rar zic, mai ales lombarul mă deranjează.\nSPEAKER_00: Bun. Și aceste dureri s-au instalat treptat sau au apărut brusc la un moment dat?\nSPEAKER_01: Treptat, cred. Adică nu am căzut, nu am ridicat nimic special, pur și simplu a început să mă doară din ce în ce mai tare. Stau foarte mult pe scaun la serviciu, probabil de aia.\nSPEAKER_00: Cât stați pe scaun în mod obișnuit pe zi?\nSPEAKER_01: Păi, opt, nouă ore, uneori chiar mai mult. Lucrez la calculator.\nSPEAKER_00: Înțeles. Și durerea se lasă undeva în jos, pe picior, pe fesă?\nSPEAKER_01: Uneori simt ceva și pe aici, pe partea stângă, pe fesă, dar nu știu dacă e legat sau nu.\nSPEAKER_00: Și mai departe de fesă coboară, spre coapsă, spre genunchi?\nSPEAKER_01: Nu știu... câteodată parcă simt ceva pe coapsă dar trece repede, nu sunt sigură. Poate îmi imaginez.\nSPEAKER_00: Ok, notăm și asta. Durerea este mai rea dimineața, seara, sau constant?\nSPEAKER_01: Dimineața mă trezesc și parcă mă ține, mă mișc greu vreo jumătate de oră. Și după ce stau mult pe scaun iar apare.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e durerea maximă, cât ați pune-o?\nSPEAKER_01: Hmm, nu știu, e greu de zis. Uneori e suportabilă, alteori mă enervează. Cam pe la... nu știu, pe la un 5, 6, ceva de genul.\nSPEAKER_00: Un 5-6. Dimineața când vă treziți?\nSPEAKER_01: Dimineața e mai rău, poate un 7, nu știu sigur.\nSPEAKER_00: Înțeles. Și ați mai avut această problemă în trecut sau e prima dată?\nSPEAKER_01: Am mai avut acum vreo doi ani ceva la spate, dar a trecut singur. Acum e mai persistent.\nSPEAKER_00: Ați făcut vreun tratament atunci, vreun RMN, radiografie?\nSPEAKER_01: Nu, nu am facut nimic atunci. De data asta am facut o radiografie acum vreo lună.\nSPEAKER_00: Aveți radiografia la dumneavoastră?\nSPEAKER_01: Nu am adus-o, am uitat. Dar mi-a spus medicul că am o mică hernie de disc.\nSPEAKER_00: O hernie de disc, bun, ați menționat asta. La ce nivel v-a spus, L4, L5, L5-S1?\nSPEAKER_01: Nu mai știu exact, undeva pe la baza spatelui mi-a zis. Nu am înțeles prea bine.\nSPEAKER_00: Ok. Alte afecțiuni mai aveți, cum ar fi tensiune arterială, diabet, osteoporoză, probleme la inimă?\nSPEAKER_01: Tensiune am, da. Mi s-a zis că am tensiune un pic mai mare, iau și pastile pentru asta.\nSPEAKER_00: Ce pastile luați pentru tensiune, știți cum se numesc?\nSPEAKER_01: Stai să mă gândesc... Perindopril, cred că se numesc. Iau o pastilă pe zi dimineața.\nSPEAKER_00: Perindopril, o dată pe zi. Orice altceva luați?\nSPEAKER_01: Mai iau uneori câte un ibuprofen când mă doare prea tare spatele, dar nu în fiecare zi.\nSPEAKER_00: Ibuprofen, la nevoie, bun. Altceva?\nSPEAKER_01: Nu, cred că atât.\nSPEAKER_00: Diabet?\nSPEAKER_01: Nu.\nSPEAKER_00: Osteoporoză diagnosticată?\nSPEAKER_01: Nu, nu mi s-a spus nimic.\nSPEAKER_00: Epilepsie, cancer, boli autoimune?\nSPEAKER_01: Nu, nu, nimic din astea.\nSPEAKER_00: Intervenții chirurgicale?\nSPEAKER_01: Am avut o operație de apendicită acum mulți ani. Atât.\nSPEAKER_00: Bun. Alergii la creme, unguente?\nSPEAKER_01: Nu știu, nu am folosit prea mult. Nu cred.\nSPEAKER_00: Bun. Haideți să facem câteva teste funcționale, dacă sunteți de acord. Ridicați-vă în picioare, vă rog.\nSPEAKER_01: Da.\nSPEAKER_00: Aplecați-vă ușor în față, cât puteți, fără să forțați.\nSPEAKER_01: Ah, da, aici apare, pe la spate jos.\nSPEAKER_00: Simțiți că se lasă și pe fesa stângă când vă aplecați?\nSPEAKER_01: Da, un pic, pe acolo.\nSPEAKER_00: Îndreptați-vă. Acum aplecați-vă ușor spre dreapta. Doare?\nSPEAKER_01: Nu prea, nu.\nSPEAKER_00: Spre stânga.\nSPEAKER_01: Ah, da, ici simț ceva, pe partea stângă jos.\nSPEAKER_00: Pe zona lombară stângă. Bun. Stați așa, nu vă mișcați. Voi apăsa acum pe mușchii paravertebrali. Spuneți-mi dacă doare.\nSPEAKER_01: Auuu, da, acolo e, pe stânga jos.\nSPEAKER_00: Pe stânga, zona lombară, piriform mai jos doare?\nSPEAKER_01: Da, și acolo ceva.\nSPEAKER_00: Bun. Mergeți câțiva pași, normal, stați pe piciorul stâng, vă simțiți bine în echilibru?\nSPEAKER_01: Cam da, dar mi se pare că mă înclini un pic.\nSPEAKER_00: Observ că aveți o ușoară înclinare a bazinului spre stânga și o tensionare evidentă pe toată zona lombară. Mușchii paravertebrali sunt contractați bilateral, mai mult pe stânga. Piriformul stâng este și el sensibil. Combinat cu hernia de disc pe care ați menționat-o, obiectivul principal va fi să reducem contractura musculară și inflamația, ca să avem o bază mai bună pentru mobilizare. Vom lucra progresiv, cu blândețe, mai ales că avem și tensiunea arterială în calcul.\nSPEAKER_01: Da, înțeleg. Și credeți că o să treacă?\nSPEAKER_00: Cu siguranță putem să îmbunătățim semnificativ, da. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară și toracală, instalată treptat, asociată cu poziție prelungită la birou",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": [
+      "lombar",
+      "toracal"
+    ],
+    "localizarea_durerii_alta": "fesier stâng, coapsă stângă",
+    "antecedente": [
+      "hipertensiune_arteriala",
+      "hernia_disc"
+    ],
+    "antecedente_altele": "apendicectomie în antecedente",
+    "medicatie_actuala": [
+      {
+        "denumire": "Perindopril",
+        "doza": "o pastilă pe zi dimineața"
+      },
+      {
+        "denumire": "Ibuprofen",
+        "doza": "la nevoie"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: ușoară înclinare a bazinului spre stânga; contractură paravertebrală bilaterală, predominant stânga; sensibilitate piriform stâng; hernie de disc în antecedente.\nObiective terapeutice: reducerea contracturii musculare și a inflamației; creșterea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare... undeva pe la spate, pe partea asta, cam de vreo câteva săptămâni",
+      "Stau foarte mult pe scaun la serviciu, probabil de aia",
+      "mai ales lombarul mă deranjează"
+    ],
+    "evaluarea_durerii_vas": [
+      "Cam pe la... nu știu, pe la un 5, 6, ceva de genul",
+      "Dimineața e mai rău, poate un 7, nu știu sigur"
+    ],
+    "localizarea_durerii": [
+      "Mai degrabă pe la mijloc, jos, pe aici",
+      "uneori mai simt ceva și mai sus",
+      "Pe la mijlocul spatelui, nu chiar sus la gât. Undeva pe acolo, pe la omoplați poate"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt ceva și pe aici, pe partea stângă, pe fesă",
+      "câteodată parcă simt ceva pe coapsă dar trece repede"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Mi s-a zis că am tensiune un pic mai mare",
+      "mi-a spus medicul că am o mică hernie de disc"
+    ],
+    "antecedente_altele": [
+      "Am avut o operație de apendicită acum mulți ani"
+    ],
+    "medicatie_actuala": [
+      "Perindopril, cred că se numesc. Iau o pastilă pe zi dimineața",
+      "Mai iau uneori câte un ibuprofen când mă doare prea tare spatele, dar nu în fiecare zi"
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți o ușoară înclinare a bazinului spre stânga și o tensionare evidentă pe toată zona lombară",
+      "Mușchii paravertebrali sunt contractați bilateral, mai mult pe stânga",
+      "Piriformul stâng este și el sensibil",
+      "obiectivul principal va fi să reducem contractura musculară și inflamația, ca să avem o bază mai bună pentru mobilizare"
+    ]
+  }
+}

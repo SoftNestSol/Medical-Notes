@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, cu ce vă pot ajuta?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și cum a apărut, ați făcut ceva anume, ați ridicat ceva?\nSPEAKER_01: Nu știu, m-am trezit dimineața și era.\nSPEAKER_00: Deci brusc, fără un traumatism clar.\nSPEAKER_01: Da.\nSPEAKER_00: Vă doare și când ridicați brațul în sus?\nSPEAKER_01: Da, nu pot să ridic.\nSPEAKER_00: Până unde reușiți să ridicați?\nSPEAKER_01: Până pe la nivelul umărului, mai sus nu.\nSPEAKER_00: Și noaptea vă deranjează, vă treziți din cauza durerii?\nSPEAKER_01: Uneori, da.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare în momentul în care ridicați brațul?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Și când stați liniștit, în repaus?\nSPEAKER_01: Vreo 3, 4.\nSPEAKER_00: Doare și pe braț în jos, spre cot?\nSPEAKER_01: Nu, doar acolo.\nSPEAKER_00: Amorțeli în mână sau degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Ridicați brațul stâng în față, încet.\nSPEAKER_01: Până aici.\nSPEAKER_00: Da, vedem că se oprește la vreo 80 de grade. Acum în lateral.\nSPEAKER_01: La fel, nu mai merge.\nSPEAKER_00: Doare mai tare în lateral sau în față?\nSPEAKER_01: În lateral.\nSPEAKER_00: Înțeleg. Acum puneți mâna la spate, ca și cum ați ajunge la buzunar.\nSPEAKER_01: Asta merge mai bine.\nSPEAKER_00: Bine. Apăs puțin aici pe zona de deasupra umărului, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare tare.\nSPEAKER_00: Deci avem o sensibilitate clară la palparea tendonului supraspinos. Pare o tendinopatie de supraspinat, posibil cu o mică bursită asociată. Obiectivul nostru va fi să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Cât durează?\nSPEAKER_00: Depinde cum răspundeți, dar în general câteva ședințe pentru început. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere la nivelul umărului stâng, instalată brusc acum două săptămâni fără traumatism clar, cu limitarea mobilității la abducție și flexie (până la aproximativ 80 de grade), durere nocturnă ocazională.",
+    "evaluarea_durerii_vas": [7, 3],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinopatie supraspinat stâng, posibil bursită asociată\nObiective terapeutice:\n- reducerea inflamației\n- recuperarea mobilității umărului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Vreo două săptămâni.", "m-am trezit dimineața și era.", "Uneori, da."],
+    "evaluarea_durerii_vas": ["Vreo 7.", "Vreo 3, 4."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu."],
+    "evaluare_functionala_initiala": ["Pare o tendinopatie de supraspinat, posibil cu o mică bursită asociată.", "Obiectivul nostru va fi să reducem inflamația și să recuperăm mobilitatea umărului.", "vedem că se oprește la vreo 80 de grade", "avem o sensibilitate clară la palparea tendonului supraspinos"]
+  }
+}

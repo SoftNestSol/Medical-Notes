@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am ridicat niște cutii la muncă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde îl situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Doar când mișc.\nSPEAKER_00: Când ridicați brațul în sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și când duceți mâna în spate?\nSPEAKER_01: Da, mai tare.\nSPEAKER_00: Doare și pe braț, se lasă undeva mai jos?\nSPEAKER_01: Nu, doar la umăr.\nSPEAKER_00: Amorțeală în mână, în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Afecțiuni cunoscute, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale la umăr vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați brațul stâng lateral pentru mine, până unde puteți.\nSPEAKER_01: Până aici cam.\nSPEAKER_00: Doare când ajungeți la nivelul ăsta?\nSPEAKER_01: Da.\nSPEAKER_00: Vedem o limitare la abducție, undeva la 90 de grade, și durere la mișcarea de rotație internă. Cel mai probabil avem o tendinită la nivelul coifului rotatorilor, probabil supraspinosul. Trebuie să reducem inflamația și să recuperăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng apărută după ridicat cutii la muncă, de aproximativ două săptămâni. Durere la mișcare, mai accentuată la rotație internă și la ducerea mâinii în spate.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinită coif rotatori stâng, posibil supraspinat\nObiective terapeutice:\n- reducerea inflamației; recuperarea mobilității"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Am ridicat niște cutii la muncă.", "Vreo două săptămâni.", "Da, mai tare."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Stângul.", "Nu, doar la umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Vedem o limitare la abducție, undeva la 90 de grade, și durere la mișcarea de rotație internă. Cel mai probabil avem o tendinită la nivelul coifului rotatorilor, probabil supraspinosul. Trebuie să reducem inflamația și să recuperăm mobilitatea."]
+  }
+}

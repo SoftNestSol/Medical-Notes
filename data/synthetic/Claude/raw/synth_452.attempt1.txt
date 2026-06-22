@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Gheorghe Matei.\nSPEAKER_00: Și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem astăzi, domnule Matei?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Umărul drept sau stâng?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo trei săptămâni.\nSPEAKER_00: S-a întâmplat ceva în momentul în care a apărut durerea? O lovitură, un efort mai mare?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Deci după un efort de ridicat. Și de atunci doare constant sau mai trece, mai vine?\nSPEAKER_01: Constant. Mai rău noaptea.\nSPEAKER_00: Mai rău noaptea. Vă treziți din somn?\nSPEAKER_01: Da.\nSPEAKER_00: Pe care parte dormiți de obicei?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Pe partea care doare. Asta agravează. Dacă stați pe spate sau pe stânga e mai bine?\nSPEAKER_01: Un pic mai bine, da.\nSPEAKER_00: Înțeles. Durerea stă în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Mai mult în umăr. Uneori pe aici.\nSPEAKER_00: Pe unde anume, pe față sau pe lateral?\nSPEAKER_01: Pe lateral, până la cot cam.\nSPEAKER_00: Până la cot. Și amorțeală avem în mână, în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, cât de tare doare în momentul ăsta?\nSPEAKER_01: Un 5.\nSPEAKER_00: Și noaptea când vă treziți?\nSPEAKER_01: 8.\nSPEAKER_00: 8, da, e semnificativ. Puteți să ridicați brațul drept deasupra capului?\nSPEAKER_01: Greu. Până aici.\nSPEAKER_00: Cam la 90 de grade. Și dacă încerc să-l duc mai sus doare?\nSPEAKER_01: Da, tare.\nSPEAKER_00: Înțeles. Spuneți-mi, munciți fizic sau stați mai mult la birou?\nSPEAKER_01: La birou.\nSPEAKER_00: La birou. Și brațul drept e mâna dominantă?\nSPEAKER_01: Da.\nSPEAKER_00: Deci o folosiți mult la mouse, la tastat.\nSPEAKER_01: Da.\nSPEAKER_00: Vă mai doare și în zona de gât sau doar umărul?\nSPEAKER_01: Numai umărul.\nSPEAKER_00: Ok. Tensiune, diabet, alte afecțiuni?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi la umăr vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați ceva medicamente în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă verific puțin umărul. Ridicați ușor brațul astfel... și spuneți-mi când apare durerea.\nSPEAKER_01: Acum.\nSPEAKER_00: La circa 80-90 de grade. Și dacă rotesc brațul intern, doare?\nSPEAKER_01: Da, mult.\nSPEAKER_00: Mult. Și extern?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Am înțeles. Acum apăs ușor aici, pe tendonul supraspinos. Doare local?\nSPEAKER_01: Da.\nSPEAKER_00: Deci avem o iritație la nivelul tendoanelor manșetei rotatorilor, cel mai probabil supraspinosul. Durerea apare în arc de mișcare între 80 și 120 de grade, semn clasic. Obiectivul nostru va fi să reducem inflamația de la tendon și să redobândim mobilitatea completă a umărului. Vom lucra și pe musculatura din jur, trapez, deltoid, să dezactivăm tensiunea acumulată.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă mai recomand să nu dormiți pe partea dreaptă în perioada asta.\nSPEAKER_01: Înțeles.\nSPEAKER_00: Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort de ridicat mobilier, cu iradiere laterala pana la cot, accentuata nocturn",
+    "evaluarea_durerii_vas": [5, 8],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": "lateral brat pana la cot",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Iritatie tendon supraspinos (manseta rotatorilor); arc dureros 80-120 grade; rotatie interna dureroasa mai mult decat rotatia externa; sensibilitate locala la palparea tendonului supraspinos.\nObiective terapeutice: reducerea inflamatiei tendonului; redobandirea mobilitatii complete a umarului; reducerea tensiunii in trapez si deltoid."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă.", "Mai rău noaptea.", "Pe lateral, până la cot cam."],
+    "evaluarea_durerii_vas": ["Un 5.", "8."],
+    "localizarea_durerii": ["Umărul drept sau stâng?", "Dreptul."],
+    "localizarea_durerii_alta": ["Pe lateral, până la cot cam."],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o iritație la nivelul tendoanelor manșetei rotatorilor, cel mai probabil supraspinosul", "Durerea apare în arc de mișcare între 80 și 120 de grade, semn clasic", "Obiectivul nostru va fi să reducem inflamația de la tendon și să redobândim mobilitatea completă a umărului", "Vom lucra și pe musculatura din jur, trapez, deltoid, să dezactivăm tensiunea acumulată."]
+  }
+}

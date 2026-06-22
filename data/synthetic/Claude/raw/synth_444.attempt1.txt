@@ -1,0 +1,40 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Florin Dănilă.\nSPEAKER_00: Florin Dănilă, și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem astăzi, domnule Dănilă?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Zona de cervical, sus la ceafă sau mai jos?\nSPEAKER_01: Sus, la ceafă mai mult.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Treptat.\nSPEAKER_00: Aveți vreo idee ce ar fi declanșat-o? Ați făcut vreun efort, ați dormit prost?\nSPEAKER_01: Nu știu, poate de la calculator. Stau mult la birou.\nSPEAKER_00: Câte ore pe zi aproximativ?\nSPEAKER_01: Vreo opt, nouă ore.\nSPEAKER_00: Înțeles. Și durerea aceasta rămâne la ceafă sau se duce și în altă parte? Pe umăr, pe braț?\nSPEAKER_01: Uneori mă doare și capul.\nSPEAKER_00: Capul, în ce zonă? În față, în spate, pe lateral?\nSPEAKER_01: În spate, la ceafă tot.\nSPEAKER_00: Pe umeri nu se duce?\nSPEAKER_01: Nu.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare e durerea?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. E mai rea dimineața, seara, sau după ce stați mult la calculator?\nSPEAKER_01: După calculator.\nSPEAKER_00: Când vă ridicați de la birou simțiți că e mai înțepenit sau mai dureros?\nSPEAKER_01: Înțepenit, da.\nSPEAKER_00: Puteți să rotiți capul în ambele părți?\nSPEAKER_01: Da, dar puțin.\nSPEAKER_00: Care parte e mai grea?\nSPEAKER_01: Spre dreapta.\nSPEAKER_00: Spre dreapta. Înțeles. Aveți afecțiuni, tensiune, diabet, ceva de genul?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin în picioare, vă rog. Vreau să vă văd postura.\nSPEAKER_01: Ok.\nSPEAKER_00: Da, observ că umerii sunt ușor căzuți în față și capul e dus puțin înainte față de linia umerilor. Asta pune presiune pe zona cervicală.\nSPEAKER_00: Acum rotați ușor spre dreapta, cât puteți.\nSPEAKER_01: Până aici.\nSPEAKER_00: Doare când rotiți?\nSPEAKER_01: Da, trage.\nSPEAKER_00: Trage. Și spre stânga?\nSPEAKER_01: Mai bine.\nSPEAKER_00: Da. Acum apăs puțin pe mușchii de la ceafă, îmi spuneți dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Și pe trapez, pe partea dreaptă?\nSPEAKER_01: Da.\nSPEAKER_00: La fel și pe stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Deci trapezul drept e mai contractat. Bun. Vedeți că avem o tensiune musculară importantă la nivel cervical, mai ales pe dreapta, și postura de la birou contribuie mult. Vom lucra să reducem contractura și să refacem mobilitatea pe rotația spre dreapta. Haideți pe masă, vă rog.\nSPEAKER_01: Bine.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicala, ceafa, agravata de activitatea la calculator",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: - contractura musculara cervicala, trapez drept; postura antalgica cu proiectia capului anterior\nObiective terapeutice: - reducerea contracturii; refacerea mobilitatii pe rotatie dreapta"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "Sus, la ceafă mai mult.",
+      "poate de la calculator. Stau mult la birou."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Sus, la ceafă mai mult.",
+      "Uneori mă doare și capul.",
+      "În spate, la ceafă tot."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "observ că umerii sunt ușor căzuți în față și capul e dus puțin înainte față de linia umerilor",
+      "trapezul drept e mai contractat",
+      "Vom lucra să reducem contractura și să refacem mobilitatea pe rotația spre dreapta"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_363",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Am mutat niște mobilă.",
+      "De vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un șase.",
+      "Cam la fel, șase, șapte."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Rămâne sus, la umăr."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Până pe la orizontală, cam atât.",
+      "Da, acolo începe.",
+      "Da, doare.",
+      "Doare când fac asta.",
+      "Avem o sensibilitate clară pe tendonul supraspinosului și un arc dureros la abducție. Cel mai probabil este o tendinopatie a coafei rotatorilor, posibil cu o mică inflamație subacromială. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14094,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 1918,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

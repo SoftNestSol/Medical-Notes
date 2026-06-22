@@ -1,0 +1,52 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua! Scuzați că am întârziat un pic, am stat în trafic și... și am mai stat și la farmacie că mi-am luat niște ibuprofen, că tot mă doare și tot mă doare și nu știam ce să mai fac.\nSPEAKER_00: Nu-i nimic. Spuneți-mi cu ce problemă veniți.\nSPEAKER_01: Păi mă doare umărul, cel stâng. De vreo trei săptămâni acum. A început cam pe la jumătatea lunii trecute, după ce am zugrăvit la baie. Am stat cu mâna ridicată ore întregi și după aia a doua zi m-am trezit și nu mai puteam să ridic brațul deloc. M-am speriat îngrozitor, credeam că am pățit ceva grav.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Acum, în momentul ăsta, dacă stau liniștit, un 3, poate. Dar dacă ridic brațul sau mă întind după ceva, ajunge la un 7, chiar 8. Noaptea e cel mai rău, nu pot să dorm pe partea stângă deloc.\nSPEAKER_00: Doare și în altă parte, se lasă pe braț, pe gât?\nSPEAKER_01: Nu, nu, doar umărul. Ei, uneori simt ceva și până la cot, asa un fel de... nu știu, ca o greutate, dar durere durere nu e.\nSPEAKER_00: Ați mai avut vreo problemă la umărul ăsta înainte?\nSPEAKER_01: Nu, niciodată. Adică eu am tensiune, iau și pastile pentru asta, dar la umăr n-am pățit nimic. Și mă tot gândeam, bag seamă că am rupt ceva acolo, tendoane, nu știu... am văzut pe internet tot felul de chestii și m-am speriat și mai tare.\nSPEAKER_00: Ce medicamente luați pentru tensiune?\nSPEAKER_01: Iau Prestarium, 5 miligrame, în fiecare dimineață. Și ibuprofenul ăla acum, de două zile, dar nu prea mă ajută sincer.\nSPEAKER_00: Ok. Altceva mai luați?\nSPEAKER_01: Nu, atât.\nSPEAKER_00: Alte boli, diabet, probleme cu oasele?\nSPEAKER_01: Nu, nimic. Doar tensiunea asta de vreo cinci ani.\nSPEAKER_00: Haideți să vedem puțin mișcarea. Ridicați brațul înainte, încet.\nSPEAKER_01: Până aici pot... au, de aici doare.\nSPEAKER_00: Aproximativ 90 de grade. Și lateral?\nSPEAKER_01: La fel, cam la fel. Vai, chiar nu credeam că e atât de blocat, că acasă nu prea încerc să mișc de frică.\nSPEAKER_00: Înțeleg. Când duceți mâna la spate, doare?\nSPEAKER_01: Da, da, asta e cel mai rău. Nu ajung nici la centură.\nSPEAKER_00: Bun. Avem o limitare importantă a mobilității pe toate planurile, cu durere la capătul de amplitudine. Pare o tendinopatie sau o inflamație la nivelul coafei rotatorilor. O să lucrăm să reducem inflamația și să recuperăm mișcarea.\nSPEAKER_01: Deci nu e rupt nimic? Că eu mă tot gândeam că poate trebuie operație și...\nSPEAKER_00: Nu avem semne de ruptură completă. Rămâne de văzut evoluția, dar deocamdată tratăm conservator.\nSPEAKER_01: Slavă Domnului. Și cât timp durează, că am și o nuntă peste o lună și vreau să pot dansa?\nSPEAKER_00: Să vedem cum răspunde. Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang aparuta dupa efort cu bratul ridicat (zugravit), cu limitare marcata a mobilitatii si accentuare nocturna",
+    "evaluarea_durerii_vas": [3, 7],
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Prestarium",
+        "doza": "5 miligrame"
+      },
+      {
+        "denumire": "ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare importanta a mobilitatii pe toate planurile, cu durere la capat de amplitudine. Flexie anterioara aproximativ 90 de grade. Rotatie interna limitata (nu atinge centura). Diagnostic: tendinopatie / inflamatie coafa rotatori stang. Obiective terapeutice: reducerea inflamatiei si recuperarea mobilitatii."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel stâng. De vreo trei săptămâni acum. A început cam pe la jumătatea lunii trecute, după ce am zugrăvit la baie. Am stat cu mâna ridicată ore întregi"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în momentul ăsta, dacă stau liniștit, un 3, poate. Dar dacă ridic brațul sau mă întind după ceva, ajunge la un 7, chiar 8."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel stâng"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "eu am tensiune, iau și pastile pentru asta",
+      "Doar tensiunea asta de vreo cinci ani."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Prestarium, 5 miligrame, în fiecare dimineață.",
+      "ibuprofenul ăla acum, de două zile"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o limitare importantă a mobilității pe toate planurile, cu durere la capătul de amplitudine. Pare o tendinopatie sau o inflamație la nivelul coafei rotatorilor. O să lucrăm să reducem inflamația și să recuperăm mișcarea.",
+      "Aproximativ 90 de grade.",
+      "Nu ajung nici la centură."
+    ]
+  }
+}

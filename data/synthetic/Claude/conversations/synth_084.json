@@ -1,0 +1,337 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună."
+    },
+    {
+      "start": 1.84,
+      "end": 4.12,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 4.24,
+      "end": 5.38,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare genunchiul."
+    },
+    {
+      "start": 5.5,
+      "end": 7.4,
+      "speaker": "SPEAKER_00",
+      "text": "Care genunchi, dreptul sau stângul?"
+    },
+    {
+      "start": 7.52,
+      "end": 8.32,
+      "speaker": "SPEAKER_01",
+      "text": "Stângul."
+    },
+    {
+      "start": 8.44,
+      "end": 9.58,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp?"
+    },
+    {
+      "start": 9.7,
+      "end": 10.84,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo două săptămâni."
+    },
+    {
+      "start": 10.96,
+      "end": 14.76,
+      "speaker": "SPEAKER_00",
+      "text": "Și a apărut după ceva anume? O lovitură, un efort?"
+    },
+    {
+      "start": 14.88,
+      "end": 16.4,
+      "speaker": "SPEAKER_01",
+      "text": "Am alergat mai mult."
+    },
+    {
+      "start": 16.52,
+      "end": 18.8,
+      "speaker": "SPEAKER_00",
+      "text": "Deci după alergat a apărut durerea."
+    },
+    {
+      "start": 18.92,
+      "end": 19.72,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 19.84,
+      "end": 27.82,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde situați durerea?"
+    },
+    {
+      "start": 27.94,
+      "end": 28.74,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 5."
+    },
+    {
+      "start": 28.86,
+      "end": 32.28,
+      "speaker": "SPEAKER_00",
+      "text": "5. Doare constant sau doar când faceți anumite mișcări?"
+    },
+    {
+      "start": 32.4,
+      "end": 34.68,
+      "speaker": "SPEAKER_01",
+      "text": "Când merg mult sau urc scări."
+    },
+    {
+      "start": 34.8,
+      "end": 38.22,
+      "speaker": "SPEAKER_00",
+      "text": "Când urcați scările doare mai tare sau la coborât?"
+    },
+    {
+      "start": 38.34,
+      "end": 39.14,
+      "speaker": "SPEAKER_01",
+      "text": "La urcat."
+    },
+    {
+      "start": 39.26,
+      "end": 41.92,
+      "speaker": "SPEAKER_00",
+      "text": "Și când stați jos, în repaus, dispare?"
+    },
+    {
+      "start": 42.04,
+      "end": 43.18,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam da."
+    },
+    {
+      "start": 43.3,
+      "end": 47.86,
+      "speaker": "SPEAKER_00",
+      "text": "Doare mai mult în față la genunchi, în spate sau pe lateral?"
+    },
+    {
+      "start": 47.98,
+      "end": 49.12,
+      "speaker": "SPEAKER_01",
+      "text": "În față, aici."
+    },
+    {
+      "start": 49.24,
+      "end": 51.52,
+      "speaker": "SPEAKER_00",
+      "text": "Pe sub rotulă sau mai sus?"
+    },
+    {
+      "start": 51.64,
+      "end": 52.78,
+      "speaker": "SPEAKER_01",
+      "text": "Sub rotulă, parcă."
+    },
+    {
+      "start": 52.9,
+      "end": 54.42,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Genunchiul se umflă?"
+    },
+    {
+      "start": 54.54,
+      "end": 55.34,
+      "speaker": "SPEAKER_01",
+      "text": "Nu prea."
+    },
+    {
+      "start": 55.46,
+      "end": 58.88,
+      "speaker": "SPEAKER_00",
+      "text": "Simțiți că vă cedează piciorul, că nu vă ține?"
+    },
+    {
+      "start": 59.0,
+      "end": 59.8,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 59.92,
+      "end": 62.96,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Aveți alte dureri în afară de genunchi?"
+    },
+    {
+      "start": 63.08,
+      "end": 63.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 64.0,
+      "end": 67.42,
+      "speaker": "SPEAKER_00",
+      "text": "Afecțiuni pe care le știți, diabet, tensiune, osteoporoză, artroză?"
+    },
+    {
+      "start": 67.54,
+      "end": 68.34,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 68.46,
+      "end": 71.5,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai avut probleme cu genunchii până acum?"
+    },
+    {
+      "start": 71.62,
+      "end": 72.76,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, prima oară."
+    },
+    {
+      "start": 72.88,
+      "end": 75.54,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament în momentul de față?"
+    },
+    {
+      "start": 75.66,
+      "end": 76.46,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 76.58,
+      "end": 77.72,
+      "speaker": "SPEAKER_00",
+      "text": "Niciun antiinflamator, nimic?"
+    },
+    {
+      "start": 77.84,
+      "end": 78.64,
+      "speaker": "SPEAKER_01",
+      "text": "Nimic."
+    },
+    {
+      "start": 78.76,
+      "end": 85.98,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți să stați puțin în picioare, să mă uit la dumneavoastră. Stați pe piciorul stâng singur, fără sprijin."
+    },
+    {
+      "start": 86.1,
+      "end": 86.9,
+      "speaker": "SPEAKER_01",
+      "text": "Mhm."
+    },
+    {
+      "start": 87.02,
+      "end": 87.82,
+      "speaker": "SPEAKER_00",
+      "text": "Vă ține?"
+    },
+    {
+      "start": 87.94,
+      "end": 88.74,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 88.86,
+      "end": 91.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum îndoiți ușor genunchiul stâng."
+    },
+    {
+      "start": 91.26,
+      "end": 92.06,
+      "speaker": "SPEAKER_01",
+      "text": "Au, doare."
+    },
+    {
+      "start": 92.18,
+      "end": 94.46,
+      "speaker": "SPEAKER_00",
+      "text": "Doare. Unde exact, tot sub rotulă?"
+    },
+    {
+      "start": 94.58,
+      "end": 95.38,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo."
+    },
+    {
+      "start": 95.5,
+      "end": 99.3,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți pe masă cu fața în sus, vă rog."
+    },
+    {
+      "start": 99.42,
+      "end": 100.22,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 100.34,
+      "end": 102.24,
+      "speaker": "SPEAKER_00",
+      "text": "Apăs ușor pe rotulă... Doare?"
+    },
+    {
+      "start": 102.36,
+      "end": 103.16,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic."
+    },
+    {
+      "start": 103.28,
+      "end": 105.94,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă apăs sub rotulă, pe tendon?"
+    },
+    {
+      "start": 106.06,
+      "end": 107.58,
+      "speaker": "SPEAKER_01",
+      "text": "Acolo doare mai tare."
+    },
+    {
+      "start": 107.7,
+      "end": 120.24,
+      "speaker": "SPEAKER_00",
+      "text": "Deci avem o sensibilitate pe tendonul patelar. Asta e consistent cu o tendinopatie patelară, apărută după suprasolicitare la alergat. O să lucrăm să reducem inflamația din zona aceea și să recuperăm mobilitatea genunchiului."
+    },
+    {
+      "start": 120.36,
+      "end": 121.16,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 121.28,
+      "end": 122.42,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să începem."
+    }
+  ]
+}

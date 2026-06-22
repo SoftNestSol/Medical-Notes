@@ -1,0 +1,52 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă venim azi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar, da?\nSPEAKER_01: Da.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut din senin sau ați făcut ceva?\nSPEAKER_01: Am ridicat niște saci la muncă.\nSPEAKER_00: Saci, deci efort fizic. Și de atunci mă doare?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare cel mai tare, unde o situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot timpul sau numai când faceți ceva?\nSPEAKER_01: Mai mult când mă mișc.\nSPEAKER_00: Când vă aplecați, când vă ridicați?\nSPEAKER_01: Da, și când stau jos mult.\nSPEAKER_00: Când stați pe scaun mult timp. Durerea se lasă și pe picior, pe fesă, undeva?\nSPEAKER_01: Nu.\nSPEAKER_00: Strict în spate?\nSPEAKER_01: Da.\nSPEAKER_00: Amorțeli la picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ați mai avut episoade de genul ăsta înainte?\nSPEAKER_01: Acum doi ani, ceva similar.\nSPEAKER_00: Și atunci ce ați făcut?\nSPEAKER_01: Am luat niște pastile și a trecut.\nSPEAKER_00: Ce pastile, știți?\nSPEAKER_01: Nu știu exact. Ceva antiinflamator.\nSPEAKER_00: Antiinflamator. Acum luați ceva?\nSPEAKER_01: Ibuprofen.\nSPEAKER_00: Cât ibuprofen?\nSPEAKER_01: 400, o pastilă pe zi.\nSPEAKER_00: O pastilă de 400 pe zi. De când?\nSPEAKER_01: De vreo săptămână.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, osteoporoză, altceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio operație, nicio fractură?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă uit puțin. Stați în picioare cu spatele la mine.\nSPEAKER_01: Asa?\nSPEAKER_00: Da. Aplecați-vă ușor în față.\nSPEAKER_01: Doare aici.\nSPEAKER_00: Da, pe zona paravertebrală lombară. Și la revenire?\nSPEAKER_01: La fel.\nSPEAKER_00: Văd o contractură pe dreapta mai pronunțată. Stați puțin pe piciorul drept, să vă țineți?\nSPEAKER_01: Mă ține.\nSPEAKER_00: Bun. Vă apăs puțin pe paravertebral, spuneți-mi unde doare mai tare.\nSPEAKER_01: Aici, jos.\nSPEAKER_00: L4-L5, da. Pe stânga la fel?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Deci mai mult pe dreapta. Ok, avem o lombalghe acută mecanică, contractură paravertebrală lombară, mai accentuată pe dreapta. Lucrăm să reducem contractura și inflamația și să recuperăm mobilitatea. Haideți pe masă.\nSPEAKER_01: Da.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută după ridicare de saci la muncă, de aproximativ două săptămâni. Durere la mișcare (aplecare, ridicare) și la stat pe scaun prelungit, fără iradiere pe membre.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": "Episod similar de lombalgalgie acum doi ani, tratat cu antiinflamatoare.",
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg, o pastilă pe zi"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: lombalghe acută mecanică, contractură paravertebrală lombară mai accentuată pe dreapta (L4-L5).\nObiective terapeutice: reducerea contracturii și a inflamației, recuperarea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Am ridicat niște saci la muncă.",
+      "Mai mult când mă mișc.",
+      "și când stau jos mult",
+      "Strict în spate?"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Lombar, da?"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Acum doi ani, ceva similar.",
+      "Am luat niște pastile și a trecut."
+    ],
+    "medicatie_actuala": [
+      "Ibuprofen.",
+      "400, o pastilă pe zi."
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd o contractură pe dreapta mai pronunțată.",
+      "L4-L5, da. Pe stânga la fel?",
+      "avem o lombalghe acută mecanică, contractură paravertebrală lombară, mai accentuată pe dreapta",
+      "Lucrăm să reducem contractura și inflamația și să recuperăm mobilitatea."
+    ]
+  }
+}

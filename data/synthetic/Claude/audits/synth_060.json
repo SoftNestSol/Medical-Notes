@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_060",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul, cel drept, și nu știu, mă cam îngrijorează că tot nu trece. Deja de vreo trei săptămâni și ceva.",
+      "a apărut după ce am zugrăvit acasă. Am stat cu mâna sus mai mult timp și a doua zi dimineața m-am trezit și nu mai puteam să ridic brațul.",
+      "noaptea mă trezesc uneori din cauza ei"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum în repaus poate un 4. Dar dacă ridic brațul sau fac vreo mișcare mai bruscă, ajunge ușor la 7-8."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul, cel drept",
+      "rămâne mai mult sus, în umăr și un pic spre ceafă uneori",
+      "Și un pic mai sus, spre ceafă."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Am tensiune arterială, hipertensiune."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "iau Prestarium, parcă 5 miligrame. Dimineața, o dată pe zi."
+    ],
+    "evaluare_functionala_initiala": [
+      "cam la 90 de grade vă oprește durerea",
+      "doare mai tare pe lateral",
+      "Nu pot, nu ajung, mă doare și mai rău când încerc.",
+      "avem o limitare de mobilitate destul de clară la umărul drept pe toate planurile, plus o tensiune musculară în zona de cervical inferior și trapez. Cel mai probabil este vorba de o tendinopatie la nivelul coifului rotatorilor, o inflamație a tendoanelor de la umăr, plus un spasm muscular asociat.",
+      "O să lucrăm în mai multe ședințe. Obiectivul principal acum este să reducem inflamația și să eliberăm spasmul muscular din zona de trapez și cervical, și ulterior să refacem amplitudinea de mișcare la umăr."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13621,
+    "inference_geo": "global",
+    "input_tokens": 276,
+    "output_tokens": 3234,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

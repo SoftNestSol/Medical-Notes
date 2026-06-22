@@ -1,0 +1,42 @@
+{
+  "conversation_id": "synth_094",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Am mutat niște mobilă.",
+      "De vreo două săptămâni.",
+      "Mai mult la mișcare.",
+      "Uneori noaptea, da."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Rămâne acolo."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Numai un ibuprofen când doare tare."
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem cel mai probabil o tendinită a coifului rotatorilor, pe fondul efortului de la mutatul mobilei. Mobilitatea e limitată pe abducție și rotație internă, cu durere la palparea tendonului supraspinos. O să lucrăm pe reducerea inflamației în prima fază și după reluăm mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22783,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1643,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

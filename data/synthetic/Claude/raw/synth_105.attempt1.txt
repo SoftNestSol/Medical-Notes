@@ -1,0 +1,53 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, spuneți-mi cu ce problemă vă confruntați.\nSPEAKER_01: Bună ziua. Păi, mă doare umărul stâng de vreo două săptămâni, cam de când am mutat mobila, că mi-am schimbat apartamentul și am carat tot felul de lucruri grele, cutii, canapea, frigider, practic tot, nu am avut cine să mă ajute mai mult și acum mă doare rău de tot.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Eu zic că un 7. Adică nu mă trezește noaptea, dar dacă ridic mâna sau fac o mișcare mai bruscă, mă ia un junghi. Și sincer mă tem că am rupt ceva acolo, un tendon sau nu știu, am citit pe internet și am văzut că se poate rupe manșeta rotatorilor și m-am speriat tare.\nSPEAKER_00: Bun. Ridicați mâna stângă sus, cât puteți.\nSPEAKER_01: Până pe aici pot, după aia doare. Cam la 90 de grade, deci orizontal, de acolo nu mai pot.\nSPEAKER_00: Și pe lateral? Ridicați-o lateral, departe de corp.\nSPEAKER_01: La fel, cam pe aici se oprește, dă un junghi.\nSPEAKER_00: Doare și în repaus, când stați nemișcat?\nSPEAKER_01: Mai puțin, da, o durere surdă. Adică dacă stau liniștit nu mă omoară, dar tot simt ceva acolo. Noaptea dacă mă întorc pe umărul ăsta mă doare și mă trezesc.\nSPEAKER_00: Pe unde doare mai exact, în față, în spate, în vârf?\nSPEAKER_01: Mai mult pe aici, pe partea din față și puțin în sus, spre vârf. Nu se lasă pe braț în jos, rămâne acolo localizat.\nSPEAKER_00: Ok. Aveți și alte probleme de sănătate, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Tensiune am, da, de vreo trei ani. Iau Enalapril zilnic pentru asta. Altceva nu știu, mi s-a zis că am colesterolul puțin ridicat dar nu iau nimic pentru el deocamdată, medicul mi-a zis să țin dietă.\nSPEAKER_00: Fracturat sau operat vreodată la umăr?\nSPEAKER_01: Nu, niciodată. Dar am mai avut ceva dureri la umărul ăsta acum vreo doi ani, după ce am jucat tenis cu un prieten, și mi-a trecut singură după câteva zile, nu am mers la doctor atunci. Poate era ceva și atunci dar nu știu, nu m-am îngrijit.\nSPEAKER_00: Înțeles. Stați puțin cu brațul lângă corp și rezistați când împing eu spre interior.\nSPEAKER_01: Doare, da, simț acolo.\nSPEAKER_00: Și acum ridic eu brațul la 90 de grade și vă rog să rezistați când eu apas în jos.\nSPEAKER_01: Au. Da, doare, mai ales pe față.\nSPEAKER_00: Ok. Avem o inflamație la nivelul tendonului supraspinos, cel mai probabil, cu iritația bursei subacromiale. Nu e o ruptură, cel mai probabil, pentru că forța e prezentă, doar că doare la efort. O să lucrăm să reducem inflamația și să recuperăm mobilitatea completă.\nSPEAKER_01: Adică nu e ruptă manșeta? Mă bucur, că m-am speriat de moarte când am citit pe internet. Dar o să treacă sigur?\nSPEAKER_00: Da, cu tratament corect evoluează bine. Evitați deocamdată mișcările cu mâna ridicată deasupra capului.\nSPEAKER_01: Ok, înțeles. Și cu tenisul, pot să mai joc sau mă las?\nSPEAKER_00: Deocamdată pauză la tenis.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere la umărul stâng instalată de aproximativ două săptămâni, apărută după efort fizic intens (mutat mobilă). Durere la mobilizarea activă a umărului, limitare la ridicarea brațului până la 90 de grade, junghi la mișcări bruște. Durere surdă în repaus, accentuată nocturn la culcatul pe umărul afectat.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": "colesterol ridicat (fără tratament medicamentos)",
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\nInflamație tendon supraspinos cu iritația bursei subacromiale; forță prezentă, fără suspiciune de ruptură de manșetă rotatorie.\nObiective terapeutice:\nReducerea inflamației; recuperarea mobilității complete a umărului stâng; evitarea mișcărilor cu membrul superior ridicat deasupra capului în perioada de tratament."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul stâng de vreo două săptămâni, cam de când am mutat mobila",
+      "dacă ridic mâna sau fac o mișcare mai bruscă, mă ia un junghi",
+      "Până pe aici pot, după aia doare. Cam la 90 de grade",
+      "dacă stau liniștit nu mă omoară, dar tot simt ceva acolo. Noaptea dacă mă întorc pe umărul ăsta mă doare și mă trezesc"
+    ],
+    "evaluarea_durerii_vas": [
+      "Eu zic că un 7."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul stâng",
+      "Mai mult pe aici, pe partea din față și puțin în sus, spre vârf."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am, da, de vreo trei ani."
+    ],
+    "antecedente_altele": [
+      "mi s-a zis că am colesterolul puțin ridicat dar nu iau nimic pentru el deocamdată"
+    ],
+    "medicatie_actuala": [
+      "Iau Enalapril zilnic pentru asta."
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o inflamație la nivelul tendonului supraspinos, cel mai probabil, cu iritația bursei subacromiale.",
+      "Nu e o ruptură, cel mai probabil, pentru că forța e prezentă, doar că doare la efort.",
+      "O să lucrăm să reducem inflamația și să recuperăm mobilitatea completă.",
+      "Evitați deocamdată mișcările cu mâna ridicată deasupra capului."
+    ]
+  }
+}

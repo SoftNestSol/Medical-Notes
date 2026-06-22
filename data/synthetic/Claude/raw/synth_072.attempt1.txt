@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume? Cădere, lovitură, efort?\nSPEAKER_01: Am mutat mobilă.\nSPEAKER_00: Am înțeles. Doare constant sau doar la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Poți să ridici brațul sus?\nSPEAKER_01: Greu. Până pe la ureche, cam atât.\nSPEAKER_00: Și dacă ridici brațul în față, față de corp, doare la fel?\nSPEAKER_01: Da, cam la fel.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum estimezi durerea?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Noaptea te trezeștedin durere?\nSPEAKER_01: Uneori, dacă stau pe partea aia.\nSPEAKER_00: Înțeles. Ai mai avut dureri la acest umăr înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Iei vreun medicament în momentul de față?\nSPEAKER_01: Nurofen, câteodată.\nSPEAKER_00: Câte comprimate, ce doză?\nSPEAKER_01: Nu știu exact. Iau ce am în casă.\nSPEAKER_00: Ok. Hai să vedem puțin. Ridică brațul drept în lateral, încet.\nSPEAKER_01: Până aici.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: La ce unghi aproximativ simți că apare durerea?\nSPEAKER_01: Cam de la jumătate.\nSPEAKER_00: Deci arc dureros prezent în abducție. Încearcă să duci mâna la spate, spre buzunarul de la pantalon.\nSPEAKER_01: Greu, nu prea ajung.\nSPEAKER_00: Înțeles. Apăs acum pe umăr, îmi spui dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Exact pe acromion și pe tendonul supraspinosului. Bun. Eu zic că avem o inflamație la nivelul tendonului supraspinos, posibil și o bursită subacromială. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Ai făcut vreo radiografie sau ecografie la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Înțeles. Deocamdată pornim pe terapie manuală și vedem cum evoluează.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după efort fizic (mutat mobilă), de aproximativ două săptămâni, cu limitarea mobilității în abducție și rotație internă.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Arc dureros prezent în abducție (apare de la aproximativ 90 de grade). Limitarea abducției active (până la nivelul urechii). Limitarea rotației interne (nu ajunge la buzunarul posterior). Durere la palpare pe acromion și tendonul supraspinosului. Diagnostic: inflamație tendon supraspinos, posibil bursită subacromială. Obiective terapeutice: reducerea inflamației și recuperarea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Am mutat mobilă.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 6."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nurofen, câteodată."],
+    "evaluare_functionala_initiala": ["Arc dureros prezent în abducție.", "Exact pe acromion și pe tendonul supraspinosului.", "Eu zic că avem o inflamație la nivelul tendonului supraspinos, posibil și o bursită subacromială. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului.", "Cam de la jumătate.", "Greu, nu prea ajung."]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "motivul_prezentarii": "Durere umar stâng de aproximativ trei săptămâni, cu limitarea mobilității la ridicarea brațului, durere nocturnă, imposibilitate de a dormi pe partea stângă.",
+  "evaluarea_durerii_vas": [
+    8,
+    4,
+    6
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism, gastrită",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "75 micrograme"
+    },
+    {
+      "denumire": "ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: tendinită de coafă rotatoare umăr stâng. Durere la abducție începând de la 90 de grade, accentuată peste 90 de grade. Limitarea rotației interne. Sensibilitate la palpare în zona tendonului. Obiective terapeutice: reducerea inflamației, recuperarea mobilității umărului stâng."
+}

@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și s-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Ah, deci efort fizic.\nSPEAKER_01: Da.\nSPEAKER_00: Vă doare și în repaus sau numai când mișcați brațul?\nSPEAKER_01: Mai mult când ridic brațul.\nSPEAKER_00: Când ridicați brațul. Și până unde reușiți să ridicați?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci până la orizontală, mai sus nu?\nSPEAKER_01: Nu.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât ați pune durerea când ridicați brațul?\nSPEAKER_01: Un 7.\nSPEAKER_00: Un 7. Și în repaus?\nSPEAKER_01: Vreo 3.\nSPEAKER_00: Vreo 3, deci e suportabil.\nSPEAKER_01: Da.\nSPEAKER_00: Vă doare și pe braț în jos, spre cot?\nSPEAKER_01: Nu, rămâne la umăr.\nSPEAKER_00: Bine. Amorțeli, furnicături?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Ce vârstă aveți?\nSPEAKER_01: 38.\nSPEAKER_00: 38 de ani. Tensiune, diabet, epilepsie, altceva?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale la umăr vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste rapide. Ridicați brațul drept în față, ușor.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Da, blocaj la 80 de grade, aproximativ. Acum spre lateral.\nSPEAKER_01: Și acolo mă doare mai tare.\nSPEAKER_00: Mă doare mai tare lateral, da. Apăs acum pe zona de supraspinat, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Acolo, exact. Și la rotație internă?\nSPEAKER_01: Da, doare.\nSPEAKER_00: Doare. Bun. Ce pot să vă spun este că avem o inflamație la nivelul tendonului supraspinatos, posibil o tendinopatie de supraspinat. Ce avem de făcut este să reducem inflamația, să recuperăm mobilitatea umărului. Vom lucra cu terapie manuală și câteva exerciții de stabilizare ulterior.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept",
+    "evaluarea_durerii_vas": [7, 3],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: - tendinopatie supraspinat umar dr.\nObiective terapeutice:\n- reducerea inflamatiei;\n- recuperarea mobilitatii umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul."],
+    "evaluarea_durerii_vas": ["Un 7.", "Vreo 3."],
+    "localizarea_durerii": ["Dreptul.", "rămâne la umăr"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Medicamente luați?\nSPEAKER_01: Nu."],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendonului supraspinatos, posibil o tendinopatie de supraspinat", "să reducem inflamația, să recuperăm mobilitatea umărului"]
+  }
+}

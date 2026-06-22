@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Ionescu Marian.\nSPEAKER_00: Și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, o lovitură, un efort mai mare?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Ați ridicat ceva greu.\nSPEAKER_01: Da.\nSPEAKER_00: Și din momentul ăla a apărut durerea?\nSPEAKER_01: Da, a doua zi.\nSPEAKER_00: A doua zi. Deci nu imediat, ci a doua zi. Durerea e permanentă sau apare doar la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: La ce mișcare simțiți cel mai tare?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Când ridicați brațul în sus sau când îl duceți în față?\nSPEAKER_01: În sus.\nSPEAKER_00: Doare și când dormiți pe el?\nSPEAKER_01: Da, mă trezesc noaptea.\nSPEAKER_00: Vă trezește noaptea. Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum estimați durerea când ridicați brațul?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. Și noaptea?\nSPEAKER_01: Cam la fel.\nSPEAKER_00: Tot 6. Durerea rămâne în umăr sau coboară pe braț în jos?\nSPEAKER_01: Rămâne în umăr.\nSPEAKER_00: Nu coboară. Amorțeală în braț sau în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Ați mai pățit asta cu umărul sau e prima dată?\nSPEAKER_01: Prima dată.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, probleme la inimă?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun supliment, nimic?\nSPEAKER_01: Nimic.\nSPEAKER_00: Ok. Haideți să facem câteva teste. Ridicați brațul drept încet în sus pentru mine.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Vedem că se blochează undeva pe la 90 de grade, da?\nSPEAKER_01: Da, după aia doare tare.\nSPEAKER_00: Înțeles. Acum puneți mâna la spate, ca să vă prindeți centura.\nSPEAKER_01: Greu.\nSPEAKER_00: Greu. Simțiți că trăgeti acolo în umăr?\nSPEAKER_01: Da.\nSPEAKER_00: Bine. O să apăs acum pe zona din față a umărului, pe tendoanele de aici. Doare?\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: Doare destul de tare. Cât, de la 0 la 10?\nSPEAKER_01: Un 7.\nSPEAKER_00: Un 7 la palpare. Și mai sus, aici pe zona acromionului?\nSPEAKER_01: Și acolo, da.\nSPEAKER_00: Deci avem o inflamație la nivelul tendoanelor coifului rotator, cel mai probabil supraspinosul, și o iritație subacromială. Mișcarea de abducție e limitată la aproximativ 90 de grade. Vom lucra pe reducerea inflamației și pe recuperarea amplitudinii de mișcare a umărului. Cred că reușim cu 4-5 ședințe să vedem o îmbunătățire clară.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după efort fizic (mutat mobilă), de aproximativ două săptămâni, accentuată la ridicarea brațului în sus și noaptea",
+    "evaluarea_durerii_vas": [6, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Inflamație tendoane coif rotator (supraspinat), iritație subacromială; abducție limitată la aproximativ 90 de grade.\nObiective terapeutice: reducerea inflamației; recuperarea amplitudinii de mișcare a umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Am mutat niște mobilă.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un 6.", "Un 7 la palpare."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Deci avem o inflamație la nivelul tendoanelor coifului rotator, cel mai probabil supraspinosul, și o iritație subacromială. Mișcarea de abducție e limitată la aproximativ 90 de grade. Vom lucra pe reducerea inflamației și pe recuperarea amplitudinii de mișcare a umărului."]
+  }
+}

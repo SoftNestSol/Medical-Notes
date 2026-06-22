@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, vreo lovitură, vreo mișcare?\nSPEAKER_01: Nu știu, parcă am ridicat ceva greu la muncă.\nSPEAKER_00: Ați ridicat ceva greu și după a apărut durerea.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo șase.\nSPEAKER_00: Șase. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Când ridicați brațul în sus, doare?\nSPEAKER_01: Da, nu pot ridica bine.\nSPEAKER_00: Și când duceți mâna în spate, spre centură?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Noaptea vă deranjează, vă treziți din somn?\nSPEAKER_01: Uneori.\nSPEAKER_00: Dacă stați pe partea dreaptă?\nSPEAKER_01: Da, nu pot sta pe partea aia.\nSPEAKER_00: Am înțeles. Durerea rămâne în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne acolo.\nSPEAKER_00: Bun. Aveți alte probleme de sănătate, tensiune, diabet, ceva la oase?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu luați nicio medicație în momentul de față?\nSPEAKER_01: Iau un Nurofen din când în când, când nu mai suport.\nSPEAKER_00: Numai Nurofen, fără altceva?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Stați puțin drept și ridicați brațul drept în față, încet.\nSPEAKER_01: Până aici pot, mai sus doare.\nSPEAKER_00: Doare undeva pe la 90 de grade, cam pe la orizontală.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Acum îl ridicați lateral.\nSPEAKER_01: Și lateral e cam la fel.\nSPEAKER_00: Da. O să apăs puțin aici pe umăr, pe zona asta de deasupra, spuneți dacă simțiți durere.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Chiar pe tendonul supraspinos. Și aici?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Am înțeles. Deci avem o limitare la ridicarea brațului atât în față cât și lateral, cu durere locală la nivelul tendonului supraspinos. O să lucrăm să reducem inflamația și să recăpătăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Începem chiar de astăzi?\nSPEAKER_01: Da.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa ridicare de greutate la locul de munca, de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare la ridicarea bratului drept in fata si lateral, cu durere la aproximativ 90 de grade. Durere locala la palparea tendonului supraspinos. Obiective terapeutice: reducerea inflamatiei si recapatarea mobilitatii umarului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "parcă am ridicat ceva greu la muncă", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo șase."],
+    "localizarea_durerii": ["Dreptul.", "Rămâne acolo."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Iau un Nurofen din când în când, când nu mai suport."],
+    "evaluare_functionala_initiala": ["Doare undeva pe la 90 de grade, cam pe la orizontală.", "Chiar pe tendonul supraspinos.", "avem o limitare la ridicarea brațului atât în față cât și lateral, cu durere locală la nivelul tendonului supraspinos. O să lucrăm să reducem inflamația și să recăpătăm mobilitatea umărului."]
+  }
+}

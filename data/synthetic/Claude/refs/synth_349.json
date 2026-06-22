@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Durere umar drept cu iradiere pe brat, de aproximativ doua luni",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": "brat anterior drept (iradiere pana la jumatate)",
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "75 micrograme"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: tendinopatie supraspinatus drept, posibil conflict subacromial; iritatie tendoane biceps zona anterioara; mobilitate limitata umar drept la flexie (aprox. 90 grade) si rotatie interna.\nObiective terapeutice: reducerea inflamatiei zona subacromiala; eliberare musculatura cervicala; recuperarea amplitudinii de miscare."
+}

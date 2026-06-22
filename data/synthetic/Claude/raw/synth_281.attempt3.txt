@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă veniți astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume, după un efort, după o lovitură?\nSPEAKER_01: Nu știu, parcă după ce am cărat niște cutii.\nSPEAKER_00: Deci după un efort fizic. Doare constant sau numai când mișcați brațul?\nSPEAKER_01: Când îl ridic mai ales.\nSPEAKER_00: Când îl ridicați în față sau în lateral?\nSPEAKER_01: În lateral mai rău.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare când ridicați brațul?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Și noaptea vă deranjează, vă treziți din somn?\nSPEAKER_01: Uneori.\nSPEAKER_00: Stați pe partea stângă când dormiți?\nSPEAKER_01: Da.\nSPEAKER_00: Asta poate agrava. Amorțește brațul sau mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să ridicați brațul ușor în lateral, până unde puteți. Doare pe la jumătate de drum, cam pe la 90 de grade?\nSPEAKER_01: Da, da, exact pe acolo.\nSPEAKER_00: Și mai sus de 90 doare la fel sau trece?\nSPEAKER_01: Trece un pic mai sus.\nSPEAKER_00: Înțeleg. Asta înseamnă că avem un arc dureros, specific pentru tendoanele din umăr. Acum puneți mâna la ceafă. Doare?\nSPEAKER_01: Da, trage.\nSPEAKER_00: Și la spate, mâna la spate jos?\nSPEAKER_01: Merge, dar nu prea.\nSPEAKER_00: Ok. Apăs puțin aici pe umăr. Doare?\nSPEAKER_01: Aha, da.\nSPEAKER_00: Exact pe tendonul supraspinosului. Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio alergie?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci avem o tendinopatie la nivelul umărului stâng, cel mai probabil la supraspinat, apărută după efort. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea completă. Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng de aproximativ două săptămâni, apărută după efort fizic (cărat cutii), accentuată la ridicarea brațului în lateral.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinopatie umăr stâng (supraspinat).\nObiective terapeutice: reducerea inflamației; recâștigarea mobilității complete."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "De vreo două săptămâni.", "parcă după ce am cărat niște cutii.", "În lateral mai rău."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu."],
+    "evaluare_functionala_initiala": ["avem un arc dureros, specific pentru tendoanele din umăr", "Exact pe tendonul supraspinosului", "avem o tendinopatie la nivelul umărului stâng, cel mai probabil la supraspinat", "O să lucrăm să reducem inflamația și să recâștigăm mobilitatea completă."]
+  }
+}

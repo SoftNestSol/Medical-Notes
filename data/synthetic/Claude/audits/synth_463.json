@@ -1,0 +1,42 @@
+{
+  "conversation_id": "synth_463",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Am mutat niște mobilă.",
+      "A doua zi dimineață.",
+      "De vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo șase.",
+      "Poate opt."
+    ],
+    "localizarea_durerii": [
+      "Jos. Partea de jos.",
+      "Rămâne acolo."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Trage în zona lombară.",
+      "Pe dreapta parcă.",
+      "avem o contractură musculară lombară apărută după efort, cu limitarea flexiei și a rotațiilor, sensibilitate mai mare pe dreapta la nivelul paravertebralilor. Vom lucra să reducem contractura și să recuperăm mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14094,
+    "inference_geo": "global",
+    "input_tokens": 351,
+    "output_tokens": 2085,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

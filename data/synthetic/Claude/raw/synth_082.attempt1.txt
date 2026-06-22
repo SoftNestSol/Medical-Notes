@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva? O lovitură, o căzătură?\nSPEAKER_01: Nu știu. Parcă am dormit prost.\nSPEAKER_00: Deci a apărut după un somn, dimineața v-ați trezit cu durerea.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde o situați?\nSPEAKER_01: Un 5.\nSPEAKER_00: Doare constant sau doar când mișcați?\nSPEAKER_01: Când mișc.\nSPEAKER_00: Când ridicați brațul în sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și când duceți mâna la spate?\nSPEAKER_01: Da, acolo mai rău.\nSPEAKER_00: Amorțeli în braț sau în mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Doare și în zona de gât sau e strict umărul?\nSPEAKER_01: Strict umărul.\nSPEAKER_00: Bun. Ridicați brațul stâng pentru mine. Până unde puteți.\nSPEAKER_01: Până aici cam.\nSPEAKER_00: Deci limitat la aproximativ 90 de grade. Doare când apăs aici?\nSPEAKER_01: Da.\nSPEAKER_00: Și aici?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Ok. Alte probleme de sănătate, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune arterială. Luați medicamente pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: Zilnic?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale la umăr vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun accident, nicio ruptură?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Deci avem o inflamație la nivelul tendonului supraspinosului, cel mai probabil. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea umărului stâng.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang, aparuta dupa somn, de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie tendon supraspinos. Mobilitate limitata la aproximativ 90 de grade la abductie brat stang. Durere la palpare zona supraspinos. Obiective terapeutice: reducerea inflamatiei si recastigarea mobilitatii umarului stang."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "De vreo două săptămâni.", "Parcă am dormit prost."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Stângul.", "Strict umărul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Enalapril.", "10 miligrame."],
+    "evaluare_functionala_initiala": ["Deci limitat la aproximativ 90 de grade.", "Deci avem o inflamație la nivelul tendonului supraspinosului, cel mai probabil. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea umărului stâng."]
+  }
+}

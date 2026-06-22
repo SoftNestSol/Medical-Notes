@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_131",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 7.",
+      "Vreo 3."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Dreptul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Enalapril.",
+      "10 miligrame."
+    ],
+    "evaluare_functionala_initiala": [
+      "pare o inflamație la nivelul manșetei rotatorilor, mai precis pe tendonul supraspinosului",
+      "Vom lucra să reducem inflamația și să recâștigăm mobilitatea umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13528,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1674,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

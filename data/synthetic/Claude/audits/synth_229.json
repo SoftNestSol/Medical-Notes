@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_229",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare... pe aici, în zona gâtului, și se duce și în umăr",
+      "Stau mult la birou, la calculator, câte opt ore pe zi",
+      "de vreo... trei luni, ceva de genul. A început mai ușor și acum e mai rău",
+      "mă trezesc și simt că mi-au amorțit degetele, mai ales astea de la mâna dreaptă",
+      "dimineața când mă trezesc e puțin mai rigidă zona, cum să zic, e cam blocată"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "în zona gâtului, și se duce și în umăr",
+      "Pe dreapta mai mult, da",
+      "câteodată simt și mai în spate, pe la mijloc",
+      "mai ales în zona ceafei, se duce și spre tâmplă"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [
+      "am o problemă cu tiroida, am hipotiroidism, de vreo patru ani"
+    ],
+    "medicatie_actuala": [
+      "iau Euthyrox, o pastilă pe zi, dimineața",
+      "75 de micrograme"
+    ],
+    "evaluare_functionala_initiala": [
+      "umărul drept e puțin mai ridicat decât stângul",
+      "mobilitatea spre dreapta e limitată",
+      "E o contractură destul de mare pe trapez și pe mușchii cervicali pe dreapta",
+      "Pare a fi o cervicalgie cu contracturi musculare pe toată zona dreapta, trapez și cervicali",
+      "Amorțelile de noapte la degetele mâinii drepte ar putea indica o iritare radiculară, posibil pe C6-C7",
+      "să lucrăm la reducerea contracturilor, să eliberăm mobilitatea cervicală",
+      "O să facem terapie manuală, niște tracțiuni ușoare și exerciții de postură",
+      "Ar fi bine să faceți un RMN cervical"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21330,
+    "inference_geo": "global",
+    "input_tokens": 334,
+    "output_tokens": 3641,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

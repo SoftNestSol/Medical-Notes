@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_462",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos, în partea de jos.",
+      "Am mutat niște mobilă.",
+      "câteodată simt ceva pe fesa dreaptă"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo șase.",
+      "Opt poate."
+    ],
+    "localizarea_durerii": [
+      "Jos, în partea de jos.",
+      "Zona lombară, înțeleg."
+    ],
+    "localizarea_durerii_alta": [
+      "câteodată simt ceva pe fesa dreaptă"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "cam la jumătate se oprește. Doare când vă aplecați?",
+      "Da, tare.",
+      "Extensia e mai ok.",
+      "Doare direct.",
+      "Doar local, nu se duce nicăieri.",
+      "avem o lombalgie acută, apărută după efort de ridicare, cu contractură musculară paravertebrală lombară",
+      "Flexia anterioară e limitată, extensia e relativ păstrată. Nu avem semne de iradiere radiculară. Obiectivul nostru principal va fi să reducem inflamația și contractura și să recuperăm mobilitatea lombară."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14094,
+    "inference_geo": "global",
+    "input_tokens": 351,
+    "output_tokens": 2072,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

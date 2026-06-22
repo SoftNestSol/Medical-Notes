@@ -1,0 +1,26 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi și mie numele, vă rog.\nSPEAKER_01: Dumitru.\nSPEAKER_00: Dumitru și?\nSPEAKER_01: Popa.\nSPEAKER_00: Domnul Popa. Și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: 38 de ani. Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. A apărut brusc sau treptat?\nSPEAKER_01: Brusc.\nSPEAKER_00: A fost ceva anume înainte, un efort, o mișcare bruscă?\nSPEAKER_01: Stau mult la calculator.\nSPEAKER_00: La calculator, înțeles. Cât de mult, cam câte ore pe zi?\nSPEAKER_01: Vreo opt, nouă ore.\nSPEAKER_00: Opt, nouă ore. Și lucrați de acasă sau la birou?\nSPEAKER_01: La birou.\nSPEAKER_00: La birou. Durerea e doar în gât sau se lasă și pe umăr, pe braț?\nSPEAKER_01: Și pe umăr. Pe partea dreaptă.\nSPEAKER_00: Pe umărul drept. Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Doare mai tare dimineața când vă treziți sau pe parcursul zilei?\nSPEAKER_01: Spre seară, mai tare.\nSPEAKER_00: Spre seară, după ce stați mult la calculator. Se înțelege. Dacă întoarceți capul, doare?\nSPEAKER_01: Da.\nSPEAKER_00: În ce direcție doare mai tare, spre dreapta sau spre stânga?\nSPEAKER_01: Spre dreapta.\nSPEAKER_00: Spre dreapta. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare e durerea acum?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Și la cel mai rău moment al zilei?\nSPEAKER_01: Un 7.\nSPEAKER_00: Un 7 spre seară. Am înțeles. Alte afecțiuni aveți, tensiune, diabet, osteoporoză, epilepsie?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, accidente?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun medicament. Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să stați puțin în picioare. O să apăs câteva zone și îmi spuneți dacă doare, da?\nSPEAKER_01: Da.\nSPEAKER_00: Aici, pe mușchii de la ceafă, trapez superior. Doare?\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: Cât de tare?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. Pe partea stângă la fel?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin pe stânga. Deci mai afectat pe dreapta. Întoarceți-vă capul ușor spre dreapta acum, atât cât puteți.\nSPEAKER_01: Până aici.\nSPEAKER_00: Aproximativ jumătate din amplitudine, e limitat. Spre stânga merge mai bine?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Aplecați capul spre umărul drept.\nSPEAKER_01: Doare.\nSPEAKER_00: Doare la flexia laterală dreaptă. Am înțeles. Vă mai doare cumva și în zona dintre omoplați?\nSPEAKER_01: Puțin, câteodată.\nSPEAKER_00: Câteodată, nu constant. Stați mult cu umerii ridicați la calculator?\nSPEAKER_01: Probabil.\nSPEAKER_00: Se vede și din postură. Umerii sunt puțin ridicați și capul e dus înainte față de linia umerilor. Ce pot să vă spun este că avem o contractură musculară în zona cervicală, pe trapez și ridicătorul scapulei, predominant pe dreapta. Mobilitatea e redusă spre dreapta și postura la calculator agravează tot. O să lucrăm să reducem contractura, să refacem mobilitatea și o să vorbim și despre poziția la birou.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicala si umar drept, aparuta dupa stat prelungit la calculator",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: - contractura musculara cervicala, trapez superior si ridicatorul scapulei, predominant dreapta;\n- mobilitate redusa rotatie cervicala dreapta;\n- postura: cap antepozitionat, umeri ridicati\nObiective terapeutice: - reducerea contracturii musculare;\n- refacerea mobilitatii cervicale;\n- corectarea posturii la birou"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "Stau mult la calculator.", "Și pe umăr. Pe partea dreaptă."],
+    "evaluarea_durerii_vas": ["Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare e durerea acum?\nSPEAKER_01: Un 5.", "Și la cel mai rău moment al zilei?\nSPEAKER_01: Un 7."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și pe umăr. Pe partea dreaptă."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o contractură musculară în zona cervicală, pe trapez și ridicătorul scapulei, predominant pe dreapta", "Mobilitatea e redusă spre dreapta și postura la calculator agravează tot", "O să lucrăm să reducem contractura, să refacem mobilitatea și o să vorbim și despre poziția la birou", "Umerii sunt puțin ridicați și capul e dus înainte față de linia umerilor"]
+  }
+}

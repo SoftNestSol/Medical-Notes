@@ -1,0 +1,25 @@
+{
+  "motivul_prezentarii": "Pacientă de 34 de ani, cu durere la nivelul umărului stâng, instalată treptat în ultimele aproximativ două luni, fără traumatism, posibil legată de postura la birou (sedentarism, calculator). Durere prezentă la ridicarea brațului și nocturn (treziri). Iradiere parțială pe braț până la jumătate, fără amorțeli. Asociază cervicalgie și dureri de cap ocazionale.",
+  "evaluarea_durerii_vas": [
+    6,
+    4
+  ],
+  "localizarea_durerii": [
+    "umar_stg",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "50 micrograme"
+    },
+    {
+      "denumire": "Paracetamol",
+      "doza": "500 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Asimetrie posturală: umărul stâng ridicat și dus anterior față de dreptul. Contractură trapez stâng și ridicător al scapulei. Sensibilitate marcată la palparea tendonului supraspinatus anterior. Arc dureros la abducție (durere de la 90 de grade în sus). Mobilitate limitată la rotație internă (mâna la spate). Sensibilitate cervicală stânga la palpare.\nDiagnostic: inflamație tendon supraspinatus; contractură musculară trapez și ridicător scapulă; cervicalgie de postura.\nObiective terapeutice: reducerea inflamației; relaxare musculară; corecție posturală."
+}

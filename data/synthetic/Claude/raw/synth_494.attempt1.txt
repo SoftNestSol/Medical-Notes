@@ -1,0 +1,46 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare ceafa.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Treptat, cred.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum ați situa durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare doar ceafa sau se lasă și altundeva, pe cap, pe umeri?\nSPEAKER_01: Uneori urcă pe cap, în spate.\nSPEAKER_00: Deci urcă spre ceafă sus, spre baza capului?\nSPEAKER_01: Da.\nSPEAKER_00: Dar pe braț, pe mână, amorțeli?\nSPEAKER_01: Nu.\nSPEAKER_00: Deloc?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Și când vă doare mai tare, dimineața, seara, sau când stați la birou?\nSPEAKER_01: La birou, când stau mult.\nSPEAKER_00: Deci mai mult când stați în față la calculator?\nSPEAKER_01: Da, toată ziua stau.\nSPEAKER_00: Înțeleg. Dacă vă mișcați capul, rotiți în stânga sau în dreapta, doare mai tare?\nSPEAKER_01: Da, mai ales în dreapta.\nSPEAKER_00: Mai ales în dreapta. Și în sus, dacă vă dați capul pe spate?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Ok. Vă trezița noaptea din cauza durerii?\nSPEAKER_01: Nu, nu chiar.\nSPEAKER_00: Bun. Și dimineața când vă ridicați din pat, simțiți că vă ține ceafa?\nSPEAKER_01: Un pic, da. Trece.\nSPEAKER_00: Trece după ce vă mișcați puțin?\nSPEAKER_01: Da.\nSPEAKER_00: Am înțeles. Alte afecțiuni aveți, tensiune, diabet, probleme cardiace?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi la nivel de coloană sau de gât?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să vă testez puțin. Stați drept cu fața la mine. Întoarceți capul ușor în dreapta... doare?\nSPEAKER_01: Da, acolo se simte.\nSPEAKER_00: Se simte. Și în stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Dacă apăs ușor pe musculatura de pe dreapta, la baza gâtului, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Simțiți că e contractată zona asta?\nSPEAKER_01: Da, e cam tare.\nSPEAKER_00: E cam tare, exact. Vă apăs și stânga. La fel de tare?\nSPEAKER_01: Nu, mai puțin.\nSPEAKER_00: Deci avem un spasm muscular mai pronunțat pe dreapta, la nivel cervical. Cel mai probabil din poziția de lucru, statul prelungit în față la calculator creează o tensionare a musculaturii paravertebrale cervicale. O să lucrăm să relaxăm zona asta, să recuperăm mobilitatea, și o să vedem cum răspunde.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în sus, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere la nivelul cefei, cu iradiere spre baza capului, instalată treptat în ultimele două săptămâni. Accentuată de statul prelungit la calculator. Limitarea rotației cervicale, mai ales spre dreapta. Redoare matinală ușoară, care cedează la mișcare.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nSpasm muscular paravertebral cervical mai pronunțat pe dreapta, la baza gâtului. Mobilitate cervicală limitată la rotație dreapta și extensie. Palpare dureroasă pe dreapta la baza gâtului.\nDiagnostic:\nCervicalgie cu spasm muscular paravertebral cervical drept, cel mai probabil pe fond postural (statul prelungit la calculator).\nObiective terapeutice:\nRelaxarea musculaturii paravertebrale cervicale; recuperarea mobilității cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare ceafa.",
+      "Vreo două săptămâni.",
+      "Treptat, cred.",
+      "Uneori urcă pe cap, în spate.",
+      "La birou, când stau mult.",
+      "Da, mai ales în dreapta.",
+      "Un pic, da. Trece."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare ceafa.",
+      "Uneori urcă pe cap, în spate."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Da, acolo se simte.",
+      "E cam tare.",
+      "Nu, mai puțin.",
+      "avem un spasm muscular mai pronunțat pe dreapta, la nivel cervical",
+      "statul prelungit în față la calculator creează o tensionare a musculaturii paravertebrale cervicale",
+      "O să lucrăm să relaxăm zona asta, să recuperăm mobilitatea"
+    ]
+  }
+}

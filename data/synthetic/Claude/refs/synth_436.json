@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "durere umar stang, limitarea mobilitatii, aparuta dupa efort fizic (mutare mobilier)",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: inflamatie tendoane rotatori, zona supraspinos; limitare abductie cca 120 grade; durere la rotatie externa si palpare subacromial.\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii; excludere ruptura recomandare ecografie/RMN."
+}

@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, o lovitură, o mișcare bruscă?\nSPEAKER_01: Nu știu exact. Am cărat niște cutii mai grele la serviciu și după aia a început.\nSPEAKER_00: Am înțeles. Și doare constant sau doar când mișcați brațul?\nSPEAKER_01: Când îl ridic mai ales.\nSPEAKER_00: Când îl ridicați în față sau în lateral?\nSPEAKER_01: În lateral mai rău.\nSPEAKER_00: Și noaptea vă deranjează, vă treziți din cauza durerii?\nSPEAKER_01: Da, dacă stau pe partea aia.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde situați durerea când ridicați brațul în lateral?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. Și când stați liniștit, fără să mișcați?\nSPEAKER_01: Vreo 2, 3.\nSPEAKER_00: Deci 2 în repaus și 6 la mișcare. Bun. Durerea rămâne la umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne pe umăr, sus.\nSPEAKER_00: Nu coboară, nu simțiți amorțeală pe braț sau pe degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Ați mai avut probleme la acest umăr înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune arterială, diabet, probleme la oase?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici antiinflamator, nimic?\nSPEAKER_01: Nu am luat nimic.\nSPEAKER_00: Ok. Haideți să facem câteva mișcări simple. Ridicați brațul drept în lateral, cât puteți.\nSPEAKER_01: Până aici, cam atât.\nSPEAKER_00: Până la aproximativ 80 de grade. Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Acum ridicați-l în față.\nSPEAKER_01: Ăsta merge mai bine.\nSPEAKER_00: Da, văd că în față ajungeți mai sus. Acum puneți mâna la spate, ca și cum ați ajunge la buzunarul de spate.\nSPEAKER_01: Aoleu, asta doare.\nSPEAKER_00: Înțeles. Rotatia internă e și ea limitată. Apăs acum ușor pe zona asta, pe capul humeral, simțiți?\nSPEAKER_01: Da, acolo doare cel mai tare.\nSPEAKER_00: Exact pe inserția manșetei rotatorilor. Bun. Acum ridic eu brațul pasiv în lateral și vă rog să-mi spuneți dacă apare un moment în care doare mai tare, apoi trece.\nSPEAKER_01: Da, pe la mijloc doare, după aia nu mai doare la fel.\nSPEAKER_00: Asta se cheamă arc dureros, e sugestiv pentru o leziune la nivelul manșetei rotatorilor sau o bursită subacromială. Vedem cum răspunde la tratament, probabil vom lucra câteva ședințe. Obiectivul principal e să reducem inflamația din zona aceea și să recăpătăm amplitudinea de mișcare. Avem radiografie sau ecografie la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu avem. O să vedem după primele două-trei ședințe dacă e nevoie. Haideți pe masă, vă rog.\nSPEAKER_01: Ok.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept, apărută după efort fizic (cărat cutii grele), de aproximativ două săptămâni",
+    "evaluarea_durerii_vas": [2, 6],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Abducție activă limitată la aproximativ 80 de grade, cu durere; flexie anterioară mai puțin limitată. Rotație internă dureroasă și limitată. Sensibilitate la palpare pe capul humeral, la inserția manșetei rotatorilor. Arc dureros prezent la abducție pasivă. Diagnostic: leziune manșetă rotatorilor / bursită subacromială. Obiective terapeutice: reducerea inflamației, recăpătarea amplitudinii de mișcare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am cărat niște cutii mai grele la serviciu și după aia a început.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 2, 3.", "Un 6."],
+    "localizarea_durerii": ["Dreptul.", "Rămâne pe umăr, sus."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu am luat nimic."],
+    "evaluare_functionala_initiala": ["Până la aproximativ 80 de grade. Doare acum?", "Da, văd că în față ajungeți mai sus.", "Rotatia internă e și ea limitată.", "Exact pe inserția manșetei rotatorilor.", "arc dureros, e sugestiv pentru o leziune la nivelul manșetei rotatorilor sau o bursită subacromială", "Obiectivul principal e să reducem inflamația din zona aceea și să recăpătăm amplitudinea de mișcare."]
+  }
+}

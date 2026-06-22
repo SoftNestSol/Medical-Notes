@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi vă rog cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo trei săptămâni.\nSPEAKER_00: A fost vreun traumatism, ați căzut, ați lovit ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Și atunci cum a apărut, brusc sau treptat?\nSPEAKER_01: Treptat, parcă.\nSPEAKER_00: Faceți ceva anume care să solicite umărul, un sport, o muncă fizică?\nSPEAKER_01: Lucrez la birou, stau mult la calculator.\nSPEAKER_00: Ok. Și doare tot timpul sau doar la mișcare?\nSPEAKER_01: Mai mult când ridic mâna.\nSPEAKER_00: Când ridicați mâna în sus doare, da? Și dacă duceți mâna în spate, să prindeți ceva?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Pe o scară de la zero la zece, unde zero nu doare deloc și zece doare cel mai tare, unde vă situați?\nSPEAKER_01: Vreo cinci.\nSPEAKER_00: Cinci. Doare și în repaus, noaptea de exemplu?\nSPEAKER_01: Câteodată noaptea mă trezesc.\nSPEAKER_00: Vă trezește durerea noaptea, pe partea stângă, când stați pe acel umăr?\nSPEAKER_01: Da.\nSPEAKER_00: Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală. Doare și în zona gâtului sau e strict umărul?\nSPEAKER_01: Strict umărul, parcă.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză, ceva de care știți?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun medicament. Ok. Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva mișcări să vedem ce se întâmplă. Ridicați mâna stângă în față, încet.\nSPEAKER_01: Până aici merge.\nSPEAKER_00: Cam la nouăzeci de grade se oprește, da? Mai sus doare?\nSPEAKER_01: Da, de aici doare.\nSPEAKER_00: Acum duceți-o lateral, tot în sus.\nSPEAKER_01: La fel, cam pe la jumătate.\nSPEAKER_00: Se limitează la mijloc. Și dacă faceți rotație internă, mâna la spate?\nSPEAKER_01: Nu prea ajung.\nSPEAKER_00: Nu ajungeți. Ok, stați puțin, vă apăs eu un pic aici pe acromion. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și aici pe tendonul supraspinosului. Simțiți?\nSPEAKER_01: Da, acolo e mai rău.\nSPEAKER_00: Acolo e mai rău, bine. Deci avem o limitare de mobilitate și durere la palpare pe zona supraspinosului. Pare a fi o tendinopatie a coafei rotatorilor, posibil și un conflict subacomial. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Cât durează?\nSPEAKER_00: Depinde cum răspundeți, dar în general câteva ședințe și simțiți diferența. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang, aparuta treptat in urma cu trei saptamani, fara traumatism, accentuata la ridicarea mainii si rotatie interna, cu treziri nocturne.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Limitare mobilitate umar stang la aproximativ 90 grade in flexie si abductie; limitare rotatie interna. Durere la palpare acromion si tendon supraspinat. Diagnostic: tendinopatie coafa rotatori, posibil conflict subacomial. Obiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii umarului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "De vreo trei săptămâni.", "Treptat, parcă.", "Nu.", "Mai mult când ridic mâna.", "Câteodată noaptea mă trezesc."],
+    "evaluarea_durerii_vas": ["Vreo cinci."],
+    "localizarea_durerii": ["Stângul.", "Strict umărul, parcă."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Cam la nouăzeci de grade se oprește, da? Mai sus doare?", "Se limitează la mijloc.", "Nu ajungeți.", "Da, acolo e mai rău.", "Pare a fi o tendinopatie a coafei rotatorilor, posibil și un conflict subacomial. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

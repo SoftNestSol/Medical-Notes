@@ -1,0 +1,54 @@
+{
+  "conversation_id": "synth_377",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Am o durere la umăr, la umărul drept, de vreo trei săptămâni încoace",
+      "am mutat niște cutii la birou, acum vreo lună, și am carat ceva mai greu",
+      "Când ridic mâna, când încerc să ajung ceva sus",
+      "noaptea, că mă trezesc dacă stau pe partea dreaptă",
+      "simt că brațul e mai... cum să zic... mai greu, mai obosit decât stângul. Parcă nu am aceeași forță"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în repaus? Poate un 4",
+      "când ridic mâna sau fac mișcarea aia, urcă la 7, 7 și jumătate"
+    ],
+    "localizarea_durerii": [
+      "Am o durere la umăr, la umărul drept",
+      "Se lasă și pe braț, da. Până pe la cot, cam așa"
+    ],
+    "localizarea_durerii_alta": [
+      "Pe lateral, mai mult. Și un pic pe față",
+      "Se lasă și pe braț, da. Până pe la cot, cam așa. Uneori și mai jos, dar mai rar"
+    ],
+    "antecedente": [
+      "mai am puțin scolioză, mi-a spus un doctor acum mulți ani că am o curbură ușoară"
+    ],
+    "antecedente_altele": [
+      "Am avut o fractură la claviculă, la clavicula dreaptă, acum vreo zece ani, după un accident de bicicletă. S-a vindecat bine, mi-au zis că a mers bine fără operație"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "la aproximativ 90 de grade apare durerea",
+      "pe lateral e mai rău",
+      "Asta e exact punctul",
+      "Simt că nu am forță la fel ca pe stânga",
+      "ceea ce avem pare a fi o afectare a manșetei rotatorilor, mai precis a tendonului supraspinosului, cu o posibilă iritație subacromială",
+      "testul de compresie subacromială este pozitiv",
+      "Obiectivul nostru va fi să reducem inflamația din spațiul subacromiai, să relaxăm musculatura periarticulară, trapez, deltoid, supraspinat, și să refacem mobilitatea completă a articulației"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22971,
+    "inference_geo": "global",
+    "input_tokens": 318,
+    "output_tokens": 4050,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

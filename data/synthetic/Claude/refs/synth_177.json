@@ -1,0 +1,29 @@
+{
+  "motivul_prezentarii": "Durere umăr drept de aproximativ trei săptămâni, cu iradiere ocazională pe braț până la cot, accentuată dimineața și la mișcare, asociată cu limitare de mobilitate. Posibil agravat de postura la birou și căratul copilului. Tensiune cervicală ocazională și cefalee occipitală seara.",
+  "evaluarea_durerii_vas": [
+    8,
+    3
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cot_dr",
+    "cervical",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hernia_disc"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Nurofen",
+      "doza": "400 mg"
+    },
+    {
+      "denumire": "Magneziu",
+      "doza": "375 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare de mobilitate la umărul drept cu durere la abducție și flexie până la aproximativ 90 de grade. Durere la palparea tendonului supraspinatus și a tendonului bicepsului lung. Scădere de forță la abducție activă cu rezistență față de membrul controlateral. Diagnostic: tendinopatie/bursită subacromială umăr drept, posibilă afectare a manșetei rotatorilor. Obiective terapeutice: reducerea inflamației, recuperarea mobilității, corectarea posturii."
+}

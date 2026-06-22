@@ -1,0 +1,28 @@
+{
+  "motivul_prezentarii": "Dureri lombare de aproximativ o lună agravate, cu rigiditate cervicală matinală",
+  "evaluarea_durerii_vas": [
+    6,
+    8,
+    3
+  ],
+  "localizarea_durerii": [
+    "lombar",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "fesa stanga, coapsa stanga",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame, o dată pe zi"
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- Inflamatie zona lombara, pronuntata pe stanga, piriform si patrat lombar afectate;\n- Tensionare musculatura cervicala;\nObiective terapeutice:\n- Reducerea inflamatiei lombare;\n- Decontracturarea musculaturii cervicale;\n- Lucru pe postura si mobilitate"
+}

@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamnă. Spuneți-mi cu ce problemă venim azi.\nSPEAKER_01: Bună ziua. Păi, mă doare umărul stâng de vreo trei săptămâni, nu știu exact cum mi l-am făcut, adică probabil la sală, am început să merg la sală de vreo două luni și poate am forțat, nu știu, soțul meu zice că am ridicat prea greu, și acum nu mai pot să ridic mâna bine.\nSPEAKER_00: Deci umărul stâng. Doare și în repaus sau numai când îl mișcați?\nSPEAKER_01: Și în repaus un pic, dar mai tare când ridic mâna, sau când mă întind după ceva sus. Noaptea e mai rău, mă trezesc.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât ați da?\nSPEAKER_01: Păi acum, în momentul ăsta, un 5. Dar noaptea sigur e 7-8, nu pot să dorm pe el.\nSPEAKER_00: Am înțeles. Umărul drept nu doare?\nSPEAKER_01: Nu, nu, cel drept e bine. Adică mai am și o problemă cu gâtul, de mult timp, dar acum nu mai simt nimic acolo, deci nu știu dacă are legătură.\nSPEAKER_00: Cervicalul îl lăsăm deocamdată. Umărul stâng. Amorțește mâna?\nSPEAKER_01: Nu, nu amorțește, nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Tensiune am, da. Iau pastile de vreo doi ani. Altceva nu.\nSPEAKER_00: Ce pastile luați pentru tensiune?\nSPEAKER_01: Iau Enalapril, 10 miligrame, dimineața.\nSPEAKER_00: Bun, altceva nu luați?\nSPEAKER_01: Nu, altceva nimic. Am vrut să iau și ceva antiinflamator de la farmacie pentru umăr, dar m-am gândit că mai bine vin mai întâi să văd ce e, că nu vreau să iau degeaba pastile dacă nu știu ce am, știți cum e.\nSPEAKER_00: Bine ați făcut. Haideți să vă verific puțin. Ridicați brațul stâng în față, încet.\nSPEAKER_01: Până pe la înălțimea asta pot, mai sus mă doare.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da, aici, pe partea din față a umărului.\nSPEAKER_00: Stați puțin cu brațul sus. Vă apăs zone. Spuneți-mi dacă doare.\nSPEAKER_01: Aaaai, da, acolo doare tare.\nSPEAKER_00: Bun. Rotație internă, duceți mâna la spate.\nSPEAKER_01: Nu ajung bine, mă blochează undeva.\nSPEAKER_00: Ok. Deci avem o inflamație la nivelul tendonului supraspinos, cel mai probabil o tendinopatie de coafă rotatorilor. Obiectivul principal e să reducem inflamația și să redobândim mobilitatea completă a umărului.\nSPEAKER_01: Adică e grav? Că m-am tot gândit că poate am rupt ceva, am văzut pe internet că se poate rupe tendoane și...\nSPEAKER_00: Nu pare ruptură, dată fiind mobilitatea pe care o aveți. Dar o să lucrăm cu grijă.\nSPEAKER_01: Bine, bine, mă bucur. Și cât timp credeți că durează, că eu chiar vreau să mă întorc la sală?\nSPEAKER_00: Depinde cum răspundeți la tratament. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang, aparuta probabil dupa efort la sala de fitness, de aproximativ trei saptamani. Durere la ridicarea bratului si intinderea mainii sus, accentuata noaptea.",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame dimineata"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinopatie coafa rotatorilor umar stang (inflamatie tendon supraspinos)\nObiective terapeutice:\n- reducerea inflamatiei\n- refacerea mobilitatii complete a umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul stâng de vreo trei săptămâni", "nu mai pot să ridic mâna bine", "am început să merg la sală de vreo două luni și poate am forțat"],
+    "evaluarea_durerii_vas": ["acum, în momentul ăsta, un 5", "noaptea sigur e 7-8"],
+    "localizarea_durerii": ["mă doare umărul stâng", "Umărul stâng"],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am, da. Iau pastile de vreo doi ani."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Iau Enalapril, 10 miligrame, dimineața."],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendonului supraspinos, cel mai probabil o tendinopatie de coafă rotatorilor", "Obiectivul principal e să reducem inflamația și să redobândim mobilitatea completă a umărului"]
+  }
+}

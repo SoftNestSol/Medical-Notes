@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ați venit.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, zona de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Șase.\nSPEAKER_00: Șase. Durerea se lasă și pe picior?\nSPEAKER_01: Nu.\nSPEAKER_00: Strict în zona lombară.\nSPEAKER_01: Da.\nSPEAKER_00: Doare mai tare când stați jos, când mergeți, când vă sculați din pat?\nSPEAKER_01: Când mă scol.\nSPEAKER_00: Dimineața la trezire?\nSPEAKER_01: Da, și când stau mult în scaun.\nSPEAKER_00: Am înțeles. Aveți vreo meserie care implică stat mult la birou?\nSPEAKER_01: Da, la calculator.\nSPEAKER_00: Ok. Și durerea se calmează dacă vă mișcați puțin, faceți câțiva pași?\nSPEAKER_01: Da, trece un pic.\nSPEAKER_00: Bun. Amorțeli la picioare, vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Afecțiuni cunoscute, tensiune, diabet, osteoporoză, hernie de disc?\nSPEAKER_01: Nu știu de hernie. Tensiune nu.\nSPEAKER_00: Nimic diagnosticat.\nSPEAKER_01: Nu.\nSPEAKER_00: Ați făcut vreun RMN sau radiografie la coloană?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio investigație.\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nurofen, când nu mai pot.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Rar. O dată, de două ori pe săptămână.\nSPEAKER_00: Doza?\nSPEAKER_01: Nu știu, aia normală.\nSPEAKER_00: Ok. Haideți să stați cu spatele la mine, picioarele ușor depărtate, umerii relaxați. Bun. Acum aplecați-vă ușor în față.\nSPEAKER_01: Doare un pic.\nSPEAKER_00: La aplecare în față doare. Și în spate dacă vă duceți?\nSPEAKER_01: Și acolo.\nSPEAKER_00: Ok. Apăs puțin pe paravertebral, spuneți-mi unde simțiți.\nSPEAKER_01: Aici, în mijloc.\nSPEAKER_00: Pe L4-L5, sensibil la palpare. Mai jos?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Vedem o ușoară limitare a mobilității în flexie și extensie lombară, cu tensionare paravertebrală bilaterală. Pare o lombalgie mecanică, cel mai probabil din cauza posturii la birou. O să lucrăm pe relaxarea musculaturii și pe mobilizarea articulară. Da?\nSPEAKER_01: Da.\nSPEAKER_00: Bun, haideți pe masă cu fața în jos.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară joasă de aproximativ două săptămâni, EVA 6/10, accentuată dimineața la trezire și după stat prelungit în scaun (muncă la calculator). Cedează parțial la mișcare. Fără iradiere pe membre inferioare.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nLimitare mobilitate lombară în flexie și extensie. Sensibilitate la palpare paravertebrală bilateral la nivel L4-L5. Tensionare paravertebrală bilaterală.\nDiagnostic:\nLombalgie mecanică, posibil pe fond postural (activitate sedentară la birou).\nObiective terapeutice:\nRelaxarea musculaturii paravertebrale; mobilizare articulară lombară."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "Vreo două săptămâni.",
+      "când stau mult în scaun",
+      "Da, la calculator.",
+      "Da, trece un pic.",
+      "Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Șase."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Strict în zona lombară."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nurofen, când nu mai pot."
+    ],
+    "evaluare_functionala_initiala": [
+      "La aplecare în față doare.",
+      "Pe L4-L5, sensibil la palpare.",
+      "Vedem o ușoară limitare a mobilității în flexie și extensie lombară, cu tensionare paravertebrală bilaterală.",
+      "Pare o lombalgie mecanică, cel mai probabil din cauza posturii la birou.",
+      "O să lucrăm pe relaxarea musculaturii și pe mobilizarea articulară."
+    ]
+  }
+}

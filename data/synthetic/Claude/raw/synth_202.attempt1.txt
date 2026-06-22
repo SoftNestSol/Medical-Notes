@@ -1,0 +1,45 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, cu ce problemă veniți.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar. De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Ce s-a întâmplat acum două săptămâni? Ați ridicat ceva, ați stat mult jos?\nSPEAKER_01: Am stat mult la birou.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare constant sau mai mult când vă mișcați?\nSPEAKER_01: Când mă scol din scaun.\nSPEAKER_00: Și după ce vă sculați, trece?\nSPEAKER_01: Da, după un pic.\nSPEAKER_00: Durerea se lasă pe picior, pe fesă, ceva de genul?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeli la picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Dimineața când vă treziți, vă ține spatele?\nSPEAKER_01: Un pic, da.\nSPEAKER_00: Trece repede sau stă mai mult?\nSPEAKER_01: Repede.\nSPEAKER_00: Bun. Alte zone care dor în afară de lombar?\nSPEAKER_01: Nu, doar acolo.\nSPEAKER_00: Ați mai avut episoade de genul ăsta înainte?\nSPEAKER_01: Da, acum doi ani.\nSPEAKER_00: Și a trecut de la sine?\nSPEAKER_01: Da.\nSPEAKER_00: Fără tratament?\nSPEAKER_01: Da.\nSPEAKER_00: Luați acum vreun medicament, pastile pentru durere, altceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Afecțiuni cunoscute, tensiune, diabet, osteoporoză, hernie de disc?\nSPEAKER_01: Nu știu de hernie. Tensiune nu.\nSPEAKER_00: Nu ați făcut nicio investigație, RMN, radiografie?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să stați puțin cu spatele la mine, picioarele ușor depărtate. Relaxați umerii.\nSPEAKER_01: Bun.\nSPEAKER_00: Văd o ușoară tensionare pe partea dreaptă, musculatura paravertebrală. Apăs aici, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și pe stânga la fel?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Aplecați-vă ușor în față, cât puteți.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare la aplecare?\nSPEAKER_01: Da, jos.\nSPEAKER_00: Bun. E o contractură musculară lombară, cel mai probabil pe fond postural, de la stat la birou. Nu e ceva grav. O să lucrăm să relaxăm musculatura, să reducem inflamația și o să vă dau câteva exerciții pentru acasă.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă, instalată de aproximativ două săptămâni, asociată cu stat prelungit la birou. Durere la ridicarea din scaun, redoare matinală ușoară și rapid trecătoare. Fără iradiere pe membre, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nTensionare musculară paravertebrală lombară, mai accentuată pe dreapta. Durere la palpare paravertebral drept. Mobilitate în flexie lombară limitată cu durere lombară la capătul mișcării.\nDiagnostic:\nContractură musculară lombară pe fond postural (muncă sedentară prelungită la birou).\nObiective terapeutice:\nRelaxarea musculaturii paravertebrale lombare; reducerea procesului inflamator; exerciții de recuperare pentru acasă."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "De vreo două săptămâni.",
+      "Am stat mult la birou.",
+      "Când mă scol din scaun.",
+      "Un pic, da.",
+      "Repede.",
+      "Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Nu, doar acolo."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară tensionare pe partea dreaptă, musculatura paravertebrală.",
+      "Doare la aplecare?",
+      "Da, jos.",
+      "E o contractură musculară lombară, cel mai probabil pe fond postural, de la stat la birou.",
+      "O să lucrăm să relaxăm musculatura, să reducem inflamația și o să vă dau câteva exerciții pentru acasă."
+    ]
+  }
+}

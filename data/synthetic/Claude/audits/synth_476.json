@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_476",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare jos de tot, chiar la baza coloanei, coccisul sau cum îi zice, acolo",
+      "am căzut acum vreo lună, am alunecat pe niște trepte și am căzut pe fund",
+      "acuma m-a apucat din nou"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când stau pe scaun aș zice un 7",
+      "Când merg sau stau în picioare poate un 3"
+    ],
+    "localizarea_durerii": [
+      "mă doare jos de tot, chiar la baza coloanei, coccisul",
+      "zona aia de sacru"
+    ],
+    "localizarea_durerii_alta": [
+      "simt că mă ține și în zona de bazin"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Nurofen acum vreo zece zile când durerea a fost mai mare, dar atât",
+      "un singur comprimat"
+    ],
+    "evaluare_functionala_initiala": [
+      "Zona sacrococcigiană prezintă sensibilitate la palpare directă, mai accentuată la nivelul coccisului. Mobilitate lombară păstrată, durerea nu iradiază.",
+      "Cel mai probabil avem o contuzie la nivelul coccisului în urma căderii, posibil cu o inflamație locală persistentă.",
+      "Vom lucra pe reducerea inflamației locale și relaxarea musculaturii din jur, pirifor, fesier, zona sacrală.",
+      "dacă după câteva ședințe nu cedează, recomand și o radiografie de control"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22971,
+    "inference_geo": "global",
+    "input_tokens": 360,
+    "output_tokens": 2665,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

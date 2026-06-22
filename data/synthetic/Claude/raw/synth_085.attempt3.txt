@@ -1,0 +1,36 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua! Am ajuns în sfârșit, că am tot amânat, am tot zis că trece singur, dar nu trece.\nSPEAKER_00: Spuneți-mi cu ce problemă veniți.\nSPEAKER_01: Păi mă doare umărul stâng, de vreo trei săptămâni deja. Am zis că e de la saltea, am schimbat salteaua, tot degeaba. Soția mea zice că dorm strâmb, dar nu cred că asta e problema.\nSPEAKER_00: Și doare constant sau doar când faceți anumite mișcări?\nSPEAKER_01: Mai mult când fac mișcări, adică dacă ridic mâna sus doare, dacă dau mâna în spate doare și mai tare. Noaptea mă mai trezesc și eu pe partea aia, nu pot să stau pe umărul stâng deloc.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Când ridic mâna, să zicem un 5. Dar când mă culc pe el noaptea, ajunge și la 7, mă trezesc efectiv.\nSPEAKER_00: Am înțeles. Și ați făcut ceva pentru durere până acum?\nSPEAKER_01: Am pus un gel, unul cu diclofenac, îl mai am de când m-am lovit la genunchi acum doi ani. A ajutat un pic, dar nu prea. Și am luat și un ibuprofen câteodată, dar nu regulat.\nSPEAKER_00: Știți cum a apărut, a fost vreo lovitură, vreun efort?\nSPEAKER_01: Nu știu exact. Adică am mutat niște mobilă cu cumnatul meu, vreo două-trei cutii mai grele, și după o zi sau două a început să doară. Dar poate e și de la serviciu, stau mult la birou, la calculator, și parcă mereu am umărul ăsta ridicat, știți? Soția tot îmi spune să stau drept, dar...\nSPEAKER_00: Da, înțeleg. Alte probleme de sănătate aveți, boli cronice?\nSPEAKER_01: Am tensiune, de vreo patru ani. Iau Prestarium, o pastilă pe zi. Altceva nu, nu am diabet, nu am nimic altceva. Deși doctorul meu a zis că trebuie să slăbesc, vreo zece kile, dar asta e altă poveste.\nSPEAKER_00: Prestarium, o pastilă pe zi, da?\nSPEAKER_01: Da, da, 5 miligrame.\nSPEAKER_00: Bun. Haideți să vedem puțin cum stați. Ridicați mâna stângă în față, încet... Până unde puteți.\nSPEAKER_01: Până aici cam, că mai sus începe să tragă.\nSPEAKER_00: Și acum în lateral, ridicați umărul în lateral.\nSPEAKER_01: Au, da, ăsta doare mai tare.\nSPEAKER_00: Stați puțin, apăs eu ușor pe zona asta de aici. Doare?\nSPEAKER_01: Da, acolo exact, acolo e punctul.\nSPEAKER_00: Limitare la abducție, sensibilitate la inserția supraspinosului. O să lucrăm zona umărului și a musculaturii din jur. Vă pot spune că avem o inflamație în zona umerașului, cel mai probabil tendinopatie de supraspinat.\nSPEAKER_01: E grav? Că mă tot gândesc că poate e ceva rupt acolo, am citit pe internet și m-am speriat un pic.\nSPEAKER_00: Nu pare ruptură, mișcarea e prezentă, doar limitată și dureroasă. Lucrăm să reducem inflamația și să recâștigăm mobilitatea.\nSPEAKER_01: Bine, bine, mă bucur. Că mi-era teamă.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang, de aproximativ trei saptamani, aparuta dupa efort fizic (mutat mobila). Durere la ridicarea bratului si la decubit lateral stang.",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Prestarium",
+        "doza": "5 miligrame, o pastila pe zi"
+      },
+      {
+        "denumire": "gel diclofenac",
+        "doza": null
+      },
+      {
+        "denumire": "ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare la abductie, sensibilitate la insertia supraspinosului. Tendinopatie de supraspinat. Obiective: reducerea inflamatiei si recastigarea mobilitatii."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul stâng, de vreo trei săptămâni deja", "am mutat niște mobilă cu cumnatul meu, vreo două-trei cutii mai grele, și după o zi sau două a început să doară"],
+    "evaluarea_durerii_vas": ["Când ridic mâna, să zicem un 5. Dar când mă culc pe el noaptea, ajunge și la 7"],
+    "localizarea_durerii": ["mă doare umărul stâng"],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Am tensiune, de vreo patru ani."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Iau Prestarium, o pastilă pe zi", "Da, da, 5 miligrame", "Am pus un gel, unul cu diclofenac", "am luat și un ibuprofen câteodată"],
+    "evaluare_functionala_initiala": ["Limitare la abducție, sensibilitate la inserția supraspinosului. O să lucrăm zona umărului și a musculaturii din jur.", "avem o inflamație în zona umerașului, cel mai probabil tendinopatie de supraspinat", "Lucrăm să reducem inflamația și să recâștigăm mobilitatea."]
+  }
+}

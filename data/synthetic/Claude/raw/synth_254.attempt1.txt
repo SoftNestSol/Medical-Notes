@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Ionescu Radu.\nSPEAKER_00: Și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem astăzi, domnule Ionescu?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A fost vreo lovitură, vreo căzătură, ceva anume?\nSPEAKER_01: Nu știu, parcă am ridicat ceva greu la serviciu și de atunci.\nSPEAKER_00: Am înțeles. Doare în repaus sau doar când îl mișcați?\nSPEAKER_01: Când îl mișc mai mult.\nSPEAKER_00: Și noaptea vă deranjează?\nSPEAKER_01: Da, dacă stau pe el.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare când îl mișcați?\nSPEAKER_01: Un 6.\nSPEAKER_00: 6. Și când stați pe el noaptea?\nSPEAKER_01: Mai rău, un 8.\nSPEAKER_00: Durerea rămâne în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne în umăr, mai sus, pe aici.\nSPEAKER_00: Bine. Tensiune, diabet, alte probleme de sănătate?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva mișcări. Ridicați brațul drept în față, încet. Până unde puteți.\nSPEAKER_01: Până aici, mai sus mă doare.\nSPEAKER_00: Deci undeva la 90 de grade se blochează. Acum în lateral, la fel.\nSPEAKER_01: Același lucru.\nSPEAKER_00: Da. Și rotație în exterior, brațul îndoit.\nSPEAKER_01: Doare.\nSPEAKER_00: Doare. Unde exact, în față sau în spate?\nSPEAKER_01: În față, mai sus.\nSPEAKER_00: Am înțeles. Apăs puțin pe zona de inserție a supraspinosului, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Exact acolo. Bun. Și zona de biceps, pe tendon, doare?\nSPEAKER_01: Un pic.\nSPEAKER_00: Ok. Avem o inflamație la nivelul coafei rotatorilor, probabil supraspinosul. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea umărului drept. Primele ședințe vor fi mai delicate.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă.",
+
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept, apărută după efort fizic la serviciu, de aproximativ două săptămâni",
+    "evaluarea_durerii_vas": [6, 8],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Inflamație coafă rotatori, supraspinat umăr drept; posibil tendinită biceps.\nObiective terapeutice: reducerea inflamației; recâștigarea mobilității umărului drept."
+  },
+
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Vreo două săptămâni.", "parcă am ridicat ceva greu la serviciu și de atunci"],
+    "evaluarea_durerii_vas": ["Un 6.", "Mai rău, un 8."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Avem o inflamație la nivelul coafei rotatorilor, probabil supraspinosul. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea umărului drept."]
+  }
+}

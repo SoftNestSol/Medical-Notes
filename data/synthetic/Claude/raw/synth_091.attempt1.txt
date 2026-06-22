@@ -1,0 +1,47 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc. Am ridicat ceva greu.\nSPEAKER_00: Ce ați ridicat?\nSPEAKER_01: Niște saci.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât îl situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Vă doare și când stați liniștit sau numai când mișcați brațul?\nSPEAKER_01: Când mișc.\nSPEAKER_00: Puteți ridica brațul sus de tot?\nSPEAKER_01: Nu chiar. Mă ține pe la mijloc.\nSPEAKER_00: Adică undeva la 90 de grade?\nSPEAKER_01: Da, cam așa.\nSPEAKER_00: Și în spate, când duceți mâna la spate, doare?\nSPEAKER_01: Da, doare.\nSPEAKER_00: Noaptea vă trezește durerea?\nSPEAKER_01: Uneori.\nSPEAKER_00: Când stați pe umărul drept?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Luați vreun medicament acum pentru asta?\nSPEAKER_01: Nurofen, câteodată.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Când nu mai pot. Nu știu, o dată, de două ori pe săptămână.\nSPEAKER_00: Doza?\nSPEAKER_01: Nu știu exact. Cel normal.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio intervenție chirurgicală la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Fracturi vreodată la brațul drept?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok, stați puțin cu brațul pe lângă corp, relaxat. Încerc eu să ridic umărul ușor. Doare?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Acum apăs puțin aici, pe zona asta de sus a umărului. Doare?\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Bun. Ridicați brațul singur în față, încet. Opriți când doare.\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Undeva la 80-90 de grade, da. Și lateral?\nSPEAKER_01: La fel.\nSPEAKER_00: Înțeles. Pare a fi o inflamație a tendonului de supraspinos, cel mai probabil o tendinită de coafă. Vom lucra să reducem inflamația și să recuperăm mobilitatea. Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere la umărul drept apărută brusc după ridicare de greutăți (saci), de aproximativ două săptămâni. Durere la mișcare, limitarea ridicării brațului la ~90 de grade, treziri nocturne la dormitul pe umărul drept.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinită coafă rotatori dreapta (supraspinos)\nObiective terapeutice:\n- reducerea inflamației\n- recuperarea mobilității umărului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Brusc. Am ridicat ceva greu.",
+      "Vreo două săptămâni.",
+      "Mă ține pe la mijloc.",
+      "Când stați pe umărul drept?"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nurofen, câteodată."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o inflamație a tendonului de supraspinos, cel mai probabil o tendinită de coafă.",
+      "Vom lucra să reducem inflamația și să recuperăm mobilitatea."
+    ]
+  }
+}

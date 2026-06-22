@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi cu ce problemă veniți.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște cutii.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât e durerea acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare când ridicați brațul?\nSPEAKER_01: Da.\nSPEAKER_00: Și când stați liniștit?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Dar noaptea vă deranjează?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Pe ce parte dormiți?\nSPEAKER_01: Pe stânga de obicei.\nSPEAKER_00: Asta agravează. Durerea se lasă pe braț în jos?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeli în mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune arterială. Luați ceva pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: Zilnic?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Cancer, epilepsie, boli autoimune?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale la umăr vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin cu brațul pe lângă corp. Ridic eu ușor. Spuneți-mi când doare.\nSPEAKER_01: Acolo, da.\nSPEAKER_00: La circa 80-90 de grade. Bun. Acum rotim... Doare?\nSPEAKER_01: Da, puțin.\nSPEAKER_00: Apăs acum pe zona de aici, pe tendonul de supraspinos. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Pare o inflamație la nivelul coafei rotatorilor, cel mai probabil tendinita de supraspinos. Vom lucra să reducem inflamația și să recăpătăm mobilitatea completă a umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang aparuta dupa mutarea unor cutii grele, de aproximativ doua saptamani.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita de supraspinos, inflamatie coafa rotatori umar stang.\nObiective terapeutice: reducerea inflamatiei, refacerea mobilitatii umarul stang."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Vreo două săptămâni.", "Am mutat niște cutii."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Enalapril.", "10 miligrame."],
+    "evaluare_functionala_initiala": ["Pare o inflamație la nivelul coafei rotatorilor, cel mai probabil tendinita de supraspinos. Vom lucra să reducem inflamația și să recăpătăm mobilitatea completă a umărului."]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă vă vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume, după un efort, după o mișcare?\nSPEAKER_01: Nu știu exact. M-am trezit într-o dimineață și... era acolo.\nSPEAKER_00: Nu ați căzut, nu ați ridicat ceva greu înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau doar la mișcare?\nSPEAKER_01: La mișcare mai mult.\nSPEAKER_00: Ce mișcări vă deranjează? Dacă ridicați brațul în față?\nSPEAKER_01: Da, aia doare.\nSPEAKER_00: Și dacă îl ridicați în lateral?\nSPEAKER_01: Și aia, da.\nSPEAKER_00: Doare și noaptea, când dormiți pe umărul ăla?\nSPEAKER_01: Da, mă trezesc.\nSPEAKER_00: Înțeles. Durerea se lasă și pe braț în jos, pe cot?\nSPEAKER_01: Nu, rămâne sus.\nSPEAKER_00: Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, epilepsie?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să stați cu brațul relaxat pe lângă corp. Voi apăsa puțin pe zona asta de deasupra umărului. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă apăs mai în față, pe tendonul ăsta de aici?\nSPEAKER_01: Și acolo.\nSPEAKER_00: Ridicați brațul în lateral până unde puteți, fără să forțați.\nSPEAKER_01: Până pe la... pe la jumătate, cam atât.\nSPEAKER_00: Și apare durerea imediat sau doar la capătul mișcării?\nSPEAKER_01: Pe la mijloc apare.\nSPEAKER_00: Înțeles. Pare a fi o tendinită a coifului rotatorilor, mai precis pe tendonul supraspinosului. Asta-i cauza durerii la ridicare și noaptea când stați pe el. O să lucrăm în prima fază să reducem inflamația, și după vedem mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în sus.",
+
+  "note": {
+    "motivul_prezentarii": "durere umar drept",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinita coif rotatori, tendon supraspinos dr.\nObiective terapeutice:\n- reducerea procesului inflamator;\n- refacerea mobilitatii articulare"
+  },
+
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Pare a fi o tendinită a coifului rotatorilor, mai precis pe tendonul supraspinosului.", "O să lucrăm în prima fază să reducem inflamația, și după vedem mobilitatea."]
+  }
+}

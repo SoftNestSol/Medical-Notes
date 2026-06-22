@@ -1,0 +1,241 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 6.24,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua! Am așteptat puțin afară, nu știam dacă intru direct sau..."
+    },
+    {
+      "start": 6.36,
+      "end": 10.54,
+      "speaker": "SPEAKER_00",
+      "text": "Nu, nu, intreți liniștiți. Spuneți-mi cu ce problemă ne vedem."
+    },
+    {
+      "start": 10.66,
+      "end": 28.14,
+      "speaker": "SPEAKER_01",
+      "text": "Păi de vreo trei săptămâni mă doare umărul stâng. Rău de tot. Adică la început am zis că trece, că poate am dormit prost sau ceva, dar nu trece. Și mai ales noaptea e cel mai rău, mă trezesc și nu știu cum să mă poziționez."
+    },
+    {
+      "start": 28.26,
+      "end": 30.16,
+      "speaker": "SPEAKER_00",
+      "text": "Deci noaptea e mai rău."
+    },
+    {
+      "start": 30.28,
+      "end": 40.54,
+      "speaker": "SPEAKER_01",
+      "text": "Da, noaptea e groaznic. Ziua mai merge, dacă nu ridic mâna sus nu simt atât de tare, dar noaptea nu pot să dorm pe partea stângă deloc."
+    },
+    {
+      "start": 40.66,
+      "end": 43.32,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe ce parte dormiți de obicei?"
+    },
+    {
+      "start": 43.44,
+      "end": 50.28,
+      "speaker": "SPEAKER_01",
+      "text": "Pe stânga, tocmai asta e problema. Acum stau pe spate și nu sunt obișnuit și mă trezesc oricum."
+    },
+    {
+      "start": 50.4,
+      "end": 59.52,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare extrem de tare, cum estimați durerea?"
+    },
+    {
+      "start": 59.64,
+      "end": 67.62,
+      "speaker": "SPEAKER_01",
+      "text": "Ziua... un 4, ceva de genul. Dar noaptea când mă trezesc din somn, merge până la 8, chiar 8. E nasol."
+    },
+    {
+      "start": 67.74,
+      "end": 69.64,
+      "speaker": "SPEAKER_00",
+      "text": "Deci ziua 4, noaptea 8."
+    },
+    {
+      "start": 69.76,
+      "end": 70.9,
+      "speaker": "SPEAKER_01",
+      "text": "Cam așa, da."
+    },
+    {
+      "start": 71.02,
+      "end": 74.82,
+      "speaker": "SPEAKER_00",
+      "text": "Durerea stă strict în umăr sau coboară și pe braț?"
+    },
+    {
+      "start": 74.94,
+      "end": 84.44,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult în umăr, pe aici, și câteodată simt ceva și pe partea din față, undeva pe biceps, dar nu rău. Umărul e problema principală."
+    },
+    {
+      "start": 84.56,
+      "end": 86.46,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeli în mână, în degete?"
+    },
+    {
+      "start": 86.58,
+      "end": 89.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, amorțeli nu. Asta mă bucură cel puțin."
+    },
+    {
+      "start": 89.74,
+      "end": 94.68,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și cum a apărut? A fost ceva anume, un efort, o mișcare?"
+    },
+    {
+      "start": 94.8,
+      "end": 116.84,
+      "speaker": "SPEAKER_01",
+      "text": "Pai asta e, nu știu exact. Am mutat niște mobilă acum vreo lună, o canapea mare, și poate de atunci. Adică n-am simțit imediat, dar după vreo săptămână a început să mă doară. Nu știu dacă e de la aia sau e coincidență. Soția mea zice că sigur de la mobilă, că eu mereu ridic lucruri prost."
+    },
+    {
+      "start": 116.96,
+      "end": 121.14,
+      "speaker": "SPEAKER_00",
+      "text": "Probabil are dreptate. Și ce ați făcut până acum pentru durere?"
+    },
+    {
+      "start": 121.26,
+      "end": 134.94,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat un Voltaren gel, am dat cu el vreo câteva zile. Mai trecea un pic dar nu s-a rezolvat. Nu am luat pastile că nu îmi place să iau pastile dacă nu e urgent."
+    },
+    {
+      "start": 135.06,
+      "end": 139.24,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Aveți tensiune, diabet, probleme cu inima, osteoporoză, ceva de genul?"
+    },
+    {
+      "start": 139.36,
+      "end": 154.18,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Sunt sănătos tun altfel, ăsta e singurul lucru care mă deranjează acum. Am 38 de ani, mă mișc, mă duc la sală de trei ori pe săptămână. Sau mă duceam, acum nu mai pot cu umărul ăsta."
+    },
+    {
+      "start": 154.3,
+      "end": 156.96,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. La sală ce faceți de obicei?"
+    },
+    {
+      "start": 157.08,
+      "end": 168.1,
+      "speaker": "SPEAKER_01",
+      "text": "Piept, spate, brațe. Și asta mă îngrijorează, că stau de trei săptămâni și pierd tot ce am lucrat. Sper că nu e ceva grav, nu e ruptă ceva acolo?"
+    },
+    {
+      "start": 168.22,
+      "end": 173.54,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să vedem. Ridicați-mi mâna stângă încet în față, cât de sus puteți."
+    },
+    {
+      "start": 173.66,
+      "end": 176.7,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe la orizontală merge, dincolo de atât..."
+    },
+    {
+      "start": 176.82,
+      "end": 177.62,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 177.74,
+      "end": 180.78,
+      "speaker": "SPEAKER_01",
+      "text": "Da, începe pe la 90 de grade cam."
+    },
+    {
+      "start": 180.9,
+      "end": 182.8,
+      "speaker": "SPEAKER_00",
+      "text": "Și lateral, ridicați în lateral."
+    },
+    {
+      "start": 182.92,
+      "end": 187.48,
+      "speaker": "SPEAKER_01",
+      "text": "Și acolo la fel, cam de la 90 în sus mă frige."
+    },
+    {
+      "start": 187.6,
+      "end": 189.88,
+      "speaker": "SPEAKER_00",
+      "text": "Frige sau doare ca o presiune?"
+    },
+    {
+      "start": 190.0,
+      "end": 194.56,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult ca o presiune, ca și cum e ceva blocat acolo."
+    },
+    {
+      "start": 194.68,
+      "end": 198.1,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Rotiți umărul, ca și cum faceți un cerc."
+    },
+    {
+      "start": 198.22,
+      "end": 203.92,
+      "speaker": "SPEAKER_01",
+      "text": "Uite, la rotație în față merge mai bine, dar în spate... Au, nu, nu merge."
+    },
+    {
+      "start": 204.04,
+      "end": 212.78,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Deci rotația externă limitată, arc dureros prezent la abducție. Pare a fi o tendinopatie de supraspinos, posibil cu un conflict subacroamial."
+    },
+    {
+      "start": 212.9,
+      "end": 214.42,
+      "speaker": "SPEAKER_01",
+      "text": "Asta înseamnă ceva rupt?"
+    },
+    {
+      "start": 214.54,
+      "end": 227.84,
+      "speaker": "SPEAKER_00",
+      "text": "Nu neapărat. Înseamnă că tendonul este inflamat și când ridicați brațul el se strânge între oasele umărului, de aia doare mai tare la anumite unghiuri. O să lucrăm să reducem inflamația și să câștigăm mobilitate."
+    },
+    {
+      "start": 227.96,
+      "end": 234.04,
+      "speaker": "SPEAKER_01",
+      "text": "Bun, bun, mă bucur că nu e ruptă ceva. Și la sală pot să mă întorc?"
+    },
+    {
+      "start": 234.16,
+      "end": 239.48,
+      "speaker": "SPEAKER_00",
+      "text": "Deocamdată pauză de la exercițiile pentru umăr și piept. Haideți pe masă, vă rog."
+    }
+  ]
+}

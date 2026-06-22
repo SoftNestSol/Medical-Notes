@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stângul sau dreptul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Și de atunci a rămas durerea?\nSPEAKER_01: Da.\nSPEAKER_00: Vă doare și în repaus sau doar când mișcați?\nSPEAKER_01: Când mișc mai mult.\nSPEAKER_00: Când ridicați brațul, da?\nSPEAKER_01: Da, când îl ridic.\nSPEAKER_00: Se lasă și pe braț în jos durerea, spre cot?\nSPEAKER_01: Nu.\nSPEAKER_00: Doar în umăr.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât e durerea când ridicați brațul?\nSPEAKER_01: Un 7.\nSPEAKER_00: Un 7. Și în repaus?\nSPEAKER_01: Vreo 3.\nSPEAKER_00: Înțeles. Aveți și durere noaptea, vă treziți din somn?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Câteodată, da. Pe ce parte dormiți de obicei?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Pe dreapta, deci exact pe umărul care doare. Asta înrăutățește.\nSPEAKER_01: Da, e mai rău dimineața.\nSPEAKER_00: E mai rău dimineața. Înțeles. Haideți să ridicăm puțin brațul, da? Spuneți-mi când doare.\nSPEAKER_01: Acu, pe aici.\nSPEAKER_00: Pe la mijlocul arcului de mișcare doare mai tare, da?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Rotim acum spre exterior, ușor.\nSPEAKER_01: Au.\nSPEAKER_00: Doare la rotație externă. Și spre interior?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin. Bun. Alte afecțiuni aveți, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Aveți tensiune arterială. Luați ceva pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: 10 miligrame. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Diabet?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale la umăr, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai făcut vreun tratament pentru umăr până acum?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Bun. Deci ce avem aici pare o inflamație la nivelul manșetei rotatorilor, mai precis pe tendonul supraspinosului, dat fiind că doare la abducție și la rotație externă. Vom lucra să reducem inflamația și să recâștigăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+
+  "note": {
+    "motivul_prezentarii": "durere umar drept",
+    "evaluarea_durerii_vas": [7, 3],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie manseta rotatorilor, tendon supraspinos\nObiective terapeutice: reducerea inflamatiei; recastigarea mobilitatii umarului"
+  },
+
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul."],
+    "evaluarea_durerii_vas": ["Un 7.", "Vreo 3."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Enalapril.", "10 miligrame."],
+    "evaluare_functionala_initiala": ["pare o inflamație la nivelul manșetei rotatorilor, mai precis pe tendonul supraspinosului", "Vom lucra să reducem inflamația și să recâștigăm mobilitatea umărului."]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "conversation_id": "synth_062",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Am ridicat ceva mai greu la serviciu.",
+      "Vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo șase."
+    ],
+    "localizarea_durerii": [
+      "Umărul drept sau stâng?",
+      "Drept.",
+      "Doar în umăr."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofenul, câte unul.",
+      "O dată, două pe zi."
+    ],
+    "evaluare_functionala_initiala": [
+      "Cam la nouăzeci de grade. Doare acum?",
+      "Văd că e limitată și rotația.",
+      "Apăs acum pe tendonul de sus al umărului, doare aici?",
+      "Da, acolo e mai rău.",
+      "Deci avem o sensibilitate la nivelul tendonului supraspinos. Mobilitatea e limitată la flexie și rotație internă. Cred că avem o tendinopatie de supraspinos, posibil cu o mică iritație subacromială. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 13854
+    },
+    "cache_creation_input_tokens": 13854,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1665,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

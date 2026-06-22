@@ -1,0 +1,53 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă veniți azi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar, deci. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați ridicat ceva greu, ați stat mult jos?\nSPEAKER_01: Am stat mult la birou.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare vă doare?\nSPEAKER_01: Cam un 5.\nSPEAKER_00: Doare tot timpul sau numai când faceți ceva anume?\nSPEAKER_01: Când stau jos mult. Și când mă ridic.\nSPEAKER_00: Când vă ridicați în picioare, da?\nSPEAKER_01: Da.\nSPEAKER_00: Durerea se lasă și pe picior, pe fesă, pe undeva?\nSPEAKER_01: Nu.\nSPEAKER_00: Strict în spate.\nSPEAKER_01: Da.\nSPEAKER_00: Amorțesc picioarele vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Aveți vreo boală despre care știți, tensiune, diabet, ceva la oase?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nurofen, când nu mai pot.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Nu știu... de două ori pe săptămână, poate.\nSPEAKER_00: Înțeles. Haideți să vă uit puțin la postură. Stați drept aici, cu mâinile pe lângă corp.\nSPEAKER_01: Așa?\nSPEAKER_00: Da, exact. Observ că aveți bazinul puțin anteriorsat și o hiperlordoză lombară. Acum aplecați-vă puțin în față, cu genunchii drepți.\nSPEAKER_01: Doare puțin când mă aplec.\nSPEAKER_00: Și când vă îndreptați înapoi?\nSPEAKER_01: Mai tare.\nSPEAKER_00: Înțeles. Vă apăs puțin pe zona lombară, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Pe ambele părți sau mai mult pe una?\nSPEAKER_01: Pe dreapta mai tare.\nSPEAKER_00: Ok. Deci avem o tensionare musculară paravertebrală, mai accentuată pe dreapta, cu o postură care pune presiune pe zona lombară. Cel mai probabil din cauza statului la birou. O să lucrăm la reducerea tensiunii musculare și la corectarea posturii.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară de aproximativ două săptămâni, apărută în context de stat prelungit la birou. Durerea se accentuează la șezut prelungit și la ridicarea din șezut. Fără iradiere pe membre inferioare, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nBazin anteversat, hiperlordoză lombară. Durere la flexia trunchiului și la revenire din flexie (mai accentuată la revenire). Palpare paravertebrală lombară dureroasă, mai accentuată pe dreapta.\nDiagnostic:\nTensionare musculară paravertebrală lombară, mai accentuată pe dreapta, pe fond postural (hiperlordoză, anteversia bazinului) secundar statului prelungit la birou.\nObiective terapeutice:\nReducerea tensiunii musculare; corectarea posturii."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "Am stat mult la birou.",
+      "Când stau jos mult. Și când mă ridic.",
+      "Nu.",
+      "Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Cam un 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "Lombar, deci."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nurofen, când nu mai pot."
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți bazinul puțin anteriorsat și o hiperlordoză lombară.",
+      "Doare puțin când mă aplec.",
+      "Mai tare.",
+      "Da, acolo.",
+      "Pe dreapta mai tare.",
+      "Deci avem o tensionare musculară paravertebrală, mai accentuată pe dreapta, cu o postură care pune presiune pe zona lombară.",
+      "O să lucrăm la reducerea tensiunii musculare și la corectarea posturii."
+    ]
+  }
+}

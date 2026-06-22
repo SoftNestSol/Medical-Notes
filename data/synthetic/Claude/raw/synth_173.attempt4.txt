@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați lovit?\nSPEAKER_01: Nu.\nSPEAKER_00: Nimic anume?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Aha, deci după efort.\nSPEAKER_01: Da.\nSPEAKER_00: Doare constant sau numai când mișcați brațul?\nSPEAKER_01: Când îl ridic mai ales.\nSPEAKER_00: Când ridicați brațul sus doare?\nSPEAKER_01: Da, și când îl duc în spate.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, cum e acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Iar când faceți mișcarea aia, când ridicați?\nSPEAKER_01: Atunci 8.\nSPEAKER_00: Înțeleg. Durerea rămâne la umăr sau coboară pe braț?\nSPEAKER_01: Rămâne acolo.\nSPEAKER_00: Ok. Aveți și senzație de amorțeală, furnicături în mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Noaptea vă deranjează?\nSPEAKER_01: Da, dacă stau pe partea aia.\nSPEAKER_00: Pe umărul drept nu puteți dormi?\nSPEAKER_01: Nu pot.\nSPEAKER_00: Am înțeles. Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Ibuprofen.\nSPEAKER_00: Cât?\nSPEAKER_01: 400, când doare mai tare.\nSPEAKER_00: Alte probleme de sănătate, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio operație, nicio fractură la umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Stați puțin cu brațul pe lângă corp... Ridic eu acum brațul. Doare?\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Aici în față, la nivelul tendonului, doare la apăsare?\nSPEAKER_01: Da.\nSPEAKER_00: Și aici lateral?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Am înțeles. Rotație internă, ducem mâna la spate... Doare?\nSPEAKER_01: Da, mult.\nSPEAKER_00: Bun. Deci avem o inflamație la nivelul tendonului supraspinos și posibil și a bicepsului, zona anterioară. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după efort fizic (mutat mobilă), de aproximativ două săptămâni. Durere la ridicarea brațului și la ducerea lui în spate, cu limitarea somnului pe partea dreaptă.",
+    "evaluarea_durerii_vas": [5, 8],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg la nevoie"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamație tendon supraspinos și posibil tendon biceps (zona anterioară). Obiective terapeutice: reducerea inflamației și recuperarea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Vreo două săptămâni.", "Am mutat niște mobilă.", "Când îl ridic mai ales.", "și când îl duc în spate.", "dacă stau pe partea aia"],
+    "evaluarea_durerii_vas": ["Vreo 5.", "Atunci 8."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Ibuprofen.", "400, când doare mai tare."],
+    "evaluare_functionala_initiala": ["Deci avem o inflamație la nivelul tendonului supraspinos și posibil și a bicepsului, zona anterioară. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

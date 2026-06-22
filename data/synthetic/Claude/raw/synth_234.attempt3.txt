@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut după ceva anume, după un efort, după o lovitură?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Aha, deci după un efort fizic. Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Doare constant sau numai când mișcați brațul?\nSPEAKER_01: Când îl mișc.\nSPEAKER_00: Când îl mișcați. Și când ridicați brațul în sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Până unde puteți să ridicați? Arătați-mi.\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci cam până la orizontală. Și dacă duceți brațul în spate?\nSPEAKER_01: Și aia doare.\nSPEAKER_00: Doare. Amorțește ceva pe braț în jos?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Vă voi apăsa acum un pic pe zona umărului, spuneți-mi unde doare mai tare. Aici?\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Pe zona anterioară a umărului, da?\nSPEAKER_01: Da.\nSPEAKER_00: Și mai sus, pe acromion?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin. Bun. Ridicați acum brațul lateral, ușor.\nSPEAKER_01: Au.\nSPEAKER_00: Doare între 60 și 90 de grade?\nSPEAKER_01: Da, acolo cam.\nSPEAKER_00: Înțeles. Aveți vreo afecțiune, tensiune, diabet, ceva de care să știu?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere prin sânge, implanturi metalice?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Perfect. Deci ce avem noi aici pare a fi o inflamație la nivelul tendonului supraspinos, ce numim tendinită de coafă a rotatorilor. Durerea în arcul acela de mișcare, între 60 și 90 de grade, e clasică pentru asta. Va trebui să reducem inflamația în prima fază și după aceea să recuperăm mobilitatea completă a umărului. Facem azi prima ședință?\nSPEAKER_01: Da.\nSPEAKER_00: Bun, haideți pe masă atunci.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept aparuta dupa efort fizic (mutare mobilă), de două săptămâni",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinită coafă rotatori umăr drept (tendon supraspinos)\nObiective terapeutice:\n- reducerea inflamației;\n- recuperarea mobilității complete a umărului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Am mutat niște mobilă.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul.", "Pe zona anterioară a umărului, da?"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu."],
+    "evaluare_functionala_initiala": ["pare a fi o inflamație la nivelul tendonului supraspinos, ce numim tendinită de coafă a rotatorilor", "Va trebui să reducem inflamația în prima fază și după aceea să recuperăm mobilitatea completă a umărului"]
+  }
+}

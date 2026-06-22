@@ -1,0 +1,47 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi vă rog cu ce problemă ați venit.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume? Ați căzut, ați ridicat ceva?\nSPEAKER_01: Am ridicat niște saci la serviciu.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Un 5.\nSPEAKER_00: Doare tot timpul sau doar când mișcați?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Sus, în față sau în lateral?\nSPEAKER_01: Mai mult în lateral.\nSPEAKER_00: Doare și noaptea când stați pe el?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Și în față doare când ridicați?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Ok. Amorțește brațul sau mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să fac eu câteva teste. Ridicați brațul în lateral încet. Opriți când doare.\nSPEAKER_01: Aici.\nSPEAKER_00: Cam la 80-90 de grade, da?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă continui să ridicați mai sus?\nSPEAKER_01: Mai trece puțin.\nSPEAKER_00: Deci avem un arc dureros la mijloc. Asta e specific pentru o problemă la nivelul tendoanelor din umăr, cel mai probabil o tendinită sau o ușoară impingement.\nSPEAKER_00: Apăs aici pe umăr. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Dar aici mai jos?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeles. Alte probleme de sănătate, tensiune, diabet, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați medicamente acum?\nSPEAKER_01: Ibuprofenul, uneori.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Când doare rău, o pastilă.\nSPEAKER_00: Doza, știți?\nSPEAKER_01: Nu știu exact, cel obișnuit de la farmacie.\nSPEAKER_00: Ok, înțeles. Altceva nu luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci avem o tendinită la nivelul umărului stâng, cel mai probabil la supraspinos, cu un sindrom de impingement. O să lucrăm să reducem inflamația și să recuperăm mobilitatea completă.",
+  "note": {
+    "motivul_prezentarii": "Durere la umărul stâng apărută în urmă cu două săptămâni după ridicare de saci la serviciu. Durere la abducție (arc dureros la 80-90 grade), mai puțin la flexie anterioară. Durere nocturnă în decubit pe umărul afectat.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\nTendinită umăr stâng (supraspinos), sindrom de impingement - arc dureros la abducție 80-90 grade.\nObiective terapeutice:\n- reducerea procesului inflamator;\n- recuperarea mobilității complete a umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Am ridicat niște saci la serviciu.",
+      "Vreo două săptămâni.",
+      "Mai mult în lateral.",
+      "Da, un pic."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofenul, uneori."
+    ],
+    "evaluare_functionala_initiala": [
+      "Deci avem un arc dureros la mijloc. Asta e specific pentru o problemă la nivelul tendoanelor din umăr, cel mai probabil o tendinită sau o ușoară impingement.",
+      "Deci avem o tendinită la nivelul umărului stâng, cel mai probabil la supraspinos, cu un sindrom de impingement. O să lucrăm să reducem inflamația și să recuperăm mobilitatea completă."
+    ]
+  }
+}

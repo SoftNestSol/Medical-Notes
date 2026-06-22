@@ -1,0 +1,28 @@
+{
+  "motivul_prezentarii": "Dureri cervicale, ceafă, iradiere umăr drept și omoplat drept, dureri de cap asociate",
+  "evaluarea_durerii_vas": [
+    6,
+    8
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "cap_ceafa",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "omoplat drept",
+  "antecedente": [
+    "scolioza_cifoza"
+  ],
+  "antecedente_altele": "fractură pumn drept în antecedente (vindecată)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    },
+    {
+      "denumire": "Magne B6",
+      "doza": "o pastilă pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: tensionare musculatură cervicală dreaptă cu iradiere umăr drept și omoplat; restricție rotație cervicală spre dreapta.\nObiective terapeutice: relaxarea musculaturii cervicale și a trapezului; reducerea tensiunii musculare."
+}

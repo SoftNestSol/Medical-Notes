@@ -1,0 +1,39 @@
+{
+  "conversation_id": "synth_246",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul, cel drept, de vreo trei săptămâni. A început după ce am zugrăvit casa, am stat mult cu mâna sus și de atunci nu mai pot să ridic brațul bine."
+    ],
+    "evaluarea_durerii_vas": [
+      "Dacă ridic brațul sus sau mă sprijin pe el, un 7."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul, cel drept",
+      "umărul e problema principală"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel, Voltaren, din când în când"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendoanelor din umăr, cel mai probabil manșeta rotatorilor, supraspinatul e cel mai afectat",
+      "Vom lucra să reducem inflamația și să refacem mobilitatea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13758,
+    "inference_geo": "global",
+    "input_tokens": 314,
+    "output_tokens": 1877,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

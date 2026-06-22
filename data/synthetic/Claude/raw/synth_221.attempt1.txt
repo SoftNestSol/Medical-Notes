@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște cutii la serviciu.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau numai când mișcați brațul?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Când ridicați sus?\nSPEAKER_01: Da.\nSPEAKER_00: Doare și noaptea, când stați pe el?\nSPEAKER_01: Uneori.\nSPEAKER_00: Se lasă durerea pe braț în jos, pe cot?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțește mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Afecțiuni, tensiune, diabet, epilepsie, cancer?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Ridicați brațul drept așa, în față, cât puteți. Până unde ajungeți?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Și în lateral, ridicați lateral?\nSPEAKER_01: Și acolo doare.\nSPEAKER_00: Înțeles. Stați puțin, vă apăs eu acum pe zona de sus a umărului, pe acromion. Doare?\nSPEAKER_01: Da, acolo e.\nSPEAKER_00: Da, acolo e. Și rotind brațul în afară, așa, doare?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Pare a fi o inflamație la nivelul tendonului supraspinos, cel mai probabil o tendinită de manșetă rotatoare. Mobilitatea e limitată, mai ales la ridicarea brațului. O să lucrăm să reducem inflamația și să refacem mișcarea normală a umărului.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept, aparuta dupa mutarea unor cutii la serviciu, de aproximativ doua saptamani. Doare la ridicarea bratului, uneori si noaptea.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita manseta rotatoare umar dr. (inflamatie tendon supraspinos).\nObiective terapeutice: reducerea inflamatiei; refacerea mobilitatii umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Am mutat niște cutii la serviciu.", "Vreo două săptămâni.", "Când ridic mâna.", "Uneori."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Pare a fi o inflamație la nivelul tendonului supraspinos, cel mai probabil o tendinită de manșetă rotatoare. Mobilitatea e limitată, mai ales la ridicarea brațului. O să lucrăm să reducem inflamația și să refacem mișcarea normală a umărului."]
+  }
+}

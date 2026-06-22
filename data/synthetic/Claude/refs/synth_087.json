@@ -1,0 +1,30 @@
+{
+  "motivul_prezentarii": "Durere lombară joasă cronică (aprox. 2 ani), acutizată în ultimele două săptămâni, cu iradiere ocazională pe fesier și coapsa stângă. Exacerbată dimineața la sculare și după stat prelungit la birou. Parțial ameliorată de mers.",
+  "evaluarea_durerii_vas": [
+    5,
+    8
+  ],
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": "fesier stâng, coapsa stângă",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "colesterol ridicat (hipercolesterolemie)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "5 miligrame"
+    },
+    {
+      "denumire": "Sortis",
+      "doza": "20 de miligrame"
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Mobilitate lombară limitată la flexie și rotație stânga. Test Lasègue pozitiv pe stânga la aproximativ 40 de grade (senzație de tracțiune pe traiectul sciatic), negativ pe dreapta. Contractură musculară paravertebrală stânga la palpare. Diagnostic: lombalgie cronică cu componentă musculară importantă, posibil iritație radiculară L4-L5 sau L5-S1 stânga. Obiective terapeutice: reducerea contracturii musculare, mobilizarea articulațiilor sacroiliace, ameliorarea iritației radiculare."
+}

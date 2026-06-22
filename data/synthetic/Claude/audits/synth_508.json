@@ -1,0 +1,50 @@
+{
+  "conversation_id": "synth_508",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare genunchiul, de ceva timp deja",
+      "A început mai ușor, și-acum e mai rău",
+      "poate trei, poate mai mult. Nu am ținut minte când a început precis",
+      "Când urc sau cobor scările, atunci e mai rău. Și dimineața când mă ridic din pat, mai ales. Câteva minute nu prea pot să merg normal.",
+      "am impresia că da, uneori pare puțin mai umflat. Seara mai ales.",
+      "Rămâne la genunchi. Eventual un pic pe coapsă, mai sus, câteodată, dar nu jos."
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "Cel drept. Da, cel drept mai mult.",
+      "Cam pe aici, pe partea din față, și puțin pe interior."
+    ],
+    "localizarea_durerii_alta": [
+      "Eventual un pic pe coapsă, mai sus, câteodată, dar nu jos."
+    ],
+    "antecedente": [
+      "am o scolioză ușoară, mi-a spus un doctor acum mulți ani, dar nu mi-a zis că e ceva grav."
+    ],
+    "antecedente_altele": [
+      "Am avut o fractură la mână, la mâna stângă, acum... doisprezece ani, ceva de genul. A trecut bine, nu mai am probleme cu ea."
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară angulare în valgus la genunchiul drept.",
+      "Stați puțin pe piciorul drept pentru mine... vă ține?",
+      "avem sensibilitate la nivelul interliniei mediale și al tendonului patelar, cu ușoară instabilitate în single leg stance",
+      "tabloul este sugestiv pentru o condrită perirotulară și posibilă afectare a ligamentului colateral medial",
+      "trebuie să lucrăm la reducerea inflamației locale, la întărirea musculaturii din jurul genunchiului, cvadriceps și ischiogambieri, și la corectarea biomecanicii",
+      "Obiectivul principal e să scădem inflamația, să stabilizăm genunchiul și să vă recăpătați mobilitatea completă la urcat scări."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23139,
+    "inference_geo": "global",
+    "input_tokens": 353,
+    "output_tokens": 3767,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

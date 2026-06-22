@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Cel drept.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut din senin sau după ceva anume?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Ați ridicat ceva greu.\nSPEAKER_01: Da.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Doare constant sau numai când mișcați?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Când ridicați mâna. Sus, până la orizont sau și mai sus?\nSPEAKER_01: Mai sus de umăr nu pot.\nSPEAKER_00: Nu puteți ridica deasupra umărului. Și dacă duceți mâna în spate, doare?\nSPEAKER_01: Da, și așa.\nSPEAKER_00: Doare și acolo. Amorțește vreun pic brațul sau degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Ați mai avut probleme la umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Prima dată. Alte afecțiuni, tensiune, diabet, epilepsie, osteoporoză?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu iau nimic.\nSPEAKER_00: Alergii la creme sau unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să fac câteva teste. Ridicați brațul drept încet în față, cât puteți.\nSPEAKER_01: Până pe aici.\nSPEAKER_00: Doare de la ce unghi, cam de pe la 90 de grade?\nSPEAKER_01: Da, cam acolo.\nSPEAKER_00: Și în lateral la fel?\nSPEAKER_01: Da.\nSPEAKER_00: Acum apăs puțin pe fața umărului, spuneți-mi dacă doare.\nSPEAKER_01: Au, da.\nSPEAKER_00: Doare aici pe fața anterioară. Și pe lateral?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin. Bun. Ce lucru faceți, dacă pot să întreb?\nSPEAKER_01: Contabil, stau mult la birou.\nSPEAKER_00: La birou, deci și postura poate contribui. Avem de-a face cu o inflamație la nivelul tendoanelor coifului rotator, cel mai probabil. Vom lucra să reducem inflamația, după care refacem mobilitatea umărului. Câteva ședințe și ar trebui să se simtă mai bine.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie tendoane coif rotator umar dr.\nObiective terapeutice:\n- reducerea inflamatiei;\n- refacerea mobilitatii umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Cel drept."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Cel drept.", "Mă doare umărul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu iau nimic."],
+    "evaluare_functionala_initiala": ["Avem de-a face cu o inflamație la nivelul tendoanelor coifului rotator, cel mai probabil. Vom lucra să reducem inflamația, după care refacem mobilitatea umărului."]
+  }
+}

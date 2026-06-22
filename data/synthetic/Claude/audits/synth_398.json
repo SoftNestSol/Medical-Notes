@@ -1,0 +1,50 @@
+{
+  "conversation_id": "synth_398",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare... pe-aici, pe la umăr, pe partea asta dreaptă. De ceva timp.",
+      "mai ales când ridic mâna sus sau când încerc să iau ceva de pe un raft mai înalt",
+      "după ce am făcut niște exerciții cu haltera, sus la umăr, a început să mă doară mai tare",
+      "câteodată mă mai ține și ceva pe-acolo, dar mai puțin. Asta e mai în fundal, nu mă deranjează la fel de tare ca umărul"
+    ],
+    "evaluarea_durerii_vas": [
+      "Poate un 7, un 8, nu știu exact. Când ridic mâna.",
+      "Atunci poate un 3, un 4. Sau chiar mai puțin."
+    ],
+    "localizarea_durerii": [
+      "mă doare... pe-aici, pe la umăr, pe partea asta dreaptă",
+      "câteodată mă mai ține și ceva pe-acolo, dar mai puțin",
+      "Mai mult o tensiune, o greutate, nu știu cum să zic. Nu e chiar o durere."
+    ],
+    "localizarea_durerii_alta": [
+      "Câteodată simt ceva și pe-aici, pe braț în jos",
+      "parcă pe-aici, pe exterior"
+    ],
+    "antecedente": [
+      "La coloană mi-a zis cineva cândva că am o ușoară scolioză, dar nu știu cât de mare."
+    ],
+    "antecedente_altele": [
+      "am avut o fractură la mână acum mulți ani, la stânga, dar aia a trecut. Am vreo 20 de ani de atunci, nu mai e nicio problemă."
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "la aproximativ 90 de grade apare durerea",
+      "avem o limitare la rotația internă și o durere la abducție între 60 și 120 de grade, ceea ce sugerează o inflamație la nivelul tendonului supraspinosului, posibil un sindrom de impingement subacromial",
+      "Va trebui să reducem inflamația din zona respectivă, să relaxăm musculatura din jurul umărului, mușchii manșetei rotatorilor, trapezul, deltoidul, și să recuperăm mobilitatea pe care ați pierdut-o. O să lucrăm și puțin cervical"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22994,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 3769,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

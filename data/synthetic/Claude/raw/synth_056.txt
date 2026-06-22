@@ -1,0 +1,54 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua! Scuzați că am întârziat un pic, am stat în trafic, știți cum e pe la ora asta.\nSPEAKER_00: Nu e nicio problemă. Spuneți-mi cu ce problemă ne vedem.\nSPEAKER_01: Păi, mă doare spatele în zona de jos, de vreo două săptămâni, dar sincer cred că a început de mai demult, adică am tot simțit ceva, dar n-am dat importanță. Acum nu mai pot să stau în picioare mai mult de zece minute fără să mă apuce durerea aia. Și mă tem că e ceva grav, că am citit pe internet tot felul de lucruri despre hernie și nu știu ce, și m-am speriat.\nSPEAKER_00: Înțeleg. Deci zona lombară. Durerea rămâne locală sau se lasă și pe picior în jos?\nSPEAKER_01: Se lasă, da, pe piciorul drept, pe coapsă în jos, câteodată simt un fel de furnicătură până la genunchi. Nu mai jos, că aia n-am, mulțumesc lui Dumnezeu, dar până la genunchi da. Am zis că poate am stat prost, că lucrez la birou, stau mult pe scaun, opt-nouă ore pe zi, și poate de aia, nu știu.\nSPEAKER_00: Da, postura la birou poate contribui. De când exact cu furnicătura pe picior?\nSPEAKER_01: Furnicătura a apărut mai recent, adică vreo cinci zile, nu mai mult. Înainte era doar durerea în spate.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare acum în zona lombară?\nSPEAKER_01: Acum, în repaus, un 5. Dar dacă stau mult în picioare sau ridic ceva, ajunge ușor la 8. Am ridicat o ladă de apă acum câteva zile și am crezut că leșin.\nSPEAKER_00: Am înțeles. Alte afecțiuni, tensiune, diabet, ceva?\nSPEAKER_01: Tensiune am, da. Iau și pastile pentru asta. Iau Prestarium, un comprimat pe zi, de vreo doi ani. Altceva nu știu, adică am mai avut și probleme cu stomacul, gastrită, dar aia e mai veche și nu știu dacă contează.\nSPEAKER_00: Contează, mulțumesc. Altceva, vreo operație, accident?\nSPEAKER_01: Nu, operație n-am avut. Accident... păi, acum vreo trei ani am căzut pe gheață și m-am lovit la același spate, dar atunci a trecut, n-am mers la doctor, probabil n-a fost nimic serios. Sau poate a lăsat ceva, cine știe, de aia mă și tem acum.\nSPEAKER_00: Bine. Haideți să verificăm puțin. Rămâneți în picioare. Aplecați-vă ușor înainte.\nSPEAKER_01: Aaah, da, uite, asta doare.\nSPEAKER_00: Da. Acum o să apăs pe zona lombară, îmi spuneți dacă doare.\nSPEAKER_01: Da, doare, pe partea dreaptă mai tare.\nSPEAKER_00: Pe partea dreaptă. Și la piriform?\nSPEAKER_01: Acolo... da, și acolo e sensibil.\nSPEAKER_00: Ok. Avem o tensiune musculară importantă pe dreapta în zona lombară și în piriform. Din ce îmi descrieți, cu iradierea pe coapsă și furnicătura până la genunchi, e posibil să avem o iritație pe nervul sciatic. O să lucrăm să reducem inflamația musculară și să vedem cum evoluează.\nSPEAKER_01: Și nu e hernie? Că mă tot gândesc la asta, am citit că odată cu hernia nu mai ești același.\nSPEAKER_00: Nu putem stabili asta fără un RMN. Deocamdată tratăm ce vedem funcțional. Dacă nu răspunde în câteva ședințe, vă recomand investigație imagistică.\nSPEAKER_01: Ok, înțeleg. Și pot să fac și sport? Că eu alerg de obicei, de două ori pe săptămână, dar de o săptămână m-am oprit că mi-a fost teamă.\nSPEAKER_00: Bine ați făcut că v-ați oprit. Deocamdată pauză de la alergat, până stabilizăm situația.\nSPEAKER_01: Bine, înțeleg. Sper să meargă repede că mă plictisesc fără mișcare.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară cu iradiere pe membrul inferior drept (coapsă, furnicătură până la genunchi), accentuată la ortostatism prelungit și la efort",
+    "evaluarea_durerii_vas": [5, 8],
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": "coapsa dreapta, iradiere pana la genunchi drept",
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": "gastrita",
+    "medicatie_actuala": [
+      {
+        "denumire": "Prestarium",
+        "doza": "un comprimat pe zi"
+      }
+    ],
+    "evaluare_functionala_initiala": "Tensiune musculară importantă pe dreapta în zona lombară și în piriform; iritație posibilă pe nervul sciatic. Obiective: reducerea inflamației musculare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele în zona de jos, de vreo două săptămâni",
+      "nu mai pot să stau în picioare mai mult de zece minute fără să mă apuce durerea aia",
+      "Se lasă, da, pe piciorul drept, pe coapsă în jos, câteodată simt un fel de furnicătură până la genunchi"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în repaus, un 5",
+      "dacă stau mult în picioare sau ridic ceva, ajunge ușor la 8"
+    ],
+    "localizarea_durerii": [
+      "mă doare spatele în zona de jos",
+      "doare, pe partea dreaptă mai tare"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă, da, pe piciorul drept, pe coapsă în jos, câteodată simt un fel de furnicătură până la genunchi"
+    ],
+    "antecedente": [
+      "Tensiune am, da"
+    ],
+    "antecedente_altele": [
+      "am mai avut și probleme cu stomacul, gastrită"
+    ],
+    "medicatie_actuala": [
+      "Iau Prestarium, un comprimat pe zi, de vreo doi ani"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o tensiune musculară importantă pe dreapta în zona lombară și în piriform",
+      "cu iradierea pe coapsă și furnicătura până la genunchi, e posibil să avem o iritație pe nervul sciatic",
+      "O să lucrăm să reducem inflamația musculară"
+    ]
+  }
+}

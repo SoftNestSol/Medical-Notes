@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți la noi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Treptat, parcă.\nSPEAKER_00: Ați făcut ceva anume înainte să înceapă? Efort, cărat ceva?\nSPEAKER_01: Am mutat niște cutii.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau doar când mișcați brațul?\nSPEAKER_01: Când ridic brațul mai sus.\nSPEAKER_00: Și seara, când staț pe el, vă trezește din somn?\nSPEAKER_01: Da, uneori.\nSPEAKER_00: Durerea coboară și pe braț, pe antebraț?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeli, furnicături în mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați brațul în față pentru mine, încet.\nSPEAKER_01: Până pe aici pot.\nSPEAKER_00: Deci până la aproximativ 90 de grade și doare mai sus. Și lateral, ridicați lateral.\nSPEAKER_01: Asta doare mai rău.\nSPEAKER_00: Mai rău la abducție. Ok. Și dacă duceți mâna la spate, ca să vă scărpinați între omoplați?\nSPEAKER_01: Nu prea pot.\nSPEAKER_00: Înțeleg. Vârsta dumneavoastră?\nSPEAKER_01: 38.\nSPEAKER_00: Ocupație?\nSPEAKER_01: Depozit. Muncă fizică.\nSPEAKER_00: Ați mai avut ceva la umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză, altceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci ce vedem noi aici este o inflamație la nivelul tendonului supraspinosului, probabil după efortul de la mutatul cutiilor. Avem o limitare de mobilitate la abducție și la rotație internă. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului. Da?\nSPEAKER_01: Da.\nSPEAKER_00: Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Pacient acuză durere la nivelul umărului stâng, instalată treptat în urmă cu aproximativ două săptămâni, apărută după mutatul unor cutii. Durerea se accentuează la ridicarea brațului și la abducție, cu treziri nocturne la decubit pe umărul afectat.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nLimitare de mobilitate la abducție (durere la ridicarea laterală a brațului, mai accentuată decât la flexie anterioară); flexie anterioară limitată la aproximativ 90 de grade; rotație internă limitată (imposibilitate de a duce mâna la spate). Fără iradiere pe braț sau antebraț, fără amorțeli.\nDiagnostic:\nInflamație la nivelul tendonului supraspinosului, posttraumatic (efort de ridicare/cărat).\nObiective terapeutice:\nReducerea inflamației; recuperarea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "De vreo două săptămâni.", "Am mutat niște cutii.", "Când ridic brațul mai sus.", "Da, uneori."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Deci până la aproximativ 90 de grade și doare mai sus.", "Mai rău la abducție.", "Nu prea pot.", "ce vedem noi aici este o inflamație la nivelul tendonului supraspinosului", "O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

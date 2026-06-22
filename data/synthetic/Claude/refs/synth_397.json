@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "Durere la umărul drept de aproximativ trei săptămâni, apărută posibil după efort la sală (presă cu bara). Durere în repaus VAS 4/10, la mișcare VAS 7-8/10. Iradiere parțială pe fața anterioară a brațului drept până la jumătatea acestuia. Limitare la rotația internă și la abducție. Durere nocturnă la poziționarea pe umărul drept. Asociat: cervicalgie cronică la birou.",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "fața anterioară a brațului drept (până la jumătatea brațului)",
+  "antecedente": [
+    "scolioza_cifoza"
+  ],
+  "antecedente_altele": "fractură gleznă stângă vindecată (în liceu, tratat conservator cu ghips)",
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Observații funcționale / biomecanice:\nLimitare la rotația internă a umărului drept. Arc dureros la abducție între aproximativ 70 și 120 de grade. Durere la palparea capului humeral anterior. Forță de abducție păstrată la testare izometrică cu rezistență.\nDiagnostic:\nTendinopatie / inflamație tendon supraspinos cu posibilă suferință a bursei subacromiale (umăr drept).\nObiective terapeutice:\nReducerea procesului inflamator; refacerea mobilității umărului drept; stabilizarea manșetei rotatorilor; lucru cervical asociat."
+}

@@ -1,0 +1,469 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, domnișoară."
+    },
+    {
+      "start": 1.26,
+      "end": 2.06,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 2.18,
+      "end": 5.6,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi și mie, vă rog, cum vă numiți."
+    },
+    {
+      "start": 5.72,
+      "end": 6.52,
+      "speaker": "SPEAKER_01",
+      "text": "Andreea Moldovan."
+    },
+    {
+      "start": 6.64,
+      "end": 8.92,
+      "speaker": "SPEAKER_00",
+      "text": "Andreea, bine ați venit. Și vârsta?"
+    },
+    {
+      "start": 9.04,
+      "end": 10.18,
+      "speaker": "SPEAKER_01",
+      "text": "34 de ani."
+    },
+    {
+      "start": 10.3,
+      "end": 13.34,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 13.46,
+      "end": 21.82,
+      "speaker": "SPEAKER_01",
+      "text": "Păi mă doare umărul, cel stâng, de ceva vreme. Nu știu exact de când, poate de vreo două luni, poate mai mult."
+    },
+    {
+      "start": 21.94,
+      "end": 25.74,
+      "speaker": "SPEAKER_00",
+      "text": "Două luni, da. Și a apărut dintr-odată sau treptat?"
+    },
+    {
+      "start": 25.86,
+      "end": 33.08,
+      "speaker": "SPEAKER_01",
+      "text": "Treptat, parcă. Nu m-am lovit sau ceva, pur și simplu a început să mă doară tot mai mult."
+    },
+    {
+      "start": 33.2,
+      "end": 36.62,
+      "speaker": "SPEAKER_00",
+      "text": "Și ce faceți la servici, dacă pot să întreb?"
+    },
+    {
+      "start": 36.74,
+      "end": 40.16,
+      "speaker": "SPEAKER_01",
+      "text": "Stau la birou, la calculator, mult. Aproape toată ziua."
+    },
+    {
+      "start": 40.28,
+      "end": 48.26,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Deci postura la birou, orele lungi. Umărul stâng. Îl simțiți că doare tot timpul sau numai când faceți anumite mișcări?"
+    },
+    {
+      "start": 48.38,
+      "end": 58.64,
+      "speaker": "SPEAKER_01",
+      "text": "Ei, nu tot timpul, adică... depinde. Când ridic mâna sus, de exemplu, doare mai tare. Și noaptea, uneori, mă trezesc pe el și atunci e mai rău."
+    },
+    {
+      "start": 58.76,
+      "end": 61.04,
+      "speaker": "SPEAKER_00",
+      "text": "Vă treziți noaptea din cauza durerii?"
+    },
+    {
+      "start": 61.16,
+      "end": 63.82,
+      "speaker": "SPEAKER_01",
+      "text": "Da, câteodată. Nu mereu, dar se întâmplă."
+    },
+    {
+      "start": 63.94,
+      "end": 68.12,
+      "speaker": "SPEAKER_00",
+      "text": "Și când spuneți că doare, puteți să îmi arătați aproximativ unde?"
+    },
+    {
+      "start": 68.24,
+      "end": 75.84,
+      "speaker": "SPEAKER_01",
+      "text": "Ei, cam pe aici, în față, și uneori și pe lateral, nu știu exact cum să zic, cam tot umărul."
+    },
+    {
+      "start": 75.96,
+      "end": 82.42,
+      "speaker": "SPEAKER_00",
+      "text": "Deci și față și lateral. Durerea se lasă cumva pe braț în jos, pe cot, pe degete?"
+    },
+    {
+      "start": 82.54,
+      "end": 90.9,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori parcă simt ceva și pe braț, dar nu jos de tot. Până la cot, nu știu, cam pe jumătate de braț."
+    },
+    {
+      "start": 91.02,
+      "end": 93.3,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeli la degete sau la mână?"
+    },
+    {
+      "start": 93.42,
+      "end": 94.94,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, asta nu."
+    },
+    {
+      "start": 95.06,
+      "end": 106.08,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare îngrozitor de rău, în momentele cele mai grele, pe unde vă situați?"
+    },
+    {
+      "start": 106.2,
+      "end": 114.18,
+      "speaker": "SPEAKER_01",
+      "text": "Hmm... cam pe la 6, 7 când ridic mâna sau când mă trezesc noaptea. Altfel, pe la 4, ceva de genul."
+    },
+    {
+      "start": 114.3,
+      "end": 121.14,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, deci variabilă. Înțeleg. Ați mai pățit ceva cu umărul ăsta înainte, vreo luxație, vreo lovitură mai serioasă?"
+    },
+    {
+      "start": 121.26,
+      "end": 129.24,
+      "speaker": "SPEAKER_01",
+      "text": "Nu cred, nu mi-aduc aminte să fi pățit ceva. Poate niște tensiune în umeri de la birou, dar altceva nu."
+    },
+    {
+      "start": 129.36,
+      "end": 131.26,
+      "speaker": "SPEAKER_00",
+      "text": "Și umărul drept cum e?"
+    },
+    {
+      "start": 131.38,
+      "end": 133.66,
+      "speaker": "SPEAKER_01",
+      "text": "Dreptul e ok, nu mă deranjează."
+    },
+    {
+      "start": 133.78,
+      "end": 137.58,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Alte zone care vă mai dau probleme, ceafă, spate?"
+    },
+    {
+      "start": 137.7,
+      "end": 145.3,
+      "speaker": "SPEAKER_01",
+      "text": "Păi ceafa mă mai doare, da. Adică nu la fel de rău, dar și acolo simt ceva, mai ales seara."
+    },
+    {
+      "start": 145.42,
+      "end": 147.7,
+      "speaker": "SPEAKER_00",
+      "text": "Cervical, deci. Și în zona lombară?"
+    },
+    {
+      "start": 147.82,
+      "end": 149.72,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, spatele jos nu prea."
+    },
+    {
+      "start": 149.84,
+      "end": 152.88,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Dureri de cap, amețeli legate de gât?"
+    },
+    {
+      "start": 153.0,
+      "end": 159.84,
+      "speaker": "SPEAKER_01",
+      "text": "Dureri de cap mai am uneori, dar nu știu dacă e de la gât sau de la altceva."
+    },
+    {
+      "start": 159.96,
+      "end": 167.56,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Hai să trecem la istoricul medical. Aveți vreo afecțiune cronică, ceva cu care vă tratați de mai mult timp?"
+    },
+    {
+      "start": 167.68,
+      "end": 170.34,
+      "speaker": "SPEAKER_01",
+      "text": "Am tiroidă, hipotiroidism. De vreo trei ani."
+    },
+    {
+      "start": 170.46,
+      "end": 172.74,
+      "speaker": "SPEAKER_00",
+      "text": "Hipotiroidism. Și luați ceva pentru asta?"
+    },
+    {
+      "start": 172.86,
+      "end": 175.9,
+      "speaker": "SPEAKER_01",
+      "text": "Da, Euthyrox, 50 de micrograme, în fiecare dimineață."
+    },
+    {
+      "start": 176.02,
+      "end": 177.92,
+      "speaker": "SPEAKER_00",
+      "text": "Euthyrox 50. Ok. Altceva luați?"
+    },
+    {
+      "start": 178.04,
+      "end": 183.74,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori, dacă mă doare umărul prea tare, mai iau câte un Paracetamol. Dar nu constant."
+    },
+    {
+      "start": 183.86,
+      "end": 184.66,
+      "speaker": "SPEAKER_00",
+      "text": "Paracetamol, doza?"
+    },
+    {
+      "start": 184.78,
+      "end": 186.3,
+      "speaker": "SPEAKER_01",
+      "text": "Normal, 500, câte unul."
+    },
+    {
+      "start": 186.42,
+      "end": 188.7,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Tensiune arterială, diabet, epilepsie, osteoporoză?"
+    },
+    {
+      "start": 188.82,
+      "end": 190.34,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic din astea."
+    },
+    {
+      "start": 190.46,
+      "end": 191.6,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale, fracturi?"
+    },
+    {
+      "start": 191.72,
+      "end": 192.52,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 192.64,
+      "end": 195.68,
+      "speaker": "SPEAKER_00",
+      "text": "Boli cu transmitere prin sânge, proteze, stimulator cardiac?"
+    },
+    {
+      "start": 195.8,
+      "end": 196.6,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu."
+    },
+    {
+      "start": 196.72,
+      "end": 198.62,
+      "speaker": "SPEAKER_00",
+      "text": "Alergii la medicamente sau unguente?"
+    },
+    {
+      "start": 198.74,
+      "end": 200.26,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu de niciuna."
+    },
+    {
+      "start": 200.38,
+      "end": 206.84,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Hai să facem câteva teste acum, dacă sunteți de acord, să vedem ce se întâmplă acolo."
+    },
+    {
+      "start": 206.96,
+      "end": 207.76,
+      "speaker": "SPEAKER_01",
+      "text": "Da, sigur."
+    },
+    {
+      "start": 207.88,
+      "end": 213.96,
+      "speaker": "SPEAKER_00",
+      "text": "Ridicați mâna stângă ușor în față, ca și cum ați pune ceva pe un raft. Doare?"
+    },
+    {
+      "start": 214.08,
+      "end": 215.6,
+      "speaker": "SPEAKER_01",
+      "text": "Da, pe aici începe."
+    },
+    {
+      "start": 215.72,
+      "end": 217.62,
+      "speaker": "SPEAKER_00",
+      "text": "Pe unde anume, în față?"
+    },
+    {
+      "start": 217.74,
+      "end": 220.4,
+      "speaker": "SPEAKER_01",
+      "text": "Da, în față și puțin pe lateral."
+    },
+    {
+      "start": 220.52,
+      "end": 225.08,
+      "speaker": "SPEAKER_00",
+      "text": "Acum ridicați-o în lateral, lateral, sus. Spuneți-mi dacă simțiți ceva."
+    },
+    {
+      "start": 225.2,
+      "end": 229.38,
+      "speaker": "SPEAKER_01",
+      "text": "Doare, da, cam de la jumătate în sus doare mai mult."
+    },
+    {
+      "start": 229.5,
+      "end": 236.34,
+      "speaker": "SPEAKER_00",
+      "text": "Deci arc dureros, cum îi spunem noi. Bine. Apăs acum ușor pe tendonul de aici, în față. Simțiți?"
+    },
+    {
+      "start": 236.46,
+      "end": 238.74,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, acolo e mai sensibil."
+    },
+    {
+      "start": 238.86,
+      "end": 241.14,
+      "speaker": "SPEAKER_00",
+      "text": "Mult mai sensibil față de dreapta?"
+    },
+    {
+      "start": 241.26,
+      "end": 242.06,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mult."
+    },
+    {
+      "start": 242.18,
+      "end": 247.5,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Duceți mâna la spate, ca și când v-ați prinde la sutien. Puteți?"
+    },
+    {
+      "start": 247.62,
+      "end": 250.28,
+      "speaker": "SPEAKER_01",
+      "text": "Puțin, dar doare când ajung mai sus."
+    },
+    {
+      "start": 250.4,
+      "end": 256.1,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum hai să vă uit puțin la postură. Stați drepți cum stați de obicei."
+    },
+    {
+      "start": 256.22,
+      "end": 257.02,
+      "speaker": "SPEAKER_01",
+      "text": "Așa?"
+    },
+    {
+      "start": 257.14,
+      "end": 267.02,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Observ că umărul stâng e puțin mai ridicat și ușor dus în față față de dreptul. Asta spune deja ceva despre ce se întâmplă acolo."
+    },
+    {
+      "start": 267.14,
+      "end": 268.28,
+      "speaker": "SPEAKER_01",
+      "text": "Da? Nu știam."
+    },
+    {
+      "start": 268.4,
+      "end": 275.24,
+      "speaker": "SPEAKER_00",
+      "text": "Da, e o asimetrie posturală. Și musculatura pe trapez, pe partea asta, e contractată. Simțiți dacă apăs aici?"
+    },
+    {
+      "start": 275.36,
+      "end": 277.26,
+      "speaker": "SPEAKER_01",
+      "text": "Mmm, da, e tensionat acolo."
+    },
+    {
+      "start": 277.38,
+      "end": 280.8,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe cervical, în zona asta, doare când apăs?"
+    },
+    {
+      "start": 280.92,
+      "end": 282.82,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și acolo, pe stânga."
+    },
+    {
+      "start": 282.94,
+      "end": 310.3,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Deci ce pot să vă spun deocamdată este că avem o inflamație la nivelul tendonului supraspinat, cel mai probabil, plus o contractură musculară destul de extinsă pe trapez și pe ridicătorul scapulei. Postura de la birou contribuie semnificativ. Ceafa e și ea afectată, probabil și din aceeași cauză. O să trebuiască să lucrăm pe reducerea inflamației, pe relaxarea musculaturii și ulterior pe corecție posturală ca să nu revenim la același punct."
+    },
+    {
+      "start": 310.42,
+      "end": 312.32,
+      "speaker": "SPEAKER_01",
+      "text": "Și cât timp durează, aproximativ?"
+    },
+    {
+      "start": 312.44,
+      "end": 319.28,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde cum răspundeți. De obicei, câteva ședințe pentru faza acută, dar corecția posturală e un proces mai lung."
+    },
+    {
+      "start": 319.4,
+      "end": 320.2,
+      "speaker": "SPEAKER_01",
+      "text": "Înțeles, ok."
+    },
+    {
+      "start": 320.32,
+      "end": 322.6,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să trecem la treabă atunci."
+    }
+  ]
+}

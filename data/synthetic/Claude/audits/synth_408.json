@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_408",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare pe aici, pe partea asta de jos a spatelui, și nu știu exact cum să zic, se întinde și pe-acolo, pe fesă, pe partea dreaptă",
+      "A venit mai ușor",
+      "am mutat niște mobilă acasă, vreo două cutii grele, și după aia a început să doară mai tare",
+      "Mai mult după ce stau mult jos, la birou",
+      "Nu, nu am simțit. Doar durerea aia."
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "mă doare pe aici, pe partea asta de jos a spatelui",
+      "e mai pe-acolo, pe o parte",
+      "Pe dreapta, paravertebral"
+    ],
+    "localizarea_durerii_alta": [
+      "se întinde și pe-acolo, pe fesă, pe partea dreaptă",
+      "Uneori parcă se lasă un pic, nu prea departe, cam până pe coapsa asta, nu mai jos"
+    ],
+    "antecedente": [
+      "am o scolioză ușoară, mi s-a spus când eram mai mic, la vreo 15-16 ani"
+    ],
+    "antecedente_altele": [
+      "Am avut o fractură la gleznă stângă acum vreo șapte-opt ani, am căzut la ski. A fost operată, au pus o placă. S-a vindecat bine, nu mă mai deranjează."
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți o ușoară înclinare a bazinului spre dreapta",
+      "Cam la 50-55 de grade apare",
+      "o contractură a piriformului drept, care irită nervul sciatic - de aceea se lasă pe coapsa dreaptă",
+      "o blocare lombară pe dreapta, favorizată de postura la birou și de scolioza ușoară preexistentă",
+      "Testul Lasègue e pozitiv la dreapta, în jur de 55 de grade",
+      "să relaxăm piriformul, să deblocăm zona lombară și să îmbunătățim mobilitatea generală"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23139,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 3741,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

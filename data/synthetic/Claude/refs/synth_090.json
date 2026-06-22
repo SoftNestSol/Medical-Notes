@@ -1,0 +1,26 @@
+{
+  "motivul_prezentarii": "Durere lombară joasă de trei săptămâni, apărută după efort de ridicare greutăți, cu iradiere pe fesă stângă și coapsă stângă posterioară. Agravată dimineața la sculare și după ședere prelungită la birou.",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": "fesă stângă, coapsă stângă posterioară",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "gastrită în antecedente (rezolvată)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "5 miligrame"
+    },
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Postură cu ușoară flexie laterală de protecție. Limitare la flexia anterioară lombară cu durere lombară joasă. Rotație stângă mai dureroasă decât dreapta. Test Lasègue pozitiv pe stânga (durere lombară și fesieră la ~45 grade), negativ pe dreapta. Musculatură paravertebrală lombară contractată bilateral, mai accentuat pe stânga. Iritație radiculară la nivel lombar inferior cu durere referită pe fesă și coapsă stângă, fără semne clare de radiculopatie distală. Obiective: reducerea inflamației și a contracturii musculare."
+}

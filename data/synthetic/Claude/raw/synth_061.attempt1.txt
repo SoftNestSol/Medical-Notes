@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Umărul drept sau stâng?\nSPEAKER_01: Drept.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Cam de trei săptămâni.\nSPEAKER_00: Și a apărut brusc sau a venit treptat?\nSPEAKER_01: Treptat.\nSPEAKER_00: A existat vreun traumatism, o lovitură, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați ridicat ceva greu, efort mai mare ca de obicei?\nSPEAKER_01: Păi... am mutat niște cutii la birou, cam atunci a început.\nSPEAKER_00: Am înțeles. Doare doar umărul sau simțiți ceva și pe braț, pe cot?\nSPEAKER_01: Doar umărul.\nSPEAKER_00: Doare când ridicați brațul sus?\nSPEAKER_01: Da.\nSPEAKER_00: Și când dormiți pe partea dreaptă?\nSPEAKER_01: Da, mă trezesc noaptea.\nSPEAKER_00: Pe o scară de la 0 la 10, cât estimați durerea?\nSPEAKER_01: Un 6.\nSPEAKER_00: 6. Luați ceva pentru durere?\nSPEAKER_01: Nurofen, din când în când.\nSPEAKER_00: Câte pe zi?\nSPEAKER_01: Una, două, nu regulat.\nSPEAKER_00: Am înțeles. Alte afecțiuni, tensiune, diabet, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să ridicați brațul drept lateral, ușor.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Deci undeva la 90 de grade se blochează. Doare în vârf de umăr sau mai interior?\nSPEAKER_01: Mai în vârf, pe aici.\nSPEAKER_00: Înțeleg. Acum vă apăs ușor pe zona de deasupra capului humeral, spuneți-mi dacă doare.\nSPEAKER_01: Da, doare.\nSPEAKER_00: Apăs puțin mai anterior.\nSPEAKER_01: Acolo mai tare.\nSPEAKER_00: Mai tare anterior. Bun. Rotatia internă o facem? Duceți mâna la spate.\nSPEAKER_01: Puțin, nu prea mult.\nSPEAKER_00: Limitată și rotația internă. Ok, am înțeles suficient pentru început. Avem o inflamație la nivelul tendonului supraspinat, cel mai probabil. Vom lucra să reducem inflamația și să recâștigăm mobilitatea umărului.\nSPEAKER_01: Ok.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta treptat dupa efort fizic, de aproximativ trei saptamani",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": "1-2 comprimate pe zi, neregulat"
+      }
+    ],
+    "evaluare_functionala_initiala": "Mobilitate umăr drept limitată la aproximativ 90 de grade la abducție laterală; durere la palpare pe zona anterioară și superioară a capului humeral; rotație internă limitată. Diagnostic: inflamație tendon supraspinatus. Obiective terapeutice: reducerea inflamației și recâștigarea mobilității umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Drept.", "Cam de trei săptămâni.", "am mutat niște cutii la birou, cam atunci a început."],
+    "evaluarea_durerii_vas": ["Un 6."],
+    "localizarea_durerii": ["Mă doare umărul.", "Drept.", "Doar umărul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nurofen, din când în când.", "Una, două, nu regulat."],
+    "evaluare_functionala_initiala": ["undeva la 90 de grade se blochează", "Acolo mai tare.", "Limitată și rotația internă", "Avem o inflamație la nivelul tendonului supraspinat, cel mai probabil. Vom lucra să reducem inflamația și să recâștigăm mobilitatea umărului."]
+  }
+}

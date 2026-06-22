@@ -1,0 +1,295 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, domnule."
+    },
+    {
+      "start": 1.26,
+      "end": 2.78,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.9,
+      "end": 7.08,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă v-ați prezentat astăzi."
+    },
+    {
+      "start": 7.2,
+      "end": 29.24,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, am o durere în zona asta, la umăr, umărul stâng, da, și... de fapt mă doare și puțin pe aici, pe sub omoplat, când mă mișc. Adică nu e că mă doare tot timpul, dar când încerc să ridic mâna sau să pun mâna la spate, simt că mă frige, cum să zic, un fel de arsură."
+    },
+    {
+      "start": 29.36,
+      "end": 32.78,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp aveți această durere la umărul stâng?"
+    },
+    {
+      "start": 32.9,
+      "end": 61.02,
+      "speaker": "SPEAKER_01",
+      "text": "Aaaa, de vreo... stați să mă gândesc. Cred că de vreo trei săptămâni, poate patru. A început, de fapt, dacă stau bine să mă gândesc, după ce am zugrăvit apartamentul. Am stat cu mâna sus foarte mult, zile în șir, eu și cumnatul meu, singuri ne-am descurcat. Și de atunci, treptat, a început să mă doară din ce în ce mai tare. Că la început am zis că o să-mi treacă singur."
+    },
+    {
+      "start": 61.14,
+      "end": 64.94,
+      "speaker": "SPEAKER_00",
+      "text": "Deci a apărut după un efort susținut cu brațul ridicat."
+    },
+    {
+      "start": 65.06,
+      "end": 85.96,
+      "speaker": "SPEAKER_01",
+      "text": "Exact, exact. Și am mai și cărat câteva bidoane de vopsea, nu erau ușoare, și cred că aia a... nu știu, m-a cam... forțat mai rău. Și eu oricum am o scolioză, mi s-a spus demult, ușoară, nu am mai verificat de ani de zile, dar poate că de aia și mai simte."
+    },
+    {
+      "start": 86.08,
+      "end": 87.98,
+      "speaker": "SPEAKER_00",
+      "text": "Ați fost diagnosticat cu scolioză."
+    },
+    {
+      "start": 88.1,
+      "end": 103.3,
+      "speaker": "SPEAKER_01",
+      "text": "Da, undeva pe la 20 și ceva de ani, acum am 47. Mi-a spus un doctor de atunci că e ușoară, să fac niște kinetoterapie, dar nu am mai ajuns, sincer să vă spun. Viața, serviciul, știți cum e."
+    },
+    {
+      "start": 103.42,
+      "end": 114.06,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și durerea de umăr, pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 înseamnă durere maximă, cât o apreciați?"
+    },
+    {
+      "start": 114.18,
+      "end": 128.24,
+      "speaker": "SPEAKER_01",
+      "text": "Așa, în mod normal, în repaus, e poate un 3, un 4. Dar când ridic mâna sus sau când încerc să ajung cu mâna la spate la centură, de exemplu, ajunge ușor la 7, poate chiar 8."
+    },
+    {
+      "start": 128.36,
+      "end": 132.16,
+      "speaker": "SPEAKER_00",
+      "text": "Deci 3-4 în repaus și 7-8 la mișcare."
+    },
+    {
+      "start": 132.28,
+      "end": 141.78,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, cam așa. Și noaptea mai mă trezesc, mai ales dacă mă întorc pe partea stângă. Îmi dă o durere și mă trezesc direct."
+    },
+    {
+      "start": 141.9,
+      "end": 147.22,
+      "speaker": "SPEAKER_00",
+      "text": "Vă înțeleg. Și amorțeală, aveți vreun sentiment că vă amorțește brațul sau mâna stângă?"
+    },
+    {
+      "start": 147.34,
+      "end": 156.08,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, amorțeală nu. Poate câteodată simt un fel de greutate în braț, că e greu, dar să zic că amorțește propriu-zis, nu."
+    },
+    {
+      "start": 156.2,
+      "end": 161.52,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Durerea se lasă cumva pe braț în jos, spre cot sau spre mână?"
+    },
+    {
+      "start": 161.64,
+      "end": 171.52,
+      "speaker": "SPEAKER_01",
+      "text": "Păi uneori simt că merge pe partea asta de sus a brațului, pe biceps, mai jos de umăr. Dar nu mai departe, nu ajunge la cot."
+    },
+    {
+      "start": 171.64,
+      "end": 174.68,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și în zona cervicală, gâtul, simțiți ceva?"
+    },
+    {
+      "start": 174.8,
+      "end": 188.86,
+      "speaker": "SPEAKER_01",
+      "text": "La gât nu prea. Adică am eu câteodată o redoare dimineața, că mă scol și simt că gâtul e puțin înțepenit, dar asta cred că e de la pernă, nu știu. Nu mă doare în mod special."
+    },
+    {
+      "start": 188.98,
+      "end": 193.54,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai avut probleme cu umărul ăsta înainte, sau este prima dată?"
+    },
+    {
+      "start": 193.66,
+      "end": 212.28,
+      "speaker": "SPEAKER_01",
+      "text": "Prima dată cu umărul stâng. Am mai avut, de fapt, cu cel drept, demult, acum vreo opt ani. Atunci am căzut, m-am și operat, am avut o luxație, la umărul drept. Dar ăla a trecut, de la operație nu am mai avut probleme. Ăsta stâng e prima oară."
+    },
+    {
+      "start": 212.4,
+      "end": 215.44,
+      "speaker": "SPEAKER_00",
+      "text": "Deci ați fost operat la umărul drept, luxație."
+    },
+    {
+      "start": 215.56,
+      "end": 226.96,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact. A mers bine, recuperare, totul în regulă. De atunci, nicidecum. Dar acum mă gândesc, oare nu o fi și ăsta ceva mai grav? Că mă tem puțin, sincer."
+    },
+    {
+      "start": 227.08,
+      "end": 236.2,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg îngrijorarea. O să facem câteva teste acum ca să vedem ce se întâmplă. Dar spuneți-mi, luați vreun medicament în momentul de față?"
+    },
+    {
+      "start": 236.32,
+      "end": 248.86,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu iau nimic. Am luat vreo două zile un ibuprofen, că mi-am zis că poate scade inflamația, dar nu am mai luat că mă deranja la stomac. Acum nu iau nimic."
+    },
+    {
+      "start": 248.98,
+      "end": 252.78,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Altă patologie mai aveți, tensiune arterială, diabet, probleme cardiace?"
+    },
+    {
+      "start": 252.9,
+      "end": 261.26,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Sunt relativ sănătos, în afară de scolioză și de umărul ăsta acum. Tensiunea e bună, am verificat-o de curând."
+    },
+    {
+      "start": 261.38,
+      "end": 264.42,
+      "speaker": "SPEAKER_00",
+      "text": "Fracturi în afară de luxația de umăr drept?"
+    },
+    {
+      "start": 264.54,
+      "end": 275.94,
+      "speaker": "SPEAKER_01",
+      "text": "Am avut o fractură la gleznă, piciorul drept, de la fotbal, eram tânăr, la vreo 25 de ani. Dar aia s-a vindecat complet, nu mai am nicio problemă acolo."
+    },
+    {
+      "start": 276.06,
+      "end": 281.76,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să facem câteva teste acum. Ridicați ușor brațul stâng în față, câte puteți."
+    },
+    {
+      "start": 281.88,
+      "end": 284.92,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe aici pot, mai sus deja... au."
+    },
+    {
+      "start": 285.04,
+      "end": 288.46,
+      "speaker": "SPEAKER_00",
+      "text": "Doare la ridicarea activă la aproximativ 90 de grade."
+    },
+    {
+      "start": 288.58,
+      "end": 290.48,
+      "speaker": "SPEAKER_01",
+      "text": "Da, fix pe acolo începe."
+    },
+    {
+      "start": 290.6,
+      "end": 294.02,
+      "speaker": "SPEAKER_00",
+      "text": "Acum încercați să duceți brațul lateral, tot în sus."
+    },
+    {
+      "start": 294.14,
+      "end": 297.94,
+      "speaker": "SPEAKER_01",
+      "text": "Asta e mai rău, asta doare mai de la început."
+    },
+    {
+      "start": 298.06,
+      "end": 301.48,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și acum puneți mâna la spate, cât puteți."
+    },
+    {
+      "start": 301.6,
+      "end": 305.78,
+      "speaker": "SPEAKER_01",
+      "text": "Ajung până pe la... fese, mai sus nu pot să urc."
+    },
+    {
+      "start": 305.9,
+      "end": 309.32,
+      "speaker": "SPEAKER_00",
+      "text": "Apăs puțin pe capul humerusului, spuneți-mi dacă doare."
+    },
+    {
+      "start": 309.44,
+      "end": 310.58,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo doare."
+    },
+    {
+      "start": 310.7,
+      "end": 313.74,
+      "speaker": "SPEAKER_00",
+      "text": "Și apăs zona aceasta, tendoanele de pe sus."
+    },
+    {
+      "start": 313.86,
+      "end": 316.52,
+      "speaker": "SPEAKER_01",
+      "text": "Aoleo, da, acolo e cel mai rău."
+    },
+    {
+      "start": 316.64,
+      "end": 342.1,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, am înțeles. Vedeți, ce avem noi aici e cel mai probabil o tendinopatie a coifului rotatorilor pe partea stângă, posibil și o inflamație la nivelul bursei subacromiale. Practic, tendoanele care stabilizează umărul s-au iritat, cel mai probabil în urma efortului din zugrăvit, cu brațul sus repetat. Scolioза pe care o aveți poate să influențeze și ea biomecanica umărului, de aceea e bine că ați venit."
+    },
+    {
+      "start": 342.22,
+      "end": 349.06,
+      "speaker": "SPEAKER_01",
+      "text": "Și o să îmi treacă? Că mă tem că o să ajung ca la celălalt umăr, cu operație."
+    },
+    {
+      "start": 349.18,
+      "end": 364.76,
+      "speaker": "SPEAKER_00",
+      "text": "Nu avem motive să credem că e nevoie de operație. O să lucrăm să reducem inflamația, să mobilizăm articulația și să recuperăm amplitudinea de mișcare. Dar o să vă recomand și o ecografie de umăr stâng ca să vedem exact tendoanele."
+    },
+    {
+      "start": 364.88,
+      "end": 368.3,
+      "speaker": "SPEAKER_01",
+      "text": "Da, bine, fac. Și cât timp credeți că durează?"
+    },
+    {
+      "start": 368.42,
+      "end": 376.78,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde de evoluție, dar în general câteva săptămâni de terapie. Acum o să începem cu mobilizare blândă și lucru pe musculatura periarticulară."
+    },
+    {
+      "start": 376.9,
+      "end": 378.42,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, bine. Mersi mult."
+    }
+  ]
+}

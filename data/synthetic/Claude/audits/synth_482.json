@@ -1,0 +1,43 @@
+{
+  "conversation_id": "synth_482",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele, jos.",
+      "Am mutat niște mobilă.",
+      "Vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele, jos.",
+      "zona lombară"
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori simt ceva și pe fesă, pe dreapta."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară paravertebrală lombară, mai accentuată pe dreapta, cu iradiere în fesierul drept",
+      "testul Lasègue pozitiv pe dreapta la 45 de grade",
+      "Nu avem semne clare de radiculopatie, durerea nu coboară pe picior",
+      "O să lucrăm să reducem inflamația, să relaxăm musculatura și să redăm mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23237,
+    "inference_geo": "global",
+    "input_tokens": 351,
+    "output_tokens": 2166,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

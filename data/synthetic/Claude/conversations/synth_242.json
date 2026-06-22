@@ -1,0 +1,307 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 3.74,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi numele, vă rog."
+    },
+    {
+      "start": 3.86,
+      "end": 4.66,
+      "speaker": "SPEAKER_01",
+      "text": "Dumitru."
+    },
+    {
+      "start": 4.78,
+      "end": 5.58,
+      "speaker": "SPEAKER_00",
+      "text": "Și prenumele?"
+    },
+    {
+      "start": 5.7,
+      "end": 6.5,
+      "speaker": "SPEAKER_01",
+      "text": "Constantin."
+    },
+    {
+      "start": 6.62,
+      "end": 10.04,
+      "speaker": "SPEAKER_00",
+      "text": "Mulțumesc, domnule Constantin. Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 10.16,
+      "end": 11.3,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare gâtul."
+    },
+    {
+      "start": 11.42,
+      "end": 12.94,
+      "speaker": "SPEAKER_00",
+      "text": "Gâtul. De cât timp?"
+    },
+    {
+      "start": 13.06,
+      "end": 14.2,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo două săptămâni."
+    },
+    {
+      "start": 14.32,
+      "end": 17.36,
+      "speaker": "SPEAKER_00",
+      "text": "Două săptămâni. Și a apărut brusc sau treptat?"
+    },
+    {
+      "start": 17.48,
+      "end": 18.28,
+      "speaker": "SPEAKER_01",
+      "text": "Treptat, cred."
+    },
+    {
+      "start": 18.4,
+      "end": 24.1,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Doare doar în zona gâtului sau se lasă și în umăr, în braț?"
+    },
+    {
+      "start": 24.22,
+      "end": 25.74,
+      "speaker": "SPEAKER_01",
+      "text": "Și în umăr. Dreapta."
+    },
+    {
+      "start": 25.86,
+      "end": 30.42,
+      "speaker": "SPEAKER_00",
+      "text": "Umărul drept. Mai jos de umăr se lasă, pe braț, pe degete?"
+    },
+    {
+      "start": 30.54,
+      "end": 31.34,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 31.46,
+      "end": 40.96,
+      "speaker": "SPEAKER_00",
+      "text": "Nu. Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare acum?"
+    },
+    {
+      "start": 41.08,
+      "end": 41.88,
+      "speaker": "SPEAKER_01",
+      "text": "Un 5."
+    },
+    {
+      "start": 42.0,
+      "end": 46.18,
+      "speaker": "SPEAKER_00",
+      "text": "Un 5. Și când e mai rău, când e mai bine?"
+    },
+    {
+      "start": 46.3,
+      "end": 48.96,
+      "speaker": "SPEAKER_01",
+      "text": "Dimineața e mai rău. Când mă scol."
+    },
+    {
+      "start": 49.08,
+      "end": 51.36,
+      "speaker": "SPEAKER_00",
+      "text": "Dimineața. Lucrați la birou, la calculator?"
+    },
+    {
+      "start": 51.48,
+      "end": 52.28,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 52.4,
+      "end": 53.92,
+      "speaker": "SPEAKER_00",
+      "text": "Mult timp pe zi?"
+    },
+    {
+      "start": 54.04,
+      "end": 55.18,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo opt ore."
+    },
+    {
+      "start": 55.3,
+      "end": 60.24,
+      "speaker": "SPEAKER_00",
+      "text": "Opt ore. Și capul cum îl țineți de obicei, drept sau mai aplecat?"
+    },
+    {
+      "start": 60.36,
+      "end": 61.16,
+      "speaker": "SPEAKER_01",
+      "text": "Aplecat, probabil."
+    },
+    {
+      "start": 61.28,
+      "end": 65.46,
+      "speaker": "SPEAKER_00",
+      "text": "Probabil aplecat în față. Am înțeles. Tensiune, diabet, epilepsie, alte afecțiuni?"
+    },
+    {
+      "start": 65.58,
+      "end": 66.38,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 66.5,
+      "end": 68.02,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale, fracturi, accidente?"
+    },
+    {
+      "start": 68.14,
+      "end": 68.94,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 69.06,
+      "end": 69.86,
+      "speaker": "SPEAKER_00",
+      "text": "Medicamente luați?"
+    },
+    {
+      "start": 69.98,
+      "end": 70.78,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 70.9,
+      "end": 74.7,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să fac câteva teste. Ridicați-vă, vă rog."
+    },
+    {
+      "start": 74.82,
+      "end": 75.62,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 75.74,
+      "end": 79.54,
+      "speaker": "SPEAKER_00",
+      "text": "Voi apăsa ușor pe zona cervicală. Spuneți-mi dacă doare."
+    },
+    {
+      "start": 79.66,
+      "end": 80.46,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo."
+    },
+    {
+      "start": 80.58,
+      "end": 82.86,
+      "speaker": "SPEAKER_00",
+      "text": "Doare chiar la baza gâtului, da?"
+    },
+    {
+      "start": 82.98,
+      "end": 83.78,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 83.9,
+      "end": 86.18,
+      "speaker": "SPEAKER_00",
+      "text": "Și sus, mai aproape de ceafă?"
+    },
+    {
+      "start": 86.3,
+      "end": 87.1,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 87.22,
+      "end": 90.26,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Înclinați-vă capul ușor spre dreapta."
+    },
+    {
+      "start": 90.38,
+      "end": 91.18,
+      "speaker": "SPEAKER_01",
+      "text": "Doare."
+    },
+    {
+      "start": 91.3,
+      "end": 94.34,
+      "speaker": "SPEAKER_00",
+      "text": "Doare când înclinați spre dreapta. Și spre stânga?"
+    },
+    {
+      "start": 94.46,
+      "end": 95.26,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 95.38,
+      "end": 97.28,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Rotație spre dreapta, ușor."
+    },
+    {
+      "start": 97.4,
+      "end": 98.54,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și acolo."
+    },
+    {
+      "start": 98.66,
+      "end": 102.08,
+      "speaker": "SPEAKER_00",
+      "text": "Se duce durerea și în umărul drept când rotiți?"
+    },
+    {
+      "start": 102.2,
+      "end": 103.0,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 103.12,
+      "end": 124.4,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Ce vă pot spune este că avem o contractură musculară la nivel cervical, cu iradiere spre umărul drept, cel mai probabil din cauza posturii la birou, capul aplecat față de ecran. Trapezul și mușchii scaleni sunt afectați. Va trebui să reducem această contractură și să lucrăm la mobilitatea cervicală. Haideți pe masă, vă rog."
+    },
+    {
+      "start": 124.52,
+      "end": 125.32,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă vă vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Un 5.\nSPEAKER_00: Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Când ridicați brațul sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și în spate, când duceți mâna la spate?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Amorțește ceva, mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Durerea se lasă pe braț în jos?\nSPEAKER_01: Nu, e doar aici.\nSPEAKER_00: Bun. Tensiune, diabet, epilepsie, cancer, alte afecțiuni?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Dați-mi voie să ridic brațul așa, încet. Doare acum?\nSPEAKER_01: Da, cam de pe la jumătate în sus.\nSPEAKER_00: Cam pe la 90 de grade începe durerea.\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă apăs aici, pe zona asta de deasupra umărului?\nSPEAKER_01: Au, da, doare.\nSPEAKER_00: Înțeles. Pare a fi o inflamație la nivelul tendoanelor coifului rotatorilor, mai exact supraspinatus. O să lucrăm să reducem inflamația și să recuperăm mobilitatea brațului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "durere umar stang, aparuta dupa mutarea mobilei, de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie tendoane coif rotatori (supraspinatus)\nObiective terapeutice:\n- reducerea procesului inflamator;\n- recuperarea mobilitatii bratului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "De vreo două săptămâni.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Stângul.", "e doar aici"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Pare a fi o inflamație la nivelul tendoanelor coifului rotatorilor, mai exact supraspinatus. O să lucrăm să reducem inflamația și să recuperăm mobilitatea brațului."]
+  }
+}

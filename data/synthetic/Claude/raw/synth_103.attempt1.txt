@@ -1,0 +1,54 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stângul sau dreptul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: La mișcare mai mult.\nSPEAKER_00: Când ridicați brațul, de exemplu?\nSPEAKER_01: Da.\nSPEAKER_00: Se lasă cumva durerea pe braț, mai jos?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeală în mână?\nSPEAKER_01: Nu.\nSPEAKER_00: A apărut după ceva anume, o căzătură, un efort?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Am înțeles. Și a doua zi a apărut durerea?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Hai să facem un test. Ridicați brațul drept în față, încet... Doare acum?\nSPEAKER_01: Da, pe aici.\nSPEAKER_00: Pe la mijlocul ridicării, între 60 și 120 de grade aproximativ. Și dacă ridicați lateral, la fel?\nSPEAKER_01: La fel, da.\nSPEAKER_00: Și dacă faceți mișcarea asta de rotație internă, la spate?\nSPEAKER_01: Aolo, aia doare mai tare.\nSPEAKER_00: Da, înțeleg. Lăsați brațul jos. Vă apăs puțin pe zona asta de aici, tendonul supraspinat. Doare?\nSPEAKER_01: Da, exact acolo.\nSPEAKER_00: Înțeleg. Pare o inflamație la nivelul manșonului rotatorilor, cel mai probabil supraspinat. Asta înseamnă că avem un conflict sub-acromial, cum îi spunem noi.\nSPEAKER_01: Hmm.\nSPEAKER_00: Alte dureri în corp în afară de umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Afecțiuni cunoscute, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune arterială. Luați medicamente pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Doza?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: Zilnic?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva, diabet, epilepsie?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale la umăr, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci avem o inflamație la nivelul tendonului supraspinat, cu un sindrom de conflict sub-acromial. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului drept. Hai să trecem la treabă.\nSPEAKER_01: Ok.",
+  "note": {
+    "motivul_prezentarii": "Pacient acuză durere la nivelul umărului drept, apărută după efort fizic (mutat mobilă), de aproximativ două săptămâni. Durere la mișcare, accentuată la rotație internă și la arcul dureros (60-120 grade). Fără iradiere pe braț, fără amorțeli.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame zilnic"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- Inflamație tendon supraspinat; sindrom de conflict sub-acromial umăr drept.\nObiective terapeutice:\n- Reducerea procesului inflamator; recuperarea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "De vreo două săptămâni.",
+      "Am mutat niște mobilă.",
+      "La mișcare mai mult.",
+      "Nu.",
+      "Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 6."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Enalapril.",
+      "10 miligrame.",
+      "Da."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare o inflamație la nivelul manșonului rotatorilor, cel mai probabil supraspinat. Asta înseamnă că avem un conflict sub-acromial, cum îi spunem noi.",
+      "O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului drept."
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "Durere lombară cu iradiere pe coapsa stângă, apărută după ridicat greutăți, de aproximativ trei săptămâni",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": "coapsa stanga",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- Contractura musculara si inflamatie patrat lombar si piriform stang;\n- Iradiere pe coapsa stanga (fara semne clare de hernie discala);\nObiective terapeutice:\n- Reducerea inflamatiei;\n- Relaxarea musculaturii lombare;\n- Monitorizare iradieri membre inferioare"
+}

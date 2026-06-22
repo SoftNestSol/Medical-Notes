@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo trei săptămâni.\nSPEAKER_00: Și ce s-a întâmplat acum trei săptămâni? A fost ceva, un efort, o mișcare?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Am înțeles. Și de atunci doare continuu sau mai trece?\nSPEAKER_01: Continuu. Noaptea mai rău.\nSPEAKER_00: Noaptea mai rău, când stați pe partea stângă?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât e acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Și noaptea?\nSPEAKER_01: 7, 8.\nSPEAKER_00: Înțeles. Vă doare și în braț, se lasă în jos?\nSPEAKER_01: Un pic, până pe la cot.\nSPEAKER_00: Până la cot. Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați brațul în față, mergeți sus cât puteți.\nSPEAKER_01: Până pe aici.\nSPEAKER_00: Doare când ridicați?\nSPEAKER_01: Da, de aici încolo.\nSPEAKER_00: Și în lateral, ridicați în lateral.\nSPEAKER_01: Tot cam la fel.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați ceva medicamente acum?\nSPEAKER_01: Nurofen, uneori.\nSPEAKER_00: Nurofen când doare mai tare?\nSPEAKER_01: Da.\nSPEAKER_00: Știți doza, câte luați?\nSPEAKER_01: Nu știu, una, două.\nSPEAKER_00: Ok, înțeles. Altceva luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere prin sânge, proteze metalice?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la unguente, creme?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin, vă apăs zona de rotatori, spuneți-mi dacă doare. Aici?\nSPEAKER_01: Da.\nSPEAKER_00: Tare?\nSPEAKER_01: Da, tare.\nSPEAKER_00: Și mai sus, pe deltoid?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Ok. Deci avem o inflamație în zona manșonului rotatorilor la umărul stâng, cel mai probabil apărută la efortul de la mutatul mobilei. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea umărului. Mergem?\nSPEAKER_01: Da.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng apărută după efort fizic (mutat mobilă), cu iradiere până la cot, accentuată nocturn.",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": "iradiere pe braț stâng până la cot",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamație manșon rotatori umăr stâng.\nObiective terapeutice: reducerea inflamației; recâștigarea mobilității umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Am mutat niște mobilă.", "Noaptea mai rău.", "Un pic, până pe la cot."],
+    "evaluarea_durerii_vas": ["Vreo 5.", "7, 8."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": ["Un pic, până pe la cot."],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nurofen, uneori."],
+    "evaluare_functionala_initiala": ["avem o inflamație în zona manșonului rotatorilor la umărul stâng", "O să lucrăm să reducem inflamația și să recâștigăm mobilitatea umărului."]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, cu ce problemă ne vedem azi?"
+    },
+    {
+      "start": 3.16,
+      "end": 21.02,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, deci am o problemă cu umărul, umărul drept, și mă doare de vreo trei săptămâni deja, și sincer m-am tot gândit că trece de la sine, că am mai pățit chestii din astea și au trecut, dar de data asta nu vrea să treacă."
+    },
+    {
+      "start": 21.14,
+      "end": 24.94,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și cum a apărut, s-a întâmplat ceva anume?"
+    },
+    {
+      "start": 25.06,
+      "end": 42.16,
+      "speaker": "SPEAKER_01",
+      "text": "Păi eram la sală, am ridicat niște gantere, nu chiar grele, adică eu ridic de obicei mai mult, dar am simțit pe moment ceva, un fel de... nu știu cum să spun, ca o pocnitură, nu chiar pocnitură, dar ceva. Și de atunci mă doare."
+    },
+    {
+      "start": 42.28,
+      "end": 45.7,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Durerea e constantă sau mai vine și pleacă?"
+    },
+    {
+      "start": 45.82,
+      "end": 58.74,
+      "speaker": "SPEAKER_01",
+      "text": "Vine și pleacă, mai ales când ridic mâna sus sau când fac așa, în lateral. Dimineața e mai rău, că mă trezesc pe partea aia și mă doare și nu știu cum să stau."
+    },
+    {
+      "start": 58.86,
+      "end": 61.14,
+      "speaker": "SPEAKER_00",
+      "text": "Mâna o puteți ridica deasupra capului?"
+    },
+    {
+      "start": 61.26,
+      "end": 69.24,
+      "speaker": "SPEAKER_01",
+      "text": "Da, pot, dar doare când ajung pe la... nu știu, pe la jumătate de arc sau mai sus, pe acolo undeva."
+    },
+    {
+      "start": 69.36,
+      "end": 76.58,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, zero nu doare deloc, zece doare foarte rău, unde vă situați?"
+    },
+    {
+      "start": 76.7,
+      "end": 82.02,
+      "speaker": "SPEAKER_01",
+      "text": "Acum în repaus un 3, dar când mă mișc, când ridic ceva, 7 ușor."
+    },
+    {
+      "start": 82.14,
+      "end": 83.66,
+      "speaker": "SPEAKER_00",
+      "text": "Deci 7 la mișcare."
+    },
+    {
+      "start": 83.78,
+      "end": 100.12,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da. Și mai am și eu o teamă, că sora mea a avut ceva cu rotatorii, cu manșeta rotatorie, și a stat câteva luni, și m-am gândit că poate și eu am ceva din asta. Nu știu, poate mă sperie degeaba."
+    },
+    {
+      "start": 100.24,
+      "end": 105.56,
+      "speaker": "SPEAKER_00",
+      "text": "Înțelegem teama, o să vedem ce e. Amorțeală sau furnicături în braț, în mână?"
+    },
+    {
+      "start": 105.68,
+      "end": 108.34,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, nimic din astea. Doar durerea."
+    },
+    {
+      "start": 108.46,
+      "end": 112.64,
+      "speaker": "SPEAKER_00",
+      "text": "Și în zona gâtului, doare și acolo, sau e strict umărul?"
+    },
+    {
+      "start": 112.76,
+      "end": 121.88,
+      "speaker": "SPEAKER_01",
+      "text": "E mai mult umărul, gâtul nu mă doare în mod special, poate câteodată un pic de tensiune acolo, dar nu cred că e legat."
+    },
+    {
+      "start": 122.0,
+      "end": 125.04,
+      "speaker": "SPEAKER_00",
+      "text": "Alte afecțiuni aveți, tensiune, diabet, ceva mai vechi?"
+    },
+    {
+      "start": 125.16,
+      "end": 138.46,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic, sunt destul de sănătos din punctul ăsta de vedere. Singurul lucru e că mai iau câteodată un Voltaren gel, pun pe umăr seara, mai ajută un pic, dar nu rezolvă problema."
+    },
+    {
+      "start": 138.58,
+      "end": 140.48,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și pastile antiinflamatoare, luați?"
+    },
+    {
+      "start": 140.6,
+      "end": 145.54,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu iau, nu-mi plac pastilele, mă feresc de ele dacă pot."
+    },
+    {
+      "start": 145.66,
+      "end": 150.6,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să fac câteva teste scurte. Ridicați brațul drept înainte, așa, încet."
+    },
+    {
+      "start": 150.72,
+      "end": 153.0,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici merge, după aici doare."
+    },
+    {
+      "start": 153.12,
+      "end": 156.16,
+      "speaker": "SPEAKER_00",
+      "text": "Pe la 90 de grade începe. Și lateral?"
+    },
+    {
+      "start": 156.28,
+      "end": 158.94,
+      "speaker": "SPEAKER_01",
+      "text": "La fel, cam pe la același nivel."
+    },
+    {
+      "start": 159.06,
+      "end": 164.76,
+      "speaker": "SPEAKER_00",
+      "text": "Stați puțin, o să apăs în zona asta de pe umăr. Spuneți-mi dacă doare."
+    },
+    {
+      "start": 164.88,
+      "end": 166.78,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo doare, exact acolo."
+    },
+    {
+      "start": 166.9,
+      "end": 168.8,
+      "speaker": "SPEAKER_00",
+      "text": "Și mai sus, sub acromion?"
+    },
+    {
+      "start": 168.92,
+      "end": 171.2,
+      "speaker": "SPEAKER_01",
+      "text": "Și acolo, da, cam la fel."
+    },
+    {
+      "start": 171.32,
+      "end": 187.66,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Deci avem durere la palpare subacromială și limitare de mobilitate la flexie și abducție. Pare o tendinopatie a manșetei rotatorii, probabil supraspinatus, cu o componentă de bursită subacromială. Nu e o ruptură, e o inflamație. Se poate rezolva, dar trebuie să lucrăm."
+    },
+    {
+      "start": 187.78,
+      "end": 190.44,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu e ca la sora mea?"
+    },
+    {
+      "start": 190.56,
+      "end": 200.06,
+      "speaker": "SPEAKER_00",
+      "text": "Nu putem spune sigur fără un RMN, dar tabloul clinic nu sugerează o ruptură. O să reducem inflamația și refacem mobilitatea, și vedem cum evoluează."
+    },
+    {
+      "start": 200.18,
+      "end": 205.88,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine, mă bucur că nu e ceva grav. Și cu sala, pot să merg?"
+    },
+    {
+      "start": 206.0,
+      "end": 209.8,
+      "speaker": "SPEAKER_00",
+      "text": "Deocamdată evităm exercițiile care solicită umărul deasupra capului. Restul merge."
+    },
+    {
+      "start": 209.92,
+      "end": 210.72,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, înțeles."
+    }
+  ]
+}

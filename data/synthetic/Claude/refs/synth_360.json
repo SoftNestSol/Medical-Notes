@@ -1,0 +1,32 @@
+{
+  "motivul_prezentarii": "Durere umăr drept cu iradiere pe braț până la cot, debut la aproximativ 3 luni în urmă după efort fizic (mutare cutii grele), agravată nocturn și la mișcări de abducție și rotație internă",
+  "evaluarea_durerii_vas": [
+    8,
+    4
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cot_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala",
+    "osteoporoza"
+  ],
+  "antecedente_altele": "colesterol marit",
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren gel",
+      "doza": "local pe umăr"
+    },
+    {
+      "denumire": "Algocalmin",
+      "doza": "1 comprimat la nevoie"
+    },
+    {
+      "denumire": "Perindopril",
+      "doza": "5 mg dimineața"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații funcționale: limitare la abducție (aproximativ 90 grade) și rotație internă; sensibilitate la palpare în zona supraspinatus; durere la abducție activă laterală (arc dureros la jumătatea amplitudinii). Diagnostic: inflamație coafa rotatorilor, posibil bursită subacromială. Obiective terapeutice: reducerea inflamației, recuperarea mobilității; tehnică adaptată cu evitarea presiunilor de impact datorită osteoporozei."
+}

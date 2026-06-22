@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_364",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Vreo două săptămâni.",
+      "Treptat.",
+      "mai ales deasupra"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Dreptul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "la aproximativ 80-90 de grade apare durerea",
+      "Au, nu mai pot.",
+      "Doare la rotație externă",
+      "Da, acolo doare.",
+      "Exact pe inserția mușchiului supraspinos",
+      "avem o limitare de mobilitate în abducție și durere la palpare pe rotator cuff",
+      "cel mai probabil o tendinopatie la nivelul umărului drept, posibil și un conflict subacomial",
+      "Vom lucra să reducem inflamația și să refacem mobilitatea umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14094,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 1892,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

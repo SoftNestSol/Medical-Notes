@@ -1,0 +1,37 @@
+{
+  "conversation_id": "synth_242",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "Și în umăr. Dreapta."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Și în umăr. Dreapta."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară la nivel cervical, cu iradiere spre umărul drept, cel mai probabil din cauza posturii la birou, capul aplecat față de ecran. Trapezul și mușchii scaleni sunt afectați. Va trebui să reducem această contractură și să lucrăm la mobilitatea cervicală."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 13758
+    },
+    "cache_creation_input_tokens": 13758,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 309,
+    "output_tokens": 1650,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

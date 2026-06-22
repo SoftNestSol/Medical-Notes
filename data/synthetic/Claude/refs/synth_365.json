@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere la umărul drept apărută după efort fizic (carat cutii), cu debut acum trei săptămâni, agravată la mișcare și noaptea",
+  "evaluarea_durerii_vas": [
+    7,
+    2
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "partea de sus a brațului drept",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare clară la abducție, se oprește undeva pe la 90 de grade; în flexie merge ceva mai bine. Durere la presiune pe capul humeral și la rotație internă. Diagnostic: tendinopatie a manșetei rotatoare, posibil cu bursită asociată. Obiective terapeutice: reducerea inflamației, recăpătarea mobilității, restabilirea forței în zona umărului."
+}

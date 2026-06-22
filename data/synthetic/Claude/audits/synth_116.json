@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_116",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o problemă cu genunchiul, cel drept, mă doare de vreo două săptămâni",
+      "am făcut niște genuflexiuni și a doua zi m-am trezit că doare",
+      "Pe interior, mai mult, da."
+    ],
+    "evaluarea_durerii_vas": [
+      "așa, în mod normal, vreo 4. Dar dacă cobor scările sau dacă fac ghemuit, ajunge și la 7"
+    ],
+    "localizarea_durerii": [
+      "am o problemă cu genunchiul, cel drept",
+      "Pe interior, mai mult, da. Adică dacă apăs aici, pe partea asta interioară, doare."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am avut cândva ceva la spate, lombarul, acum vreo trei ani, m-am dus la un recuperator și mi-a trecut."
+    ],
+    "medicatie_actuala": [
+      "Rosuvastatin, 10 miligrame, o dată pe zi seara",
+      "Uneori mai iau un ibuprofen dacă mă doare rău, dar nu în mod regulat"
+    ],
+    "evaluare_functionala_initiala": [
+      "Deci avem o sensibilitate clară pe linia articulară internă, cu durere la coborâtul scărilor și la genuflexiuni. Pare o inflamație la nivelul ligamentului colateral intern și posibil tendon rotulian",
+      "Lucrăm mai întâi să reducem inflamația, după aceea refacem stabilitatea și mobilitatea genunchiului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21912,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 2153,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

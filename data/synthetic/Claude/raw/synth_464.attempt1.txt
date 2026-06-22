@@ -1,0 +1,44 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi.\nSPEAKER_01: Mă doare ceafa.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau a venit treptat?\nSPEAKER_01: Treptat, da.\nSPEAKER_00: A apărut după ceva anume? O mișcare, o activitate, stat mai mult la birou?\nSPEAKER_01: Stau mult la calculator.\nSPEAKER_00: Înțeles. Deci mult timp în fața calculatorului. Câte ore pe zi, aproximativ?\nSPEAKER_01: Vreo opt, nouă ore.\nSPEAKER_00: Da, e mult. Și durerea o simțiți doar în ceafă sau se lasă și în altă parte?\nSPEAKER_01: Mai urcă și în cap, în ceafă sus.\nSPEAKER_00: Spre cap, deci. Se simte ca o tensiune, ca o apăsare acolo?\nSPEAKER_01: Da, mai mult apăsare.\nSPEAKER_00: Se lasă și pe umăr sau pe braț?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bine. Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 doare foarte rău, unde situați durerea asta?\nSPEAKER_01: Un 5, poate 6.\nSPEAKER_00: 5-6. Și e mai rău la un anumit moment al zilei?\nSPEAKER_01: Seara, după muncă.\nSPEAKER_00: Seara, după muncă, da. Dacă vă mișcați capul în lateral, doare mai tare?\nSPEAKER_01: Da, da, mai ales încoace.\nSPEAKER_00: Spre dreapta?\nSPEAKER_01: Da.\nSPEAKER_00: Bine. Aveți tensiune arterială, diabet, alte afecțiuni?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Nici operații, nici traumatisme la coloană?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, nimic?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Ok. Ați mai făcut kinetoterapie sau chiropractică până acum?\nSPEAKER_01: Nu, prima oară.\nSPEAKER_00: Prima oară, înțeles. Haideți să vă văd puțin cum stați. Priviți drept înainte... observ că aveți capul dus ușor înainte față de umeri, asta pune presiune pe toată zona cervicală, mai ales jos la baza cefei. Întoarceți capul spre dreapta... doare?\nSPEAKER_01: Da, trage.\nSPEAKER_00: Trage, da. Spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin, bine. Acum apăs ușor pe mușchii cefei, în dreapta... simțiți?\nSPEAKER_01: Au, da.\nSPEAKER_00: Destul de tensionați mușchii. Și dacă apăs la baza craniului?\nSPEAKER_01: Acolo doare mai tare.\nSPEAKER_00: Da, e zona suboccipitală, care e inflamată. Asta explică și senzația de apăsare în cap pe care o simțiți. Am înțeles tabloul. Avem o contractură cervicală superioară cu afectare suboccipitală, cel mai probabil din cauza posturii la calculator. Obiectivul nostru e să reducem contractura și inflamația din zonă și să recuperăm mobilitatea pe rotație dreapta. Mergem?\nSPEAKER_01: Da.\nSPEAKER_00: Bun, haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere ceafă cu senzație de apăsare spre cap, apărută treptat în două săptămâni, asociată cu postura prelungită la calculator",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice: cap proiectat anterior față de umeri, cu suprasolicitare cervicală inferioară; limitarea rotației spre dreapta cu durere; tensionare marcată a musculaturii paravertebrale cervicale drepte; sensibilitate crescută la presiune în zona suboccipitală.\nDiagnostic: Contractură cervicală superioară cu afectare suboccipitală.\nObiective terapeutice: reducerea contracturii și inflamației cervicale; recuperarea mobilității pe rotație dreapta."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare ceafa.",
+      "Stau mult la calculator.",
+      "a apărut treptat",
+      "De vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5, poate 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare ceafa.",
+      "Mai urcă și în cap, în ceafă sus."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "observ că aveți capul dus ușor înainte față de umeri",
+      "Întoarceți capul spre dreapta... doare?",
+      "Da, trage.",
+      "Acolo doare mai tare.",
+      "e zona suboccipitală, care e inflamată",
+      "Avem o contractură cervicală superioară cu afectare suboccipitală",
+      "Obiectivul nostru e să reducem contractura și inflamația din zonă și să recuperăm mobilitatea pe rotație dreapta."
+    ]
+  }
+}

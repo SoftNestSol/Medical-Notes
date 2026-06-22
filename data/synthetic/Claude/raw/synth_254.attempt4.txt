@@ -1,0 +1,39 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Radu Ionescu.\nSPEAKER_00: Și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem astăzi, domnule Ionescu?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: Vreo trei zile.\nSPEAKER_00: Trei zile. Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc, dimineața când m-am trezit.\nSPEAKER_00: Înțeles. Doare doar în zona gâtului sau se lasă și pe umăr, pe braț?\nSPEAKER_01: Și pe umărul drept un pic.\nSPEAKER_00: Pe umărul drept. Mai jos de umăr, pe braț?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, cât de tare doare?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. Doare mai tare când întoarceți capul sau când stați nemișcat?\nSPEAKER_01: Când întorc capul.\nSPEAKER_00: Spre dreapta, spre stânga, sau ambele?\nSPEAKER_01: Mai mult spre stânga.\nSPEAKER_00: Spre stânga. Aveți un job la birou, la calculator?\nSPEAKER_01: Da.\nSPEAKER_00: Mulțumesc. Stați mult timp cu capul plecat?\nSPEAKER_01: Da, toată ziua cam.\nSPEAKER_00: Înțeles. Haideți să facem câteva teste rapide. Vă rog să întoarceți capul spre stânga.\nSPEAKER_01: Au.\nSPEAKER_00: Da, e limitată rotația. Acum spre dreapta.\nSPEAKER_01: Merge mai bine.\nSPEAKER_00: Merge mai bine, da. O să apăs puțin pe zona cervicală. Spuneți-mi dacă doare.\nSPEAKER_01: Da, aici.\nSPEAKER_00: La C4-C5 doare la presiune. Pe umărul drept apăs acum.\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Mhm. Amorțeli pe mână, degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Tensiune, diabet, alte afecțiuni?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați ceva medicamente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Eu zic că avem un blocaj cervical, cu un spasm în zona trapezului pe dreapta, probabil de la postura la birou. Vom lucra să eliberăm zona asta și să reducem spasmul muscular.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală cu iradiere pe umărul drept, apărută brusc la trezire, de trei zile",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Blocaj cervical, spasm trapez dreapta\nObiective terapeutice: eliberarea blocajului cervical, reducerea spasmului muscular"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "Și pe umărul drept un pic.",
+      "Brusc, dimineața când m-am trezit.",
+      "Vreo trei zile."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Și pe umărul drept un pic."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem un blocaj cervical, cu un spasm în zona trapezului pe dreapta",
+      "Vom lucra să eliberăm zona asta și să reducem spasmul muscular."
+    ]
+  }
+}

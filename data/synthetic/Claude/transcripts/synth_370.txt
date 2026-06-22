@@ -1,0 +1,65 @@
+SPEAKER_00: Bună ziua!
+SPEAKER_01: Bună ziua, bună ziua.
+SPEAKER_00: Luați loc, vă rog. Spuneți-mi numele dumneavoastră.
+SPEAKER_01: Ionescu Mircea.
+SPEAKER_00: Domnule Ionescu, cu ce problemă ne vedem astăzi?
+SPEAKER_01: Păi, uite, mă doare umărul drept de ceva vreme și sincer nu știu ce am, mă gândeam dacă e ceva grav, dacă trebuie să mă duc și la medic sau...
+SPEAKER_00: Înțeleg. Haideți să vedem împreună. De cât timp vă doare umărul?
+SPEAKER_01: De vreo trei săptămâni, poate patru. Nu știu exact. A început mai lent, nu a fost brusc.
+SPEAKER_00: A apărut după ceva anume? O lovitură, un efort, o mișcare bruscă?
+SPEAKER_01: Pai am început să zugrăvesc în casă, am stat mult cu mâna ridicată, și după câteva zile a apărut durerea. Nu am căzut, nu am lovit nimic.
+SPEAKER_00: Deci la câteva zile după ce ați zugrăvit.
+SPEAKER_01: Da, exact. Și de atunci nu m-a mai lăsat. Mă gândeam că trece singură, dar nu a trecut.
+SPEAKER_00: Durerea este locală, doar în umăr, sau se lasă și pe braț în jos?
+SPEAKER_01: Se lasă și pe braț, da, pe partea din față, cam până pe la cot, nu mai jos.
+SPEAKER_00: Pe braț pe față, până la cot. Înțeles. Și amorțeală simțiți, furnicături la nivelul mâinii sau al degetelor?
+SPEAKER_01: Nu, amorțeală nu. Doar durerea aia care se trage pe braț.
+SPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare insuportabil, cum ați pune durerea acum, în repaus?
+SPEAKER_01: În repaus... cam un 4, poate 5. Nu e continuă, vine și pleacă.
+SPEAKER_00: Și când ridicați mâna, când faceți mișcare?
+SPEAKER_01: Ah, atunci e mult mai rău, un 8 sigur. Mai ales când ridic brațul lateral sau când încerc să ajung la ceva sus.
+SPEAKER_00: Mhm. Și noaptea, vă deranjează?
+SPEAKER_01: Da, asta e cel mai nasol, scuzați expresia. Mă trezesc noaptea dacă mă întorc pe partea dreaptă. Nu pot dormi pe dreapta deloc.
+SPEAKER_00: Am înțeles. Ați mai avut probleme la acest umăr în trecut?
+SPEAKER_01: Nu, niciodată. De aia mă și îngrijorez, că nu am mai pățit asta.
+SPEAKER_00: Nu vă îngrijorați deocamdată, o să vedem noi ce e. Spuneți-mi, aveți alte afecțiuni, alte probleme de sănătate cunoscute?
+SPEAKER_01: Am tensiune arterială crescută de vreo doi ani.
+SPEAKER_00: Hipertensiune arterială. Și urmați tratament pentru asta?
+SPEAKER_01: Da, iau Amlodipină, 5 miligrame, în fiecare dimineață.
+SPEAKER_00: Amlodipină 5 mg dimineața. Altceva mai luați?
+SPEAKER_01: Nu, doar aia.
+SPEAKER_00: Bine. Diabet, probleme cu inima, osteoporoză, altceva?
+SPEAKER_01: Nu, nu, nimic din astea.
+SPEAKER_00: Alergii la medicamente sau la altceva?
+SPEAKER_01: Nu știu, nu am avut niciodată reacții.
+SPEAKER_00: Ok. Și ca activitate, ce faceți în mod obișnuit? Stați mult la birou?
+SPEAKER_01: Lucrez la birou, da, cam opt ore pe zi la calculator. Stau destul de aplecat înainte, știu că nu e bine.
+SPEAKER_00: Și brațul drept îl folosiți mai mult pentru mouse?
+SPEAKER_01: Da, toată ziua pe mouse, dreapta.
+SPEAKER_00: Înțeles. Haideți acum să facem câteva teste simple. Ridicați brațul drept, încet, în față, cât puteți.
+SPEAKER_01: Până aici pot... mai sus doare.
+SPEAKER_00: Până la cât? Cam la 90 de grade?
+SPEAKER_01: Da, cam atât, poate puțin mai mult, dar după aia apare durerea.
+SPEAKER_00: Da. Acum ridicați brațul lateral.
+SPEAKER_01: Ah, asta e și mai rău. Cam până la 80, 90, după aia nu mai pot.
+SPEAKER_00: Doare în arcul acesta din mijloc?
+SPEAKER_01: Exact, da! Cum știți? Adică e mai rău la mijloc și după aia mai trece un pic.
+SPEAKER_00: Da, înțeleg. Acum încerc să apăs ușor aici, pe acromion, spuneți-mi dacă doare.
+SPEAKER_01: Da, doare, da. E sensibil acolo.
+SPEAKER_00: Și dacă apăs puțin mai jos, pe tendonul de aici...
+SPEAKER_01: Ah, acolo doare și mai tare. Ce e acolo, e ceva rupt?
+SPEAKER_00: Nu vă gândiți la rupt. Cel mai probabil avem o inflamație la nivelul tendonului supraspinosului, poate și o iritație a bursei subacromiale. E o problemă destul de frecventă la persoanele care lucrează cu brațul ridicat sau la birou mult timp.
+SPEAKER_01: Deci nu e grav?
+SPEAKER_00: Tratabil, da. Nu e o urgență chirurgicală. Hai să mai verific un lucru. Puneți mâna dreaptă pe umărul stâng, ca și cum ați da o palmă pe umăr, și acum ridicați cotul în sus.
+SPEAKER_01: Aaah, doare și asta.
+SPEAKER_00: Da. Acum trageți puțin cu brațul drept spre interior, ca și cum ați vrea să aduceți cotul spre piept.
+SPEAKER_01: Doare pe acolo pe față, pe braț.
+SPEAKER_00: Înțeles. Și o ultimă chestie, încerc să opun rezistență când ridicați brațul. Împingeți împotriva mâinii mele.
+SPEAKER_01: Pot, dar doare.
+SPEAKER_00: Forța există, deci nu e o ruptură completă. Bine. Deci ce vedem noi astăzi: o tendinopatia supraspinosului cu posibilă iritație a bursei subacromiale, secundar efortului de zugrăvit și posturii de la birou. Obiectivul nostru va fi să reducem inflamația din zonă, să recâștigăm mobilitatea umărului și să lucrăm și pe postura pe care o aveți la birou, pentru că și asta contribuie.
+SPEAKER_01: Și cât durează până trece? Adică mă îngrijorează că am trecut deja o lună.
+SPEAKER_00: Depinde cum răspunde, dar cu câteva ședințe ar trebui să simțiți o îmbunătățire clară. Important e să nu forțați umărul între timp.
+SPEAKER_01: Ok, înțeleg. Și nu am nevoie de radiografie sau ceva?
+SPEAKER_00: Deocamdată nu e obligatorie, dar dacă după primele ședințe nu progresăm, recomandăm o ecografie sau un RMN de umăr, să vedem mai exact.
+SPEAKER_01: Bine, am înțeles. Mulțumesc.
+SPEAKER_00: Cu plăcere. Haideți să începem.

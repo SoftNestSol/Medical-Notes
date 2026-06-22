@@ -1,0 +1,47 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Treptat.\nSPEAKER_00: S-a întâmplat ceva înainte să înceapă? Un efort, o căzătură?\nSPEAKER_01: Nu știu, poate de la serviciu.\nSPEAKER_00: Ce faceți la serviciu?\nSPEAKER_01: Stau mult la birou, la calculator.\nSPEAKER_00: Deci stați mult cu mâna sus, cu mouse-ul?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât e durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau numai la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Ce mișcări vă dor mai tare?\nSPEAKER_01: Când ridic mâna sus. Și când o duc în spate.\nSPEAKER_00: Noaptea vă deranjează, nu puteți sta pe partea stângă?\nSPEAKER_01: Da, nu pot.\nSPEAKER_00: Deci și noaptea deranjează. Doare și pe braț, coboară cumva durerea?\nSPEAKER_01: Nu, doar aici.\nSPEAKER_00: Amorțeli, furnicături?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte probleme de sănătate, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale la umăr vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Fracturi, accidente?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să fac câteva teste. Ridicați mâna stângă în față, încet, cât puteți.\nSPEAKER_01: Până pe-aici.\nSPEAKER_00: Deci până la aproximativ 90 de grade și apare durerea. Acum duceți-o lateral, tot în sus.\nSPEAKER_01: La fel, cam tot pe-acolo doare.\nSPEAKER_00: Doare în același punct, pe vârful umărului?\nSPEAKER_01: Da, sus.\nSPEAKER_00: Stați puțin, apăs eu acum pe zona de aici, supraspinos. Doare?\nSPEAKER_01: Da, acolo e.\nSPEAKER_00: E sensibil la palpare. Și dacă fac mișcarea asta pasivă, rotație internă la spate... doare?\nSPEAKER_01: Da, tare.\nSPEAKER_00: Înțeleg. Avem un conflict subacromial, cel mai probabil o tendinită a supraspinatului. Ăsta e mușchiul de deasupra umărului, și din cauza posturii la birou și a poziției cu brațul ridicat la mouse, s-a inflamat. Va trebui să reducem inflamația, să relaxăm musculatura din jur și să recuperăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: O să lucrăm și pe zona cervicală, că văd că aveți și o ușoară tensiune pe trapez. Simțiți asta?\nSPEAKER_01: Da, și gâtul mă mai ține câteodată.\nSPEAKER_00: Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere la nivelul umărului stâng, cu debut treptat în urmă cu aproximativ două săptămâni, probabil legată de postura la birou (lucru prelungit la calculator cu mouse). Durere la ridicarea brațului și la rotația internă, cu imposibilitatea de a sta pe partea stângă noaptea.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg",
+      "cervical"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nLimitare la abducție și flexie activă a umărului stâng până la aproximativ 90 de grade cu durere. Rotație internă pasivă dureroasă. Sensibilitate la palpare pe zona supraspinatului. Tensiune musculară la nivelul trapezului.\nDiagnostic:\nConflict subacromial, tendinită a supraspinatului stâng.\nObiective terapeutice:\nReducerea inflamației, relaxarea musculaturii periarticulare, recuperarea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Vreo două săptămâni.",
+      "Treptat.",
+      "Stau mult la birou, la calculator.",
+      "Când ridic mâna sus. Și când o duc în spate.",
+      "Da, nu pot."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "și gâtul mă mai ține câteodată."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Deci până la aproximativ 90 de grade și apare durerea.",
+      "Doare în același punct, pe vârful umărului?",
+      "Da, sus.",
+      "E sensibil la palpare.",
+      "Avem un conflict subacromial, cel mai probabil o tendinită a supraspinatului.",
+      "Va trebui să reducem inflamația, să relaxăm musculatura din jur și să recuperăm mobilitatea umărului.",
+      "văd că aveți și o ușoară tensiune pe trapez."
+    ]
+  }
+}

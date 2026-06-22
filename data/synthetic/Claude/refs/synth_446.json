@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Durere umar drept, iradiere pe brat, durere cervicala",
+  "evaluarea_durerii_vas": [
+    8,
+    4
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "iradiere pe bratul drept, pe exterior, pana la cot",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren gel",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: - inflamatie tendoane rotatori umar drept, posibil supraspinos;\n- tensionare musculatura cervicala, trapez superior\nObiective terapeutice: - reducerea inflamatiei umar drept;\n- relaxare musculatura cervicala;\n- refacerea mobilitatii articulare"
+}

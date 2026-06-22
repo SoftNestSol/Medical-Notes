@@ -1,0 +1,46 @@
+{
+  "conversation_id": "synth_381",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Vreo două săptămâni.",
+      "Cred că am dormit pe el.",
+      "Numai când ridic brațul.",
+      "Mai mult în lateral.",
+      "Da, noaptea e mai rău."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "La jumătate, cam la 90 de grade?",
+      "Se diminuează dincolo de 90 de grade. Asta e un semn clasic pentru o problemă la nivelul tendoanelor din umăr, la manșeta rotatorilor.",
+      "Doare la palpare pe zona supraspinosului.",
+      "Doare când rezistați?",
+      "Avem o inflamație la nivelul manșetei rotatorilor pe umărul stâng, cel mai probabil supraspinosul. O să lucrăm să reducem inflamația și să recuperăm mobilitatea completă a umărului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23237,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 2061,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

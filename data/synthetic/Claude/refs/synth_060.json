@@ -1,0 +1,23 @@
+{
+  "motivul_prezentarii": "Durere umar drept aparuta dupa efort sustinut (zugravit), cu limitare de mobilitate, accentuata la miscare si nocturn, de aproximativ trei saptamani",
+  "evaluarea_durerii_vas": [
+    4,
+    8
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "5 miligrame, o data pe zi, dimineata"
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare de mobilitate la umar drept pe toate planurile (flexie anterioara aproximativ 90 grade, abductie limitata, rotatia interna absenta); tensiune musculara in zona cervical inferior si trapez. Diagnostic: tendinopatie coif rotatori umar drept, spasm muscular trapez si cervical. Obiective terapeutice: reducerea inflamatiei, eliberarea spasmului muscular trapez si cervical, refacerea amplitudinii de miscare la umar."
+}

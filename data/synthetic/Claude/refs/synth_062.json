@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic la serviciu, de aproximativ doua saptamani",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": "o dată, două pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Mobilitate limitată la flexie (aproximativ 90 grade) și rotație internă. Sensibilitate la palparea tendonului supraspinos. Diagnostic: tendinopatie de supraspinos, posibil cu iritație subacromială. Obiective terapeutice: reducerea inflamației și recuperarea mobilității umărului."
+}

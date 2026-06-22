@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți astăzi?\nSPEAKER_01: Mă doare genunchiul.\nSPEAKER_00: Care genunchi, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut după ceva anume, după un efort, după o căzătură?\nSPEAKER_01: Am alergat mai mult.\nSPEAKER_00: Deci după alergat a început să doară.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde situați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare constant sau numai când faceți anumite mișcări?\nSPEAKER_01: Când merg mult sau cobor scările.\nSPEAKER_00: La urcat scările doare la fel?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Și dacă stați jos, în repaus, nu doare?\nSPEAKER_01: Nu prea.\nSPEAKER_00: Genunchiul e umflat, simțiți că e mai cald decât celălalt?\nSPEAKER_01: Un pic umflat, poate.\nSPEAKER_00: Unde exact doare, pe o parte anume? Puteți să arătați?\nSPEAKER_01: Aici, pe partea din față, sub rotulă.\nSPEAKER_00: Sub rotulă, ok. Și pe lateral doare?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeală în picior, în gambă?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai avut probleme cu genunchiul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, diabet, tensiune, probleme cu oasele?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Am luat un ibuprofen o dată, dar nu mai iau.\nSPEAKER_00: Înțeles. Haideți să faceți câteva mișcări. Stați puțin pe piciorul drept singur, fără sprijin. Vă ține?\nSPEAKER_01: Da, mă ține, dar simt ceva.\nSPEAKER_00: Simțiți o presiune sau doare?\nSPEAKER_01: Doare un pic.\nSPEAKER_00: Acum îndoiți ușor genunchiul. Doare?\nSPEAKER_01: Da, la îndoire doare mai tare.\nSPEAKER_00: Bun. Pare a fi o tendinită rotuliană, o iritație a tendonului de sub rotulă din cauza alergatului. Trebuie să reducem inflamația și să lucrăm zona cvadricepsului. Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere genunchi drept, apărută după alergat, de aproximativ două săptămâni.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "genunchi_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinită rotuliană\nObiective terapeutice: reducerea inflamației; lucrul zonei cvadricepsului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare genunchiul.", "Dreptul.", "Vreo două săptămâni.", "Am alergat mai mult."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare genunchiul.", "Dreptul.", "Aici, pe partea din față, sub rotulă."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am luat un ibuprofen o dată, dar nu mai iau."],
+    "evaluare_functionala_initiala": ["Pare a fi o tendinită rotuliană, o iritație a tendonului de sub rotulă din cauza alergatului. Trebuie să reducem inflamația și să lucrăm zona cvadricepsului."]
+  }
+}

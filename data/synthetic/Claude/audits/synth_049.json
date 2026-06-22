@@ -1,0 +1,56 @@
+{
+  "conversation_id": "synth_049",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele de ceva vreme",
+      "e undeva pe la mijloc, poate mai jos",
+      "Pe la mijlocul spatelui câteodată, da",
+      "A venit treptat, nu a fost brusc",
+      "parcă e mai rău în ultima lună"
+    ],
+    "evaluarea_durerii_vas": [
+      "poate un 4, un 5, nu știu exact",
+      "Dimineața e mult mai rău, atunci poate un 8, da"
+    ],
+    "localizarea_durerii": [
+      "mai jos. Și un pic pe aici și pe aici, adică și mai sus câteodată",
+      "Pe la mijlocul spatelui câteodată, da",
+      "trage pe acolo, pe spate jos",
+      "Pe zona lombară paravertebrală, mai mult pe stânga"
+    ],
+    "localizarea_durerii_alta": [
+      "simt ceva pe partea asta, pe stânga, nu știu, ceva ca o apăsare",
+      "parcă pe coapsă un pic, dar nu ajunge la picior mai jos"
+    ],
+    "antecedente": [
+      "tensiune am. Iau pastile pentru asta",
+      "Parcă artroză, da"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Amlodipină... cred că 5 miligrame. Da, 5 miligrame",
+      "Ibuprofen. Nu știu câte miligrame are, ce scrie pe cutie"
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ că umărul stâng e puțin mai jos față de cel drept",
+      "spre stânga avem limitare și durere",
+      "Pe zona lombară paravertebrală, mai mult pe stânga",
+      "avem o contractură destul de serioasă a musculaturii paravertebrale lombare, mai pronunțată pe stânga, și o mobilitate redusă în zona lombară",
+      "Scopul nostru pentru început este să reducem contractura musculară, să mai eliberăm un pic mobilitatea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13583,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3544,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

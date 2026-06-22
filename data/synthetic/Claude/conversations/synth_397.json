@@ -1,0 +1,325 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 6.36,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne vedem azi."
+    },
+    {
+      "start": 6.48,
+      "end": 23.58,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, uite, am o durere de umăr, umărul ăsta drept, de vreo trei săptămâni deja. Și m-am tot gândit că trece singură, că am mai avut așa ceva, dar nu a trecut, a rămas, chiar s-a mai înrăutățit un pic față de început."
+    },
+    {
+      "start": 23.7,
+      "end": 27.88,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și durerea asta a apărut brusc sau a venit treptat?"
+    },
+    {
+      "start": 28.0,
+      "end": 47.38,
+      "speaker": "SPEAKER_01",
+      "text": "Treptat, cred. Adică nu am simțit că am făcut ceva anume. Deși... stați să mă gândesc. Am fost la sală acum vreo trei săptămâni, am ridicat mai mult decât de obicei, și a doua zi dimineața m-am trezit cu umărul cam blocat. Deci poate de la sala, nu știu sigur."
+    },
+    {
+      "start": 47.5,
+      "end": 49.78,
+      "speaker": "SPEAKER_00",
+      "text": "Deci posibil efort la sală, da?"
+    },
+    {
+      "start": 49.9,
+      "end": 58.64,
+      "speaker": "SPEAKER_01",
+      "text": "Da, probabil de acolo. Dar nici nu am făcut ceva ciudat, era un exercițiu normal, presă cu bara. Poate am exagerat cu greutatea."
+    },
+    {
+      "start": 58.76,
+      "end": 62.56,
+      "speaker": "SPEAKER_00",
+      "text": "Unde anume vă doare pe umăr? Puteți să îmi arătați?"
+    },
+    {
+      "start": 62.68,
+      "end": 75.6,
+      "speaker": "SPEAKER_01",
+      "text": "Cam pe aici, pe partea din față, și mai sus, cam pe vârful umărului. Uneori se duce și un pic pe braț în jos, pe partea din față a brațului, dar nu tot timpul."
+    },
+    {
+      "start": 75.72,
+      "end": 79.9,
+      "speaker": "SPEAKER_00",
+      "text": "Până unde se duce pe braț? Până la cot, mai jos?"
+    },
+    {
+      "start": 80.02,
+      "end": 84.96,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu. Până pe la jumătatea brațului, cam atât. Nu ajunge la cot."
+    },
+    {
+      "start": 85.08,
+      "end": 93.82,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare insuportabil, cum ați aprecia durerea?"
+    },
+    {
+      "start": 93.94,
+      "end": 109.52,
+      "speaker": "SPEAKER_01",
+      "text": "În mod normal, pe zi ce e, un 4. Dar dacă ridic ceva, sau dacă încerc să mă duc cu mâna în spate, dă și un 7, chiar 8 uneori. Dimineața mai e și mai rău un pic, până mă dezmorțesc."
+    },
+    {
+      "start": 109.64,
+      "end": 114.96,
+      "speaker": "SPEAKER_00",
+      "text": "Deci dimineața mai intens, și la mișcările cu mâna în spate sau la ridicat."
+    },
+    {
+      "start": 115.08,
+      "end": 124.96,
+      "speaker": "SPEAKER_01",
+      "text": "Exact. Și noaptea mă trezesc câteodată, dacă mă întorc pe umărul ăsta. Adică nu pot să dorm pe partea dreaptă deloc acum, că mă doare imediat."
+    },
+    {
+      "start": 125.08,
+      "end": 128.12,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Amorțeli pe braț sau pe mână?"
+    },
+    {
+      "start": 128.24,
+      "end": 131.28,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am simțit așa ceva. Doar durere."
+    },
+    {
+      "start": 131.4,
+      "end": 135.96,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și mai aveți alte dureri în afară de umărul ăsta drept?"
+    },
+    {
+      "start": 136.08,
+      "end": 153.56,
+      "speaker": "SPEAKER_01",
+      "text": "Păi am și o durere la gât, dar mai veche, de ani de zile. Aia o știu deja, îmi mai apare când stau mult la birou. Nu m-am deranjat din cauza ei, m-am obișnuit. Dar la umăr e altceva, ăsta mă deranjează serios acum."
+    },
+    {
+      "start": 153.68,
+      "end": 156.34,
+      "speaker": "SPEAKER_00",
+      "text": "Deci și cervical aveți un disconfort cronic."
+    },
+    {
+      "start": 156.46,
+      "end": 167.86,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, exact. Mai ales când stau câteva ore la calculator. Îmi înțepenește gâtul, trebuie să mă ridic să mă mișc un pic. Dar cum ziceam, mă știu cu asta."
+    },
+    {
+      "start": 167.98,
+      "end": 173.3,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Spuneți-mi, aveți vreo afecțiune despre care să știu, tensiune, diabet, ceva cardiovascular?"
+    },
+    {
+      "start": 173.42,
+      "end": 184.06,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea. Am 34 de ani, am mai fost la analize acum vreo șase luni, totul era ok. Tensiunea e bună, zahărul e bun."
+    },
+    {
+      "start": 184.18,
+      "end": 185.7,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Intervenții chirurgicale, fracturi?"
+    },
+    {
+      "start": 185.82,
+      "end": 212.04,
+      "speaker": "SPEAKER_01",
+      "text": "Am avut o fractură la gleznă stângă acum mulți ani, prin liceu, am căzut la fotbal. A trebuit să port ghips vreo șase săptămâni dar s-a vindecat bine, nu m-a mai deranjat de atunci. Și mai am o scolioză ușoară, mi-a spus-o un medic ortoped acum vreo câțiva ani când m-am dus pentru durerea de gât. A zis că e minoră, nu necesită tratament."
+    },
+    {
+      "start": 212.16,
+      "end": 218.62,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, deci scolioză ușoară confirmată, și fractura la glezna stângă vindecată. Medicamente luați în momentul de față?"
+    },
+    {
+      "start": 218.74,
+      "end": 229.0,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Am luat un ibuprofen acum vreo săptămână că nu mai puteam de umăr, dar am luat o singură dată și gata. Nu iau nimic regulat."
+    },
+    {
+      "start": 229.12,
+      "end": 230.64,
+      "speaker": "SPEAKER_00",
+      "text": "Deci nicio medicație curentă."
+    },
+    {
+      "start": 230.76,
+      "end": 236.46,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu. Nu îmi place să iau pastile dacă nu e neapărat nevoie. Mă feresc."
+    },
+    {
+      "start": 236.58,
+      "end": 238.1,
+      "speaker": "SPEAKER_00",
+      "text": "Alergii la creme, unguente?"
+    },
+    {
+      "start": 238.22,
+      "end": 240.12,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu știu să am."
+    },
+    {
+      "start": 240.24,
+      "end": 247.46,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Hai să fac câteva teste acum. Ridicați brațul drept în față, încet, și spuneți-mi unde apare durerea."
+    },
+    {
+      "start": 247.58,
+      "end": 253.28,
+      "speaker": "SPEAKER_01",
+      "text": "Cam de pe la... de pe la jumătate în sus începe să tragă. Aici sus."
+    },
+    {
+      "start": 253.4,
+      "end": 256.06,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă ridicați brațul lateral, în cruce?"
+    },
+    {
+      "start": 256.18,
+      "end": 260.74,
+      "speaker": "SPEAKER_01",
+      "text": "La fel, cam de la același unghi. Poate un pic mai devreme."
+    },
+    {
+      "start": 260.86,
+      "end": 266.18,
+      "speaker": "SPEAKER_00",
+      "text": "Acum puneți mâna la spate, ca și când ați vrea să ajungeți la centura."
+    },
+    {
+      "start": 266.3,
+      "end": 270.86,
+      "speaker": "SPEAKER_01",
+      "text": "Au. Da, asta doare. Nu pot să urc prea sus cu mâna."
+    },
+    {
+      "start": 270.98,
+      "end": 289.22,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, stați o secundă. Văd că aveți o limitare la rotația internă, și la abducție apare durere în arcul de mișcare de la 70 până cam la 120 de grade. Asta se cheamă arc dureros și poate sugera o inflamație la nivelul tendonului supraspinos sau a bursei subacromiale."
+    },
+    {
+      "start": 289.34,
+      "end": 291.24,
+      "speaker": "SPEAKER_01",
+      "text": "Serios? Adică e ceva grav?"
+    },
+    {
+      "start": 291.36,
+      "end": 300.86,
+      "speaker": "SPEAKER_00",
+      "text": "Nu e grav, dar e nevoie de lucru. Hai să mai testăm puțin. Apăs eu acum pe capul humeral, pe față, spuneți-mi dacă doare."
+    },
+    {
+      "start": 300.98,
+      "end": 302.5,
+      "speaker": "SPEAKER_01",
+      "text": "Da, doare, pe aici."
+    },
+    {
+      "start": 302.62,
+      "end": 309.08,
+      "speaker": "SPEAKER_00",
+      "text": "Acum rezistați la mișcarea mea, țineți brațul ridicat la 90 de grade și nu lăsați să cadă."
+    },
+    {
+      "start": 309.2,
+      "end": 311.1,
+      "speaker": "SPEAKER_01",
+      "text": "Pot, dar doare când apăsați."
+    },
+    {
+      "start": 311.22,
+      "end": 325.66,
+      "speaker": "SPEAKER_00",
+      "text": "Da, ok. Rezistența e păstrată, deci forța e bună, ce avem e mai degrabă inflamație la nivelul manșetei rotatorilor, probabil tendon supraspinos, cu posibilă suferință a bursei subacromiale. Asta explică și arcul dureros și durerea nocturnă pe poziție."
+    },
+    {
+      "start": 325.78,
+      "end": 333.38,
+      "speaker": "SPEAKER_01",
+      "text": "Și de la sală poate să apară asta? Adică am mai ridicat și înainte, nu mi s-a întâmplat niciodată."
+    },
+    {
+      "start": 333.5,
+      "end": 345.28,
+      "speaker": "SPEAKER_00",
+      "text": "Poate apărea, mai ales dacă greutatea a fost mai mare sau dacă tehnica nu a fost perfectă. Uneori se acumulează micro-traumatisme în timp și la un moment dat apare inflamația."
+    },
+    {
+      "start": 345.4,
+      "end": 352.24,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, da, am mai auzit de tendoane inflamate. Un coleg de serviciu a avut ceva similar la genunchi."
+    },
+    {
+      "start": 352.36,
+      "end": 367.18,
+      "speaker": "SPEAKER_00",
+      "text": "Exact, același principiu. Ce avem de făcut este să reducem inflamația, să lucrăm mobilitatea umărului și să stabilizăm manșeta rotatorilor. O să lucrăm și zona cervicală, pentru că de cele mai multe ori umărul și gâtul se influențează reciproc."
+    },
+    {
+      "start": 367.3,
+      "end": 370.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bun. Și cât timp durează de obicei să treacă?"
+    },
+    {
+      "start": 370.84,
+      "end": 380.34,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde de cum răspundeți la terapie, dar de obicei câteva ședințe sunt suficiente pentru ameliorare semnificativă. Haideți pe masă, vă rog, cu fața în sus."
+    },
+    {
+      "start": 380.46,
+      "end": 383.5,
+      "speaker": "SPEAKER_01",
+      "text": "Ok. Și la sală nu mai merg deocamdată?"
+    },
+    {
+      "start": 383.62,
+      "end": 387.8,
+      "speaker": "SPEAKER_00",
+      "text": "Evitați exercițiile care implică umărul drept, da, cel puțin câteva zile."
+    }
+  ]
+}

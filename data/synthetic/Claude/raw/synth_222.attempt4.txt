@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau doar la mișcare?\nSPEAKER_01: La mișcare mai mult.\nSPEAKER_00: Când ridicați brațul sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și când îl duceți în spate?\nSPEAKER_01: Și atunci.\nSPEAKER_00: Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Durerea se lasă pe braț în jos?\nSPEAKER_01: Nu, e doar acolo.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, osteoporoză, epilepsie?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Stați puțin cu brațul pe lângă corp, relaxat. Acum ridic eu ușor brațul... doare când fac asta?\nSPEAKER_01: Da, pe aici sus.\nSPEAKER_00: Pe la 90 de grade doare mai tare?\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Și mai sus de atât?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeles. Apăs acum pe zona de supraspinos, spuneți dacă doare.\nSPEAKER_01: Da, doare.\nSPEAKER_00: Deci avem o inflamație la nivelul tendonului supraspinosului, cel mai probabil. E un sindrom de impingement, cum îi spunem noi. O să lucrăm să reducem inflamația și să refacem mobilitatea umărului.",
+  "note": {
+    "motivul_prezentarii": "durere umar stang, aparuta dupa mutarea mobilei, de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: sindrom de impingement umar stang, inflamatie tendon supraspinos.\nObiective terapeutice: reducerea inflamatiei, refacerea mobilitatii umarului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "De vreo două săptămâni.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Stângul.", "e doar acolo"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendonului supraspinosului", "E un sindrom de impingement", "O să lucrăm să reducem inflamația și să refacem mobilitatea umărului."]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "Durere lombară joasă stângă cu iradiere pe fesă stângă, apărută după efort fizic (cărărat cutii la serviciu), cu tensiune cervicală asociată",
+  "evaluarea_durerii_vas": null,
+  "localizarea_durerii": [
+    "lombar",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "fesă stângă",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: Contractură pătratul lombar stâng și fesier mare stâng; fără iradiere radiculară clară.\nObiective terapeutice: relaxarea musculaturii din zona lombară stângă; creșterea mobilității lombare; lucru cervical pentru tensiunea din ceafă și umeri."
+}

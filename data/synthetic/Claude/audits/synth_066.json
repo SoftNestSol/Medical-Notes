@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_066",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul stâng de vreo două săptămâni",
+      "am cărat niște cutii la mutat",
+      "nu mai pot să ridic mâna deloc sus",
+      "Noaptea e cel mai greu"
+    ],
+    "evaluarea_durerii_vas": [
+      "dacă stau liniștit, poate un 4",
+      "dacă încerc să ridic ceva sau să mă întorc noaptea pe partea stângă, ajunge la 8, 9"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul stâng",
+      "e fix acolo în umăr, pe partea din față și un pic pe deasupra"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am, da, hipertensiune, de vreo trei ani."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Perindopril, 5 miligrame, o dată pe zi, dimineața"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o limitare a abducției și o sensibilitate la nivelul umărului stâng. Probabil tendinită de supraspinos, vom vedea cum evoluează după primele ședințe. Obiectivul principal e să reducem inflamația și să recuperăm mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13854,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 1984,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "motivul_prezentarii": "Durere cervicală apărută după stat prelungit la birou, cu iradiere pe umărul drept, redoare matinală și dureri de cap ocazionale în ceafă.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic: cervicalgie de postură, contractură musculară cervicală cu limitarea rotației spre stânga.\nObiective terapeutice: reducerea contracturii musculare cervicale; recâștigarea mobilității pe rotație."
+}

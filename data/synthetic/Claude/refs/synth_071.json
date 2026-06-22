@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "Durere cervicală cu iradiere pe umărul drept, instalată treptat în ultimele două săptămâni, probabil legată de munca la birou (postură cu gâtul în față).",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Ibuprofen",
+      "doza": "400 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Postura la birou nu e tocmai bună, gâtul e dus în față. Contractură pe partea dreaptă, trapez și paravertebral cervical. Mobilitatea redusă la extensie și rotație dreapta. Obiective: reducerea contracturii și recuperarea mobilității cervicale."
+}

@@ -1,0 +1,175 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.18,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua. Spuneți-mi, vă rog, cu ce problemă veniți azi."
+    },
+    {
+      "start": 4.3,
+      "end": 25.58,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua. Păi, mă doare umărul stâng de vreo două săptămâni. Adică, sincer, a început mai demult, poate de o lună, dar acum două săptămâni s-a înrăutățit rău de tot. Am crezut că o să-mi treacă singur, pentru că mai am eu uneori și mă rog, trece, dar de data asta nu a trecut."
+    },
+    {
+      "start": 25.7,
+      "end": 30.26,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 30.38,
+      "end": 46.72,
+      "speaker": "SPEAKER_01",
+      "text": "Aaaa... 7. Da, 7. Noaptea e mai rău, nu pot dormi pe partea aia. Și mă gândesc că poate am ceva rupt acolo, știți? Am văzut pe internet că poți să ai tendonul rupt și să nu știi și... nu știu, mă sperie."
+    },
+    {
+      "start": 46.84,
+      "end": 49.12,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Doare și când ridicați brațul?"
+    },
+    {
+      "start": 49.24,
+      "end": 64.06,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, exact. Când ridic brațul așa, sus, doare îngrozitor. Și când îl duc în spate, să mă îmbrac, spre exemplu. Adică să pun jacheta e o dramă. Soția mă ajută dimineața, vă dați seama la 52 de ani."
+    },
+    {
+      "start": 64.18,
+      "end": 66.84,
+      "speaker": "SPEAKER_00",
+      "text": "Și în repaus, când stați liniștit, doare?"
+    },
+    {
+      "start": 66.96,
+      "end": 75.7,
+      "speaker": "SPEAKER_01",
+      "text": "În repaus mai puțin. Dar dacă stau pe el noaptea mă trezesc. Ziua mai uit de el dacă nu fac nimic cu brațul."
+    },
+    {
+      "start": 75.82,
+      "end": 79.62,
+      "speaker": "SPEAKER_00",
+      "text": "A fost vreun traumatism, ați căzut, ați ridicat ceva greu?"
+    },
+    {
+      "start": 79.74,
+      "end": 95.32,
+      "speaker": "SPEAKER_01",
+      "text": "Nu că îmi amintesc. Păi, adică... am mutat niște mobilă acum vreo lună și jumătate, singur, că n-am avut pe cine să rog. Poate de atunci, nu știu sigur. Dar n-am simțit nimic în momentul ăla, a apărut treptat."
+    },
+    {
+      "start": 95.44,
+      "end": 98.1,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Alte dureri în afară de umăr?"
+    },
+    {
+      "start": 98.22,
+      "end": 114.18,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mai am ceva la gât uneori, cervical, dar aia e veche, mă obișnuisem cu ea. Zicea medicul meu de familie că am ceva la vertebre, dar n-am mai mers să investighez. Nu mă deranjează acum, la umăr m-am oprit."
+    },
+    {
+      "start": 114.3,
+      "end": 116.2,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți tensiune, diabet, alte boli?"
+    },
+    {
+      "start": 116.32,
+      "end": 128.1,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Iau pastile pentru ea. Metoprolol, 50 de miligrame, o dată pe zi. Și mai iau ceva pentru colesterol, Rosuvastatina, dar doza... 10 miligrame, cred. Da, 10. Altceva nu."
+    },
+    {
+      "start": 128.22,
+      "end": 129.74,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Intervenții chirurgicale, fracturi?"
+    },
+    {
+      "start": 129.86,
+      "end": 137.08,
+      "speaker": "SPEAKER_01",
+      "text": "Meniscul la genunchiul drept, acum vreo zece ani. Operație, da. Și după a mers bine, nu mă mai deranjează."
+    },
+    {
+      "start": 137.2,
+      "end": 141.76,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți să fac câteva teste. Ridicați brațul stâng în față, încet."
+    },
+    {
+      "start": 141.88,
+      "end": 144.92,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici merge, după aia... au, da, uite."
+    },
+    {
+      "start": 145.04,
+      "end": 147.7,
+      "speaker": "SPEAKER_00",
+      "text": "Doare undeva pe la 90 de grade?"
+    },
+    {
+      "start": 147.82,
+      "end": 149.72,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact pe acolo începe."
+    },
+    {
+      "start": 149.84,
+      "end": 154.78,
+      "speaker": "SPEAKER_00",
+      "text": "Stați puțin. Acum apăs pe zona asta de sus, spuneți-mi dacă doare."
+    },
+    {
+      "start": 154.9,
+      "end": 157.94,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo e! Exact acolo. Ăla e locul."
+    },
+    {
+      "start": 158.06,
+      "end": 160.72,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă ridicați brațul lateral, la fel?"
+    },
+    {
+      "start": 160.84,
+      "end": 163.5,
+      "speaker": "SPEAKER_01",
+      "text": "La fel, poate chiar mai rău lateral."
+    },
+    {
+      "start": 163.62,
+      "end": 175.02,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Pare o tendinopatie a manșonului rotator, cel mai probabil supraspinosul. Arc dureros prezent între 60 și 120 de grade. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului."
+    },
+    {
+      "start": 175.14,
+      "end": 182.36,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu e rupt? Pentru că am citit că dacă nu tratezi se rupe și atunci numai cu operație."
+    },
+    {
+      "start": 182.48,
+      "end": 187.42,
+      "speaker": "SPEAKER_00",
+      "text": "Acum nu avem semne de ruptură completă. Dar e bine că ați venit."
+    },
+    {
+      "start": 187.54,
+      "end": 192.86,
+      "speaker": "SPEAKER_01",
+      "text": "Bun, mă liniștesc un pic. Ziceam eu că poate exagerez, dar noaptea e greu."
+    }
+  ]
+}

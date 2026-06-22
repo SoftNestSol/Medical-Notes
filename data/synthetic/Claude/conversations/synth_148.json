@@ -1,0 +1,469 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, doamna!"
+    },
+    {
+      "start": 1.26,
+      "end": 2.06,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 2.18,
+      "end": 5.6,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi și mie, vă rog, cum vă numiți."
+    },
+    {
+      "start": 5.72,
+      "end": 6.86,
+      "speaker": "SPEAKER_01",
+      "text": "Ionescu, Mihaela Ionescu."
+    },
+    {
+      "start": 6.98,
+      "end": 10.4,
+      "speaker": "SPEAKER_00",
+      "text": "Bine ați venit. Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 10.52,
+      "end": 19.26,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... mă doare spatele, de mai multă vreme deja, și nu știu exact cum să vă explic, e cam peste tot pe acolo."
+    },
+    {
+      "start": 19.38,
+      "end": 25.84,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Când spuneți spatele, vă doare mai mult în partea de jos, de mijloc sau mai sus?"
+    },
+    {
+      "start": 25.96,
+      "end": 33.56,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult jos, da, da, în partea de jos. Dar uneori simt ceva și mai sus, cam pe la mijloc."
+    },
+    {
+      "start": 33.68,
+      "end": 36.34,
+      "speaker": "SPEAKER_00",
+      "text": "Deci și zona lombară și zona toracală."
+    },
+    {
+      "start": 36.46,
+      "end": 40.64,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam pe acolo, nu știu eu cum îi zice medical."
+    },
+    {
+      "start": 40.76,
+      "end": 43.42,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și de când durează mai exact?"
+    },
+    {
+      "start": 43.54,
+      "end": 50.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ei, de mai multă vreme... câteva luni poate. Sau mai mult. Nu știu precis, a venit treptat."
+    },
+    {
+      "start": 50.12,
+      "end": 55.82,
+      "speaker": "SPEAKER_00",
+      "text": "A venit treptat, nu dintr-o dată, nu ați căzut, nu ați ridicat ceva greu?"
+    },
+    {
+      "start": 55.94,
+      "end": 64.68,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, nimic din astea. Stau mult la birou, poate de acolo, că stau câte opt ore pe zi și nu... nu știu."
+    },
+    {
+      "start": 64.8,
+      "end": 72.78,
+      "speaker": "SPEAKER_00",
+      "text": "Aha, deci lucrați la birou. Și în momentul în care stați jos la birou, doare mai tare sau când vă ridicați?"
+    },
+    {
+      "start": 72.9,
+      "end": 80.88,
+      "speaker": "SPEAKER_01",
+      "text": "Când mă ridic e cel mai rău. Mă ridic și simt ceva acolo, trebuie să mă țin de ceva câteva secunde."
+    },
+    {
+      "start": 81.0,
+      "end": 84.42,
+      "speaker": "SPEAKER_00",
+      "text": "Și după ce vă ridicați, durerea dispare sau rămâne?"
+    },
+    {
+      "start": 84.54,
+      "end": 89.1,
+      "speaker": "SPEAKER_01",
+      "text": "Rămâne un pic, dar mai trece. Dacă mă misc, parcă mai trece."
+    },
+    {
+      "start": 89.22,
+      "end": 92.26,
+      "speaker": "SPEAKER_00",
+      "text": "Mișcarea ajută. Bun. Și noaptea, vă trezește durerea?"
+    },
+    {
+      "start": 92.38,
+      "end": 97.7,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori da, mă întorc dintr-o parte în alta și simt ceva pe acolo."
+    },
+    {
+      "start": 97.82,
+      "end": 102.0,
+      "speaker": "SPEAKER_00",
+      "text": "Se lasă durerea și pe vreun picior, pe fesă, pe coapsă?"
+    },
+    {
+      "start": 102.12,
+      "end": 110.86,
+      "speaker": "SPEAKER_01",
+      "text": "Hmm... nu știu, câteodată simt ceva pe partea stângă, pe acolo pe fesă, dar nu știu dacă e de la spate sau altceva."
+    },
+    {
+      "start": 110.98,
+      "end": 114.4,
+      "speaker": "SPEAKER_00",
+      "text": "Pe fesa stângă. Se duce mai jos, sub genunchi?"
+    },
+    {
+      "start": 114.52,
+      "end": 116.8,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu cred, nu am observat."
+    },
+    {
+      "start": 116.92,
+      "end": 126.42,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, cum ați situa durerea în momentul acesta?"
+    },
+    {
+      "start": 126.54,
+      "end": 133.0,
+      "speaker": "SPEAKER_01",
+      "text": "Acum... acu nu e chiar rău. Nu știu, poate un 4, un 5... pe la mijloc, ceva."
+    },
+    {
+      "start": 133.12,
+      "end": 136.16,
+      "speaker": "SPEAKER_00",
+      "text": "Pe la mijloc, undeva între 4 și 5."
+    },
+    {
+      "start": 136.28,
+      "end": 140.84,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam așa. Dar când mă ridic dimineața, atunci e mai rău."
+    },
+    {
+      "start": 140.96,
+      "end": 145.14,
+      "speaker": "SPEAKER_00",
+      "text": "Dimineața când vă ridicați cât ar fi, tot pe aceeași scară?"
+    },
+    {
+      "start": 145.26,
+      "end": 147.92,
+      "speaker": "SPEAKER_01",
+      "text": "Atunci poate un 7, ceva de genul."
+    },
+    {
+      "start": 148.04,
+      "end": 152.6,
+      "speaker": "SPEAKER_00",
+      "text": "Un 7 dimineața. Am înțeles. Aveți și dureri de cap, de ceafă?"
+    },
+    {
+      "start": 152.72,
+      "end": 159.18,
+      "speaker": "SPEAKER_01",
+      "text": "Da! Da, am uitat să spun, mă doare și ceafa, și câteodată capul, mai ales spre seară."
+    },
+    {
+      "start": 159.3,
+      "end": 165.0,
+      "speaker": "SPEAKER_00",
+      "text": "Și ceafa spre seară. Și în momentul în care stați mult la calculator, se accentuează?"
+    },
+    {
+      "start": 165.12,
+      "end": 166.64,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact, fix asta."
+    },
+    {
+      "start": 166.76,
+      "end": 172.08,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Haideți să vă întreb și despre sănătatea dumneavoastră în general. Aveți tensiune arterială?"
+    },
+    {
+      "start": 172.2,
+      "end": 176.38,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am tensiune, iau pastile pentru asta de vreo doi ani."
+    },
+    {
+      "start": 176.5,
+      "end": 179.54,
+      "speaker": "SPEAKER_00",
+      "text": "Aha. Ce pastile luați pentru tensiune, știți cumva?"
+    },
+    {
+      "start": 179.66,
+      "end": 184.22,
+      "speaker": "SPEAKER_01",
+      "text": "Știu că e Enalapril, da, Enalapril. Mi-a dat doctorul 10 miligrame."
+    },
+    {
+      "start": 184.34,
+      "end": 186.62,
+      "speaker": "SPEAKER_00",
+      "text": "Enalapril 10 miligrame. Altceva mai luați?"
+    },
+    {
+      "start": 186.74,
+      "end": 191.3,
+      "speaker": "SPEAKER_01",
+      "text": "Mai iau uneori ceva pentru durere, când nu mai suport, un Ibuprofen."
+    },
+    {
+      "start": 191.42,
+      "end": 192.94,
+      "speaker": "SPEAKER_00",
+      "text": "Ibuprofen, știți ce doză?"
+    },
+    {
+      "start": 193.06,
+      "end": 196.48,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu exact, ce am în casă, 400 poate."
+    },
+    {
+      "start": 196.6,
+      "end": 197.74,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Diabet avem?"
+    },
+    {
+      "start": 197.86,
+      "end": 198.66,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 198.78,
+      "end": 200.68,
+      "speaker": "SPEAKER_00",
+      "text": "Osteoporoză, ați fost vreodată diagnosticată?"
+    },
+    {
+      "start": 200.8,
+      "end": 201.94,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu cred."
+    },
+    {
+      "start": 202.06,
+      "end": 206.62,
+      "speaker": "SPEAKER_00",
+      "text": "Probleme cu hernie de disc, ați auzit vreodată de la un doctor?"
+    },
+    {
+      "start": 206.74,
+      "end": 213.96,
+      "speaker": "SPEAKER_01",
+      "text": "Nu mi-a spus nimeni asta. Am mai mers la medicul de familie, mi-a dat pastile și gata."
+    },
+    {
+      "start": 214.08,
+      "end": 216.36,
+      "speaker": "SPEAKER_00",
+      "text": "Nicio investigație, nicio radiografie sau RMN?"
+    },
+    {
+      "start": 216.48,
+      "end": 224.46,
+      "speaker": "SPEAKER_01",
+      "text": "Am făcut o radiografie acum vreo doi ani, dar nu știu ce au văzut, nu mi-a explicat nimeni prea mult."
+    },
+    {
+      "start": 224.58,
+      "end": 226.48,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Operații, intervenții chirurgicale?"
+    },
+    {
+      "start": 226.6,
+      "end": 230.4,
+      "speaker": "SPEAKER_01",
+      "text": "Am avut apendicele scos acum mulți ani, dar altceva nu."
+    },
+    {
+      "start": 230.52,
+      "end": 238.5,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Hai să facem câteva mișcări, vă rog. Ridicați-vă în picioare, da. Stați așa, normal, cum stați dumneavoastră de obicei."
+    },
+    {
+      "start": 238.62,
+      "end": 239.42,
+      "speaker": "SPEAKER_01",
+      "text": "Bine."
+    },
+    {
+      "start": 239.54,
+      "end": 246.76,
+      "speaker": "SPEAKER_00",
+      "text": "Observ că aveți umerii puțin aduși în față, o postură mai aplecată în față. Lucrați mult aplecată la monitor?"
+    },
+    {
+      "start": 246.88,
+      "end": 250.3,
+      "speaker": "SPEAKER_01",
+      "text": "Da, probabil, nu mă gândesc la asta când stau."
+    },
+    {
+      "start": 250.42,
+      "end": 254.98,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Aplecați-vă acum ușor în față, să atingeți podeaua cât puteți."
+    },
+    {
+      "start": 255.1,
+      "end": 258.52,
+      "speaker": "SPEAKER_01",
+      "text": "Aoleo, nu prea merge, mă doare pe acolo jos."
+    },
+    {
+      "start": 258.64,
+      "end": 263.96,
+      "speaker": "SPEAKER_00",
+      "text": "Doare când vă aplecați în față, în zona lombară. Până unde ajungeți, la genunchi?"
+    },
+    {
+      "start": 264.08,
+      "end": 266.36,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam atât, nu mai jos."
+    },
+    {
+      "start": 266.48,
+      "end": 272.94,
+      "speaker": "SPEAKER_00",
+      "text": "Mobilitate lombară redusă la flexie, ajunge la genunchi. Bun, acum reveniți ușor. Aplecați-vă pe spate, extensie."
+    },
+    {
+      "start": 273.06,
+      "end": 275.72,
+      "speaker": "SPEAKER_01",
+      "text": "Asta merge mai bine, nu prea doare."
+    },
+    {
+      "start": 275.84,
+      "end": 279.26,
+      "speaker": "SPEAKER_00",
+      "text": "Extensia e bună. Bun. Acum o rotație spre dreapta."
+    },
+    {
+      "start": 279.38,
+      "end": 280.18,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 280.3,
+      "end": 281.1,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 281.22,
+      "end": 283.12,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic, nu e rău."
+    },
+    {
+      "start": 283.24,
+      "end": 284.04,
+      "speaker": "SPEAKER_00",
+      "text": "Spre stânga."
+    },
+    {
+      "start": 284.16,
+      "end": 287.2,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, pe asta mai tare simt ceva, da."
+    },
+    {
+      "start": 287.32,
+      "end": 295.3,
+      "speaker": "SPEAKER_00",
+      "text": "Rotația spre stânga provoacă durere. Bun. Acum vă apăs ușor pe mușchii de lângă coloană, să-mi spuneți dacă simțiți ceva."
+    },
+    {
+      "start": 295.42,
+      "end": 298.84,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo doare, pe partea asta stângă mai sus."
+    },
+    {
+      "start": 298.96,
+      "end": 302.76,
+      "speaker": "SPEAKER_00",
+      "text": "Pe paravertebralii stângi, în zona lombară superioară. Și mai jos?"
+    },
+    {
+      "start": 302.88,
+      "end": 305.92,
+      "speaker": "SPEAKER_01",
+      "text": "Da și mai jos, cam pe toată zona."
+    },
+    {
+      "start": 306.04,
+      "end": 310.98,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. O să apăs și pe zona de ceafă, spuneți-mi dacă simțiți."
+    },
+    {
+      "start": 311.1,
+      "end": 314.52,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și acolo, pe partea din spate a gâtului."
+    },
+    {
+      "start": 314.64,
+      "end": 340.86,
+      "speaker": "SPEAKER_00",
+      "text": "Tensiune musculară cervicală prezentă. Bun, doamna Ionescu, din ce văd eu, avem o contractură musculară destul de serioasă pe zona lombară, mai accentuată pe stânga, și o tensiune musculară la nivel cervical, care explică și durerile de cap pe care le aveți. Postura la birou contribuie foarte mult la ambele zone. O să lucrăm în prima fază să reducem contractura, să îmbunătățim mobilitatea lombară și să relaxăm musculatura cervicală."
+    },
+    {
+      "start": 340.98,
+      "end": 342.5,
+      "speaker": "SPEAKER_01",
+      "text": "Și credeți că trece?"
+    },
+    {
+      "start": 342.62,
+      "end": 350.98,
+      "speaker": "SPEAKER_00",
+      "text": "Cu câteva ședințe și cu câteva corecții de postură, cu siguranță o să fie mai bine. Haideți să ne întindem pe masă."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, vreo lovitură, vreun efort mai mare?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Și de atunci ține?\nSPEAKER_01: Da.\nSPEAKER_00: Doare constant sau numai când faceți mișcări?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Sus, deasupra capului?\nSPEAKER_01: Da, și în lateral.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare când ridicați mâna?\nSPEAKER_01: Un 6.\nSPEAKER_00: 6. Și în repaus, când nu mișcați?\nSPEAKER_01: Nu prea doare.\nSPEAKER_00: Doare și pe braț în jos sau e doar în umăr?\nSPEAKER_01: Doar în umăr.\nSPEAKER_00: Ați mai pățit asta cu umărul?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii, tensiune, diabet, vreo altă afecțiune?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați ceva medicamente?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să vedem un pic. Ridicați brațul drept înainte, ușor. Opriți când doare.\nSPEAKER_01: Până aici.\nSPEAKER_00: Cam la 90 de grade se oprește. Doare chiar acum?\nSPEAKER_01: Da.\nSPEAKER_00: Acum ridicați în lateral.\nSPEAKER_01: Ah, aici doare mai tare.\nSPEAKER_00: Înțeles, deci abducția e mai dureroasă decât flexia. Apăs acum pe tendoanele rotatorilor, aici în față, spuneți-mi dacă doare.\nSPEAKER_01: Da, doare.\nSPEAKER_00: Și acum în spate, pe supraspinos.\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Bun. Avem o inflamație la nivelul coifului rotatorilor, cel mai probabil de la efortul ăla cu mutatul mobilei. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Câteva ședințe și ar trebui să se regleze. Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutat mobila), de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Inflamatie coif rotatori umar drept\nObservatii functionale: limitarea abductiei si flexiei active la aproximativ 90 de grade, abductia mai dureroasa decat flexia; sensibilitate la palparea tendoanelor rotatorilor anterior si supraspinos\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii umarului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "De vreo două săptămâni.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Un 6."],
+    "localizarea_durerii": ["Dreptul.", "Doar în umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu."],
+    "evaluare_functionala_initiala": ["Cam la 90 de grade se oprește.", "deci abducția e mai dureroasă decât flexia", "Apăs acum pe tendoanele rotatorilor, aici în față, spuneți-mi dacă doare.", "Da, doare.", "Și acum în spate, pe supraspinos.", "Da, și acolo.", "Avem o inflamație la nivelul coifului rotatorilor", "O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

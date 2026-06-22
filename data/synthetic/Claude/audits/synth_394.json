@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_394",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare genunchiul.",
+      "Dreptul.",
+      "Vreo două săptămâni.",
+      "Treptat, parcă.",
+      "Merg mult pe jos, la serviciu.",
+      "Când merg, mai ales la coborât scările."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "În față, jos.",
+      "Da, exact acolo."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Apăs ușor pe rotulă, îmi spuneți dacă apare durerea.",
+      "Da, acolo.",
+      "Deci avem o sensibilitate la nivelul tendonului patelar. Arată a tendinopatia de tendon patelar, ceea ce explică durerea la coborât scări și la ridicatul de pe scaun. Va trebui să reducem inflamația din zona respectivă și să lucrăm musculatura din jurul genunchiului, mai ales cvadricepsul, ca să descărcăm tendonul."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22994,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 2013,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

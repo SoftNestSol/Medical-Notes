@@ -1,0 +1,50 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamnă!\nSPEAKER_01: Bună ziua, bună ziua!\nSPEAKER_00: Spuneți-mi și mie numele, vă rog.\nSPEAKER_01: Florescu Mihaela.\nSPEAKER_00: Mulțumesc, doamna Florescu. Și vârsta?\nSPEAKER_01: 38 de ani. Deși mă simt de 60 în ultimele zile, sincer.\nSPEAKER_00: Ha, înțeleg. Cu ce problemă ne vedem?\nSPEAKER_01: Păi, uite, am o durere la umăr, la cel drept. A început acum vreo două săptămâni. Eu la început am crezut că e de la frig, că am stat cu fereastra deschisă la birou, știți cum e, vara asta a fost ciudată, ba cald, ba rece seara, și am ignorat-o. Dar nu a trecut.\nSPEAKER_00: Deci umărul drept, de două săptămâni.\nSPEAKER_01: Da, exact. Și mai ales când ridic mâna în sus, adică dacă vreau să iau ceva de pe raft sau să mă pieptăn, mă doare îngrozitor. Noaptea e cel mai rău, nu pot să stau pe partea dreaptă deloc.\nSPEAKER_00: Noaptea doare și când stați liniștit, fără să mișcați?\nSPEAKER_01: Da, mă trezesc. Adică nu e că mă mișc în somn și atunci doare, pur și simplu mă trezesc că mă doare. Ceea ce e enervant pentru că eu deja dorm greu.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum ați descrie durerea acum, în momentul ăsta?\nSPEAKER_01: Acum e undeva pe la 5. Dar când ridic mâna e un 9 ușor, nu exagerez.\nSPEAKER_00: Deci 5 în repaus și 9 la mișcare. Și durerea rămâne la umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Se lasă un pic pe braț, da, pe față, cam până la cot. Nu mai jos.\nSPEAKER_00: Până la cot, pe partea din față a brațului.\nSPEAKER_01: Da. Și mai e ceva, nu știu dacă contează, dar simt un fel de... cum să zic... ca un clic uneori când mișc umărul. Nu doare clickul în sine, dar e acolo.\nSPEAKER_00: Am înțeles, notez. Ați făcut ceva pentru durere până acum?\nSPEAKER_01: Am pus un gel, Voltaren, de vreo câteva ori. Ajută puțin pe moment, dar trece repede efectul. Nu am luat nimic pe gură că mă tem de stomac, am avut gastrită acum câțiva ani și de atunci evit pastilele.\nSPEAKER_00: Înțeleg. Deci Voltaren gel, la nevoie. Altceva luați în mod regulat?\nSPEAKER_01: Nu, nimic altceva.\nSPEAKER_00: Bun. Tensiune, diabet, afecțiuni la oase, articulații?\nSPEAKER_01: Nu, nimic din astea. Sunt sănătoasă în rest, doar umărul ăsta mă supără acum.\nSPEAKER_00: Operații anterioare, fracturi?\nSPEAKER_01: Nu, niciodată.\nSPEAKER_00: Ce lucrați, dacă îmi puteți spune?\nSPEAKER_01: Lucrez la birou, contabilă. Stau mult la calculator, asta e și problema mea cred, stau cu mâna pe mouse toată ziua, mâna dreaptă. Îmi tot spune soțul să îmi iau un mouse mai bun, mai ergonomic, dar n-am apucat.\nSPEAKER_00: Da, poate contribuie. Haideți să fac câteva teste rapide. Ridicați mâna dreaptă în față, încet.\nSPEAKER_01: Uite, până aici pot, mai sus mă doare rău.\nSPEAKER_00: Bine. Acum în lateral.\nSPEAKER_01: La fel, cam la același nivel se blochează.\nSPEAKER_00: Și dacă pun mâna ici, pe acromion, și apăs ușor?\nSPEAKER_01: Au, da, doare.\nSPEAKER_00: Doare direct în articulație. Bun. Pot să vă spun că avem o inflamație la nivelul umărului drept, probabil tendinopatia coifului rotator, posibil și o ușoară bursită subacromială. Mobilitatea este limitată în flexie și abducție. O să începem cu reducerea inflamației și după o să lucrăm pe refacerea amplitudinii de mișcare.\nSPEAKER_01: Și o să treacă? Adică eu mă tem că dacă nu se rezolvă trebuie operație, am citit pe internet și m-am speriat.\nSPEAKER_00: Înțeleg teama, dar deocamdată suntem departe de scenariul ăla. Hai să vedem cum răspunde la terapie primele ședințe.\nSPEAKER_01: Bine, bine, mulțumesc că m-ați liniștit un pic.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept, cu iradiere pe brat pana la cot, limitare de mobilitate la ridicarea bratului",
+    "evaluarea_durerii_vas": [5, 9],
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "iradiere pe fata bratului drept pana la cot",
+    "antecedente": [],
+    "antecedente_altele": "gastrita in antecedente",
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": "la nevoie"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie umar drept, tendinopatie coif rotator, posibila bursita subacomiala; mobilitate limitata in flexie si abductie.\nObiective terapeutice: reducerea inflamatiei; refacerea amplitudinii de miscare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere la umăr, la cel drept",
+      "când ridic mâna în sus, adică dacă vreau să iau ceva de pe raft sau să mă pieptăn, mă doare îngrozitor",
+      "A început acum vreo două săptămâni"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum e undeva pe la 5",
+      "când ridic mâna e un 9 ușor, nu exagerez"
+    ],
+    "localizarea_durerii": [
+      "am o durere la umăr, la cel drept"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă un pic pe braț, da, pe față, cam până la cot. Nu mai jos."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "am avut gastrită acum câțiva ani"
+    ],
+    "medicatie_actuala": [
+      "Am pus un gel, Voltaren, de vreo câteva ori",
+      "Ajută puțin pe moment"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul umărului drept, probabil tendinopatia coifului rotator, posibil și o ușoară bursită subacromială",
+      "Mobilitatea este limitată în flexie și abducție",
+      "O să începem cu reducerea inflamației și după o să lucrăm pe refacerea amplitudinii de mișcare"
+    ]
+  }
+}

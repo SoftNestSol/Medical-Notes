@@ -1,0 +1,50 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi cu ce problemă veniți.\nSPEAKER_01: Păi, am o durere... adică mă doare jos, chiar la baza coloanei, știți, acolo unde se termină coloana, parcă mă ține tot timpul și nu pot să stau pe scaun mai mult de zece minute că mă apucă durerea.\nSPEAKER_00: Deci zona de coccis, sacrală.\nSPEAKER_01: Da, exact acolo, parcă mă doare os, nu mușchi, dacă înțelegeți ce vreau să zic. Și uneori se duce și pe fesă, mai mult pe stânga.\nSPEAKER_00: De cât timp aveți această durere?\nSPEAKER_01: Ăăă, de vreo trei săptămâni, dar sincer, a început după ce am stat vreo două zile aproape non-stop la calculator, am avut un proiect la serviciu, știți cum e, și dimineața m-am trezit și nu mai puteam să mă ridic normal din pat. Am zis că trece, dar n-a trecut.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum estimați durerea?\nSPEAKER_01: Eh, depinde. Când stau jos, pe scaun sau pe canapea, ajunge la un 7, chiar 8. Când merg sau stau în picioare e mai suportabil, aș zice un 4.\nSPEAKER_00: Deci șezutul agravează.\nSPEAKER_01: Da, exact, e ciudat nu? Toată lumea îmi zice să mă odihnesc, să stau, dar tocmai când stau mă doare mai tare. Mă ridic, mă plimb prin cameră și mai trece. Și dimineața e mai rău, primele minute după ce mă scol.\nSPEAKER_00: Ați căzut pe coccis, vreun traumatism recent sau mai vechi?\nSPEAKER_01: Nu, nu am căzut. Adică, acum vreo doi ani am alunecat pe gheață și am căzut pe fund, dar atunci n-am simțit nimic deosebit, a trecut în câteva zile. Nu știu dacă are legătură.\nSPEAKER_00: Poate să aibă. Durerea asta se lasă și pe picior, amorțeli?\nSPEAKER_01: Nu, nu amorțeli. Uneori simt o presiune, cum să zic, ca o greutate în zona de fesă stângă, dar nu se lasă pe picior propriu-zis.\nSPEAKER_00: Aveți tensiune, diabet, osteoporoză, vreo afecțiune mai veche?\nSPEAKER_01: Nu, nimic din astea, sunt relativ sănătos. Am 34 de ani. Mă mai doare spatele câteodată, lombar, dar asta e de la stat la birou, nu e nimic nou.\nSPEAKER_00: Luați vreun medicament în mod curent?\nSPEAKER_01: Nu, nu iau nimic regulat. Am luat un Nurofen sau două acum vreo săptămână când n-am mai putut, dar atât.\nSPEAKER_00: A ajutat?\nSPEAKER_01: Da, puțin, câteva ore, după care a revenit.\nSPEAKER_00: Haideți să facem câteva teste. Stați în picioare, relaxat, cu spatele la mine.\nSPEAKER_01: Așa?\nSPEAKER_00: Da, bun. Apăs puțin pe zona de sacru... doare?\nSPEAKER_01: Da, da, exact acolo.\nSPEAKER_00: Pe coccis?\nSPEAKER_01: Și acolo, ăăă, da, doare.\nSPEAKER_00: Ok. Aplecați-vă puțin în față.\nSPEAKER_01: Uite, când mă aplec simt că se trage acolo jos.\nSPEAKER_00: Și în lateral, spre stânga?\nSPEAKER_01: Aoleo, da, asta doare mai tare. Știți, mă tot gândesc dacă nu am ceva rupt acolo, pentru că durerea e destul de precisă, nu e difuză.\nSPEAKER_00: E o îngrijorare înțeleasă, dar la palpare nu simt deplasare. Cel mai probabil avem o iritație la nivelul articulației sacrococcigiene și o tensiune musculară în zona piriformului și fesierului stâng.\nSPEAKER_01: A, adică nu e osul rupt?\nSPEAKER_00: Nu par semne de fractură. O să lucrăm să reducem tensiunea musculară și iritația locală. Dacă durerea nu cedează, vă recomand o radiografie să excludem orice problemă osoasă.\nSPEAKER_01: Bine, mă bucur că nu e ceva grav. Cât credeți că durează până trece?\nSPEAKER_00: Depinde de cum răspunde, dar dacă lucrăm regulat ar trebui să simțiți îmbunătățire după primele două-trei ședințe. Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere la baza coloanei, zona sacrală și coccis, cu iradiere spre fesa stângă, apărută după perioadă prelungită de stat la calculator. Agravată în șezut, ameliorată la mers și ortostatism. Durată aproximativ trei săptămâni.",
+    "evaluarea_durerii_vas": [7, 4],
+    "localizarea_durerii": [
+      "sacral_coccis",
+      "lombar"
+    ],
+    "localizarea_durerii_alta": "fesa stângă",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: iritație articulație sacrococcigianăn și tensiune musculară piriform și fesier stâng.\nObiective terapeutice: reducerea tensiunii musculare și a iritației locale; recomandare radiografie dacă durerea nu cedează."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare jos, chiar la baza coloanei, știți, acolo unde se termină coloana, parcă mă ține tot timpul și nu pot să stau pe scaun mai mult de zece minute că mă apucă durerea",
+      "a început după ce am stat vreo două zile aproape non-stop la calculator",
+      "de vreo trei săptămâni"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când stau jos, pe scaun sau pe canapea, ajunge la un 7, chiar 8",
+      "Când merg sau stau în picioare e mai suportabil, aș zice un 4"
+    ],
+    "localizarea_durerii": [
+      "mă doare jos, chiar la baza coloanei",
+      "Mă mai doare spatele câteodată, lombar, dar asta e de la stat la birou"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori se duce și pe fesă, mai mult pe stânga",
+      "simt o presiune, cum să zic, ca o greutate în zona de fesă stângă"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Nurofen sau două acum vreo săptămână când n-am mai putut"
+    ],
+    "evaluare_functionala_initiala": [
+      "Cel mai probabil avem o iritație la nivelul articulației sacrococcigiene și o tensiune musculară în zona piriformului și fesierului stâng",
+      "O să lucrăm să reducem tensiunea musculară și iritația locală",
+      "dacă durerea nu cedează, vă recomand o radiografie să excludem orice problemă osoasă"
+    ]
+  }
+}

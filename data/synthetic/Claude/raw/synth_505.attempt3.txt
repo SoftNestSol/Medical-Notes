@@ -1,0 +1,52 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce vă pot ajuta?\nSPEAKER_01: Bună ziua, deci eu vin pentru că mă doare ceafa de vreo două săptămâni și jumătate, poate chiar trei, nu știu exact, dar a început să fie din ce în ce mai rău și am zis să vin să văd ce e.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Păi acum, în momentul ăsta, aș zice un 5. Dar dimineața când mă trezesc e mai rău, simt că nu pot să întorc capul deloc, parcă m-a îngropat cineva în beton.\nSPEAKER_00: Deci dimineața mai tare, pe parcursul zilei se mai ameliorează.\nSPEAKER_01: Da, exact. Adică după ce mă mișc un pic, mă duc la baie, beau cafeaua, mai trece. Dar nu de tot, rămâne o senzație de tensiune, nu știu cum să zic, ca și cum ai purta un ghiozdan greu mereu în zona asta.\nSPEAKER_00: Înțeles. Durerea rămâne în ceafă sau se lasă și în altă parte?\nSPEAKER_01: Uneori simt că urcă spre cap, în spate, sus. Și mai am uneori dureri de cap, în special la ceafă și occipital, nu știu dacă e legat, probabil e, nu?\nSPEAKER_00: Poate fi legat, da. Deci durere de cap în zona occipitală.\nSPEAKER_01: Da, da, exact, acolo în spate. Nu e migrenă cu lumini și toate astea, e mai mult o apăsare.\nSPEAKER_00: Ok. Și cum a apărut? Ați făcut ceva, ați dormit prost, ați stat mult la calculator?\nSPEAKER_01: Păi știți cum e, eu lucrez de acasă, la birou, adică la laptop toată ziua. Și cred că am stat într-o perioadă mai intensă la muncă, a fost un proiect mare, stăteam câte 10 ore, 11 ore la laptop. Și undeva la final de proiect a apărut durerea asta. Deci nu a fost nimic spectaculos, niciun accident, nu m-am lovit, nimic. Dar mă gândeam și eu dacă nu cumva am și o hernie sau ceva, că am citit pe internet și m-am speriat un pic.\nSPEAKER_00: Înțeleg. O să vedem. Amorțeală simțiți în mâini sau brațe?\nSPEAKER_01: Nu, nu, amorțeală nu am. Poate uneori, dacă stau mult cu cotul pe birou, dar aia e altceva, nu e tot timpul.\nSPEAKER_00: Ok. Și durerea se lasă pe umăr sau pe braț?\nSPEAKER_01: Nu, nu ajunge până acolo. Rămâne în ceafă și urcă spre cap uneori, atât.\nSPEAKER_00: Bun. Ați luat ceva pentru durere?\nSPEAKER_01: Am luat Ibuprofen când era mai rău, câte o pastilă, nu am luat sistematic. Și am mai pus un gel antiinflamator pe ceafă seara, dar nu țin minte exact cum îl cheamă, era de la farmacie, ceva cu diclofenac cred.\nSPEAKER_00: Ok, deci gel cu diclofenac și Ibuprofen la nevoie. Tensiune, diabet, probleme cardiace?\nSPEAKER_01: Nu, nu am nimic din astea. Sunt relativ tânăr, am 34 de ani, nu am probleme. Mă mai doare spatele câteodată din cauza biroului, dar asta e altceva, aia trece singură de obicei.\nSPEAKER_00: Înțeles. Haideți să facem câteva teste. Întoarceți capul spre dreapta pentru mine.\nSPEAKER_01: Ajunge până aici... mai greu.\nSPEAKER_00: Limitare la rotație dreaptă. Și spre stânga?\nSPEAKER_01: Stânga merge puțin mai bine dar tot nu e ok.\nSPEAKER_00: Dau puțin presiune pe cap, spuneți-mi dacă se lasă ceva pe braț.\nSPEAKER_01: Nu, nu simt nimic pe braț.\nSPEAKER_00: Bun. Apăs în zona C4-C5, C5-C6... doare?\nSPEAKER_01: Da, da, acolo doare, exact.\nSPEAKER_00: Ok. Deci avem o contractură musculară paravertebrală cervicală, cu mobilitate limitată, mai ales la rotație dreapta. Fără iradiere pe braț la testare, deci nu avem compresie radiculară activă. Probabil o cervicalgie de tip mecanic, postural, legată de orele lungi la laptop. Obiectivul nostru e să reducem contractura, să recâștigăm mobilitatea și să lucrăm și puțin pe postură.\nSPEAKER_01: Deci nu e hernie? Că m-am tot gândit la asta.\nSPEAKER_00: La momentul testării nu am semne de compresie radiculară, dar dacă doriți siguranță putem recomanda un RMN cervical. Deocamdată tratăm mecanic.\nSPEAKER_01: Ok, înțeles, mă bucur. Atunci mergem înainte.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu cervicalgie și dureri de cap occipitale apărute în urmă cu aproximativ 2-3 săptămâni, asociate cu muncă prelungită la laptop (10-11 ore/zi). Durere cu intensitate 5/10, mai accentuată dimineața, cu redoare matinală marcată. Fără iradiere pe braț sau amorțeală.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "la nevoie"
+      },
+      {
+        "denumire": "gel cu diclofenac",
+        "doza": "seara, la nevoie"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nLimitare la rotație cervicală dreapta, rotație stânga parțial limitată. Durere la presiune paravertebrală C4-C5, C5-C6. Test de compresie axială negativ (fără iradiere pe braț).\nDiagnostic:\nCervicalgie mecanică posturală, contractură musculară paravertebrală cervicală, fără semne de compresie radiculară activă.\nObiective terapeutice:\nReducerea contracturii musculare cervicale; recâștigarea mobilității la rotație; corectare posturală."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare ceafa de vreo două săptămâni și jumătate, poate chiar trei",
+      "a fost un proiect mare, stăteam câte 10 ore, 11 ore la laptop. Și undeva la final de proiect a apărut durerea asta",
+      "amorțeală nu am"
+    ],
+    "evaluarea_durerii_vas": [
+      "acum, în momentul ăsta, aș zice un 5"
+    ],
+    "localizarea_durerii": [
+      "mă doare ceafa",
+      "uneori simt că urcă spre cap, în spate, sus. Și mai am uneori dureri de cap, în special la ceafă și occipital"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat Ibuprofen când era mai rău, câte o pastilă, nu am luat sistematic",
+      "am mai pus un gel antiinflamator pe ceafă seara, dar nu țin minte exact cum îl cheamă, era de la farmacie, ceva cu diclofenac cred"
+    ],
+    "evaluare_functionala_initiala": [
+      "Limitare la rotație dreapta",
+      "Apăs în zona C4-C5, C5-C6... doare? Da, da, acolo doare, exact",
+      "avem o contractură musculară paravertebrală cervicală, cu mobilitate limitată, mai ales la rotație dreapta. Fără iradiere pe braț la testare, deci nu avem compresie radiculară activă. Probabil o cervicalgie de tip mecanic, postural",
+      "Obiectivul nostru e să reducem contractura, să recâștigăm mobilitatea și să lucrăm și puțin pe postură"
+    ]
+  }
+}

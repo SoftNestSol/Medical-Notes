@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_245",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere la umăr, la cel drept",
+      "când ridic mâna în sus, adică dacă vreau să iau ceva de pe raft sau să mă pieptăn, mă doare îngrozitor",
+      "A început acum vreo două săptămâni"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum e undeva pe la 5",
+      "când ridic mâna e un 9 ușor, nu exagerez"
+    ],
+    "localizarea_durerii": [
+      "am o durere la umăr, la cel drept"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă un pic pe braț, da, pe față, cam până la cot. Nu mai jos."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "am avut gastrită acum câțiva ani"
+    ],
+    "medicatie_actuala": [
+      "Am pus un gel, Voltaren, de vreo câteva ori",
+      "Ajută puțin pe moment"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul umărului drept, probabil tendinopatia coifului rotator, posibil și o ușoară bursită subacromială",
+      "Mobilitatea este limitată în flexie și abducție",
+      "O să începem cu reducerea inflamației și după o să lucrăm pe refacerea amplitudinii de mișcare"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13758,
+    "inference_geo": "global",
+    "input_tokens": 314,
+    "output_tokens": 2326,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

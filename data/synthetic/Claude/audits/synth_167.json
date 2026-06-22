@@ -1,0 +1,50 @@
+{
+  "conversation_id": "synth_167",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere pe umărul stâng, și nu de ieri, de azi, știți, de vreo trei săptămâni se tot ține",
+      "Am fost la gară cu soția, am cărat niște bagaje mai grele, era o valiză mare, și a doua zi dimineața m-am trezit și parcă mă ustura acolo"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când stau liniștit, așa, vreo 4",
+      "dacă încerc să ridic ceva, sau dacă dorm pe partea stângă, ajunge la vreo 8"
+    ],
+    "localizarea_durerii": [
+      "am o durere pe umărul stâng"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă un pic pe braț, pe partea din față, dar nu mai jos de cot, nu"
+    ],
+    "antecedente": [
+      "Am tensiune, da. Iau medicamente pentru asta de vreo cinci ani."
+    ],
+    "antecedente_altele": [
+      "am și puțin colesterol, și pentru aia iau ceva"
+    ],
+    "medicatie_actuala": [
+      "Iau Enalapril, 10 miligrame, o dată pe zi",
+      "Atorvastatina, 20 de miligrame, seara",
+      "mai iau uneori un Nurofen când mă doare tare"
+    ],
+    "evaluare_functionala_initiala": [
+      "Deci undeva la nouăzeci de grade vă blochează durerea",
+      "Au, nu, aia nu pot deloc. Dimineața când încerc să mă încheie la pantaloni de la spate e groaznic",
+      "Apăs puțin aici, pe capul humeral, doare?",
+      "Avem o limitare clară a mobilității la umărul stâng, mai ales la abducție și la rotația internă. Zona cea mai sensibilă e pe capul humeral și pe tendonul supraspinosului. Probabil avem o tendinopatie sau o bursită subacromială la umărul stâng, posibil cu o inflamație a manșetei rotatorilor. Obiectivul nostru va fi să reducem inflamația, să recâștigăm mobilitatea și să întărim musculatura din jurul umărului ca să nu reapară."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13883,
+    "inference_geo": "global",
+    "input_tokens": 271,
+    "output_tokens": 3377,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

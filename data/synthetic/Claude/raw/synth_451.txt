@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Radu Ionescu.\nSPEAKER_00: Și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem astăzi, domnule Ionescu?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume, o mișcare, un efort?\nSPEAKER_01: Am mutat mobilă.\nSPEAKER_00: Aha. Și în momentul ăla a apărut durerea sau mai târziu?\nSPEAKER_01: A doua zi.\nSPEAKER_00: A doua zi. Deci a apărut treptat, nu brusc pe loc.\nSPEAKER_01: Da.\nSPEAKER_00: Doare constant sau doar la mișcare?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Până unde reușiți să ridicați, mai sus de umăr, mai jos?\nSPEAKER_01: Până pe la... nu știu, la nivelul umărului, mai sus doare rău.\nSPEAKER_00: Deci peste orizontală nu mai puteți, practic.\nSPEAKER_01: Nu.\nSPEAKER_00: Noaptea vă deranjează? Dacă dormiți pe umărul drept?\nSPEAKER_01: Da, mă trezesc.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e cel mai rău, cât ați pune?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. Și noaptea, când vă treziți, tot 6 sau mai mult?\nSPEAKER_01: Mai mult, un 8.\nSPEAKER_00: Bun. Durerea rămâne în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne acolo.\nSPEAKER_00: Nu aveți amorțeală pe braț, pe degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Spuneți-mi, ce muncă faceți?\nSPEAKER_01: Stau la birou.\nSPEAKER_00: La birou, deci mult pe calculator. Cu ce mână folosiți mouse-ul?\nSPEAKER_01: Cu dreapta.\nSPEAKER_00: Cu dreapta, da. Și stați mult cu mâna ridicată sau cu cotul în aer când lucrați?\nSPEAKER_01: Nu știu, nu m-am gândit.\nSPEAKER_00: Ok, o să verificăm și postura. Aveți tensiune, diabet, osteoporoză, vreo altă afecțiune?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio operație, nicio fractură la umărul ăsta?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați-vă puțin, stați cu brațele pe lângă corp. O să vă rog să ridicați brațul drept în față, încet. Spuneți-mi când apare durerea.\nSPEAKER_01: Acum.\nSPEAKER_00: La aproximativ 70 de grade. Și dacă continuăm?\nSPEAKER_01: Au, da, asta doare.\nSPEAKER_00: Arc dureros prezent. O să apăs acum pe zona de sub acromion, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo exact.\nSPEAKER_00: Exact acolo. Și dacă apăs pe tendonul bicepsului?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin. Rotați brațul spre exterior, ușor... doare?\nSPEAKER_01: Un pic.\nSPEAKER_00: Înțeles. Tabloul pare destul de clar. Avem o inflamație la nivelul tendoanelor manșetei rotatorilor, cel mai probabil supraspinosul, agravată de postura la birou și de efortul cu mutatul mobilei. Obiectivul nostru va fi să reducem inflamația, să recăpătăm amplitudinea de mișcare și să vedem cum poziționăm brațul când lucrați.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutat mobila), cu limitarea ridicarii bratului peste orizontala si treziri nocturne",
+    "evaluarea_durerii_vas": [6, 8],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Arc dureros prezent la aproximativ 70 de grade la flexia anterioara a bratului drept. Sensibilitate la palparea zonei de sub acromion (tendon supraspinat). Rotatie externa cu durere usoara. Diagnostic: inflamatie tendoane manseta rotatorilor (supraspinat), agravata de postura la birou si efort fizic. Obiective terapeutice: reducerea inflamatiei, recuperarea amplitudinii de miscare, corectarea posturii la birou."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat mobilă.", "A doua zi.", "mai sus doare rău", "mă trezesc"],
+    "evaluarea_durerii_vas": ["Un 6.", "Mai mult, un 8."],
+    "localizarea_durerii": ["Dreptul.", "Rămâne acolo."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Arc dureros prezent", "La aproximativ 70 de grade", "O să apăs acum pe zona de sub acromion, spuneți-mi dacă doare.", "Da, acolo exact.", "Rotați brațul spre exterior, ușor... doare?", "Un pic.", "Avem o inflamație la nivelul tendoanelor manșetei rotatorilor, cel mai probabil supraspinosul", "Obiectivul nostru va fi să reducem inflamația, să recăpătăm amplitudinea de mișcare"]
+  }
+}

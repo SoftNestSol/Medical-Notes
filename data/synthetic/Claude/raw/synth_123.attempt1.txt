@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce vă pot ajuta?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și cum a apărut? Ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am ridicat niște saci la serviciu.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau numai când ridicați brațul?\nSPEAKER_01: Când ridic brațul.\nSPEAKER_00: Și dacă ridicați brațul în față, doare la fel ca dacă îl ridicați în lateral?\nSPEAKER_01: Mai rău în lateral.\nSPEAKER_00: Ok. Se lasă durerea pe braț în jos, pe cot, pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțește mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai avut ceva la umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte probleme de sănătate, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Luați ceva pentru tensiune?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: Bun. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok, haideți să ridici brațul așa, în lateral, încet. Până unde puteți?\nSPEAKER_01: Până cam pe aici.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Stați puțin, vă apăs aici pe zona asta de sub acromion. Doare?\nSPEAKER_01: Da, acolo e.\nSPEAKER_00: Și aici, pe biceps, sus?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Am înțeles. Pare o inflamație la nivelul manșetei rotatorilor, zona subacromială. O să lucrăm să reducem inflamația și să recuperăm mobilitatea brațului.\nSPEAKER_01: Ok.\nSPEAKER_00: Ați făcut vreo terapie până acum pentru asta?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun, haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "durere umar stang aparuta dupa ridicare de saci la serviciu, acum doua saptamani",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie manseta rotatorilor, zona subacromială\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii bratului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Am ridicat niște saci la serviciu.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Enalapril.", "10 miligrame."],
+    "evaluare_functionala_initiala": ["Pare o inflamație la nivelul manșetei rotatorilor, zona subacromială. O să lucrăm să reducem inflamația și să recuperăm mobilitatea brațului."]
+  }
+}

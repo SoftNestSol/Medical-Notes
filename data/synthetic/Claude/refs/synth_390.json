@@ -1,0 +1,23 @@
+{
+  "motivul_prezentarii": "Durere umăr drept cu iradiere pe fața anterioară a brațului, debut după efort fizic (ridicare greutăți la locul de muncă), prezentă de aproximativ trei săptămâni, accentuată la mișcare și nocturn.",
+  "evaluarea_durerii_vas": [
+    3,
+    7,
+    6
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "fața anterioară a brațului drept până la mijloc",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Perindopril",
+      "doza": "5 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: Tendinită supraspinoasă (inflamație tendon supraspinos, manșon rotatori). Durere la abducție activă ~90 grade, la rotație internă și la testul de rezistență în abducție (cedare). Clacment articular la mișcare. Fără semne de ruptură completă.\nObiective terapeutice: reducerea inflamației; recuperarea mobilității umărului drept."
+}

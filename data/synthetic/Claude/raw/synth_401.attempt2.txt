@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stângul sau dreptul?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut din senin sau după ceva anume?\nSPEAKER_01: După ce am mutat niște cutii.\nSPEAKER_00: Deci după un efort. Și de atunci doare constant sau numai la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Când ridicați brațul, de exemplu?\nSPEAKER_01: Da.\nSPEAKER_00: Și noaptea vă deranjează, vă treziți din cauza durerii?\nSPEAKER_01: Uneori.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare în momentul cel mai rău?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Și când stați liniștit, fără să mișcați brațul?\nSPEAKER_01: 2, ceva de genul.\nSPEAKER_00: Deci 2 în repaus, 6 la mișcare. Durerea rămâne în umăr sau coboară pe braț?\nSPEAKER_01: Rămâne sus, în umăr.\nSPEAKER_00: Nu amorțește nimic, niciun deget?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Puteți să ridicați brațul deasupra capului?\nSPEAKER_01: Greu. Până pe aici.\nSPEAKER_00: Cam la 90 de grade.\nSPEAKER_01: Da, cam atât.\nSPEAKER_00: Mai departe doare?\nSPEAKER_01: Da, destul de tare.\nSPEAKER_00: Dacă faceți mișcarea asta, cu brațul la piept și rotiți în exterior, simțiți ceva?\nSPEAKER_01: Da, tot doare.\nSPEAKER_00: Înțeleg. Și dacă fac eu presiune aici, pe vârful umărului, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și mai adânc, cam pe aici?\nSPEAKER_01: Acolo mai tare.\nSPEAKER_00: Bun. Aveți vreo meserie care implică ridicat brațul des sau stat mult pe calculator?\nSPEAKER_01: Stau mult la birou.\nSPEAKER_00: La birou, deci mult timp cu brațul coborât, muncă sedentară. Ați mai avut probleme cu umărul acesta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio fractură, nicio lovitură mai veche?\nSPEAKER_01: Nu.\nSPEAKER_00: Vă întreb câteva lucruri de rutină. Tensiune arterială, diabet, probleme cu inima?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Epilepsie, osteoporoză, cancer?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați medicamente în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme sau unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci ce observ eu este că aveți o limitare de mobilitate destul de clară la abducție, se oprește la aproximativ 90 de grade, și durere la palparea tendonului supraspinosului. Cel mai probabil avem o tendinopatie a coifului rotatorilor, posibil și o ușoară inflamație a bursei subacromiale. Obiectivul nostru principal va fi să reducem inflamația, să recuperăm mobilitatea și să întărim musculatura din jur ca să nu mai recidiveze.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere la nivelul umărului stâng, apărută după efort fizic (mutat cutii), de aproximativ două săptămâni. Durere la mișcare (VAS 6/10), mai redusă în repaus (VAS 2/10), cu limitare de abducție la ~90 de grade. Fără iradiere sau amorțeală pe braț.",
+    "evaluarea_durerii_vas": [6, 2],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nLimitare de mobilitate la abducție, aproximativ 90 de grade. Durere la palparea tendonului supraspinosului și la rotație externă pasivă. Durere accentuată la palpare profundă subacromial.\nDiagnostic:\nTendinopatie a coifului rotatorilor, posibil inflamație a bursei subacromiale.\nObiective terapeutice:\nReducerea inflamației, recuperarea mobilității umărului stâng, întărirea musculaturii periarticulare pentru prevenirea recidivelor."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "De vreo două săptămâni.", "După ce am mutat niște cutii.", "Mai mult la mișcare."],
+    "evaluarea_durerii_vas": ["Vreo 6.", "2, ceva de genul."],
+    "localizarea_durerii": ["Stângul.", "Rămâne sus, în umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu.", "Luați medicamente în prezent?\nSPEAKER_01: Nu."],
+    "evaluare_functionala_initiala": ["aveți o limitare de mobilitate destul de clară la abducție, se oprește la aproximativ 90 de grade, și durere la palparea tendonului supraspinosului", "cel mai probabil avem o tendinopatie a coifului rotatorilor, posibil și o ușoară inflamație a bursei subacromiale", "Obiectivul nostru principal va fi să reducem inflamația, să recuperăm mobilitatea și să întărim musculatura din jur"]
+  }
+}

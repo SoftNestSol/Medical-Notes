@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere cot drept cu iradiere pe antebraț, apărută treptat în aproximativ două luni, accentuată de apucare, strângere în mână, rotație antebraț și activitate la calculator; pacient jucător amator de tenis.",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "cot_dr"
+  ],
+  "localizarea_durerii_alta": "antebraț drept, dosul mâinii drepte",
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "50 micrograme zilnic"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: Epicondilită laterală (cotul tenismanului) - iritație tendon extensori pumn și degete la inserția pe epicondilul lateral, prin suprasolicitare repetată.\nObiective terapeutice: reducerea inflamației locale la nivelul tendonului; decontracturarea musculaturii extensoare a antebrațului; refacerea mobilității articulației cotului; prevenirea recidivelor."
+}

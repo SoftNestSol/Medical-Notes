@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Durere umăr stâng instalată în urmă cu aproximativ două săptămâni și jumătate, apărută probabil după efort fizic (mutarea unui dulap greu). Durere la mișcare, în special la ridicarea brațului și la culcat pe partea afectată. Fără amorțeli.",
+  "evaluarea_durerii_vas": [
+    7,
+    8,
+    2
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "spre ceafă (ocazional, nesigur dacă e legat)",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren gel",
+      "doza": "aplicat local seara, câteva zile"
+    }
+  ],
+  "evaluare_functionala_initiala": "Abducție anterioară limitată la aproximativ 90 de grade, dureroasă dincolo de orizontală. Abducție laterală limitată și dureroasă. Rotație internă prezentă cu senzație de tracțiune. Diagnostic: inflamație tendoane manșetă rotatori, probabil supraspinos. Obiective terapeutice: reducerea inflamației și recuperarea mobilității umărului stâng."
+}

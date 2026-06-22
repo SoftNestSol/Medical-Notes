@@ -1,0 +1,24 @@
+{
+  "motivul_prezentarii": "Durere umar drept cu iradiere pe brat pana la cot, aparuta treptat de aproximativ trei saptamani, agravata la ridicarea bratului si rotatia interna, cu treziri nocturne.",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "brat drept pana la cot (fata laterala)",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren gel",
+      "doza": null
+    },
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare abductie si rotatie interna umar drept; durere maxima subacromiana la palparea supraspinosului; sensibilitate pe tendonul bicipital. Diagnostic: tendinopatie coif rotatori (supraspinos). Obiective terapeutice: reducerea inflamatiei si recuperarea mobilitatii umarului drept."
+}

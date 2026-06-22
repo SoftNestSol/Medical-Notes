@@ -1,0 +1,53 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce vă pot ajuta.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, lombarul?\nSPEAKER_01: Da, jos.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc. Am ridicat ceva și a pornit.\nSPEAKER_00: Ați ridicat o greutate?\nSPEAKER_01: Da, niște saci.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare extrem de tare, unde v-ați situa acum?\nSPEAKER_01: Vreo șapte.\nSPEAKER_00: Șapte. Și în mișcare e la fel sau se accentuează?\nSPEAKER_01: Mai rău când mă ridic din scaun.\nSPEAKER_00: Când vă ridicați din poziția șezând. Și când stați culcat?\nSPEAKER_01: Merge.\nSPEAKER_00: Deci în repaus se mai calmează. Durerea se lasă cumva pe picior, pe fesă, pe coapsă?\nSPEAKER_01: Nu. Doar acolo, jos.\nSPEAKER_00: Strict lombar, nu iradiază. Amorțeli la picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ați mai avut episoade din astea în trecut?\nSPEAKER_01: Mai demult, da, dar a trecut singur.\nSPEAKER_00: Și acum nu a trecut singur în două săptămâni.\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Ce ocupație aveți?\nSPEAKER_01: Muncitor. La depozit.\nSPEAKER_00: Deci ridicați greutăți frecvent.\nSPEAKER_01: Da, zilnic.\nSPEAKER_00: Și în perioada asta tot lucrați?\nSPEAKER_01: Da, nu am ce face.\nSPEAKER_00: Înțeleg. Tensiune, diabet, vreo afecțiune mai veche?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio intervenție chirurgicală?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă văd un pic în picioare. Stați relaxat, cu mâinile pe lângă corp. Mă uit la postură.\nSPEAKER_01: Bun.\nSPEAKER_00: Văd o ușoară anteversiee de bazin. Vă aplecați puțin în față, încet, cât puteți.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Deci flexia lombară e limitată, cam jumătate din amplitudine. Doare la aplecare?\nSPEAKER_01: Da, trage.\nSPEAKER_00: Trage. Și în extensie, dați-vă un pic pe spate.\nSPEAKER_01: Doare mai tare.\nSPEAKER_00: Extensia accentuează durerea. Înțeles. Stați puțin pe piciorul drept, ridic eu stângul.\nSPEAKER_01: Ok.\nSPEAKER_00: Doare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Acum invers.\nSPEAKER_01: Nu.\nSPEAKER_00: Ok, testul Lasègue negativ bilateral. Bun. Vă apăs un pic paravertebral, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Contractură paravertebrală lombară, mai accentuată pe dreapta. Și la nivelul sacrului, doare?\nSPEAKER_01: Un pic, da.\nSPEAKER_00: Deci și zona sacrală e sensibilă. Înțeles. Deci ce avem: o lombalgie acută mecanică, declanșată de efort, cu contractură musculară paravertebrală și sensibilitate la nivelul sacrului. Fără iradiere, fără semne de afectare radiculară. O să lucrăm să reducem contractura și inflamația locală, să refacem mobilitatea lombară și o să vorbim și de cum să ridicați corect greutățile la muncă.\nSPEAKER_01: Da, bine.\nSPEAKER_00: Haideți pe masă cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară acută declanșată la ridicarea de greutăți (saci), prezentă de aproximativ două săptămâni. Durerea se accentuează la ridicarea din scaun și în extensie, se ameliorează în repaus. Fără iradiere pe membre inferioare, fără amorțeli.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "lombar",
+      "sacral_coccis"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară anteversiee de bazin. Flexie lombară limitată la aproximativ jumătate din amplitudine cu durere la aplecare. Extensia lombară accentuează durerea. Test Lasègue negativ bilateral. Contractură paravertebrală lombară accentuată pe dreapta. Sensibilitate la palpare zona sacrală.\nDiagnostic:\nLombalgie acută mecanică, fără iradiere, fără semne de afectare radiculară.\nObiective terapeutice:\nReducerea contracturii musculare și a inflamației locale; refacerea mobilității lombare; educație privind tehnica de ridicare a greutăților."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Da, jos.",
+      "Brusc. Am ridicat ceva și a pornit.",
+      "Da, niște saci.",
+      "Vreo două săptămâni.",
+      "Doar acolo, jos.",
+      "Nu. Doar acolo, jos.",
+      "Nu.",
+      "Mai rău când mă ridic din scaun.",
+      "Merge."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo șapte."
+    ],
+    "localizarea_durerii": [
+      "Da, jos.",
+      "Strict lombar, nu iradiază.",
+      "Și la nivelul sacrului, doare?",
+      "Un pic, da."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară anteversiee de bazin.",
+      "Deci flexia lombară e limitată, cam jumătate din amplitudine.",
+      "Extensia accentuează durerea.",
+      "Ok, testul Lasègue negativ bilateral.",
+      "Contractură paravertebrală lombară, mai accentuată pe dreapta.",
+      "Și la nivelul sacrului, doare?",
+      "Deci ce avem: o lombalgie acută mecanică, declanșată de efort, cu contractură musculară paravertebrală și sensibilitate la nivelul sacrului. Fără iradiere, fără semne de afectare radiculară.",
+      "O să lucrăm să reducem contractura și inflamația locală, să refacem mobilitatea lombară și o să vorbim și de cum să ridicați corect greutățile la muncă."
+    ]
+  }
+}

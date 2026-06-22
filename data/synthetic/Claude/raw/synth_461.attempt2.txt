@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, o lovitură, un efort mai mare?\nSPEAKER_01: Am mutat niște mobilă. Am ridicat un dulap.\nSPEAKER_00: Singur?\nSPEAKER_01: Da.\nSPEAKER_00: Și de atunci doare?\nSPEAKER_01: Da, de atunci.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 doare insuportabil, unde ați situa durerea acum?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. Și când e mai rău, când ridicați brațul sau și în repaus?\nSPEAKER_01: Când ridic brațul. Și noaptea mă trezește uneori.\nSPEAKER_00: Vă trezește noaptea, deci și în repaus are momente. Pe ce poziție dormiți?\nSPEAKER_01: Pe partea dreaptă de obicei.\nSPEAKER_00: Pe partea dreaptă, adică exact pe umărul afectat. Ok. Durerea rămâne la nivelul umărului sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne sus, pe umăr, și puțin pe lateral spre braț.\nSPEAKER_00: Dar mai jos de cot nu coboară?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeli în mână, în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ați mai avut probleme cu umărul drept înainte?\nSPEAKER_01: Nu, prima dată.\nSPEAKER_00: Prima dată. Avem alergii la ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Tensiune arterială, diabet, osteoporoză, alte afecțiuni?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luăm vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să facem câteva mișcări simple. Ridicați brațul drept în față, încet.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Până aproximativ 90 de grade se oprește. Și pe lateral?\nSPEAKER_01: Tot cam la fel, doare mai tare pe lateral.\nSPEAKER_00: Mai tare pe abducție. Bun. Acum puneți mâna la spate, ca și cum ați încheia la fermoar.\nSPEAKER_01: Aaa, nu prea merge.\nSPEAKER_00: Îl simțiți că se blochează sau doare și nu îndrăzniți?\nSPEAKER_01: Doare și nu îndrăznesc.\nSPEAKER_00: Am înțeles. O să apăs acum puțin pe umăr, pe zona asta de sub acromiom. Spuneți-mi dacă recunoașteți durerea.\nSPEAKER_01: Da, exact acolo.\nSPEAKER_00: Exact acolo. Bun. Zona de sus a brațului, pe lateral, doare la apăsare?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Am înțeles. Deci avem o inflamație la nivelul tendoanelor din zona umărului drept, cel mai probabil la nivelul manșetei rotatorilor, provocată de efortul cu dulapul. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului. Întâi fizioterapie și după terapie manuală.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă rog să vă așezați pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept după efort de ridicare, prezentă de două săptămâni",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Inflamație manșetă rotatori umăr drept\nObiective terapeutice: reducerea inflamației; recuperarea mobilității umărului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă. Am ridicat un dulap.", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un 6."],
+    "localizarea_durerii": ["Dreptul.", "Rămâne sus, pe umăr, și puțin pe lateral spre braț."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Până aproximativ 90 de grade se oprește.", "Mai tare pe abducție.", "Doare și nu îndrăznesc.", "Da, exact acolo.", "Deci avem o inflamație la nivelul tendoanelor din zona umărului drept, cel mai probabil la nivelul manșetei rotatorilor, provocată de efortul cu dulapul. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_040",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, zona de jos",
+      "am ridicat niște cutii mai grele la muncă și a doua zi dimineață nu mă mai puteam ridica din pat",
+      "de vreo trei săptămâni tot încerc să văd ce e"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, stând aici, poate un 4. Dar dimineața când mă trezesc e mult mai rău, un 7, poate 8."
+    ],
+    "localizarea_durerii": [
+      "zona lombară",
+      "acolo jos"
+    ],
+    "localizarea_durerii_alta": [
+      "simt ceva și pe piciorul stâng, coboară un pic",
+      "cam până la jumătatea coapsei, cred"
+    ],
+    "antecedente": [
+      "Da, am tensiune. Iau și pastile pentru asta."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Enalapril, 10 miligrame, în fiecare dimineață"
+    ],
+    "evaluare_functionala_initiala": [
+      "este o contractură musculară destul de serioasă în zona lombară, în special pe pătrat lombar și piriform",
+      "Asta explică și iradierile pe care le simțiți pe coapsă",
+      "tabloul clinic seamănă mai mult cu o contractură și o inflamație musculară",
+      "Obiectivul nostru în primele ședințe va fi să reducem inflamația și să relaxăm musculatura"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13499,
+    "inference_geo": "global",
+    "input_tokens": 276,
+    "output_tokens": 3619,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

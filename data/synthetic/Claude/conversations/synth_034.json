@@ -1,0 +1,373 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, domnule."
+    },
+    {
+      "start": 1.26,
+      "end": 2.06,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 2.18,
+      "end": 4.46,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 4.58,
+      "end": 5.72,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare umărul."
+    },
+    {
+      "start": 5.84,
+      "end": 6.64,
+      "speaker": "SPEAKER_00",
+      "text": "Care umăr?"
+    },
+    {
+      "start": 6.76,
+      "end": 7.56,
+      "speaker": "SPEAKER_01",
+      "text": "Cel drept."
+    },
+    {
+      "start": 7.68,
+      "end": 8.82,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp?"
+    },
+    {
+      "start": 8.94,
+      "end": 10.08,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo două săptămâni."
+    },
+    {
+      "start": 10.2,
+      "end": 15.14,
+      "speaker": "SPEAKER_00",
+      "text": "Două săptămâni. Și cum a apărut, ați făcut ceva, ați ridicat ceva greu?"
+    },
+    {
+      "start": 15.26,
+      "end": 16.78,
+      "speaker": "SPEAKER_01",
+      "text": "Am mutat niște mobilă."
+    },
+    {
+      "start": 16.9,
+      "end": 19.18,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Și de atunci doare?"
+    },
+    {
+      "start": 19.3,
+      "end": 20.1,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 20.22,
+      "end": 22.88,
+      "speaker": "SPEAKER_00",
+      "text": "Doare constant sau numai când mișcați brațul?"
+    },
+    {
+      "start": 23.0,
+      "end": 24.9,
+      "speaker": "SPEAKER_01",
+      "text": "Când îl ridic mai ales."
+    },
+    {
+      "start": 25.02,
+      "end": 29.2,
+      "speaker": "SPEAKER_00",
+      "text": "Când îl ridicați. Puteți să ridicați brațul drept acum pentru mine?"
+    },
+    {
+      "start": 29.32,
+      "end": 30.84,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe aici cam."
+    },
+    {
+      "start": 30.96,
+      "end": 33.62,
+      "speaker": "SPEAKER_00",
+      "text": "Deci cam până la orizontală și doare?"
+    },
+    {
+      "start": 33.74,
+      "end": 34.54,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 34.66,
+      "end": 36.18,
+      "speaker": "SPEAKER_00",
+      "text": "Mai sus nu puteți?"
+    },
+    {
+      "start": 36.3,
+      "end": 37.1,
+      "speaker": "SPEAKER_01",
+      "text": "Nu prea."
+    },
+    {
+      "start": 37.22,
+      "end": 46.34,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, când ridicați brațul, cât e durerea?"
+    },
+    {
+      "start": 46.46,
+      "end": 47.26,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 7."
+    },
+    {
+      "start": 47.38,
+      "end": 49.66,
+      "speaker": "SPEAKER_00",
+      "text": "7. Și când stați liniștit, nemișcat?"
+    },
+    {
+      "start": 49.78,
+      "end": 50.58,
+      "speaker": "SPEAKER_01",
+      "text": "2, poate."
+    },
+    {
+      "start": 50.7,
+      "end": 55.64,
+      "speaker": "SPEAKER_00",
+      "text": "Deci în repaus 2. Bine. Noaptea vă deranjează, vă treziți din cauza durerii?"
+    },
+    {
+      "start": 55.76,
+      "end": 56.56,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori."
+    },
+    {
+      "start": 56.68,
+      "end": 58.58,
+      "speaker": "SPEAKER_00",
+      "text": "Când stați pe partea dreaptă?"
+    },
+    {
+      "start": 58.7,
+      "end": 59.5,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 59.62,
+      "end": 64.56,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Doare numai umărul sau se lasă și pe braț în jos?"
+    },
+    {
+      "start": 64.68,
+      "end": 66.2,
+      "speaker": "SPEAKER_01",
+      "text": "Și puțin pe braț."
+    },
+    {
+      "start": 66.32,
+      "end": 67.12,
+      "speaker": "SPEAKER_00",
+      "text": "Până unde?"
+    },
+    {
+      "start": 67.24,
+      "end": 68.76,
+      "speaker": "SPEAKER_01",
+      "text": "Până la cot cam."
+    },
+    {
+      "start": 68.88,
+      "end": 70.78,
+      "speaker": "SPEAKER_00",
+      "text": "Până la cot. Amorțește ceva?"
+    },
+    {
+      "start": 70.9,
+      "end": 71.7,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 71.82,
+      "end": 74.86,
+      "speaker": "SPEAKER_00",
+      "text": "Nu. Bun. Alte zone mai dor, spatele, gâtul?"
+    },
+    {
+      "start": 74.98,
+      "end": 75.78,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 75.9,
+      "end": 78.18,
+      "speaker": "SPEAKER_00",
+      "text": "Alte afecțiuni, tensiune, diabet, osteoporoză, cancer?"
+    },
+    {
+      "start": 78.3,
+      "end": 79.1,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 79.22,
+      "end": 80.02,
+      "speaker": "SPEAKER_00",
+      "text": "Nimic."
+    },
+    {
+      "start": 80.14,
+      "end": 80.94,
+      "speaker": "SPEAKER_01",
+      "text": "Nimic."
+    },
+    {
+      "start": 81.06,
+      "end": 82.2,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale, fracturi?"
+    },
+    {
+      "start": 82.32,
+      "end": 83.12,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 83.24,
+      "end": 84.76,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament acum?"
+    },
+    {
+      "start": 84.88,
+      "end": 85.68,
+      "speaker": "SPEAKER_01",
+      "text": "Ibuprofen."
+    },
+    {
+      "start": 85.8,
+      "end": 86.94,
+      "speaker": "SPEAKER_00",
+      "text": "Ibuprofen. Câte luați?"
+    },
+    {
+      "start": 87.06,
+      "end": 90.1,
+      "speaker": "SPEAKER_01",
+      "text": "Una la două zile, când nu mai suport."
+    },
+    {
+      "start": 90.22,
+      "end": 91.36,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Altceva?"
+    },
+    {
+      "start": 91.48,
+      "end": 92.28,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 92.4,
+      "end": 97.72,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să fac eu câteva teste. Stați puțin cu brațul pe lângă corp."
+    },
+    {
+      "start": 97.84,
+      "end": 98.64,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 98.76,
+      "end": 103.32,
+      "speaker": "SPEAKER_00",
+      "text": "O să vă rotesc eu umărul ușor, să-mi spuneți unde prinde."
+    },
+    {
+      "start": 103.44,
+      "end": 104.24,
+      "speaker": "SPEAKER_01",
+      "text": "Acolo, sus."
+    },
+    {
+      "start": 104.36,
+      "end": 107.4,
+      "speaker": "SPEAKER_00",
+      "text": "Sus, în vârf, da, în zona acromionului. Doare?"
+    },
+    {
+      "start": 107.52,
+      "end": 108.32,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 108.44,
+      "end": 111.1,
+      "speaker": "SPEAKER_00",
+      "text": "Apăs acum aici pe tendonul supraspinos. Doare?"
+    },
+    {
+      "start": 111.22,
+      "end": 112.36,
+      "speaker": "SPEAKER_01",
+      "text": "Foarte tare, da."
+    },
+    {
+      "start": 112.48,
+      "end": 114.76,
+      "speaker": "SPEAKER_00",
+      "text": "Foarte tare. Și când rotesc intern?"
+    },
+    {
+      "start": 114.88,
+      "end": 116.78,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo cel mai rău."
+    },
+    {
+      "start": 116.9,
+      "end": 127.16,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Pare o tendinopatie la nivelul coafei rotatorilor, cel mai probabil supraspinosul. Vom lucra să reducem inflamația de acolo și să refacem mobilitatea umărului. Are sens?"
+    },
+    {
+      "start": 127.28,
+      "end": 128.08,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 128.2,
+      "end": 130.1,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să trecem la treabă."
+    }
+  ]
+}

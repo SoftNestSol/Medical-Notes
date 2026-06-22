@@ -1,0 +1,14 @@
+{
+  "motivul_prezentarii": "durere cervicala si umar stang",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "cervical",
+    "cap_ceafa",
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic:\n- contractura cervicala cu iradiere spre umar stang\n- rotatie dreapta limitata\n- trapez stang incordat\nObiective terapeutice:\n- reducerea tensiunii musculare\n- imbunatatirea mobilitatii pe rotatie dreapta"
+}

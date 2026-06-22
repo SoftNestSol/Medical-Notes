@@ -1,0 +1,16 @@
+{
+  "motivul_prezentarii": "Durere cervicala dreapta cu iradiere in umar drept, aparuta de doua saptamani",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic:\n- Contractura trapez superior drept si sternocleidomastoidian drept;\n- Restrictie mobilitate cervicala probabil C4-C5 dreapta;\n- Amplitudine de rotatie spre dreapta redusa fata de stanga.\nObiective terapeutice:\n- Reducerea contracturii musculare;\n- Eliberarea mobilitatii articulare cervicale."
+}

@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_358",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare... pe aici, pe zona asta a umărului, și nu știu, se lasă și un pic mai jos, în brațul ăsta",
+      "stau mult la birou și... nu știu, poate și că am mutat niște cutii atunci",
+      "când ridic mâna așa, în sus sau la spate... atunci mă doare mai tare",
+      "noaptea mă trezesc din somn"
+    ],
+    "evaluarea_durerii_vas": [
+      "Zic 6, că nu e chiar... nu e cel mai rău.",
+      "Noaptea e mai rău, poate un 7."
+    ],
+    "localizarea_durerii": [
+      "Stângul, stângul."
+    ],
+    "localizarea_durerii_alta": [
+      "se lasă și un pic mai jos, în brațul ăsta",
+      "undeva pe la mijlocul brațului, nu mai jos"
+    ],
+    "antecedente": [
+      "eu am un pic de scolioză, mi s-a spus, dar nu am urmat nimic pentru ea"
+    ],
+    "antecedente_altele": [
+      "Am avut o fractură la mâna dreaptă, la... nu știu cum se numește osul ăla mic, acum mulți ani, pe la 20 și ceva de ani. S-a vindecat bine."
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "umărul stâng e ușor ridicat față de cel drept, e o tensiune musculară compensatorie acolo",
+      "avem o inflamație la nivelul manșetei rotatorilor umărului stâng, cel mai probabil tendonul supraspinos, și o ușoară pensare subacromială",
+      "Obiectivul nostru va fi să reducem inflamația, să recuperăm amplitudinea de mișcare și să corectăm postura",
+      "Slăbiciune în abducție, da.",
+      "durere și la rotație externă contra rezistență",
+      "Limitare în rotație internă."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13861,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 3314,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

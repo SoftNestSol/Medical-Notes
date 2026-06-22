@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_467",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, dar nu jos, știți, nu lombar cum zice toată lumea, ci undeva la mijloc, între omoplați",
+      "mă doare de vreo trei săptămâni deja, nu trece",
+      "uneori simt că se duce un pic spre piept, în față, ca o presiune"
+    ],
+    "evaluarea_durerii_vas": [
+      "spre seară devine mai rău, poate un 7"
+    ],
+    "localizarea_durerii": [
+      "undeva la mijloc, între omoplați, acea zonă",
+      "durerea de bază e în mijlocul spatelui, în zona toracală"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt că se duce un pic spre piept, în față, ca o presiune",
+      "o senzație de greutate, apăsare în piept"
+    ],
+    "antecedente": [
+      "la vreo 20 de ani, mi s-a spus că am o ușoară scolioză"
+    ],
+    "antecedente_altele": [
+      "am dat fracturat clavicula dreaptă acum vreo zece ani, căzusem cu bicicleta. S-a remediat singur, nu a trebuit operație, am purtat imobilizare"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd că postura în ortostatism e cu umerii trași în față, cifozată ușor zona toracală",
+      "Rotație limitată mai mult pe stânga, cu durere",
+      "Sensibilitate la presiune la nivel toracal mediu",
+      "pe amândouă părțile, dar parcă mai mult pe stânga",
+      "avem o disfuncție la nivel toracal mediu, blocaj articular cu contractură musculară paravertebrală, accentuată de postura cifotică. Obiectivul nostru va fi să reducem contractura, să mobilizăm articulațiile toracale blocate și să îmbunătățim postura"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14094,
+    "inference_geo": "global",
+    "input_tokens": 352,
+    "output_tokens": 3577,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

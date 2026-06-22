@@ -1,0 +1,48 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Treptat, parcă.\nSPEAKER_00: Ați făcut ceva anume înainte să înceapă? Efort, ridicat ceva greu?\nSPEAKER_01: Am vopsit tavanul acasă. Câteva zile la rând.\nSPEAKER_00: A, deci cu mâna ridicată mult timp sus.\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare vă doare acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Și când e cel mai rău?\nSPEAKER_01: Noaptea. Și când ridic mâna.\nSPEAKER_00: Vă treziți din somn?\nSPEAKER_01: Da, câteodată.\nSPEAKER_00: Pe ce parte dormiți de obicei?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Aha. Și dacă dormiți pe umărul ăla, se acutizează.\nSPEAKER_01: Da, exact.\nSPEAKER_00: Ridic mâna sus, urmăriți mișcarea mea și faceți la fel. Mergeți până unde puteți.\nSPEAKER_01: Până pe-aici pot.\nSPEAKER_00: Deci cam la 90 de grade, undeva pe-acolo. Doare?\nSPEAKER_01: Da, de-aci încolo doare.\nSPEAKER_00: Și în lateral, ridicați mâna în lateral.\nSPEAKER_01: La fel, cam tot atât.\nSPEAKER_00: Înțeleg. Amorțeli în braț, în mână, în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală. Bun. Durerea rămâne în umăr sau coboară cumva pe braț?\nSPEAKER_01: Rămâne sus, pe-aici.\nSPEAKER_00: Pe-aici pe zona de deasupra, pe deltoid și sub el, da?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Alte dureri în afară de asta?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Afecțiuni mai vechi, tensiune, diabet, osteoporoză, ceva de genul?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun medicament. Bun. Stați puțin, vă palpez zona de rotator, spuneți-mi dacă doare.\nSPEAKER_01: Au, da, acolo.\nSPEAKER_00: Aici pe supraspinat doare mai tare?\nSPEAKER_01: Da, acolo cel mai tare.\nSPEAKER_00: Înțeleg. Vreau să faceți mișcarea asta, brațul îndoit, duceți mâna la spate ca și cum v-ați prinde centura.\nSPEAKER_01: Greu. Doare.\nSPEAKER_00: Da, mișcarea de rotație internă e limitată. Bun. Deci ce vedem noi aici este o inflamație la nivelul manșetei rotatorilor, probabil supraspinatul, din cauza efortului repetat cu brațul ridicat. Avem limitare de mobilitate pe abducție și rotație internă, durere la palpare pe supraspinat. O să lucrăm să reducem inflamația, să recuperăm mobilitatea și o să vă recomand să nu mai dormiți pe umărul drept în perioada asta.\nSPEAKER_01: Da, ok.\nSPEAKER_00: Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept, apărută treptat după vopsit tavan cu brațul ridicat timp de câteva zile. Durere accentuată noaptea și la ridicarea brațului, cu treziri din somn. Limitarea abducției și rotației interne.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie manșeta rotatorilor (supraspinat), umăr drept\nObiective terapeutice:\n- reducerea inflamației\n- recuperarea mobilității (abducție și rotație internă)\n- recomandare: evitat dormitul pe umărul drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Am vopsit tavanul acasă. Câteva zile la rând.",
+      "Noaptea. Și când ridic mâna.",
+      "Da, câteodată.",
+      "Treptat, parcă."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Rămâne sus, pe-aici.",
+      "Da, pe-aici pe zona de deasupra, pe deltoid și sub el, da?"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nu.",
+      "Niciun medicament."
+    ],
+    "evaluare_functionala_initiala": [
+      "Deci cam la 90 de grade, undeva pe-acolo. Doare?",
+      "Da, de-aci încolo doare.",
+      "mișcarea de rotație internă e limitată",
+      "o inflamație la nivelul manșetei rotatorilor, probabil supraspinatul, din cauza efortului repetat cu brațul ridicat",
+      "Avem limitare de mobilitate pe abducție și rotație internă, durere la palpare pe supraspinat.",
+      "O să lucrăm să reducem inflamația, să recuperăm mobilitatea și o să vă recomand să nu mai dormiți pe umărul drept în perioada asta."
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua!\nSPEAKER_00: Spuneți-mi cu ce problemă ne vedem.\nSPEAKER_01: Păi, am o durere jos, la coadă, știți, chiar la capătul coloanei, acolo. De vreo trei săptămâni mă tot chinuie și nu știu ce să fac cu ea. M-am gândit că o trece singură, dar nu trece.\nSPEAKER_00: La coadă, deci zona de coccis.\nSPEAKER_01: Da, exact acolo, coccisul, da. Și un pic mai sus, poate, dar mai mult acolo jos.\nSPEAKER_00: Și a apărut din senin sau a fost ceva, o căzătură, o lovitură?\nSPEAKER_01: Nu, nicio căzătură. Adică, stați să mă gândesc... eu stau mult pe scaun, lucrez la birou, cam opt-nouă ore pe zi, și după o ședință mai lungă am simțit că mă strânge acolo jos. La început credeam că e de la scaun, că e mai tare scaunul, dar acum doare și când mă ridic, nu numai când stau.\nSPEAKER_00: Deci doare și la ridicarea de pe scaun.\nSPEAKER_01: Da, da, tocmai asta e cel mai deranjant. Adică, stau jos și mă ține, după aia când mă ridic, primii pași sunt îngrozitori. Și mai am și frica asta că poate e ceva grav, nu știu, am citit pe internet tot felul de lucruri și m-am speriat un pic.\nSPEAKER_00: Înțeleg. Pe o scară de la zero la zece, unde zero nu doare deloc și zece doare maxim, cum estimați durerea?\nSPEAKER_01: Când stau jos, poate un cinci. Dar când mă ridic, acolo e un șapte, șapte solid.\nSPEAKER_00: Deci cinci când stați și șapte la ridicare.\nSPEAKER_01: Da, cam așa. Și noaptea mai am și eu o problemă, că nu știu cum să stau. Dacă stau pe spate, apasă direct acolo și mă trezesc. Am pus o pernă sub genunchi, am văzut pe internet, și mai ajută un pic, dar tot nu e bine.\nSPEAKER_00: Doare și în zona fesieră sau strict la coccis?\nSPEAKER_01: Mai mult la coccis, dar uneori simt că se întinde un pic și în fesă, pe partea stângă mai ales.\nSPEAKER_00: Și în picior se lasă ceva? Amorțeală, durere?\nSPEAKER_01: Nu, nu, picioarele sunt ok. Adică, nu simt nimic în picioare.\nSPEAKER_00: Bine. Ați luat ceva pentru durere?\nSPEAKER_01: Am luat un Voltaren gel, am dat pe acolo, de câteva ori. Și o dată am luat și un Nurofen că nu mai puteam, dar nu prea des, că nu-mi place să mă încarc cu pastile.\nSPEAKER_00: Înțeleg. Alte afecțiuni aveți, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu, nu am nimic din astea. Sunt sănătos, în rest, sau cel puțin asta cred. Am 34 de ani, nu ar trebui să am probleme, dar uite că am.\nSPEAKER_00: Nici operații, fracturi?\nSPEAKER_01: Nu, nimic. Ah, mi-am rupt un deget la picior acum vreo zece ani, dar asta nu are legătură, nu?\nSPEAKER_00: Nu are legătură, da. Bine, haideți să facem câteva verificări. Stați puțin în picioare lângă masă, relaxat.\nSPEAKER_01: Ok, gata.\nSPEAKER_00: Vă aplecați ușor înainte, cât puteți.\nSPEAKER_01: Da... doare un pic jos, dar merge.\nSPEAKER_00: Și pe spate, ușor.\nSPEAKER_01: Ah, pe spate doare mai tare, da. Chiar acolo la coadă.\nSPEAKER_00: Da, extensia lombară accentuează durerea la coccis. Acum stați pe masă. Vă apăs ușor pe zona sacrală, îmi spuneți ce simțiți.\nSPEAKER_01: Au, da, acolo e. Exact acolo.\nSPEAKER_00: Și mai sus, pe lombarul jos?\nSPEAKER_01: Mai puțin, da, e mai suportabil.\nSPEAKER_00: Ok. Avem o sensibilitate clară la nivelul coccisului și sacrului. Pare o coccidinii, adică o inflamație a zonei coccisiene, cel mai probabil instalată din cauza posturii prelungite la birou. O să lucrăm să reducem inflamația și să ameliorăm mobilitatea în acea zonă.\nSPEAKER_01: Și o să treacă? Pentru că m-am tot gândit că poate trebuie radiografie sau ceva...\nSPEAKER_00: Deocamdată nu avem semne care să impună investigații imagistice. Dacă după câteva ședințe nu se ameliorează, discutăm și de o radiografie. Dar cel mai probabil e o problemă funcțională.\nSPEAKER_01: Bine, bine, mă bucur că nu e ceva grav. Mă speriasem eu.\nSPEAKER_00: Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere la nivelul coccisului și sacrului, instalată de aproximativ trei săptămâni, accentuată la ridicarea de pe scaun și la extensia lombară, asociată cu muncă sedentară prelungită (birou, 8-9 ore/zi).",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["sacral_coccis"],
+    "localizarea_durerii_alta": "fesier stâng",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      },
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Sensibilitate la palpare la nivelul coccisului și sacrului; durere accentuată la extensia lombară; lombar jos mai puțin sensibil. Diagnostic: coccidinie, probabil pe fond postural (sedentarism prelungit). Obiective terapeutice: reducerea inflamației și ameliorarea mobilității în zona coccisului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["am o durere jos, la coadă, știți, chiar la capătul coloanei, acolo. De vreo trei săptămâni mă tot chinuie", "stau mult pe scaun, lucrez la birou, cam opt-nouă ore pe zi, și după o ședință mai lungă am simțit că mă strânge acolo jos"],
+    "evaluarea_durerii_vas": ["Când stau jos, poate un cinci. Dar când mă ridic, acolo e un șapte, șapte solid."],
+    "localizarea_durerii": ["Da, exact acolo, coccisul, da.", "Au, da, acolo e. Exact acolo."],
+    "localizarea_durerii_alta": ["uneori simt că se întinde un pic și în fesă, pe partea stângă mai ales"],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am luat un Voltaren gel, am dat pe acolo, de câteva ori. Și o dată am luat și un Nurofen că nu mai puteam"],
+    "evaluare_functionala_initiala": ["extensia lombară accentuează durerea la coccis", "Avem o sensibilitate clară la nivelul coccisului și sacrului. Pare o coccidinii, adică o inflamație a zonei coccisiene, cel mai probabil instalată din cauza posturii prelungite la birou. O să lucrăm să reducem inflamația și să ameliorăm mobilitatea în acea zonă."]
+  }
+}

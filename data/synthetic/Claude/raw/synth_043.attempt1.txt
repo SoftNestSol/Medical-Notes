@@ -1,0 +1,33 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamna.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Ionescu. Mihaela.\nSPEAKER_00: Mulțumesc, doamna Ionescu. Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: Vreo trei săptămâni.\nSPEAKER_00: Trei săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Treptat, nu știu exact.\nSPEAKER_00: Ați făcut ceva anume înainte să apară, un efort, o mișcare bruscă?\nSPEAKER_01: Nu. Stau mult la birou.\nSPEAKER_00: La birou, înțeles. Doare doar gâtul sau se lasă și în umăr, în brațe?\nSPEAKER_01: Și în umăr, pe dreapta.\nSPEAKER_00: Umărul drept. Mai jos de umăr, pe braț, simțiți ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare doare?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: Un 6. Doare mai tare dimineața sau pe parcursul zilei?\nSPEAKER_01: Pe parcurs.\nSPEAKER_00: După stat la birou mai mult timp?\nSPEAKER_01: Da.\nSPEAKER_00: Înțeles. Ați mai avut probleme la gât înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune arterială, diabet, epilepsie?\nSPEAKER_01: Am tensiune.\nSPEAKER_00: Aveți tensiune arterială crescută?\nSPEAKER_01: Da.\nSPEAKER_00: Luați medicamente pentru asta?\nSPEAKER_01: Da. Enalapril.\nSPEAKER_00: Ce doză, știți?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: 10 miligrame, mulțumesc. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să stați puțin în picioare, doamna Ionescu.\nSPEAKER_01: Ok.\nSPEAKER_00: Voi apăsa ușor pe zona cervicală. Îmi spuneți dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Chiar pe coloana cervicală, da?\nSPEAKER_01: Da.\nSPEAKER_00: Vreau să întoarceți capul ușor spre dreapta.\nSPEAKER_01: Merge greu.\nSPEAKER_00: Merge greu, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Spre stânga?\nSPEAKER_01: Mai bine.\nSPEAKER_00: Mai bine spre stânga. Deci mobilitatea e redusă spre dreapta. Vă apăs acum pe trapez, pe partea dreaptă.\nSPEAKER_01: Au, da.\nSPEAKER_00: Doare.\nSPEAKER_01: Da, destul de tare.\nSPEAKER_00: Pe stânga la fel?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Am înțeles. Deci avem o contractură la nivelul musculaturii cervicale și a trapezului drept, mobilitate redusă în rotație spre dreapta. O să lucrăm să reducem contractura și să redobândim mobilitatea normală.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicala si umar drept",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractura musculatura cervicala si trapez drept; mobilitate redusa rotatie dreapta.\nObiective terapeutice: reducerea contracturii; redobandirea mobilitatii normale."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "Și în umăr, pe dreapta."],
+    "evaluarea_durerii_vas": ["Vreo 6."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și în umăr, pe dreapta."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Am tensiune.", "Aveți tensiune arterială crescută?\nSPEAKER_01: Da."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Enalapril.", "10 miligrame."],
+    "evaluare_functionala_initiala": ["Deci avem o contractură la nivelul musculaturii cervicale și a trapezului drept, mobilitate redusă în rotație spre dreapta. O să lucrăm să reducem contractura și să redobândim mobilitatea normală."]
+  }
+}

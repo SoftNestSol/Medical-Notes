@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și ce ați făcut înainte să apară durerea, ceva anume?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Ați ridicat ceva greu.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Vă doare permanent sau doar la mișcare?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Dacă ridicați brațul în față doare, în lateral doare, sau ambele?\nSPEAKER_01: Mai mult în lateral.\nSPEAKER_00: Dacă mișc eu brațul, stați relaxat... așa, doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Și aici, mai sus?\nSPEAKER_01: Acolo e mai rău.\nSPEAKER_00: Înțeleg. Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Vă doare și în zona gâtului, pe partea stângă?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, epilepsie?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu iau nimic.\nSPEAKER_00: Bun. Haideți să vă pun puțin în picioare. Ridicați brațul stâng la orizontală, încet. Până unde puteți?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci undeva la 80 de grade și deja apare durerea. Și dacă continuați?\nSPEAKER_01: Nu pot, doare.\nSPEAKER_00: Înțeles. Vedeți, avem ceea ce se numește un arc dureros la abducție. Pare a fi o afectare a tendoanelor din zona manșonului rotatorilor, cel mai probabil supraspinosul. Ați lucrat mult timp cu brațul ridicat?\nSPEAKER_01: Și asta, da, la mutat.\nSPEAKER_00: Deci combinat, ridicat și forțat. Asta explică. O să lucrăm să reducem inflamația din zona aceea și să recâștigăm mobilitatea. Câteva ședințe și ar trebui să simțiți diferența.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang aparuta dupa efort fizic (mutat mobila), de aproximativ doua saptamani. Durere la abductie, mai accentuata peste 80 de grade.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: afectare tendon mansen rotatori (supraspinos).\nArc dureros la abductie, mobilitate limitata la ~80 grade abductie activa.\nObiective terapeutice: reducerea inflamatiei, recastigarea mobilitatii umarului stang."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Vreo două săptămâni.", "Am mutat niște mobilă.", "Mai mult în lateral."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Stângul.", "Mă doare umărul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu iau nimic."],
+    "evaluare_functionala_initiala": ["avem ceea ce se numește un arc dureros la abducție", "Pare a fi o afectare a tendoanelor din zona manșonului rotatorilor, cel mai probabil supraspinosul", "undeva la 80 de grade și deja apare durerea", "O să lucrăm să reducem inflamația din zona aceea și să recâștigăm mobilitatea."]
+  }
+}

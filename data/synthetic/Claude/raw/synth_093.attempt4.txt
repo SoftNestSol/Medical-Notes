@@ -1,0 +1,53 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A apărut brusc sau treptat?\nSPEAKER_01: Treptat.\nSPEAKER_00: Ați făcut ceva anume înainte să înceapă? Ceva la muncă, sport?\nSPEAKER_01: Poate de la calculator. Stau mult.\nSPEAKER_00: Deci poziție prelungită la birou.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât e durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare doar umărul sau se duce și pe braț?\nSPEAKER_01: Și un pic pe braț, da.\nSPEAKER_00: Pe unde anume, pe față, pe spate?\nSPEAKER_01: Pe față, așa.\nSPEAKER_00: Doare mai tare când ridicați mâna?\nSPEAKER_01: Da.\nSPEAKER_00: Noaptea vă deranjează?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Vă treziți din somn?\nSPEAKER_01: Da, de vreo două ori.\nSPEAKER_00: Amorțește vreun deget?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte dureri undeva, spate, gât?\nSPEAKER_01: Gâtul cam tot, dar mai puțin.\nSPEAKER_00: Cam de mult timp și gâtul?\nSPEAKER_01: Nu știu, de mai mult timp.\nSPEAKER_00: Afecțiuni cunoscute? Tensiune, diabet, osteoporoză, altceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul ăsta?\nSPEAKER_01: Nurofen, când nu mai pot.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Rar. Două, trei pe săptămână poate.\nSPEAKER_00: Doza?\nSPEAKER_01: Nu știu, cel normal.\nSPEAKER_00: Ok. Haideți să fac câteva teste. Ridicați mâna dreaptă în față, încet. Până unde doare?\nSPEAKER_01: Cam pe la orizontală, de aici doare.\nSPEAKER_00: Deci arc dureros la abducție. Acum duceți mâna la spate.\nSPEAKER_01: Aoleu, nu prea merge.\nSPEAKER_00: Limitare la rotație internă. Stați puțin, apăs aici pe umăr. Doare?\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Și puțin mai sus?\nSPEAKER_01: Tot acolo, da.\nSPEAKER_00: Înțeleg. Pare o inflamație la nivelul coifului rotatorilor, cel mai probabil tendoanele supraspinosului. Din cauza posturii prelungite la birou și a posibilei tensionări a zonei cervicale, musculatura s-a contractat și pune presiune pe umăr. Va trebui să reducem inflamația și să eliberăm musculatura din zona cervicală și a umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept, cu iradiere pe fața anterioară a brațului, instalată treptat în aproximativ două săptămâni, posibil în context de postură prelungită la calculator. Durere nocturnă prezentă. Asociază cervicalgie.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr",
+      "cervical"
+    ],
+    "localizarea_durerii_alta": "fața anterioară a brațului drept",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Arc dureros la abducție activă (din poziție orizontală). Limitare la rotație internă. Durere la palparea coifului rotatorilor. Diagnostic: inflamație coif rotatori, tendon supraspinos. Obiective terapeutice: reducerea inflamației, eliberarea musculaturii cervicale și a umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Vreo două săptămâni.",
+      "Poate de la calculator. Stau mult.",
+      "Câteodată.",
+      "Gâtul cam tot, dar mai puțin."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul. Dreptul.",
+      "Gâtul cam tot, dar mai puțin."
+    ],
+    "localizarea_durerii_alta": [
+      "Și un pic pe braț, da.",
+      "Pe față, așa."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nurofen, când nu mai pot."
+    ],
+    "evaluare_functionala_initiala": [
+      "Deci arc dureros la abducție.",
+      "Limitare la rotație internă.",
+      "Pare o inflamație la nivelul coifului rotatorilor, cel mai probabil tendoanele supraspinosului.",
+      "Va trebui să reducem inflamația și să eliberăm musculatura din zona cervicală și a umărului."
+    ]
+  }
+}

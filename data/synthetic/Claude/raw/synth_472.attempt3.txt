@@ -1,0 +1,44 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de lombar?\nSPEAKER_01: Da.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc. Am ridicat ceva mai greu la muncă.\nSPEAKER_00: Înțeleg. Ce fel de muncă faceți?\nSPEAKER_01: Depozit. Car marfă.\nSPEAKER_00: Deci ridicați greutăți zilnic.\nSPEAKER_01: Da.\nSPEAKER_00: Durerea rămâne în zona de jos a spatelui sau se lasă și pe picior în jos?\nSPEAKER_01: Uneori pe fesă, pe stânga.\nSPEAKER_00: Doar pe fesă sau mai coboară și pe coapsă, pe gambă?\nSPEAKER_01: Nu, doar pe fesă.\nSPEAKER_00: Ok. Amorțeli pe picior, pe degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum estimați durerea?\nSPEAKER_01: Un 7.\nSPEAKER_00: 7. Constant sau variază?\nSPEAKER_01: Variază. Mai rău când stau jos mult.\nSPEAKER_00: Când stați pe scaun se agravează. Și când vă ridicați din pat dimineața?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Mișcarea, mersul pe jos, cum e?\nSPEAKER_01: Mai bine decât statul jos.\nSPEAKER_00: Bun. Aveți durere și când stați în picioare mult timp?\nSPEAKER_01: Da, dar mai puțin.\nSPEAKER_00: Am înțeles. Ați mai avut episoade similare înainte?\nSPEAKER_01: Nu, prima dată.\nSPEAKER_00: Prima oară. Ați făcut vreo investigație, radiografie, RMN?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun fel de investigație. Luați vreun medicament în prezent, pentru orice?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, nici antiinflamatoare?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Bun. Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Haideți să facem câteva teste. Vă rog să stați în picioare cu fața la mine.\nSPEAKER_01: Ok.\nSPEAKER_00: Puneți mâinile la șold și aplecați-vă ușor înainte. Doare?\nSPEAKER_01: Da, în zona de jos.\nSPEAKER_00: Și pe spate, extensie ușoară. Doare?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeleg. Acum pe masa de tratament, cu fața în sus. Ridic piciorul drept. Doare?\nSPEAKER_01: Nu.\nSPEAKER_00: Ridic piciorul stâng. Doare?\nSPEAKER_01: Un pic, acolo în spate.\nSPEAKER_00: Durerea apare în zona lombară sau pe fesă?\nSPEAKER_01: Pe fesă, stânga.\nSPEAKER_00: Bun. Acum întoarceți-vă cu fața în jos. Apăs ușor pe paravertebrali, îmi spuneți dacă doare.\nSPEAKER_01: Da, pe stânga.\nSPEAKER_00: Pe stânga mai mult. Și jos, spre sacru?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Ok. Deci avem o contractură a musculaturii paravertebrale lombare pe stânga cu iradiere în fesierul stâng. Fără radiculopatie, fără amorțeli. Eu zic să începem cu o ședință de terapie manuală și masaj de decontracturare, să vedem cum reacționați. Planificăm trei-patru ședințe și reevaluăm.\nSPEAKER_01: Ok.\nSPEAKER_00: Orice senzație nouă, amorțeală sau dacă durerea se lasă pe picior în jos, îmi spuneți imediat.\nSPEAKER_01: Da, înțeles.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă cu iradiere în fesierul stâng, debut brusc după ridicare de greutate la locul de muncă, de aproximativ două săptămâni.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "lombar",
+      "sacral_coccis"
+    ],
+    "localizarea_durerii_alta": "fesier stâng",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Contractură musculară paravertebrală lombară stânga cu iradiere în fesierul stâng. Fără radiculopatie, fără amorțeli. Flexia anterioară dureroasă în zona lombară joasă; extensia mai puțin dureroasă. Test Lasègue stâng pozitiv parțial (durere fesieră), drept negativ. Palpare dureroasă paravertebral lombar stâng și sacral. Obiective terapeutice: decontracturare musculară paravertebrală lombară, reducerea durerii, reevaluare după 3-4 ședințe."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Am ridicat ceva mai greu la muncă.",
+      "De vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 7."
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele.",
+      "Da, în zona de jos.",
+      "Da, și acolo."
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori pe fesă, pe stânga.",
+      "Pe fesă, stânga."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Deci avem o contractură a musculaturii paravertebrale lombare pe stânga cu iradiere în fesierul stâng. Fără radiculopatie, fără amorțeli.",
+      "Eu zic să începem cu o ședință de terapie manuală și masaj de decontracturare, să vedem cum reacționați. Planificăm trei-patru ședințe și reevaluăm.",
+      "Da, pe stânga.",
+      "Da, și acolo."
+    ]
+  }
+}

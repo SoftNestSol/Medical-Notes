@@ -1,0 +1,55 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, drept sau stâng?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut dintr-o dată sau treptat?\nSPEAKER_01: Treptat.\nSPEAKER_00: A fost vreun efort, vreo mișcare bruscă, ceva care a declanșat?\nSPEAKER_01: Nu știu, poate de la serviciu. Stau mult la calculator.\nSPEAKER_00: Înțeles. Și doare tot timpul sau numai când faci anumite mișcări?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Când ridici mâna în sus. Doare și când o duci în spate?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde situezi durerea?\nSPEAKER_01: Un 6.\nSPEAKER_00: 6. Noaptea te trezești din cauza ei?\nSPEAKER_01: Uneori.\nSPEAKER_00: Uneori. Dormi pe partea dreaptă?\nSPEAKER_01: Da.\nSPEAKER_00: Asta probabil agravează. Durerea rămâne în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne acolo.\nSPEAKER_00: Bun. Ai făcut vreun tratament, ai luat ceva pentru durere?\nSPEAKER_01: Am luat un Ibuprofen din când în când.\nSPEAKER_00: Ibuprofenul ajută?\nSPEAKER_01: Un pic.\nSPEAKER_00: Alte medicamente iei în mod curent?\nSPEAKER_01: Nu.\nSPEAKER_00: Ai avut vreodată o accidentare la umărul ăsta, o lovitură, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli la care ești diagnosticat, tensiune, diabet, altceva?\nSPEAKER_01: Tensiune, da.\nSPEAKER_00: Iei medicamente pentru tensiune?\nSPEAKER_01: Nu, deocamdată nu.\nSPEAKER_00: Ok. Hai să te ridici puțin în picioare. Ridică mâna dreaptă în față, încet. Până unde ajungi?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Cam la orizontală. Și doare la ridicare sau mai mult când ai ajuns sus?\nSPEAKER_01: La ridicare.\nSPEAKER_00: Înțeles. Acum du mâna în lateral, tot încet.\nSPEAKER_01: Au, da, asta doare mai tare.\nSPEAKER_00: Doare mai tare la abducție. Văd că există o limitare clară de mobilitate pe umărul drept și o durere la arcul dureros între 60 și 120 de grade. Asta sugerează o inflamație la nivelul tendoanelor manșetei rotatorilor. Vom lucra să reducem inflamația și să redobândim mobilitatea completă.\nSPEAKER_01: Ok.\nSPEAKER_00: Ai mai fost la chiropractică sau fizioterapie?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun, atunci o să începem ușor. Te rog să te așezi pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept, aparuta treptat in ultimele doua saptamani, agravata de ridicarea bratului si de dormitul pe partea dreapta.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare clara de mobilitate pe umarul drept; durere la arcul dureros intre 60 si 120 de grade la abductie. Diagnostic: inflamatie la nivelul tendoanelor mansetei rotatorilor. Obiective terapeutice: reducerea inflamatiei si redobandirea mobilitatii complete."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Treptat.",
+      "Vreo două săptămâni.",
+      "Când ridic mâna.",
+      "Da, și atunci.",
+      "Uneori.",
+      "Dormi pe partea dreaptă? Da."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Rămâne acolo."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune, da."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Ibuprofen din când în când."
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd că există o limitare clară de mobilitate pe umărul drept și o durere la arcul dureros între 60 și 120 de grade.",
+      "Asta sugerează o inflamație la nivelul tendoanelor manșetei rotatorilor.",
+      "Vom lucra să reducem inflamația și să redobândim mobilitatea completă."
+    ]
+  }
+}

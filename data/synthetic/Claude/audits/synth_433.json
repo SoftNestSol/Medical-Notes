@@ -1,0 +1,43 @@
+{
+  "conversation_id": "synth_433",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Cel drept.",
+      "Cam de două săptămâni.",
+      "După ce am mutat niște cutii.",
+      "cutii cu cărți, mai multe"
+    ],
+    "evaluarea_durerii_vas": [
+      "Un șapte.",
+      "poate un doi"
+    ],
+    "localizarea_durerii": [
+      "Cel drept.",
+      "mai ales în sus",
+      "Mai mult pe sus și pe lateral"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "pare a fi o tendinită la nivelul coifului rotatorilor, mai exact a supraspinosului",
+      "Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului drept"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13739,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 1883,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "motivul_prezentarii": "Pacient acuză durere la nivelul genunchiului drept, în zona sub-rotuliană, de aproximativ două săptămâni, apărută treptat fără traumatism. Durerea se accentuează la mers și la coborârea scărilor. Asociază ușoară tumefiere serală. Ocupație: ospătar, stă mult în picioare.",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "genunchi_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic:\nTendinopatie rotuliană dreaptă prin suprasolicitare.\nObservații funcționale:\nDurere la palpare sub rotulă; durere la flexie completă de genunchi; statul pe un picior posibil dar cu disconfort; tumefiere ușoară serală.\nObiective terapeutice:\nReducerea inflamației tendonului rotulian; descărcarea tendonului; reluarea mersului și a coborârii scărilor fără durere."
+}

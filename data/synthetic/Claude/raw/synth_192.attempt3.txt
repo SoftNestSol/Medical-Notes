@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți la noi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, un efort, o mișcare bruscă?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde situați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot timpul sau numai la mișcare?\nSPEAKER_01: La mișcare.\nSPEAKER_00: Ce mișcare o provoacă cel mai tare?\nSPEAKER_01: Când ridic mâna sus.\nSPEAKER_00: Ridicați mâna așa, cât puteți. Doare?\nSPEAKER_01: Da, aici.\nSPEAKER_00: Până unde ajungeți?\nSPEAKER_01: Pe la orizontală, cam atât.\nSPEAKER_00: Deci nu treceți de orizontală fără durere.\nSPEAKER_01: Nu.\nSPEAKER_00: Durerea se lasă și pe braț în jos?\nSPEAKER_01: Nu.\nSPEAKER_00: Numai în umăr?\nSPEAKER_01: Da.\nSPEAKER_00: Amorțeală în mână, în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Aveți afecțiuni cunoscute, tensiune, diabet, osteoporoză, cancer?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații anterioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nurofen, din când în când.\nSPEAKER_00: Nurofen. O pastilă normală sau ceva specific?\nSPEAKER_01: Normală, 400.\nSPEAKER_00: Deci Nurofen 400, ocazional. Altceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin cu brațul lângă corp, relaxat. Acum ridic eu ușor, îmi spuneți când apare durerea.\nSPEAKER_01: Acum.\nSPEAKER_00: Pe la 80 de grade apare. Bun. Rotesc intern, doare?\nSPEAKER_01: Da, puțin.\nSPEAKER_00: Rotesc extern.\nSPEAKER_01: Nu prea.\nSPEAKER_00: Apăs aici pe tendon, doare?\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Deci avem o inflamație la nivelul coafei rotatorilor, cel mai probabil supraspinatus. Arc dureros prezent la abducție activă și pasivă. Va trebui să reducem inflamația și să recuperăm mobilitatea completă a umărului.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng apărută după efort fizic (mutat mobilă), de aproximativ două săptămâni. Durere la mișcare, în special la ridicarea brațului, cu limitare la orizontală.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": "400"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamație coafa rotatorilor, cel mai probabil supraspinatus. Arc dureros prezent la abducție activă și pasivă (debut ~80 grade). Rotație internă dureroasă, rotație externă fără durere semnificativă. Durere la palpare tendon.\nObiective terapeutice: reducerea inflamației și recuperarea mobilității complete a umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul", "Stângul", "Am mutat niște mobilă", "Vreo două săptămâni", "Când ridic mâna sus", "Pe la orizontală, cam atât"],
+    "evaluarea_durerii_vas": ["Vreo 5"],
+    "localizarea_durerii": ["Stângul", "Numai în umăr"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nurofen, din când în când", "Normală, 400"],
+    "evaluare_funcionala_initiala": ["avem o inflamație la nivelul coafei rotatorilor, cel mai probabil supraspinatus. Arc dureros prezent la abducție activă și pasivă. Va trebui să reducem inflamația și să recuperăm mobilitatea completă a umărului"]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua!"
+    },
+    {
+      "start": 2.56,
+      "end": 4.84,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 4.96,
+      "end": 27.38,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, uite, de vreo trei săptămâni mă doare umărul drept, și nu știu, am zis că trece singur, că poate am dormit prost, dar nu trece, dimpotrivă, parcă se agravează. Și colegul meu de muncă mi-a zis să vin la dumneavoastră, că el a venit cu spatele și l-ați rezolvat. Și am zis, bun, hai să încerc."
+    },
+    {
+      "start": 27.5,
+      "end": 35.48,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și durerea asta, unde exact se simte? Adică pe umărul în sine sau se lasă și pe braț în jos?"
+    },
+    {
+      "start": 35.6,
+      "end": 49.66,
+      "speaker": "SPEAKER_01",
+      "text": "E mai mult, uite, pe aici, pe umărul drept, în față, și uneori se lasă și pe braț, până pe la cot, dar nu tot timpul. Uneori e mai tare, uneori mai suportabil. Dimineața e groaznică, sincer."
+    },
+    {
+      "start": 49.78,
+      "end": 51.3,
+      "speaker": "SPEAKER_00",
+      "text": "Dimineața e mai rea."
+    },
+    {
+      "start": 51.42,
+      "end": 66.62,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, mă trezesc și nici nu pot să ridic brațul cum trebuie. Am și un copil mic, doi ani și jumătate, și trebuie să-l ridic din pat și doare îngrozitor. Adică nu că nu pot, dar doare tare."
+    },
+    {
+      "start": 66.74,
+      "end": 75.48,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, cum ați situa durerea?"
+    },
+    {
+      "start": 75.6,
+      "end": 82.82,
+      "speaker": "SPEAKER_01",
+      "text": "Dimineața, când ridic brațul, e un 8 clar. Când stau liniștit, la birou, poate un 3, 4. Deci variază."
+    },
+    {
+      "start": 82.94,
+      "end": 87.12,
+      "speaker": "SPEAKER_00",
+      "text": "Deci un 8 la mișcare și un 3-4 în repaus."
+    },
+    {
+      "start": 87.24,
+      "end": 97.88,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact. Și mai e ceva, că noaptea nu pot să dorm pe partea dreaptă deloc. Mă întorc și automat mă trezesc. Soția zice că mă tot foiesc."
+    },
+    {
+      "start": 98.0,
+      "end": 102.18,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și această durere a apărut brusc sau a venit treptat?"
+    },
+    {
+      "start": 102.3,
+      "end": 129.66,
+      "speaker": "SPEAKER_01",
+      "text": "Treptat, cred. Adică nu a fost nimic, nu am căzut, nu m-am lovit, nimic de genul. Poate de la calculator, stau mult la birou, vreo 8-9 ore pe zi, și probabil că am stat strâmb sau nu știu. Sau poate de la faptul că am început să duc copilul în brațe mai mult, că acum e mare și greu, vreo 14 kilograme. Și îl port în brațul drept de obicei."
+    },
+    {
+      "start": 129.78,
+      "end": 135.1,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Și afară de umăr mai aveți dureri undeva? La gât, la spate?"
+    },
+    {
+      "start": 135.22,
+      "end": 151.18,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, uite, și la gât mai simt câteodată o tensiune, mai ales după ce stau mult la calculator. Nu aș zice că e durere propriu-zisă, mai mult o tensiune. Dar mă doare și puțin capul uneori, în ceafă, mai ales seara."
+    },
+    {
+      "start": 151.3,
+      "end": 156.24,
+      "speaker": "SPEAKER_00",
+      "text": "Și tensiunea asta de la gât e prezentă acum sau mai mult ocazional?"
+    },
+    {
+      "start": 156.36,
+      "end": 162.82,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult ocazional. Acum nu prea, dar ieri de exemplu am simțit-o. Umărul e problema principală."
+    },
+    {
+      "start": 162.94,
+      "end": 165.22,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Aveți vreo alergie la medicamente?"
+    },
+    {
+      "start": 165.34,
+      "end": 166.48,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nicio alergie."
+    },
+    {
+      "start": 166.6,
+      "end": 168.5,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament în prezent?"
+    },
+    {
+      "start": 168.62,
+      "end": 185.34,
+      "speaker": "SPEAKER_01",
+      "text": "Iau Nurofen când nu mai pot, adică când e prea tare. Nu zilnic, poate o dată, de două ori pe săptămână, mai mult seara. Și soția mi-a zis să iau magneziu, că ea citise ceva pe internet, și iau de vreo două săptămâni."
+    },
+    {
+      "start": 185.46,
+      "end": 186.98,
+      "speaker": "SPEAKER_00",
+      "text": "Doza de Nurofen știți?"
+    },
+    {
+      "start": 187.1,
+      "end": 189.76,
+      "speaker": "SPEAKER_01",
+      "text": "400, cred. Cel normal, de la farmacie."
+    },
+    {
+      "start": 189.88,
+      "end": 191.78,
+      "speaker": "SPEAKER_00",
+      "text": "Și magneziul, știți ce doză?"
+    },
+    {
+      "start": 191.9,
+      "end": 197.22,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu exact, e un supliment, scrie 375 mg pe cutie, ceva de genul."
+    },
+    {
+      "start": 197.34,
+      "end": 203.04,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Aveți alte afecțiuni, boli despre care să știm? Tensiune arterială, diabet, probleme la inimă?"
+    },
+    {
+      "start": 203.16,
+      "end": 230.52,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea. Sunt relativ sănătos, am 34 de ani. Singurul lucru, am o hernie de disc la lombar, diagnosticată acum doi ani, dar nu mă mai doare de mult, a trecut. Adică am avut o criză acum doi ani, am mers la doctor, mi-au făcut RMN, a zis că e hernie la L4-L5, am făcut kinetoterapie și a trecut. De atunci nu am mai avut probleme."
+    },
+    {
+      "start": 230.64,
+      "end": 234.44,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Deci hernia e la L4-L5, confirmată prin RMN."
+    },
+    {
+      "start": 234.56,
+      "end": 248.24,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact. Și mai știu că tata are tensiune mare, și eu mă tot gândesc că o să fac și eu, dar deocamdată nu am. Mă tot duc să mă măsor la farmacie și e normală."
+    },
+    {
+      "start": 248.36,
+      "end": 251.78,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, nu aveți tensiune. Operații, implanturi, vreun act chirurgical?"
+    },
+    {
+      "start": 251.9,
+      "end": 252.7,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic."
+    },
+    {
+      "start": 252.82,
+      "end": 255.86,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai făcut vreodată terapie manuală, chiropractică, fizioterapie?"
+    },
+    {
+      "start": 255.98,
+      "end": 268.14,
+      "speaker": "SPEAKER_01",
+      "text": "Am făcut kinetoterapie acum doi ani pentru hernie, cum v-am zis. La umăr nu am făcut nimic, am stat și am așteptat, că am crezut că trece. Și nu a trecut."
+    },
+    {
+      "start": 268.26,
+      "end": 272.44,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să vedem puțin umărul. Ridicați brațul drept în față, lent."
+    },
+    {
+      "start": 272.56,
+      "end": 274.84,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot, după aia doare."
+    },
+    {
+      "start": 274.96,
+      "end": 278.38,
+      "speaker": "SPEAKER_00",
+      "text": "Până la aproximativ 90 de grade și se oprește?"
+    },
+    {
+      "start": 278.5,
+      "end": 281.16,
+      "speaker": "SPEAKER_01",
+      "text": "Da, cam așa. Mai sus e dureros."
+    },
+    {
+      "start": 281.28,
+      "end": 284.32,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă ridicați lateral, în afară, cum e?"
+    },
+    {
+      "start": 284.44,
+      "end": 290.14,
+      "speaker": "SPEAKER_01",
+      "text": "La fel, cam tot pe acolo se blochează. Adică nu se blochează, dar doare tare."
+    },
+    {
+      "start": 290.26,
+      "end": 295.58,
+      "speaker": "SPEAKER_00",
+      "text": "Stai puțin, vreau să apăs pe zona asta din față, pe tendonul bicepsului. Doare?"
+    },
+    {
+      "start": 295.7,
+      "end": 297.98,
+      "speaker": "SPEAKER_01",
+      "text": "Da, uite, chiar acolo e sensibil."
+    },
+    {
+      "start": 298.1,
+      "end": 300.38,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă apăs aici, pe supraspinos?"
+    },
+    {
+      "start": 300.5,
+      "end": 303.16,
+      "speaker": "SPEAKER_01",
+      "text": "Vai, da, acolo e cel mai rău."
+    },
+    {
+      "start": 303.28,
+      "end": 309.36,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și acum ridică brațul lateral cu cotul îndoit, vreau să opun rezistență. Împinge în sus."
+    },
+    {
+      "start": 309.48,
+      "end": 313.66,
+      "speaker": "SPEAKER_01",
+      "text": "Simt că nu am forță pe partea asta față de stânga."
+    },
+    {
+      "start": 313.78,
+      "end": 319.1,
+      "speaker": "SPEAKER_00",
+      "text": "Da, observ că e o diferență de forță. Doare în umăr când faci asta?"
+    },
+    {
+      "start": 319.22,
+      "end": 321.5,
+      "speaker": "SPEAKER_01",
+      "text": "Da, puțin, pe partea de sus."
+    },
+    {
+      "start": 321.62,
+      "end": 329.6,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și o ultimă mișcare, dă mâna la spate, ca și cum ai vrea să prinzi fermoarul de la o haină."
+    },
+    {
+      "start": 329.72,
+      "end": 335.04,
+      "speaker": "SPEAKER_01",
+      "text": "Pot să ajung cam până aici, la fesă. Mai sus nu pot, mă doare."
+    },
+    {
+      "start": 335.16,
+      "end": 368.6,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Acum vreau să vă spun ce observ. Aveți o limitare de mobilitate la umărul drept, cu durere accentuată la abducție și la flexie, durere la palparea tendonului supraspinatus și a tendonului bicepsului lung. Scăderea de forță la abducție activă cu rezistență sugerează o posibilă afectare a manșetei rotatorilor, probabil o inflamație sau o tendinopatie. Asta nu înseamnă că aveți o ruptură, de obicei la vârsta dumneavoastră e mai degrabă o tendinopatie sau o bursită subacromială. Ar putea fi agravat de postura la birou și de căratul copilului."
+    },
+    {
+      "start": 368.72,
+      "end": 377.46,
+      "speaker": "SPEAKER_01",
+      "text": "Adică e grav? Mă gândeam că poate am rupt ceva, că am citit pe internet despre rupturi de manșetă și m-am speriat."
+    },
+    {
+      "start": 377.58,
+      "end": 389.36,
+      "speaker": "SPEAKER_00",
+      "text": "Nu neapărat ruptură, dar nu putem exclude complet fără un RMN. Deocamdată lucrăm pe ceea ce vedem clinic. Obiectivul nostru e să reducem inflamația, să recuperăm mobilitatea și să corectăm postura."
+    },
+    {
+      "start": 389.48,
+      "end": 395.94,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, deci nu e neapărat ruptură. Bine, mă bucur. Și la gât, aia cu tensiunea, are legătură?"
+    },
+    {
+      "start": 396.06,
+      "end": 404.04,
+      "speaker": "SPEAKER_00",
+      "text": "Poate contribui postura de la birou atât la umăr cât și la gât. O să ne uităm și la zona cervicală."
+    },
+    {
+      "start": 404.16,
+      "end": 407.2,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine. Și cât timp durează până trece?"
+    },
+    {
+      "start": 407.32,
+      "end": 410.74,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde de ședință, vedem cum răspunde. Haideți să începem."
+    }
+  ]
+}

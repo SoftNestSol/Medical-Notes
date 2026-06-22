@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_237",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul, umărul stâng",
+      "câteodată și în zona de gât, pe partea stângă",
+      "mă doare și între omoplați uneori, în spate, pe mijloc"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când fac mișcarea aia spre spate, un 8 ușor. Când e liniștit, fără să mișc, poate un 3.",
+      "aia e mai mică, un 4 poate"
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul, umărul stâng",
+      "câteodată și în zona de gât, pe partea stângă",
+      "mă doare și între omoplați uneori, în spate, pe mijloc"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "mi-au zis atunci că am o ușoară scolioză"
+    ],
+    "antecedente_altele": [
+      "am avut o operație la mână dreaptă acum vreo șase ani, tunel carpian",
+      "mi-am rupt o coastă când eram mică, vreo 10 ani aveam, am căzut de pe bicicletă"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendonului supraspinat și a bursitei subacromiale la umărul stâng, combinat cu o tensiune musculară în zona cervicală inferioară pe stânga",
+      "Scolioza toracală ușoară pe care o aveți de mai demult a contribuit probabil la o postură deficitară",
+      "Obiectivul nostru acum e să reducem inflamația din umăr, să recuperăm amplitudinea de mișcare și să lucrăm și postural ca să nu reapară"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13674,
+    "inference_geo": "global",
+    "input_tokens": 318,
+    "output_tokens": 3397,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

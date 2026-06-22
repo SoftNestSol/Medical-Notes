@@ -1,0 +1,27 @@
+{
+  "motivul_prezentarii": "Durere cervicală și umăr drept cu posibilă iradiere pe braț drept, instalată progresiv în ultima lună, accentuată de postura la birou (8-9 ore/zi la calculator). Durere 5/10 în repaus, 7-8/10 la mișcare.",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "omoplat drept, braț drept (față exterioară)",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Losartan",
+      "doza": "50 mg"
+    },
+    {
+      "denumire": "Paracetamol",
+      "doza": "500 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice: cap proiectat în față, umeri căzuți anterior (postură de birou). Mobilitate cervicală limitată și dureroasă la rotație dreapta și la înclinare laterală dreapta. Abducție braț drept limitată și dureroasă. Palpare dureroasă zona cervicală posterioară și trapez superior drept. Tensiune importantă trapez superior drept.\nDiagnostic: blocaj cervical mecanic cu contractură musculară (trapez superior drept) și posibilă iritație radiculară; disfuncție mecanică de umăr drept.\nObiective terapeutice: reducerea contracturii musculare cervicale; eliberarea mobilității cervicale; lucru pe postură; reducerea durerii."
+}

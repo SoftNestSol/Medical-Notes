@@ -1,0 +1,52 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamnă.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi vă rog și numele dumneavoastră.\nSPEAKER_01: Ionescu Mirela.\nSPEAKER_00: Mirela, bun. Și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: 38 de ani, ok. Cum ați aflat de cabinetul nostru?\nSPEAKER_01: O colegă de serviciu mi-a zis de dumneavoastră, că a venit și ea pe-aici.\nSPEAKER_00: Bun, recomandare. Și cu ce problemă ne vedem astăzi?\nSPEAKER_01: Păi mă doare spatele... adică pe partea asta de jos, de mai mult timp, dar acum câteva zile s-a mai înrăutățit un pic. Nu știu exact cum să descriu, e cam pe toată zona de jos a spatelui.\nSPEAKER_00: Deci zona lombară, cam pe-acolo.\nSPEAKER_01: Da, da, pe-acolo. Și mai am ceva, cum să zic, pe partea asta stângă, mai pe șold, pe undeva pe-acolo.\nSPEAKER_00: Pe șoldul stâng simțiți ceva?\nSPEAKER_01: Da, parcă se trage, nu știu, nu e chiar o durere, mai mult o tensiune sau ceva, nu știu cum să zic.\nSPEAKER_00: Înțeleg. Și mai jos de șold, pe picior, se lasă ceva? Amorțeală, durere?\nSPEAKER_01: Câteodată mai simt ceva pe coapsă, pe partea din spate, dar nu mereu. Nu știu dacă e de la asta sau nu.\nSPEAKER_00: De cât timp aveți durerea asta în zona lombară?\nSPEAKER_01: Aaa, de vreo câteva luni cel puțin. Poate mai mult, nu știu exact. A venit și a plecat, dar acum parcă s-a cam fixat.\nSPEAKER_00: A apărut după ceva anume, un efort, o cădere, ceva?\nSPEAKER_01: Nu știu, nu prea îmi aduc aminte să fi pățit ceva. Stau mult la birou, la serviciu stau toată ziua jos, poate de la asta.\nSPEAKER_00: Posibil, da. Câte ore pe zi stați cam la birou?\nSPEAKER_01: Cam opt ore, poate mai mult uneori. Nu prea mă ridic.\nSPEAKER_00: Și în ce moment doare mai tare? Dimineața când vă ridicați, sau mai mult spre seară, după ce ați stat?\nSPEAKER_01: Mai mult seara, după serviciu. Dimineața mai merge, dar seara simt că mă ține tot mai tare pe-acolo.\nSPEAKER_00: Dacă vă mișcați, dacă mergeți puțin, se ameliorează sau tot rău?\nSPEAKER_01: Dacă mă mișc un pic, da, parcă mai trece. Dar dacă stau iar jos o oră nu mai e bine.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât ați pune durerea acum, în momentul de față?\nSPEAKER_01: Acum? Acum e mai ok, poate un... nu știu, un 4, un 5, pe-acolo.\nSPEAKER_00: Deci undeva la 4-5. Și la maxim, când e cel mai rău?\nSPEAKER_01: Atunci poate ajunge la 7, nu știu, depinde.\nSPEAKER_00: Ok. Și durerea de la lombar, se lasă și spre fese, spre piciorul stâng mai departe?\nSPEAKER_01: Spre fesă stângă da, mai simt ceva pe-acolo, dar pe picior mai jos nu prea.\nSPEAKER_00: Bun. Ați mai avut probleme cu spatele în trecut, înainte de lunile astea?\nSPEAKER_01: Păi am mai avut ceva acum vreo zece ani, tot pe-acolo, dar a trecut singur. Nu știu ce a fost.\nSPEAKER_00: Și nu ați mers la niciun doctor atunci?\nSPEAKER_01: Nu, nu m-am dus nicăieri, a trecut de la sine.\nSPEAKER_00: Ok. Alte afecțiuni, cum ar fi tensiune, diabet, probleme cu inima?\nSPEAKER_01: Nu, nu am nimic din astea.\nSPEAKER_00: Osteoporoză, artrită?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați avut vreo intervenție chirurgicală?\nSPEAKER_01: Da, mi s-a operat apendicele, demult, aveam vreo 16 ani.\nSPEAKER_00: Apendicectomie, ok. Fracturi, accidente?\nSPEAKER_01: Nu, nicio fractură.\nSPEAKER_00: Scolioză, ați auzit vreodată să vi se fi spus?\nSPEAKER_01: Păi mi s-a spus la un control la școală că am ceva ușor, dar nu știu, nu m-am mai interesat de atunci.\nSPEAKER_00: Deci o scolioză ușoară diagnosticată la școală.\nSPEAKER_01: Da, ceva mic, nu știu cât de serios era.\nSPEAKER_00: Înțeles. Medicamente luați în prezent, ceva?\nSPEAKER_01: Nu, nimic. Uneori mai iau câte un nurofen dacă mă doare prea tare, dar nu în mod regulat.\nSPEAKER_00: Deci ocazional, nu zilnic.\nSPEAKER_01: Da, rar, poate o dată pe săptămână, poate nici atât.\nSPEAKER_00: Bun. Alergii la medicamente sau unguente?\nSPEAKER_01: Nu, nu știu să am.\nSPEAKER_00: Ok. Haideți să facem câteva mișcări și teste să văd cum stăm. Ridicați-vă, vă rog, în picioare.\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Vă aplecați în față, ușor, cât puteți, și îmi spuneți dacă doare.\nSPEAKER_01: Doare un pic pe partea de jos, da, pe-acolo.\nSPEAKER_00: Bun, reveniți. Acum în spate, extensie ușoară.\nSPEAKER_01: Ah, asta doare mai tare, da.\nSPEAKER_00: Extensia e mai dureroasă. Bun. Întoarceți-vă cu spatele la mine, stați relaxată. Vă apăs puțin pe zona paravertebrală, spuneți-mi dacă simțiți ceva.\nSPEAKER_01: Da, mai pe stânga parcă e mai tare.\nSPEAKER_00: Mai sensibil pe stânga. Și jos, pe fesierul stâng?\nSPEAKER_01: Da, doare, da.\nSPEAKER_00: Stați pe piciorul stâng singur, puțin. Vă ține?\nSPEAKER_01: Da, mă ține.\nSPEAKER_00: Bun. Haideți pe masă acum, cu fața în sus.\nSPEAKER_01: Ok.\nSPEAKER_00: Ridic piciorul stâng, cu genunchiul drept. Doare pe spate sau pe picior?\nSPEAKER_01: Un pic pe spate, jos, da.\nSPEAKER_00: Bun. Și pe piciorul drept la fel. Doare?\nSPEAKER_01: Nu, nu prea.\nSPEAKER_00: Ok. Deci ce pot să vă spun este că avem o tensionare musculară destul de clară în zona lombară, mai accentuată pe stânga, plus o contractură la nivelul pirifomului stâng. Asta explică și senzația de pe șold și pe coapsă. Cel mai probabil statul prelungit la birou a contribuit mult. Nu am un RMN să mă uit, ar fi util să faceți dacă nu ați făcut.\nSPEAKER_01: N-am făcut niciodată.\nSPEAKER_00: Ar fi bine să faceți, să vedem exact ce se întâmplă la disc. Deocamdată o să lucrăm să reducem inflamația musculară și să eliberăm zonele blocate. O să facem și niște exerciții pe care să le continuați acasă.\nSPEAKER_01: Ok, înțeleg.\nSPEAKER_00: Bun, haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă cu iradiere spre fesa stângă și ocazional pe coapsă posterioară stângă, prezentă de câteva luni, accentuată de statul prelungit la birou și de extensia coloanei. Tensiune pe șoldul stâng.",
+    "evaluarea_durerii_vas": [4, 7],
+    "localizarea_durerii": [
+      "lombar",
+      "sold_stg"
+    ],
+    "localizarea_durerii_alta": "coapsă posterioară stângă, fesă stângă",
+    "antecedente": [
+      "scolioza_cifoza"
+    ],
+    "antecedente_altele": "apendicectomie la 16 ani",
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tensionare musculară zona lombară, mai accentuată pe stânga;\n- contractură piriform stâng;\nObiective terapeutice:\n- reducerea inflamației musculare;\n- eliberarea zonelor blocate;\n- exerciții de efectuat acasă;\n- recomandare RMN lombar"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele... adică pe partea asta de jos, de mai mult timp, dar acum câteva zile s-a mai înrăutățit un pic",
+      "mai am ceva, cum să zic, pe partea asta stângă, mai pe șold, pe undeva pe-acolo",
+      "seara simt că mă ține tot mai tare pe-acolo",
+      "Stau mult la birou, la serviciu stau toată ziua jos"
+    ],
+    "evaluarea_durerii_vas": [
+      "poate un... nu știu, un 4, un 5, pe-acolo",
+      "Atunci poate ajunge la 7, nu știu, depinde"
+    ],
+    "localizarea_durerii": [
+      "e cam pe toată zona de jos a spatelui",
+      "mai am ceva, cum să zic, pe partea asta stângă, mai pe șold, pe undeva pe-acolo"
+    ],
+    "localizarea_durerii_alta": [
+      "Câteodată mai simt ceva pe coapsă, pe partea din spate, dar nu mereu",
+      "Spre fesă stângă da, mai simt ceva pe-acolo"
+    ],
+    "antecedente": [
+      "mi s-a spus la un control la școală că am ceva ușor, dar nu știu, nu m-am mai interesat de atunci",
+      "Deci o scolioză ușoară diagnosticată la școală."
+    ],
+    "antecedente_altele": [
+      "mi s-a operat apendicele, demult, aveam vreo 16 ani"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o tensionare musculară destul de clară în zona lombară, mai accentuată pe stânga, plus o contractură la nivelul pirifomului stâng",
+      "o să lucrăm să reducem inflamația musculară și să eliberăm zonele blocate",
+      "O să facem și niște exerciții pe care să le continuați acasă",
+      "ar fi util să faceți dacă nu ați făcut... Ar fi bine să faceți, să vedem exact ce se întâmplă la disc"
+    ]
+  }
+}

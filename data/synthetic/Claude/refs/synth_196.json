@@ -1,0 +1,19 @@
+{
+  "motivul_prezentarii": "Durere umăr stâng de aproximativ două săptămâni, cu limitarea mobilității la ridicarea brațului, apărută probabil din postura la birou. Perturbă somnul pe partea stângă.",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "tendinită biceps stâng în antecedente (acum doi ani, remisie spontană)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- tendinopatie coif rotatori / bursită subacromială umăr stâng\nObiective terapeutice:\n- reducerea inflamației\n- recuperarea mobilității umărului stâng"
+}

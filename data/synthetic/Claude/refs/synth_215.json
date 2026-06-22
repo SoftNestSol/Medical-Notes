@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere umar stang, aparuta dupa efort fizic (mutat mobila), de aproximativ 3-4 saptamani. Durere la ridicarea bratului si abductie, trezire nocturna la intoarcerea pe umarul afectat.",
+  "evaluarea_durerii_vas": [
+    7,
+    2
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: tendinita coafa rotatori (supraspinatus) umar stang.\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii umarului."
+}

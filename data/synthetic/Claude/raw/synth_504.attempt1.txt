@@ -1,0 +1,49 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă veniți la noi?\nSPEAKER_01: Mă doare ceafa.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Treptat, parcă.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât îi dați?\nSPEAKER_01: Un 5.\nSPEAKER_00: 5. Doare permanent sau doar la anumite mișcări?\nSPEAKER_01: Mai mult când întorc capul.\nSPEAKER_00: Spre stânga, spre dreapta, sau în ambele direcții?\nSPEAKER_01: Mai mult spre dreapta.\nSPEAKER_00: Înțeleg. Și durerea rămâne în ceafă sau se lasă undeva, pe braț, pe umăr?\nSPEAKER_01: Nu, rămâne acolo.\nSPEAKER_00: Nu simțiți amorțeli la degete, la mâini?\nSPEAKER_01: Nu.\nSPEAKER_00: Dureri de cap asociate?\nSPEAKER_01: Da, câteodată.\nSPEAKER_00: Unde vă doare capul, în ce zonă?\nSPEAKER_01: Pe spate, spre ceafă.\nSPEAKER_00: Deci occipital, spre ceafă. Și aceste dureri de cap vin odată cu durerea din ceafă sau separat?\nSPEAKER_01: Odată cu ea, da.\nSPEAKER_00: Am înțeles. Lucrați la birou, stați mult la calculator?\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Toată ziua la calculator. Și cum stați, cu capul ușor în față?\nSPEAKER_01: Probabil.\nSPEAKER_00: Ok. Dimineața la trezire doare mai tare sau seara după program?\nSPEAKER_01: Seara.\nSPEAKER_00: Seara, după ce ați stat toată ziua. Bun. Ați mai avut această problemă înainte sau e prima dată?\nSPEAKER_01: Prima dată așa ceva.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, epilepsie, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste acum. Stați drept, cu mâinile pe lângă corp. Întoarceți capul spre dreapta, încet.\nSPEAKER_01: Au.\nSPEAKER_00: Doare. Și spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Acum lăsați capul ușor pe spate.\nSPEAKER_01: Da, doare și acolo.\nSPEAKER_00: Ok. Apăs puțin la nivelul C4-C5, spuneți-mi dacă simțiți ceva.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Și mai sus, C2-C3?\nSPEAKER_01: Și acolo.\nSPEAKER_00: Musculatura e contractată bilateral, mai accentuat pe dreapta. Vedem o limitare a rotației drepte și a extensiei. Pare o contractură musculară cervicală superioară, cu iritație la nivelul C2-C3 și C4-C5, cel mai probabil postural, din poziția la calculator. Asta explică și durerile de cap occipitale. O să lucrăm să relaxăm musculatura și să eliberăm blocajele respective.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere în ceafă cu debut treptat de aproximativ două săptămâni, accentuată la rotația capului spre dreapta și la extensie, mai intensă seara după program la calculator. Asociază dureri de cap occipitale concomitente.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nContractură musculară cervicală bilaterală, mai accentuată pe dreapta. Limitare a rotației cervicale drepte și a extensiei. Durere la palpare C2-C3 și C4-C5.\nDiagnostic:\nContractură musculară cervicală superioară cu iritație la nivelul C2-C3 și C4-C5, de cauză posturală (muncă la calculator), cu cefalee occipitală asociată.\nObiective terapeutice:\nRelaxarea musculaturii cervicale și eliberarea blocajelor vertebrale cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare ceafa.",
+      "De vreo două săptămâni.",
+      "Treptat, parcă.",
+      "Mai mult când întorc capul.",
+      "Mai mult spre dreapta.",
+      "Da, câteodată.",
+      "Pe spate, spre ceafă.",
+      "Seara.",
+      "toată ziua la calculator"
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare ceafa.",
+      "Pe spate, spre ceafă."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Musculatura e contractată bilateral, mai accentuat pe dreapta.",
+      "Vedem o limitare a rotației drepte și a extensiei.",
+      "Pare o contractură musculară cervicală superioară, cu iritație la nivelul C2-C3 și C4-C5, cel mai probabil postural, din poziția la calculator.",
+      "Asta explică și durerile de cap occipitale.",
+      "O să lucrăm să relaxăm musculatura și să eliberăm blocajele respective.",
+      "Apăs puțin la nivelul C4-C5, spuneți-mi dacă simțiți ceva.",
+      "Și mai sus, C2-C3?"
+    ]
+  }
+}

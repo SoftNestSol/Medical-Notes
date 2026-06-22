@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_047",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare cervicalul, dar nu de azi, de ieri, de mult timp",
+      "dimineața când mă trezesc abia pot să întorc capul",
+      "Pe umărul stâng se duce, da",
+      "acum s-a agravat. Mai ales de când am schimbat biroul"
+    ],
+    "evaluarea_durerii_vas": [
+      "Dimineața când mă trezesc, un 8 ușor",
+      "Umărul... mai puțin, e mai mult un disconfort, un 4 poate"
+    ],
+    "localizarea_durerii": [
+      "Mă doare cervicalul",
+      "Pe umărul stâng se duce, da"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am, da. Am hipertensiune de vreo patru ani.",
+      "mi s-a spus că am o ușoară artroză cervicală"
+    ],
+    "antecedente_altele": [
+      "am gastrită cronică, mi s-a zis acum doi ani la gastroscopie"
+    ],
+    "medicatie_actuala": [
+      "Iau Enalapril, 10 miligrame, dimineața",
+      "am luat Ibuprofen, cât am rezistat, 400"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație și o contractură musculară destul de serioasă la nivel cervical, mai ales pe stânga, cu iradiere pe umărul stâng",
+      "Combinat cu artroza cervicală pe care o știți deja, mobilitatea e afectată",
+      "Obiectivul nostru în primele ședințe va fi să reducem contractura și inflamația și să recâștigăm mobilitatea cervicală",
+      "Contractură pe trapezul stâng",
+      "La C4-C5, C5-C6 pe stânga, doare la palpare"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13583,
+    "inference_geo": "global",
+    "input_tokens": 271,
+    "output_tokens": 3405,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

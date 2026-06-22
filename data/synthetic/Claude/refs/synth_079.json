@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere lombară difuză în bară, instalată treptat de aproximativ două luni, exacerbată la ridicarea greutăților și după statul prelungit la volan (șofer TIR). Asociază disconfort fesier drept și redoare cervicală matinală.",
+  "evaluarea_durerii_vas": null,
+  "localizarea_durerii": [
+    "lombar",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "fesier drept",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Perindopril",
+      "doza": "o pastilă pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nBazin asimetric, picior drept ușor anterior. Limitarea flexiei anterioare a trunchiului cu durere lombară la limita amplitudinii. Înclinarea laterală dreaptă dureroasă (mai restrictivă decât stânga). Durere la palpare paravertebrală lombară dreaptă. Durere la palpare piriform drept. Test Lasègue drept cu ușoară tensionare, fără iradiere. Durere fesieră dreaptă la flexia șoldului drept (genunchi la piept).\nDiagnostic:\nLombalgie mecanică cu tensionare musculară paravertebrală dreaptă și implicare piriform/fesier drept. Rigiditate cervicală asociată.\nObiective terapeutice:\nReducerea tensiunii musculare lombare și fesiere; îmbunătățirea mobilității lombare și cervicale."
+}

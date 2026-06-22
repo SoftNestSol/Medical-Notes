@@ -1,0 +1,175 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 17.64,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua! Mă bucur că am găsit un loc liber, știți, am tot amânat să vin, mi-a zis soția de vreo două luni să mă programez și tot nu am făcut-o și acum nu mai pot, efectiv nu mai pot."
+    },
+    {
+      "start": 17.76,
+      "end": 21.56,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Spuneți-mi, vă rog, cu ce problemă ne vedem?"
+    },
+    {
+      "start": 21.68,
+      "end": 41.82,
+      "speaker": "SPEAKER_01",
+      "text": "Păi mă doare spatele în partea de jos, zona asta lombară cum îi ziceți voi. Mă doare de vreo trei săptămâni bune. A început după ce am mutat niște mobilă, am ajutat un prieten la mutat și am ridicat un șifonier, nu știu, parcă ceva a trosnit atunci și de atunci mă ține."
+    },
+    {
+      "start": 41.94,
+      "end": 44.6,
+      "speaker": "SPEAKER_00",
+      "text": "Și doare constant sau vine și trece?"
+    },
+    {
+      "start": 44.72,
+      "end": 64.48,
+      "speaker": "SPEAKER_01",
+      "text": "E mai tot timpul, dar se agravează când mă aplec sau când stau jos mult. La serviciu stau mult pe scaun și seara când ajung acasă e groaznic. Soția zice că merg cocoșat, ceea ce e posibil, nu știu. Și dimineața când mă ridic din pat, primele minute sunt cele mai rele."
+    },
+    {
+      "start": 64.6,
+      "end": 68.78,
+      "speaker": "SPEAKER_00",
+      "text": "Se lasă durerea pe picior în jos, pe fesă, pe coapsă?"
+    },
+    {
+      "start": 68.9,
+      "end": 87.9,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, rămâne acolo în spate. Ei, câteodată simt ceva pe fesa stângă, dar nu știu dacă e de la durere sau e altceva. Mă gândeam că poate e ceva grav, știți, am citit pe internet și am văzut că pot fi hernii și tot felul... mă sperie treaba asta."
+    },
+    {
+      "start": 88.02,
+      "end": 96.76,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați acum?"
+    },
+    {
+      "start": 96.88,
+      "end": 103.34,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, în repaus, un 4. Dar dacă mă aplec sau ridic ceva, ajunge ușor la 7-8."
+    },
+    {
+      "start": 103.46,
+      "end": 105.36,
+      "speaker": "SPEAKER_00",
+      "text": "Alte afecțiuni, tensiune, diabet, osteoporoză?"
+    },
+    {
+      "start": 105.48,
+      "end": 117.26,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Am hipertensiune de vreo doi ani, iau pastile pentru asta. Iau Enalapril, 10 miligrame pe zi. Diabet nu, osteoporoză nu știu, nu am făcut niciodată analize pentru asta."
+    },
+    {
+      "start": 117.38,
+      "end": 118.9,
+      "speaker": "SPEAKER_00",
+      "text": "Vârsta, dacă se poate?"
+    },
+    {
+      "start": 119.02,
+      "end": 120.16,
+      "speaker": "SPEAKER_01",
+      "text": "51 de ani."
+    },
+    {
+      "start": 120.28,
+      "end": 122.18,
+      "speaker": "SPEAKER_00",
+      "text": "Mulțumesc. Alte tratamente, alte medicamente?"
+    },
+    {
+      "start": 122.3,
+      "end": 131.42,
+      "speaker": "SPEAKER_01",
+      "text": "Mai iau câteodată un Ibuprofen când nu mai suport, dar nu în fiecare zi. Acum două zile am luat unul și a mai trecut."
+    },
+    {
+      "start": 131.54,
+      "end": 138.0,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Stați puțin în picioare, vă rog. Îmi spuneți dacă doare când apăs aici, în zona lombară."
+    },
+    {
+      "start": 138.12,
+      "end": 140.4,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo da, asta e. Au."
+    },
+    {
+      "start": 140.52,
+      "end": 142.04,
+      "speaker": "SPEAKER_00",
+      "text": "Și lateral pe dreapta?"
+    },
+    {
+      "start": 142.16,
+      "end": 142.96,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin."
+    },
+    {
+      "start": 143.08,
+      "end": 143.88,
+      "speaker": "SPEAKER_00",
+      "text": "Pe stânga?"
+    },
+    {
+      "start": 144.0,
+      "end": 145.52,
+      "speaker": "SPEAKER_01",
+      "text": "Și acolo ceva, da."
+    },
+    {
+      "start": 145.64,
+      "end": 147.16,
+      "speaker": "SPEAKER_00",
+      "text": "Aplecați-vă ușor înainte."
+    },
+    {
+      "start": 147.28,
+      "end": 157.54,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, asta doare. Vedeți? Asta e problema, nu pot să mă aplec, nici să mă încalț nu pot dimineața, soția trebuie să mă ajute, e penibil."
+    },
+    {
+      "start": 157.66,
+      "end": 174.38,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Eu zic că avem o contractură musculară în zona lombară, pătratul lombar și paravertebralii sunt tensionați, probabil ca urmare a acelei încărcări. Obiectivul nostru este să reducem această tensiune musculară și să refacem mobilitatea. Să vedem cum evoluează în primele două-trei ședințe."
+    },
+    {
+      "start": 174.5,
+      "end": 179.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine. Și o să scap de durere? Adică nu e hernie, nu?"
+    },
+    {
+      "start": 179.56,
+      "end": 182.98,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să trecem la treabă și discutăm pe parcurs."
+    },
+    {
+      "start": 183.1,
+      "end": 183.9,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, ok."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Durere la baza coloanei, zona sacrală și coccis, cu iradiere spre fesa stângă, apărută după perioadă prelungită de stat la calculator. Agravată în șezut, ameliorată la mers și ortostatism. Durată aproximativ trei săptămâni.",
+  "evaluarea_durerii_vas": [
+    7,
+    4
+  ],
+  "localizarea_durerii": [
+    "sacral_coccis",
+    "lombar"
+  ],
+  "localizarea_durerii_alta": "fesa stângă",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: iritație articulație sacrococcigianăn și tensiune musculară piriform și fesier stâng.\nObiective terapeutice: reducerea tensiunii musculare și a iritației locale; recomandare radiografie dacă durerea nu cedează."
+}

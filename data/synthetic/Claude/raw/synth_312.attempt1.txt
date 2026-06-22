@@ -1,0 +1,43 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, cu ce problemă veniți azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați lovit?\nSPEAKER_01: Nu. Am ridicat ceva mai greu la muncă.\nSPEAKER_00: Ce muncă faceți?\nSPEAKER_01: Depozit. Cărăm cutii.\nSPEAKER_00: Înțeles. Și de atunci doare continuu sau mai trece?\nSPEAKER_01: Continuu. Noaptea mai rău.\nSPEAKER_00: Noaptea mai rău, da. Vă doare și când ridicați brațul?\nSPEAKER_01: Da.\nSPEAKER_00: Până unde puteți ridica?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci aproximativ la orizontală. Mai sus nu mai merge?\nSPEAKER_01: Nu, doare rău.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât e durerea?\nSPEAKER_01: Un 7.\nSPEAKER_00: 7. Și când stați cu brațul pe lângă corp, mai doare?\nSPEAKER_01: Puțin. Mai puțin.\nSPEAKER_00: Amorțește ceva, mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Tensiune, diabet, alte boli mai aveți?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă fac câteva teste. Ridicați brațul în față, încet. Spuneți-mi când doare.\nSPEAKER_01: Acum. Cam de la jumătate.\nSPEAKER_00: De la jumătate. Și în lateral?\nSPEAKER_01: La fel.\nSPEAKER_00: La fel, da. Întoarceți brațul așa, cu palma în sus. Doare?\nSPEAKER_01: Da, pe aici.\nSPEAKER_00: Pe fața anterioară a umărului. Bun. Vă apăs un pic aici, pe zona de supraspinos. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și aici, mai jos?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Ok. Deci avem o inflamație la nivelul coifului rotatorilor, cel mai probabil tendonul supraspinosului. E de la efort, de la căratul acela. Trebuie să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Cât durează?\nSPEAKER_00: Depinde, dar în câteva ședințe ar trebui să simțiți ameliorare. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng, instalată de aproximativ două săptămâni după ridicare de greutate la muncă (depozit). Durere continuă, accentuată noaptea și la ridicarea brațului. Limitare de mobilitate în abducție și flexie din aproximativ 90 de grade.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: inflamație coif rotatori, tendon supraspinos stâng.\nObiective terapeutice: reducerea inflamației, recuperarea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "De vreo două săptămâni.",
+      "Am ridicat ceva mai greu la muncă.",
+      "Continuu. Noaptea mai rău.",
+      "Cam până aici.",
+      "Depozit. Cărăm cutii."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 7."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Medicamente luați ceva?\nSPEAKER_01: Nu."
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul coifului rotatorilor, cel mai probabil tendonul supraspinosului",
+      "Trebuie să reducem inflamația și să recuperăm mobilitatea umărului."
+    ]
+  }
+}

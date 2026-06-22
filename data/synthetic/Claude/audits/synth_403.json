@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_403",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Vreo două săptămâni.",
+      "Am zugrăvit.",
+      "Când ridic mâna sus mai ales.",
+      "Câteodată.",
+      "Nu, stă doar acolo."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Dreptul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Doare la aproximativ 90 de grade?",
+      "Da, cam de acolo.",
+      "La fel, de pe la jumătate începe.",
+      "Ajung cam până aici.",
+      "Limitat și în rotație internă.",
+      "Avem un sindrom de impingement la nivelul umărului drept, inflamație la nivelul coifei rotatorilor, cel mai probabil supraspinosul. Mobilitatea e limitată de la 90 de grade în sus, atât în flexie cât și în abducție. Vom lucra să reducem inflamația și să recuperăm mobilitatea completă."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23139,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 2103,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_506",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare jos de tot la spate, chiar la baza coloanei, în zona aia de coccis, de coadă cum îi zic eu",
+      "Am alunecat pe scările de la bloc",
+      "am aterizat direct pe spate, pe jos. Pe zona aia de coadă",
+      "De vreo trei săptămâni, poate patru"
+    ],
+    "evaluarea_durerii_vas": [
+      "când stau jos, e cam un 5",
+      "când mă ridic din scaun sau din pat dimineața, vai, e mult mai rău, aș zice un 8"
+    ],
+    "localizarea_durerii": [
+      "mă doare jos de tot la spate, chiar la baza coloanei, în zona aia de coccis",
+      "Apăs ușor pe coccis... simțiți?",
+      "Da, și acolo, dar mai puțin"
+    ],
+    "localizarea_durerii_alta": [
+      "pe fese da, cum ziceam, mai mult pe stânga",
+      "câteodată și pe dreapta"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Apăs ușor pe coccis... simțiți?",
+      "Au, da, acolo e punctul rău",
+      "Și pe sacru, un pic mai sus?",
+      "Da, și acolo, dar mai puțin",
+      "Asta doare mai tare",
+      "avem o sensibilitate clară la coccis și sacru, durere accentuată la extensie lombară și la ridicarea din șezut",
+      "Cel mai probabil e o contuzie coccisiană cu iritație a ligamentelor din zona sacro-coccigiană",
+      "O să lucrăm să reducem inflamația și să mobilizăm zona cu blândețe"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23139,
+    "inference_geo": "global",
+    "input_tokens": 360,
+    "output_tokens": 2455,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

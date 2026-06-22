@@ -1,0 +1,54 @@
+{
+  "conversation_id": "synth_097",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele. Zona de jos, adică exact acolo la mijloc, jos. De vreo trei săptămâni, poate patru.",
+      "Dimineața e mai rău, mă ridic din pat și... mă ține.",
+      "cu vreo doi ani în urmă am mai avut ceva similar, dar a trecut singur după o săptămână. Acum nu mai trece."
+    ],
+    "evaluarea_durerii_vas": [
+      "Așa în general, în cursul zilei, eu zic un 6.",
+      "dimineața când mă trezesc sau când mă ridic de pe scaun, ajunge la 8, uneori la 9 chiar."
+    ],
+    "localizarea_durerii": [
+      "zona asta lombară, da, și un pic mai jos, spre... nu știu cum se cheamă, fesele, cumva între fese și spate."
+    ],
+    "localizarea_durerii_alta": [
+      "pe fesa stângă. Câteodată se duce și puțin pe coapsa din față, din stânga.",
+      "Cel mult la jumătatea coapsei, pe fesă."
+    ],
+    "antecedente": [
+      "Tensiune am, da. Am hipertensiune de vreo trei ani."
+    ],
+    "antecedente_altele": [
+      "Am fost operat de apendicită acum vreo zece ani."
+    ],
+    "medicatie_actuala": [
+      "am luat Ibuprofen 400, câte una de trei ori pe zi",
+      "Ibuprofenul doar când nu mai pot, poate o dată-două pe săptămână.",
+      "Voltaren îl pun aproape în fiecare seară",
+      "Enalapril 10 miligrame, dimineața."
+    ],
+    "evaluare_functionala_initiala": [
+      "Aveți o contractură musculară paravertebrală lombară destul de marcată, mai mult pe stânga.",
+      "Mișcarea de flexie este limitată, extensia relativ păstrată.",
+      "Test Lasègue pozitiv pe stânga la aproximativ 40 de grade, cu durere lombară și fesieră.",
+      "imaginea clinică este sugestivă pentru o hernie sau protruziune discală lombară stângă.",
+      "Obiectivul nostru este să reducem inflamația, să relaxăm musculatura contracturată și să decomprimimăm un pic rădăcina nervoasă."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22783,
+    "inference_geo": "global",
+    "input_tokens": 271,
+    "output_tokens": 4058,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamnă!\nSPEAKER_01: Bună ziua, bună ziua! Am venit că mă doare spatele, dar să știți că am și o teamă mare, am citit pe internet că dacă ai hernie poți rămâne paralizat și mă tot gândesc la asta de când a început să mă doară.\nSPEAKER_00: Înțeleg. Haideți să vedem ce se întâmplă. Spuneți-mi mai întâi în ce zonă doare.\nSPEAKER_01: În zona de jos, în spate. Adică lombar, cum se zice. Mă doare de vreo trei săptămâni, a început după ce am mutat niște cutii, stăteam aplecată și am simțit că ceva a trosnit și de-atunci mă ține. Nu știu dacă am făcut ceva rău, probabil că da, că eu oricum stau mult la birou și colegele mele zic că stau cocoșată.\nSPEAKER_00: Da. Se lasă durerea și pe picior în jos sau e locală?\nSPEAKER_01: Păi uneori simt ceva pe fesă, pe partea dreaptă, dar nu știu dacă e tot de la spate sau e altceva. Mă tem că e hernie, asta e problema, că am citit...\nSPEAKER_00: Da, da. Pe picior mai jos de fesă se lasă?\nSPEAKER_01: Nu, nu, mai jos nu.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, cât de tare doare acum?\nSPEAKER_01: Acum, în repaus, un 4. Dar dacă mă aplec sau ridic ceva, ajunge lejer la 8. Dimineața când mă trezesc e groaznic, vreo 7-8, că stau toată noaptea strânsă.\nSPEAKER_00: Am înțeles. Și de trei săptămâni se menține așa?\nSPEAKER_01: Da, cam așa. Am luat niște ibuprofen la început, o săptămână, că nu mai puteam, 400 de miligrame, dar am oprit că mi-e frică să nu-mi stric stomacul. Am ulcer la stomac, adică nu ulcer activ, dar am avut și mi-a zis doctorul să fiu atentă cu antiinflamatoarele.\nSPEAKER_00: Deci ibuprofenul l-ați oprit acum.\nSPEAKER_01: Da, da, am oprit de vreo două săptămâni. Acum nu mai iau nimic.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet?\nSPEAKER_01: Nu, nu am. Adică tensiunea mai crește uneori când sunt stresată, dar nu am tratament, nu mi-a zis nimeni că e hipertensiune. Diabetul nu.\nSPEAKER_00: Bun. Haideți să vă verific puțin. Stați în picioare o secundă. Aplecați-vă ușor înainte.\nSPEAKER_01: Au, da, doare imediat ce mă aplec.\nSPEAKER_00: Doare chiar în lombar sau mai sus?\nSPEAKER_01: Jos, jos, chiar în zona asta.\nSPEAKER_00: Bun. Acum apăs puțin pe mușchii din dreapta. Spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo da, tare.\nSPEAKER_00: Cât, de la 0 la 10?\nSPEAKER_01: Un 6.\nSPEAKER_00: Da. Mobilitatea este limitată în flexie, piriformul drept e contractat. Eu zic că putem lucra, nu e o situație complicată. Vom relaxa musculatura din zona lombară și vom vedea cum evoluăm.\nSPEAKER_01: Și nu e hernie? Adică nu trebuie să fac un RMN?\nSPEAKER_00: Momentan nu avem semne clare de iradiere pe picior, deci nu putem spune că e o hernie cu compresie de nerv. Dacă după două-trei ședințe nu se ameliorează, atunci recomandăm investigații suplimentare.\nSPEAKER_01: Ok, bine, mă bucur, că mă tot frământam. Ziceam că poate nu mai merg deloc.\nSPEAKER_00: Haideți să ne așezăm pe masă.",
+
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă apărută după efort de ridicare, cu iradiere fesieră dreaptă, prezentă de trei săptămâni",
+    "evaluarea_durerii_vas": [4, 8],
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": "fesă dreaptă",
+    "antecedente": [],
+    "antecedente_altele": "ulcer gastric în antecedente",
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Mobilitate limitată în flexie lombară; contractură mușchi piriform drept la palpare. Diagnostic de lucru: lombalgie mecanică. Obiective terapeutice: relaxarea musculaturii lombare și reducerea contracturii."
+  },
+
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele",
+      "a început după ce am mutat niște cutii, stăteam aplecată și am simțit că ceva a trosnit și de-atunci mă ține",
+      "de vreo trei săptămâni"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în repaus, un 4.",
+      "dacă mă aplec sau ridic ceva, ajunge lejer la 8"
+    ],
+    "localizarea_durerii": [
+      "În zona de jos, în spate. Adică lombar, cum se zice."
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt ceva pe fesă, pe partea dreaptă"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "am ulcer la stomac, adică nu ulcer activ, dar am avut și mi-a zis doctorul să fiu atentă cu antiinflamatoarele"
+    ],
+    "medicatie_actuala": [
+      "am oprit de vreo două săptămâni. Acum nu mai iau nimic."
+    ],
+    "evaluare_functionala_initiala": [
+      "Mobilitatea este limitată în flexie, piriformul drept e contractat.",
+      "Vom relaxa musculatura din zona lombară și vom vedea cum evoluăm."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "motivul_prezentarii": "Durere umar stang aparuta dupa efort cu bratul ridicat (zugravit), cu limitare marcata a mobilitatii si accentuare nocturna",
+  "evaluarea_durerii_vas": [
+    3,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "5 miligrame"
+    },
+    {
+      "denumire": "ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare importanta a mobilitatii pe toate planurile, cu durere la capat de amplitudine. Flexie anterioara aproximativ 90 de grade. Rotatie interna limitata (nu atinge centura). Diagnostic: tendinopatie / inflamatie coafa rotatori stang. Obiective terapeutice: reducerea inflamatiei si recuperarea mobilitatii."
+}

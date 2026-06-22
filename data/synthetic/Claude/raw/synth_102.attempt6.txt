@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi cu ce problemă veniți.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombarul. De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume? Ați cărat, ați ridicat?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât e?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare constant sau doar la mișcare?\nSPEAKER_01: Când mă aplec.\nSPEAKER_00: Și când vă ridicați din pat dimineața?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Durerea se lasă și pe picior, pe fesă, sau e doar în spate?\nSPEAKER_01: Doar în spate.\nSPEAKER_00: Amorțeli la picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte zone dor? Gât, umeri?\nSPEAKER_01: Nu.\nSPEAKER_00: Afecțiuni pe care le știți, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune arterială. Luați ceva pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: Zilnic?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin cu spatele la mine, picioarele ușor depărtate, brațele pe lângă corp. Relaxat.\nSPEAKER_01: Bun.\nSPEAKER_00: Vedem o ușoară înclinare spre stânga. Vă aplecați încet în față, cât puteți.\nSPEAKER_01: Până aici.\nSPEAKER_00: Da, e limitată flexia. Apăs acum pe zona lombară, spuneți-mi dacă doare.\nSPEAKER_01: Da, doare.\nSPEAKER_00: Mai jos, spre sacral?\nSPEAKER_01: Nu, mai sus.\nSPEAKER_00: Pe mijlocul lombarului. Ok. Deci avem o contractură musculară paravertebrală lombară, apărută după efort fizic. Fără iradiere, fără semne radiculare. O să lucrăm să reducem contractura și să redăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută în urmă cu două săptămâni după mutarea mobilei. Durere la flexie și la ridicarea din pat. Fără iradiere pe membre inferioare, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară înclinare laterală spre stânga în ortostatism. Flexie lombară limitată. Durere la palpare paravertebrală lombară mijlocie bilateral, fără sensibilitate la nivel sacral.\nDiagnostic:\nContractură musculară paravertebrală lombară post-efort fizic (mutat mobilă), fără iradiere, fără semne radiculare.\nObiective terapeutice:\nReducerea contracturii musculare paravertebrale; refacerea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele.", "Am mutat niște mobilă.", "De vreo două săptămâni.", "Când mă aplec.", "Da, și atunci.", "Doar în spate.", "Nu."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Jos.", "pe zona lombară"],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Enalapril.", "10 miligrame."],
+    "evaluare_functionala_initiala": ["Vedem o ușoară înclinare spre stânga.", "e limitată flexia", "Deci avem o contractură musculară paravertebrală lombară, apărută după efort fizic. Fără iradiere, fără semne radiculare. O să lucrăm să reducem contractura și să redăm mobilitatea."]
+  }
+}

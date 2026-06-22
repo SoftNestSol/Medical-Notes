@@ -1,0 +1,26 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare ceafa.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Treptat.\nSPEAKER_00: Ați făcut ceva anume înainte să înceapă? Vreun efort, stat la birou mai mult?\nSPEAKER_01: Stau mult la calculator la serviciu.\nSPEAKER_00: Înțeles. Doare doar ceafa sau se lasă și pe umăr, pe braț?\nSPEAKER_01: Și pe umărul stâng un pic.\nSPEAKER_00: Pe umărul stâng. Și pe braț se lasă, amorțește ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde vă situați?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare mai tare când stați la calculator sau și când vă odihniți?\nSPEAKER_01: La calculator mai rău.\nSPEAKER_00: Și dimineața când vă treziți?\nSPEAKER_01: Mai merge.\nSPEAKER_00: Înțeles. Vă întoarceți capul în dreapta, vă rog.\nSPEAKER_01: Ah.\nSPEAKER_00: Doare?\nSPEAKER_01: Da, puțin.\nSPEAKER_00: Și în stânga?\nSPEAKER_01: La fel.\nSPEAKER_00: Am înțeles. Afecțiuni mai aveți, tensiune, diabet, ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Hai să apăs puțin pe mușchii de la ceafă, îmi spuneți dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Doare pe ambele părți sau mai tare pe una?\nSPEAKER_01: Pe stânga mai tare.\nSPEAKER_00: Pe stânga, da. Și trapezul de pe stânga, uite, apăs aici.\nSPEAKER_01: Ah, da.\nSPEAKER_00: Doare și acolo.\nSPEAKER_01: Da.\nSPEAKER_00: Deci avem o contractură a musculaturii cervicale, mai ales pe stânga, cu iradiere în umărul stâng. Mobilitatea e limitată la rotații. Vom lucra să relaxăm musculatura și să recuperăm mobilitatea cervicală.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "durere cervicala si umar stang",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: contractura musculatura cervicala, mai ales pe stanga, cu iradiere in umarul stang; mobilitate limitata la rotatii.\nObiective terapeutice: relaxarea musculaturii; recuperarea mobilitatii cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare ceafa.", "Și pe umărul stâng un pic."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare ceafa.", "Și pe umărul stâng un pic."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Deci avem o contractură a musculaturii cervicale, mai ales pe stânga, cu iradiere în umărul stâng. Mobilitatea e limitată la rotații. Vom lucra să relaxăm musculatura și să recuperăm mobilitatea cervicală."]
+  }
+}

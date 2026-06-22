@@ -1,0 +1,205 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, cu ce problemă venim azi?"
+    },
+    {
+      "start": 2.78,
+      "end": 25.2,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, deci am o durere aici la umăr, umărul stâng, de vreo două săptămâni. Nu știu ce am făcut, adică sincer nu îmi aduc aminte să fi ridicat ceva greu sau să fi căzut, pur și simplu m-am trezit într-o dimineață și mă durea. Și de atunci tot mă doare, ba mai tare, ba mai puțin."
+    },
+    {
+      "start": 25.32,
+      "end": 29.88,
+      "speaker": "SPEAKER_00",
+      "text": "Și durerea e locală, la umăr, sau se lasă și pe braț?"
+    },
+    {
+      "start": 30.0,
+      "end": 39.88,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... se lasă un pic și pe braț, da, pe partea de aici, pe exterior. Nu până la mână, mai mult pe braț, pe la jumătate."
+    },
+    {
+      "start": 40.0,
+      "end": 44.94,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Pe o scară de la 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 45.06,
+      "end": 61.4,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, în repaus, poate un 3. Dar dacă ridic mâna, mai ales dacă o duc în spate, ăla e poate un 7. Că ieri am vrut să mă îmbrac, să îmi pun haina, și am urlat efectiv. Soția a venit speriată din bucătărie."
+    },
+    {
+      "start": 61.52,
+      "end": 63.42,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și noaptea vă deranjează?"
+    },
+    {
+      "start": 63.54,
+      "end": 74.56,
+      "speaker": "SPEAKER_01",
+      "text": "Da, asta e marea problemă, de fapt. Nu pot să dorm pe partea stângă deloc. Mă trezesc din somn, trebuie să mă întorc. Dorm mai mult pe dreapta acum."
+    },
+    {
+      "start": 74.68,
+      "end": 76.96,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțeală în braț sau în mână?"
+    },
+    {
+      "start": 77.08,
+      "end": 85.44,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, amorțeală nu. Adică uneori pare că e un pic mai... cum să zic... mai greu brațul, dar amorțeală propriu-zisă nu."
+    },
+    {
+      "start": 85.56,
+      "end": 88.6,
+      "speaker": "SPEAKER_00",
+      "text": "Ați aplicat ceva pe zonă, vreun gel, ceva?"
+    },
+    {
+      "start": 88.72,
+      "end": 102.78,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am pus un Voltaren, ăla gel, câteva zile, dar nu prea m-a ajutat. Adică poate puțin, dar a doua zi tot la fel era. Nu am luat pastile, că nu prea îmi place să iau."
+    },
+    {
+      "start": 102.9,
+      "end": 106.32,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Aveți alte afecțiuni, tensiune, diabet, probleme la inimă?"
+    },
+    {
+      "start": 106.44,
+      "end": 129.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic, sunt relativ sănătos. Adică am 38 de ani, fac sport, merg la sală de vreo doi ani. Și asta mă și îngrijorează, că nu știu dacă o să mai pot să fac sală, că fac și bench press, și tracțiuni, și probabil de acolo... deși nu știu sigur. Vă spuneam, nu mi-am dat seama exact când a apărut."
+    },
+    {
+      "start": 129.74,
+      "end": 132.4,
+      "speaker": "SPEAKER_00",
+      "text": "Ce anume la sală vă dă durere?"
+    },
+    {
+      "start": 132.52,
+      "end": 146.58,
+      "speaker": "SPEAKER_01",
+      "text": "Orice mișcare deasupra capului. Ridicatul cu mâna sus e cel mai rău. Și la tracțiuni la fel, simt că mă taie pe acolo. Bench press acum nu îl mai fac, că mi-e frică să nu agravez."
+    },
+    {
+      "start": 146.7,
+      "end": 150.88,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să facem câteva mișcări. Ridicați brațul stâng în față, încet."
+    },
+    {
+      "start": 151.0,
+      "end": 152.52,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe aici merge."
+    },
+    {
+      "start": 152.64,
+      "end": 153.44,
+      "speaker": "SPEAKER_00",
+      "text": "Doare?"
+    },
+    {
+      "start": 153.56,
+      "end": 156.6,
+      "speaker": "SPEAKER_01",
+      "text": "Puțin, da, de pe la jumătate în sus."
+    },
+    {
+      "start": 156.72,
+      "end": 159.38,
+      "speaker": "SPEAKER_00",
+      "text": "Și acum duceți brațul lateral, în sus."
+    },
+    {
+      "start": 159.5,
+      "end": 165.2,
+      "speaker": "SPEAKER_01",
+      "text": "Asta doare mai tare, da. Pe la 90 de grade simt că mă blochează ceva."
+    },
+    {
+      "start": 165.32,
+      "end": 171.02,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Acum pun mâna pe umăr și apăs ușor pe zona de aici, anterior. Doare?"
+    },
+    {
+      "start": 171.14,
+      "end": 173.42,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact acolo, ăla e punctul."
+    },
+    {
+      "start": 173.54,
+      "end": 177.34,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă ridic eu brațul și apăs în același timp?"
+    },
+    {
+      "start": 177.46,
+      "end": 179.36,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, ăla doare serios."
+    },
+    {
+      "start": 179.48,
+      "end": 191.64,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Avem un arc dureros la abducție, plus sensibilitate la nivelul tendoanelor coafei rotatorilor. Pare o tendinopatie sau o mică inflamație la nivelul coafei rotatorilor, umărul stâng, posibil și un conflict subacomial."
+    },
+    {
+      "start": 191.76,
+      "end": 204.3,
+      "speaker": "SPEAKER_01",
+      "text": "Adică e grav? Că m-am tot gândit că o fi ceva rupt înăuntru, că am citit pe internet tot felul de chestii și mă speriasem că o fi o ruptură de ceva."
+    },
+    {
+      "start": 204.42,
+      "end": 220.0,
+      "speaker": "SPEAKER_00",
+      "text": "Nu avem semne clare de ruptură la testele pe care le-am făcut. O să lucrăm să reducem inflamația și să recuperăm mobilitatea. Dar ar fi util să faceți și o ecografie de umăr, să vedem exact ce se întâmplă acolo."
+    },
+    {
+      "start": 220.12,
+      "end": 225.06,
+      "speaker": "SPEAKER_01",
+      "text": "Da, bun, fac. Deci pot să revin la sală la un moment dat?"
+    },
+    {
+      "start": 225.18,
+      "end": 234.68,
+      "speaker": "SPEAKER_00",
+      "text": "Da, cu răbdare. Deocamdată evitați mișcările deasupra capului și tracțiunile. Obiectivul nostru e să scădem durerea, să refacem mobilitatea și apoi reintegrăm activitatea fizică treptat."
+    },
+    {
+      "start": 234.8,
+      "end": 238.22,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, înțeleg. Și gelul pot să îl mai pun?"
+    },
+    {
+      "start": 238.34,
+      "end": 243.28,
+      "speaker": "SPEAKER_00",
+      "text": "Da, puteți continua cu Voltaren gel dacă simțiți că ajută, seara în special."
+    }
+  ]
+}

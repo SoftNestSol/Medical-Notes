@@ -1,0 +1,50 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare genunchiul.\nSPEAKER_00: Care genunchi?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, v-ați lovit, ați căzut?\nSPEAKER_01: Nu știu, a apărut așa.\nSPEAKER_00: Fără traumatism, fără căzătură.\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Doare constant sau numai când îl mișcați?\nSPEAKER_01: Când merg mai mult.\nSPEAKER_00: Când mergeți mai mult. La urcat scări?\nSPEAKER_01: Da, și la urcat.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde ați pune durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare mai mult în față, în lateral, în spate?\nSPEAKER_01: În față, sub rotulă parcă.\nSPEAKER_00: Sub rotulă. Și la îngenunchere?\nSPEAKER_01: Nu îngenunchez că doare.\nSPEAKER_00: Înțeleg. Se umflă?\nSPEAKER_01: Un pic, seara.\nSPEAKER_00: Seara se umflă un pic. Luați ceva medicamente pentru durere?\nSPEAKER_01: Ibuprofen, din când în când.\nSPEAKER_00: Ibuprofen. Ce doză?\nSPEAKER_01: Nu știu, cele normale, 400.\nSPEAKER_00: 400. Alte boli, diabet, tensiune, ceva de inimă?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații la genunchi sau la alt articulație?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio fractură?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să stați în picioare puțin. Stați pe piciorul stâng... vă ține?\nSPEAKER_01: Mă ține, da, dar nu-i confortabil.\nSPEAKER_00: Nu-i confortabil. Văd că aveți genunchiul ușor rotit spre interior. Încovoiați puțin genunchiul, până la jumătate.\nSPEAKER_01: Au, doare.\nSPEAKER_00: Doare în față?\nSPEAKER_01: Da, sub rotulă.\nSPEAKER_00: Exact. Asta înseamnă că avem o iritație la nivelul tendonului rotulian și o inflamație a burselor din față. O să lucrăm să reducem inflamația și să eliberăm musculatura din jur, în principal cvadricepsul și bandeleta. Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere genunchi stâng, apărută spontan de aproximativ două săptămâni, accentuată la mers prelungit și urcat scări, localizată sub rotulă. Ușoară tumefiere seară.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "genunchi_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: iritație tendon rotulian, inflamație burse anterioare genunchi stâng.\nObiective terapeutice: reducerea inflamației, eliberarea musculaturii periarticulare (cvadriceps, bandeletă)."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare genunchiul.",
+      "Stângul.",
+      "Vreo două săptămâni.",
+      "Când merg mai mult.",
+      "Da, și la urcat.",
+      "În față, sub rotulă parcă.",
+      "Un pic, seara."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare genunchiul.",
+      "Stângul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofen, din când în când.",
+      "Nu știu, cele normale, 400."
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți genunchiul ușor rotit spre interior.",
+      "Asta înseamnă că avem o iritație la nivelul tendonului rotulian și o inflamație a burselor din față.",
+      "O să lucrăm să reducem inflamația și să eliberăm musculatura din jur, în principal cvadricepsul și bandeleta."
+    ]
+  }
+}

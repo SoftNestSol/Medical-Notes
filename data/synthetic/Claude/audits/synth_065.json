@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_065",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept",
+      "deja de vreo trei săptămâni mă tot chinui",
+      "am ajutat un prieten să mute niște cutii, mobilă, chestii d-astea grele. Și după aia a doua zi m-am trezit cu umărul... nu știu, parcă blocat"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum în repaus... un 4. Dar dacă ridic brațul sau dacă apasă cineva acolo, e un 7, cel puțin."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă și pe braț, da."
+    ],
+    "antecedente": [
+      "am tensiunea un pic ridicată"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "iau Enalapril de vreo doi ani, 10 miligrame"
+    ],
+    "evaluare_functionala_initiala": [
+      "Până la aproximativ 90 de grade. Și rotație internă, duceți mâna la spate?",
+      "Avem o inflamație în zona tendoanelor rotatorilor, cel mai probabil tendinită de coafă a rotatorilor la nivelul umărului drept. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea brațului."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13854,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 1935,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Dumitru Pavel.\nSPEAKER_00: Vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem, domnule Dumitru?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Cel drept.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva? Ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am zugrăvit. Vreo trei zile la rând.\nSPEAKER_00: Am înțeles. Doare constant sau doar când mișcați brațul?\nSPEAKER_01: Când ridic brațul mai ales.\nSPEAKER_00: Sus, deasupra capului?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare când ridicați brațul?\nSPEAKER_01: Un 7.\nSPEAKER_00: Și în repaus?\nSPEAKER_01: Mai puțin. Un 2, 3.\nSPEAKER_00: Noaptea vă deranjează? Dormiți pe umărul acela?\nSPEAKER_01: Uneori mă trezesc, da.\nSPEAKER_00: Durerea se lasă și pe braț în jos sau e locală, în umăr?\nSPEAKER_01: Doar în umăr.\nSPEAKER_00: Ok. Tensiune, diabet, vreo altă afecțiune?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreo medicație?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vedem puțin cum stăm. Ridicați brațul drept ușor în față... până unde puteți.\nSPEAKER_01: Până cam aici.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da, de aici în sus doare.\nSPEAKER_00: Am înțeles. Și lateral, ridicați brațul în lateral, la fel.\nSPEAKER_01: Și acolo.\nSPEAKER_00: La fel de tare?\nSPEAKER_01: Cam da.\nSPEAKER_00: Ok. Mă lăsați să apăs puțin pe umăr, pe zona de deasupra, pe acromion. Spuneți-mi dacă doare.\nSPEAKER_01: Au, da.\nSPEAKER_00: Deci avem o sensibilitate la nivel de acromion. Rotire externă, brațul la 90 de grade, mâna în sus. Doare?\nSPEAKER_01: Un pic.\nSPEAKER_00: Mai puțin decât la ridicare?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Eu zic că avem o inflamație la nivelul mușchilor manșetei rotatorilor, cel mai probabil supraspinatus, dat fiind contextul, zugrăvit cu brațul ridicat mai multe zile. Vom lucra să reducem inflamația și să refacem mobilitatea umărului drept. Câteva ședințe și vedem cum evoluează.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa zugraviala, la ridicarea bratului",
+    "evaluarea_durerii_vas": [7, 2],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Inflamatie manșeta rotatorilor umar drept (supraspinatus); sensibilitate la nivel de acromion.\nObiective terapeutice: reducerea inflamatiei; refacerea mobilitatii umarului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Cel drept.", "Am zugrăvit. Vreo trei zile la rând.", "Când ridic brațul mai ales."],
+    "evaluarea_durerii_vas": ["Un 7.", "Mai puțin. Un 2, 3."],
+    "localizarea_durerii": ["Cel drept.", "Doar în umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul mușchilor manșetei rotatorilor, cel mai probabil supraspinatus", "sensibilitate la nivel de acromion", "Vom lucra să reducem inflamația și să refacem mobilitatea umărului drept."]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "motivul_prezentarii": "Durere cervicala si umar drept, cu iradiere pe brat",
+  "evaluarea_durerii_vas": [
+    7,
+    4
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "cap_ceafa",
+    "umar_dr",
+    "toracal"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "75 micrograme zilnic"
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: cervicalgie posturala; contractura musculara cervicala dreapta (trapez, suboccipitali); limitare mobilitate cervicala la extensie si rotatie dreapta; implicare umar drept.\nObiective terapeutice: reducerea contracturii musculare; recuperarea mobilitatii cervicale."
+}

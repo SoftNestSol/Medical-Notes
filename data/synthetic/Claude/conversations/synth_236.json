@@ -1,0 +1,205 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 4.84,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 4.96,
+      "end": 25.86,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, am o durere la umăr, la cel drept, și sincer nu știu exact de când a început, adică a început cam acum vreo trei săptămâni, dar eu am zis că trece de la sine, știți cum e, te gândești că poate ai dormit strâmb sau ceva și aștepți, dar nu a trecut, ba dimpotrivă."
+    },
+    {
+      "start": 25.98,
+      "end": 29.4,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și doare constant sau mai mult la mișcare?"
+    },
+    {
+      "start": 29.52,
+      "end": 44.72,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult când ridic mâna, da. Adică dacă stau liniștit nu mă deranjează atât de tare, dar dacă încerc să ridic mâna așa, mai sus de umăr, doare destul de tare. Și noaptea mă trezesc uneori, că întorc și doare."
+    },
+    {
+      "start": 44.84,
+      "end": 49.78,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Doare și în față, pe partea anterioară, sau mai mult în lateral?"
+    },
+    {
+      "start": 49.9,
+      "end": 55.6,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult pe partea asta, lateral, da. Și un pic în față, dar mai puțin."
+    },
+    {
+      "start": 55.72,
+      "end": 63.7,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum vă situați?"
+    },
+    {
+      "start": 63.82,
+      "end": 66.86,
+      "speaker": "SPEAKER_01",
+      "text": "Hm, la ridicat mâna... un 7. Da, 7."
+    },
+    {
+      "start": 66.98,
+      "end": 70.4,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și ce ați făcut până acum pentru durere?"
+    },
+    {
+      "start": 70.52,
+      "end": 77.74,
+      "speaker": "SPEAKER_01",
+      "text": "Am pus un gel, Voltaren, câteva zile, dar nu prea a ajutat. Adică poate un pic, dar nu semnificativ."
+    },
+    {
+      "start": 77.86,
+      "end": 81.28,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Stați puțin, ridicați mâna pentru mine, ușor."
+    },
+    {
+      "start": 81.4,
+      "end": 83.68,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici pot... după aia doare."
+    },
+    {
+      "start": 83.8,
+      "end": 86.46,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Și dacă rotim ușor înăuntru, doare?"
+    },
+    {
+      "start": 86.58,
+      "end": 88.48,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, doare și acolo."
+    },
+    {
+      "start": 88.6,
+      "end": 92.78,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă apăs aici, pe zona asta de sus a umărului?"
+    },
+    {
+      "start": 92.9,
+      "end": 94.8,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, acolo chiar doare."
+    },
+    {
+      "start": 94.92,
+      "end": 98.72,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Aveți vreo meserie sedentară sau lucrați mai mult fizic?"
+    },
+    {
+      "start": 98.84,
+      "end": 118.22,
+      "speaker": "SPEAKER_01",
+      "text": "Eu sunt la birou toată ziua, stau mult la calculator. Și sincer, acum că mă gândesc, poate de asta a și apărut, că am o postură destul de proastă, am mai fost atenționat și de soție că stau cocoșat, dar știți cum e, îți spune cineva și tot nu te îndrepți."
+    },
+    {
+      "start": 118.34,
+      "end": 122.9,
+      "speaker": "SPEAKER_00",
+      "text": "Da, postura contează mult. Alte afecțiuni, tensiune, diabet, ceva de acest gen?"
+    },
+    {
+      "start": 123.02,
+      "end": 126.44,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, sunt sănătos tun altfel. N-am nimic."
+    },
+    {
+      "start": 126.56,
+      "end": 128.46,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale la umăr, fracturi?"
+    },
+    {
+      "start": 128.58,
+      "end": 133.14,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată. Nici măcar nu mi-am rupt ceva vreodată, slavă Domnului."
+    },
+    {
+      "start": 133.26,
+      "end": 135.54,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și medicamente luați ceva zilnic?"
+    },
+    {
+      "start": 135.66,
+      "end": 142.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic zilnic. Doar gelul ăla de Voltaren pe care l-am pus câteva zile și l-am lăsat."
+    },
+    {
+      "start": 143.0,
+      "end": 145.66,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Aveți RMN sau radiografie la umăr?"
+    },
+    {
+      "start": 145.78,
+      "end": 165.92,
+      "speaker": "SPEAKER_01",
+      "text": "Nu am făcut nimic, am zis să vin mai întâi să văd ce spuneți voi, că un prieten mi-a recomandat. Mă gândeam că poate e ceva grav, știți, am citit pe internet și m-am speriat un pic, că scria tot felul de chestii despre rupturi de tendoane și nu știu ce."
+    },
+    {
+      "start": 166.04,
+      "end": 177.06,
+      "speaker": "SPEAKER_00",
+      "text": "Să nu vă panicați. Pe baza a ce am văzut, pare a fi o tendinită la nivelul coafei rotatorilor, mai precis la supraspinat. E o afecțiune comună și tratabilă."
+    },
+    {
+      "start": 177.18,
+      "end": 181.74,
+      "speaker": "SPEAKER_01",
+      "text": "Coafă... da, am auzit termenul ăsta, dar nu știam ce e exact."
+    },
+    {
+      "start": 181.86,
+      "end": 194.02,
+      "speaker": "SPEAKER_00",
+      "text": "E un grup de mușchi care stabilizează umărul. Ce avem de făcut e să reducem inflamația și să recuperăm mobilitatea, da? Vom lucra câteva ședințe, și vă voi da și exerciții acasă."
+    },
+    {
+      "start": 194.14,
+      "end": 202.88,
+      "speaker": "SPEAKER_01",
+      "text": "Da, orice, numai să treacă. Că mă cam afectează și la muncă, nu mai pot nici mouse-ul să-l țin prea mult."
+    },
+    {
+      "start": 203.0,
+      "end": 205.28,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Haideți pe masă să începem."
+    }
+  ]
+}

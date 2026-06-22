@@ -1,0 +1,43 @@
+{
+  "conversation_id": "synth_165",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere de umăr, umărul stâng, de vreo trei săptămâni"
+    ],
+    "evaluarea_durerii_vas": [
+      "când ridic mâna... un 7, aș zice. Da, 7.",
+      "În repaus un 2, maxim."
+    ],
+    "localizarea_durerii": [
+      "am o durere de umăr, umărul stâng"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Am tensiune, da."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Prestarium, o pastilă pe zi, de vreo doi ani.",
+      "A, și vitamina D, că mi-a zis doctorul"
+    ],
+    "evaluare_functionala_initiala": [
+      "cam pe la 90 de grade începe să doară, și mai sus de atât nu prea mai pot",
+      "Nu pot deloc, mă ia o durere ascuțită",
+      "O să lucrăm pe zona de umăr stâng, pe rotatori și pe capsula articulară. Limitarea asta de mobilitate, mai ales la rotația internă, arată că avem o inflamație în zonă și o tensionare a capsulei. Obiectivul nostru e să reducem inflamația și să recuperăm amplitudinea de mișcare."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13883,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 1953,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "motivul_prezentarii": "Durere umar drept cu iradiere cervicala si amorțeli pe degetele 4-5 mana dreapta",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "amorțeli degetele inelar si mic mana dreapta",
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "50 micrograme, o pastila pe zi dimineata"
+    },
+    {
+      "denumire": "Paracetamol",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contractura musculara cervical inferior si umar drept, implicare trapez, scaleni, biceps; mobilitate cervicala redusa spre stanga; mobilitate umar drept limitata la flexie si rotatie interna; iritatie C7-T1 cu amorțeli degete mici.\nObiective terapeutice: reducerea contracturii si inflamatiei locale; corectarea posturii de birou."
+}

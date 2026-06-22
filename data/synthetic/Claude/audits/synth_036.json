@@ -1,0 +1,43 @@
+{
+  "conversation_id": "synth_036",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel drept, de vreo două săptămâni",
+      "Se lasă un pic, da, pe brațul ăsta, până pe la cot"
+    ],
+    "evaluarea_durerii_vas": [
+      "Dimineața, când mă scol, un 7",
+      "Dacă stau liniștit ziua, undeva la un 4"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel drept",
+      "Se lasă un pic, da, pe brațul ăsta, până pe la cot"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "acum vreo doi ani am avut o hernie de disc la coloana cervicală, mi-a zis doctorul"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "iau un antiinflamator, Ibuprofen, 400 de miligrame, când mă doare mai tare"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendoanelor coifului rotator, mai precis un sindrom de impingement subacromial",
+      "Obiectivul nostru este să reducem inflamația și să recuperăm mobilitatea umărului, ca să nu ajungem la o umăr blocat"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 13499
+    },
+    "cache_creation_input_tokens": 13499,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 1901,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

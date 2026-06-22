@@ -1,0 +1,45 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă v-ați prezentat astăzi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc. Am ridicat ceva mai greu la serviciu.\nSPEAKER_00: Ce faceți la serviciu?\nSPEAKER_01: Depozit. Cărăm marfă.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare doare?\nSPEAKER_01: Cam 7.\nSPEAKER_00: 7. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Mai mult când mișc brațul. Noaptea mai rău.\nSPEAKER_00: Noaptea e mai rău, bine. Puteți să dormiți pe partea dreaptă?\nSPEAKER_01: Nu. Mă trezesc.\nSPEAKER_00: Înțeles. Arătați-mi, vă rog, unde exact doare. Aici, pe vârful umărului, sau mai jos, mai în față?\nSPEAKER_01: Aici, pe laterală. Și uneori se lasă un pic pe braț, în jos.\nSPEAKER_00: Pe braț, până unde coboară?\nSPEAKER_01: Până pe la jumătatea brațului. Nu mai jos.\nSPEAKER_00: Bun. Amorțeală, furnicături în mână sau în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală. Puteți să ridicați brațul drept deasupra capului?\nSPEAKER_01: Greu. Doare tare când ajung pe aici.\nSPEAKER_00: Aproximativ la 90 de grade doare mai tare?\nSPEAKER_01: Da, undeva acolo.\nSPEAKER_00: Bun, înțeleg. Ați mai avut dureri la umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciodată. Ați mai făcut vreo terapie, masaj, fizioterapie?\nSPEAKER_01: Nu, prima dată.\nSPEAKER_00: Ok. Vă întreb câteva lucruri de rutină. Aveți tensiune, diabet, osteoporoză, vreo altă afecțiune?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Bine. Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun medicament. Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin cu brațul relaxat pe lângă corp, da? Acum ridic eu ușor brațul... la unghiul ăsta doare?\nSPEAKER_01: Da, chiar acolo.\nSPEAKER_00: Și dacă apăs aici, pe tendonul supraspinatos, doare?\nSPEAKER_01: Da, doare.\nSPEAKER_00: Înțeleg. Faceți acum o rotație externă împotriva rezistenței mele. Împingeți în mâna mea. Doare?\nSPEAKER_01: Puțin.\nSPEAKER_00: Puțin, bun. Avem cel mai probabil o tendinită la nivelul supraspinatos, umărul drept, cu un arc dureros între 60 și 120 de grade. Durerea iradiantă pe braț e tipică pentru această inflamație. Va trebui să reducem procesul inflamator și să recuperăm mobilitatea completă a umărului.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută brusc acum două săptămâni după ridicarea unei greutăți la locul de muncă (depozit). Durere VAS 7/10, accentuată la mișcare și nocturn, cu iradiere pe brațul drept până la jumătatea acestuia. Fără amorțeli.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "iradiere pe brațul drept până la jumătatea brațului",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinită supraspinatos umăr drept, arc dureros 60-120 grade\nObiective terapeutice:\n- reducerea procesului inflamator; recuperarea mobilității umărului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Brusc. Am ridicat ceva mai greu la serviciu.",
+      "vreo două săptămâni",
+      "Mai mult când mișc brațul. Noaptea mai rău.",
+      "Până pe la jumătatea brațului. Nu mai jos.",
+      "Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Cam 7."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Aici, pe laterală."
+    ],
+    "localizarea_durerii_alta": [
+      "uneori se lasă un pic pe braț, în jos.",
+      "Până pe la jumătatea brațului. Nu mai jos."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Avem cel mai probabil o tendinită la nivelul supraspinatos, umărul drept, cu un arc dureros între 60 și 120 de grade.",
+      "Va trebui să reducem procesul inflamator și să recuperăm mobilitatea completă a umărului."
+    ]
+  }
+}

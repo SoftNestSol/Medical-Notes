@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Durere lombară apărută după ridicat greutăți la muncă, de aproximativ două săptămâni",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contractură paravertebrală lombară, mai ales pe dreapta, apărută după efort fizic.\nObiective terapeutice: relaxarea musculaturii și reducerea inflamației din zonă."
+}

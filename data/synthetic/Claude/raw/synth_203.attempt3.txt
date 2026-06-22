@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ați venit.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am ridicat niște saci.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot timpul sau numai când mișcați brațul?\nSPEAKER_01: Când mișc.\nSPEAKER_00: Când ridicați brațul sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și când duceți mâna la spate?\nSPEAKER_01: Da, mai rău.\nSPEAKER_00: Noaptea vă trezește durerea?\nSPEAKER_01: Uneori.\nSPEAKER_00: Înțeles. Durerea se lasă și pe braț, coboară?\nSPEAKER_01: Nu, stă acolo.\nSPEAKER_00: Amorțeli în brațul stâng?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați brațul pentru mine, cât puteți de sus.\nSPEAKER_01: Până pe aici pot.\nSPEAKER_00: Ok, deci aproximativ la 90 de grade. Doare la fel și în față și lateral?\nSPEAKER_01: Mai rău lateral.\nSPEAKER_00: Am înțeles. Stați puțin, vă apăs zona de coafă rotatorilor, spuneți-mi dacă doare.\nSPEAKER_01: Da, doare.\nSPEAKER_00: Doare acolo. Și dacă apăs bicepsul, tendonul, doare?\nSPEAKER_01: Un pic.\nSPEAKER_00: Ok. Alte dureri în afară de umăr?\nSPEAKER_01: Nu, doar ăsta.\nSPEAKER_00: Afecțiuni pe care le știți, tensiune, diabet, osteoporoză, altceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nurofen, când nu mai pot.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Nu știu, poate o dată la câteva zile.\nSPEAKER_00: Doza?\nSPEAKER_01: Cea normală, 400.\nSPEAKER_00: Bun. Deci avem o limitare de mobilitate la nivelul umărului stâng, mai ales în abducție și în rotație internă. Durerea la palparea coafei rotatorilor și a tendonului bicepsului indică o tendinopatie a coafei rotatorilor, posibil și o inflamație a bursei subacromiale. Obiectivul nostru este să reducem inflamația, să recuperăm mobilitatea și să evităm cronicizarea.\nSPEAKER_01: Da, ok.\nSPEAKER_00: Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Pacient acuză durere la nivelul umărului stâng, instalată de aproximativ două săptămâni, după ridicare de saci. Durere la mișcare (mai intensă în abducție și rotație internă), VAS 5/10, cu treziri nocturne ocazionale. Fără iradiere sau amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": "400"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\nTendinopatie coafă rotatori umăr stâng, posibil inflamație bursă subacromială. Limitare mobilitate în abducție (aproximativ 90 de grade) și rotație internă. Durere la palparea coafei rotatorilor și a tendonului bicepsului.\nObiective terapeutice:\n- reducerea inflamației;\n- recuperarea mobilității umărului stâng;\n- prevenirea cronicizării."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Vreo două săptămâni.", "Am ridicat niște saci.", "Când mișc.", "Uneori.", "Nu, stă acolo.", "Nu."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nurofen, când nu mai pot.", "Cea normală, 400."],
+    "evaluare_functionala_initiala": ["deci aproximativ la 90 de grade", "Mai rău lateral.", "vă apăs zona de coafă rotatorilor, spuneți-mi dacă doare", "Da, doare.", "Și dacă apăs bicepsul, tendonul, doare?", "Un pic.", "avem o limitare de mobilitate la nivelul umărului stâng, mai ales în abducție și în rotație internă. Durerea la palparea coafei rotatorilor și a tendonului bicepsului indică o tendinopatie a coafei rotatorilor, posibil și o inflamație a bursei subacromiale. Obiectivul nostru este să reducem inflamația, să recuperăm mobilitatea și să evităm cronicizarea."]
+  }
+}

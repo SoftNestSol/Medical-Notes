@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și s-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște cutii la serviciu.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare vă doare acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Și când ridicați mâna sus?\nSPEAKER_01: Mai rău.\nSPEAKER_00: Mai rău, cât, tot 5 sau mai mult?\nSPEAKER_01: Poate 7.\nSPEAKER_00: Doare undeva anume, aici în față, sau mai sus, în vârf?\nSPEAKER_01: Aici, în față, cam pe aici.\nSPEAKER_00: Pe partea anterioară. Și se lasă cumva pe braț în jos?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu amorțește nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Noaptea vă deranjează, nu puteți dormi pe partea stângă?\nSPEAKER_01: Da, nu pot sta pe el.\nSPEAKER_00: Ok. Alte probleme de sănătate, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciuna? Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreo medicație acum?\nSPEAKER_01: Iau un ibuprofen din când în când.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Când mă doare mai tare. Nu în fiecare zi.\nSPEAKER_00: Ok. Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Haideți să stați în picioare să fac câteva teste. Ridicați mâna stângă în față, încet. Doare?\nSPEAKER_01: Da, de pe aici.\nSPEAKER_00: De la aproximativ 60 de grade începe durerea. Bun. Acum duceti-o lateral, în lateral.\nSPEAKER_01: Asta doare mai tare.\nSPEAKER_00: Mai tare pe lateral. Bun. Apăs acum pe bicepsul lung, pe tendon, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Doare la palpare pe bicepsul lung. Rotația internă o puteți face?\nSPEAKER_01: Merge, dar puțin.\nSPEAKER_00: Limitată. Bun. Deci avem o inflamație la nivelul tendonului bicepsului lung și posibil și a bursei subacromiale. Asta înseamnă că tendonul s-a inflamat din cauza efortului respectiv cu cutiile. O să lucrăm să reducem inflamația și să refacem mobilitatea umărului. Da?\nSPEAKER_01: Da.\nSPEAKER_00: Și pentru ibuprofen, dacă aveți nevoie, îl puteți lua, dar nu pe stomacul gol.\nSPEAKER_01: Ok.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang aparuta dupa efort fizic (mutat cutii la serviciu), cu debut de aproximativ doua saptamani.",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie tendon biceps lung;\n- posibila inflamatie bursa subacromiala;\nObiective terapeutice:\n- reducerea inflamatiei;\n- refacerea mobilitatii umarului stang;"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "De vreo două săptămâni.", "Am mutat niște cutii la serviciu."],
+    "evaluarea_durerii_vas": ["Vreo 5.", "Poate 7."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Iau un ibuprofen din când în când."],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendonului bicepsului lung și posibil și a bursei subacromiale", "O să lucrăm să reducem inflamația și să refacem mobilitatea umărului."]
+  }
+}

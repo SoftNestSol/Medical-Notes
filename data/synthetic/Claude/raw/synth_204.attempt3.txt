@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, vă rog, cu ce problemă ați venit.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Spatele. Zona de jos, de mijloc, de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Zona lombară. De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. A apărut brusc sau treptat?\nSPEAKER_01: Brusc.\nSPEAKER_00: Ați făcut ceva în ziua aia, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare insuportabil, cât de tare doare acum?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Durerea se lasă și pe picior?\nSPEAKER_01: Nu.\nSPEAKER_00: Numai în zona lombară. Amorțeală la picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Dimineața, când vă ridicați din pat, doare mai tare?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Și trece după ce vă mișcați?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Stați mult jos, la birou?\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Toată ziua la birou. Când stați jos doare mai rău decât când stați în picioare?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Luați ceva medicamente pentru durere?\nSPEAKER_01: Ibuprofen.\nSPEAKER_00: Ibuprofen. Ce doză?\nSPEAKER_01: Nu știu, cele de 400.\nSPEAKER_00: De 400. De cât timp îl luați?\nSPEAKER_01: De când a apărut durerea.\nSPEAKER_00: Ajută?\nSPEAKER_01: Un pic.\nSPEAKER_00: Un pic. Alte afecțiuni, tensiune, diabet, hernie de disc diagnosticată?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să fac câteva teste. Stați în picioare, cu spatele la mine, relaxat.\nSPEAKER_01: Bine.\nSPEAKER_00: Vă apăs zona lombară, îmi spuneți dacă doare. Doare?\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Stați puțin pe piciorul drept. Vă ține?\nSPEAKER_01: Da.\nSPEAKER_00: Aplecați-vă în față, ușor.\nSPEAKER_01: Doare când mă aplec.\nSPEAKER_00: Doare. Se acutizează jos?\nSPEAKER_01: Da.\nSPEAKER_00: Am înțeles. Deci avem o contractură musculară paravertebrală lombară. Mișcarea de flexie limitată și dureroasă. Probabilă și o deshidratare discală de fond, dat fiind că stați mult la birou și durerea a apărut la efort brusc. Obiectivul nostru în primă fază e să reducem contractura și inflamația, să recâștigăm mobilitatea, și o să vă arăt și câteva exerciții pentru acasă.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă apărută brusc acum două săptămâni după mutare mobilă. VAS 6/10. Accentuată la flexie și la stat prelungit la birou. Redoare matinală, cedează la mișcare. Fără iradiere pe membre, fără amorțeli.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nDurere la palpare paravertebral lombar. Flexie lombară dureroasă și limitată. Redoare matinală prezentă, cedează la mișcare.\nDiagnostic:\nContractură musculară paravertebrală lombară; probabilă deshidratare discală de fond.\nObiective terapeutice:\nReducerea contracturii și a inflamației; recâștigarea mobilității lombare; exerciții pentru acasă."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos.",
+      "De vreo două săptămâni.",
+      "Am mutat niște mobilă.",
+      "Doare când mă aplec.",
+      "Da, toată ziua.",
+      "Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 6."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "Zona lombară."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofen.",
+      "Nu știu, cele de 400."
+    ],
+    "evaluare_functionala_initiala": [
+      "Deci avem o contractură musculară paravertebrală lombară.",
+      "Mișcarea de flexie limitată și dureroasă.",
+      "Probabilă și o deshidratare discală de fond, dat fiind că stați mult la birou și durerea a apărut la efort brusc.",
+      "Obiectivul nostru în primă fază e să reducem contractura și inflamația, să recâștigăm mobilitatea, și o să vă arăt și câteva exerciții pentru acasă."
+    ]
+  }
+}

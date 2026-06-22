@@ -1,0 +1,319 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, domnule. Luați loc, vă rog."
+    },
+    {
+      "start": 2.78,
+      "end": 4.68,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua. Mulțumesc."
+    },
+    {
+      "start": 4.8,
+      "end": 7.84,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, cu ce problemă ne confruntăm azi?"
+    },
+    {
+      "start": 7.96,
+      "end": 24.68,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare mijlocul spatelui de ceva vreme. Adică nu e chiar nou, dar s-a acutizat în ultimele două săptămâni și nu mai pot să stau liniștit. Dimineața când mă scol e cel mai rău, simt că nu mai pot să mă îndrept."
+    },
+    {
+      "start": 24.8,
+      "end": 26.7,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Mijlocul spatelui, zona toracală."
+    },
+    {
+      "start": 26.82,
+      "end": 49.62,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact pe acolo, cam la nivelul omoplaților, poate puțin mai jos. Uneori simt că mă strânge și în piept, știți, parcă ar fi o presiune. Și m-am speriat inițial, m-am gândit la inimă, dar am fost la doctor, mi-a zis că inima e bine, mi-a făcut EKG și a zis că nu-i nimic cardiac."
+    },
+    {
+      "start": 49.74,
+      "end": 60.76,
+      "speaker": "SPEAKER_00",
+      "text": "Bine că ați verificat. Deci durerea asta din torace nu e cardiacă, e musculo-scheletală cel mai probabil. Pe o scară de la 0 la 10, cum estimați intensitatea?"
+    },
+    {
+      "start": 60.88,
+      "end": 69.62,
+      "speaker": "SPEAKER_01",
+      "text": "Dimineața, când mă ridic din pat, aș zice un 7. În timpul zilei mai scade, ajunge la un 4-5, depinde ce fac."
+    },
+    {
+      "start": 69.74,
+      "end": 70.54,
+      "speaker": "SPEAKER_00",
+      "text": "Deci fluctuează."
+    },
+    {
+      "start": 70.66,
+      "end": 84.34,
+      "speaker": "SPEAKER_01",
+      "text": "Da, fluctuează. Dacă stau mult pe scaun la birou, se înrăutățește. Lucrez în contabilitate, stau câte 8-9 ore pe zi la calculator, și simt că la sfârșitul zilei mă ține fix pe acolo, în mijloc."
+    },
+    {
+      "start": 84.46,
+      "end": 88.64,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și durerea rămâne locală, mijlocul spatelui, sau se lasă undeva?"
+    },
+    {
+      "start": 88.76,
+      "end": 98.64,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori simt ceva și spre coaste, pe dreapta mai mult. Nu jos, nu pe picior, pe acolo nu. Dar pe coastă, parcă o senzație de apăsare."
+    },
+    {
+      "start": 98.76,
+      "end": 103.7,
+      "speaker": "SPEAKER_00",
+      "text": "Pe traiectul coastei, pe dreapta. Și asta apare odată cu durerea din spate?"
+    },
+    {
+      "start": 103.82,
+      "end": 110.28,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, cam în același timp. Mai ales când respiră adânc, simt că mă jenează și acolo."
+    },
+    {
+      "start": 110.4,
+      "end": 112.3,
+      "speaker": "SPEAKER_00",
+      "text": "Când inspirați adânc se accentuează?"
+    },
+    {
+      "start": 112.42,
+      "end": 115.46,
+      "speaker": "SPEAKER_01",
+      "text": "Da, un pic. Nu dramatic, dar se simte."
+    },
+    {
+      "start": 115.58,
+      "end": 121.66,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. De când a apărut, ați spus două săptămâni mai intens, dar era ceva și înainte?"
+    },
+    {
+      "start": 121.78,
+      "end": 144.96,
+      "speaker": "SPEAKER_01",
+      "text": "Păi da, de vreo două luni tot am simțit câte ceva, dar nu m-am băgat. Am zis că trece. Și acum două săptămâni am stat un weekend întreg să montez niște mobilă, știți cum e, stai aplecat, ridici, întorci, și după aia n-am mai putut. A doua zi de dimineață nu mai puteam să mă ridic din pat normal."
+    },
+    {
+      "start": 145.08,
+      "end": 147.74,
+      "speaker": "SPEAKER_00",
+      "text": "Deci efortul ăla a declanșat criza acută."
+    },
+    {
+      "start": 147.86,
+      "end": 155.46,
+      "speaker": "SPEAKER_01",
+      "text": "Exact. Am stat și cu geaca pe mine în casă, că îmi era parcă mai bine cu căldura pe spate."
+    },
+    {
+      "start": 155.58,
+      "end": 159.76,
+      "speaker": "SPEAKER_00",
+      "text": "Da, căldura locală ajută în spasm. Ați luat ceva pentru durere?"
+    },
+    {
+      "start": 159.88,
+      "end": 168.24,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat un Paracetamol de vreo două ori, dar nu prea m-a ajutat. Nu iau nimic altceva, nu sunt fan pastile."
+    },
+    {
+      "start": 168.36,
+      "end": 170.26,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Altă medicație, ceva curent?"
+    },
+    {
+      "start": 170.38,
+      "end": 174.56,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Sunt sănătos în rest, sau cel puțin așa sper."
+    },
+    {
+      "start": 174.68,
+      "end": 176.2,
+      "speaker": "SPEAKER_00",
+      "text": "Tensiune, diabet, probleme cardiovasculare?"
+    },
+    {
+      "start": 176.32,
+      "end": 180.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu. La analizele de acum șase luni era totul în regulă."
+    },
+    {
+      "start": 181.0,
+      "end": 183.66,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Alte afecțiuni în antecedente, operații, fracturi?"
+    },
+    {
+      "start": 183.78,
+      "end": 193.28,
+      "speaker": "SPEAKER_01",
+      "text": "Am avut o operație la menisc, la genunchiul stâng, acum vreo opt ani. Fotbal, știți cum e. Dar de atunci nu m-a mai deranjat."
+    },
+    {
+      "start": 193.4,
+      "end": 196.06,
+      "speaker": "SPEAKER_00",
+      "text": "Și la coloană, ați mai avut probleme?"
+    },
+    {
+      "start": 196.18,
+      "end": 209.86,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, la un control de acum câțiva ani, medicul mi-a spus că am o ușoară scolioză. Nu severă, a zis că e minoră, n-a zis să fac nimic special. Și am uitat de ea."
+    },
+    {
+      "start": 209.98,
+      "end": 218.34,
+      "speaker": "SPEAKER_00",
+      "text": "Da, o scolioză ușoară poate contribui la tensiunea musculară pe termen lung. Și asta s-ar putea să fie parte din context."
+    },
+    {
+      "start": 218.46,
+      "end": 234.04,
+      "speaker": "SPEAKER_01",
+      "text": "Credeți? Adică, poate de aia mă doare? Că eu mă gândeam, poate e ceva mai grav, știți, că am citit pe internet și m-am speriat că ar putea fi hernie de disc toracală sau ceva. M-a apucat o paranoia."
+    },
+    {
+      "start": 234.16,
+      "end": 241.0,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg teama. Hernia toracală există, dar e mai rară. Haideți să facem câteva teste și vedem ce avem."
+    },
+    {
+      "start": 241.12,
+      "end": 242.64,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, vă rog."
+    },
+    {
+      "start": 242.76,
+      "end": 252.26,
+      "speaker": "SPEAKER_00",
+      "text": "Ridicați-vă puțin, vă rog. Stați drept, picioarele ușor depărtate. Bun. Observ că aveți o ușoară rotație a trunchiului, umărul drept e puțin mai avansat."
+    },
+    {
+      "start": 252.38,
+      "end": 256.56,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mi s-a mai spus chestia asta. Că stau strâmb."
+    },
+    {
+      "start": 256.68,
+      "end": 259.34,
+      "speaker": "SPEAKER_00",
+      "text": "Aplecați-vă puțin în față, încet. Doare?"
+    },
+    {
+      "start": 259.46,
+      "end": 264.02,
+      "speaker": "SPEAKER_01",
+      "text": "Da, mai ales când ajung pe la jumătate, se simte în mijloc."
+    },
+    {
+      "start": 264.14,
+      "end": 267.18,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Îndreptați-vă. Și pe spate, extensie ușoară?"
+    },
+    {
+      "start": 267.3,
+      "end": 269.58,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, asta doare mai tare."
+    },
+    {
+      "start": 269.7,
+      "end": 276.16,
+      "speaker": "SPEAKER_00",
+      "text": "Extensia accentuează. Bun. Stați pe scaun acum. Apăs cu degetele pe paravertebral, spuneți-mi dacă e sensibilitate."
+    },
+    {
+      "start": 276.28,
+      "end": 280.08,
+      "speaker": "SPEAKER_01",
+      "text": "Pe stânga nu prea. Pe dreapta... da, acolo doare. Da."
+    },
+    {
+      "start": 280.2,
+      "end": 287.04,
+      "speaker": "SPEAKER_00",
+      "text": "La nivelul T5-T7 pe dreapta, am sensibilitate la palpare. Și la nivelul articulațiilor costo-vertebrale pe dreapta."
+    },
+    {
+      "start": 287.16,
+      "end": 288.68,
+      "speaker": "SPEAKER_01",
+      "text": "Adică acolo e problema?"
+    },
+    {
+      "start": 288.8,
+      "end": 301.72,
+      "speaker": "SPEAKER_00",
+      "text": "Cel mai probabil, da. Avem un blocaj funcțional la nivel toracal mediu, cu tensiune musculară paravertebrală și posibil iritație a articulațiilor costo-vertebrale pe dreapta. Asta explică și senzația de pe coastă la respirație."
+    },
+    {
+      "start": 301.84,
+      "end": 304.12,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, deci nu e nimic grav."
+    },
+    {
+      "start": 304.24,
+      "end": 319.44,
+      "speaker": "SPEAKER_00",
+      "text": "Nu e ceva acut alarmant, dar trebuie tratat. Scolioza ușoară pe care o aveți creează o distribuție asimetrică a tensiunii musculare și asta, combinat cu postura de la birou și efortul de acum două săptămâni, a dus la blocajul ăsta."
+    },
+    {
+      "start": 319.56,
+      "end": 332.48,
+      "speaker": "SPEAKER_01",
+      "text": "Și ce facem? Adică, eu am venit și la un coleg care mi-a zis să fac kinetoterapie, dar n-am apucat, că am o viață destul de agitată, doi copii, știți cum e."
+    },
+    {
+      "start": 332.6,
+      "end": 344.0,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. O să lucrăm pe mobilizarea articulațiilor toracale, pe relaxarea musculaturii paravertebrale și o să vă dau și câteva exerciții simple pe care le puteți face acasă, nu durează mult."
+    },
+    {
+      "start": 344.12,
+      "end": 346.02,
+      "speaker": "SPEAKER_01",
+      "text": "Perfect, că altfel nu apuc."
+    },
+    {
+      "start": 346.14,
+      "end": 352.98,
+      "speaker": "SPEAKER_00",
+      "text": "Și vă recomand să ajustați un pic poziția la birou, scaunul, monitorul. Asta face diferența pe termen lung."
+    },
+    {
+      "start": 353.1,
+      "end": 358.04,
+      "speaker": "SPEAKER_01",
+      "text": "Da, știu că stau prost, mi se mai spune. Bine, hai să facem."
+    }
+  ]
+}

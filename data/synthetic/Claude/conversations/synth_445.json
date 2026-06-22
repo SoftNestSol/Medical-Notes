@@ -1,0 +1,253 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, domnule!"
+    },
+    {
+      "start": 1.26,
+      "end": 2.78,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.9,
+      "end": 5.18,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi și numele, vă rog."
+    },
+    {
+      "start": 5.3,
+      "end": 6.44,
+      "speaker": "SPEAKER_01",
+      "text": "Florescu, Andrei Florescu."
+    },
+    {
+      "start": 6.56,
+      "end": 7.36,
+      "speaker": "SPEAKER_00",
+      "text": "Andrei, vârsta?"
+    },
+    {
+      "start": 7.48,
+      "end": 13.94,
+      "speaker": "SPEAKER_01",
+      "text": "38 de ani. Păi, am 38, deși mă simt de 60 pe bucata asta de timp, sincer."
+    },
+    {
+      "start": 14.06,
+      "end": 15.96,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem?"
+    },
+    {
+      "start": 16.08,
+      "end": 40.4,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, mă doare umărul, cel drept, de ceva vreme. Adică am început să simt în urmă cu vreo trei săptămâni, după ce am mutat niște cutii mai grele, știți cum e, mutam niște lucruri prin casă, câteva rafturi, și a doua zi m-am trezit și nu mai puteam ridica brațul sus. Adică nu că nu puteam, dar doare groaznic când încerc să ridic."
+    },
+    {
+      "start": 40.52,
+      "end": 44.32,
+      "speaker": "SPEAKER_00",
+      "text": "Deci durerea a apărut după un efort, după mutatul cutiilor."
+    },
+    {
+      "start": 44.44,
+      "end": 60.02,
+      "speaker": "SPEAKER_01",
+      "text": "Exact, exact. Și la început am crezut că trece singură, știți, că mai am zile când mă mai dor mușchii după ce fac ceva mai greu. Dar de data asta nu a trecut. Ba chiar parcă s-a înrăutățit un pic."
+    },
+    {
+      "start": 60.14,
+      "end": 63.94,
+      "speaker": "SPEAKER_00",
+      "text": "Și acum, la momentul de față, unde exact simțiți durerea?"
+    },
+    {
+      "start": 64.06,
+      "end": 75.08,
+      "speaker": "SPEAKER_01",
+      "text": "Aici, pe umărul drept, mai mult pe partea din față și lateral. Când ridic brațul în lateral sau când încerc să pun mâna la spate, îmi taie, nu pot."
+    },
+    {
+      "start": 75.2,
+      "end": 84.32,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, cât de tare doare când ridicați brațul?"
+    },
+    {
+      "start": 84.44,
+      "end": 98.88,
+      "speaker": "SPEAKER_01",
+      "text": "Când ridic în sus, așa, aș zice un 7. Da, cam 7. La repaus mai mic, poate un 3, dar noaptea e mai rău, nu știu de ce, mă trezesc și nu pot sta pe partea dreaptă deloc."
+    },
+    {
+      "start": 99.0,
+      "end": 100.52,
+      "speaker": "SPEAKER_00",
+      "text": "Noaptea vă trezește durerea."
+    },
+    {
+      "start": 100.64,
+      "end": 116.6,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, de vreo două ori pe noapte. Și asta mă obosește și pe mine, sunt mai iritabil, soția spune că sunt de nesuportat, haha. Dar serios, mă îngrijorează că poate e ceva mai grav, nu știu, un tendon rupt sau ceva."
+    },
+    {
+      "start": 116.72,
+      "end": 122.04,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg îngrijorarea. Durerea se lasă și pe braț în jos, pe cot, pe mână?"
+    },
+    {
+      "start": 122.16,
+      "end": 127.48,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, rămâne sus, pe umăr. Poate un pic spre ceafă uneori, dar mai rar."
+    },
+    {
+      "start": 127.6,
+      "end": 129.5,
+      "speaker": "SPEAKER_00",
+      "text": "Spre ceafă, pe partea dreaptă?"
+    },
+    {
+      "start": 129.62,
+      "end": 133.42,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, dar asta mai rar, nu e problema principală."
+    },
+    {
+      "start": 133.54,
+      "end": 138.1,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai pățit ceva la umărul ăsta înainte? Vreo luxație, vreo lovitură?"
+    },
+    {
+      "start": 138.22,
+      "end": 149.24,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată. Umărul ăsta a fost bine mereu. Am mai avut o problemă cu genunchiul stâng acum câțiva ani, după ce am jucat fotbal, dar s-a rezolvat singur."
+    },
+    {
+      "start": 149.36,
+      "end": 153.16,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Tensiune, diabet, boli de inimă, osteoporoză, ceva de genul?"
+    },
+    {
+      "start": 153.28,
+      "end": 160.12,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am nimic din astea. Sunt destul de sănătos în rest, merg la sală ocazional, nu fumez."
+    },
+    {
+      "start": 160.24,
+      "end": 162.9,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Luați vreun medicament în mod curent?"
+    },
+    {
+      "start": 163.02,
+      "end": 174.42,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic curent. Am luat un Voltaren gel pe umăr, de vreo câteva ori, că aveam în casă, dar nu știu dacă a ajutat cu ceva. Nu am luat pastile."
+    },
+    {
+      "start": 174.54,
+      "end": 176.06,
+      "speaker": "SPEAKER_00",
+      "text": "Gel antiinflamator, deci. Alergii?"
+    },
+    {
+      "start": 176.18,
+      "end": 176.98,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 177.1,
+      "end": 183.94,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Haideți să facem câteva mișcări, să vedem cum stăm. Ridicați brațul drept încet, în față, cât puteți."
+    },
+    {
+      "start": 184.06,
+      "end": 187.1,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe aici, cam atât. Mai mult doare."
+    },
+    {
+      "start": 187.22,
+      "end": 190.64,
+      "speaker": "SPEAKER_00",
+      "text": "Până la aproximativ 90 de grade. Acum în lateral."
+    },
+    {
+      "start": 190.76,
+      "end": 195.7,
+      "speaker": "SPEAKER_01",
+      "text": "Uite, pe aici se oprește, cam la același unghi, și trage foarte tare."
+    },
+    {
+      "start": 195.82,
+      "end": 200.76,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Și acum puneți mâna la spate, ca și cum ați prinde centura."
+    },
+    {
+      "start": 200.88,
+      "end": 203.92,
+      "speaker": "SPEAKER_01",
+      "text": "Asta nu pot aproape deloc, mă doare imediat."
+    },
+    {
+      "start": 204.04,
+      "end": 210.12,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Apăs un pic aici pe zona de sus a umărului, spuneți-mi dacă doare."
+    },
+    {
+      "start": 210.24,
+      "end": 212.14,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, acolo e sensibil."
+    },
+    {
+      "start": 212.26,
+      "end": 214.54,
+      "speaker": "SPEAKER_00",
+      "text": "Și aici, pe bureletul din față?"
+    },
+    {
+      "start": 214.66,
+      "end": 217.32,
+      "speaker": "SPEAKER_01",
+      "text": "Și acolo, da. Ăsta e mai sensibil."
+    },
+    {
+      "start": 217.44,
+      "end": 253.54,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ce pot să vă spun în momentul de față este că avem o inflamație la nivelul tendoanelor din umăr, zona de coafă a rotatorilor, cel mai probabil. Mobilitatea e limitată destul de clar pe rotație internă și pe abducție. Nu e ceva care să mă îngrijoreze în sensul că e ireversibil, dar trebuie să lucrăm. Obiectivul nostru pentru început este să reducem inflamația locală și să recuperăm mobilitatea. Ar fi util și un RMN dacă durerea nu cedează în câteva ședințe, să excludem o ruptură parțială de tendon, dar putem începe terapia de azi."
+    },
+    {
+      "start": 253.66,
+      "end": 266.2,
+      "speaker": "SPEAKER_01",
+      "text": "Da, bine, vreau să scăpăm de ea, că mă afectează și la muncă, lucrez la birou și nu pot sta cu mâna pe mouse mai mult de o oră fără să mă doară."
+    },
+    {
+      "start": 266.32,
+      "end": 268.22,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Haideți pe masă atunci."
+    }
+  ]
+}

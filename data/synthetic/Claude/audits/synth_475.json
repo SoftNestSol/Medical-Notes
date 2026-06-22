@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_475",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere în ceafă de vreo două săptămâni",
+      "mă doare ceafa, sus, chiar la baza craniului",
+      "mai rău dimineața și seara când stau la calculator"
+    ],
+    "evaluarea_durerii_vas": [
+      "6, aș zice"
+    ],
+    "localizarea_durerii": [
+      "mă doare ceafa, sus, chiar la baza craniului",
+      "mai am și niște dureri de cap din cauza asta",
+      "durerea de cap apare odată cu durerea din ceafă"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt ceva și pe partea stângă, pe gât"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am mai luat Nurofen când mă doare mai tare, câte unul, dar nu în fiecare zi"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o contractură musculară la nivel cervical superior, mai accentuată pe stânga, cu limitarea rotației spre stânga",
+      "Durerea de cap pe care o simțiți dimineața și seara e cel mai probabil de origine cervicală, ce se numește cefalee cervicogenă",
+      "Obiectivul nostru va fi să relaxăm musculatura, să recăpătăm mobilitatea cervicală și să reducem durerile de cap",
+      "acolo, sus, la baza craniului, da, acolo e cel mai rău",
+      "Uff, asta e mai grea. Simt că se blochează pe la jumătate"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22971,
+    "inference_geo": "global",
+    "input_tokens": 362,
+    "output_tokens": 2572,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

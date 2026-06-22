@@ -1,0 +1,26 @@
+{
+  "motivul_prezentarii": "Durere lombară joasă de aproximativ două luni, accentuată dimineața la ridicarea din pat și după stat prelungit la birou. Episod anterior similar acum doi ani, remis spontan. Senzație difuză pe fesa stângă, fără iradiere sub genunchi.",
+  "evaluarea_durerii_vas": [
+    6,
+    4
+  ],
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": "fesier stâng",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 mg, dimineața"
+    },
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: lombalgie mecanică, posibil pe fond de disc uzat L4-L5 sau L5-S1; contractură piriform stâng; blocaj muscular paravertebral lombar; mobilitate redusă la flexie.\nObiective terapeutice: reducerea inflamației și a contracturii musculare; refacerea mobilității coloanei lombare."
+}

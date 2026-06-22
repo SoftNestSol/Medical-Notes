@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_469",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare cotul, de ceva vreme, pe partea asta... nu știu, pe dreapta.",
+      "A început mai ușor și acum s-a mai acutizat.",
+      "când apuc ceva, când încerc să strâng în mână sau să ridic ceva mai greu. Și mai ales când întorc mâna",
+      "Lucrez la birou, stau mult la calculator. Și mai fac și tenis de câmp, amator"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când e mai rău, poate un șapte.",
+      "Un patru, pe la patru, ceva de genul ăsta."
+    ],
+    "localizarea_durerii": [
+      "cotul drept",
+      "Pe exterior, pe-aici, da. Pe exterior."
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt ceva și pe... pe antebraț, în jos, pe față, pe-aici",
+      "Pe dosul mâinii câteodată."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am hipotiroidism, iau medicație pentru asta."
+    ],
+    "medicatie_actuala": [
+      "Euthyrox, zilnic, 50 de micrograme."
+    ],
+    "evaluare_functionala_initiala": [
+      "Ceea ce avem se numește epicondilită laterală, sau cum se mai știe popular, cotul tenismanului.",
+      "Obiectivul nostru acum este să reducem inflamația locală la nivelul tendonului, să decontracturăm musculatura extensoare a antebrațului, să refacem mobilitatea articulației cotului și să prevenim recidivele."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14094,
+    "inference_geo": "global",
+    "input_tokens": 364,
+    "output_tokens": 3338,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

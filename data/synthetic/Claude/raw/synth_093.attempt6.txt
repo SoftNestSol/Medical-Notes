@@ -1,0 +1,55 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi cu ce problemă veniți.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, zona de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut după ceva anume? Ați cărat ceva, ați stat mult jos?\nSPEAKER_01: Am stat mult la birou.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare vă doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot timpul sau numai când faceți ceva anume?\nSPEAKER_01: Când stau jos mult și când mă ridic.\nSPEAKER_00: Când vă ridicați din scaun. Și dacă mergeți, trece?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Durerea coboară pe picior, pe fesă, undeva mai jos?\nSPEAKER_01: Nu.\nSPEAKER_00: Doar în spate.\nSPEAKER_01: Da.\nSPEAKER_00: Amorțeli la picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Aveți tensiune, diabet, osteoporoză, vreo boală mai veche?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Ibuprofen, uneori.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Când mă doare tare, nu în fiecare zi.\nSPEAKER_00: Ok. Haideți în picioare, cu spatele la mine. Relaxați umerii.\nSPEAKER_01: Gata.\nSPEAKER_00: Văd o ușoară anteverisie de bazin. Aplecați-vă în față, ușor.\nSPEAKER_01: Cam până aici pot.\nSPEAKER_00: Doare când vă aplecați?\nSPEAKER_01: Da, jos.\nSPEAKER_00: Limitare la flexie lombară, durere la mișcare. Dați-vă pe spate acum, ușor.\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin la extensie, bun. Haideți pe masă cu fața în sus. Ridic piciorul drept, îmi spuneți dacă doare.\nSPEAKER_01: Nu.\nSPEAKER_00: Și stângul.\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Apăs paravertebral lombar.\nSPEAKER_01: Ah, acolo doare.\nSPEAKER_00: Pe ambele părți?\nSPEAKER_01: Mai mult pe dreapta.\nSPEAKER_00: Înțeleg. Avem o contractură paravertebrală lombară, mai accentuată pe dreapta, cu limitare la flexie. Fără iradiere, fără semne de radiculopatie. O să lucrăm să relaxăm musculatura asta și să vedem cum evoluează.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă, apărută în context de sedentarism prelungit la birou, prezentă de aproximativ două săptămâni. Durerea apare la șezut prelungit și la ridicarea din scaun, ameliorată parțial la mers. Fără iradiere pe membrul inferior, fără amorțeli.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nAnteverisie ușoară de bazin. Limitare la flexie lombară cu durere. Extensia lombară mai puțin dureroasă. Test Lasègue negativ bilateral. Contractură paravertebrală lombară la palpare, mai accentuată pe dreapta.\nDiagnostic:\nContractură paravertebrală lombară cu limitare la flexie, fără semne de radiculopatie.\nObiective terapeutice:\nRelaxarea musculaturii paravertebrale lombare și reducerea durerii."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele",
+      "Jos",
+      "Am stat mult la birou",
+      "Vreo două săptămâni",
+      "Când stau jos mult și când mă ridic",
+      "Da, un pic",
+      "Nu",
+      "Nu"
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5"
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele",
+      "Jos",
+      "Doar în spate"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Ibuprofen, uneori"
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară anteverisie de bazin",
+      "Limitare la flexie lombară, durere la mișcare",
+      "Mai puțin la extensie",
+      "Apăs paravertebral lombar",
+      "Ah, acolo doare",
+      "Mai mult pe dreapta",
+      "Avem o contractură paravertebrală lombară, mai accentuată pe dreapta, cu limitare la flexie. Fără iradiere, fără semne de radiculopatie."
+    ]
+  }
+}

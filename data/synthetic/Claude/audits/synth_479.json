@@ -1,0 +1,53 @@
+{
+  "conversation_id": "synth_479",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere... pe aici, la cot, pe partea asta dreaptă. De ceva vreme.",
+      "poate vreo lună, lună și ceva",
+      "Cred că de la birou, stau mult la calculator. Sau poate de când am reparat gardul, am săpat, am carat niște lucruri.",
+      "Când strâng ceva, sau când ridic o cană, nu știu, orice duc la gură, cam doare.",
+      "dacă cineva atinge acolo, doare destul de tare"
+    ],
+    "evaluarea_durerii_vas": [
+      "Poate un 7, 7 pe acolo."
+    ],
+    "localizarea_durerii": [
+      "am o durere... pe aici, la cot, pe partea asta dreaptă",
+      "acolo e cel mai tare",
+      "Pe zona externă a cotului"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă un pic pe aici, pe antebraț, uneori.",
+      "Externă, pe aici. Asta în sus, când ridic ceva."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am ceva cu tiroida, da. Hipotiroidie mi-au spus."
+    ],
+    "medicatie_actuala": [
+      "Euthyrox. Nu știu doza exact, e pe cutie acasă.",
+      "Am luat Voltaren gel, îl pun pe acolo seara."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o epicondilită laterală, ceea ce se numește colocvial cotul tenismenului",
+      "Tendoanele extensorilor se inflamează la inserția lor pe epicondilul lateral.",
+      "Vom lucra local pe reducerea inflamației, pe detensionarea musculaturii extensorilor antebrațului, și o să vă dau și niște exerciții de stretching pe care să le faceți acasă.",
+      "acolo e cel mai tare",
+      "crește"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22971,
+    "inference_geo": "global",
+    "input_tokens": 364,
+    "output_tokens": 3387,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo trei săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Și la mișcare, când ridicați brațul?\nSPEAKER_01: Mai rău. Poate 7.\nSPEAKER_00: Durerea e mai mult în față, în spate sau lateral?\nSPEAKER_01: Lateral, pe aici.\nSPEAKER_00: Și se lasă pe braț în jos?\nSPEAKER_01: Un pic, până la cot cam.\nSPEAKER_00: Până la cot. Amorțește ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte probleme de sănătate, tensiune, diabet, ceva?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Luați ceva pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: Zilnic?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați brațul pentru mine, cât puteți.\nSPEAKER_01: Până pe la atât.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă duceți brațul în spate?\nSPEAKER_01: Și acolo doare.\nSPEAKER_00: Vă apăs puțin aici, pe deltoïd. Doare?\nSPEAKER_01: Da, direct.\nSPEAKER_00: Și mai sus, aici pe tendoane?\nSPEAKER_01: Mai tare.\nSPEAKER_00: Înțeles. Pare o inflamație la tendoanele rotatorilor, ce avem noi aici. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea umărului. Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept aparuta dupa mutare de mobila, de aproximativ trei saptamani",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "iradiere pe brat pana la cot",
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame zilnic"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie tendoane rotatori umar drept\nObiective terapeutice: reducerea inflamatiei; recastigarea mobilitatii umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă.", "Vreo trei săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 5.", "Mai rău. Poate 7."],
+    "localizarea_durerii": ["Dreptul.", "Lateral, pe aici."],
+    "localizarea_durerii_alta": ["Un pic, până la cot cam."],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Enalapril.", "10 miligrame.", "Da."],
+    "evaluare_functionala_initiala": ["Pare o inflamație la tendoanele rotatorilor, ce avem noi aici. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea umărului."]
+  }
+}

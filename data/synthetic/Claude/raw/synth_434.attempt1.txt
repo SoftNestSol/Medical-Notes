@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc. Am ridicat ceva greu.\nSPEAKER_00: Ce ați ridicat?\nSPEAKER_01: Niște saci cu ciment.\nSPEAKER_00: Am înțeles. Și în momentul în care ați ridicat, ați simțit o durere imediată sau a apărut după?\nSPEAKER_01: Imediat.\nSPEAKER_00: Imediat. Doare și în repaus sau doar când ridicați mâna?\nSPEAKER_01: Mai mult când ridic.\nSPEAKER_00: Când ridicați brațul, la ce înălțime începe să doară?\nSPEAKER_01: Cam pe la jumătate.\nSPEAKER_00: Pe la nouăzeci de grade, deci. Și mai sus de atât?\nSPEAKER_01: Nu prea pot ajunge mai sus.\nSPEAKER_00: Înțeles. Doare și spre gât, spre ceafă, sau doar în umăr?\nSPEAKER_01: Doar în umăr.\nSPEAKER_00: Amorțește ceva, degetele, mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Pe o scară de la zero la zece, unde zero nu doare deloc și zece doare foarte tare, cât e durerea acum?\nSPEAKER_01: Acum vreo cinci.\nSPEAKER_00: Cinci. Și când ridicați mâna, crește?\nSPEAKER_01: Da, ajunge pe la opt.\nSPEAKER_00: Pe la opt. Ați aplicat ceva pe zona asta, gel, gheață?\nSPEAKER_01: Am pus gheață vreo două zile.\nSPEAKER_00: Și a ajutat?\nSPEAKER_01: Un pic.\nSPEAKER_00: Bun. Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale anterioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere prin sânge, implanturi metalice?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva mișcări să vedem cum stăm. Ridicați brațul drept lateral, ușor, până simțiți că doare.\nSPEAKER_01: Până aici.\nSPEAKER_00: Da, pe la nouăzeci de grade se blochează. Acum înainte, ridicați în față.\nSPEAKER_01: Puțin mai sus pot.\nSPEAKER_00: Da, flexia e mai liberă decât abducția. Acum întoarceți palma în sus și ridicați. Doare?\nSPEAKER_01: Da, tot cam la fel.\nSPEAKER_00: Apăs puțin aici, pe capul humerusului. Spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare tare.\nSPEAKER_00: Și aici, mai sus pe acromion?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeles. Pare a fi o inflamație la nivelul coifului rotatorilor, mai probabil supraspinosul. Abducția e limitată, durere la impingement. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului.\nSPEAKER_01: Bine.\nSPEAKER_00: Câte ședințe pot să fac?\nSPEAKER_01: Nu știu, depinde de dumneavoastră.\nSPEAKER_00: Haideți să vedem după primele două-trei cum răspunde, da?\nSPEAKER_01: Da.\nSPEAKER_00: Bun, atunci vă rog să vă așezați pe masă cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept, aparuta dupa ridicat saci cu ciment",
+    "evaluarea_durerii_vas": [5, 8],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: inflamatie coif rotatori (supraspinat), sindrom de impingement umar dr.\nObiective terapeutice: reducerea inflamatiei; recuperarea mobilitatii umarului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Am ridicat ceva greu.", "Niște saci cu ciment."],
+    "evaluarea_durerii_vas": ["Acum vreo cinci.", "Da, ajunge pe la opt."],
+    "localizarea_durerii": ["Dreptul.", "Doar în umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu.", "Nu, nimic."],
+    "evaluare_functionala_initiala": ["Pare a fi o inflamație la nivelul coifului rotatorilor, mai probabil supraspinosul. Abducția e limitată, durere la impingement. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule!\nSPEAKER_01: Bună ziua, bună ziua. Mă bucur că am găsit un loc liber, am sunat de vreo trei ori săptămâna trecută...\nSPEAKER_00: Da, da, ne pare rău, a fost o perioadă aglomerată. Spuneți-mi prenumele, vă rog.\nSPEAKER_01: Bogdan. Bogdan Niță.\nSPEAKER_00: Și vârsta, domnule Niță?\nSPEAKER_01: 38. Păi să știți că mă gândeam că la 38 de ani n-o să am problemele astea, că eu am fost sportiv, am făcut handbal vreo zece ani, credeam că sunt construit, știți cum e...\nSPEAKER_00: Înțeles. Și cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare gâtul, zona asta de ceafă, și mai jos, cum să zic, umărul drept. Adică nu umărul propriu-zis, mai degrabă între gât și umăr, pe partea dreaptă.\nSPEAKER_00: Cervical și umărul drept.\nSPEAKER_01: Da, da. Și uneori simt și un fel de amorțeală în brațul drept, jos, în deget, degetul mic și inelarul. Dar asta nu tot timpul, vine și pleacă. Ăsta mă sperie mai tare, sincer, că am citit pe internet și am văzut tot felul de lucruri...\nSPEAKER_00: Înțeles. De cât timp durează?\nSPEAKER_01: De vreo trei săptămâni. Dar înainte mai aveam episoade, adică nu prima dată, mai aveam din când în când, dar acum trei săptămâni s-a înrăutățit brusc. Stăteam la birou, m-am întors să iau ceva și gata, s-a blocat pur și simplu.\nSPEAKER_00: Stați mult la birou?\nSPEAKER_01: Toată ziua. Opt, nouă ore. La calculator, cu capul în față. Soția îmi tot zice să stau mai drept, dar nu reușesc, că mă și concentrez pe lucru și uit. E și stresul, știți, job-ul e solicitant...\nSPEAKER_00: Da. Pe o scară de la 0 la 10, cât de tare doare acum, în momentul de față?\nSPEAKER_01: Acum... un 5. Dar dimineața când mă trezesc e mai rău, e cam un 7-8, că stau toată noaptea strâns și gâtul se blochează.\nSPEAKER_00: Și amorțeala în degetele astea apare mai mult când stați la calculator sau în alte momente?\nSPEAKER_01: Mai mult seara, după ce am stat mult. Și uneori noaptea mă trezesc cu mâna amorțită. Asta mă sperie, că ziceam, am citit că poate fi și la inimă, dar am fost la cardiolog luna trecută și mi-a zis că e bine, inima e în regulă.\nSPEAKER_00: Bine. Alte afecțiuni, tensiune, diabet, probleme osoase?\nSPEAKER_01: Nu, nu am nimic din astea. Am fost sănătos tun toată viața. Doar că... stați, acum vreo doi ani mi-au găsit o hernie de disc, dar era la lombar, și mi-au zis să fac kinetoterapie, am făcut vreo șase ședințe și a trecut, nu m-a mai deranjat.\nSPEAKER_00: La lombar, înțeles. Și cervical nu ați mai făcut investigații?\nSPEAKER_01: Nu, niciodată. Ar trebui să fac?\nSPEAKER_00: Ar fi util un RMN pe zona cervicală. Luați vreun medicament în momentul de față?\nSPEAKER_01: Iau Ibuprofen când nu mai suport, câte un comprimat de 400. Nu în fiecare zi, mai rar, când e mai rău.\nSPEAKER_00: Bun. Haideți să vă ridic puțin în picioare să fac câteva teste. Stați cu brațele pe lângă corp. Întoarceți capul spre dreapta, ușor.\nSPEAKER_01: Au, da, asta e... cam până aici pot.\nSPEAKER_00: Limitată rotația spre dreapta. Spre stânga?\nSPEAKER_01: Merge mai bine, dar tot am o tensiune.\nSPEAKER_00: Da. Apăs ușor în zona asta, coloana cervicală, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo. Aia e, da.\nSPEAKER_00: Și pe trapez, pe partea dreaptă?\nSPEAKER_01: Vai, da, chiar acolo. Asta doare cel mai tare.\nSPEAKER_00: Bun. Ce vă pot spune este că avem o contractură musculară importantă pe trapezul drept și pe musculatura cervicală, probabil de la postura de la birou. Amorțeala în degetele patru și cinci poate indica o iritație a rădăcinii C8, de aceea ar fi util acel RMN. Obiectivul nostru în primă fază este să reducem contractura și să decomprimăm zona, și vedem cum evoluează.\nSPEAKER_01: Bine, bine. Și credeti că o să treacă? Adică nu o să rămân cu amorțeala?\nSPEAKER_00: Hai să lucrăm și vedem. Dacă facem și RMN-ul avem imaginea completă. Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicala si umar drept, cu amorteala in degetele 4 si 5 ale mainii drepte",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "amorteala degete 4 si 5 mana dreapta (inelar si deget mic)",
+    "antecedente": [
+      "hernia_disc"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractura musculara trapez drept si musculatura cervicala; posibila iritatie radacina C8. Obiective terapeutice: reducerea contracturii, decomprimarea zonei cervicale. Recomandare RMN cervical."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul, zona asta de ceafă, și mai jos, cum să zic, umărul drept", "simt și un fel de amorțeală în brațul drept, jos, în deget, degetul mic și inelarul"],
+    "evaluarea_durerii_vas": ["Acum... un 5", "dimineața când mă trezesc e mai rău, e cam un 7-8"],
+    "localizarea_durerii": ["Mă doare gâtul, zona asta de ceafă", "umărul drept"],
+    "localizarea_durerii_alta": ["simt și un fel de amorțeală în brațul drept, jos, în deget, degetul mic și inelarul"],
+    "antecedente": ["acum vreo doi ani mi-au găsit o hernie de disc, dar era la lombar"],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Iau Ibuprofen când nu mai suport, câte un comprimat de 400"],
+    "evaluare_functionala_initiala": ["avem o contractură musculară importantă pe trapezul drept și pe musculatura cervicală", "Amorțeala în degetele patru și cinci poate indica o iritație a rădăcinii C8", "Obiectivul nostru în primă fază este să reducem contractura și să decomprimăm zona"]
+  }
+}

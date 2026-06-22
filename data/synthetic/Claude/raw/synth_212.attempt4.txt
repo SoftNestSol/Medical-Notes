@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut din senin sau după ceva efort?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Doar când ridic mâna.\nSPEAKER_00: Ridicați mâna pentru mine așa, în față. Până unde puteți.\nSPEAKER_01: Până cam aici.\nSPEAKER_00: Deci cam la 90 de grade. Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Și în lateral, ridicați.\nSPEAKER_01: Și acolo doare.\nSPEAKER_00: Doare mai tare în lateral sau în față?\nSPEAKER_01: Cam la fel.\nSPEAKER_00: Se lasă durerea pe braț, pe cot, pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțește ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Vă apăs puțin aici, pe zona de sus a umărului. Doare?\nSPEAKER_01: Da, acolo e cel mai rău.\nSPEAKER_00: Și aici, mai în față?\nSPEAKER_01: Puțin.\nSPEAKER_00: Ok. Afecțiuni, tensiune, diabet, epilepsie, cancer, ceva de genul?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale la umăr, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci avem o inflamație la nivelul umărului stâng, cel mai probabil la nivelul tendonului supraspinos. Asta înseamnă că tendonul s-a suprasolicitat la mutatul mobilei și acum e inflamat. O să lucrăm să reducem inflamația și să recuperăm mobilitatea.\nSPEAKER_01: Cât durează?\nSPEAKER_00: Depinde, dar în câteva ședințe ar trebui să simțiți o diferență. Haideți pe masă cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang aparuta dupa efort fizic (mutat mobila), de aproximativ doua saptamani.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie tendon supraspinos umar stang\nObiective terapeutice:\n- reducerea procesului inflamator;\n- recuperarea mobilitatii"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Vreo două săptămâni.", "Am mutat niște mobilă."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul umărului stâng, cel mai probabil la nivelul tendonului supraspinos", "o să lucrăm să reducem inflamația și să recuperăm mobilitatea"]
+  }
+}

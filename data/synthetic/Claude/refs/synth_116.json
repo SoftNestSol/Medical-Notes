@@ -1,0 +1,24 @@
+{
+  "motivul_prezentarii": "Pacient cu durere la nivelul genunchiului drept, pe partea internă, apărută după genuflexiuni la sală, în urmă cu aproximativ două săptămâni. Durere accentuată la coborâtul scărilor și la genuflexiuni.",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "genunchi_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": "lombalgieîn antecedente (acum aproximativ trei ani, rezolvată prin recuperare medicală)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Rosuvastatin",
+      "doza": "10 miligrame, o dată pe zi seara"
+    },
+    {
+      "denumire": "ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Sensibilitate clară pe linia articulară internă. Durere la coborâtul scărilor și la genuflexiuni. Diagnostic: inflamație la nivelul ligamentului colateral intern și posibil tendon rotulian. Obiective terapeutice: reducerea inflamației, refacerea stabilității și mobilității genunchiului."
+}

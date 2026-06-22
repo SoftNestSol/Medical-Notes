@@ -1,0 +1,44 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua, bună ziua. Scuzați că am întârziat un pic, am avut probleme cu parcarea, e îngrozitor pe strada asta, nu găsești niciodată loc și...\nSPEAKER_00: Nicio problemă. Spuneți-mi cu ce problemă vă vedeți azi.\nSPEAKER_01: Da, deci am o durere la genunchi, la genunchiul drept. Adică de vreo trei săptămâni, poate mai mult, nu știu exact, că la început am zis că trece singură și n-am dat importanță.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Păi depinde. Când merg normal, pe stradă, ceva de genul 4-5, dar când cobor scările, aia e altceva, acolo ajunge la 7, 7 și ceva.\nSPEAKER_00: 7 la coborâtul scărilor. Și la urcat?\nSPEAKER_01: La urcat merge, nu prea simt. Mai mult la coborât și când stau mult în genunchi, că eu mai fac treabă prin casă, vopseam ceva săptămâna trecută și după aia m-a ținut toată ziua.\nSPEAKER_00: Înțeleg. Și doare pe o parte anume a genunchiului sau tot?\nSPEAKER_01: Pe partea asta din față, un pic intern, adică spre interior. Nu știu cum se numește anatomic, dar cam pe-aici.\nSPEAKER_00: Pe fața antero-medială.\nSPEAKER_01: Da, exact, acolo. Și câteodată parcă și sub rotulă simt ceva, un fel de apăsare.\nSPEAKER_00: Amorțeli, furnicături spre gleznă sau spre coapsă?\nSPEAKER_01: Nu, nu, nu. Nimic de genul. E strict acolo, la genunchi.\nSPEAKER_00: Ați pățit ceva, un traumatism, o căzătură?\nSPEAKER_01: Nu, nici vorbă. A apărut din senin. Deși, stați, că am mers la munte acum o lună și jumate, cam atunci a început. Am mers vreo 6 ore pe zi, coborâri lungi, și după am simțit că mă ține puțin dar am zis că e oboseală.\nSPEAKER_00: Deci după mersul la munte a apărut.\nSPEAKER_01: Da, da, probabil de acolo. Soția mea a zis să vin de mult dar eu am tot amânat, știți cum e, bărbații nu vin la doctor.\nSPEAKER_00: Da. Ați luat ceva pentru durere?\nSPEAKER_01: Am pus un gel, Voltaren, de vreo două ori, dar nu prea m-a ajutat sincer. N-am luat pastile, nu vreau să iau pastile dacă nu e neapărat.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu, nimic, sunt sănătos tun în rest. Am 38 de ani, nu am nimic.\nSPEAKER_00: Bine. Haideți să facem câteva teste. Stați în picioare, relaxat.\nSPEAKER_01: Da.\nSPEAKER_00: Stai puțin pe piciorul drept singur... te ține?\nSPEAKER_01: Ține, da, dar simt că nu e stabil, parcă tremură un pic.\nSPEAKER_00: Și acum încovoiți ușor genunchiul, o flexie mică.\nSPEAKER_01: Au, da, acolo doare.\nSPEAKER_00: Bun. Hai pe masă cu fața în sus.\nSPEAKER_01: Doare și când apăsați?\nSPEAKER_00: Doare aici?\nSPEAKER_01: Da, chiar acolo, exact.\nSPEAKER_00: Și mai sus, pe cvadriceps?\nSPEAKER_01: Acolo nu, nu simt nimic special.\nSPEAKER_00: Ok. Deci avem o inflamație la nivelul tendonului rotulian și a inserției mediale, probabil apărută după suprasolicitarea de la munte. Tendonul e iritat. O să lucrăm să reducem inflamația și să stabilizăm zona.\nSPEAKER_01: Nu e ceva grav? Că m-am tot gândit că poate e menisc sau nu știu ce și m-am speriat.\nSPEAKER_00: La menisci nu indică testele acum. E mai degrabă o tendinită. Dar o luăm pas cu pas.\nSPEAKER_01: Bine, mă bucur. Și cât durează să treacă?\nSPEAKER_00: Depinde cum răspunde. Câteva ședințe și vedem evoluția.",
+  "note": {
+    "motivul_prezentarii": "Durere la genunchiul drept, apărută după mers la munte (coborâri lungi), cu debut de aproximativ 3 săptămâni. Durerea se accentuează la coborâtul scărilor și la statul în genunchi.",
+    "evaluarea_durerii_vas": [4, 7],
+    "localizarea_durerii": [
+      "genunchi_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: inflamație tendon rotulian și inserție medială, tendinită genunchi drept.\nObiective terapeutice: reducerea inflamației, stabilizarea zonei."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere la genunchi, la genunchiul drept",
+      "de vreo trei săptămâni, poate mai mult",
+      "am mers la munte acum o lună și jumate, cam atunci a început. Am mers vreo 6 ore pe zi, coborâri lungi",
+      "mai mult la coborât și când stau mult în genunchi"
+    ],
+    "evaluarea_durerii_vas": [
+      "când merg normal, pe stradă, ceva de genul 4-5",
+      "când cobor scările, aia e altceva, acolo ajunge la 7"
+    ],
+    "localizarea_durerii": [
+      "am o durere la genunchi, la genunchiul drept"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel, Voltaren, de vreo două ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendonului rotulian și a inserției mediale, probabil apărută după suprasolicitarea de la munte. Tendonul e iritat. O să lucrăm să reducem inflamația și să stabilizăm zona."
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Cel drept.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: A apărut după ceva anume, un efort, o mișcare?\nSPEAKER_01: Am mutat niște cutii grele la serviciu.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Un 5.\nSPEAKER_00: Doare tot timpul sau numai când mișcați?\nSPEAKER_01: Când mișc, mai ales când ridic mâna.\nSPEAKER_00: Sus, deasupra capului?\nSPEAKER_01: Da.\nSPEAKER_00: Noaptea vă trezește?\nSPEAKER_01: Uneori.\nSPEAKER_00: Amorțește ceva pe braț sau pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte afecțiuni, tensiune, diabet, epilepsie?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să facem câteva teste, ridicați mâna asta lateral, încet.\nSPEAKER_01: Până aici pot, mai sus doare.\nSPEAKER_00: Deci pe la 90 de grade începe durerea.\nSPEAKER_01: Da, cam acolo.\nSPEAKER_00: Acum cu brațul înainte, ridicați.\nSPEAKER_01: Asta merge un pic mai bine.\nSPEAKER_00: Bun. Vă apăs acum pe zona de supraspinat, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Și aici, pe bursă?\nSPEAKER_01: Da, tot acolo.\nSPEAKER_00: Am înțeles. Pare o inflamație la nivelul tendoanelor din umăr, probabil supraspinat și bursă subacromială. Vom lucra să reducem inflamația și să recuperăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, faceți față în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutat cutii grele), de aproximativ doua saptamani, accentuata la ridicarea bratului.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie supraspinat;\n- inflamatie bursa subacromiale;\nObiective terapeutice:\n- reducerea procesului inflamator;\n- refacerea mobilitatii articulare"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Cel drept.", "De vreo două săptămâni.", "Am mutat niște cutii grele la serviciu.", "Când mișc, mai ales când ridic mâna."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Cel drept."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Pare o inflamație la nivelul tendoanelor din umăr, probabil supraspinat și bursă subacromială. Vom lucra să reducem inflamația și să recuperăm mobilitatea."]
+  }
+}

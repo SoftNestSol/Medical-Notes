@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem azi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc. Am ridicat ceva greu.\nSPEAKER_00: Ce anume ați ridicat?\nSPEAKER_01: Niște saci cu ciment.\nSPEAKER_00: Am înțeles. Și de atunci doare constant sau doar la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Când ridicați mâna în sus doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și când o duceți în spate?\nSPEAKER_01: Da, mai rău.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare doare acum?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Dar când faceți mișcarea aia dureroasă, când duceți mâna în spate?\nSPEAKER_01: Vreo 8.\nSPEAKER_00: 8, ok. Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Durerea rămâne la umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne sus.\nSPEAKER_00: Bun. Ce vârstă aveți?\nSPEAKER_01: 48.\nSPEAKER_00: 48 de ani. Lucrați în construcții?\nSPEAKER_01: Da.\nSPEAKER_00: Deci mult efort fizic zilnic.\nSPEAKER_01: Da.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune arterială. Luați medicamente pentru asta?\nSPEAKER_01: Da, Prestarium.\nSPEAKER_00: Prestarium. Ce doză?\nSPEAKER_01: Nu știu exact, 5 parcă.\nSPEAKER_00: 5 mg. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Altă afecțiune, cancer, epilepsie, vreo operație?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Ok. Haideți să ridic eu puțin mâna. Spuneți-mi când doare.\nSPEAKER_01: Acum.\nSPEAKER_00: Acum, la 90 de grade.\nSPEAKER_01: Da, exact.\nSPEAKER_00: Și mai sus?\nSPEAKER_01: La fel.\nSPEAKER_00: Stați puțin, vă țin eu mâna aici. Apăs în zona asta, pe tendonul de sus. Doare?\nSPEAKER_01: Au, da.\nSPEAKER_00: Deci avem o inflamație pe tendonul supraspinos, cel mai probabil. Asta e o tendinită de umăr, apărută după efort. Va trebui să reducem inflamația mai întâi, ca să puteți să vă mișcați normal. Evitați să ridicați greutăți cu mâna dreaptă deocamdată.\nSPEAKER_01: Cât timp?\nSPEAKER_00: Depinde cum răspunde, dar câteva ședințe ar trebui să simțiți o ameliorare. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept, aparuta dupa ridicat greutati",
+    "evaluarea_durerii_vas": [5, 8],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Prestarium",
+        "doza": "5 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita umar dr. (tendon supraspinos)\nObiective terapeutice: reducerea inflamatiei; refacerea mobilitatii articulare"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am ridicat ceva greu.", "Niște saci cu ciment."],
+    "evaluarea_durerii_vas": ["Un 5.", "Vreo 8."],
+    "localizarea_durerii": ["Dreptul.", "Rămâne sus."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Prestarium.", "Nu știu exact, 5 parcă."],
+    "evaluare_functionala_initiala": ["avem o inflamație pe tendonul supraspinos, cel mai probabil. Asta e o tendinită de umăr, apărută după efort. Va trebui să reducem inflamația mai întâi, ca să puteți să vă mișcați normal."]
+  }
+}

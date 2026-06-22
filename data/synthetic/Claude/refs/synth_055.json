@@ -1,0 +1,26 @@
+{
+  "motivul_prezentarii": "Durere lombară apărută după efort de ridicare (mutare mobilă), cu durată de aproximativ trei săptămâni",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": "fesa stângă",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame pe zi"
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: contractură musculară lombară (pătrat lombar și paravertebrali tensionați).\nObiective terapeutice: reducerea tensiunii musculare și refacerea mobilității."
+}

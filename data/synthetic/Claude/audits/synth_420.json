@@ -1,0 +1,54 @@
+{
+  "conversation_id": "synth_420",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere, da, la gât și pe umăr, pe partea dreaptă",
+      "a apărut treptat",
+      "Stau mult la calculator, cam 8-9 ore pe zi",
+      "Seara, după muncă, e mai rău"
+    ],
+    "evaluarea_durerii_vas": [
+      "în repaus, să zicem un 5",
+      "când mă întorc capul sau ridic brațul, ajunge la 7, poate 8"
+    ],
+    "localizarea_durerii": [
+      "cam pe aici, la baza gâtului, și se duce pe umărul drept",
+      "la gât și se simte și pe umăr"
+    ],
+    "localizarea_durerii_alta": [
+      "uneori și puțin spre omoplat",
+      "parcă un curent slab pe braț, pe partea de sus",
+      "Pe exterior, parcă"
+    ],
+    "antecedente": [
+      "iau Losartan, pentru tensiune",
+      "am descoperit acum doi ani"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "iau Losartan, pentru tensiune. 50 de miligrame, în fiecare dimineață",
+      "Am luat Paracetamol, 500 de miligrame, de câteva ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți capul ușor proiectat în față, umerii sunt căzuți în față",
+      "Observ o tensiune importantă la nivelul mușchilor cervicali, trapez superior drept în special, și o restricție de mobilitate care poate irita rădăcina nervoasă",
+      "Mobilitate limitată și dureroasă spre dreapta",
+      "abducția brațului drept e limitată și dureroasă",
+      "obiectivul nostru e să reducem contractura, să eliberăm mobilitatea cervicală și să lucrăm și postura"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22123,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 3678,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

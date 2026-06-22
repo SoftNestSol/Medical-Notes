@@ -1,0 +1,40 @@
+{
+  "conversation_id": "synth_436",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere la umăr, la cel stâng, de vreo două săptămâni și jumătate",
+      "am mutat niște mobilă singur, că nu am avut cu cine, și am cărat niște cutii destul de grele"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum în repaus, un 3, poate un 4. Dar dacă ridic brațul sau dorm prost, ajunge și la 7.",
+      "Deci în repaus un 4, la mișcare un 7."
+    ],
+    "localizarea_durerii": [
+      "am o durere la umăr, la cel stâng"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "am pus Voltaren câteva zile, părea că mai ajută puțin"
+    ],
+    "evaluare_functionala_initiala": [
+      "Cel mai probabil avem o inflamație la nivelul tendoanelor rotatorilor, zona de supraspinos în special. Nu pare a fi o ruptură, că mișcarea e prezentă, dar avem nevoie să reducem inflamația și să recuperăm mobilitatea.",
+      "ar fi bine să faceți o ecografie sau un RMN la umăr"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13739,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2130,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

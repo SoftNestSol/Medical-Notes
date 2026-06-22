@@ -1,0 +1,45 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, vă rog, cu ce problemă veniți.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. A apărut brusc sau treptat?\nSPEAKER_01: Brusc. Am ridicat ceva.\nSPEAKER_00: Ați ridicat ceva greu.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât e durerea acum?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare constant sau numai când faceți ceva?\nSPEAKER_01: Când mă mișc. Când stau jos trece mai mult.\nSPEAKER_00: Se lasă durerea pe picior, fesă, undeva mai jos?\nSPEAKER_01: Nu.\nSPEAKER_00: Sigur? Nicio amorțeală?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Bun. Luați vreun medicament acum pentru asta?\nSPEAKER_01: Iau un Ibuprofen câteodată.\nSPEAKER_00: Ibuprofen. Ce doză?\nSPEAKER_01: Nu știu, cele obișnuite.\nSPEAKER_00: Ok. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți tensiune, diabet, osteoporoză, vreo problemă de sănătate?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio operație, niciun traumatism mai vechi la spate?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți în picioare o secundă. Aplecați-vă ușor în față.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Da, văd că vă opriți devreme. Doare când vă aplecați?\nSPEAKER_01: Da, trage.\nSPEAKER_00: Stați puțin drept. Văd că aveți musculatura contractată pe dreapta, aici paravertebral. Apăs ușor, doare?\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Pe stânga e la fel?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeleg. Deci avem o contractură paravertebrală lombară, mai accentuată pe dreapta, apărută după efort. Obiectivul nostru e să relaxăm musculatura și să reducem inflamația. Haideți pe masă cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută brusc după ridicare de greutate, de aproximativ două săptămâni. Durere la mișcare, VAS 5/10, fără iradiere pe membre inferioare.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- contractură paravertebrală lombară, mai accentuată pe dreapta\nObiective terapeutice:\n- relaxarea musculaturii și reducerea inflamației"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Am ridicat ceva.",
+      "Vreo două săptămâni.",
+      "Când mă mișc. Când stau jos trece mai mult."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Jos."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau un Ibuprofen câteodată."
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți musculatura contractată pe dreapta, aici paravertebral.",
+      "Deci avem o contractură paravertebrală lombară, mai accentuată pe dreapta, apărută după efort.",
+      "Obiectivul nostru e să relaxăm musculatura și să reducem inflamația."
+    ]
+  }
+}

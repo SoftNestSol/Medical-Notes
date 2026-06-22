@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, spuneți-mi cu ce problemă venim azi.\nSPEAKER_01: Bună ziua. Deci, mă doare umărul, umărul stâng, de vreo două săptămâni. Dar, știți, eu am mai avut înainte și probleme cu spatele, acum câțiva ani, și mă tot gândeam că nu cumva vine de acolo, de la spate, nu știu...\nSPEAKER_00: Stați, să ne concentrăm pe umăr. Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Cam 7. Da, un 7. Adică noaptea mă trezește, nu pot să dorm pe partea aia. Și ziua, dacă ridic mâna sus, spre exemplu să iau ceva de pe raft, înjunghie tare.\nSPEAKER_00: Deci doare la ridicarea brațului.\nSPEAKER_01: Da, da, exact. Și mai ales când întind mâna în față așa. Și știți, la muncă eu stau mult la birou, la calculator, am o postură îngrozitoare, soția tot îmi zice. Probabil de aia, nu? Poate de la mouse, pentru că eu folosesc mouse-ul cu stânga, am o problemă la mâna dreaptă de vreo câțiva ani, dar aia nu mă mai doare acum.\nSPEAKER_00: Ok. Zona gâtului doare?\nSPEAKER_01: Nu, gâtul nu. Adică mai am eu câteodată o tensiune acolo, dimineața, dar nu o consider o durere, trece repede.\nSPEAKER_00: Și brațul amorțește?\nSPEAKER_01: Nu, nu amorțește. Asta mă liniștea, sincer, că mă gândeam la probleme de nervi și...\nSPEAKER_00: Bun. Aveți boli cunoscute, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am, da. Iau tratament pentru ea de vreo trei ani încoace. Diabet nu, osteoporoză nu știu, nu mi-am verificat niciodată. Dar am 52 de ani, poate ar trebui, nu?\nSPEAKER_00: Ce medicament luați pentru tensiune?\nSPEAKER_01: Amlodipină, 5 mg pe zi. Atât.\nSPEAKER_00: Altceva nu luați?\nSPEAKER_01: Nu, nimic altceva.\nSPEAKER_00: Ok. Stați puțin, ridicați brațul stâng în față pentru mine.\nSPEAKER_01: Până aici merge, după nu mai pot, doare.\nSPEAKER_00: Cam la 90 de grade se oprește. Și în lateral?\nSPEAKER_01: Pe lateral merge un pic mai bine, dar tot doare când ajung pe la... pe la atât.\nSPEAKER_00: Mă lăsați să apăs puțin pe umăr?\nSPEAKER_01: Da, atenție că e sensibil.\nSPEAKER_00: Aici doare?\nSPEAKER_01: Da, exact acolo, pe vârful umărului, da.\nSPEAKER_00: Deci avem o limitare a mobilității și durere la palpare la nivelul tendonului supraspinos. Pare o tendinopatie de supraspinos, posibil cu inflamație subacromială.\nSPEAKER_01: Adică e grav? Că mă tot gândeam că poate trebuie operație și...\nSPEAKER_00: Nu vorbim de operație. O să lucrăm să reducem inflamația și să recuperăm mobilitatea.\nSPEAKER_01: Bine, bine. Și să știți că mi-e frică să nu rămână așa, am un coleg care și-a operat umărul și a stat luni de zile.\nSPEAKER_00: Înțeleg. Deocamdată nu suntem acolo. Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere la nivelul umărului stâng de aproximativ două săptămâni, accentuată la ridicarea brațului și la extensia anterioară, cu treziri nocturne. Lucrează la birou, utilizează mouse-ul cu mâna stângă.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Amlodipină",
+        "doza": "5 mg pe zi"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nLimitare mobilitate umăr stâng la aproximativ 90 de grade în flexie anterioară; abducție ușor mai puțin limitată. Durere la palpare pe vârful umărului, la nivelul tendonului supraspinos.\nDiagnostic:\nTendinopatie de supraspinos, posibil cu inflamație subacromială.\nObiective terapeutice:\nReducerea inflamației; recuperarea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, umărul stâng, de vreo două săptămâni",
+      "dacă ridic mâna sus, spre exemplu să iau ceva de pe raft, înjunghie tare",
+      "noaptea mă trezește, nu pot să dorm pe partea aia",
+      "la muncă eu stau mult la birou, la calculator",
+      "eu folosesc mouse-ul cu stânga"
+    ],
+    "evaluarea_durerii_vas": [
+      "Cam 7. Da, un 7."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, umărul stâng"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am, da. Iau tratament pentru ea de vreo trei ani încoace."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Amlodipină, 5 mg pe zi. Atât."
+    ],
+    "evaluare_functionala_initiala": [
+      "Cam la 90 de grade se oprește.",
+      "durere la palpare la nivelul tendonului supraspinos",
+      "Pare o tendinopatie de supraspinos, posibil cu inflamație subacromială.",
+      "O să lucrăm să reducem inflamația și să recuperăm mobilitatea."
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stângul sau dreptul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut din senin sau ați făcut ceva anume?\nSPEAKER_01: Am ridicat niște saci la muncă.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde situați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Doar când ridic mâna.\nSPEAKER_00: Sus, deasupra capului?\nSPEAKER_01: Da.\nSPEAKER_00: Și dacă duceți mâna în față, în lateral?\nSPEAKER_01: În lateral doare mai tare.\nSPEAKER_00: Doare și noaptea?\nSPEAKER_01: Câteodată, dacă stau pe partea aia.\nSPEAKER_00: Înțeles. Ați mai avut probleme cu umărul ăsta?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte boli, diabet, tensiune, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament acum?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nicio pastilă de durere?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Ridicați ușor brațul drept în lateral pentru mine... Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Unde exact, arătați-mi.\nSPEAKER_01: Aici, sus pe umăr.\nSPEAKER_00: Pe partea de deasupra, arcul anterior, da?\nSPEAKER_01: Da.\nSPEAKER_00: Stați puțin, apăs ușor aici... Doare?\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: Și dacă apăs mai jos, pe biceps?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Ok. Când ridicați brațul, doare mai mult între 60 și 120 de grade sau tot arcul?\nSPEAKER_01: La mijloc parcă.\nSPEAKER_00: Deci avem un arc dureros la abducție, specific pentru o tendinită a coifului rotatorilor. Cel mai probabil e o inflamație la nivelul tendonului supraspinos. Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului drept.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă voi lucra zona azi și vă dau și câteva exerciții de făcut acasă. Mergem?",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa ridicare de saci la muncă, de aproximativ două săptămâni",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinită coif rotatori (supraspinos) umăr drept - arc dureros la abducție între 60-120 grade, durere la palpare zona superioară umăr drept.\nObiective terapeutice: reducerea inflamației; recuperarea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am ridicat niște saci la muncă.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Dreptul.", "Mă doare umărul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem un arc dureros la abducție, specific pentru o tendinită a coifului rotatorilor", "Cel mai probabil e o inflamație la nivelul tendonului supraspinos", "Obiectivul nostru e să reducem inflamația și să recuperăm mobilitatea umărului drept"]
+  }
+}

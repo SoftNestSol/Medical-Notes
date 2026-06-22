@@ -1,0 +1,361 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 3.74,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi numele, vă rog."
+    },
+    {
+      "start": 3.86,
+      "end": 4.66,
+      "speaker": "SPEAKER_01",
+      "text": "Ionescu Mihai."
+    },
+    {
+      "start": 4.78,
+      "end": 5.58,
+      "speaker": "SPEAKER_00",
+      "text": "Și vârsta?"
+    },
+    {
+      "start": 5.7,
+      "end": 6.5,
+      "speaker": "SPEAKER_01",
+      "text": "38."
+    },
+    {
+      "start": 6.62,
+      "end": 10.04,
+      "speaker": "SPEAKER_00",
+      "text": "Mulțumesc, domnule Ionescu. Cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 10.16,
+      "end": 11.3,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare umărul."
+    },
+    {
+      "start": 11.42,
+      "end": 12.22,
+      "speaker": "SPEAKER_00",
+      "text": "Care umăr?"
+    },
+    {
+      "start": 12.34,
+      "end": 13.14,
+      "speaker": "SPEAKER_01",
+      "text": "Cel drept."
+    },
+    {
+      "start": 13.26,
+      "end": 14.4,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp?"
+    },
+    {
+      "start": 14.52,
+      "end": 15.66,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo două săptămâni."
+    },
+    {
+      "start": 15.78,
+      "end": 19.58,
+      "speaker": "SPEAKER_00",
+      "text": "S-a întâmplat ceva anume, o lovitură, o mișcare bruscă?"
+    },
+    {
+      "start": 19.7,
+      "end": 22.74,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, am ridicat niște cutii la muncă."
+    },
+    {
+      "start": 22.86,
+      "end": 28.18,
+      "speaker": "SPEAKER_00",
+      "text": "Deci după un efort fizic. Și de atunci doare constant sau vine și trece?"
+    },
+    {
+      "start": 28.3,
+      "end": 29.44,
+      "speaker": "SPEAKER_01",
+      "text": "E mereu acolo."
+    },
+    {
+      "start": 29.56,
+      "end": 33.36,
+      "speaker": "SPEAKER_00",
+      "text": "Când doare mai tare, când ridicați mâna sau în repaus?"
+    },
+    {
+      "start": 33.48,
+      "end": 34.62,
+      "speaker": "SPEAKER_01",
+      "text": "Când ridic mâna."
+    },
+    {
+      "start": 34.74,
+      "end": 37.4,
+      "speaker": "SPEAKER_00",
+      "text": "Sus de tot sau și la jumătate?"
+    },
+    {
+      "start": 37.52,
+      "end": 42.08,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult sus de tot. Că nu pot să ajung la raft."
+    },
+    {
+      "start": 42.2,
+      "end": 44.1,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și noaptea vă deranjează?"
+    },
+    {
+      "start": 44.22,
+      "end": 47.64,
+      "speaker": "SPEAKER_01",
+      "text": "Da, dacă stau pe partea aia nu pot dormi."
+    },
+    {
+      "start": 47.76,
+      "end": 56.88,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare cel mai rău, cum ați pune durerea asta?"
+    },
+    {
+      "start": 57.0,
+      "end": 57.8,
+      "speaker": "SPEAKER_01",
+      "text": "Un 6."
+    },
+    {
+      "start": 57.92,
+      "end": 60.96,
+      "speaker": "SPEAKER_00",
+      "text": "Un 6. Și când ridicați mâna sus, crește?"
+    },
+    {
+      "start": 61.08,
+      "end": 62.98,
+      "speaker": "SPEAKER_01",
+      "text": "Da, ajunge la 8 poate."
+    },
+    {
+      "start": 63.1,
+      "end": 70.32,
+      "speaker": "SPEAKER_00",
+      "text": "Deci 6 în repaus, 8 la mișcare. Durerea rămâne în umăr sau se lasă și pe braț în jos?"
+    },
+    {
+      "start": 70.44,
+      "end": 73.86,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult în umăr. Un pic pe braț câteodată."
+    },
+    {
+      "start": 73.98,
+      "end": 77.78,
+      "speaker": "SPEAKER_00",
+      "text": "Pe braț până unde, până la cot sau mai jos?"
+    },
+    {
+      "start": 77.9,
+      "end": 79.8,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe la cot cam."
+    },
+    {
+      "start": 79.92,
+      "end": 82.96,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Amorțeală în mână sau în degete?"
+    },
+    {
+      "start": 83.08,
+      "end": 83.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 84.0,
+      "end": 87.42,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Ce faceți ca muncă, dacă pot să întreb?"
+    },
+    {
+      "start": 87.54,
+      "end": 88.68,
+      "speaker": "SPEAKER_01",
+      "text": "Lucrez în depozit."
+    },
+    {
+      "start": 88.8,
+      "end": 91.46,
+      "speaker": "SPEAKER_00",
+      "text": "Deci ridicat, cărăt, mișcări repetitive cu brațele?"
+    },
+    {
+      "start": 91.58,
+      "end": 92.38,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 92.5,
+      "end": 95.54,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai avut probleme cu umărul ăsta înainte?"
+    },
+    {
+      "start": 95.66,
+      "end": 96.46,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 96.58,
+      "end": 100.38,
+      "speaker": "SPEAKER_00",
+      "text": "Alte probleme de sănătate, tensiune, diabet, ceva de felul ăsta?"
+    },
+    {
+      "start": 100.5,
+      "end": 101.3,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic."
+    },
+    {
+      "start": 101.42,
+      "end": 104.08,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament în momentul de față?"
+    },
+    {
+      "start": 104.2,
+      "end": 105.0,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 105.12,
+      "end": 113.1,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să facem câteva mișcări și vă rog să-mi spuneți unde simțiți durerea. Ridicați brațul drept în față, încet."
+    },
+    {
+      "start": 113.22,
+      "end": 114.36,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici merge."
+    },
+    {
+      "start": 114.48,
+      "end": 118.28,
+      "speaker": "SPEAKER_00",
+      "text": "Deci până la aproximativ 90 de grade merge, după aceea?"
+    },
+    {
+      "start": 118.4,
+      "end": 119.2,
+      "speaker": "SPEAKER_01",
+      "text": "Doare tare."
+    },
+    {
+      "start": 119.32,
+      "end": 122.36,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Acum ridicați lateral, ca o aripă."
+    },
+    {
+      "start": 122.48,
+      "end": 125.14,
+      "speaker": "SPEAKER_01",
+      "text": "Și asta doare, tot cam la fel."
+    },
+    {
+      "start": 125.26,
+      "end": 127.16,
+      "speaker": "SPEAKER_00",
+      "text": "Doare la fel de sus?"
+    },
+    {
+      "start": 127.28,
+      "end": 128.08,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 128.2,
+      "end": 131.62,
+      "speaker": "SPEAKER_00",
+      "text": "Dați-mi mâna, rezistați când trag eu în jos."
+    },
+    {
+      "start": 131.74,
+      "end": 132.54,
+      "speaker": "SPEAKER_01",
+      "text": "Mmm."
+    },
+    {
+      "start": 132.66,
+      "end": 138.36,
+      "speaker": "SPEAKER_00",
+      "text": "Slăbiciune pe abducție, am observat. Acum apăs puțin aici, pe zona asta de sub acromiom."
+    },
+    {
+      "start": 138.48,
+      "end": 140.0,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, acolo doare."
+    },
+    {
+      "start": 140.12,
+      "end": 142.4,
+      "speaker": "SPEAKER_00",
+      "text": "Acolo este punctul cel mai sensibil?"
+    },
+    {
+      "start": 142.52,
+      "end": 143.32,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 143.44,
+      "end": 167.76,
+      "speaker": "SPEAKER_00",
+      "text": "Bine. Am o imagine mai clară acum. Avem o inflamație la nivelul tendoanelor din umărul drept, cel mai probabil o tendinopatie de manșetă rotatoare, declanșată de efortul din depozit. Asta explică și durerea la ridicarea brațului și faptul că nu puteți dormi pe partea dreaptă. Obiectivul nostru va fi să reducem inflamația, să recuperăm mobilitatea și să vă putem întoarce la muncă fără durere."
+    },
+    {
+      "start": 167.88,
+      "end": 168.68,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 168.8,
+      "end": 171.84,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să ne așezăm pe masă și începem."
+    }
+  ]
+}

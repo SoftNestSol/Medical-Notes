@@ -1,0 +1,49 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Ionescu Mihai.\nSPEAKER_00: Domnule Ionescu, cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: În ce zonă anume?\nSPEAKER_01: Jos. Zona de jos.\nSPEAKER_00: Lombar, deci. Și de cât timp vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume acum două săptămâni? Un efort, o mișcare bruscă?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Aha, deci după un efort fizic. Și de atunci doare constant sau vine și trece?\nSPEAKER_01: Constant. Mai mult când stau jos.\nSPEAKER_00: Când stați pe scaun doare mai tare?\nSPEAKER_01: Da.\nSPEAKER_00: Dar când vă ridicați din scaun?\nSPEAKER_01: Și atunci. Mai rău.\nSPEAKER_00: Înțeleg. Dacă puneți durerea asta pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 înseamnă insuportabil, unde v-ați situa?\nSPEAKER_01: Vreo șase.\nSPEAKER_00: Un 6. Durerea rămâne localizată acolo jos sau se lasă și pe picior, pe fesă?\nSPEAKER_01: Nu, rămâne acolo.\nSPEAKER_00: Strict în zona lombară, nu iradiază.\nSPEAKER_01: Da.\nSPEAKER_00: Aveți și senzații de amorțeală, furnicături?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Noaptea vă deranjează?\nSPEAKER_01: Mă trezesc uneori când mă întorc.\nSPEAKER_00: Când vă schimbați poziția noaptea. Înțeles. Ați mai avut episoade asemănătoare în trecut?\nSPEAKER_01: Nu, prima dată.\nSPEAKER_00: Prima dată. Alergii, afecțiuni la inimă, tensiune, diabet, ceva de genul?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament în prezent, orice fel?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici un antiinflamator, nimic?\nSPEAKER_01: Nu am luat nimic.\nSPEAKER_00: Înțeles. Serviciul, ce faceți? Stați mult la birou?\nSPEAKER_01: Da, opt ore pe zi.\nSPEAKER_00: Opt ore pe zi pe scaun. Și cum stați de obicei, drept sau un pic aplecați?\nSPEAKER_01: Aplecați, probabil.\nSPEAKER_00: Probabil mai aplecați spre ecran. Ok. Haideți să vă ridic puțin. Ridicați-vă încet, vă rog, și stați drept pentru o secundă.\nSPEAKER_01: Bine.\nSPEAKER_00: Văd că aveți o ușoară aplecare spre față în ortostatism. Acum aplecați-vă ușor în față, cât puteți.\nSPEAKER_01: Până aici.\nSPEAKER_00: Da, flexia lombară e limitată, cam la jumătate față de normal. Doare când vă aplecați?\nSPEAKER_01: Da, mai tare.\nSPEAKER_00: Și dacă vă îndreptați spre spate?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Extensia e mai bine tolerată. Bun. O să apăs acum câteva puncte pe coloana lombară, îmi spuneți unde simțiți.\nSPEAKER_01: Acolo, da.\nSPEAKER_00: Aici, la nivel L4-L5, corect?\nSPEAKER_01: Da, exact acolo.\nSPEAKER_00: Mușchii paravertebrali sunt și ei contractați. Simțiți că e ca o tensiune permanentă acolo?\nSPEAKER_01: Da, ca o gheară.\nSPEAKER_00: Ca o gheară, bine. Nu iradiază pe picior, test Lasègue negativ, deci nu avem afectare radiculară la momentul ăsta. Avem o lombalgie acută după efort, cu contractură musculară paravertebrală. O să lucrăm pe reducerea contracturii și pe mobilitate. Câteva ședințe și ar trebui să se amelioreze semnificativ.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă așezați pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă apărută după efort fizic (mutat mobilă), prezentă de două săptămâni, constantă, accentuată la șezut și la ridicarea din scaun.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice: ușoară aplecare anterioară în ortostatism; flexie lombară limitată la aproximativ jumătate din amplitudinea normală, dureroasă; extensia lombară mai bine tolerată; contractură musculară paravertebrală la nivel L4-L5 la palpare.\nDiagnostic: Lombalgie acută post-efort, cu contractură musculară paravertebrală; test Lasègue negativ, fără semne de afectare radiculară.\nObiective terapeutice: reducerea contracturii musculare; ameliorarea durerii; creșterea mobilității lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos. Zona de jos.",
+      "Am mutat niște mobilă.",
+      "De vreo două săptămâni.",
+      "Constant. Mai mult când stau jos.",
+      "Și atunci. Mai rău."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo șase."
+    ],
+    "localizarea_durerii": [
+      "zona de jos",
+      "Lombar, deci.",
+      "Strict în zona lombară, nu iradiază."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nu am luat nimic."
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți o ușoară aplecare spre față în ortostatism.",
+      "flexia lombară e limitată, cam la jumătate față de normal",
+      "Extensia e mai bine tolerată.",
+      "Aici, la nivel L4-L5, corect?",
+      "Mușchii paravertebrali sunt și ei contractați.",
+      "Nu iradiază pe picior, test Lasègue negativ, deci nu avem afectare radiculară la momentul ăsta.",
+      "Avem o lombalgie acută după efort, cu contractură musculară paravertebrală.",
+      "O să lucrăm pe reducerea contracturii și pe mobilitate."
+    ]
+  }
+}

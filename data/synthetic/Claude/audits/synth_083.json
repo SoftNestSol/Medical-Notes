@@ -1,0 +1,45 @@
+{
+  "conversation_id": "synth_083",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare genunchiul.",
+      "Dreptul.",
+      "De vreo două săptămâni.",
+      "parcă după ce am stat mai mult pe scaun",
+      "Când cobor mai ales.",
+      "Da, și atunci.",
+      "Mai mult pe aici, în față.",
+      "Da, cam acolo."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Mai mult pe aici, în față.",
+      "Da, cam acolo."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Deci avem o inflamație la nivelul tendonului rotulian. Se numește tendinopatie rotuliană.",
+      "O să lucrăm să reducem inflamația și să mobilizăm articulația."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22997,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1672,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

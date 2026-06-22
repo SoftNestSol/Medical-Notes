@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Radu Ionescu.\nSPEAKER_00: Și vârsta, dacă se poate.\nSPEAKER_01: 38.\nSPEAKER_00: Mulțumesc. Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo trei săptămâni.\nSPEAKER_00: S-a întâmplat ceva, o lovitură, un efort mai mare?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Aha, deci după efort a apărut durerea.\nSPEAKER_01: Da.\nSPEAKER_00: A apărut imediat după sau a doua zi?\nSPEAKER_01: A doua zi dimineața.\nSPEAKER_00: Înțeles. Și de atunci se menține sau a mai cedat?\nSPEAKER_01: Se menține.\nSPEAKER_00: Doare constant sau doar la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: Ce mișcări dor cel mai tare? Dacă ridicați brațul în sus, dacă îl duceți în lateral?\nSPEAKER_01: Când ridic brațul în față și în sus.\nSPEAKER_00: Și în spate? Dacă duceți mâna la spate, spre centură?\nSPEAKER_01: Și aia doare, da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare maxim, cât estimați durerea când ridicați brațul?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. Și în repaus, când stați liniștit?\nSPEAKER_01: Vreo 2.\nSPEAKER_00: Bun. Durerea rămâne localizată la umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne sus, la umăr.\nSPEAKER_00: Nu amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Cu ce vă ocupați, ce muncă faceți?\nSPEAKER_01: Lucrez în construcții.\nSPEAKER_00: Construcții. Deci ridicați greutăți des.\nSPEAKER_01: Da, zilnic.\nSPEAKER_00: Și în perioada asta, cu durerea, ați continuat să lucrați?\nSPEAKER_01: Da, dar mai greu.\nSPEAKER_00: Înțeles. Tensiune, diabet, alte probleme de sănătate?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu iau nimic.\nSPEAKER_00: Bine. Haideți să facem câteva teste acum. Ridicați brațul drept ușor în față... până unde puteți.\nSPEAKER_01: Până aici pot, mai sus doare.\nSPEAKER_00: Deci avem o limitare la ridicarea anterioară, în jur de 90 de grade. Acum duceți-l în lateral.\nSPEAKER_01: La fel, cam la fel.\nSPEAKER_00: Cam la același nivel. Acum o să apăs puțin pe zona anterioară a umărului, pe tendonul bicepsului. Doare?\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Și dacă apăs aici, pe zona laterală, pe acromion?\nSPEAKER_01: Și acolo.\nSPEAKER_00: Bun. Eu zic că avem o inflamație la nivelul tendonului supraspinos și posibil tendon biceps, din cauza suprasolicitării. Zona de coafă a rotatorilor e afectată. Obiectivul nostru va fi să reducem inflamația și să refacem mobilitatea umărului drept. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după efort fizic (mutat mobilă), prezentă de trei săptămâni, mai accentuată la mobilizare.",
+    "evaluarea_durerii_vas": [6, 2],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Limitare mobilitate umăr drept la ridicare anterioară și abducție (aproximativ 90 grade). Sensibilitate la palpare tendon biceps și acromion. Diagnostic: inflamație tendon supraspinos și tendon biceps, afectare coafă rotatori. Obiective terapeutice: reducerea inflamației și refacerea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "De vreo trei săptămâni.", "Am mutat niște mobilă.", "Mai mult la mișcare."],
+    "evaluarea_durerii_vas": ["Un 6.", "Vreo 2."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu iau nimic."],
+    "evaluare_functionala_initiala": ["Deci avem o limitare la ridicarea anterioară, în jur de 90 de grade.", "Cam la același nivel.", "Da, acolo doare.", "Eu zic că avem o inflamație la nivelul tendonului supraspinos și posibil tendon biceps, din cauza suprasolicitării. Zona de coafă a rotatorilor e afectată. Obiectivul nostru va fi să reducem inflamația și să refacem mobilitatea umărului drept."]
+  }
+}

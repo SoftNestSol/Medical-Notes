@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Durere umăr drept cu iradiere pe fața anterioară a brațului până la cot, instalată de aproximativ trei săptămâni, agravată de mișcare și dimineața",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cot_dr"
+  ],
+  "localizarea_durerii_alta": "fața anterioară a brațului",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren gel",
+      "doza": "aplicat local, aproximativ de două ori pe zi, la nevoie"
+    }
+  ],
+  "evaluare_functionala_initiala": "Arc dureros la abducție în segment mijlociu, rotație internă limitată și dureroasă (nu depășește nivelul șoldului), sensibilitate la palparea tendonului supraspinat. Diagnostic: sindrom de impingement subacromial cu afectare tendon supraspinat. Obiective terapeutice: reducerea inflamației locale, refacerea mobilității umărului, corectarea posturii."
+}

@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_120",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere la gât și la umăr",
+      "și gâtul doare, pe partea dreaptă mai mult, și se lasă în umăr",
+      "a început brusc, eram la serviciu, am stat mult cu capul aplecat, și seara am simțit că mă înțepenesc tot",
+      "De vreo trei săptămâni",
+      "Am dureri de cap mai ales în ceafă, care vin din ceafă și se duc spre tâmpla dreaptă"
+    ],
+    "evaluarea_durerii_vas": [
+      "uneori e un 7, alteori parcă e mai mult, mai ales dimineața când mă trezesc. Dar ziua scade puțin, poate la un 5"
+    ],
+    "localizarea_durerii": [
+      "am o durere la gât și la umăr",
+      "și gâtul doare, pe partea dreaptă mai mult, și se lasă în umăr",
+      "Am dureri de cap mai ales în ceafă, care vin din ceafă și se duc spre tâmpla dreaptă"
+    ],
+    "localizarea_durerii_alta": [
+      "Spre omoplat da, puțin, pe dreapta"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "vedem o ușoară proiecție a capului în față, capul e dus anterior față de linia umerilor",
+      "umărul drept e puțin mai ridicat decât cel stâng",
+      "Până aici pot, mai mult mă ține",
+      "Aproximativ jumătate din mișcare, da",
+      "Doare când apăs aici, în baza craniului",
+      "durerile de cap sunt de tip cervicogenic, adică pornesc din tensiunea musculară a gâtului",
+      "Obiectivul nostru e să reducem tensiunea musculară din zona cervicală, să recuperăm mobilitatea gâtului, și să corectăm postura ca să nu mai revină"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21912,
+    "inference_geo": "global",
+    "input_tokens": 276,
+    "output_tokens": 3367,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

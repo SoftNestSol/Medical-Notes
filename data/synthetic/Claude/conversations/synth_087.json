@@ -1,0 +1,337 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 11.94,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua! Am găsit clinica pe internet și am zis să vin, că de mult tot amân și mă tot duc la medic și nu rezolv nimic."
+    },
+    {
+      "start": 12.06,
+      "end": 15.1,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Spuneți-mi cu ce problemă vă confruntați."
+    },
+    {
+      "start": 15.22,
+      "end": 32.32,
+      "speaker": "SPEAKER_01",
+      "text": "Păi mă doare spatele, zona de jos, de multă vreme. Adică nu de ieri, de azi. Cred că de vreo doi ani îmi tot dă... dar acum s-a acutizat rău de tot. Sincer, în ultimele două săptămâni e cel mai rău a fost vreodată."
+    },
+    {
+      "start": 32.44,
+      "end": 33.58,
+      "speaker": "SPEAKER_00",
+      "text": "Deci zona lombară."
+    },
+    {
+      "start": 33.7,
+      "end": 48.52,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, exact acolo, jos de tot. Uneori simt și mai jos, parcă pe fese, pe stânga mai mult. Și câteodată se lasă pe picior, tot pe stânga, dar nu mereu. Adică nu e constant pe picior, doar uneori."
+    },
+    {
+      "start": 48.64,
+      "end": 53.58,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe picior se lasă până unde? Până la genunchi, până la gleznă?"
+    },
+    {
+      "start": 53.7,
+      "end": 63.58,
+      "speaker": "SPEAKER_01",
+      "text": "Păi până sub genunchi nu ajunge de obicei. Cel mult până la jumătatea coapsei, ceva de genul. Și dispare singură după ce mă mișc un pic."
+    },
+    {
+      "start": 63.7,
+      "end": 72.44,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare maxim, unde ați situa durerea acum?"
+    },
+    {
+      "start": 72.56,
+      "end": 87.76,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, în momentul ăsta? Poate un 5. Dar dimineața când mă scol e groaznic, poate un 8, chiar un 9 uneori. Mă trezesc și nu pot să mă ridic direct din pat, trebuie să stau câteva minute, să mă răsucesc."
+    },
+    {
+      "start": 87.88,
+      "end": 89.4,
+      "speaker": "SPEAKER_00",
+      "text": "Deci mai intensă dimineața."
+    },
+    {
+      "start": 89.52,
+      "end": 102.06,
+      "speaker": "SPEAKER_01",
+      "text": "Da, dimineața e cel mai rău. Și seara după ce stau jos mult la birou. Lucrez de acasă, stau la calculator câte 8-9 ore, și spre seară simt că mă strânge tot."
+    },
+    {
+      "start": 102.18,
+      "end": 105.22,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și în picioare, dacă mergeți, se ameliorează?"
+    },
+    {
+      "start": 105.34,
+      "end": 118.64,
+      "speaker": "SPEAKER_01",
+      "text": "Da, dacă merg, după vreo 10-15 minute de mers, mai trece. Deși și dacă stau în picioare prea mult, iar începe să doară, dar altfel. Nu știu cum să explic, e o durere diferită."
+    },
+    {
+      "start": 118.76,
+      "end": 125.6,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Și această durere a apărut dintr-o dată la un moment dat sau a venit treptat?"
+    },
+    {
+      "start": 125.72,
+      "end": 147.38,
+      "speaker": "SPEAKER_01",
+      "text": "Treptat, treptat. Nu am căzut, nu am ridicat ceva greoi, nimic de genul. Pur și simplu a început ușor acum vreo doi ani și a tot crescut. Deși... acum doi ani am și schimbat jobul, am trecut la muncă de birou, până atunci eram mai activ. Poate de aia, nu știu, că stau mai mult jos acum."
+    },
+    {
+      "start": 147.5,
+      "end": 151.68,
+      "speaker": "SPEAKER_00",
+      "text": "Posibil. Aveți dureri și în altă parte? Zona de gât, umeri?"
+    },
+    {
+      "start": 151.8,
+      "end": 161.3,
+      "speaker": "SPEAKER_01",
+      "text": "Gâtul mă mai doare câteodată, dar nu e prioritatea acum. Adică e un disconfort mai mic, nu mă deranjează la fel de tare. Umerii nu."
+    },
+    {
+      "start": 161.42,
+      "end": 162.56,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțesc picioarele vreodată?"
+    },
+    {
+      "start": 162.68,
+      "end": 169.52,
+      "speaker": "SPEAKER_01",
+      "text": "Da, piciorul stâng, uneori, când stau prea mult pe scaun. Îl mișc și trece. Nu e ceva dramatic."
+    },
+    {
+      "start": 169.64,
+      "end": 173.82,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Spuneți-mi dacă aveți afecțiuni cunoscute, boli de care știți."
+    },
+    {
+      "start": 173.94,
+      "end": 185.34,
+      "speaker": "SPEAKER_01",
+      "text": "Păi am tensiune mare, hipertensiune, de vreo 4 ani. Iau pastile pentru asta. Și mai am... colesterol ridicat, mi-a zis doctorul acum un an. Altceva nu știu să am."
+    },
+    {
+      "start": 185.46,
+      "end": 187.36,
+      "speaker": "SPEAKER_00",
+      "text": "Tensiunea e controlată cu medicație?"
+    },
+    {
+      "start": 187.48,
+      "end": 196.22,
+      "speaker": "SPEAKER_01",
+      "text": "Da, iau Prestarium, 5 miligrame, în fiecare dimineață. Și pentru colesterol iau Sortis, 20 de miligrame. Iau și eu de vreo șase luni."
+    },
+    {
+      "start": 196.34,
+      "end": 197.48,
+      "speaker": "SPEAKER_00",
+      "text": "Altceva mai luați?"
+    },
+    {
+      "start": 197.6,
+      "end": 206.34,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic altceva. Am mai luat Ibuprofen când mă doare spatele tare, dar nu e prescris, îl iau singur când nu mai pot."
+    },
+    {
+      "start": 206.46,
+      "end": 209.88,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Ați făcut vreo investigație pentru spate, radiografie, RMN?"
+    },
+    {
+      "start": 210.0,
+      "end": 237.74,
+      "speaker": "SPEAKER_01",
+      "text": "Am făcut o radiografie acum vreo 8 luni, mi-a zis medicul de familie că e bine, că nu vede nimic grav. Dar eu tot simt că ceva nu e în regulă. Că nu poți să te doară așa rău și să nu fie nimic, nu? De asta mă și tem, sincer. Mă tem că o să descopere că am hernie sau nu știu ce și că o să trebuiască să mă operez."
+    },
+    {
+      "start": 237.86,
+      "end": 242.42,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg teama, dar să nu anticipăm. Haideți să vedem ce se întâmplă."
+    },
+    {
+      "start": 242.54,
+      "end": 255.84,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, aveți dreptate. Știu că mă panicarez. Soția îmi tot zice că exagerez, dar nu exagerez, chiar mă doare. Și mai am și stres mult la muncă, poate și de la asta, nu știu."
+    },
+    {
+      "start": 255.96,
+      "end": 257.1,
+      "speaker": "SPEAKER_00",
+      "text": "Câți ani aveți?"
+    },
+    {
+      "start": 257.22,
+      "end": 262.16,
+      "speaker": "SPEAKER_01",
+      "text": "41. Și știu, știu, la vârsta asta e normal să apară, dar totuși..."
+    },
+    {
+      "start": 262.28,
+      "end": 267.6,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să facem câteva teste. Ridicați-vă, vă rog, drept, cu picioarele puțin depărtate."
+    },
+    {
+      "start": 267.72,
+      "end": 272.28,
+      "speaker": "SPEAKER_01",
+      "text": "Sigur. Uite, deja când stau drept asa simt o presiune acolo jos."
+    },
+    {
+      "start": 272.4,
+      "end": 276.2,
+      "speaker": "SPEAKER_00",
+      "text": "Acum aplecați-vă ușor înainte, cu mâinile spre podea. Doare?"
+    },
+    {
+      "start": 276.32,
+      "end": 282.4,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, doare când mă aplec, mai ales la jumătatea mișcării. Până jos nu pot ajunge."
+    },
+    {
+      "start": 282.52,
+      "end": 285.56,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum întoarceți-vă ușor spre dreapta. Doare?"
+    },
+    {
+      "start": 285.68,
+      "end": 287.2,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, pe dreapta merge."
+    },
+    {
+      "start": 287.32,
+      "end": 288.12,
+      "speaker": "SPEAKER_00",
+      "text": "Spre stânga."
+    },
+    {
+      "start": 288.24,
+      "end": 291.66,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, asta doare, da. Pe stânga doare mai tare."
+    },
+    {
+      "start": 291.78,
+      "end": 295.96,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Puneți mâinile la ceafă și lăsați-vă ușor pe spate."
+    },
+    {
+      "start": 296.08,
+      "end": 299.12,
+      "speaker": "SPEAKER_01",
+      "text": "Atât pot, nu pot mai mult. Doare jos."
+    },
+    {
+      "start": 299.24,
+      "end": 303.04,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Acum haideți să vă întindeți pe masă, pe spate."
+    },
+    {
+      "start": 303.16,
+      "end": 308.1,
+      "speaker": "SPEAKER_01",
+      "text": "Da, sigur. Mă scuz că am venit cu blugi, nu m-am gândit."
+    },
+    {
+      "start": 308.22,
+      "end": 315.82,
+      "speaker": "SPEAKER_00",
+      "text": "Nu e problemă. Ridic eu piciorul stâng ușor, drept, și îmi spuneți dacă doare sau dacă simțiți ceva pe picior."
+    },
+    {
+      "start": 315.94,
+      "end": 327.34,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo... cam la 40 de grade simt că se trage pe spate și pe picior. E un fel de tensiune. Nu e exact durere, e mai mult o tracțiune."
+    },
+    {
+      "start": 327.46,
+      "end": 328.98,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. La piciorul drept?"
+    },
+    {
+      "start": 329.1,
+      "end": 330.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, dreapta e ok."
+    },
+    {
+      "start": 330.74,
+      "end": 337.96,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum apăs puțin pe zona de lombar. Spuneți-mi dacă doare direct sau dacă simțiți ceva pe picior."
+    },
+    {
+      "start": 338.08,
+      "end": 340.74,
+      "speaker": "SPEAKER_01",
+      "text": "Direct, da, doare direct. Nu pe picior."
+    },
+    {
+      "start": 340.86,
+      "end": 375.06,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Vedeți, mobilitatea lombară e limitată la flexie și la rotație stânga, iar testul pe care l-am făcut cu piciorul stâng arată o tensionare pe traiectul nervului sciatic. Nu e o compresie clară, mai degrabă o iritație. Plus, musculatura paravertebrală pe stânga e contractată, se simte clar. Cel mai probabil avem de-a face cu o lombalgie cronică cu componentă musculară importantă, posibil și o iritație la nivelul rădăcinii L4-L5 sau L5-S1 pe stânga. Nu trebuie să vă panicați legat de operație, asta nu e situația acum."
+    },
+    {
+      "start": 375.18,
+      "end": 377.84,
+      "speaker": "SPEAKER_01",
+      "text": "Auziți, chiar mă liniștiți. Și ce facem?"
+    },
+    {
+      "start": 377.96,
+      "end": 388.98,
+      "speaker": "SPEAKER_00",
+      "text": "O să lucrăm la reducerea contracturii musculare, la mobilizarea articulațiilor sacroiliace, și o să vedem cum evoluează iritația radiculară. Câteva ședințe și stabilim un plan mai clar. Ați înțeles?"
+    },
+    {
+      "start": 389.1,
+      "end": 391.0,
+      "speaker": "SPEAKER_01",
+      "text": "Da, perfect. Haideți să începem."
+    },
+    {
+      "start": 391.12,
+      "end": 394.54,
+      "speaker": "SPEAKER_00",
+      "text": "Stați pe masă, cu fața în jos, vă rog."
+    }
+  ]
+}

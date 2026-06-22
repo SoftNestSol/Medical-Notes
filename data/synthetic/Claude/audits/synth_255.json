@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_255",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel drept, de vreo două săptămâni",
+      "am stat un weekend întreg să vopsesc casa, plafoanele mai ales, cu mâna sus tot timpul, și luni dimineața m-am trezit și nu mai puteam să ridic mâna"
+    ],
+    "evaluarea_durerii_vas": [
+      "Când ridic brațul așa, sus, un 8",
+      "în repaus, noaptea, un 5"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel drept"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă un pic pe braț, pe față, pe zona asta, dar nu prea jos, până pe la jumătatea brațului"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel, Voltaren, de câteva ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendoanelor rotatorilor, cel mai probabil tendon supraspinos afectat, cu limitare de mobilitate pe abducție și rotație internă",
+      "O să lucrăm să reducem inflamația și să refacem mobilitatea umărului",
+      "nu pot să trec de jumătate",
+      "Asta e cel mai rău, nu ajung, mă doare foarte tare"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13796,
+    "inference_geo": "global",
+    "input_tokens": 314,
+    "output_tokens": 2242,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

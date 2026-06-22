@@ -1,0 +1,43 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare ceafa.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut brusc sau a venit treptat?\nSPEAKER_01: Treptat.\nSPEAKER_00: Treptat. Și aveți vreo idee ce a declanșat-o? Ați stat mult la calculator, ați dormit prost, ceva anume?\nSPEAKER_01: Stau mult la birou, da. Toată ziua.\nSPEAKER_00: Toată ziua la birou. Și durerea este strict în ceafă sau se lasă și în altă parte?\nSPEAKER_01: Urcă și în cap, uneori.\nSPEAKER_00: Urcă în cap. Adică o senzație de durere de cap sau mai degrabă o tensiune?\nSPEAKER_01: Tensiune, în spate la cap.\nSPEAKER_00: În spate la cap, la baza craniului.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o parte sau pe ambele?\nSPEAKER_01: Pe ambele.\nSPEAKER_00: Bun. Și pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, unde situați durerea din ceafă?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. E constantă sau variază?\nSPEAKER_01: Variază. Spre seară e mai rău.\nSPEAKER_00: Spre seară e mai rău, după ore de stat la birou. Am înțeles. Și dimineața când vă treziți, e mai bine?\nSPEAKER_01: Da, dimineața e suportabil.\nSPEAKER_00: Bun. Durerea coboară și pe umăr sau pe braț?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Nu. Aveți amorțeli la mâini, degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Senzații de amețeală, vertij?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ați mai avut această problemă înainte, sau e prima dată?\nSPEAKER_01: Prima dată așa rău.\nSPEAKER_00: Prima dată. Alte afecțiuni, tensiune arterială, diabet, ceva de genul?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun medicament. Ok. Haideți să facem câteva teste rapide. Întoarceți capul spre dreapta, ușor.\nSPEAKER_01: Uh, e limitat.\nSPEAKER_00: Simțiți că se oprește și doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: La fel, cam la fel.\nSPEAKER_00: Simetric, ambele direcții limitate. Acum dați capul puțin pe spate.\nSPEAKER_01: Asta doare mai tare.\nSPEAKER_00: Doare mai tare la extensie. Am înțeles. Apăs acum pe mușchii din ceafă, îmi spuneți dacă e sensibil.\nSPEAKER_01: Da, acolo e. Foarte sensibil.\nSPEAKER_00: Da, simt contractura. Paravertebralii cervicali sunt contractați, mai ales pe zona C4-C5. Rotația e limitată bilateral și extensia cervicală provoacă durere. Nu avem iradiere pe braț, nu avem amorțeli, deci deocamdată fără semne de afectare radiculară. Eu zic că ne confruntăm cu o cervicalgie de postură, cu contractură musculară cervicală și o ușoară iritație la nivelul inserțiilor suboccipitale, de unde vine și tensiunea în cap. Vom lucra să reducem contractura și să recâștigăm mobilitatea cervicală.\nSPEAKER_01: Ok.\nSPEAKER_00: Dacă aveți și radiografie cervicală acasă, aduceți-o la următoarea ședință.\nSPEAKER_01: N-am făcut.\nSPEAKER_00: Nu-i nicio problemă, deocamdată mergem înainte. Vă rog să vă așezați pe masă.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală și tensiune la baza craniului, instalată treptat în ultimele două săptămâni, asociată cu statul prelungit la birou.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații funcționale: Rotație cervicală limitată bilateral, extensie cervicală dureroasă. Contractură paravertebrală cervicală palpabilă, cu sensibilitate maximă în zona C4-C5 și la inserțiile suboccipitale.\nDiagnostic: Cervicalgie de postură cu contractură musculară cervicală și iritație suboccipitală.\nObiective terapeutice: Reducerea contracturii musculare cervicale; recâștigarea mobilității cervicale; ameliorarea tensiunii suboccipitale."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare ceafa.",
+      "De vreo două săptămâni.",
+      "Treptat.",
+      "Stau mult la birou, da. Toată ziua."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare ceafa.",
+      "Urcă și în cap, uneori.",
+      "Tensiune, în spate la cap."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Rotația e limitată bilateral și extensia cervicală provoacă durere.",
+      "simt contractura. Paravertebralii cervicali sunt contractați, mai ales pe zona C4-C5.",
+      "Nu avem iradiere pe braț, nu avem amorțeli, deci deocamdată fără semne de afectare radiculară.",
+      "ne confruntăm cu o cervicalgie de postură, cu contractură musculară cervicală și o ușoară iritație la nivelul inserțiilor suboccipitale",
+      "Vom lucra să reducem contractura și să recâștigăm mobilitatea cervicală."
+    ]
+  }
+}

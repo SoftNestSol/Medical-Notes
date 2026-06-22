@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Și după aceea a apărut durerea?\nSPEAKER_01: Da.\nSPEAKER_00: Doare tot timpul sau doar când mișcați brațul?\nSPEAKER_01: Când mișc.\nSPEAKER_00: Puteți să ridicați brațul sus?\nSPEAKER_01: Greu. Până pe la umăr, mai sus nu.\nSPEAKER_00: Și pe spate, dacă duceți mâna la spate, doare?\nSPEAKER_01: Da, doare.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde ați pune durerea?\nSPEAKER_01: Un 6.\nSPEAKER_00: 6. Noaptea vă deranjează, nu puteți dormi pe partea dreaptă?\nSPEAKER_01: Nu pot, nu.\nSPEAKER_00: Alergii avem?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Luați ceva pentru tensiune?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: O dată pe zi?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai făcut vreun tratament pentru umăr, kinetoterapie, fizioterapie?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio radiografie, niciun RMN?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați puțin cu brațul pe lângă corp, relaxat. O să apăs eu în câteva zone și îmi spuneți dacă doare.\nSPEAKER_01: Ok.\nSPEAKER_00: Aici, pe capul umărului, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și aici, mai spre față?\nSPEAKER_01: Da, acolo mai tare.\nSPEAKER_00: Înțeleg. Acum ridic eu brațul încet, îmi spuneți când apare durerea.\nSPEAKER_01: Acum, aici.\nSPEAKER_00: Cam la 80 de grade. Bun. Avem o inflamație la nivelul tendoanelor rotatorilor, cel mai probabil tendinită de coafă. O să lucrăm să reducem inflamația și să recuperăm amplitudinea de mișcare.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după mutare mobilă, de două săptămâni, cu limitarea ridicării brațului și imposibilitatea de a dormi pe partea dreaptă.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinită de coafă rotatorie umăr drept. Limitare la abducție ~80 grade. Durere la palpare cap humeral și anterior. Obiective terapeutice: reducerea inflamației, recuperarea amplitudinii de mișcare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă.", "De vreo două săptămâni.", "Nu pot, nu."],
+    "evaluarea_durerii_vas": ["Un 6."],
+    "localizarea_durerii": ["Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Da, Enalapril.", "10 miligrame."],
+    "evaluare_functionala_initiala": ["Avem o inflamație la nivelul tendoanelor rotatorilor, cel mai probabil tendinită de coafă. O să lucrăm să reducem inflamația și să recuperăm amplitudinea de mișcare.", "Cam la 80 de grade."]
+  }
+}

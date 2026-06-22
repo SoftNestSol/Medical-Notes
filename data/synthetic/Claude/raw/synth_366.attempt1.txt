@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi?\nSPEAKER_01: Păi, am o durere la umăr, la umărul drept, de vreo două săptămâni și ceva. Adică a început mai ușor, mă gândeam că trece singură, dar nu a trecut, ba chiar s-a mai accentuat. Și ieri nu am mai putut să ridic mâna deloc, practic.\nSPEAKER_00: Înțeles. Și această durere a apărut după ceva anume, după un efort, după o mișcare?\nSPEAKER_01: Da, da, cred că de la serviciu. Eu lucrez la depozit, cărăm cutii, și am ridicat ceva mai greu, nu știu exact ce s-a întâmplat, că nici nu am simțit pe moment, dar a doua zi dimineață m-am trezit și nu mă puteam mișca bine. Am zis că am dormit prost, știți cum e, te mai doare și de la asta.\nSPEAKER_00: Da. Și de atunci s-a agravat treptat sau a variat?\nSPEAKER_01: A variat, da. Câteva zile a fost mai bine, mi-am zis gata, a trecut, dar apoi am mai cărat niște lucruri și s-a reaprinse. Și acum sunt iar rău, mai rău ca la început aș zice.\nSPEAKER_00: Pe o scară de la 0 la 10, cum ați situa durerea acum, în momentul ăsta?\nSPEAKER_01: Acum, că stau cuminte, un 5. Dar dacă încerc să ridic mâna sau să duc mâna la spate, mă taie, ajunge la 8, 9.\nSPEAKER_00: Deci 5 în repaus și până la 8-9 la mișcare.\nSPEAKER_01: Da, exact. Noaptea e și mai neplăcut, nu pot să stau pe partea dreaptă deloc, mă trezesc.\nSPEAKER_00: Înțeles. Și durerea rămâne doar la umăr sau se lasă și în altă parte, pe braț, pe gât?\nSPEAKER_01: Mai mult la umăr, da. Uneori simt ceva și pe partea de sus a brațului, dar nu coboară mai jos de cot. La gât nu simt nimic deosebit.\nSPEAKER_00: Bun. Ați mai avut probleme la umărul acesta înainte?\nSPEAKER_01: Nu, la umăr nu. Am mai avut spate, zona lombară, acum câțiva ani, dar a trecut. La umăr e prima dată.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, ceva la oase?\nSPEAKER_01: Nu, nu am nimic din astea. Sunt relativ sănătos, mă mai doare câte ceva, ca toată lumea, dar boli serioase nu am.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Am luat un gel, Voltaren, câteva zile, că am avut acasă de data trecută când mă durea spatele. L-am pus pe umăr dar nu a ajutat prea mult sincer. Altceva nu iau.\nSPEAKER_00: Înțeles. Și acum mai folosiți gelul?\nSPEAKER_01: Nu, am renunțat că nu vedeam mare diferență.\nSPEAKER_00: Ok. Haideți să vă văd puțin cum stați. Ridicați ușor brațul drept înainte... până unde puteți.\nSPEAKER_01: Până pe aici, cam atât, după aia mă taie.\nSPEAKER_00: Deci avem limitare la abducție și flexie. Acum încercați să duceți mâna la spate, ca și când ați vrea să prindeți centura.\nSPEAKER_01: Asta nu pot deloc, uite, mă doare imediat.\nSPEAKER_00: Da, văd. Stați puțin, o să apăs ușor pe zona asta de deasupra umărului... doare?\nSPEAKER_01: Da, chiar acolo e focarul, acolo mă doare cel mai tare.\nSPEAKER_00: Înțeles. Și când apăs puțin mai în față, pe biceps, sus?\nSPEAKER_01: Și acolo, da, dar mai puțin.\nSPEAKER_00: Bun. Pe baza a ce am văzut, avem o inflamație la nivelul tendonului supraspinosului și posibil o iritație a bursei subacromiale. Asta explică durerea la mișcările de ridicare și la rotație internă. O să începem cu reducerea inflamației și recuperarea mobilității umărului drept.\nSPEAKER_01: Și credeți că se rezolvă? Că mă gândeam că poate trebuie operație sau ceva mai grav, știți cum e când nu știi ce ai.\nSPEAKER_00: În majoritatea cazurilor de genul acesta se rezolvă prin terapie, fără intervenție chirurgicală. Vom vedea cum evoluați după primele ședințe.\nSPEAKER_01: Bine, bine, mă bucur că am venit. Sper să iasă bine.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept, debut după efort la ridicat greutăți, cu limitarea mobilității și acutizare nocturnă, de aproximativ două săptămâni.",
+    "evaluarea_durerii_vas": [5, 8],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": "partea superioară a brațului drept",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare la abducție și flexie umăr drept; rotație internă imposibilă (mână la spate). Sensibilitate la palpare pe zona supraspinosului și pe bicepsul proximal drept. Diagnostic: inflamație tendon supraspinos și iritație bursă subacromială. Obiective terapeutice: reducerea inflamației și recuperarea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["am o durere la umăr, la umărul drept, de vreo două săptămâni și ceva", "am ridicat ceva mai greu", "noaptea e și mai neplăcut, nu pot să stau pe partea dreaptă deloc"],
+    "evaluarea_durerii_vas": ["Acum, că stau cuminte, un 5. Dar dacă încerc să ridic mâna sau să duc mâna la spate, mă taie, ajunge la 8, 9."],
+    "localizarea_durerii": ["am o durere la umăr, la umărul drept"],
+    "localizarea_durerii_alta": ["Uneori simt ceva și pe partea de sus a brațului, dar nu coboară mai jos de cot."],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am luat un gel, Voltaren, câteva zile"],
+    "evaluare_functionala_initiala": ["avem limitare la abducție și flexie", "Asta nu pot deloc, uite, mă doare imediat", "chiar acolo e focarul, acolo mă doare cel mai tare", "avem o inflamație la nivelul tendonului supraspinosului și posibil o iritație a bursei subacromiale", "O să începem cu reducerea inflamației și recuperarea mobilității umărului drept"]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, cu ce problemă vă pot ajuta?\nSPEAKER_01: Bună ziua, da, mă numesc Gabriela, am 38 de ani și vin pentru că mă doare umărul drept de vreo trei săptămâni deja, și sincer nu mai pot dormi, mă trezesc noaptea, întorc pe o parte, pe alta, și pur și simplu nu găsesc o poziție bună.\nSPEAKER_00: Înțeles. Și durerea e mai mult în umăr, sus, sau coboară și pe braț?\nSPEAKER_01: E mai mult sus, în umăr, dar câteodată simt ceva și pe braț, pe zona asta dinspre biceps, în jos, dar nu mereu. Adică nu e constant pe braț, mai mult e sus în umăr.\nSPEAKER_00: Și cum a apărut? S-a întâmplat ceva, ați căzut, ați ridicat ceva?\nSPEAKER_01: Păi asta e, nu știu exact. Adică eu lucrez la birou, stau mult pe calculator, și probabil de la asta, sau poate că am dus niște saci de cumpărături mai grei cu mâna dreaptă, nu știu. Nu am căzut sau ceva, a apărut treptat. Dimineața mă trezeam cu umărul puțin rigid, și după o săptămână era deja durere clară.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare extrem de tare, cum o situați acum?\nSPEAKER_01: Acum? Cam un 5. Dar noaptea, când mă întorc pe umărul drept, cred că ajunge la 7-8, e destul de neplăcut. Ziua mă descurc, dar noaptea e greu.\nSPEAKER_00: Amorțeala, furnicături au fost vreodată?\nSPEAKER_01: Nu, nu am simțit să amorțească ceva, nu. Doar durerea aia.\nSPEAKER_00: Bun. Ridicați brațul drept pentru mine, sus, atât cât puteți.\nSPEAKER_01: Pot să-l ridic, da, dar de pe la, nu știu, cam pe la jumătate doare, și dacă îl duc și mai sus devine destul de neplăcut. Uite, cam până pe aici.\nSPEAKER_00: Da, văd că aveți o limitare la ridicarea brațului. Și dacă facem așa, mișcarea în lateral?\nSPEAKER_01: Da, asta doare mai tare decât înainte. Pe aici doare.\nSPEAKER_00: Înțeles. Alte dureri în altă parte în prezent?\nSPEAKER_01: Păi mai am uneori și ceva în zona gâtului, cervical, mai ales când stau mult la calculator, dar nu e principalul motiv pentru care am venit, umărul e problema. Gâtul îl am de mult, vine și pleacă.\nSPEAKER_00: Și la cervical doare mai tare sau mai puțin decât umărul?\nSPEAKER_01: Oh, mult mai puțin, e o senzație de tensiune, nu neapărat durere, 2-3 poate, nimic serios.\nSPEAKER_00: Bun. Ați luat ceva pentru durere?\nSPEAKER_01: Am luat un Ibuprofen câteva zile, 400, când era mai rău, mai ales seara, că nu puteam să dorm. Și am mai pus un gel, Voltaren, pe umăr, dar nu l-am folosit zilnic, așa, din când în când.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, probleme la inimă?\nSPEAKER_01: Nu, nu am nimic din astea, sunt sănătoasă, mă mai dor câte ceva dar general sunt bine. Nu iau nimic în mod regulat.\nSPEAKER_00: Înțeles. Haideți să verific și eu puțin zona umărului. Spuneți-mi dacă doare când apăs aici.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Și dacă ridic eu brațul pasiv, uite așa?\nSPEAKER_01: Au, da, asta chiar doare mai rău decât înainte.\nSPEAKER_00: Da. Cred că avem o tendinopatie la nivelul coafei rotatorilor, cel mai probabil tendonul supraspinosului. Vedeți că durerea apare la ridicarea brațului și mai ales la mișcarea în abducție. Avem și o ușoară inflamație locală. Obiectivul nostru în primele ședințe e să reducem inflamația, să recuperăm mobilitatea, și să lucrăm și pe musculatura din jur ca să stabilizăm umărul.\nSPEAKER_01: Dar nu e ceva grav, nu? Adică nu trebuie operație sau ceva? Mă gândeam, dacă durează mult timp...\nSPEAKER_00: Nu, nu avem semne de ruptură sau ceva care să necesite intervenție. Cu terapie manuală și exerciții specifice, de obicei evoluează bine. O să vedem cum răspunde.\nSPEAKER_01: Bine, mă bucur. Și pentru gât, facem ceva sau nu?\nSPEAKER_00: Putem să lucrăm puțin și cervicalul, da, dar prioritatea rămâne umărul deocamdată.\nSPEAKER_01: Perfect, mulțumesc.",
+  "note": {
+    "motivul_prezentarii": "Pacientă cu durere la nivelul umărului drept de aproximativ trei săptămâni, apărută treptat, posibil legată de efort fizic (saci grei) și/sau postură la birou. Durere accentuată nocturn, cu limitarea mobilității la abducție și antepulsie. Asociază disconfort cervical cronic, minim.",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": [
+      "umar_dr",
+      "cervical"
+    ],
+    "localizarea_durerii_alta": "braț drept zona biceps",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400"
+      },
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinopatie coafă rotatori, cel mai probabil tendon supraspinosus; ușoară inflamație locală; limitarea abducției și antepulsiei brațului drept.\nObiective terapeutice: reducerea inflamației; recuperarea mobilității umărului; stabilizarea musculaturii periarticulare."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept de vreo trei săptămâni deja",
+      "a apărut treptat. Dimineața mă trezeam cu umărul puțin rigid, și după o săptămână era deja durere clară",
+      "eu lucrez la birou, stau mult pe calculator, și probabil de la asta, sau poate că am dus niște saci de cumpărături mai grei cu mâna dreaptă"
+    ],
+    "evaluarea_durerii_vas": [
+      "Cam un 5",
+      "noaptea, când mă întorc pe umărul drept, cred că ajunge la 7-8"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept",
+      "mai am uneori și ceva în zona gâtului, cervical"
+    ],
+    "localizarea_durerii_alta": [
+      "câteodată simt ceva și pe braț, pe zona asta dinspre biceps, în jos"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Ibuprofen câteva zile, 400",
+      "am mai pus un gel, Voltaren, pe umăr"
+    ],
+    "evaluare_functionala_initiala": [
+      "Cred că avem o tendinopatie la nivelul coafei rotatorilor, cel mai probabil tendonul supraspinosului",
+      "durerea apare la ridicarea brațului și mai ales la mișcarea în abducție. Avem și o ușoară inflamație locală",
+      "Obiectivul nostru în primele ședințe e să reducem inflamația, să recuperăm mobilitatea, și să lucrăm și pe musculatura din jur ca să stabilizăm umărul"
+    ]
+  }
+}

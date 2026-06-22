@@ -1,0 +1,48 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare spatele, jos.\nSPEAKER_00: Zona de lombar, de jos de tot?\nSPEAKER_01: Da.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau a venit treptat?\nSPEAKER_01: Brusc. Am ridicat ceva greu la muncă.\nSPEAKER_00: Ce fel de muncă faceți?\nSPEAKER_01: Depozit. Cărăm marfă.\nSPEAKER_00: Înțeleg. Deci în momentul în care ați ridicat, a apărut durerea imediat?\nSPEAKER_01: Da, pe loc.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum estimați durerea acum?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Și în momentul cel mai rău, când e mai intensă?\nSPEAKER_01: Dimineața, când mă ridic din pat.\nSPEAKER_00: Și după ce vă ridicați, se mai ameliorează puțin?\nSPEAKER_01: Da, după ce mă mișc un pic.\nSPEAKER_00: Bun. Durerea rămâne jos în spate sau se lasă și pe picior?\nSPEAKER_01: Rămâne jos, dar uneori simt ceva și pe fesă stângă.\nSPEAKER_00: Pe fesă stângă. Coboară mai jos de fesă, spre coapsă sau spre genunchi?\nSPEAKER_01: Nu, nu. Doar acolo.\nSPEAKER_00: Amorțeli la picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio amorțeală. Bun. Și când stați jos, pe scaun, doare mai tare sau mai puțin?\nSPEAKER_01: Mai tare dacă stau mult.\nSPEAKER_00: Dacă stați mult pe scaun se agravează. Când vă ridicați în picioare, e mai bine?\nSPEAKER_01: Puțin mai bine, da.\nSPEAKER_00: Haideți să faceți câțiva pași până la perete și înapoi.\nSPEAKER_01: Ok.\nSPEAKER_00: Bun. Văd că mergeți puțin aplecată față. Simțiți că nu puteți sta complet drept?\nSPEAKER_01: Da, mă trage un pic înainte.\nSPEAKER_00: Înțeleg. Acum, cu picioarele ușor depărtate, aplecați-vă ușor în față. Cât puteți.\nSPEAKER_01: Pân-aici ajung.\nSPEAKER_00: Doare?\nSPEAKER_01: Da, jos, în zona aia.\nSPEAKER_00: Pe spate. Și dacă vă aplecați ușor pe spate?\nSPEAKER_01: Ăsta doare mai tare.\nSPEAKER_00: Mai tare la extensie. Am înțeles. Bun, haideți să ne întoarcem. Tensiune arterială aveți, diabet, osteoporoză, vreo afecțiune?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Nicio afecțiune. Ați mai avut probleme la spate înainte de episodul ăsta?\nSPEAKER_01: Nu, prima dată.\nSPEAKER_00: Prima dată. Medicamente luați în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun medicament. Ați mai făcut vreo investigație, RMN, radiografie?\nSPEAKER_01: Nu, n-am făcut nimic.\nSPEAKER_00: Ok. Stați puțin pe piciorul stâng, lăsați-mă eu să apăs ușor pe zona lombară. Spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Pe dreapta e la fel?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Deci mai mult pe stânga, în zona paravertebrală. Și dacă apăs mai jos, la nivelul sacrului?\nSPEAKER_01: Un pic și acolo.\nSPEAKER_00: Un pic și acolo. Bun. Vă voi ruga să vă întindeți pe masă, pe burtă, și ridic eu ușor piciorul stâng. Îmi spuneți dacă apare ceva pe fesă sau pe picior.\nSPEAKER_01: Nu, nu apare.\nSPEAKER_00: Bine. Pe dreapta la fel.\nSPEAKER_01: Nu.\nSPEAKER_00: Perfect, testul e negativ pe ambele părți. Deci nu avem o iradiere radiculară clară. Avem o contractură musculară lombară destul de mare, mai accentuată pe stânga, cu o sensibilitate și în zona sacrală. Cel mai probabil e o lombalgíe acută musculo-ligamentară apărută după efort. O să lucrăm să reducem contractura și inflamația și să recăpătați mobilitatea normală. Are sens?\nSPEAKER_01: Da.\nSPEAKER_00: Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară acută apărută brusc după ridicarea unei greutăți la muncă (depozit), de aproximativ două săptămâni. Durere cu iradiere minimă în fesa stângă, fără amorțeli.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "lombar",
+      "sacral_coccis"
+    ],
+    "localizarea_durerii_alta": "fesă stângă",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nMers cu ușoară anteflexie a trunchiului, pacient nu poate sta complet drept. Flexia anterioară limitată și dureroasă în zona lombară. Extensia lombară mai dureroasă decât flexia. Palpare paravertebrală lombară stângă dureroasă, dreaptă mai puțin. Sensibilitate la palparea zonei sacrale. Test Lasègue negativ bilateral.\nDiagnostic:\nLombosacralgie acută musculo-ligamentară post-efort, fără semne de radiculopatie.\nObiective terapeutice:\nReducerea contracturii musculare și a inflamației; recuperarea mobilității lombare normale."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele, jos.",
+      "Am ridicat ceva greu la muncă.",
+      "De vreo două săptămâni.",
+      "uneori simt ceva și pe fesă stângă",
+      "Amorțeli la picioare? Nu."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "zona de lombar, de jos de tot",
+      "dacă apăs mai jos, la nivelul sacrului? Un pic și acolo."
+    ],
+    "localizarea_durerii_alta": [
+      "uneori simt ceva și pe fesă stângă"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd că mergeți puțin aplecată față.",
+      "mă trage un pic înainte",
+      "Deci mai mult pe stânga, în zona paravertebrală.",
+      "Un pic și acolo.",
+      "testul e negativ pe ambele părți",
+      "Avem o contractură musculară lombară destul de mare, mai accentuată pe stânga, cu o sensibilitate și în zona sacrală.",
+      "cel mai probabil e o lombalgíe acută musculo-ligamentară apărută după efort",
+      "O să lucrăm să reducem contractura și inflamația și să recăpătați mobilitatea normală."
+    ]
+  }
+}

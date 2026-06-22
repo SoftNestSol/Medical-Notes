@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere cervicală cu iradiere în umărul drept, amorțeli nocturne la degetele mâinii drepte, dureri de cap occipital, redoare matinală cervicală. Stă mult la birou, 8 ore/zi la calculator. Simptome de aproximativ 3 luni, cu agravare progresivă.",
+  "evaluarea_durerii_vas": null,
+  "localizarea_durerii": [
+    "cervical",
+    "toracal",
+    "umar_dr",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "75 micrograme/zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- Cervicalgie cu contracturi musculare trapez si cervicali dreapta;\n- Mobilitate cervicala limitata spre dreapta;\n- Posibila iritare radiculara C6-C7 (amorțeli degete mana dreapta nocturn);\n- Componenta toracala posturala.\nObiective terapeutice:\n- Reducerea contracturilor musculare;\n- Eliberarea mobilitatii cervicale;\n- Ameliorarea amortelilor;\n- Corectare posturala (birou/calculator).\nRecomandare: RMN cervical."
+}

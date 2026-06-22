@@ -1,0 +1,55 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă venim astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stângul sau dreptul?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut după ceva anume, după un efort, după o mișcare?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Ați mutat mobilă, înțeles. Și de atunci doare constant sau doar la anumite mișcări?\nSPEAKER_01: La mișcări.\nSPEAKER_00: La ce fel de mișcări? Când ridicați brațul sus, când îl duceți în spate?\nSPEAKER_01: Când îl ridic sus, mai ales.\nSPEAKER_00: Când ridicați brațul sus. Și doare doar în umăr sau coboară și pe braț?\nSPEAKER_01: Doar în umăr.\nSPEAKER_00: Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum e durerea?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Amorțeală în braț sau în mână, simțiți?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Aveți tensiune arterială, diabet, osteoporoză, vreo afecțiune cronică?\nSPEAKER_01: Tensiune, da.\nSPEAKER_00: Hipertensiune. Luați medicamente pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Enalapril. Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: 10 miligrame. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Altă problemă la alte articulații nu aveți? Gât, spate?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun accident, operații la umăr vreodată?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Ridicați brațul stâng în față, încet, cât puteți.\nSPEAKER_01: Până pe aici pot.\nSPEAKER_00: Deci undeva la 90 de grade vă oprește durerea. Și lateral, ridicați lateral?\nSPEAKER_01: La fel, cam tot așa.\nSPEAKER_00: Cam la 90 de grade și lateral. Bun. Apăs puțin aici, în zona asta de deasupra umărului.\nSPEAKER_01: Au, da, acolo.\nSPEAKER_00: Doare la apăsare pe tendonul supraspinatus. Și dacă facem mișcarea asta, rezistați?\nSPEAKER_01: Puțin mai greu.\nSPEAKER_00: Da, e slăbiciune la rezistență. Pare a fi o tendinită la nivelul umărului stâng, zona rotatorilor. O să lucrăm să reducem inflamația și să recuperăm mobilitatea completă.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang aparuta dupa mutarea mobilei, de aproximativ doua saptamani, accentuata la ridicarea bratului.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita umar stang (zona rotatorilor / supraspinatus).\nObservatii functionale: limitare flexie si abductie umar stang la aproximativ 90 grade, durere la palparea tendonului supraspinatus, slabiciune la testul de rezistenta.\nObiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii complete a umarului stang."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Am mutat niște mobilă.",
+      "Vreo două săptămâni.",
+      "Când îl ridic sus, mai ales."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "Doar în umăr."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune, da."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Enalapril.",
+      "10 miligrame."
+    ],
+    "evaluare_functionala_initiala": [
+      "Deci undeva la 90 de grade vă oprește durerea.",
+      "Cam la 90 de grade și lateral.",
+      "Doare la apăsare pe tendonul supraspinatus.",
+      "Da, e slăbiciune la rezistență.",
+      "Pare a fi o tendinită la nivelul umărului stâng, zona rotatorilor.",
+      "O să lucrăm să reducem inflamația și să recuperăm mobilitatea completă."
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "motivul_prezentarii": "Pacientă de 51 ani, lucrător de birou, acuză durere la nivelul umărului stâng instalată treptat în urmă cu aproximativ două-trei săptămâni, declanșată după un efort fizic (ridicat și tracționat cutii grele). Durere fluctuantă (VAS 5/10 în repaus, 7-8/10 noaptea), cu iradiere pe brațul stâng până la cot și ocazional până la încheietură. Amorțeli la degetele inelar și mic. Limitarea mișcării de abducție și retroducție a umărului stâng. Asociază cervicalgie cronică veche. Antecedente: hipertensiune arterială (Lorista 50 mg/zi), scolioză ușoară diagnosticată imagistic.",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "umar_stg"
+  ],
+  "localizarea_durerii_alta": "braț stâng cu iradiere până la cot și ocazional până la încheietură; amorțeli deget inelar și mic",
+  "antecedente": [
+    "hipertensiune_arteriala",
+    "scolioza_cifoza"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Lorista",
+      "doza": "50 mg o dată pe zi"
+    },
+    {
+      "denumire": "Algocalmin",
+      "doza": "la nevoie"
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nArc dureros la abducția umărului stâng, aproximativ 70-80 de grade. Durere la retroducție. Sensibilitate la palparea zonei tendinoase a umărului stâng și a musculaturii cervicale.\nDiagnostic:\nPosibilă tendinopatie de supraspinos (manșeta rotatorilor umăr stâng) post-efort; blocare musculară cervicală pe fond de cervicalgie cronică. Recomandare RMN umăr stâng pentru confirmare.\nObiective terapeutice:\nReducerea procesului inflamator la nivelul umărului stâng; deblocarea musculaturii cervicale; recuperarea mobilității umărului stâng."
+}

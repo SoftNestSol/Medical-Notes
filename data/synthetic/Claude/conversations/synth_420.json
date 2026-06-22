@@ -1,0 +1,337 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.7,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, bine ați venit. Spuneți-mi vă rog, cu ce problemă veniți la noi?"
+    },
+    {
+      "start": 5.82,
+      "end": 15.7,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua. Păi... am o durere, da, la gât și pe umăr, pe partea dreaptă, și... nu știu, e grav? Adică ar trebui să mă îngrijorez?"
+    },
+    {
+      "start": 15.82,
+      "end": 21.14,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să vedem mai întâi ce se întâmplă. De cât timp aveți durerea asta?"
+    },
+    {
+      "start": 21.26,
+      "end": 30.38,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo trei săptămâni, poate o lună. Nu știu exact, a apărut treptat. La început am crezut că trece singură, dar nu a trecut."
+    },
+    {
+      "start": 30.5,
+      "end": 35.06,
+      "speaker": "SPEAKER_00",
+      "text": "Și s-a agravat în timp sau a rămas la același nivel?"
+    },
+    {
+      "start": 35.18,
+      "end": 44.68,
+      "speaker": "SPEAKER_01",
+      "text": "A crescut, da. Adică la început era ceva suportabil, acum mă deranjează destul de tare. Ieri nu am putut să dorm bine din cauza ei."
+    },
+    {
+      "start": 44.8,
+      "end": 54.3,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 înseamnă că nu doare deloc și 10 doare extrem de tare, unde o situați acum?"
+    },
+    {
+      "start": 54.42,
+      "end": 62.02,
+      "speaker": "SPEAKER_01",
+      "text": "Acum, în repaus, să zicem un 5. Dar când mă întorc capul sau ridic brațul, ajunge la 7, poate 8."
+    },
+    {
+      "start": 62.14,
+      "end": 68.98,
+      "speaker": "SPEAKER_00",
+      "text": "Deci 5 în repaus și 7-8 la mișcare. Bine. Unde exact simțiți durerea? Puteți să îmi arătați?"
+    },
+    {
+      "start": 69.1,
+      "end": 77.46,
+      "speaker": "SPEAKER_01",
+      "text": "Uite, cam pe aici, la baza gâtului, și se duce pe umărul drept, uneori și puțin spre omoplat. Da, cam pe-acolo."
+    },
+    {
+      "start": 77.58,
+      "end": 84.42,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Deci zona cervicală și umărul drept. Iradiază cumva pe braț în jos, spre cot sau mai departe?"
+    },
+    {
+      "start": 84.54,
+      "end": 94.04,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori simt un fel de... nu știu cum să zic... parcă un curent slab pe braț, pe partea de sus. Nu mereu, dar se întâmplă."
+    },
+    {
+      "start": 94.16,
+      "end": 97.58,
+      "speaker": "SPEAKER_00",
+      "text": "Pe partea exterioară a brațului sau pe cea interioară?"
+    },
+    {
+      "start": 97.7,
+      "end": 102.26,
+      "speaker": "SPEAKER_01",
+      "text": "Pe exterior, parcă. Dar nu știu, poate îmi imaginez eu. E îngrijorător?"
+    },
+    {
+      "start": 102.38,
+      "end": 108.84,
+      "speaker": "SPEAKER_00",
+      "text": "Să terminăm evaluarea și o să vă explic tot. Vă amorțesc degetele? Degetele de la mâna dreaptă?"
+    },
+    {
+      "start": 108.96,
+      "end": 118.08,
+      "speaker": "SPEAKER_01",
+      "text": "Nu... adică uneori dimineața când mă trezesc parcă e ceva, dar trece repede. Nu știu dacă e din cauza asta sau dorm eu strâmb."
+    },
+    {
+      "start": 118.2,
+      "end": 122.0,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Ce faceți ca ocupație? Lucrați la birou, lucrați fizic?"
+    },
+    {
+      "start": 122.12,
+      "end": 128.96,
+      "speaker": "SPEAKER_01",
+      "text": "La birou. Stau mult la calculator, cam 8-9 ore pe zi. Și cu telefonul, mult cu telefonul."
+    },
+    {
+      "start": 129.08,
+      "end": 136.68,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Deci postura prelungită. Ați observat dacă durerea e mai mare după orele la calculator sau dimineața când vă treziți?"
+    },
+    {
+      "start": 136.8,
+      "end": 144.78,
+      "speaker": "SPEAKER_01",
+      "text": "Seara, după muncă, e mai rău. Dimineața e ceva mai suportabilă, dar cum ajung la birou și stau câteva ore, începe."
+    },
+    {
+      "start": 144.9,
+      "end": 148.7,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai avut episoade similare înainte sau e prima dată?"
+    },
+    {
+      "start": 148.82,
+      "end": 158.7,
+      "speaker": "SPEAKER_01",
+      "text": "Mai am eu dureri de gât din când în când, dar nu așa. Asta e mai insistentă și se duce și pe umăr, asta e diferit."
+    },
+    {
+      "start": 158.82,
+      "end": 161.1,
+      "speaker": "SPEAKER_00",
+      "text": "Ați făcut vreo investigație? RMN, radiografie?"
+    },
+    {
+      "start": 161.22,
+      "end": 168.06,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am făcut nimic. Ar trebui să fac? E posibil să fie ceva grav, hernie sau ceva?"
+    },
+    {
+      "start": 168.18,
+      "end": 181.48,
+      "speaker": "SPEAKER_00",
+      "text": "Nu vă putem spune sigur fără investigații, dar din ce descrieți pare mai degrabă o problemă mecanică, de postură și tensiune musculară. Vom vedea după ce facem câteva teste. Ați luat vreun medicament pentru durere?"
+    },
+    {
+      "start": 181.6,
+      "end": 187.68,
+      "speaker": "SPEAKER_01",
+      "text": "Am luat Paracetamol, 500 de miligrame, de câteva ori. A ajutat un pic, dar nu complet."
+    },
+    {
+      "start": 187.8,
+      "end": 190.84,
+      "speaker": "SPEAKER_00",
+      "text": "Și altceva luați, pentru altceva? Alte medicamente regulat?"
+    },
+    {
+      "start": 190.96,
+      "end": 195.14,
+      "speaker": "SPEAKER_01",
+      "text": "Da, iau Losartan, pentru tensiune. 50 de miligrame, în fiecare dimineață."
+    },
+    {
+      "start": 195.26,
+      "end": 197.16,
+      "speaker": "SPEAKER_00",
+      "text": "Deci aveți tensiune arterială crescută."
+    },
+    {
+      "start": 197.28,
+      "end": 206.78,
+      "speaker": "SPEAKER_01",
+      "text": "Da, am descoperit acum doi ani. E sub control cu medicamentul, dar tot am tensiunea aia. Asta e o problemă pentru ce vreți să faceți?"
+    },
+    {
+      "start": 206.9,
+      "end": 213.74,
+      "speaker": "SPEAKER_00",
+      "text": "Nu e o contraindicație, o notăm doar. Altceva din punct de vedere medical? Diabet, probleme la inimă, osteoporoză?"
+    },
+    {
+      "start": 213.86,
+      "end": 221.46,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, nimic altceva. Cel puțin nu știu de nimic. Asta cu tensiunea a fost o surpriză și pentru mine."
+    },
+    {
+      "start": 221.58,
+      "end": 224.62,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Ați avut vreo intervenție chirurgicală sau fracturi?"
+    },
+    {
+      "start": 224.74,
+      "end": 225.54,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, niciodată."
+    },
+    {
+      "start": 225.66,
+      "end": 234.4,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți să facem câteva teste acum. Stați în picioare, vă rog, cu fața la mine. Să vedem cum stați în picioare, relaxat."
+    },
+    {
+      "start": 234.52,
+      "end": 237.56,
+      "speaker": "SPEAKER_01",
+      "text": "Bine. E ceva în neregulă cu cum stau?"
+    },
+    {
+      "start": 237.68,
+      "end": 249.46,
+      "speaker": "SPEAKER_00",
+      "text": "Observ că aveți capul ușor proiectat în față, umerii sunt căzuți în față. E o postură frecventă la cei care stau mult la birou. Acum, întoarceți capul spre dreapta, ușor. Doare?"
+    },
+    {
+      "start": 249.58,
+      "end": 254.52,
+      "speaker": "SPEAKER_01",
+      "text": "Da, doare, uite, pe-acolo la gât și se simte și pe umăr."
+    },
+    {
+      "start": 254.64,
+      "end": 255.78,
+      "speaker": "SPEAKER_00",
+      "text": "Și spre stânga?"
+    },
+    {
+      "start": 255.9,
+      "end": 258.94,
+      "speaker": "SPEAKER_01",
+      "text": "Stânga merge mai bine. Nu doare la fel."
+    },
+    {
+      "start": 259.06,
+      "end": 262.48,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Aplecați capul spre umărul drept, urechea spre umăr."
+    },
+    {
+      "start": 262.6,
+      "end": 265.64,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da, asta doare mai tare. Chiar tare."
+    },
+    {
+      "start": 265.76,
+      "end": 272.98,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Mobilitate limitată și dureroasă spre dreapta. Acum ridicați brațul drept lateral, ca o aripă, până sus, cât puteți."
+    },
+    {
+      "start": 273.1,
+      "end": 280.32,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe-aici pot, mai sus nu mai merge, mă doare pe umăr și se simte și la gât."
+    },
+    {
+      "start": 280.44,
+      "end": 289.56,
+      "speaker": "SPEAKER_00",
+      "text": "Deci abducția brațului drept e limitată și dureroasă. Stați jos vă rog. O să vă apăs puțin în zona gâtului, spuneți-mi unde simțiți."
+    },
+    {
+      "start": 289.68,
+      "end": 296.14,
+      "speaker": "SPEAKER_01",
+      "text": "Da, uite, acolo, chiar acolo doare la apăsare. E mai rău decât mă așteptam. Asta înseamnă ceva?"
+    },
+    {
+      "start": 296.26,
+      "end": 312.22,
+      "speaker": "SPEAKER_00",
+      "text": "Înseamnă că musculatura este contractată și inflamată în zona respectivă. Observ o tensiune importantă la nivelul mușchilor cervicali, trapez superior drept în special, și o restricție de mobilitate care poate irita rădăcina nervoasă. E de muncit, dar nu e o situație gravă."
+    },
+    {
+      "start": 312.34,
+      "end": 316.14,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu e hernie? Nu e ceva care trebuie operat?"
+    },
+    {
+      "start": 316.26,
+      "end": 332.6,
+      "speaker": "SPEAKER_00",
+      "text": "Nu putem exclude o problemă discală fără RMN, dar ce vedem acum sugerează mai mult o disfuncție mecanică, un blocaj cervical cu afectarea mușchilor din jur. Recomandarea mea ar fi să facem terapie de mobilizare, lucru pe musculatură, și să vedem cum evoluează."
+    },
+    {
+      "start": 332.72,
+      "end": 336.9,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, dar dacă se agravează, ar trebui să fac RMN-ul?"
+    },
+    {
+      "start": 337.02,
+      "end": 351.08,
+      "speaker": "SPEAKER_00",
+      "text": "Da, dacă simțiți că amorțeala se accentuează sau dacă apare slăbiciune la mână, atunci da, mergeți și la medic pentru investigații. Momentan, obiectivul nostru e să reducem contractura, să eliberăm mobilitatea cervicală și să lucrăm și postura."
+    },
+    {
+      "start": 351.2,
+      "end": 354.24,
+      "speaker": "SPEAKER_01",
+      "text": "Și câte ședințe credeți că ar fi nevoie?"
+    },
+    {
+      "start": 354.36,
+      "end": 363.86,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde cum răspundeți la tratament. De obicei, 4-6 ședințe pentru început, și vedem. Nu vă fac promisiuni, dar de obicei se observă ameliorare rapid."
+    },
+    {
+      "start": 363.98,
+      "end": 369.68,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, sper. Mă tot gândeam că e ceva serios și nu știam ce să fac."
+    },
+    {
+      "start": 369.8,
+      "end": 377.78,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg că e îngrijorător, mai ales când nu știți ce e. Dar hai să trecem la treabă și vedem cum merge."
+    }
+  ]
+}

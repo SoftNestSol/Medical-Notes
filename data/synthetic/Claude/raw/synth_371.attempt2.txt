@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva? O lovitură, un efort?\nSPEAKER_01: Am cărat niște cutii la serviciu. Multe.\nSPEAKER_00: Înțeles. Durerea e locală, în umăr, sau coboară și pe braț?\nSPEAKER_01: Mai mult în umăr. Câteodată un pic pe braț, dar nu mult.\nSPEAKER_00: Amorțeală în mână sau în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare doare?\nSPEAKER_01: Cam 6.\nSPEAKER_00: Doare mai tare când ridicați brațul?\nSPEAKER_01: Da. Și noaptea.\nSPEAKER_00: Noaptea vă trezește din somn?\nSPEAKER_01: Uneori.\nSPEAKER_00: Stați pe partea dreaptă când dormiți?\nSPEAKER_01: Da.\nSPEAKER_00: Asta agravează. Avem alergii la medicamente?\nSPEAKER_01: Nu.\nSPEAKER_00: Tensiune, diabet, vreo afecțiune pe care o urmăriți?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați brațul în față pentru mine, cât puteți. Doare?\nSPEAKER_01: Da, cam de aici.\nSPEAKER_00: Pe la 90 de grade începe durerea. Acum lateral, ridicați brațul.\nSPEAKER_01: Asta doare mai tare.\nSPEAKER_00: Mai tare pe lateral. Bun. Apăs acum pe capul humerusului, spuneți-mi dacă doare.\nSPEAKER_01: Da, doare.\nSPEAKER_00: Și aici, pe tendonul de sus?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Pare o inflamație la nivelul coafei rotatorilor, tendonul supraspinosului cel mai probabil. O să lucrăm să reducem inflamația și să refacem mobilitatea umărului. Cam 3-4 ședințe pentru început.\nSPEAKER_01: Ok.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (carat cutii la serviciu), de aproximativ doua saptamani. Durere accentuata la ridicarea bratului si noaptea.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "iradiere usoara pe brat",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Durere la abductie activa incepand de la aprox. 90 de grade; abductia laterala mai dureroasa decat flexia anterioara. Durere la palparea capului humerusului si a tendonului supraspinosului. Diagnostic: inflamatie coafa rotatori, tendon supraspinos. Obiective terapeutice: reducerea inflamatiei, refacerea mobilitatii umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am cărat niște cutii la serviciu. Multe.", "De vreo două săptămâni.", "Și noaptea."],
+    "evaluarea_durerii_vas": ["Cam 6."],
+    "localizarea_durerii": ["Dreptul."],
+    "localizarea_durerii_alta": ["Câteodată un pic pe braț, dar nu mult."],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Pe la 90 de grade începe durerea.", "Mai tare pe lateral.", "Apăs acum pe capul humerusului, spuneți-mi dacă doare.", "Da, doare.", "Și aici, pe tendonul de sus?", "Da, și acolo.", "Pare o inflamație la nivelul coafei rotatorilor, tendonul supraspinosului cel mai probabil. O să lucrăm să reducem inflamația și să refacem mobilitatea umărului."]
+  }
+}

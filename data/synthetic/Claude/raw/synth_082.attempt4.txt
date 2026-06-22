@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți la noi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stângul sau dreptul?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut din senin sau ați făcut ceva, ați căzut, ați ridicat ceva?\nSPEAKER_01: Am ridicat niște saci la serviciu.\nSPEAKER_00: Saci grei?\nSPEAKER_01: Da, cam da.\nSPEAKER_00: Și imediat după aceea a apărut durerea sau a doua zi?\nSPEAKER_01: A doua zi.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde o situați?\nSPEAKER_01: Un 7.\nSPEAKER_00: Doare constant sau numai când mișcați brațul?\nSPEAKER_01: Când mișc.\nSPEAKER_00: Când ridicați brațul sus doare?\nSPEAKER_01: Da, nu pot să-l ridic.\nSPEAKER_00: Ajungeți cu brațul până unde, aproximativ?\nSPEAKER_01: Până la nivelul umărului, atât.\nSPEAKER_00: Deci nu puteți trece de orizontală.\nSPEAKER_01: Nu.\nSPEAKER_00: Doare și noaptea, când stați pe umăr?\nSPEAKER_01: Da, mă trezesc.\nSPEAKER_00: Înțeleg. Se lasă durerea și pe braț, pe cot, pe mână?\nSPEAKER_01: Nu, stă doar acolo.\nSPEAKER_00: Bun. Ați mai avut probleme cu umărul acesta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte probleme de sănătate, tensiune, diabet, ceva cronic?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune arterială ridicată?\nSPEAKER_01: Da.\nSPEAKER_00: Luați medicamente pentru tensiune?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: Nu știu exact, dimineața una.\nSPEAKER_00: Ok. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vedem puțin. Ridicați brațul în față, ușor... Până acolo puteți?\nSPEAKER_01: Da, cam atât.\nSPEAKER_00: Și acum în lateral... Doare acum?\nSPEAKER_01: Da, aici doare.\nSPEAKER_00: Pe partea de sus a umărului?\nSPEAKER_01: Da, sus și puțin în față.\nSPEAKER_00: Apăs acum pe zona asta de sus... Doare?\nSPEAKER_01: Au, da.\nSPEAKER_00: Deci avem o sensibilitate la nivelul tendonului supraspinos. Și dacă facem mișcarea asta cu brațul ușor îndoit... Doare la mijlocul traseului?\nSPEAKER_01: Da, da.\nSPEAKER_00: Bun. Pare o afectare a coafei rotatorilor, mai exact zona supraspinosului. Vom lucra să reducem inflamația și să recâștigăm mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă cu fața în sus, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang aparuta dupa ridicare de saci grei la serviciu, de aproximativ doua saptamani. Limitarea abductiei bratului sub orizontala, durere nocturna.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: afectare coafa rotatori umar stang, zona supraspinos.\nObiective terapeutice: reducerea inflamatiei, recastigarea mobilitatii."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Am ridicat niște saci la serviciu.",
+      "Vreo două săptămâni.",
+      "Da, mă trezesc."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 7."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "stă doar acolo"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am.",
+      "Tensiune arterială ridicată? Da."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Enalapril."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare o afectare a coafei rotatorilor, mai exact zona supraspinosului.",
+      "Vom lucra să reducem inflamația și să recâștigăm mobilitatea."
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "conversation_id": "synth_409",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul. Ăsta, stângul. De ceva timp.",
+      "A început mai ușor și acum e mai... mai consistent.",
+      "stau mult la birou, tastez toată ziua",
+      "se lasă și pe aici, pe braț, în jos, cam până la cot. Uneori.",
+      "dimineața mai ales. Mă trezesc și mâna stângă e cam... cam amorțită.",
+      "parcă mai mult astea, inelarul și micul",
+      "o greutate, o tensiune pe aici, pe umăr și pe ceafă un pic"
+    ],
+    "evaluarea_durerii_vas": [
+      "undeva pe la 5, aș zice"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul. Ăsta, stângul.",
+      "o greutate, o tensiune pe aici, pe umăr și pe ceafă un pic"
+    ],
+    "localizarea_durerii_alta": [
+      "se lasă și pe aici, pe braț, în jos, cam până la cot. Uneori.",
+      "Pe... pe exterior, cred.",
+      "parcă mai mult astea, inelarul și micul"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Am tiroida, de vreo trei ani. Hipotiroidism, mi-au spus."
+    ],
+    "medicatie_actuala": [
+      "iau Euthyrox. Dimineața, pe stomacul gol.",
+      "75, parcă. 75 de micrograme."
+    ],
+    "evaluare_functionala_initiala": [
+      "umărul stâng e ușor căzut față de dreptul",
+      "la aproximativ 80-90 de grade apare durerea",
+      "avem un arc dureros, ceea ce sugerează o inflamație la nivelul bursei sau o leziune parțială a tendoanelor din manseta rotatorilor. Probabil supraspinosul.",
+      "Mă blochez pe la mijlocul spatelui, nu pot mai sus.",
+      "doare, da. Acolo e mai sensibil.",
+      "avem o limitare de mobilitate la nivelul umărului stâng, cu arc dureros la abducție, blocaj la rotația internă și externă. Cel mai probabil vorbim de o tendinopatie a supraspinosului, posibil cu o mică bursită subacromială.",
+      "amorțelile pe inelar și deget mic sugerează o iritație la nivel de C8",
+      "să reducem inflamația din bursă, să lucrăm mobilitatea umărului și să decomprimăm puțin și cervicalul"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23139,
+    "inference_geo": "global",
+    "input_tokens": 334,
+    "output_tokens": 4042,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "Durere umar drept cu iradiere pe brat, aparuta dupa efort fizic, de aproximativ trei saptamani",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "brat drept (iradiere)",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Enalapril",
+      "doza": "10 miligrame"
+    }
+  ],
+  "evaluare_functionala_initiala": "Mobilitate activa limitata la aproximativ 90 de grade abductie umar drept; rotatie interna dureroasa la fortare. Durere la palpare zona anterioara si acromion umar drept. Diagnostic: tendinita coafa rotatori umar drept. Obiective terapeutice: reducerea inflamatiei si recuperarea mobilitatii bratului."
+}

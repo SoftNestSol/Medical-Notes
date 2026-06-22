@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de sus, de mijloc?\nSPEAKER_01: Jos.\nSPEAKER_00: Partea de lombar. De când durează?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume la debut, ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Am carat niște saci la mutat.\nSPEAKER_00: Ah, deci la mutare. Și de atunci doare continuu sau vine și trece?\nSPEAKER_01: E mai mult dimineața.\nSPEAKER_00: Dimineața când vă ridicați din pat?\nSPEAKER_01: Da.\nSPEAKER_00: Și pe parcursul zilei se mai simte?\nSPEAKER_01: Se mai simte, dar mai puțin.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum este dimineața?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: Și în restul zilei?\nSPEAKER_01: Poate un 4.\nSPEAKER_00: Durerea rămâne în zona lombară sau se lasă și pe fesă sau pe picior în jos?\nSPEAKER_01: Uneori pe fesă, pe dreapta.\nSPEAKER_00: Doar pe fesă sau coboară mai jos, spre coapsă, spre genunchi?\nSPEAKER_01: Nu, doar pe fesă.\nSPEAKER_00: Ok. Amorțeli la picioare simțiți?\nSPEAKER_01: Nu.\nSPEAKER_00: Stați mult pe scaun la serviciu?\nSPEAKER_01: Da, la birou.\nSPEAKER_00: Și când stați jos mult timp se accentuează durerea?\nSPEAKER_01: Da, dacă stau mai mult de o oră.\nSPEAKER_00: Și vă ameliorează ceva? Mișcarea, căldura?\nSPEAKER_01: Mișcarea parcă mai mult.\nSPEAKER_00: Bun. Vă întreb câteva lucruri de rutină. Tensiune, diabet, epilepsie, osteoporoză, aveți ceva din astea?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio operație, niciun accident mai serios?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreo medicație în momentul ăsta?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici antiinflamatoare, nimic?\nSPEAKER_01: Nu, n-am luat nimic.\nSPEAKER_00: Ok. Hai să vă văd puțin cum stați. Vă rog să vă ridicați și să stați cu spatele la mine.\nSPEAKER_01: Bun.\nSPEAKER_00: Umerii lăsați, picioarele puțin depărtate. Văd că aveți o ușoară înclinare spre stânga, bazinul e puțin ridicat pe dreapta. Ați observat asta?\nSPEAKER_01: Nu știam.\nSPEAKER_00: Se întâmplă, mai ales după un efort cu greutăți. O să apăs acum pe zona lombară, îmi spuneți dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: La pătrat lombar pe dreapta. Și mai jos, pe fesier?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Bun. Acum vă rog să vă aplecați ușor înainte, cât puteți.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare la aplecare?\nSPEAKER_01: Da, se trage.\nSPEAKER_00: Se trage în lombar. Ok. Haideți pe masă, cu fața în jos, să vedem și mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Deci avem o lombalgie acută după efort, cu contractură paravertebrală lombară și tensionare a fesierului pe dreapta. O să lucrăm să reducem inflamația și să relaxăm musculatura, să vedem cum răspunde după primele două-trei ședințe.\nSPEAKER_01: Și trece?\nSPEAKER_00: Trece, da. E un caz clasic, nu e nimic complicat.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută după efort fizic (carat saci la mutare), cu iradiere pe fesă dreapta, accentuată dimineața și la stat prelungit pe scaun.",
+    "evaluarea_durerii_vas": [7, 4],
+    "localizarea_durerii": ["lombar"],
+    "localizarea_durerii_alta": "fesă dreapta",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară înclinare a trunchiului spre stânga, bazin ridicat pe dreapta. Durere la palpare paravertebral lombar și fesier drept. Limitare la flexia anterioară a trunchiului cu senzație de tracțiune lombară.\nDiagnostic:\nLombalgie acută după efort, cu contractură paravertebrală lombară și tensionare fesier drept.\nObiective terapeutice:\nReducerea inflamației și relaxarea musculaturii paravertebrale lombare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele.", "Am carat niște saci la mutat.", "E mai mult dimineața.", "Uneori pe fesă, pe dreapta.", "Da, dacă stau mai mult de o oră."],
+    "evaluarea_durerii_vas": ["Vreo 7.", "Poate un 4."],
+    "localizarea_durerii": ["Jos.", "Da, acolo doare."],
+    "localizarea_durerii_alta": ["Uneori pe fesă, pe dreapta."],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Văd că aveți o ușoară înclinare spre stânga, bazinul e puțin ridicat pe dreapta.", "La pătrat lombar pe dreapta. Și mai jos, pe fesier?", "Se trage în lombar.", "avem o lombalgie acută după efort, cu contractură paravertebrală lombară și tensionare a fesierului pe dreapta. O să lucrăm să reducem inflamația și să relaxăm musculatura"]
+  }
+}

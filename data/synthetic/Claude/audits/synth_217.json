@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_217",
+  "evidence": {
+    "motivul_prezentarii": [
+      "eu am o problemă cu umărul, umărul stâng, de vreo trei săptămâni mă tot doare",
+      "mă doare când ridic mâna, când o duc așa în sus",
+      "noaptea mă trezesc câteodată, dacă stau pe partea aia, pe stânga",
+      "am fost la sală, fac sală de vreo doi ani, și după o antrenament mi-a rămas umărul cam țeapăn"
+    ],
+    "evaluarea_durerii_vas": [
+      "în mișcarea aia când ridic mâna sus... un 7 aș zice",
+      "Noaptea poate mai puțin, un 4-5 când mă trezesc"
+    ],
+    "localizarea_durerii": [
+      "umărul stâng",
+      "problema e în sus și mai ales în spate, dacă vreau să ajung la fermoarul de la spate"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "am scolioză, mi s-a zis la 14 ani că am o scolioză ușoară"
+    ],
+    "antecedente_altele": [
+      "am mai avut o fractură la claviculă pe dreapta când eram mic, la 9 ani, am căzut de pe bicicletă"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o limitare a abducției și a flexiei peste 90 de grade, cu durere la palparea supraspinosului și la test de rezistență",
+      "Pare a fi o afectare la nivelul coifei rotatorilor, cel mai probabil tendinos",
+      "obiectivul nostru e să reducem inflamația, să recuperăm mobilitatea completă și să puteți reveni la sală fără durere",
+      "Ar fi util să faceți o ecografie de umăr"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22058,
+    "inference_geo": "global",
+    "input_tokens": 318,
+    "output_tokens": 3395,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

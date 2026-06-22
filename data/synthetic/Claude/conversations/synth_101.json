@@ -1,0 +1,361 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 5.64,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne vedem azi."
+    },
+    {
+      "start": 5.76,
+      "end": 6.9,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare spatele."
+    },
+    {
+      "start": 7.02,
+      "end": 9.3,
+      "speaker": "SPEAKER_00",
+      "text": "Zona de jos, zona de sus?"
+    },
+    {
+      "start": 9.42,
+      "end": 10.22,
+      "speaker": "SPEAKER_01",
+      "text": "Jos."
+    },
+    {
+      "start": 10.34,
+      "end": 12.62,
+      "speaker": "SPEAKER_00",
+      "text": "Lombar, deci. De când vă doare?"
+    },
+    {
+      "start": 12.74,
+      "end": 14.26,
+      "speaker": "SPEAKER_01",
+      "text": "De vreo două săptămâni."
+    },
+    {
+      "start": 14.38,
+      "end": 18.94,
+      "speaker": "SPEAKER_00",
+      "text": "Două săptămâni. S-a întâmplat ceva anume, ați ridicat ceva, ați căzut?"
+    },
+    {
+      "start": 19.06,
+      "end": 20.96,
+      "speaker": "SPEAKER_01",
+      "text": "Am stat mult la birou."
+    },
+    {
+      "start": 21.08,
+      "end": 28.68,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Pe o scară de la 0 la 10, 0 nu doare deloc, 10 doare foarte rău, unde o situați?"
+    },
+    {
+      "start": 28.8,
+      "end": 29.6,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 5."
+    },
+    {
+      "start": 29.72,
+      "end": 33.52,
+      "speaker": "SPEAKER_00",
+      "text": "5. Doare tot timpul sau mai mult când stați jos?"
+    },
+    {
+      "start": 33.64,
+      "end": 37.06,
+      "speaker": "SPEAKER_01",
+      "text": "Când stau jos mai mult. Și când mă ridic."
+    },
+    {
+      "start": 37.18,
+      "end": 39.46,
+      "speaker": "SPEAKER_00",
+      "text": "Când vă ridicați din scaun doare."
+    },
+    {
+      "start": 39.58,
+      "end": 40.38,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 40.5,
+      "end": 44.3,
+      "speaker": "SPEAKER_00",
+      "text": "Se lasă durerea și pe picior, pe fesă, pe coapsă?"
+    },
+    {
+      "start": 44.42,
+      "end": 45.22,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 45.34,
+      "end": 46.86,
+      "speaker": "SPEAKER_00",
+      "text": "Strict în zona lombară."
+    },
+    {
+      "start": 46.98,
+      "end": 47.78,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 47.9,
+      "end": 48.7,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțesc picioarele?"
+    },
+    {
+      "start": 48.82,
+      "end": 49.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 49.74,
+      "end": 52.78,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Tensiune arterială, diabet, osteoporoză, ceva din astea?"
+    },
+    {
+      "start": 52.9,
+      "end": 53.7,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 53.82,
+      "end": 54.62,
+      "speaker": "SPEAKER_00",
+      "text": "Nicio afecțiune."
+    },
+    {
+      "start": 54.74,
+      "end": 55.54,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 55.66,
+      "end": 56.8,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale, fracturi?"
+    },
+    {
+      "start": 56.92,
+      "end": 57.72,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 57.84,
+      "end": 59.36,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament acum?"
+    },
+    {
+      "start": 59.48,
+      "end": 60.28,
+      "speaker": "SPEAKER_01",
+      "text": "Ibuprofen, câteodată."
+    },
+    {
+      "start": 60.4,
+      "end": 61.2,
+      "speaker": "SPEAKER_00",
+      "text": "Câte miligrame?"
+    },
+    {
+      "start": 61.32,
+      "end": 62.84,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu. Cel obișnuit."
+    },
+    {
+      "start": 62.96,
+      "end": 67.14,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți să stați puțin în picioare, cu spatele la mine."
+    },
+    {
+      "start": 67.26,
+      "end": 68.06,
+      "speaker": "SPEAKER_01",
+      "text": "Așa?"
+    },
+    {
+      "start": 68.18,
+      "end": 72.36,
+      "speaker": "SPEAKER_00",
+      "text": "Da, exact. Relaxați umerii. Văd o ușoară înclinare spre stânga. Simțiți?"
+    },
+    {
+      "start": 72.48,
+      "end": 74.38,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, nu am observat."
+    },
+    {
+      "start": 74.5,
+      "end": 77.92,
+      "speaker": "SPEAKER_00",
+      "text": "Aplecați-vă puțin în față, ca să atingeți podeaua."
+    },
+    {
+      "start": 78.04,
+      "end": 79.56,
+      "speaker": "SPEAKER_01",
+      "text": "Doare când mă aplec."
+    },
+    {
+      "start": 79.68,
+      "end": 81.96,
+      "speaker": "SPEAKER_00",
+      "text": "Doare la aplecare. Până unde ajungeți?"
+    },
+    {
+      "start": 82.08,
+      "end": 83.6,
+      "speaker": "SPEAKER_01",
+      "text": "Cam până la genunchi."
+    },
+    {
+      "start": 83.72,
+      "end": 87.9,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, limitare la flexie. Acum ridicați-vă ușor. Doare mai rău?"
+    },
+    {
+      "start": 88.02,
+      "end": 90.3,
+      "speaker": "SPEAKER_01",
+      "text": "Da, la ridicat doare mai tare."
+    },
+    {
+      "start": 90.42,
+      "end": 93.84,
+      "speaker": "SPEAKER_00",
+      "text": "Apăs puțin în zona lombară. Spuneți-mi dacă doare."
+    },
+    {
+      "start": 93.96,
+      "end": 95.1,
+      "speaker": "SPEAKER_01",
+      "text": "Da, aici doare."
+    },
+    {
+      "start": 95.22,
+      "end": 97.88,
+      "speaker": "SPEAKER_00",
+      "text": "Pe dreapta sau pe stânga mai mult?"
+    },
+    {
+      "start": 98.0,
+      "end": 98.8,
+      "speaker": "SPEAKER_01",
+      "text": "Dreapta parcă."
+    },
+    {
+      "start": 98.92,
+      "end": 102.34,
+      "speaker": "SPEAKER_00",
+      "text": "Dreapta. Haideți pe masă acum, cu fața în sus."
+    },
+    {
+      "start": 102.46,
+      "end": 103.26,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 103.38,
+      "end": 107.18,
+      "speaker": "SPEAKER_00",
+      "text": "Ridic piciorul drept încet. Spuneți-mi dacă se simte ceva."
+    },
+    {
+      "start": 107.3,
+      "end": 108.1,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 108.22,
+      "end": 109.36,
+      "speaker": "SPEAKER_00",
+      "text": "Nu. Piciorul stâng."
+    },
+    {
+      "start": 109.48,
+      "end": 110.62,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu doare."
+    },
+    {
+      "start": 110.74,
+      "end": 128.22,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Deci nu avem iradiere, nu avem test Lasègue pozitiv. Este o contractură musculară paravertebrală lombară, mai accentuată pe dreapta. Cel mai probabil din postura de la birou. O să lucrăm pe relaxarea musculaturii și pe mobilizare lombară. Câteva ședințe și ar trebui să se regleze."
+    },
+    {
+      "start": 128.34,
+      "end": 129.14,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 129.26,
+      "end": 131.16,
+      "speaker": "SPEAKER_00",
+      "text": "Vârsta dacă pot să întreb?"
+    },
+    {
+      "start": 131.28,
+      "end": 132.08,
+      "speaker": "SPEAKER_01",
+      "text": "34."
+    },
+    {
+      "start": 132.2,
+      "end": 135.62,
+      "speaker": "SPEAKER_00",
+      "text": "Mulți înainte. Lucrați mult de acasă sau la birou?"
+    },
+    {
+      "start": 135.74,
+      "end": 137.64,
+      "speaker": "SPEAKER_01",
+      "text": "La birou, zi de zi."
+    },
+    {
+      "start": 137.76,
+      "end": 140.04,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Haideți să trecem la treabă."
+    }
+  ]
+}

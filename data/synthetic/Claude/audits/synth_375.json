@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_375",
+  "evidence": {
+    "motivul_prezentarii": [
+      "de vreo trei săptămâni mă doare umărul drept",
+      "a apărut treptat, într-o dimineață m-am trezit și deja mă durea",
+      "eu lucrez în depozit, car cutii tot timpul, și probabil de acolo"
+    ],
+    "evaluarea_durerii_vas": [
+      "Dimineața un 7, aș zice",
+      "Pe parcursul zilei se mai liniștește, poate 4-5"
+    ],
+    "localizarea_durerii": [
+      "Aici, în față, pe partea din față a umărului"
+    ],
+    "localizarea_durerii_alta": [
+      "se lasă și pe braț în jos",
+      "Până pe la jumătatea brațului, până pe la biceps, nu mai jos"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Voltaren am pus",
+      "gel am pus, nu am luat pastile"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem un conflict în spațiul subacromial",
+      "o inflamație la nivelul tendoanelor din umărul drept, cel mai probabil o tendinopatie de supraspinos, cu un sindrom de impingement subacromial",
+      "Mișcarea este limitată și dureroasă pe abducție și rotație internă",
+      "Vom lucra să reducem inflamația, să eliberăm spațiul subacromial și să redobândim mobilitatea completă a umărului"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22971,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 2447,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

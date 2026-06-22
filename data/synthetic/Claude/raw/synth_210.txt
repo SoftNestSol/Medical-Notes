@@ -1,0 +1,66 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, doamnă.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Păi, mă doare umărul, cel stâng, de vreo două săptămâni. Și nu știu, mă îngrijorez un pic, că nu-mi trece.\nSPEAKER_00: Înțeleg. Și durerea asta a apărut brusc sau a venit treptat?\nSPEAKER_01: Treptat, adică... la început simțeam ceva mic, o jenă. Și acum s-a accentuat. Nu știu dacă e ceva grav, doamnă doctor.\nSPEAKER_00: Nu sunt doctor, sunt terapeut, dar hai să vedem exact ce se întâmplă. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare extrem de rău, cât ați pune durerea acum?\nSPEAKER_01: Acum... undeva la 5. Dar uneori, mai ales noaptea, ajunge la 7, poate chiar 8.\nSPEAKER_00: Deci fluctuează. Mai tare noaptea.\nSPEAKER_01: Da, exact. Mă trezesc din somn câteodată. Și asta mă sperie, sincer.\nSPEAKER_00: Înțeleg că vă îngrijorează. Durerea rămâne strict în umăr sau se lasă și pe braț?\nSPEAKER_01: Se lasă, da. Adică coboară pe... pe brațul ăsta, până pe la cot aproximativ. Uneori și mai jos, dar mai rar.\nSPEAKER_00: Mai jos de cot, până unde?\nSPEAKER_01: Păi nu știu sigur, parcă până la încheietură, dar nu mereu. Nu știu dacă am spus bine.\nSPEAKER_00: Bine ați spus. Amorțesc degetele?\nSPEAKER_01: Da, câteodată amorțesc, inelar și cel mic. Asta e grav?\nSPEAKER_00: Vom lămuri. Există o cauză clară, ceva ce ați făcut înainte să înceapă?\nSPEAKER_01: Am mutat niște cutii acum vreo trei săptămâni, mai grele. Am tras de ele și din seara aia a început să doară.\nSPEAKER_00: Deci a apărut după un efort fizic, un travaliu de... cum ați spus, niște cutii grele.\nSPEAKER_01: Da, da, exact. Am ridicat și am tras de ele, nu știu, poate n-am stat bine.\nSPEAKER_00: Când ridicați brațul stâng sus, doare?\nSPEAKER_01: Da, foarte tare, nu pot să ridic brațul deasupra capului. Adică ajung până pe la nivelul ăsta, și gata, nu mai merge.\nSPEAKER_00: Și când duceți brațul în spate?\nSPEAKER_01: Și aia doare, da. Mă cam blochează.\nSPEAKER_00: Ok. Stați puțin, ridic eu brațul... spuneți-mi când simțiți că doare mai tare.\nSPEAKER_01: Acum... acum! Pe la jumătate, da. Aoleo.\nSPEAKER_00: Deci avem un arc dureros la abducție, undeva pe la 70-80 de grade. Bine.\nSPEAKER_01: E grav ce am?\nSPEAKER_00: Haideți să terminăm testarea și vă explic tot. Ați mai avut probleme cu umărul ăsta înainte?\nSPEAKER_01: Nu, niciodată. Ăsta e prima dată. Asta mă și miră.\nSPEAKER_00: Alte dureri în afară de umăr și braț?\nSPEAKER_01: Mă mai doare ceafa, dar aia e de mult. De ani de zile.\nSPEAKER_00: De mult timp cervicalul. Și în ultima perioadă s-a accentuat sau e la fel?\nSPEAKER_01: La fel, nu s-a schimbat mare lucru. E o durere surdă, stă acolo.\nSPEAKER_00: Înțeleg. Vârstă dacă pot să întreb?\nSPEAKER_01: 51 de ani.\nSPEAKER_00: Mulțumesc. Și ocupația?\nSPEAKER_01: Lucrez la birou, stau mult pe calculator.\nSPEAKER_00: Deci postură statică multe ore. Antecedente medicale, aveți ceva diagnosticat? Tensiune, diabet, probleme cu oasele?\nSPEAKER_01: Da, am tensiune. De vreo patru ani iau pastile pentru asta.\nSPEAKER_00: Ce pastile luați pentru tensiune, dacă știți?\nSPEAKER_01: Iau... Lorista, parcă. Da, Lorista 50. O dată pe zi.\nSPEAKER_00: Altceva în afară de Lorista?\nSPEAKER_01: Mai iau uneori câte un Algocalmin când mă doare rău umărul. Dar nu în fiecare zi, doar când nu mai pot.\nSPEAKER_00: Deci Algocalmin la nevoie. Bine. Diabet?\nSPEAKER_01: Nu, nu am diabet.\nSPEAKER_00: Osteoporoză, artroză, hernie de disc?\nSPEAKER_01: Nu mi s-a spus nimic din astea. Deși... am făcut o radiografie la coloană acum doi ani și mi-au zis ceva de scolioză, dar mică, că nu e gravă.\nSPEAKER_00: Scolioză ușoară. Ok. Intervenții chirurgicale?\nSPEAKER_01: Nu, nicio operație.\nSPEAKER_00: Boli autoimune, cancer?\nSPEAKER_01: Nu, doamne ferește.\nSPEAKER_00: Alergii?\nSPEAKER_01: Nu știu de niciuna.\nSPEAKER_00: Bine. Haideți să vă apăs puțin pe umăr, pe zona asta de aici, și îmi spuneți dacă doare.\nSPEAKER_01: Da, doare. Chiar tare.\nSPEAKER_00: Și pe zona asta, mai spre ceafă?\nSPEAKER_01: Și aia doare, da. E legată una de alta?\nSPEAKER_00: Cel mai probabil, da. Vedeți, mușchii de la nivelul gâtului și umărului lucrează împreună. Când s-a produs efortul ăla cu cutiile, cel mai probabil s-au suprasolicitat tendoanele din zona umărului, mai exact ce numim zona manșetei rotatorilor, și în același timp s-a blocat și musculatura cervicală care era deja sensibilă la dumneavoastră.\nSPEAKER_01: Adică am ceva rupt acolo? Mă sperie tare.\nSPEAKER_00: Nu neapărat rupt. Avem o inflamație la nivelul tendoanelor, posibil o tendinopatie de supraspinos, plus o blocare musculară cervicală. Dar pentru a fi siguri, ar fi util un RMN de umăr.\nSPEAKER_01: Deci trebuie să merg la doctor?\nSPEAKER_00: Recomand să faceți investigația, da. Între timp putem lucra să reducem inflamația și să deblochăm musculatura, să nu stea lucrurile pe loc.\nSPEAKER_01: Și o să treacă?\nSPEAKER_00: Cu terapia corectă, da, în general se ameliorează bine. Dar depinde și de ce arată RMN-ul.\nSPEAKER_01: Ok, am înțeles. Mă liniștesc puțin.\nSPEAKER_00: Bine. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Pacientă de 51 ani, lucrător de birou, acuză durere la nivelul umărului stâng instalată treptat în urmă cu aproximativ două-trei săptămâni, declanșată după un efort fizic (ridicat și tracționat cutii grele). Durere fluctuantă (VAS 5/10 în repaus, 7-8/10 noaptea), cu iradiere pe brațul stâng până la cot și ocazional până la încheietură. Amorțeli la degetele inelar și mic. Limitarea mișcării de abducție și retroducție a umărului stâng. Asociază cervicalgie cronică veche. Antecedente: hipertensiune arterială (Lorista 50 mg/zi), scolioză ușoară diagnosticată imagistic.",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": [
+      "cervical",
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": "braț stâng cu iradiere până la cot și ocazional până la încheietură; amorțeli deget inelar și mic",
+    "antecedente": [
+      "hipertensiune_arteriala",
+      "scolioza_cifoza"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Lorista",
+        "doza": "50 mg o dată pe zi"
+      },
+      {
+        "denumire": "Algocalmin",
+        "doza": "la nevoie"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nArc dureros la abducția umărului stâng, aproximativ 70-80 de grade. Durere la retroducție. Sensibilitate la palparea zonei tendinoase a umărului stâng și a musculaturii cervicale.\nDiagnostic:\nPosibilă tendinopatie de supraspinos (manșeta rotatorilor umăr stâng) post-efort; blocare musculară cervicală pe fond de cervicalgie cronică. Recomandare RMN umăr stâng pentru confirmare.\nObiective terapeutice:\nReducerea procesului inflamator la nivelul umărului stâng; deblocarea musculaturii cervicale; recuperarea mobilității umărului stâng."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel stâng, de vreo două săptămâni",
+      "Am mutat niște cutii acum vreo trei săptămâni, mai grele. Am tras de ele și din seara aia a început să doară.",
+      "Lucrez la birou, stau mult pe calculator.",
+      "51 de ani",
+      "am tensiune. De vreo patru ani iau pastile pentru asta",
+      "am făcut o radiografie la coloană acum doi ani și mi-au zis ceva de scolioză, dar mică, că nu e gravă"
+    ],
+    "evaluarea_durerii_vas": [
+      "undeva la 5. Dar uneori, mai ales noaptea, ajunge la 7, poate chiar 8"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel stâng",
+      "Mă mai doare ceafa, dar aia e de mult"
+    ],
+    "localizarea_durerii_alta": [
+      "coboară pe... pe brațul ăsta, până pe la cot aproximativ",
+      "parcă până la încheietură, dar nu mereu",
+      "amorțesc, inelar și cel mic"
+    ],
+    "antecedente": [
+      "am tensiune. De vreo patru ani iau pastile pentru asta",
+      "mi-au zis ceva de scolioză, dar mică, că nu e gravă"
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Lorista 50. O dată pe zi",
+      "mai iau uneori câte un Algocalmin când mă doare rău umărul. Dar nu în fiecare zi, doar când nu mai pot"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem un arc dureros la abducție, undeva pe la 70-80 de grade",
+      "s-au suprasolicitat tendoanele din zona umărului, mai exact ce numim zona manșetei rotatorilor, și în același timp s-a blocat și musculatura cervicală",
+      "Avem o inflamație la nivelul tendoanelor, posibil o tendinopatie de supraspinos, plus o blocare musculară cervicală",
+      "ar fi util un RMN de umăr",
+      "putem lucra să reducem inflamația și să deblochăm musculatura"
+    ]
+  }
+}

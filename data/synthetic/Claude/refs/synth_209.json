@@ -1,0 +1,21 @@
+{
+  "motivul_prezentarii": "Pacient cu durere la umărul drept, instalată treptat în aproximativ două luni, posibil legată de postura la birou. Durere pe fața laterală a umărului cu iradiere pe fața laterală a brațului (proximal). VAS 4 în repaus, 7 la mișcări (ridicarea brațului deasupra capului, mișcarea la spate). Durere nocturnă la decubit pe umărul drept, redoare matinală de circa 30 de minute. Asociază disconfort/redoare cervicală posterioară la sfârsitul zilei.",
+  "evaluarea_durerii_vas": [
+    4,
+    7
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "fata laterala a bratului drept (proximal)",
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidism diagnosticat de aproximativ doi ani",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "75 micrograme, un comprimat dimineata"
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare activa a flexiei si abductiei umarului drept la aproximativ 90 de grade cu durere. Durere la miscare cu rezistenta. Crepitatie palpabila la mobilizarea umarului. Diagnostic: tendinopatie coif rotatori (supraspinos), posibila bursita subacromala asociata. Zona cervicala contributiva (redoare cervicala posterioara seara). Obiective terapeutice: reducerea inflamatiei locale, recuperarea mobilitatii umarului drept, relaxarea musculaturii cervicale si periarticulare."
+}

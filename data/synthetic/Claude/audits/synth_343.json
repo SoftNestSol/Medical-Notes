@@ -1,0 +1,43 @@
+{
+  "conversation_id": "synth_343",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Am mutat niște mobilă.",
+      "Da, cam a doua zi.",
+      "mă trezesc."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6.",
+      "Atunci mai tare, un 8."
+    ],
+    "localizarea_durerii": [
+      "Care umăr?\nSPEAKER_01: Dreptul.",
+      "Pe partea anterioară și laterală a umărului drept."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendoanelor din umărul drept, mai precis zona de rotatori și tendonul bicepsului",
+      "Va trebui să lucrăm în primele ședințe pe reducerea inflamației, după care vom lucra pe mobilitate și pe tonifierea musculaturii din zonă.",
+      "Doare rotația externă.",
+      "Și pe acromion, aici sus.\nSPEAKER_01: Și acolo."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 13823
+    },
+    "cache_creation_input_tokens": 13823,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 2135,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

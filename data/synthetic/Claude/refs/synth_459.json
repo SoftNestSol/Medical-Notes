@@ -1,0 +1,26 @@
+{
+  "motivul_prezentarii": "Durere umar drept cu iradiere pe fata anterioara a bratului drept, agravata de miscare, cu limitare de mobilitate; debuta accentuat dupa ridicare greutati; postura vicioasa la calculator si tensiune cervicala dreapta asociata",
+  "evaluarea_durerii_vas": [
+    8,
+    3
+  ],
+  "localizarea_durerii": [
+    "umar_dr",
+    "cervical",
+    "toracal"
+  ],
+  "localizarea_durerii_alta": "fata anterioara a bratului drept",
+  "antecedente": [],
+  "antecedente_altele": "hipotiroidie",
+  "medicatie_actuala": [
+    {
+      "denumire": "Euthyrox",
+      "doza": "50 de micrograme"
+    },
+    {
+      "denumire": "Paracetamol",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observatii functionale: limitare flexie brat drept ~90 grade; limitare abductie sub 90 grade; rotatie interna limitata; sensibilitate la palpare tendon biceps anterior si varf umar; slabiciune la abductie cu rezistenta; musculatura cervicala dreapta contractata si rigida comparativ cu stanga; postura cu monitor lateral stanga determinand rotatie cervicala prelungita.\nDiagnostic: tendinopatie coafa rotatori (supraspinatus + tendon biceps); contractura musculatura cervicala dreapta cu iradiere pe brat.\nObiective terapeutice: reducerea inflamatiei articulatiei umarului; relaxarea musculaturii cervicale; recuperarea mobilitatii umarului."
+}

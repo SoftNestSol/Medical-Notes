@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_113",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "Vreo două săptămâni.",
+      "treptat parcă",
+      "La birou stau toată ziua.",
+      "Și umărul stâng un pic.",
+      "Câteodată.",
+      "Noaptea mai mult.",
+      "Da, uneori."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Și umărul stâng un pic."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am, da."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau, da. Prestarium.",
+      "5 miligrame."
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o contractură musculară cervicală, cu iradiere spre umărul stâng",
+      "Mobilitatea e limitată, mai ales în rotație și înclinare spre stânga",
+      "Probabil și o tensionare a trapezului",
+      "O să lucrăm să reducem contractura și să redăm mobilitatea"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 21912
+    },
+    "cache_creation_input_tokens": 21912,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1885,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

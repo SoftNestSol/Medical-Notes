@@ -1,0 +1,41 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume sau a apărut așa, din senin?\nSPEAKER_01: Am cărat niște cutii mai grele la muncă.\nSPEAKER_00: Înțeles. Și de atunci doare?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare e durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: Un 5. Doare tot timpul sau doar la mișcare?\nSPEAKER_01: Mai mult când ridic mâna.\nSPEAKER_00: Când o ridicați în față sau în lateral?\nSPEAKER_01: În lateral mai rău.\nSPEAKER_00: Și dacă ridicați brațul în față, doare la fel?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Bun. Și noaptea vă deranjează, vă treziți din cauza durerii?\nSPEAKER_01: Uneori, dacă stau pe partea aia.\nSPEAKER_00: Pe umărul drept dacă dormiți, doare?\nSPEAKER_01: Da.\nSPEAKER_00: Înțeles. Durerea rămâne la umăr sau coboară și pe braț?\nSPEAKER_01: Rămâne acolo.\nSPEAKER_00: Nu aveți amorțeli sau furnicături pe braț, pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte dureri în altă parte?\nSPEAKER_01: Nu, doar umărul.\nSPEAKER_00: Ok. Afecțiuni mai vechi, cum ar fi tensiune, diabet, cancer, epilepsie?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați ceva în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere prin sânge, alergii la creme sau unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ridicați mâna pentru mine în lateral, încet, până unde puteți.\nSPEAKER_01: Până pe aici.\nSPEAKER_00: Doare de la ce unghi?\nSPEAKER_01: De pe la mijloc în sus.\nSPEAKER_00: Deci undeva pe la 90 de grade apare durerea. Acum ridicați în față.\nSPEAKER_01: Asta merge mai bine.\nSPEAKER_00: Da, văd. Lăsați brațul jos și rotiți umărul spre interior, ca și când ați duce mâna la spate.\nSPEAKER_01: Și asta doare puțin.\nSPEAKER_00: Puțin. Acum spre exterior, ca și când ați deface o ușă.\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Ok. Deci avem limitare la abducție peste 90 de grade și la rotație internă. Asta seamănă cu o afectare a coafei rotatorilor, cel mai probabil tendinită la nivelul supraspinosului. Trebuie să reducem inflamația și să recâștigăm mobilitatea umărului. Ok?\nSPEAKER_01: Da, bine.\nSPEAKER_00: Haideți pe masă să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa caratul unor cutii grele la munca, de aproximativ doua saptamani. Durere la abductie peste 90 de grade si la rotatie interna, mai putin la flexie anterioara. Durere nocturna la culcat pe umarul afectat.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinita supraspinos umar dr. (afectare coafa rotatori)\nObservatii functionale:\n- limitare abductie peste 90 de grade cu durere; flexie anterioara relativ pastrata; rotatie interna dureroasa; rotatie externa cu durere minima\nObiective terapeutice:\n- reducerea inflamatiei; recastigarea mobilitatii umarului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "De vreo două săptămâni.",
+      "Am cărat niște cutii mai grele la muncă.",
+      "În lateral mai rău.",
+      "Uneori, dacă stau pe partea aia."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 5."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Deci avem limitare la abducție peste 90 de grade și la rotație internă.",
+      "Asta seamănă cu o afectare a coafei rotatorilor, cel mai probabil tendinită la nivelul supraspinosului.",
+      "Trebuie să reducem inflamația și să recâștigăm mobilitatea umărului."
+    ]
+  }
+}

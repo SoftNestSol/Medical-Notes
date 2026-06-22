@@ -1,0 +1,47 @@
+{
+  "conversation_id": "synth_240",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul. Umărul drept. De vreo trei săptămâni, aproape o lună.",
+      "gâtul mă mai deranjează uneori. Nu știu dacă e legat. Adică nu e durere mare, dar am o tensiune acolo, la ceafă"
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 4, poate.",
+      "Un 8. Poate chiar 9 câteodată."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul. Umărul drept.",
+      "am o tensiune acolo, la ceafă, mai ales dimineața"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "am tensiune. De vreo șapte ani."
+    ],
+    "antecedente_altele": [
+      "am un pic de gastrită"
+    ],
+    "medicatie_actuala": [
+      "Perindopril. 5 mg, o dată pe zi, dimineața.",
+      "Mai iau ceva pentru stomac, Omeprazol, 20 mg"
+    ],
+    "evaluare_functionala_initiala": [
+      "există o inflamație în zona tendonului de la umăr, cel mai probabil o tendinită sau un sindrom de impingement",
+      "O să lucrăm în primă fază să reducem inflamația, după care recuperăm mobilitatea brațului",
+      "o să ne uităm și la zona cervicală, că e posibil să fie și acolo o tensiune musculară"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13674,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 3138,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

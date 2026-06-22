@@ -1,0 +1,45 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de sus?\nSPEAKER_01: Jos.\nSPEAKER_00: Lombar. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut brusc sau treptat?\nSPEAKER_01: Brusc.\nSPEAKER_00: S-a întâmplat ceva anume? Ați ridicat ceva, ați făcut un efort?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde ați situa durerea?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Doare constant sau numai la mișcare?\nSPEAKER_01: Mai mult când mă ridic sau când stau mult jos.\nSPEAKER_00: Când vă ridicați din scaun sau din pat?\nSPEAKER_01: Da, amândouă.\nSPEAKER_00: Durerea se lasă pe fesă, pe picior?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici un pic pe fesă?\nSPEAKER_01: Nu, rămâne jos la spate.\nSPEAKER_00: Strict lombar. Amorțeli la picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Stați în picioare mult în activitate?\nSPEAKER_01: Lucrez la birou, stau mult pe scaun.\nSPEAKER_00: Și asta agravează.\nSPEAKER_01: Da.\nSPEAKER_00: Când vă culcați, vă doare?\nSPEAKER_01: Dacă stau pe o parte merge, pe spate nu prea.\nSPEAKER_00: Pe spate nu merge. Dimineața cum vă treziți, sunteți blocat?\nSPEAKER_01: Un pic, da. Până mă pun în mișcare.\nSPEAKER_00: Înțeleg. Alte afecțiuni, tensiune, diabet, probleme la inimă?\nSPEAKER_01: Nu.\nSPEAKER_00: Hernie de disc știți să aveți, scolioză?\nSPEAKER_01: Nu știu, n-am făcut nicio investigație.\nSPEAKER_00: Ok. Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Nimic.\nSPEAKER_00: Bun. Haideți să fac câteva teste. Stați în picioare cu spatele la mine.\nSPEAKER_01: Bine.\nSPEAKER_00: Relaxați umerii. Văd că aveți bazinul ușor înclinat spre stânga. Simțiți că aveți un picior mai obosit decât celălalt?\nSPEAKER_01: Parcă dreptul.\nSPEAKER_00: Stați puțin pe piciorul drept, lăsați stângul relaxat. Vă ține?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Aplecați-vă ușor în față, cât puteți.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare când vă aplecați?\nSPEAKER_01: Da, se strânge acolo jos.\nSPEAKER_00: Se strânge. Și pe extensie, pe spate?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin pe extensie. Haideți pe masă, culcați cu fața în sus. Ridic piciorul drept, spuneți-mi dacă doare undeva.\nSPEAKER_01: Nu.\nSPEAKER_00: Nu doare. Același lucru pe stânga.\nSPEAKER_01: Nu, nu doare.\nSPEAKER_00: Bun, testul acesta e negativ, deci nu avem iritație radiculară evidentă. Apăs paravertebral lombar, doare?\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: Mai mult pe dreapta sau stânga?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Înțeleg. Avem o contractură musculară paravertebrală, mai accentuată pe dreapta, și o ușoară dezaliniere de bazin. Durerea e locală, fără iradiere, ceea ce e un semn bun. Obiectivul nostru e să relaxăm musculatura din zona lombară, să reducem inflamația locală și să lucrăm mobilitatea ca să nu se cronicizeze.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară joasă apărută brusc în urmă cu două săptămâni după efort fizic (mutat mobilă). Durere accentuată la ridicarea din scaun/pat și după stat prelungit pe scaun. Redoare matinală care cedează la mișcare. Fără iradiere, fără amorțeli.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nBazin ușor înclinat spre stânga. Contractură musculară paravertebrală lombară, mai accentuată pe dreapta. Flexie lombară limitată și dureroasă, extensia mai puțin dureroasă. Test Lasègue negativ bilateral. Fără semne de iritație radiculară.\nDiagnostic:\nContractură musculară paravertebrală lombară cu dezaliniere de bazin, fără iradiere radiculară.\nObiective terapeutice:\nRelaxarea musculaturii lombare, reducerea inflamației locale, recuperarea mobilității, prevenirea cronicizării."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Am mutat niște mobilă.",
+      "Vreo două săptămâni.",
+      "Mai mult când mă ridic sau când stau mult jos.",
+      "Nu, rămâne jos la spate.",
+      "Un pic, da. Până mă pun în mișcare."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Jos.",
+      "rămâne jos la spate"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți bazinul ușor înclinat spre stânga.",
+      "Avem o contractură musculară paravertebrală, mai accentuată pe dreapta, și o ușoară dezaliniere de bazin.",
+      "Durerea e locală, fără iradiere, ceea ce e un semn bun.",
+      "testul acesta e negativ, deci nu avem iritație radiculară evidentă",
+      "Apăs paravertebral lombar, doare?",
+      "Pe dreapta.",
+      "Obiectivul nostru e să relaxăm musculatura din zona lombară, să reducem inflamația locală și să lucrăm mobilitatea ca să nu se cronicizeze."
+    ]
+  }
+}

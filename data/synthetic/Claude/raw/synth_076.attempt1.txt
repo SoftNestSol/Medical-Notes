@@ -1,0 +1,36 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua, bună ziua! Scuzați că am întârziat un pic, am avut trafic groaznic, știți cum e pe la ore astea.\nSPEAKER_00: Nu-i problemă. Cu ce vă pot ajuta?\nSPEAKER_01: Păi, mă doare umărul drept. De vreo trei săptămâni, poate patru. Sincer nu mai știu exact când a început, dar știu că dimineața e cel mai rău, mă trezesc și nu pot să ridic mâna.\nSPEAKER_00: Umărul drept. Și doare constant sau doar la mișcare?\nSPEAKER_01: La mișcare mai ales, dar și așa, când stau liniștit, mai simt un fel de jenă acolo. Nu e o durere care să mă omoare, dar mă deranjează. Și am citit pe internet, știți, că poate fi ceva la tendoane, și m-am speriat un pic. Sper să nu fie ceva grav.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, cum ați pune durerea?\nSPEAKER_01: Când ridic mâna sus, dau un 7. Când stau jos, poate un 3, un 4. Depinde.\nSPEAKER_00: A apărut după ceva anume? Un efort, o lovitură?\nSPEAKER_01: Da, da! Asta voiam să zic. Am zugrăvit în casă, am stat cu mâna ridicată cam două zile la rând. Soția mea a zis că am exagerat, și probabil a avut dreptate. Dar trebuia să terminăm înainte de Crăciun.\nSPEAKER_00: Deci a apărut după zugrăvit.\nSPEAKER_01: Exact, a doua zi dimineața nu mai puteam să mă ridic din pat normal. Și de atunci tot ține.\nSPEAKER_00: Durerea se lasă și pe braț în jos sau e strict în umăr?\nSPEAKER_01: Strict în umăr, pe aici. Poate un pic pe deasupra, spre gât, dar nu pe braț.\nSPEAKER_00: Spre gât, pe partea dreaptă?\nSPEAKER_01: Da, uneori. Dar asta poate e de la stres, că am și serviciu complicat acum.\nSPEAKER_00: Înțeleg. Ați luat ceva pentru durere?\nSPEAKER_01: Am luat Nurofen, câte unul seara când nu mai puteam. Nu știu dacă e bine să iau, dar ajută puțin.\nSPEAKER_00: Cât de des?\nSPEAKER_01: Cam la două zile, nu în fiecare zi. Mă feresc eu să iau pastile, nu prea îmi place ideea.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, ceva la coloană?\nSPEAKER_01: Tensiune am, da. Iau Enalapril de vreo cinci ani. În rest nu știu, nu am mai fost la doctor de mult, că nu prea am timp. Sper să nu aibă legătură cu inima sau ceva, am citit că umărul stâng poate fi semn de inimă, dar al meu e dreptul, deci nu e asta, nu?\nSPEAKER_00: E dreptul, da. Stați puțin, vă ridic brațul așa, încet. Spuneți-mi când apare durerea.\nSPEAKER_01: Acum, cam pe la jumătate, da, acolo.\nSPEAKER_00: Și dacă duc brațul în față?\nSPEAKER_01: Mai puțin, dar tot simt ceva.\nSPEAKER_00: Înțeleg. Avem o limitare la abducție, durere la ridicarea laterală a brațului. Cel mai probabil e o inflamație la nivelul tendoanelor coifului rotator, de la suprasolicitarea din zugrăvit. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după zugrăvit (stat cu mâna ridicată două zile), prezentă de aproximativ trei-patru săptămâni, mai intensă dimineața și la ridicarea brațului.",
+    "evaluarea_durerii_vas": [7, 3],
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "spre gât, pe partea dreaptă",
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Nurofen",
+        "doza": "câte unul seara, cam la două zile"
+      },
+      {
+        "denumire": "Enalapril",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare la abducție, durere la ridicarea laterală a brațului. Diagnostic: inflamație la nivelul tendoanelor coifului rotator, de la suprasolicitarea din zugrăvit. Obiective terapeutice: reducerea inflamației și recuperarea mobilității umărului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul drept. De vreo trei săptămâni, poate patru", "Am zugrăvit în casă, am stat cu mâna ridicată cam două zile la rând", "dimineața e cel mai rău, mă trezesc și nu pot să ridic mâna"],
+    "evaluarea_durerii_vas": ["Când ridic mâna sus, dau un 7. Când stau jos, poate un 3, un 4."],
+    "localizarea_durerii": ["mă doare umărul drept", "Strict în umăr, pe aici"],
+    "localizarea_durerii_alta": ["Maybe un pic pe deasupra, spre gât, dar nu pe braț", "Da, uneori. Dar asta poate e de la stres"],
+    "antecedente": ["Tensiune am, da."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Am luat Nurofen, câte unul seara când nu mai puteam", "cam la două zile, nu în fiecare zi", "Iau Enalapril de vreo cinci ani"],
+    "evaluare_functionala_initiala": ["Avem o limitare la abducție, durere la ridicarea laterală a brațului. Cel mai probabil e o inflamație la nivelul tendoanelor coifului rotator, de la suprasolicitarea din zugrăvit. Vom lucra să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

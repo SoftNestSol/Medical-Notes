@@ -1,0 +1,29 @@
+{
+  "motivul_prezentarii": "Dureri toracale medii și umăr stâng, cu tensiune cervicală la mișcare, apărute progresiv, posibil legate de postura la birou",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "toracal",
+    "umar_stg",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala",
+    "hernia_disc"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "5 mg dimineața"
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale: umărul stâng coborât față de cel drept, proiecție anterioară a capului. Mobilitate limitată la nivelul umărului stâng (durere la abducție de la 90 de grade). Tensiune la rotația cervicală spre dreapta cu durere pe stânga. Punct trigger activ în trapezul stâng. Sensibilitate la presiune în zona toracală T4-T5.\nDiagnostic: blocadă articulară toracală medie (T4-T5), contractură trapez și ridicător al scapulei stânga.\nObiective terapeutice: reducerea contracturii musculare, deblocarea articulară toracală, recuperarea mobilității umărului stâng."
+}

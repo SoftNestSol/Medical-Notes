@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am ridicat niște saci la serviciu.\nSPEAKER_00: Ați simțit imediat durerea sau a apărut după?\nSPEAKER_01: A doua zi dimineața.\nSPEAKER_00: Înțeles. Doare constant sau doar la anumite mișcări?\nSPEAKER_01: Mai mult când ridic brațul.\nSPEAKER_00: Și când dormiți pe partea dreaptă?\nSPEAKER_01: Da, nu pot să dorm pe ea.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum e durerea acum?\nSPEAKER_01: Un 5.\nSPEAKER_00: Iar când ridicați brațul?\nSPEAKER_01: Atunci vreo 7.\nSPEAKER_00: Durerea rămâne în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne sus, în umăr.\nSPEAKER_00: Aveți amorțeli la mână sau degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alergii la medicamente?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreo medicație în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai avut probleme la umărul ăsta înainte?\nSPEAKER_01: Nu, prima dată.\nSPEAKER_00: Ok. Hai să vedem puțin. Ridicați brațul drept în față, încet.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare la 90 de grade?\nSPEAKER_01: Da, aici începe.\nSPEAKER_00: Și mai sus, puteți?\nSPEAKER_01: Puțin, dar doare mai tare.\nSPEAKER_00: Acum ridicați-l lateral, tot încet.\nSPEAKER_01: Și asta doare, da.\nSPEAKER_00: Limitare la abducție, observ. Apăs puțin pe zona asta de deasupra umărului, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Pe aici, sub osul acesta?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeles. Rotați brațul spre exterior, cu cotul la 90 de grade.\nSPEAKER_01: Ăsta e mai greu.\nSPEAKER_00: Doare la rotație externă, limitare clară. Bun. Cel mai probabil avem o inflamație la nivelul tendoanelor din zona umărului, ce numim o tendinopatie de coif rotator. Obiectivul nostru e să reducem inflamația, să redobândiți mobilitatea completă și să întărim musculatura din jurul umărului ca să nu se repete. Hai să începem.\nSPEAKER_01: Ok.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept apărută după ridicat saci la serviciu, de aproximativ două săptămâni, accentuată la ridicarea brațului și la dormitul pe partea dreaptă.",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Tendinopatie coif rotator umăr drept.\nObservații funcționale: limitare la flexie anterioară (durere de la 90 grade), limitare la abducție, durere și limitare la rotație externă cu cotul la 90 grade, sensibilitate la palpare pe deasupra umărului drept.\nObiective terapeutice: reducerea inflamației, redobândirea mobilității complete, întărirea musculaturii periarticulare."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "De vreo două săptămâni.", "Am ridicat niște saci la serviciu.", "Mai mult când ridic brațul.", "nu pot să dorm pe ea"],
+    "evaluarea_durerii_vas": ["Un 5.", "Atunci vreo 7."],
+    "localizarea_durerii": ["Dreptul.", "Rămâne sus, în umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Limitare la abducție, observ.", "Doare la rotație externă, limitare clară.", "Cel mai probabil avem o inflamație la nivelul tendoanelor din zona umărului, ce numim o tendinopatie de coif rotator.", "Obiectivul nostru e să reducem inflamația, să redobândiți mobilitatea completă și să întărim musculatura din jurul umărului ca să nu se repete."]
+  }
+}

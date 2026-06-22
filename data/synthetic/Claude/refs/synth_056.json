@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "Durere lombară cu iradiere pe membrul inferior drept (coapsă, furnicătură până la genunchi), accentuată la ortostatism prelungit și la efort",
+  "evaluarea_durerii_vas": [
+    5,
+    8
+  ],
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": "coapsa dreapta, iradiere pana la genunchi drept",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "gastrita",
+  "medicatie_actuala": [
+    {
+      "denumire": "Prestarium",
+      "doza": "un comprimat pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Tensiune musculară importantă pe dreapta în zona lombară și în piriform; iritație posibilă pe nervul sciatic. Obiective: reducerea inflamației musculare."
+}

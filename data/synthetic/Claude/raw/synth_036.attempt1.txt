@@ -1,0 +1,33 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule!\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem?\nSPEAKER_01: Păi, mă doare umărul, cel drept, de vreo două săptămâni. Adică a început mai ușor, credeam că trece de la sine, dar nu a trecut. Dimineața e cel mai rău, mă trezesc și parcă nu-l mai pot ridica. Și mă tem un pic, sincer, că am auzit că dacă nu tratezi din timp poți rămâne cu sechele și nu știu... am 47 de ani, nu mai sunt puști.\nSPEAKER_00: Înțeles. Și durerea e doar în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Se lasă un pic, da, pe brațul ăsta, până pe la cot. Uneori. Nu tot timpul.\nSPEAKER_00: Pe față sau pe spate?\nSPEAKER_01: Pe față, mai mult pe față.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare maxim, unde vă situați?\nSPEAKER_01: Dimineața, când mă scol, un 7. Dacă stau liniștit ziua, undeva la un 4.\nSPEAKER_00: Deci un 7 dimineața.\nSPEAKER_01: Da, 7 sigur. E destul de nasol.\nSPEAKER_00: Ce meserie aveți?\nSPEAKER_01: Sunt contabil. Stau mult la birou, la calculator. Și mi-a zis soția că stau cu umărul ridicat când scriu, că e un tic al meu, dar n-am știut. Și poate de aia, nu? Poate de la poziție?\nSPEAKER_00: Poate. Ați căzut cumva, ați lovit umărul?\nSPEAKER_01: Nu, nu, nimic de genul ăsta. A venit singur, pur și simplu. Poate de la frig, am dormit cu geamul deschis o noapte, nu știu dacă are legătură.\nSPEAKER_00: Am înțeles. Stați puțin, ridic eu mâna... doare când ridic așa?\nSPEAKER_01: Da, acolo da, aia doare rău.\nSPEAKER_00: Și în rotație externă?\nSPEAKER_01: Au, da, mai ales aia.\nSPEAKER_00: Bun. Tensiune arterială, diabet, alte boli?\nSPEAKER_01: Nu, nu am nimic din astea. Am fost sănătos tun toată viața, de aia mă și miră că a apărut așa, fără motiv. Singurul lucru e că acum vreo doi ani am avut o hernie de disc la coloana cervicală, mi-a zis doctorul. A trecut cu tratament, nu am mai simțit nimic de atunci. Dar mă tem că are legătură cumva, asta e grija mea.\nSPEAKER_00: Înțeles. Luați vreun medicament în prezent?\nSPEAKER_01: Da, iau un antiinflamator, Ibuprofen, 400 de miligrame, când mă doare mai tare. Nu în fiecare zi, doar la nevoie.\nSPEAKER_00: Altceva?\nSPEAKER_01: Nu, nimic altceva.\nSPEAKER_00: Bun. Ce pot să vă spun după ce am verificat acum e că avem o inflamație la nivelul tendoanelor coifului rotator, mai precis un sindrom de impingement subacromial. Nu e ceva dramatic, dar trebuie lucrat. Obiectivul nostru este să reducem inflamația și să recuperăm mobilitatea umărului, ca să nu ajungem la o umăr blocat.\nSPEAKER_01: Adică frozen shoulder? Am citit despre asta și m-am speriat.\nSPEAKER_00: Exact, vrem să prevenim asta. Dacă lucrăm din timp, nu ajungem acolo.\nSPEAKER_01: Bine, bine. Și câte ședințe credeți că or fi necesare? Întreb că am și program destul de încărcat, dar mă reorganizez, că nu pot să trăiesc cu umărul ăsta.\nSPEAKER_00: Vedem după primele două-trei ședințe cum răspunde. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept cu iradiere pe brat",
+    "evaluarea_durerii_vas": [7, 4],
+    "localizarea_durerii": [
+      "umar_dr",
+      "cot_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hernia_disc"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: sindrom de impingement subacromial, inflamatie coif rotator\nObiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii umarului, prevenirea frozen shoulder"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul, cel drept, de vreo două săptămâni", "Se lasă un pic, da, pe brațul ăsta, până pe la cot"],
+    "evaluarea_durerii_vas": ["Dimineața, când mă scol, un 7", "Dacă stau liniștit ziua, undeva la un 4"],
+    "localizarea_durerii": ["mă doare umărul, cel drept", "Se lasă un pic, da, pe brațul ăsta, până pe la cot"],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["acum vreo doi ani am avut o hernie de disc la coloana cervicală, mi-a zis doctorul"],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["iau un antiinflamator, Ibuprofen, 400 de miligrame, când mă doare mai tare"],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul tendoanelor coifului rotator, mai precis un sindrom de impingement subacromial", "Obiectivul nostru este să reducem inflamația și să recuperăm mobilitatea umărului, ca să nu ajungem la o umăr blocat"]
+  }
+}

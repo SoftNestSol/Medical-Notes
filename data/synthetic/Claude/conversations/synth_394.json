@@ -1,0 +1,349 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 5.64,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne vedem azi."
+    },
+    {
+      "start": 5.76,
+      "end": 6.9,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare genunchiul."
+    },
+    {
+      "start": 7.02,
+      "end": 7.82,
+      "speaker": "SPEAKER_00",
+      "text": "Care genunchi?"
+    },
+    {
+      "start": 7.94,
+      "end": 8.74,
+      "speaker": "SPEAKER_01",
+      "text": "Dreptul."
+    },
+    {
+      "start": 8.86,
+      "end": 10.0,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp?"
+    },
+    {
+      "start": 10.12,
+      "end": 11.26,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo două săptămâni."
+    },
+    {
+      "start": 11.38,
+      "end": 14.42,
+      "speaker": "SPEAKER_00",
+      "text": "Două săptămâni. Și a apărut brusc sau treptat?"
+    },
+    {
+      "start": 14.54,
+      "end": 15.34,
+      "speaker": "SPEAKER_01",
+      "text": "Treptat, parcă."
+    },
+    {
+      "start": 15.46,
+      "end": 18.5,
+      "speaker": "SPEAKER_00",
+      "text": "A existat vreun traumatism, o căzătură, o lovitură?"
+    },
+    {
+      "start": 18.62,
+      "end": 19.42,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 19.54,
+      "end": 20.34,
+      "speaker": "SPEAKER_00",
+      "text": "Niciun accident?"
+    },
+    {
+      "start": 20.46,
+      "end": 21.26,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu."
+    },
+    {
+      "start": 21.38,
+      "end": 24.8,
+      "speaker": "SPEAKER_00",
+      "text": "Faceți sport sau aveți o activitate mai solicitantă fizic?"
+    },
+    {
+      "start": 24.92,
+      "end": 27.2,
+      "speaker": "SPEAKER_01",
+      "text": "Merg mult pe jos, la serviciu."
+    },
+    {
+      "start": 27.32,
+      "end": 32.64,
+      "speaker": "SPEAKER_00",
+      "text": "Mult pe jos. Și durerea apare mai mult când mergeți sau și când stați?"
+    },
+    {
+      "start": 32.76,
+      "end": 35.42,
+      "speaker": "SPEAKER_01",
+      "text": "Când merg, mai ales la coborât scările."
+    },
+    {
+      "start": 35.54,
+      "end": 39.72,
+      "speaker": "SPEAKER_00",
+      "text": "La coborâtul scărilor. Și când vă ridicați de pe scaun, doare?"
+    },
+    {
+      "start": 39.84,
+      "end": 40.64,
+      "speaker": "SPEAKER_01",
+      "text": "Da, puțin."
+    },
+    {
+      "start": 40.76,
+      "end": 48.74,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum estimați durerea?"
+    },
+    {
+      "start": 48.86,
+      "end": 49.66,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 5."
+    },
+    {
+      "start": 49.78,
+      "end": 55.48,
+      "speaker": "SPEAKER_00",
+      "text": "5. Doare mai mult pe o parte a genunchiului, pe interior, exterior, sau în față?"
+    },
+    {
+      "start": 55.6,
+      "end": 56.74,
+      "speaker": "SPEAKER_01",
+      "text": "În față, jos."
+    },
+    {
+      "start": 56.86,
+      "end": 58.38,
+      "speaker": "SPEAKER_00",
+      "text": "Sub rotulă, pe aici?"
+    },
+    {
+      "start": 58.5,
+      "end": 59.64,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact acolo."
+    },
+    {
+      "start": 59.76,
+      "end": 64.32,
+      "speaker": "SPEAKER_00",
+      "text": "Și se lasă durerea și pe gambă sau e strict la genunchi?"
+    },
+    {
+      "start": 64.44,
+      "end": 65.24,
+      "speaker": "SPEAKER_01",
+      "text": "Strict acolo."
+    },
+    {
+      "start": 65.36,
+      "end": 66.5,
+      "speaker": "SPEAKER_00",
+      "text": "Genunchiul se umflă?"
+    },
+    {
+      "start": 66.62,
+      "end": 67.42,
+      "speaker": "SPEAKER_01",
+      "text": "Nu prea."
+    },
+    {
+      "start": 67.54,
+      "end": 70.96,
+      "speaker": "SPEAKER_00",
+      "text": "Nu prea. Amorțeli sau senzații ciudate la nivelul piciorului?"
+    },
+    {
+      "start": 71.08,
+      "end": 71.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 72.0,
+      "end": 74.66,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Alte afecțiuni, tensiune, diabet, osteoporoză, ceva?"
+    },
+    {
+      "start": 74.78,
+      "end": 75.58,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic."
+    },
+    {
+      "start": 75.7,
+      "end": 78.74,
+      "speaker": "SPEAKER_00",
+      "text": "Intervenții chirurgicale la genunchi sau în altă parte?"
+    },
+    {
+      "start": 78.86,
+      "end": 79.66,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 79.78,
+      "end": 81.3,
+      "speaker": "SPEAKER_00",
+      "text": "Medicamente luați în prezent?"
+    },
+    {
+      "start": 81.42,
+      "end": 82.22,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 82.34,
+      "end": 83.48,
+      "speaker": "SPEAKER_00",
+      "text": "Niciun antiinflamator, nimic?"
+    },
+    {
+      "start": 83.6,
+      "end": 85.5,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, n-am luat nimic."
+    },
+    {
+      "start": 85.62,
+      "end": 89.04,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Stați puțin în picioare pentru mine, vă rog."
+    },
+    {
+      "start": 89.16,
+      "end": 89.96,
+      "speaker": "SPEAKER_01",
+      "text": "Gata."
+    },
+    {
+      "start": 90.08,
+      "end": 94.26,
+      "speaker": "SPEAKER_00",
+      "text": "Stați pe piciorul drept acum, lăsați greutatea pe el. Vă ține?"
+    },
+    {
+      "start": 94.38,
+      "end": 97.04,
+      "speaker": "SPEAKER_01",
+      "text": "Mă ține, da, dar parcă simte ceva."
+    },
+    {
+      "start": 97.16,
+      "end": 98.3,
+      "speaker": "SPEAKER_00",
+      "text": "Simte o presiune."
+    },
+    {
+      "start": 98.42,
+      "end": 99.22,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 99.34,
+      "end": 102.38,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Acum îndoiți ușor genunchiul, pe jumătate. Doare?"
+    },
+    {
+      "start": 102.5,
+      "end": 104.02,
+      "speaker": "SPEAKER_01",
+      "text": "Da, pe sub rotulă."
+    },
+    {
+      "start": 104.14,
+      "end": 109.46,
+      "speaker": "SPEAKER_00",
+      "text": "Pe sub rotulă, chiar acolo. Bun. Lăsați-vă pe masă, cu fața în sus."
+    },
+    {
+      "start": 109.58,
+      "end": 110.38,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 110.5,
+      "end": 113.92,
+      "speaker": "SPEAKER_00",
+      "text": "Apăs ușor pe rotulă, îmi spuneți dacă apare durerea."
+    },
+    {
+      "start": 114.04,
+      "end": 114.84,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo."
+    },
+    {
+      "start": 114.96,
+      "end": 133.58,
+      "speaker": "SPEAKER_00",
+      "text": "Deci avem o sensibilitate la nivelul tendonului patelar. Arată a tendinopatia de tendon patelar, ceea ce explică durerea la coborât scări și la ridicatul de pe scaun. Va trebui să reducem inflamația din zona respectivă și să lucrăm musculatura din jurul genunchiului, mai ales cvadricepsul, ca să descărcăm tendonul."
+    },
+    {
+      "start": 133.7,
+      "end": 134.5,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 134.62,
+      "end": 137.28,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai făcut fizioterapie sau kinetoterapie vreodată?"
+    },
+    {
+      "start": 137.4,
+      "end": 138.2,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 138.32,
+      "end": 141.74,
+      "speaker": "SPEAKER_00",
+      "text": "Prima dată. O să mergem pas cu pas atunci."
+    }
+  ]
+}

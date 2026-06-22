@@ -1,0 +1,58 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Gheorghe Manea.\nSPEAKER_00: Și vârsta, domnul Manea?\nSPEAKER_01: 51.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: În ce zonă, mai sus, mai jos?\nSPEAKER_01: Jos. Partea de jos.\nSPEAKER_00: Deci zona lombară. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Am cărăt niște saci. La curte.\nSPEAKER_00: Am înțeles. Și imediat după ați simțit durerea sau a apărut mai târziu?\nSPEAKER_01: A doua zi dimineață.\nSPEAKER_00: A doua zi. Durerea rămâne în spate sau se lasă și pe picior în jos?\nSPEAKER_01: Rămâne acolo. Nu se lasă.\nSPEAKER_00: Și pe fesă, simțiți ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. Doare mai tare când stați jos, când vă sculați, când mergeți?\nSPEAKER_01: Când mă scol din pat. Și când stau mult în picioare.\nSPEAKER_00: Am înțeles. Ați mai avut această durere în trecut?\nSPEAKER_01: Da, mai am din când în când.\nSPEAKER_00: Deci se mai repetă. Ați luat ceva pentru durere?\nSPEAKER_01: Da, Ibuprofen.\nSPEAKER_00: Ce doză?\nSPEAKER_01: Nu știu. Cel normal de la farmacie.\nSPEAKER_00: Am înțeles. Și ajută?\nSPEAKER_01: Un pic.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am. Iau pastile pentru asta.\nSPEAKER_00: Ce pastile luați pentru tensiune?\nSPEAKER_01: Enalapril.\nSPEAKER_00: Enalapril. Și altceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă verific puțin. Ridicați-vă în picioare, vă rog.\nSPEAKER_01: Da.\nSPEAKER_00: O să apăs pe zona lombară, îmi spuneți dacă doare.\nSPEAKER_01: Da, doare acolo.\nSPEAKER_00: Doare pe mijloc sau mai mult pe o parte?\nSPEAKER_01: Pe dreapta mai mult.\nSPEAKER_00: Pe dreapta. Acum aplecați-vă ușor înainte.\nSPEAKER_01: Au.\nSPEAKER_00: Doare la aplecare?\nSPEAKER_01: Da.\nSPEAKER_00: Și când vă îndreptați înapoi?\nSPEAKER_01: Tot doare, da.\nSPEAKER_00: Am înțeles. Deci avem o limitare a mobilității în flexie și extensie. Eu zic că putem să începem. Vom lucra pe zona lombară, să reducem inflamația din pătratul lombar și din paravertebral și să refacem mobilitatea.\nSPEAKER_01: Ok.\nSPEAKER_00: Așezați-vă pe masă, vă rog, cu fața în jos.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută după efort fizic (căratul de saci), prezentă de două săptămâni",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": null
+      },
+      {
+        "denumire": "Enalapril",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Durere la palpare lombară dreaptă; limitare mobilitate în flexie și extensie.\nDiagnostic: Lombalgie acută, inflamație pătratul lombar și paravertebral dreapta.\nObiective terapeutice: reducerea inflamației, refacerea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele.",
+      "Jos. Partea de jos.",
+      "Am cărăt niște saci. La curte.",
+      "Vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6."
+    ],
+    "localizarea_durerii": [
+      "Jos. Partea de jos.",
+      "Deci zona lombară."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Tensiune am. Iau pastile pentru asta."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Da, Ibuprofen.",
+      "Enalapril."
+    ],
+    "evaluare_functionala_initiala": [
+      "Pe dreapta mai mult.",
+      "Doare la aplecare?",
+      "Da.",
+      "Și când vă îndreptați înapoi?",
+      "Tot doare, da.",
+      "Deci avem o limitare a mobilității în flexie și extensie. Eu zic că putem să începem. Vom lucra pe zona lombară, să reducem inflamația din pătratul lombar și din paravertebral și să refacem mobilitatea."
+    ]
+  }
+}

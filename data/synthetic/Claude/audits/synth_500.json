@@ -1,0 +1,53 @@
+{
+  "conversation_id": "synth_500",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare șoldul, de ceva vreme deja. Șoldul drept.",
+      "vreo două luni, poate mai mult. Parcă a început mai ușor și acum s-a mai accentuat.",
+      "Cred că de la stat mult jos, stau mult la birou, opt, nouă ore pe zi.",
+      "Primii pași sunt grei. Poate vreo zece, cincisprezece minute și după se mai deblochează.",
+      "dacă stau pe partea dreaptă mă trezesc",
+      "Contabil, deci da, mult stat pe scaun."
+    ],
+    "evaluarea_durerii_vas": [
+      "zi de zi aș zice un 5. Dar dacă merg mai mult sau urc scări, ajunge și la 7."
+    ],
+    "localizarea_durerii": [
+      "Șoldul drept.",
+      "Deci 5 în mod obișnuit și până la 7 la efort."
+    ],
+    "localizarea_durerii_alta": [
+      "se duce și puțin în jos, spre coapsă"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Mi s-a descoperit acum vreo trei ani. Iau tratament."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Perindopril, cred că cinci miligrame. O dată pe zi, dimineața."
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ că șoldul drept e un pic mai sus față de cel stâng.",
+      "doare când ridic",
+      "când ați rotit înăuntru, doare mai tare",
+      "Au, da, acolo exact. Asta e punctul.",
+      "Sensibilitate crescută la apăsare pe tractul iliotibial și pe marele trohanter.",
+      "Ce observ eu este o inflamație la nivelul bursei trohanteriene și o tensionare a benzii iliotibiale.",
+      "o să lucrăm să reducem inflamația din zona bursei, să relaxăm tractul iliotibial și mușchiul piriform care e și el tensionat, și să corectăm dezechilibrul de bazin."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22994,
+    "inference_geo": "global",
+    "input_tokens": 347,
+    "output_tokens": 3559,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

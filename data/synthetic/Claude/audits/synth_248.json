@@ -1,0 +1,51 @@
+{
+  "conversation_id": "synth_248",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare undeva pe aici, la gât, și se lasă cam pe umărul ăsta, pe stânga. De vreo câteva zile nu mai pot să-mi întorc capul",
+      "Uneori, da, mai ales noaptea. Mă trezesc și simt că mi-a amorțit mâna"
+    ],
+    "evaluarea_durerii_vas": [
+      "dimineața e mai rău, pe la... nu știu, un 7?",
+      "Și ziua mai scade, pe la 4, 5, ceva de genul"
+    ],
+    "localizarea_durerii": [
+      "mă doare undeva pe aici, la gât, și se lasă cam pe umărul ăsta, pe stânga",
+      "Da, pe ceafă și pe umăr",
+      "mai ales pe stânga"
+    ],
+    "localizarea_durerii_alta": [
+      "Mai jos... nu știu, câteodată simt ceva pe aici, pe brațul ăsta",
+      "Pe față, parcă. Pe aici."
+    ],
+    "antecedente": [
+      "mi s-a spus acum mulți ani, pe la liceu, că am o ușoară scolioză"
+    ],
+    "antecedente_altele": [
+      "Am avut o operație la menisc, la genunchiul drept, acum vreo cinci ani"
+    ],
+    "medicatie_actuala": [
+      "poate un paracetamol din când în când pentru durere, dar rar"
+    ],
+    "evaluare_functionala_initiala": [
+      "Avem o contractură musculară destul de importantă pe zona cervicală, mai ales pe stânga, cu afectarea trapezului superior și a ridicătorului scapular",
+      "Mobilitatea la rotație stângă e limitată vizibil",
+      "Amorțelile nocturne din mâna stângă sugerează că trebuie să fim atenți și la o posibilă iritație pe rădăcina nervoasă",
+      "obiectivul nostru este să reducem contractura și inflamația musculară și să recâștigăm mobilitatea cervicală"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13758,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 3288,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

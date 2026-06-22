@@ -1,0 +1,19 @@
+{
+  "motivul_prezentarii": "Durere cervicală și ceafă cu iradiere ușoară pe umărul drept, instalată treptat în ultimele două săptămâni, accentuată la rotația capului spre dreapta și dimineața, la un pacient care lucrează la calculator.",
+  "evaluarea_durerii_vas": 5,
+  "localizarea_durerii": [
+    "cervical",
+    "cap_ceafa",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Postură antepulsată, cap proiectat în față. Limitare de rotație cervicală pe dreapta, durere la rotație dreapta. Contractură musculară cervicală și trapez drept. Obiective: reducerea tensiunii musculare și recăpătarea mobilității cervicale."
+}

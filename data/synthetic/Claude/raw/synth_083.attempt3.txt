@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stâng sau drept?\nSPEAKER_01: Drept.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut din senin sau după ceva, un efort, o mișcare?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum estimați durerea?\nSPEAKER_01: Un 5.\nSPEAKER_00: Doare tot timpul sau doar la anumite mișcări?\nSPEAKER_01: La mișcări.\nSPEAKER_00: La ce mișcări anume? Când ridicați brațul?\nSPEAKER_01: Da, când îl ridic sus.\nSPEAKER_00: Doare și când îl duceți în spate?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Și noaptea, vă trezește durerea?\nSPEAKER_01: Uneori.\nSPEAKER_00: Pe ce parte dormiți de obicei?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Deci dormiți fix pe umărul care doare.\nSPEAKER_01: Da.\nSPEAKER_00: Durerea rămâne în umăr sau coboară și pe braț?\nSPEAKER_01: Rămâne acolo.\nSPEAKER_00: Bun. Amorțeală în mână, degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Ați mai avut ceva la umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune arterială. Luați ceva pentru ea?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: Zilnic?\nSPEAKER_01: Da.\nSPEAKER_00: Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să ridicați brațul drept în față, încet, cât puteți. Opriți când doare.\nSPEAKER_01: Până aici.\nSPEAKER_00: Deci până la vreo 90 de grade doare, nu mai sus. Acum ridicați-l lateral.\nSPEAKER_01: Au, pe aici doare mai tare.\nSPEAKER_00: Pe lateral doare mai tare. Bun. Lăsați brațul jos. Apăs un pic pe umăr, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: La nivelul tendonului supraspinos doare la palpare. Am înțeles. Avem o inflamație în zona rotatorilor umărului, cel mai probabil o tendinită de supraspinos după efort. O să lucrăm să reducem inflamația și să recăpătăm mobilitatea completă.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutat mobila), de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame zilnic"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita de supraspinos umar drept\nObiective terapeutice: reducerea inflamatiei si recuperarea mobilitatii complete"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Drept.", "Rămâne acolo."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Enalapril.", "10 miligrame.", "Da."],
+    "evaluare_functionala_initiala": ["La nivelul tendonului supraspinos doare la palpare.", "Avem o inflamație în zona rotatorilor umărului, cel mai probabil o tendinită de supraspinos după efort.", "O să lucrăm să reducem inflamația și să recăpătăm mobilitatea completă."]
+  }
+}

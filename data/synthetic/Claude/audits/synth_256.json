@@ -1,0 +1,42 @@
+{
+  "conversation_id": "synth_256",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept de vreo trei săptămâni",
+      "am muncit la grădină cam o zi întreagă, am săpat, am cărat lucruri, și a doua zi m-am trezit cu el înțepenit"
+    ],
+    "evaluarea_durerii_vas": [
+      "în repaus, poate un 4. Dar când ridic mâna sau când mă întorc noaptea pe el, ajunge la 7-8"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă puțin, da, pe braț, pe partea din față, cam până la cot"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "am pus Fastum gel de vreo două ori că aveam prin casă"
+    ],
+    "evaluare_functionala_initiala": [
+      "văd că se limitează pe la 90 de grade lateral",
+      "apăs puțin aici, pe tendonul supraspinatusului. Doare?",
+      "Cel mai probabil e o tendinopatie de supraspinat, cu o inflamație în zona manșetei rotatorilor. Vom lucra să reducem inflamația și să recuperăm mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13796,
+    "inference_geo": "global",
+    "input_tokens": 314,
+    "output_tokens": 2011,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

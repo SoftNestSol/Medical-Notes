@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stângul sau dreptul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați lovit, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște cutii mai grele la serviciu.\nSPEAKER_00: Înțeles. Și de atunci a rămas durerea?\nSPEAKER_01: Da.\nSPEAKER_00: Vă doare constant sau numai când mișcați?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Când o ridicați în față sau în lateral?\nSPEAKER_01: Mai mult în lateral.\nSPEAKER_00: Se lasă durerea și pe braț în jos sau e doar la umăr?\nSPEAKER_01: Doar la umăr, pe aici.\nSPEAKER_00: Pe umărul drept. Noaptea vă deranjează, când stați pe el?\nSPEAKER_01: Da, nu prea pot să dorm pe partea aia.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât e durerea acum?\nSPEAKER_01: Un 5.\nSPEAKER_00: Și când ridicați mâna în lateral?\nSPEAKER_01: Atunci poate un 7.\nSPEAKER_00: Înțeles. Aveți vreo afecțiune, tensiune, diabet, osteoporoză, ceva de genul?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Haideți să vă rog să ridicați brațul drept ușor în lateral, cât puteți.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Stați puțin. Simțiți că se blochează undeva pe la mijlocul mișcării?\nSPEAKER_01: Da, pe la jumătate parcă.\nSPEAKER_00: Da. Și dacă împing eu ușor aici pe acromion, doare?\nSPEAKER_01: Au, da.\nSPEAKER_00: Înțeles. Avem o inflamație la nivelul umărului drept, cel mai probabil la tendoanele coifului rotatorilor. Zona de sub acromion e iritată. O să lucrăm să reducem inflamația și să recuperăm mișcarea completă a umărului. Haideți pe masă.\nSPEAKER_01: Da, bine.",
+  "note": {
+    "motivul_prezentarii": "durere umar dr.",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie coif rotatori umar dr.\n- iritatie subacromionala\nObiective terapeutice:\n- reducerea inflamatiei;\n- recuperarea amplitudinii de miscare a umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul."],
+    "evaluarea_durerii_vas": ["Un 5.", "Atunci poate un 7."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul.", "Doar la umăr, pe aici."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Avem o inflamație la nivelul umărului drept, cel mai probabil la tendoanele coifului rotatorilor. Zona de sub acromion e iritată. O să lucrăm să reducem inflamația și să recuperăm mișcarea completă a umărului."]
+  }
+}

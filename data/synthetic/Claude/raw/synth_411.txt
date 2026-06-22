@@ -1,0 +1,43 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Și a apărut după ceva anume, după un efort, după o mișcare?\nSPEAKER_01: Nu știu exact. Parcă după ce am mutat niște cutii.\nSPEAKER_00: Deci după un efort fizic. Și de atunci doare constant sau numai la mișcare?\nSPEAKER_01: Mai mult la mișcare.\nSPEAKER_00: La ce mișcare simțiți cel mai tare?\nSPEAKER_01: Când ridic mâna sus.\nSPEAKER_00: Și când duceți mâna în spate, spre spate?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât ați pune?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. Doare și în repaus, noaptea, când stați culcat pe el?\nSPEAKER_01: Noaptea mai da, dacă stau pe partea aia.\nSPEAKER_00: Înțeles. Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Și zona de gât, doare și gâtul sau e strict umărul?\nSPEAKER_01: Strict umărul.\nSPEAKER_00: Ocupație, ce lucrați?\nSPEAKER_01: Contabil.\nSPEAKER_00: Deci mult la birou, la calculator.\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, probleme cardiace?\nSPEAKER_01: Nu.\nSPEAKER_00: Intervenții chirurgicale, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Ridicați mâna dreaptă în față, sus, cât puteți.\nSPEAKER_01: Până pe aici cam.\nSPEAKER_00: Deci undeva la 90 de grade și deja doare?\nSPEAKER_01: Da, de pe aici începe.\nSPEAKER_00: Bun. Și în lateral, ridicați în lateral.\nSPEAKER_01: La fel, cam tot pe aici.\nSPEAKER_00: Înțeles. Stați puțin, vă apăs pe zona de aici, pe capul humeral. Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și pe zona asta, mai în față?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Ok. Avem o limitare de mobilitate la abducție și la flexie, cu durere la palpare pe zona supraspinosului. Cel mai probabil e o tendinită a coafei rotatorilor, mai exact supraspinosul. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr drept, apărută acum aproximativ două săptămâni după efort fizic (mutat cutii). Durere la ridicarea brațului sus și la ducerea mâinii în spate, accentuată noaptea la culcat pe umărul afectat.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinită coafă rotatori, supraspinos dr. - limitare mobilitate la abducție și flexie (aprox. 90 grade), durere la palpare cap humeral.\nObiective terapeutice: reducerea inflamației; recuperarea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Vreo două săptămâni.",
+      "Parcă după ce am mutat niște cutii.",
+      "Când ridic mâna sus.",
+      "Da, și atunci.",
+      "Noaptea mai da, dacă stau pe partea aia."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 5."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul.",
+      "Dreptul.",
+      "Strict umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Avem o limitare de mobilitate la abducție și la flexie, cu durere la palpare pe zona supraspinosului.",
+      "Cel mai probabil e o tendinită a coafei rotatorilor, mai exact supraspinosul.",
+      "O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."
+    ]
+  }
+}

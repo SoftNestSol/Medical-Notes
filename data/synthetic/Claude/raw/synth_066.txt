@@ -1,0 +1,28 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua! Spuneți-mi, vă rog, cu ce problemă ne vedem?\nSPEAKER_01: Bună ziua! Păi, mă doare umărul stâng de vreo două săptămâni, dar sincer mă tot gândeam că trece singur, știți cum e, nu vrei să dai alarma degeaba, și soția mea tot zicea să vin, și am tot amânat, și acum nu mai pot să ridic mâna deloc sus.\nSPEAKER_00: Da, înțeleg. Și ce s-a întâmplat, a apărut după ceva anume?\nSPEAKER_01: Păi am cărat niște cutii la mutat, am ajutat un prieten, a fost weekend-ul de acum două săptămâni, și am simțit că ceva s-a tras acolo, dar nu a durut chiar imediat tare, a doua zi dimineața m-am trezit și nu mai puteam să ridic brațul, parcă era blocat.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, cât de tare doare în momentul ăsta?\nSPEAKER_01: Acum, dacă stau liniștit, poate un 4. Dar dacă încerc să ridic ceva sau să mă întorc noaptea pe partea stângă, ajunge la 8, 9, e destul de rău. Noaptea e cel mai greu, de fapt de asta am venit, că nu mai dorm bine și soția e nervoasă că o trezesc.\nSPEAKER_00: Da, înțeleg. Durerea rămâne în umăr sau se lasă și pe braț, pe cot?\nSPEAKER_01: Nu, nu coboară, e fix acolo în umăr, pe partea din față și un pic pe deasupra. Nu știu cum să explic exact, e ca un junghi când încerc să mișc.\nSPEAKER_00: Bun. Și mai aveți alte dureri în altă parte sau numai umărul?\nSPEAKER_01: Numai umărul stâng. Mai am și ceva la spate câteodată, în zona de mijloc, dar aia e mai veche și nu mă deranjează acum, mă deranjează umărul.\nSPEAKER_00: Da. Alte afecțiuni, boli despre care știți, tensiune, diabet, ceva?\nSPEAKER_01: Tensiune am, da, hipertensiune, de vreo trei ani. Iau tratament pentru asta. Altceva nu știu să am, am făcut analize acum câteva luni și era totul bine.\nSPEAKER_00: Ce medicament luați pentru tensiune?\nSPEAKER_01: Perindopril, 5 miligrame, o dată pe zi, dimineața.\nSPEAKER_00: Bun. Mai luați altceva în momentul ăsta, vreun antiinflamator, ceva pentru umăr?\nSPEAKER_01: Am luat Ibuprofen câteva zile când a început, 400, dar acum nu mai iau că mi-a spus cineva că nu e bine pe termen lung și m-am speriat. Sincer m-am speriat și că poate am rupt ceva acolo, asta e marea mea teamă, că am auzit de rupturi de tendon și nu știu, poate trebuie operație.\nSPEAKER_00: Da, înțeleg îngrijorarea. Haideți să facem câteva teste să vedem cum stăm. Ridicați brațul ușor în față, cât puteți.\nSPEAKER_01: Până aici, cam până la orizontală, mai sus doare tare.\nSPEAKER_00: Bun, rămâneți așa. Apăs acum în zona asta pe umăr, doare?\nSPEAKER_01: Da, fix acolo, aia e.\nSPEAKER_00: Și acum rotație externă, cotul lângă corp, întoarceți palma în afară.\nSPEAKER_01: Merge, dar trage un pic.\nSPEAKER_00: Da. Avem o limitare a abducției și o sensibilitate la nivelul umărului stâng. Probabil tendinită de supraspinos, vom vedea cum evoluează după primele ședințe. Obiectivul principal e să reducem inflamația și să recuperăm mobilitatea.\nSPEAKER_01: Și nu e ceva mai grav? Adică nu trebuie radiografie?\nSPEAKER_00: Deocamdată putem să începem terapia și vedem cum răspunde. Dacă nu se îmbunătățește, discutăm despre imagistică.\nSPEAKER_01: Ok, bine, mă bazez pe dumneavoastră.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang aparuta dupa efort fizic (mutat cutii), cu limitare la ridicarea bratului, agravata nocturn",
+    "evaluarea_durerii_vas": [4, 8],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": ["hipertensiune_arteriala"],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Perindopril",
+        "doza": "5 miligrame, o dată pe zi"
+      }
+    ],
+    "evaluare_functionala_initiala": "Limitare abductie umar stang (pana la orizontala), sensibilitate la palpare zona supraspinos. Diagnostic: tendinita supraspinos. Obiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["mă doare umărul stâng de vreo două săptămâni", "am cărat niște cutii la mutat", "nu mai pot să ridic mâna deloc sus", "Noaptea e cel mai greu"],
+    "evaluarea_durerii_vas": ["dacă stau liniștit, poate un 4", "dacă încerc să ridic ceva sau să mă întorc noaptea pe partea stângă, ajunge la 8, 9"],
+    "localizarea_durerii": ["mă doare umărul stâng", "e fix acolo în umăr, pe partea din față și un pic pe deasupra"],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am, da, hipertensiune, de vreo trei ani."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Perindopril, 5 miligrame, o dată pe zi, dimineața"],
+    "evaluare_functionala_initiala": ["Avem o limitare a abducției și o sensibilitate la nivelul umărului stâng. Probabil tendinită de supraspinos, vom vedea cum evoluează după primele ședințe. Obiectivul principal e să reducem inflamația și să recuperăm mobilitatea."]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "motivul_prezentarii": "Dureri cervicale cu iradiere pe umar si brat drept, cefalee matinala, debut dupa efort prelungit la birou",
+  "evaluarea_durerii_vas": [
+    7,
+    4
+  ],
+  "localizarea_durerii": [
+    "cervical",
+    "cap_ceafa",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "brat drept",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Lozap",
+      "doza": "50 mg, o dată pe zi"
+    },
+    {
+      "denumire": "Paracetamol",
+      "doza": "500 mg"
+    }
+  ],
+  "evaluare_functionala_initiala": "Postură: cap dus în față față de umeri. Mobilitate cervicală redusă la rotație dreapta și extensie. Tensiune musculară pe trapez și ridicătorul scapulei. Iritație rădăcini nervoase cervicale inferioare. Obiective: relaxarea musculaturii, reducerea iritației, recuperarea mobilității cervicale, corectarea posturii la birou."
+}

@@ -1,0 +1,40 @@
+{
+  "conversation_id": "synth_235",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept de vreo trei săptămâni",
+      "nu mai pot să ridic mâna deasupra capului"
+    ],
+    "evaluarea_durerii_vas": [
+      "Ziua, când nu fac nimic special, un 4. Noaptea când mă trezesc, lejer un 8."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept",
+      "se lasă, cam până la cot"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus un gel, Diclofenac, câteodată când nu mai pot"
+    ],
+    "evaluare_functionala_initiala": [
+      "avem o inflamație la nivelul tendonului supraspinatus și posibil și o tendinită a capului lung al bicepsului",
+      "Va trebui în prima fază să reducem inflamația și să recuperăm mobilitatea articulară"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13674,
+    "inference_geo": "global",
+    "input_tokens": 314,
+    "output_tokens": 1800,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stângul sau dreptul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, ați ridicat ceva greu, ați căzut?\nSPEAKER_01: Am ridicat niște saci la serviciu.\nSPEAKER_00: Înțeles. Și de atunci doare continuu sau mai trece?\nSPEAKER_01: Continuu, mai ales noaptea.\nSPEAKER_00: Noaptea doare mai tare, da?\nSPEAKER_01: Da.\nSPEAKER_00: Când ridicați mâna în sus doare?\nSPEAKER_01: Da, nu pot s-o ridic prea sus.\nSPEAKER_00: Și în spate, când duceți mâna în spate?\nSPEAKER_01: Și acolo doare, da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde vă situați?\nSPEAKER_01: Un 7.\nSPEAKER_00: Un 7. Durerea se lasă în jos pe braț sau e doar în umăr?\nSPEAKER_01: Mai mult în umăr, dar uneori și pe braț, puțin.\nSPEAKER_00: Pe braț pe ce parte, pe față, pe spate?\nSPEAKER_01: Pe față, pe partea din față a brațului.\nSPEAKER_00: Înțeles. Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Ce meserie aveți, dacă pot să întreb?\nSPEAKER_01: Lucrez în depozit, mișc marfă.\nSPEAKER_00: Deci mult ridicat, mult transportat.\nSPEAKER_01: Da.\nSPEAKER_00: Și de când ați ridicat sacii, ați mai continuat să lucrați sau ați stat?\nSPEAKER_01: Am continuat, nu am avut ce face.\nSPEAKER_00: Înțeles. Hai să facem un mic test. Ridicați mâna dreaptă în sus, ușor, până unde puteți.\nSPEAKER_01: Până pe aici cam.\nSPEAKER_00: Cam la 90 de grade, da, nu mai sus.\nSPEAKER_01: Da, cam așa.\nSPEAKER_00: Doare când o ridicați sau când o lăsați în jos?\nSPEAKER_01: Când o ridic.\nSPEAKER_00: Bun. Și acum duceți mâna pe după cap, ca și cum v-ați pieptăna.\nSPEAKER_01: Au, nu merge.\nSPEAKER_00: Nu merge, înțeles. Vă doare și în față, în zona asta de sub claviculă?\nSPEAKER_01: Da, acolo da.\nSPEAKER_00: Bun. Alte afecțiuni aveți, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații anterioare la umăr sau la braț?\nSPEAKER_01: Nu.\nSPEAKER_00: Fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Medicamente luați în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Nici antiinflamatoare, nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Boli cu transmitere prin sânge?\nSPEAKER_01: Nu.\nSPEAKER_00: Implanturi metalice, stimulator cardiac?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Deci ceea ce văd eu este o inflamație la nivelul tendonului supraspinosului, cel mai probabil, combinată cu o iritație la nivelul bursei subacromiologice. De aceea doare când ridicați brațul și nu mai puteți duce mâna pe după cap. Obiectivul nostru în primele ședințe este să reducem inflamația și să recuperăm mobilitatea umărului. Avem și o ușoară retracție a capsulei, după cum văd. Ar fi util să evitați ridicatul de greutăți deocamdată la serviciu, dacă se poate.\nSPEAKER_01: O să încerc.\nSPEAKER_00: Bun, haideți să trecem la lucru.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept, aparuta dupa ridicat saci la serviciu, de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie tendon supraspinos;\n- iritatie bursa subacromionala;\n- retractie usoara capsula;\nObiective terapeutice:\n- reducerea inflamatiei;\n- recuperarea mobilitatii umarului"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Am ridicat niște saci la serviciu.",
+      "De vreo două săptămâni."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 7."
+    ],
+    "localizarea_durerii": [
+      "Dreptul.",
+      "Mă doare umărul."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "ceea ce văd eu este o inflamație la nivelul tendonului supraspinosului, cel mai probabil, combinată cu o iritație la nivelul bursei subacromiologice",
+      "Avem și o ușoară retracție a capsulei, după cum văd.",
+      "Obiectivul nostru în primele ședințe este să reducem inflamația și să recuperăm mobilitatea umărului."
+    ]
+  }
+}

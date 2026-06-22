@@ -1,0 +1,32 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți la noi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, dreptul sau stângul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva? O lovitură, un efort mai mare?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Înțeles. Doare constant sau mai mult la mișcare?\nSPEAKER_01: La mișcare mai mult.\nSPEAKER_00: Poți să-mi ridici brațul drept sus?\nSPEAKER_01: Până pe la jumătate merge, mai sus nu.\nSPEAKER_00: Doare la ridicare?\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, cât de tare?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: Durerea stă în umăr sau se lasă și pe braț în jos?\nSPEAKER_01: În umăr, dar mai coboară puțin pe braț, pe față.\nSPEAKER_00: Amorțeli în mână, în degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Noaptea te trezești din cauza durerii?\nSPEAKER_01: Uneori.\nSPEAKER_00: Dacă stai pe partea dreaptă?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Alte zone mai dor, spatele, gâtul?\nSPEAKER_01: Nu.\nSPEAKER_00: Ai mai pățit ceva la umărul ăsta înainte?\nSPEAKER_01: Nu.\nSPEAKER_00: Afecțiuni, boli pe care le ai, tensiune, diabet, ceva?\nSPEAKER_01: Tensiune, da.\nSPEAKER_00: Iei ceva pentru tensiune?\nSPEAKER_01: Da, Enalapril.\nSPEAKER_00: Ce doză?\nSPEAKER_01: 10 miligrame.\nSPEAKER_00: Altceva mai iei?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Lasă-mă să palpez puțin zona umărului. Îmi spui dacă doare.\nSPEAKER_01: Ok.\nSPEAKER_00: Aici doare?\nSPEAKER_01: Da.\nSPEAKER_00: Acum du brațul în față, încet. Doare?\nSPEAKER_01: Da, cam pe la 90 de grade.\nSPEAKER_00: Arc dureros prezent. Și dacă rotesc brațul intern, doare?\nSPEAKER_01: Mai tare da.\nSPEAKER_00: Înțeles. Avem o inflamație la nivelul tendonului supraspinos, probabil. Vom lucra pe reducerea inflamației și refacerea mobilității. Câteva ședințe și ar trebui să simți îmbunătățire.\nSPEAKER_01: Ok.",
+  "note": {
+    "motivul_prezentarii": "Durere umar drept aparuta dupa efort fizic (mutat mobila), de aproximativ doua saptamani, cu limitarea miscarii de ridicare a bratului si durere la miscare.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "braț drept față",
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Enalapril",
+        "doza": "10 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Arc dureros prezent la abductie ~90 grade; durere accentuata la rotatie interna. Diagnostic: inflamatie tendon supraspinos. Obiective terapeutice: reducerea inflamatiei si refacerea mobilitatii."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am mutat niște mobilă.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Vreo 6."],
+    "localizarea_durerii": ["Dreptul."],
+    "localizarea_durerii_alta": ["mai coboară puțin pe braț, pe față"],
+    "antecedente": ["Tensiune, da."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Enalapril.", "10 miligrame."],
+    "evaluare_functionala_initiala": ["Arc dureros prezent.", "Avem o inflamație la nivelul tendonului supraspinos, probabil. Vom lucra pe reducerea inflamației și refacerea mobilității."]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă veniți astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și s-a întâmplat ceva anume, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am zugrăvit. Țineam mâna sus mult.\nSPEAKER_00: Înțeleg, deci a apărut după ce ați lucrat cu brațul ridicat.\nSPEAKER_01: Da.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde situați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare constant sau doar la mișcare?\nSPEAKER_01: Doar când ridic mâna.\nSPEAKER_00: Ridicați brațul pentru mine, până unde puteți.\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci până la nivelul umărului, mai sus nu puteți?\nSPEAKER_01: Nu, doare.\nSPEAKER_00: Doare mai mult în față, în lateral sau în spate?\nSPEAKER_01: Lateral, mai mult.\nSPEAKER_00: Amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Noaptea vă deranjează, nu puteți dormi pe partea stângă?\nSPEAKER_01: Da, mă trezesc dacă stau pe el.\nSPEAKER_00: Înțeleg. Și în repaus, când stați liniștit, doare?\nSPEAKER_01: Nu, nu prea.\nSPEAKER_00: Bun. Alte dureri, în afară de umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Tensiune arterială, diabet, osteoporoză, alte afecțiuni?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Operații, fracturi?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun antiinflamator, nimic?\nSPEAKER_01: Nimic.\nSPEAKER_00: Ok. Haideți să fac câteva teste. Ridicați brațul în față, ușor.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare la ridicarea asta?\nSPEAKER_01: Da, de la jumătate în sus.\nSPEAKER_00: Acum duc eu brațul dumneavoastră în lateral, îmi spuneți când apare durerea.\nSPEAKER_01: Acum. Cam la 80 de grade.\nSPEAKER_00: Da, e un arc dureros, cam între 70 și 120 de grade. Asta e sugestiv pentru o inflamație la nivelul tendoanelor de la umăr, cel mai probabil o tendinită a coifului rotatorilor. Puneți mâna la spate, o duceți spre omoplat.\nSPEAKER_01: Puțin, dar doare.\nSPEAKER_00: Da, și rotația internă e limitată. Deci avem o limitare de mobilitate și un arc dureros lateral. O să lucrăm să reducem inflamația și să recuperăm mobilitatea, da?\nSPEAKER_01: Da.\nSPEAKER_00: Puneți-vă pe masă cu fața în sus, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang aparuta dupa activitate cu bratul ridicat (zugrarit), cu limitare de mobilitate si arc dureros lateral",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita coif rotatori umar stang. Arc dureros 70-120 grade abductie laterala. Limitare rotatie interna. Obiective terapeutice: reducerea inflamatiei, recuperarea mobilitatii umarului stang."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Am zugrăvit. Țineam mâna sus mult.", "Stângul."],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nimic.", "Nu."],
+    "evaluare_functionala_initiala": ["e un arc dureros, cam între 70 și 120 de grade. Asta e sugestiv pentru o inflamație la nivelul tendoanelor de la umăr, cel mai probabil o tendinită a coifului rotatorilor", "și rotația internă e limitată", "O să lucrăm să reducem inflamația și să recuperăm mobilitatea"]
+  }
+}

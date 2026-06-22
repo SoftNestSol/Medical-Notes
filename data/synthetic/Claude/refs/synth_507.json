@@ -1,0 +1,23 @@
+{
+  "motivul_prezentarii": "Pacient cu durere toracală medie (zona mijlocului spatelui, nivel omoplați), cu debut progresiv în ultimele două luni și acutizare după efort fizic (montaj mobilă) acum două săptămâni. Durere fluctuantă, VAS 7 dimineața / 4-5 în timpul zilei, agravată de sedentarism prelungit și extensie. Senzație de presiune toracică anterioară și iradiere pe traiectul coastei drepte, accentuată la inspir profund. Etiologie cardiacă exclusă anterior.",
+  "evaluarea_durerii_vas": [
+    7,
+    4
+  ],
+  "localizarea_durerii": [
+    "toracal",
+    "torace"
+  ],
+  "localizarea_durerii_alta": "traiectul coastei drepte",
+  "antecedente": [
+    "scolioza_cifoza"
+  ],
+  "antecedente_altele": "operatie menisc genunchi stang (acum aproximativ 8 ani)",
+  "medicatie_actuala": [
+    {
+      "denumire": "Paracetamol",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observatii posturale / biomecanice:\nUsoara rotatie de trunchi, umar drept avansat anterior. Sensibilitate la palpare paravertebrala pe dreapta la nivelul T5-T7. Sensibilitate articulatii costo-vertebrale dreapta. Flexia trunchiului accentueaza durerea la jumatatea amplitudinii; extensia accentueaza durerea mai pregnant.\nDiagnostic:\nBlocaj functional toracal mediu (T5-T7) cu tensiune musculara paravertebrala si iritatie articulatii costo-vertebrale dreapta. Context: scolioza usoara preexistenta, postura de birou prelungita, efort fizic declansator.\nObiective terapeutice:\nMobilizarea articulatiilor toracale; relaxarea musculaturii paravertebrale; corectarea posturii la birou; program de exercitii la domiciliu."
+}

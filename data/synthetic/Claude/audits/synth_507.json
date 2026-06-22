@@ -1,0 +1,56 @@
+{
+  "conversation_id": "synth_507",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare mijlocul spatelui de ceva vreme",
+      "s-a acutizat în ultimele două săptămâni",
+      "cam la nivelul omoplaților, poate puțin mai jos",
+      "simt că mă strânge și în piept",
+      "am fost la doctor, mi-a zis că inima e bine, mi-a făcut EKG și a zis că nu-i nimic cardiac",
+      "am stat un weekend întreg să montez niște mobilă, știți cum e, stai aplecat, ridici, întorci, și după aia n-am mai putut"
+    ],
+    "evaluarea_durerii_vas": [
+      "Dimineața, când mă ridic din pat, aș zice un 7",
+      "În timpul zilei mai scade, ajunge la un 4-5"
+    ],
+    "localizarea_durerii": [
+      "mă doare mijlocul spatelui",
+      "cam la nivelul omoplaților, poate puțin mai jos",
+      "simt că mă strânge și în piept, știți, parcă ar fi o presiune"
+    ],
+    "localizarea_durerii_alta": [
+      "simt ceva și spre coaste, pe dreapta mai mult",
+      "pe coastă, parcă o senzație de apăsare"
+    ],
+    "antecedente": [
+      "la un control de acum câțiva ani, medicul mi-a spus că am o ușoară scolioză"
+    ],
+    "antecedente_altele": [
+      "Am avut o operație la menisc, la genunchiul stâng, acum vreo opt ani"
+    ],
+    "medicatie_actuala": [
+      "Am luat un Paracetamol de vreo două ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "Observ că aveți o ușoară rotație a trunchiului, umărul drept e puțin mai avansat",
+      "La nivelul T5-T7 pe dreapta, am sensibilitate la palpare. Și la nivelul articulațiilor costo-vertebrale pe dreapta",
+      "Avem un blocaj funcțional la nivel toracal mediu, cu tensiune musculară paravertebrală și posibil iritație a articulațiilor costo-vertebrale pe dreapta",
+      "extensia accentuează",
+      "O să lucrăm pe mobilizarea articulațiilor toracale, pe relaxarea musculaturii paravertebrale și o să vă dau și câteva exerciții simple pe care le puteți face acasă"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23139,
+    "inference_geo": "global",
+    "input_tokens": 352,
+    "output_tokens": 3772,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

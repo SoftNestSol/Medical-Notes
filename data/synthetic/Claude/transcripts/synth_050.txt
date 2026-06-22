@@ -1,0 +1,64 @@
+SPEAKER_00: Bună ziua, doamnă!
+SPEAKER_01: Bună ziua.
+SPEAKER_00: Spuneți-mi numele, vă rog.
+SPEAKER_01: Ionescu Mihaela.
+SPEAKER_00: Mihaela, perfect. Și vârsta?
+SPEAKER_01: 38 de ani.
+SPEAKER_00: Mulți înainte. Prima oară la noi?
+SPEAKER_01: Da, prima dată. Am tot amânat, dar nu mai puteam.
+SPEAKER_00: Înțeles. Și cu ce problemă ne vedem astăzi?
+SPEAKER_01: Mă doare foarte rău gâtul, ceafa mai precis, de vreo trei săptămâni. Și mai am și niște dureri pe umărul drept. Nu știu dacă e legat sau nu, că de aia și sunt un pic îngrijorată.
+SPEAKER_00: Ok, deci zona de cervical și umărul drept. Bine. De când exact a apărut, știți să-mi spuneți?
+SPEAKER_01: Păi, acum vreo trei săptămâni, undeva. Eu stau mult la calculator la serviciu și cred că de acolo vine, nu știu, poate e ceva mai grav?
+SPEAKER_00: Hai să vedem împreună. E o durere care stă localizată acolo sau se lasă și în altă parte?
+SPEAKER_01: Uneori simt că se lasă și în brațul drept, mai sus, dar nu mereu. Câteodată și capul mă doare, mai ales dimineața.
+SPEAKER_00: Dimineața mai rău sau pe parcursul zilei?
+SPEAKER_01: Dimineața când mă trezesc e cel mai rău, parcă am dorme strâmb. Și după câteva ore mai trece un pic, dar nu complet.
+SPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e durerea maximă, cât ați pune dimineața?
+SPEAKER_01: Dimineața... un 8. E destul de rău. Mă sperie sincer.
+SPEAKER_00: Și pe parcursul zilei, după ce trece un pic?
+SPEAKER_01: Eh, un 5, poate un 6. Depinde.
+SPEAKER_00: Ok, deci undeva între 5 și 8. Rețin un 8 la vârf. Și umărul drept, doare la mișcare sau și în repaus?
+SPEAKER_01: La mișcare mai mult. Când ridic mâna în sus, de exemplu, simt o durere pe partea... pe aici, în față și pe lateral. Dar nu știu dacă e de la gât sau de la umăr în sine.
+SPEAKER_00: Bine, o să verificăm. Ați avut vreun traumatism, vreo lovitură, accident de mașină, vreo căzătură?
+SPEAKER_01: Nu, nimic din astea. Cel puțin nu recent. Acum vreo doi ani am avut un mic tampon cu mașina, dar nu m-am lovit tare, am crezut că n-a fost nimic.
+SPEAKER_00: Înțeles, mulțumesc. Alte afecțiuni aveți, tensiune, diabet, probleme de inimă?
+SPEAKER_01: Tensiune am, da. Mi-a zis doctorul de familie acum vreo șase luni că am tensiune puțin ridicată. Am 140 peste 90 de obicei.
+SPEAKER_00: Și luați ceva pentru tensiune?
+SPEAKER_01: Da, iau Prestarium, 5 miligrame, în fiecare dimineață.
+SPEAKER_00: Ok. Altceva mai luați, vreun antiinflamator, vreun calmant pentru durere?
+SPEAKER_01: Am luat Ibuprofen câteva zile când a început durerea, dar nu mai iau acum că mi s-a părut că nu prea ajuta și mi-e teamă să nu-mi stric stomacul.
+SPEAKER_00: Înțeles, bine că mi-ați spus. Altă medicație?
+SPEAKER_01: Nu, doar Prestarium.
+SPEAKER_00: Bun. Diabet, epilepsie, osteoporoză, scolioză?
+SPEAKER_01: Nu, nu știu de nimic din astea. Sau cel puțin nimeni nu mi-a spus. Scolioză nu știu, n-am făcut niciodată radiografie la coloană.
+SPEAKER_00: Ok. Cancer sau boli autoimune?
+SPEAKER_01: Nu, nu.
+SPEAKER_00: Operații chirurgicale?
+SPEAKER_01: Am scos apendicele acum mulți ani, vreo 15 ani, altceva nu.
+SPEAKER_00: Alergii?
+SPEAKER_01: Nu știu de niciuna.
+SPEAKER_00: Bun. Spuneți-mi, la serviciu cum stați la calculator? Monitorul e la nivelul ochilor sau mai jos?
+SPEAKER_01: Mai jos, cred. Stau cu capul în jos cam tot timpul. Și stau vreo 8-9 ore pe zi. Asta e, știu că nu e bine, dar ce să fac.
+SPEAKER_00: Da, asta contează mult. Acum haideți să facem câteva teste, dacă sunteți de acord.
+SPEAKER_01: Da, da, sigur. Dar... nu e ceva grav, nu? Adică nu e hernie sau ceva?
+SPEAKER_00: Hai să verificăm împreună și vă spun ce observ. Ridicați-vă ușor, vă rog.
+SPEAKER_01: Ok.
+SPEAKER_00: Întoarceți capul spre dreapta, ușor. Doare?
+SPEAKER_01: Da, da, doare. Aici pe partea dreaptă a gâtului și... și se duce un pic în umăr.
+SPEAKER_00: Spre stânga acum.
+SPEAKER_01: Spre stânga doare mai puțin, dar tot simt ceva.
+SPEAKER_00: Bun. Aplecați capul înainte, bărbia spre piept.
+SPEAKER_01: Asta doare mai puțin, da.
+SPEAKER_00: Și pe spate, ușor.
+SPEAKER_01: Asta da, asta doare mai tare. Simt o presiune mare.
+SPEAKER_00: Înțeles. Stați puțin cu mâna dreaptă ridicată lateral, la 90 de grade. Ține?
+SPEAKER_01: Ține, dar doare pe... pe partea de sus a umărului și în față.
+SPEAKER_00: Ok. Acum o să apăs ușor pe zona de cervical inferior, spuneți-mi dacă simțiți ceva.
+SPEAKER_01: Au, da, acolo doare, mai ales pe dreapta. E rău? Mă îngrijorează că doare atât de tare.
+SPEAKER_00: Înțeleg că sunteți îngrijorată, e normal. Ce pot să vă spun după ce am verificat este că avem o contractură musculară destul de importantă la nivel cervical, mai ales pe partea dreaptă, cu iradiere spre umăr. Cel mai probabil e legat de postura de la calculator și de stresul muscular acumulat. Nu pot să exclud și o afectare a unui disc cervical fără investigații imagistice, dar deocamdată nu avem semne clare de afectare neurologică severă.
+SPEAKER_01: Adică ar trebui să fac un RMN?
+SPEAKER_00: Ar fi util, da, mai ales că durerea iradiază și în braț. Dar putem începe terapia și în paralel. Obiectivul principal acum este să reducem contractura musculară, să eliberăm tensiunea de la nivel cervical și să recuperăm mobilitatea gâtului. Și o să lucrăm și pe umărul drept.
+SPEAKER_01: Ok, înțeleg. Și o să treacă? Adică nu rămâne așa?
+SPEAKER_00: Cu terapie consistentă și cu câteva modificări de postură, da, prognosticul e bun. Haideți să trecem la treabă.
+SPEAKER_01: Bine, mulțumesc. Sper să meargă.

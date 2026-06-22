@@ -1,0 +1,26 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă venim astăzi?\nSPEAKER_01: Mă doare ceafa.\nSPEAKER_00: De când?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Două săptămâni. S-a întâmplat ceva anume sau a apărut din senin?\nSPEAKER_01: Nu știu, parcă de la calculator.\nSPEAKER_00: Stați mult la calculator?\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Ok. Doare doar ceafa sau se extinde și în altă parte?\nSPEAKER_01: Mai sus, spre cap.\nSPEAKER_00: Spre cap, deci și zona capului. Doare mai mult la baza craniului sau și sus pe cap?\nSPEAKER_01: La baza, mai mult.\nSPEAKER_00: Am înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e maxim, unde situați durerea?\nSPEAKER_01: Vreo 5.\nSPEAKER_00: 5. Doare constant sau vine și pleacă?\nSPEAKER_01: Vine și pleacă.\nSPEAKER_00: Când e mai rău, dimineața sau seara?\nSPEAKER_01: Seara.\nSPEAKER_00: Seara, după ziua de muncă. Am înțeles. Amorțește ceva, mâinile, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți dureri de cap, amețeli?\nSPEAKER_01: Dureri de cap da, uneori.\nSPEAKER_00: Uneori. Amețeli?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Vă întoarceți capul, să zic, la dreapta și la stânga normal sau simțiți că e blocat?\nSPEAKER_01: E cam blocat pe dreapta.\nSPEAKER_00: Pe dreapta mai blocat. Și dacă dați capul pe spate, doare?\nSPEAKER_01: Da, un pic.\nSPEAKER_00: Un pic. Bun. Luați vreun medicament în momentul de față, ceva pentru durere?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun fel de medicament?\nSPEAKER_01: Nu.\nSPEAKER_00: Aveți tensiune, diabet, osteoporoză, vreo problemă mai veche?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Ok, bine. Haideți să fac câteva verificări. Întoarceți capul spre dreapta... stați așa... doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Da. Și spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin pe stânga, mai mult pe dreapta. Acum apăs un pic pe musculatura de la ceafă, îmi spuneți unde simțiți.\nSPEAKER_01: Acolo, da, exact.\nSPEAKER_00: Exact acolo. Deci avem o contractură destul de pronunțată pe toată zona suboccipitală și paravertebrală cervical. Probabil din postura la calculator, cu capul dus în față. Asta pune presiune și pe musculatura de ceafă și explică și durerile de cap pe care le aveți. O să lucrăm să relaxăm musculatura asta, să redăm mobilitatea pe dreapta și să reducem inflamația. Mergem pe masă cu fața în sus, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere de ceafă și cap-ceafă, apărută de aproximativ două săptămâni, posibil legată de postura la calculator.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nContractură pronunțată suboccipitală și paravertebrală cervical. Mobilitate cervicală limitată la rotație dreapta. Durere la extensia cervicală. Postură cu capul dus în față (muncă la calculator toată ziua).\nDiagnostic:\nCervicalgie cu contractură musculară suboccipitală și paravertebrală, asociată cu cefalee de tensiune secundară posturii la calculator.\nObiective terapeutice:\nRelaxarea musculaturii suboccipitale și paravertebrale cervicale; redarea mobilității la rotație dreapta; reducerea inflamației; ameliorarea durerilor de cap."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare ceafa.", "De vreo două săptămâni.", "parcă de la calculator"],
+    "evaluarea_durerii_vas": ["Vreo 5."],
+    "localizarea_durerii": ["Mă doare ceafa.", "Mai sus, spre cap."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Nu.", "Niciun fel de medicament?", "Nu."],
+    "evaluare_functionala_initiala": ["avem o contractură destul de pronunțată pe toată zona suboccipitală și paravertebrală cervical", "Probabil din postura la calculator, cu capul dus în față", "Asta pune presiune și pe musculatura de ceafă și explică și durerile de cap pe care le aveți", "O să lucrăm să relaxăm musculatura asta, să redăm mobilitatea pe dreapta și să reducem inflamația"]
+  }
+}

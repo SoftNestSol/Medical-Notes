@@ -1,0 +1,48 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă vă confruntați.\nSPEAKER_01: Mă doare spatele, jos.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. A apărut brusc sau treptat?\nSPEAKER_01: Brusc.\nSPEAKER_00: A existat ceva anume în momentul în care a apărut? Un efort, o mișcare?\nSPEAKER_01: Am ridicat ceva mai greu la serviciu.\nSPEAKER_00: Înțeleg. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare extrem de tare, unde situați durerea?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Durerea rămâne în zona de jos a spatelui sau se lasă și mai jos, pe fesă, pe picior?\nSPEAKER_01: Uneori se lasă puțin pe fesa dreaptă.\nSPEAKER_00: Și mai departe, sub fesă, pe coapsă?\nSPEAKER_01: Nu, nu ajunge acolo.\nSPEAKER_00: Bun. Amorțesc picioarele?\nSPEAKER_01: Nu.\nSPEAKER_00: Durerea este mai intensă dimineața când vă ridicați din pat sau pe parcursul zilei?\nSPEAKER_01: Dimineața mai rău. Apoi trece un pic.\nSPEAKER_00: Statul jos prelungit, pe scaun, agravează durerea?\nSPEAKER_01: Da, dacă stau mult jos, mă apucă.\nSPEAKER_00: Și mersul pe jos?\nSPEAKER_01: Merge, dar nu mult.\nSPEAKER_00: Ce ocupație aveți?\nSPEAKER_01: Lucrez în depozit.\nSPEAKER_00: Muncă fizică, ridicat greutăți.\nSPEAKER_01: Da.\nSPEAKER_00: Ați mai avut episoade similare înainte?\nSPEAKER_01: Acum doi ani am mai pățit ceva asemănător, dar a trecut de la sine.\nSPEAKER_00: A trecut singur, fără tratament?\nSPEAKER_01: Da.\nSPEAKER_00: Acum luați vreun medicament, antiinflamator, calmant?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Afecțiuni mai aveți, tensiune, diabet, osteoporoză?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Stați în picioare cu spatele la mine, relaxat, mâinile pe lângă corp.\nSPEAKER_01: Bine.\nSPEAKER_00: Observ o ușoară înclinare a trunchiului spre stânga. Vă aplecați înainte, încet, cât puteți.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Doare la aplecarea înainte?\nSPEAKER_01: Da, acum doare.\nSPEAKER_00: Reveniți. Acum aplecați-vă ușor pe spate.\nSPEAKER_01: Ăsta doare mai tare.\nSPEAKER_00: Mai tare la extensie. Înțeleg. Apăs acum cu degetele pe coloana lombară, spuneți-mi dacă simțiți ceva.\nSPEAKER_01: Da, acolo doare.\nSPEAKER_00: Zona de L4-L5 și L5-S1 este sensibilă. Acum ridicați piciorul drept întins, stând pe spate, vă rog.\nSPEAKER_01: Aoleu, doare când ridic.\nSPEAKER_00: Unde se simte durerea?\nSPEAKER_01: Tot în spate, jos. Și un pic pe fesă.\nSPEAKER_00: Nu coboară pe picior, nu?\nSPEAKER_01: Nu, nu merge mai departe.\nSPEAKER_00: Bun. Testul Lasègue este pozitiv pentru zona lombară și fesierul drept, fără iradiere sciatică completă. Musculatura paravertebrală lombară este în contractură, mai accentuat pe dreapta. Deci avem o lombalgie acută mecanică, probabil un blocaj articular lombar inferior la nivelul L4-L5, L5-S1, cu iritație locală a fesierului drept. Obiectivul nostru este să reducem contractura musculară și să refacem mobilitatea lombară. Vom lucra cu mobilizări blânde și tehnici de relaxare musculară.\nSPEAKER_01: Bine.\nSPEAKER_00: Haideți pe masă, cu fața în sus.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară joasă apărută brusc acum două săptămâni, după ridicarea unei greutăți la serviciu. Durere cu iradiere parțială spre fesa dreaptă, fără amorțeli ale membrelor inferioare. Exacerbată dimineața la sculare, la statul prelungit pe scaun și la extensia coloanei.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "lombar",
+      "sacral_coccis"
+    ],
+    "localizarea_durerii_alta": "fesa dreaptă",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nUșoară înclinare a trunchiului spre stânga în ortostatism. Mobilitate lombară limitată la flexie și extensie, extensia mai dureroasă. Sensibilitate la palpare paravertebrală lombar L4-L5, L5-S1. Contractură musculară paravertebrală lombară accentuată pe dreapta. Test Lasègue pozitiv pe dreapta cu durere lombară și fesieră, fără iradiere sub fesă.\nDiagnostic:\nLombalgie acută mecanică, blocaj articular lombar inferior L4-L5, L5-S1, cu iritație locală fesier drept.\nObiective terapeutice:\nReducerea contracturii musculare paravertebrale; refacerea mobilității lombare prin mobilizări blânde și tehnici de relaxare musculară."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele, jos.",
+      "Am ridicat ceva mai greu la serviciu.",
+      "Uneori se lasă puțin pe fesa dreaptă.",
+      "Dimineața mai rău.",
+      "dacă stau mult jos, mă apucă.",
+      "Ăsta doare mai tare."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 7."
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele, jos.",
+      "Uneori se lasă puțin pe fesa dreaptă."
+    ],
+    "localizarea_durerii_alta": [
+      "Uneori se lasă puțin pe fesa dreaptă.",
+      "Tot în spate, jos. Și un pic pe fesă."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Observ o ușoară înclinare a trunchiului spre stânga.",
+      "Zona de L4-L5 și L5-S1 este sensibilă.",
+      "Testul Lasègue este pozitiv pentru zona lombară și fesierul drept, fără iradiere sciatică completă.",
+      "Musculatura paravertebrală lombară este în contractură, mai accentuat pe dreapta.",
+      "avem o lombalgie acută mecanică, probabil un blocaj articular lombar inferior la nivelul L4-L5, L5-S1, cu iritație locală a fesierului drept.",
+      "Obiectivul nostru este să reducem contractura musculară și să refacem mobilitatea lombară."
+    ]
+  }
+}

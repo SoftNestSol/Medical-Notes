@@ -1,0 +1,187 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 16.5,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua! Am găsit clinica pe internet, am tot căutat, că am un prieten care a zis să mă duc la un ortoped, dar eu zic că mai bine încerc și altceva, nu? Că ortopedii imediat îți zic operație."
+    },
+    {
+      "start": 16.62,
+      "end": 18.9,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și cu ce problemă veniți?"
+    },
+    {
+      "start": 19.02,
+      "end": 30.04,
+      "speaker": "SPEAKER_01",
+      "text": "Păi mă doare umărul, cel stâng. De vreo trei săptămâni acum. La început am crezut că a trecut, că am dormit prost, știți cum e, dar n-a trecut."
+    },
+    {
+      "start": 30.16,
+      "end": 31.3,
+      "speaker": "SPEAKER_00",
+      "text": "Doar umărul stâng?"
+    },
+    {
+      "start": 31.42,
+      "end": 38.64,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, numai stângul. Uneori mai simt ceva și pe braț, în jos, dar mai puțin. Mai mult umărul."
+    },
+    {
+      "start": 38.76,
+      "end": 43.32,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 43.44,
+      "end": 57.88,
+      "speaker": "SPEAKER_01",
+      "text": "Aș zice un 5, că nu e insuportabil, pot să merg la muncă și tot, dar mă deranjează. Seara e mai rău, când mă bag în pat și mă întorc pe partea aia, nu pot să stau deloc."
+    },
+    {
+      "start": 58.0,
+      "end": 58.8,
+      "speaker": "SPEAKER_00",
+      "text": "Și dimineața?"
+    },
+    {
+      "start": 58.92,
+      "end": 67.28,
+      "speaker": "SPEAKER_01",
+      "text": "Dimineața e mai ok. Se mai dezmorțește. Dar dacă ridic brațul sus, cum să fac să pun ceva pe raft, doare destul."
+    },
+    {
+      "start": 67.4,
+      "end": 69.68,
+      "speaker": "SPEAKER_00",
+      "text": "Ați lovit umărul, ați căzut, ceva?"
+    },
+    {
+      "start": 69.8,
+      "end": 87.66,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic. Adică eu lucrez la birou, stau toată ziua la calculator. Poate de la asta, nu știu. Stau cam strâmb, recunosc, colegii îmi zic mereu că stau cocoșat. Și mai am și un geantoi pe care îl port pe umărul stâng, poate și de la aia."
+    },
+    {
+      "start": 87.78,
+      "end": 90.44,
+      "speaker": "SPEAKER_00",
+      "text": "Posibil. Alte dureri, în afară de umăr?"
+    },
+    {
+      "start": 90.56,
+      "end": 102.72,
+      "speaker": "SPEAKER_01",
+      "text": "Păi mai am și gâtul uneori, tot pe partea stângă. Dar asta e de mult, e cronică, zic eu. De ani de zile. Nu e nici aia gravă, mai vine mai trece."
+    },
+    {
+      "start": 102.84,
+      "end": 106.26,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți vreo boală despre care știți, hipertensiune, diabet, ceva?"
+    },
+    {
+      "start": 106.38,
+      "end": 113.6,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu, sunt sănătos tun altfel. Adică mă mai doare spatele câteodată, dar cine nu? Nu e nimic diagnosticat."
+    },
+    {
+      "start": 113.72,
+      "end": 116.38,
+      "speaker": "SPEAKER_00",
+      "text": "Luați vreun medicament acum, în mod curent?"
+    },
+    {
+      "start": 116.5,
+      "end": 127.9,
+      "speaker": "SPEAKER_01",
+      "text": "Nu iau nimic. Ei, am luat un ibuprofen acum vreo săptămână că nu mai puteam, dar nu îl iau constant. Nu-mi place să iau pastile dacă nu e neapărat."
+    },
+    {
+      "start": 128.02,
+      "end": 132.58,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Haideți să vedem puțin mobilitatea. Ridicați brațul în față, încet."
+    },
+    {
+      "start": 132.7,
+      "end": 135.36,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici merge... ah, de aici doare."
+    },
+    {
+      "start": 135.48,
+      "end": 136.62,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și lateral?"
+    },
+    {
+      "start": 136.74,
+      "end": 140.54,
+      "speaker": "SPEAKER_01",
+      "text": "Lateral mai puțin, merge mai sus. Dar tot simte ceva."
+    },
+    {
+      "start": 140.66,
+      "end": 144.46,
+      "speaker": "SPEAKER_00",
+      "text": "Stați puțin, apăs eu ușor pe umăr. Spuneți dacă doare."
+    },
+    {
+      "start": 144.58,
+      "end": 147.24,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo, pe partea din față, doare."
+    },
+    {
+      "start": 147.36,
+      "end": 150.78,
+      "speaker": "SPEAKER_00",
+      "text": "Rotația internă o puteți face, duceți mâna la spate?"
+    },
+    {
+      "start": 150.9,
+      "end": 156.98,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, asta e mai greu, nu ajung prea sus. Doare și puțin trage și pe braț."
+    },
+    {
+      "start": 157.1,
+      "end": 175.34,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Deci avem o limitare de mobilitate la umărul stâng, cu durere la abducție și la rotația internă, și sensibilitate la nivelul tendonului din față. Pare o tendinopatie la nivelul umărului stâng, cel mai probabil tendonul supraspinos. O să lucrăm să reducem inflamația și să recuperăm mobilitatea."
+    },
+    {
+      "start": 175.46,
+      "end": 188.0,
+      "speaker": "SPEAKER_01",
+      "text": "Și credeți că trece? Că mă tot gândesc că poate e ceva mai grav, nu știu, poate am rupt ceva înăuntru. Am citit pe internet despre rupturi de tendoane și m-am speriat."
+    },
+    {
+      "start": 188.12,
+      "end": 196.1,
+      "speaker": "SPEAKER_00",
+      "text": "La testele pe care le-am făcut acum nu avem semne de ruptură. Dar o să vedem cum răspunde la terapie."
+    },
+    {
+      "start": 196.22,
+      "end": 198.5,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine, mă bazez pe dumneavoastră."
+    }
+  ]
+}

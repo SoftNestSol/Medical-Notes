@@ -1,0 +1,33 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua, domnule.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi și numele, vă rog.\nSPEAKER_01: Gheorghe Nistor.\nSPEAKER_00: Mulțumesc, domnule Nistor. Și vârsta?\nSPEAKER_01: 51.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut din senin sau după ceva anume?\nSPEAKER_01: Păi... nu știu exact. M-am trezit dimineața și era acolo.\nSPEAKER_00: Dimineața v-ați trezit cu durerea. Înțeles. Doare doar în gât sau se lasă și pe umăr, pe braț?\nSPEAKER_01: Și pe umăr.\nSPEAKER_00: Pe care umăr?\nSPEAKER_01: Pe dreapta.\nSPEAKER_00: Pe umărul drept. Și pe braț mai jos se lasă?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde vă situați?\nSPEAKER_01: Un 6.\nSPEAKER_00: Un 6. Doare mai tare când întoarceți capul sau când stați liniștit?\nSPEAKER_01: Când întorc.\nSPEAKER_00: Spre dreapta sau spre stânga?\nSPEAKER_01: Spre dreapta mai rău.\nSPEAKER_00: Spre dreapta. Și noaptea vă trezește durerea?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Câteodată. Ce muncă faceți, dacă pot să întreb?\nSPEAKER_01: Stau mult la calculator.\nSPEAKER_00: Mult la calculator, înțeles. Alte afecțiuni aveți, tensiune, diabet, ceva la coloană diagnosticat?\nSPEAKER_01: Tensiune am.\nSPEAKER_00: Tensiune arterială. Luați ceva pentru ea?\nSPEAKER_01: Da, Prenessa.\nSPEAKER_00: Prenessa. Știți ce doză?\nSPEAKER_01: 4 miligrame, cred.\nSPEAKER_00: 4 miligrame. Altceva mai luați?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio altă afecțiune, diabet, epilepsie, osteoporoză?\nSPEAKER_01: Nu.\nSPEAKER_00: Operații anterioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Alergii la creme, unguiente?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă ridic puțin în picioare și fac câteva mișcări, da? Întoarceți capul ușor spre dreapta.\nSPEAKER_01: Ah.\nSPEAKER_00: Doare?\nSPEAKER_01: Da.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin, bine. Apăs puțin aici pe zona cervicală, îmi spuneți dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Da, exact. Și pe trapez, pe dreapta?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Bun. Deci avem o contractură pe zona cervicală și pe trapezul drept, cel mai probabil de la postura la calculator. O să lucrăm să reducem contractura și să refacem mobilitatea pe cervical. Hai să trecem la masă.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicala si umar drept",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "hipertensiune_arteriala"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Prenessa",
+        "doza": "4 miligrame"
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic: contractura zona cervicala si trapez drept, posibil de la postura la calculator.\nObiective terapeutice: reducerea contracturii, refacerea mobilitatii cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "Și pe umăr.", "Pe dreapta."],
+    "evaluarea_durerii_vas": ["Un 6."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și pe umăr.", "Pe dreapta."],
+    "localizarea_durerii_alta": [],
+    "antecedente": ["Tensiune am."],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Prenessa", "4 miligrame, cred."],
+    "evaluare_functionala_initiala": ["avem o contractură pe zona cervicală și pe trapezul drept, cel mai probabil de la postura la calculator. O să lucrăm să reducem contractura și să refacem mobilitatea pe cervical."]
+  }
+}

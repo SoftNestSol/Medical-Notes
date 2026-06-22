@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr, stângul sau dreptul?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. Și a apărut după ceva anume, după un efort, după o mișcare bruscă?\nSPEAKER_01: Nu știu exact. Cred că am dormit strâmb.\nSPEAKER_00: Ah, deci dimineața v-ați trezit cu durerea, nu a fost o lovitură sau un accident?\nSPEAKER_01: Da, dimineața.\nSPEAKER_00: Înțeles. Și de atunci s-a menținut sau a mai scăzut un pic?\nSPEAKER_01: E cam la fel.\nSPEAKER_00: E la fel. Vă doare umărul tot timpul sau mai mult când îl mișcați?\nSPEAKER_01: Când îl ridic mai ales.\nSPEAKER_00: Când ridicați brațul. Și reușiți să-l ridicați sus, deasupra capului?\nSPEAKER_01: Greu. Până pe la ureche ajung.\nSPEAKER_00: Până pe la ureche, deci cam jumătate din mișcare. Vă doare și când îl duceți în spate, să zicem că v-ați prinde centura la mașină?\nSPEAKER_01: Da, și atunci.\nSPEAKER_00: Și noaptea, vă deranjează când dormiți pe partea dreaptă?\nSPEAKER_01: Mă trezesc.\nSPEAKER_00: Vă treziți din cauza durerii. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât de tare e durerea acum, în repaus?\nSPEAKER_01: Acum... un 3.\nSPEAKER_00: Un 3 în repaus. Dar când ridicați brațul, când doare mai tare?\nSPEAKER_01: Un 7.\nSPEAKER_00: Un 7. Înțeles. Vă amorțește cumva brațul sau mâna?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. Bun. Ce lucru faceți, dacă pot să întreb?\nSPEAKER_01: Birou. Stau mult la calculator.\nSPEAKER_00: Mult la calculator, deci mâna dreaptă tot timpul pe mouse.\nSPEAKER_01: Da.\nSPEAKER_00: Și postura cum e, stați mai aplecat sau mai drept?\nSPEAKER_01: Aplecat, probabil.\nSPEAKER_00: Probabil aplecat. Ok. Alte probleme de sănătate, tensiune, diabet, ceva mai vechi?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio intervenție chirurgicală, nicio fractură?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Niciun fel. Bun. Haideți să fac câteva teste rapide. Ridicați brațul ușor în față, încet... până unde puteți.\nSPEAKER_01: Până aici.\nSPEAKER_00: Deci cam 90 de grade, la orizontală. Doare chiar de la început sau apare pe parcurs?\nSPEAKER_01: Pe la mijloc apare.\nSPEAKER_00: Pe la mijloc. Stați puțin, vă pun mâna pe umăr... simțiți o senzație de frecătură înăuntru când ridicați?\nSPEAKER_01: Da, parcă ceva trosnește acolo.\nSPEAKER_00: Trosnește. Bun. Acum duceți brațul lateral, tot încet.\nSPEAKER_01: Au.\nSPEAKER_00: Doare mai tare pe lateral?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Ce pot să vă spun este că avem o inflamație la nivelul umărului drept, cel mai probabil la manșeta rotatorilor, zona asta de tendoane care stabilizează umărul. Postura de la birou și mișcarea pe mouse contribuie și ele. Obiectivul nostru va fi să reducem inflamația și să recuperăm mobilitatea, ca să puteți ridica brațul fără durere. Vom lucra progresiv.\nSPEAKER_01: Cât durează?\nSPEAKER_00: Depinde, dar în câteva ședințe ar trebui să simțiți o îmbunătățire clară. Haideți să trecem la treabă.\nSPEAKER_01: Da.",
+  "note": {
+    "motivul_prezentarii": "durere umar drept",
+    "evaluarea_durerii_vas": [3, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- inflamatie manseta rotatorilor umar dr.\nObiective terapeutice:\n- reducerea inflamatiei;\n- recuperarea mobilitatii umarului drept"
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul."],
+    "evaluarea_durerii_vas": ["Acum... un 3.", "Un 7."],
+    "localizarea_durerii": ["Mă doare umărul.", "Dreptul."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o inflamație la nivelul umărului drept, cel mai probabil la manșeta rotatorilor", "Obiectivul nostru va fi să reducem inflamația și să recuperăm mobilitatea"]
+  }
+}

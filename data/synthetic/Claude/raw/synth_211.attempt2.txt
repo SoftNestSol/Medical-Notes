@@ -1,0 +1,27 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă veniți.\nSPEAKER_01: Mă doare gâtul.\nSPEAKER_00: Gâtul. De cât timp?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: Și a apărut după ceva anume? Ați căzut, ați tras o curentă, ați stat la calculator?\nSPEAKER_01: La calculator. Stau mult.\nSPEAKER_00: Înțeles. Doare doar în ceafă sau se lasă și în altă parte?\nSPEAKER_01: Și în umăr, pe partea dreaptă.\nSPEAKER_00: Pe umărul drept. Se lasă mai departe, pe braț, pe mână?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțește ceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cât e durerea acum?\nSPEAKER_01: Un 5.\nSPEAKER_00: Un 5. E constantă sau apare doar când întoarceți capul?\nSPEAKER_01: Când stau mult la birou mai rău. Dimineața merge.\nSPEAKER_00: Înțeles. Dureri de cap asociate?\nSPEAKER_01: Câteodată.\nSPEAKER_00: Câteodată, da. Amețeli?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Alte probleme de sănătate, tensiune, diabet, epilepsie?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio alergie la creme, unguente?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Stați puțin cu spatele la mine. Hai să vedem cum stați. Vedeți că umerii sunt ușor ridicați, capul dus puțin în față față de coloană. E postura de birou, clasică. Întoarceți capul spre dreapta pentru mine.\nSPEAKER_01: Doare.\nSPEAKER_00: Doare la rotație dreapta. Spre stânga?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Mai puțin, da. Aplecați capul spre umărul drept.\nSPEAKER_01: Doare pe partea asta.\nSPEAKER_00: Pe partea dreaptă, înțeles. Apăs puțin aici, pe musculatura cefei. Doare?\nSPEAKER_01: Da, acolo exact.\nSPEAKER_00: Și pe trapez, pe partea dreaptă?\nSPEAKER_01: Da, și acolo.\nSPEAKER_00: Deci avem o contractură a musculaturii cervicale și a trapezului drept, pe fond de postură prelungită la calculator. E o cervicalgie mecanică, fără iradiere, fără semne neurologice. O să lucrăm să reducem contractura și să redăm mobilitatea cervicală.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală și umăr drept, apărută de aproximativ două săptămâni, asociată cu statul prelungit la calculator.",
+    "evaluarea_durerii_vas": 5,
+    "localizarea_durerii": [
+      "cervical",
+      "umar_dr",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: cervicalgie mecanică, contractură musculatură cervicală și trapez drept, fără iradiere, fără semne neurologice.\nObiective terapeutice: reducerea contracturii, refacerea mobilității cervicale."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare gâtul.", "De vreo două săptămâni.", "La calculator. Stau mult.", "Și în umăr, pe partea dreaptă."],
+    "evaluarea_durerii_vas": ["Un 5."],
+    "localizarea_durerii": ["Mă doare gâtul.", "Și în umăr, pe partea dreaptă.", "Da, acolo exact.", "Și pe trapez, pe partea dreaptă?"],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["avem o contractură a musculaturii cervicale și a trapezului drept, pe fond de postură prelungită la calculator. E o cervicalgie mecanică, fără iradiere, fără semne neurologice. O să lucrăm să reducem contractura și să redăm mobilitatea cervicală."]
+  }
+}

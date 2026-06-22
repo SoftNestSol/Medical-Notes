@@ -1,0 +1,50 @@
+{
+  "conversation_id": "synth_350",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept de ceva vreme",
+      "Cam de vreo trei săptămâni, poate patru",
+      "am stat câteva zile la văruit în casă, am ținut mâna ridicată mult, și după aia a început"
+    ],
+    "evaluarea_durerii_vas": [
+      "cam un 8. E destul de rău.",
+      "un 3, 4, ceva de genul"
+    ],
+    "localizarea_durerii": [
+      "Se lasă un pic pe braț, da, cam până la cot, dar mai ales sus, pe umăr, pe partea asta din față.",
+      "mă doare umărul drept"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "am tensiune mare, de vreo șase ani"
+    ],
+    "antecedente_altele": [
+      "am scos vezicula biliară acum vreo zece ani"
+    ],
+    "medicatie_actuala": [
+      "iau Lozartan, 50 de miligrame, în fiecare dimineață",
+      "Mai iau câte un Diclofenac când mă doare umărul foarte tare",
+      "Cele de 50, cred, că am o cutie acasă. Da, 50."
+    ],
+    "evaluare_functionala_initiala": [
+      "pare a fi o tendinopatie pe zona de coafă a rotatorilor, în special afectat mușchiul supraspinos",
+      "obiectivul nostru e tocmai asta, să reducem inflamația de acolo, să refacem mobilitatea umărului și să reântărim musculatura din jurul articulației",
+      "în arcul ăsta, între 80 și 120 de grade, apare durerea mai tare",
+      "forța e redusă pe abducție"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13823,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 3314,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

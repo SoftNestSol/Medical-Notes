@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_427",
+  "evidence": {
+    "motivul_prezentarii": [
+      "am o durere la umăr, la umărul stâng, de vreo trei săptămâni",
+      "Nu pot să ridic mâna, nu pot să mă îmbrac singură dimineața",
+      "Gâtul mă mai doare câteodată, da. Nu zilnic, dar mai am dureri de gât"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, stând așa, un 4. Dar dacă ridic mâna, dacă încerc să o duc în sus, ajunge ușor la 8, chiar 9"
+    ],
+    "localizarea_durerii": [
+      "am o durere la umăr, la umărul stâng",
+      "Gâtul mă mai doare câteodată, da"
+    ],
+    "localizarea_durerii_alta": [
+      "Coboară un pic pe braț, pe partea din față, dar nu ajunge la cot. Adică se oprește pe la jumătatea brațului"
+    ],
+    "antecedente": [
+      "am avut o scolioză ușoară când eram mică, la 14 ani mi-a zis medicul școlar că am coloana un pic curbată"
+    ],
+    "antecedente_altele": [
+      "am operat apendicita, acum vreo zece ani",
+      "am rupt pumnul drept acum mulți ani, de la un accident stupid, am căzut de pe bicicletă. La 20 de ani cam"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "este o inflamație în zona tendoanelor umărului stâng, cel mai probabil la nivelul coafei rotatorilor",
+      "Avem și o tensionare a musculaturii cervicale pe stânga",
+      "Trebuie să reducem inflamația, să eliberăm tensiunile musculare și să recuperăm mobilitatea umărului",
+      "Ar fi util să faceți și o ecografie de umăr"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 21395,
+    "inference_geo": "global",
+    "input_tokens": 318,
+    "output_tokens": 3317,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

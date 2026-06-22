@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi cum vă numiți, vă rog.\nSPEAKER_01: Radu Popa.\nSPEAKER_00: Domnule Popa, cu ce problemă ne vedem astăzi?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Dreptul.\nSPEAKER_00: De când vă doare?\nSPEAKER_01: De vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva anume, o lovitură, un efort?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Aha, deci după un efort fizic. Și de atunci doare constant sau numai la mișcare?\nSPEAKER_01: Mai mult la mișcare. Când ridic brațul.\nSPEAKER_00: Când ridicați brațul în față, în lateral sau în ambele direcții?\nSPEAKER_01: Mai mult în lateral.\nSPEAKER_00: Și când stați nemișcat, doare?\nSPEAKER_01: Noaptea mai doare, da.\nSPEAKER_00: Noaptea vă trezește din somn?\nSPEAKER_01: Uneori.\nSPEAKER_00: Pe o scară de la zero la zece, unde zero înseamnă că nu doare deloc și zece doare insuportabil, cât estimați durerea când ridicați brațul în lateral?\nSPEAKER_01: Un șase.\nSPEAKER_00: Șase. Și noaptea, când vă trezește?\nSPEAKER_01: Cam la fel, șase, șapte.\nSPEAKER_00: Durerea rămâne la umăr sau coboară pe braț?\nSPEAKER_01: Rămâne sus, la umăr.\nSPEAKER_00: Nu simțiți amorțeală, furnicături pe mână sau pe degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Vă doare și zona cervicală, ceafa?\nSPEAKER_01: Nu, nu.\nSPEAKER_00: Ok. Aveți vreo afecțiune știută, tensiune, diabet, osteoporoză, ceva?\nSPEAKER_01: Nu, nu am nimic.\nSPEAKER_00: Luați vreun medicament în prezent?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, niciun antiinflamator?\nSPEAKER_01: Nimic.\nSPEAKER_00: Ați mai avut probleme la umărul ăsta înainte?\nSPEAKER_01: Nu, prima dată.\nSPEAKER_00: Ok. Ridicați brațul acum pentru mine, cât puteți. Până unde ajungeți?\nSPEAKER_01: Până pe la orizontală, cam atât.\nSPEAKER_00: Doare când ajungeți la orizontală?\nSPEAKER_01: Da, acolo începe.\nSPEAKER_00: Stați puțin, o să apăs ușor pe zona asta de deasupra umărului. Spuneți-mi dacă doare.\nSPEAKER_01: Da, doare.\nSPEAKER_00: Și dacă apăs mai în față, pe biceps, doare la fel?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Înțeleg. Acum o să vă rog să rezistați când împing brațul în jos. Țineti?\nSPEAKER_01: Doare când fac asta.\nSPEAKER_00: Doare. Ok, mulțumesc. Avem o sensibilitate clară pe tendonul supraspinosului și un arc dureros la abducție. Cel mai probabil este o tendinopatie a coafei rotatorilor, posibil cu o mică inflamație subacromială. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului. Câteva ședințe de terapie manuală și exerciții specifice ar trebui să rezolve situația.\nSPEAKER_01: Ok.\nSPEAKER_00: Avem și o radiografie sau un RMN făcut pe umăr?\nSPEAKER_01: Nu.\nSPEAKER_00: Nu. O să notăm asta. Haideți să trecem la treabă.",
+  "note": {
+    "motivul_prezentarii": "Durere la umărul drept apărută după efort fizic (mutare mobilă), de aproximativ două săptămâni, accentuată la abducție și nocturn.",
+    "evaluarea_durerii_vas": [6, 7],
+    "localizarea_durerii": ["umar_dr"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Mobilitate activă limitată la orizontală la abducție, arc dureros prezent. Sensibilitate la palpare pe tendonul supraspinosului. Test rezistență abducție pozitiv (dureros). Diagnostic: tendinopatie coafă rotatori, posibil inflamație subacromială. Obiective terapeutice: reducerea inflamației, recuperarea mobilității umărului drept."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Dreptul.", "Am mutat niște mobilă.", "De vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Un șase.", "Cam la fel, șase, șapte."],
+    "localizarea_durerii": ["Dreptul.", "Rămâne sus, la umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["Până pe la orizontală, cam atât.", "Da, acolo începe.", "Da, doare.", "Doare când fac asta.", "Avem o sensibilitate clară pe tendonul supraspinosului și un arc dureros la abducție. Cel mai probabil este o tendinopatie a coafei rotatorilor, posibil cu o mică inflamație subacromială. O să lucrăm să reducem inflamația și să recuperăm mobilitatea umărului."]
+  }
+}

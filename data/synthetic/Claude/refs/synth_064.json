@@ -1,0 +1,18 @@
+{
+  "motivul_prezentarii": "Durere cervicală cu iradiere pe umărul drept, instalată brusc de trei zile",
+  "evaluarea_durerii_vas": 6,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Limitare mobilitate cervicală: rotație spre dreapta redusă, înclinare laterală dreapta dureroasă. Hipersensibilitate la palpare trapez dreapta și cervical superior dreapta. Diagnostic: contractură musculară cervicală cu limitare de mobilitate pe rotație și înclinare dreapta. Obiective terapeutice: relaxarea musculaturii cervicale, redobândirea mobilității."
+}

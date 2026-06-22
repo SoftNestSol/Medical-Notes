@@ -1,0 +1,445 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua."
+    },
+    {
+      "start": 2.56,
+      "end": 6.36,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi, vă rog, cu ce problemă ne confruntăm azi."
+    },
+    {
+      "start": 6.48,
+      "end": 9.9,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... mă doare umărul. Ăsta, stângul. De ceva timp."
+    },
+    {
+      "start": 10.02,
+      "end": 11.54,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp aproximativ?"
+    },
+    {
+      "start": 11.66,
+      "end": 19.26,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu exact... poate vreo două luni, poate mai mult. A început mai ușor și acum e mai... mai consistent."
+    },
+    {
+      "start": 19.38,
+      "end": 22.8,
+      "speaker": "SPEAKER_00",
+      "text": "A apărut după ceva anume? Un efort, o mișcare?"
+    },
+    {
+      "start": 22.92,
+      "end": 30.14,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu, sincer. Nu am ridicat nimic special. Poate de la serviciu, stau mult la birou, tastez toată ziua."
+    },
+    {
+      "start": 30.26,
+      "end": 37.1,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și durerea asta e localizată strict în umăr sau simțiți că se lasă și în altă parte?"
+    },
+    {
+      "start": 37.22,
+      "end": 42.92,
+      "speaker": "SPEAKER_01",
+      "text": "Păi... se lasă și pe aici, pe braț, în jos, cam până la cot. Uneori."
+    },
+    {
+      "start": 43.04,
+      "end": 46.84,
+      "speaker": "SPEAKER_00",
+      "text": "Până la cot, pe ce parte? Pe exterior, pe interior?"
+    },
+    {
+      "start": 46.96,
+      "end": 50.38,
+      "speaker": "SPEAKER_01",
+      "text": "Pe... pe exterior, cred. Pe aici, pe partea asta."
+    },
+    {
+      "start": 50.5,
+      "end": 54.3,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Și amorțeli, simțiți vreodată că amorțesc degetele sau mâna?"
+    },
+    {
+      "start": 54.42,
+      "end": 62.02,
+      "speaker": "SPEAKER_01",
+      "text": "Da, dimineața mai ales. Mă trezesc și mâna stângă e cam... cam amorțită. Trece după ce mă mișc un pic."
+    },
+    {
+      "start": 62.14,
+      "end": 64.42,
+      "speaker": "SPEAKER_00",
+      "text": "Amorțesc toate degetele sau anumite degete?"
+    },
+    {
+      "start": 64.54,
+      "end": 69.48,
+      "speaker": "SPEAKER_01",
+      "text": "Nu știu exact, nu le număr... parcă mai mult astea, inelarul și micul."
+    },
+    {
+      "start": 69.6,
+      "end": 80.62,
+      "speaker": "SPEAKER_00",
+      "text": "Deci inelarul și degetul mic. Ok. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum apreciați durerea din umăr?"
+    },
+    {
+      "start": 80.74,
+      "end": 88.34,
+      "speaker": "SPEAKER_01",
+      "text": "Mmmm... undeva pe la 5, aș zice. Nu e insuportabil, dar mă deranjează. Când ridic mâna sus devine mai rău."
+    },
+    {
+      "start": 88.46,
+      "end": 92.26,
+      "speaker": "SPEAKER_00",
+      "text": "Când ridicați mâna, cât ajunge până să înceapă să doară?"
+    },
+    {
+      "start": 92.38,
+      "end": 100.74,
+      "speaker": "SPEAKER_01",
+      "text": "Cam pe la jumătate, cam pe la... nu știu, până la nivelul umărului, după aia nu mai pot să duc mai sus."
+    },
+    {
+      "start": 100.86,
+      "end": 104.66,
+      "speaker": "SPEAKER_00",
+      "text": "Și dacă duceți mâna în spate, la spate, spre omoplat?"
+    },
+    {
+      "start": 104.78,
+      "end": 108.2,
+      "speaker": "SPEAKER_01",
+      "text": "Asta e și mai neplăcut. Mă blochez pe acolo."
+    },
+    {
+      "start": 108.32,
+      "end": 109.84,
+      "speaker": "SPEAKER_00",
+      "text": "Noaptea, vă trezește durerea?"
+    },
+    {
+      "start": 109.96,
+      "end": 115.66,
+      "speaker": "SPEAKER_01",
+      "text": "Da, dacă stau pe partea stângă, da. Mă întorc pe dreapta și trece mai mult."
+    },
+    {
+      "start": 115.78,
+      "end": 120.72,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Și în rest, în timpul zilei, când scrieți la calculator, simțiți ceva?"
+    },
+    {
+      "start": 120.84,
+      "end": 130.34,
+      "speaker": "SPEAKER_01",
+      "text": "Ei, după câteva ore da. Apare o... nu știu cum să zic, o greutate, o tensiune pe aici, pe umăr și pe ceafă un pic."
+    },
+    {
+      "start": 130.46,
+      "end": 133.88,
+      "speaker": "SPEAKER_00",
+      "text": "Și pe ceafă. Cervicalul vă mai supără în general?"
+    },
+    {
+      "start": 134.0,
+      "end": 138.18,
+      "speaker": "SPEAKER_01",
+      "text": "Mai mult de când cu umărul ăsta, da. Înainte nu prea."
+    },
+    {
+      "start": 138.3,
+      "end": 140.2,
+      "speaker": "SPEAKER_00",
+      "text": "Aveți dureri de cap asociate?"
+    },
+    {
+      "start": 140.32,
+      "end": 143.74,
+      "speaker": "SPEAKER_01",
+      "text": "Uneori. Rar. La ceafă mai mult, nu în față."
+    },
+    {
+      "start": 143.86,
+      "end": 150.7,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Haideți să vorbim puțin și despre starea dumneavoastră generală. Aveți afecțiuni cunoscute, ceva cu care vă tratați?"
+    },
+    {
+      "start": 150.82,
+      "end": 154.62,
+      "speaker": "SPEAKER_01",
+      "text": "Am tiroida, de vreo trei ani. Hipotiroidism, mi-au spus."
+    },
+    {
+      "start": 154.74,
+      "end": 157.02,
+      "speaker": "SPEAKER_00",
+      "text": "Hipotiroidism. Și luați ceva pentru asta?"
+    },
+    {
+      "start": 157.14,
+      "end": 159.8,
+      "speaker": "SPEAKER_01",
+      "text": "Da, iau Euthyrox. Dimineața, pe stomacul gol."
+    },
+    {
+      "start": 159.92,
+      "end": 161.06,
+      "speaker": "SPEAKER_00",
+      "text": "Euthyrox, știți doza?"
+    },
+    {
+      "start": 161.18,
+      "end": 163.08,
+      "speaker": "SPEAKER_01",
+      "text": "75, parcă. 75 de micrograme."
+    },
+    {
+      "start": 163.2,
+      "end": 165.48,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Altceva în afară de Euthyrox?"
+    },
+    {
+      "start": 165.6,
+      "end": 169.78,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic altceva. Vitamina D mai iau câteodată, dar nu regulat."
+    },
+    {
+      "start": 169.9,
+      "end": 171.8,
+      "speaker": "SPEAKER_00",
+      "text": "Tensiune arterială, diabet, probleme cardiace?"
+    },
+    {
+      "start": 171.92,
+      "end": 176.1,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu. N-am. Am controlat acum câteva luni, era bine."
+    },
+    {
+      "start": 176.22,
+      "end": 179.26,
+      "speaker": "SPEAKER_00",
+      "text": "Fracturi, operații la umăr sau la mână vreodată?"
+    },
+    {
+      "start": 179.38,
+      "end": 180.18,
+      "speaker": "SPEAKER_01",
+      "text": "Nu. Niciodată."
+    },
+    {
+      "start": 180.3,
+      "end": 184.86,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai făcut vreun tratament pentru umărul ăsta până acum? Fizioterapie, masaj?"
+    },
+    {
+      "start": 184.98,
+      "end": 190.68,
+      "speaker": "SPEAKER_01",
+      "text": "Am fost la un masaj acum vreo lună, a ajutat puțin dar s-a întors."
+    },
+    {
+      "start": 190.8,
+      "end": 195.74,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Haideți să facem câteva teste. Stați puțin cu spatele la mine, relaxat."
+    },
+    {
+      "start": 195.86,
+      "end": 196.66,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, aaa."
+    },
+    {
+      "start": 196.78,
+      "end": 204.0,
+      "speaker": "SPEAKER_00",
+      "text": "Observ că umărul stâng e ușor căzut față de dreptul. Ridicați-mi, vă rog, ambii umeri în același timp."
+    },
+    {
+      "start": 204.12,
+      "end": 207.92,
+      "speaker": "SPEAKER_01",
+      "text": "Pot, da, dar pe stânga e greu sus de tot."
+    },
+    {
+      "start": 208.04,
+      "end": 216.02,
+      "speaker": "SPEAKER_00",
+      "text": "Lăsați jos acum. Întoarceți-vă spre mine. Vreau să ridicați brațul stâng lateral, încet, și să-mi spuneți unde apare durerea."
+    },
+    {
+      "start": 216.14,
+      "end": 219.56,
+      "speaker": "SPEAKER_01",
+      "text": "Pe la... pe la jumătate, cam pe aici. Pam."
+    },
+    {
+      "start": 219.68,
+      "end": 228.8,
+      "speaker": "SPEAKER_00",
+      "text": "Deci la aproximativ 80-90 de grade apare durerea. Dacă continui cu mâna eu, dincolo de acel unghi, doare mai mult sau mai puțin?"
+    },
+    {
+      "start": 228.92,
+      "end": 231.96,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, ciudat. Mai puțin sus de tot."
+    },
+    {
+      "start": 232.08,
+      "end": 243.48,
+      "speaker": "SPEAKER_00",
+      "text": "Asta e un semn important. Înseamnă că avem un arc dureros, ceea ce sugerează o inflamație la nivelul bursei sau o leziune parțială a tendoanelor din manseta rotatorilor. Probabil supraspinosul."
+    },
+    {
+      "start": 243.6,
+      "end": 248.16,
+      "speaker": "SPEAKER_01",
+      "text": "Mă gândeam și eu că e ceva la tendon sau nu știu."
+    },
+    {
+      "start": 248.28,
+      "end": 254.74,
+      "speaker": "SPEAKER_00",
+      "text": "Haideți să mai testăm. Puneți mâna stângă la ceafă, ca și cum ați lua ceva de acolo."
+    },
+    {
+      "start": 254.86,
+      "end": 256.38,
+      "speaker": "SPEAKER_01",
+      "text": "Auuu, da, asta doare."
+    },
+    {
+      "start": 256.5,
+      "end": 260.3,
+      "speaker": "SPEAKER_00",
+      "text": "Și acum la spate, ca și cum ați prinde centura."
+    },
+    {
+      "start": 260.42,
+      "end": 264.22,
+      "speaker": "SPEAKER_01",
+      "text": "Mă blochez pe la mijlocul spatelui, nu pot mai sus."
+    },
+    {
+      "start": 264.34,
+      "end": 268.9,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, înțeleg. Și dacă apăs aici, pe vârful umărului, la nivelul acromionului..."
+    },
+    {
+      "start": 269.02,
+      "end": 271.68,
+      "speaker": "SPEAKER_01",
+      "text": "Da, doare, da. Acolo e mai sensibil."
+    },
+    {
+      "start": 271.8,
+      "end": 274.84,
+      "speaker": "SPEAKER_00",
+      "text": "Apăsând pe biceps, pe tendonul bicepsului, simțiți ceva?"
+    },
+    {
+      "start": 274.96,
+      "end": 278.38,
+      "speaker": "SPEAKER_01",
+      "text": "Un pic, nu la fel de tare ca înainte."
+    },
+    {
+      "start": 278.5,
+      "end": 282.68,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Și în zona cervicală, stați puțin, aplecați capul spre dreapta."
+    },
+    {
+      "start": 282.8,
+      "end": 285.46,
+      "speaker": "SPEAKER_01",
+      "text": "Doare un pic pe stânga, se întinde."
+    },
+    {
+      "start": 285.58,
+      "end": 286.72,
+      "speaker": "SPEAKER_00",
+      "text": "Și spre stânga?"
+    },
+    {
+      "start": 286.84,
+      "end": 289.5,
+      "speaker": "SPEAKER_01",
+      "text": "Pe asta nu doare, e mai bine."
+    },
+    {
+      "start": 289.62,
+      "end": 316.98,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Deci avem o limitare de mobilitate la nivelul umărului stâng, cu arc dureros la abducție, blocaj la rotația internă și externă. Cel mai probabil vorbim de o tendinopatie a supraspinosului, posibil cu o mică bursită subacromială. Cervicalul contribuie și el, mai ales că amorțelile pe inelar și deget mic sugerează o iritație la nivel de C8. Ar fi util să faceți o ecografie de umăr ca să vedem exact starea tendoanelor."
+    },
+    {
+      "start": 317.1,
+      "end": 320.14,
+      "speaker": "SPEAKER_01",
+      "text": "Da, n-am făcut niciun RMN sau ecografie."
+    },
+    {
+      "start": 320.26,
+      "end": 333.56,
+      "speaker": "SPEAKER_00",
+      "text": "Recomand ecografie în prima fază, e mai rapidă și vedem tendoanele direct. Obiectivul nostru e să reducem inflamația din bursă, să lucrăm mobilitatea umărului și să decomprimăm puțin și cervicalul, că și acolo e tensiune."
+    },
+    {
+      "start": 333.68,
+      "end": 335.58,
+      "speaker": "SPEAKER_01",
+      "text": "Și cu amorțeala ce facem?"
+    },
+    {
+      "start": 335.7,
+      "end": 342.54,
+      "speaker": "SPEAKER_00",
+      "text": "Dacă rezolvăm iritația cervicală, amorțeala ar trebui să se amelioreze. Lucrăm pe toată zona, cervical și umăr împreună."
+    },
+    {
+      "start": 342.66,
+      "end": 346.08,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, înțeleg. Și cât de des trebuie să vin?"
+    },
+    {
+      "start": 346.2,
+      "end": 352.28,
+      "speaker": "SPEAKER_00",
+      "text": "Propun două-trei ședințe pe săptămână în prima fază, să vedem cum răspunde. Haideți să începem."
+    }
+  ]
+}

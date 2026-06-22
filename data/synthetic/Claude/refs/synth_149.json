@@ -1,0 +1,28 @@
+{
+  "motivul_prezentarii": "Durere lombară și toracală, instalată treptat, asociată cu poziție prelungită la birou",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "lombar",
+    "toracal"
+  ],
+  "localizarea_durerii_alta": "fesier stâng, coapsă stângă",
+  "antecedente": [
+    "hipertensiune_arteriala",
+    "hernia_disc"
+  ],
+  "antecedente_altele": "apendicectomie în antecedente",
+  "medicatie_actuala": [
+    {
+      "denumire": "Perindopril",
+      "doza": "o pastilă pe zi dimineața"
+    },
+    {
+      "denumire": "Ibuprofen",
+      "doza": "la nevoie"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: ușoară înclinare a bazinului spre stânga; contractură paravertebrală bilaterală, predominant stânga; sensibilitate piriform stâng; hernie de disc în antecedente.\nObiective terapeutice: reducerea contracturii musculare și a inflamației; creșterea mobilității lombare."
+}

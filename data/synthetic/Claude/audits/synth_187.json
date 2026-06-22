@@ -1,0 +1,48 @@
+{
+  "conversation_id": "synth_187",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul stâng de vreo trei săptămâni, trei, poate chiar patru",
+      "am ajutat să mute niște mobilă, o canapea mare, grea, și am simțit ceva acolo",
+      "seara e cel mai rău, când mă bag în pat și încerc să stau pe partea stângă nu pot deloc",
+      "dimineața când mă trezesc e cam țeapăn, durează vreo 10-15 minute până se mai dezmorțește",
+      "Se lasă puțin, da, pe partea de sus a brațului, cam până la mijloc"
+    ],
+    "evaluarea_durerii_vas": [
+      "Ziua așa un 4, poate 5. Seara când nu pot dormi ajunge la un 7, aș zice."
+    ],
+    "localizarea_durerii": [
+      "Mă doare umărul stâng de vreo trei săptămâni"
+    ],
+    "localizarea_durerii_alta": [
+      "Se lasă puțin, da, pe partea de sus a brațului, cam până la mijloc. Nu mai jos de atât."
+    ],
+    "antecedente": [
+      "Tensiune am, da. Mi s-a descoperit acum vreo doi ani, iau pastile pentru asta."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Iau Ibuprofen, 400 de miligrame, când nu mai suport",
+      "mai am un gel, Voltaren, pe care îl pun dimineața",
+      "Iau Enalapril, 10 miligrame, în fiecare dimineață",
+      "vitamina D, că mi-a zis doctorul"
+    ],
+    "evaluare_functionala_initiala": [
+      "Pare a fi o inflamație la nivelul tendoanelor din zona rotatorilor umărului, cel mai probabil tendinită în manșonul rotatorilor. Limitarea mișcării în abducție și rotație internă, durere la palparea inserției supraspinosului, toate indică asta. O să lucrăm să reducem inflamația și să recuperăm mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23026,
+    "inference_geo": "global",
+    "input_tokens": 271,
+    "output_tokens": 3355,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

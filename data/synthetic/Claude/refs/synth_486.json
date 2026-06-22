@@ -1,0 +1,24 @@
+{
+  "motivul_prezentarii": "Durere la nivelul coccisului și sacrului, instalată de aproximativ trei săptămâni, accentuată la ridicarea de pe scaun și la extensia lombară, asociată cu muncă sedentară prelungită (birou, 8-9 ore/zi).",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "sacral_coccis"
+  ],
+  "localizarea_durerii_alta": "fesier stâng",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Voltaren gel",
+      "doza": null
+    },
+    {
+      "denumire": "Nurofen",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Sensibilitate la palpare la nivelul coccisului și sacrului; durere accentuată la extensia lombară; lombar jos mai puțin sensibil. Diagnostic: coccidinie, probabil pe fond postural (sedentarism prelungit). Obiective terapeutice: reducerea inflamației și ameliorarea mobilității în zona coccisului."
+}

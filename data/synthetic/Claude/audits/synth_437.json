@@ -1,0 +1,52 @@
+{
+  "conversation_id": "synth_437",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare cervicalul de vreo trei săptămâni",
+      "Se lasă și pe umărul drept, da.",
+      "am stat cumva pe un scaun îngrozitor, de dimineață m-am trezit și gata, nu mai puteam să întorc capul deloc"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, în repaus, un 4 poate.",
+      "dacă întorc capul spre dreapta sau dacă stau la birou mai mult de o oră, ajunge ușor la 7"
+    ],
+    "localizarea_durerii": [
+      "mă doare cervicalul",
+      "Se lasă și pe umărul drept, da.",
+      "am și un pic de durere de cap, în ceafă, care apare seara mai ales"
+    ],
+    "localizarea_durerii_alta": [
+      "am mâna cam... cum să zic... amorțită un pic",
+      "Pe degete mai mult, pe cele două de lângă cel mic"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "am avut o operație la genunchi acum vreo zece ani, ligamente",
+      "La stângul.",
+      "mi-a zis medicul că am o ușoară rectitudine a coloanei cervicale"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "rotația spre dreapta e limitată",
+      "Extensia cervicală reproduce durerea",
+      "forța de prehensiune pe dreapta e ușor redusă față de stânga",
+      "amorțeala asta pe degetele patru și cinci ne arată că avem o iritație la nivel de C8, poate și C7",
+      "cel mai probabil avem o cervicalgie cu componentă radiculară pe dreapta",
+      "O să lucrăm în prima fază să reducem tensiunea musculară, să eliberăm puțin coloana cervicală și să calmăm iritația pe nervul respectiv"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13739,
+    "inference_geo": "global",
+    "input_tokens": 318,
+    "output_tokens": 3494,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua!"
+    },
+    {
+      "start": 0.92,
+      "end": 2.44,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua, bună ziua!"
+    },
+    {
+      "start": 2.56,
+      "end": 4.84,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi numele dumneavoastră, vă rog."
+    },
+    {
+      "start": 4.96,
+      "end": 5.76,
+      "speaker": "SPEAKER_01",
+      "text": "Gheorghe Tănase."
+    },
+    {
+      "start": 5.88,
+      "end": 8.92,
+      "speaker": "SPEAKER_00",
+      "text": "Domnul Tănase, cu ce problemă ne vedem astăzi?"
+    },
+    {
+      "start": 9.04,
+      "end": 34.88,
+      "speaker": "SPEAKER_01",
+      "text": "Păi, am o durere pe umărul stâng, și nu de ieri, de azi, știți, de vreo trei săptămâni se tot ține. La început am zis că trece singură, că am mai avut și înainte mici dureri și au trecut, dar asta nu se mai duce. Ba dimineața e mai rău, ba seara e la fel. Nu mai pot să ridic mâna sus, nici să mă îmbrac cum trebuie."
+    },
+    {
+      "start": 35.0,
+      "end": 41.84,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Și această durere este strict pe umăr sau se lasă și pe braț, pe cot, mai jos?"
+    },
+    {
+      "start": 41.96,
+      "end": 52.98,
+      "speaker": "SPEAKER_01",
+      "text": "Se lasă un pic pe braț, pe partea din față, dar nu mai jos de cot, nu. Cotul nu mă doare, mâna nu mă doare, e mai mult sus."
+    },
+    {
+      "start": 53.1,
+      "end": 61.84,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 e cel mai rău, cum ați descrie durerea?"
+    },
+    {
+      "start": 61.96,
+      "end": 76.4,
+      "speaker": "SPEAKER_01",
+      "text": "Când stau liniștit, așa, vreo 4. Dar dacă încerc să ridic ceva, sau dacă dorm pe partea stângă, ajunge la vreo 8. Ieri am vrut să iau un geamantan din dulap și am crezut că leșin de durere."
+    },
+    {
+      "start": 76.52,
+      "end": 82.98,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Și în repaus, deci, un 4, iar la mișcare sau la efort ajunge la 8."
+    },
+    {
+      "start": 83.1,
+      "end": 84.24,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact, exact."
+    },
+    {
+      "start": 84.36,
+      "end": 88.92,
+      "speaker": "SPEAKER_00",
+      "text": "Cum a apărut, știți? A fost un moment anume, o lovitură, ceva?"
+    },
+    {
+      "start": 89.04,
+      "end": 106.52,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic dramatic, asta e ciudat. Am fost la gară cu soția, am cărat niște bagaje mai grele, era o valiză mare, și a doua zi dimineața m-am trezit și parcă mă ustura acolo. Am zis că e o oboseală musculară, dar nu a trecut."
+    },
+    {
+      "start": 106.64,
+      "end": 108.92,
+      "speaker": "SPEAKER_00",
+      "text": "Deci după efort fizic, căratul bagajelor."
+    },
+    {
+      "start": 109.04,
+      "end": 117.78,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, asta a fost. Deși, sincer, nu știu, poate și înainte era ceva acolo și aia a declanșat mai tare, nu știu."
+    },
+    {
+      "start": 117.9,
+      "end": 120.18,
+      "speaker": "SPEAKER_00",
+      "text": "Ce meserie aveți, lucrați cu mâinile?"
+    },
+    {
+      "start": 120.3,
+      "end": 133.22,
+      "speaker": "SPEAKER_01",
+      "text": "Sunt profesor, deci stau mult la tablă, scriu, ridic mâna, nu fac muncă fizică grea, dar tablele alea interactive acum, trebuie să tot atingi și să miști mâna sus, nu știu dacă are legătură."
+    },
+    {
+      "start": 133.34,
+      "end": 139.8,
+      "speaker": "SPEAKER_00",
+      "text": "Posibil să aibă, da. Și ați mai avut o problemă similară la umărul ăsta sau la celălalt?"
+    },
+    {
+      "start": 139.92,
+      "end": 160.06,
+      "speaker": "SPEAKER_01",
+      "text": "La dreptul am mai avut acum vreo doi ani, ceva mai mic, și a trecut singur. La stângul niciodată. Dar am și o spaimă, sincer, că unchiul meu a avut ceva la umăr și l-au operat și a stat un an de zile. Și eu sper că nu e cazul la mine."
+    },
+    {
+      "start": 160.18,
+      "end": 167.02,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg îngrijorarea. Haideți să vedem ce avem și vă spun eu mai clar. Aveți radiografie sau RMN făcut?"
+    },
+    {
+      "start": 167.14,
+      "end": 174.74,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu am făcut nimic. Am tot amânat, am zis că poate trece. Soția m-a forțat să vin, sincer."
+    },
+    {
+      "start": 174.86,
+      "end": 180.18,
+      "speaker": "SPEAKER_00",
+      "text": "Bine că ați venit. Alte afecțiuni știți că aveți? Tensiune, diabet, ceva la oase?"
+    },
+    {
+      "start": 180.3,
+      "end": 188.28,
+      "speaker": "SPEAKER_01",
+      "text": "Am tensiune, da. Iau medicamente pentru asta de vreo cinci ani. Și am și puțin colesterol, și pentru aia iau ceva."
+    },
+    {
+      "start": 188.4,
+      "end": 190.3,
+      "speaker": "SPEAKER_00",
+      "text": "Ce medicamente luați pentru tensiune?"
+    },
+    {
+      "start": 190.42,
+      "end": 193.46,
+      "speaker": "SPEAKER_01",
+      "text": "Iau Enalapril, 10 miligrame, o dată pe zi."
+    },
+    {
+      "start": 193.58,
+      "end": 194.72,
+      "speaker": "SPEAKER_00",
+      "text": "Și pentru colesterol?"
+    },
+    {
+      "start": 194.84,
+      "end": 196.74,
+      "speaker": "SPEAKER_01",
+      "text": "Atorvastatina, 20 de miligrame, seara."
+    },
+    {
+      "start": 196.86,
+      "end": 198.0,
+      "speaker": "SPEAKER_00",
+      "text": "Altceva mai luați?"
+    },
+    {
+      "start": 198.12,
+      "end": 205.34,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, astea sunt singurele. Bine, mai iau uneori un Nurofen când mă doare tare, dar nu în fiecare zi."
+    },
+    {
+      "start": 205.46,
+      "end": 211.16,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Deci Nurofen la nevoie. Alte afecțiuni, probleme la coloană, hernie de disc, osteoporoză?"
+    },
+    {
+      "start": 211.28,
+      "end": 223.06,
+      "speaker": "SPEAKER_01",
+      "text": "La coloană nu știu, nu am făcut investigații speciale. Am dureri de spate din când în când, dar cine nu are, nu? Dar nu m-am dus la doctor pentru aia."
+    },
+    {
+      "start": 223.18,
+      "end": 226.22,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeles. Haideți, stați puțin în picioare, vă rog."
+    },
+    {
+      "start": 226.34,
+      "end": 227.14,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 227.26,
+      "end": 231.06,
+      "speaker": "SPEAKER_00",
+      "text": "Vreau să ridicați brațul stâng lateral, încet, până cât puteți."
+    },
+    {
+      "start": 231.18,
+      "end": 234.22,
+      "speaker": "SPEAKER_01",
+      "text": "Până pe-aici pot, mai sus mă doare."
+    },
+    {
+      "start": 234.34,
+      "end": 240.04,
+      "speaker": "SPEAKER_00",
+      "text": "Deci undeva la nouăzeci de grade vă blochează durerea. Și dacă îl ridicați în față?"
+    },
+    {
+      "start": 240.16,
+      "end": 242.82,
+      "speaker": "SPEAKER_01",
+      "text": "Puțin mai bine, dar tot doare, da."
+    },
+    {
+      "start": 242.94,
+      "end": 248.26,
+      "speaker": "SPEAKER_00",
+      "text": "Și rotația, dacă duceți mâna la spate, ca să vă prindeți de centura pantalonilor?"
+    },
+    {
+      "start": 248.38,
+      "end": 255.6,
+      "speaker": "SPEAKER_01",
+      "text": "Au, nu, aia nu pot deloc. Dimineața când încerc să mă încheie la pantaloni de la spate e groaznic."
+    },
+    {
+      "start": 255.72,
+      "end": 259.14,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Apăs puțin aici, pe capul humeral, doare?"
+    },
+    {
+      "start": 259.26,
+      "end": 260.4,
+      "speaker": "SPEAKER_01",
+      "text": "Da, acolo da."
+    },
+    {
+      "start": 260.52,
+      "end": 262.42,
+      "speaker": "SPEAKER_00",
+      "text": "Și în față, sub claviculă?"
+    },
+    {
+      "start": 262.54,
+      "end": 264.82,
+      "speaker": "SPEAKER_01",
+      "text": "Mai puțin, dar tot simt ceva."
+    },
+    {
+      "start": 264.94,
+      "end": 293.82,
+      "speaker": "SPEAKER_00",
+      "text": "Am înțeles. Bun, vă spun ce observ eu. Avem o limitare clară a mobilității la umărul stâng, mai ales la abducție și la rotația internă. Zona cea mai sensibilă e pe capul humeral și pe tendonul supraspinosului. Probabil avem o tendinopatie sau o bursită subacromială la umărul stâng, posibil cu o inflamație a manșetei rotatorilor. Obiectivul nostru va fi să reducem inflamația, să recâștigăm mobilitatea și să întărim musculatura din jurul umărului ca să nu reapară."
+    },
+    {
+      "start": 293.94,
+      "end": 296.98,
+      "speaker": "SPEAKER_01",
+      "text": "Deci nu e ceva grav? Nu trebuie operat?"
+    },
+    {
+      "start": 297.1,
+      "end": 306.98,
+      "speaker": "SPEAKER_00",
+      "text": "Nu pot să exclud complet fără un RMN, dar din ce observ acum nu avem semne de ruptură completă. Vom lucra câteva ședințe și vedem evoluția."
+    },
+    {
+      "start": 307.1,
+      "end": 311.28,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine, asta mă liniștește un pic. Și cât durează, aproximativ?"
+    },
+    {
+      "start": 311.4,
+      "end": 317.86,
+      "speaker": "SPEAKER_00",
+      "text": "Depinde de răspuns, dar de obicei patru până la șase ședințe pentru a vedea o îmbunătățire clară."
+    },
+    {
+      "start": 317.98,
+      "end": 322.16,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, înțeleg. Și pot să fac exerciții acasă sau stau cuminte?"
+    },
+    {
+      "start": 322.28,
+      "end": 329.5,
+      "speaker": "SPEAKER_00",
+      "text": "Vă dau eu niște exerciții de mobilitate ușoară acasă, dar fără să forțați. Haideți să ne așezăm pe masă."
+    }
+  ]
+}

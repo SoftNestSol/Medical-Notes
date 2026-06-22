@@ -1,0 +1,54 @@
+{
+  "conversation_id": "synth_208",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, cam pe la mijloc, și... nu știu exact cum să zic, se tot ține",
+      "Cel mai rău e seara, după ce stau toată ziua jos",
+      "dimineața mă mai ține un pic când mă ridic, dar trece",
+      "Eu stau mult pe scaun la serviciu, la calculator",
+      "mai am și la gât câteodată, dar ăla e mai vechi",
+      "Pe umăr puțin, pe dreapta, dar nu tot timpul"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "Cam pe la centură, poate un pic mai jos, pe aici",
+      "mai am și la gât câteodată",
+      "Pe umăr puțin, pe dreapta"
+    ],
+    "localizarea_durerii_alta": [
+      "Câteodată parcă simt ceva și pe fesa asta, pe stânga",
+      "Mă ține un pic pe stânga, pe fesă, da"
+    ],
+    "antecedente": [
+      "mi s-a zis cândva că am o scolioză ușoară, la un control de rutină"
+    ],
+    "antecedente_altele": [
+      "am avut apendicita, acum vreo zece ani. Operație mică",
+      "mi-am rupt mâna stângă când eram mică, la joacă"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Observ o ușoară asimetrie la nivelul umerilor, umărul drept e un pic mai ridicat",
+      "văd că bazinul e ușor deplasat spre stânga",
+      "avem o contractură musculară în zona lombară, mai accentuată pe stânga, cu iritare la nivelul piriformului stâng",
+      "Scolioza aceea ușoară despre care ați spus contribuie și ea la dezechilibrul acesta postural",
+      "Durerea din fesă pe stânga e legată de piriform, nu pare o radiculopatie clară pentru că nu coboară pe picior",
+      "Cervicalul e un subiect separat, probabil tot postural, de la stat la birou",
+      "Vom lucra în primă fază pe relaxarea musculaturii lombare și piriformului, corecție posturală"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 23074
+    },
+    "cache_creation_input_tokens": 23074,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 3355,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

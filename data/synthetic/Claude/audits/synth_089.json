@@ -1,0 +1,53 @@
+{
+  "conversation_id": "synth_089",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare spatele, cam de jos, de vreo câteva săptămâni deja",
+      "S-a prins după ce am mutat niște cutii, am carat destul de mult la mutare",
+      "Pe partea dreaptă parcă mai tare, da",
+      "Stau toată ziua la birou, la calculator"
+    ],
+    "evaluarea_durerii_vas": [
+      "Poate... poate un cinci, da. Câteodată mai mult, câteodată mai puțin."
+    ],
+    "localizarea_durerii": [
+      "mă doare spatele, cam de jos, de vreo câteva săptămâni deja",
+      "mai jos de mijloc"
+    ],
+    "localizarea_durerii_alta": [
+      "Câteodată simt ceva și pe fesă, pe dreapta parcă."
+    ],
+    "antecedente": [],
+    "antecedente_altele": [
+      "Un doctor mi-a zis acum câțiva ani că am coloana un pic strâmbă, dar nu mi-a zis mai mult."
+    ],
+    "medicatie_actuala": [
+      "Am luat un Nurofen din când în când, nu în fiecare zi. Și am pus și un gel, un voltaren, de câteva ori.",
+      "Voltaren mai pun câteodată, seara, dacă mă doare mai tare. Nurofenul mai rar."
+    ],
+    "evaluare_functionala_initiala": [
+      "Vedeți că bazinul e un pic înclinat, mai mult spre dreapta.",
+      "Da, se simte, pe partea asta dreaptă de jos.",
+      "Au, asta doare mai tare.",
+      "Pe dreapta paravertebral, mai jos.",
+      "În spate simt ceva, dar pe picior nu.",
+      "e o contractură musculară destul de serioasă pe zona lombară dreaptă, cu o blocare a mobilității pe rotație",
+      "O să lucrăm pe reducerea contracturii și pe redarea mobilității în zonă.",
+      "cel mai probabil e piriformul sau fesierii care s-au și ei tensionat"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23026,
+    "inference_geo": "global",
+    "input_tokens": 278,
+    "output_tokens": 3783,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

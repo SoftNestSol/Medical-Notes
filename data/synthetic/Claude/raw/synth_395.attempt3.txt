@@ -1,0 +1,52 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Păi, mă doare umărul, umărul drept, de vreo două săptămâni. Și sincer nu știu de unde, adică n-am căzut, n-am făcut nimic special, m-am trezit pur și simplu dimineața și era acolo.\nSPEAKER_00: Deci debut brusc, dimineața.\nSPEAKER_01: Da, exact, m-am trezit și parcă aveam o greutate acolo. Și la început am zis că am dormit strâmb, știți cum e, mai ales că dorm pe partea dreaptă de obicei. Dar n-a trecut. A trecut o zi, două, o săptămână...\nSPEAKER_00: Și acum, pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, unde ați situa durerea?\nSPEAKER_01: Acum, așa în repaus, e vreo 3-4. Dar dacă ridic mâna, dacă încerc să iau ceva de sus, de pe raft de exemplu, ajunge ușor la 7-8. Deci depinde ce fac.\nSPEAKER_00: Ok. Doare doar în umăr sau se lasă și pe braț?\nSPEAKER_01: Păi mai mult în umăr, pe aici, pe față, dar câteodată simt că se duce puțin în jos pe braț, nu mult, cam până la jumătatea brațului. Nu ajunge la cot, atât.\nSPEAKER_00: Amorțeală în mână sau în degete?\nSPEAKER_01: Nu, nu, asta nu. Adică nu am simțit așa ceva.\nSPEAKER_00: Bun. Și ce ocupație aveți?\nSPEAKER_01: Lucrez la birou, stau mult la calculator. Dar și acasă mai fac, am un copil mic și mai ridic, purtatul ăla cu mâna sus, știți dumneavoastră. Și mi-a trecut prin cap că poate de-acolo, de la purtat, că tot cu dreapta îl ridic.\nSPEAKER_00: Posibil. Ați mai pățit asta, vreun episod similar?\nSPEAKER_01: Nu, niciodată. Prima dată. Și m-am speriat puțin, sincer, pentru că m-am gândit la toate prostiile, știți, doamne ferește ceva mai rău. Am și căutat pe internet, ceea ce probabil nu trebuia.\nSPEAKER_00: Da, de obicei internetul nu ajută mult în cazurile astea.\nSPEAKER_01: Exact, m-am speriat degeaba probabil. Am pus și un gel, un Voltaren, de vreo trei ori, dar nu prea m-a ajutat, sau poate puțin, nu știu sigur.\nSPEAKER_00: Ok. Alte afecțiuni, tensiune, diabet, probleme cardiace?\nSPEAKER_01: Nu, nimic, sunt relativ sănătos. Am 34 de ani, n-am nimic din astea.\nSPEAKER_00: Bun. Medicamente luați în mod regulat?\nSPEAKER_01: Nu, nimic. Doar Voltarenul ăla cum v-am zis, dar nu regulat.\nSPEAKER_00: Fracturi, operații la umăr sau la braț?\nSPEAKER_01: Nu, niciodată.\nSPEAKER_00: Ok, haideți să fac câteva teste. Ridicați brațul drept în față, încet.\nSPEAKER_01: Până pe aici merge, după aia doare.\nSPEAKER_00: Deci limitare la ridicarea în față peste 90 de grade. Acum încercați spre lateral.\nSPEAKER_01: Lateral e mai rău, uite, de pe aici deja.\nSPEAKER_00: Înțeleg. Și dacă duceți mâna la spate, ca și cum ați prinde centura?\nSPEAKER_01: Asta merge ceva mai bine, dar tot simt că trage pe aici.\nSPEAKER_00: Stați puțin, apăs ușor pe zona asta de aici, pe tendoanele manșetei rotatorilor. Doare?\nSPEAKER_01: Da, da, fix acolo e.\nSPEAKER_00: Și dacă rezistați când ridic eu brațul lateral?\nSPEAKER_01: Au, da, doare.\nSPEAKER_00: Ok. Ce pot să vă spun este că avem o inflamație la nivelul manșetei rotatorilor, cel mai probabil tendinită sau o iritație a tendoanelor din zona supraspinatus. Posibil agravată de postura la birou și de purtatul copilului. Obiectivul nostru e să reducem inflamația, să recăpătăm mobilitatea completă și să întărim musculatura din jur ca să nu revină.\nSPEAKER_01: Deci nu e ceva grav? Că mă gândeam că poate e ruptură sau ceva.\nSPEAKER_00: La palpare și la teste nu avem semne de ruptură completă. Dacă nu răspunde la tratament, vă recomand un RMN să vedem exact. Dar acum putem începe.\nSPEAKER_01: Ok, mă bucur. Bun, bun.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere la umărul drept instalată brusc dimineața, de aproximativ două săptămâni, fără traumatism. Durere în repaus 3-4/10, la ridicarea brațului 7-8/10. Posibil factor declanșator: purtatul copilului mic cu brațul drept. Asociază iradiere moderată pe braț până la jumătatea acestuia, fără amorțeli. A aplicat Voltaren de câteva ori, fără efect clar.",
+    "evaluarea_durerii_vas": [3, 7],
+    "localizarea_durerii": [
+      "umar_dr"
+    ],
+    "localizarea_durerii_alta": "braț drept (iradiere până la jumătatea brațului)",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Voltaren gel",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinită / iritație tendon supraspinatus (manșeta rotatorilor)\nObservații funcționale:\n- limitare la ridicarea brațului în față peste 90 de grade\n- limitare mai accentuată la abducție\n- durere la palparea tendoanelor manșetei rotatorilor\n- test rezistență la abducție pozitiv\nObiective terapeutice:\n- reducerea inflamației\n- recuperarea mobilității complete a umărului drept\n- întărirea musculaturii periarticulare pentru prevenirea recidivei"
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, umărul drept, de vreo două săptămâni",
+      "m-am trezit pur și simplu dimineața și era acolo",
+      "n-am căzut, n-am făcut nimic special",
+      "tot cu dreapta îl ridic",
+      "Am pus și un gel, un Voltaren, de vreo trei ori, dar nu prea m-a ajutat"
+    ],
+    "evaluarea_durerii_vas": [
+      "Acum, așa în repaus, e vreo 3-4",
+      "dacă ridic mâna, dacă încerc să iau ceva de sus, de pe raft de exemplu, ajunge ușor la 7-8"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, umărul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "simt că se duce puțin în jos pe braț, nu mult, cam până la jumătatea brațului"
+    ],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am pus și un gel, un Voltaren, de vreo trei ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "limitare la ridicarea în față peste 90 de grade",
+      "Lateral e mai rău, uite, de pe aici deja",
+      "apăs ușor pe zona asta de aici, pe tendoanele manșetei rotatorilor. Doare? Da, da, fix acolo e.",
+      "dacă rezistați când ridic eu brațul lateral? Au, da, doare.",
+      "avem o inflamație la nivelul manșetei rotatorilor, cel mai probabil tendinită sau o iritație a tendoanelor din zona supraspinatus",
+      "Obiectivul nostru e să reducem inflamația, să recăpătăm mobilitatea completă și să întărim musculatura din jur ca să nu revină"
+    ]
+  }
+}

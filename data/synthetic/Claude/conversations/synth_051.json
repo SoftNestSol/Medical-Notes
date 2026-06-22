@@ -1,0 +1,373 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 0.92,
+      "end": 1.72,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua."
+    },
+    {
+      "start": 1.84,
+      "end": 3.74,
+      "speaker": "SPEAKER_00",
+      "text": "Spuneți-mi numele, vă rog."
+    },
+    {
+      "start": 3.86,
+      "end": 4.66,
+      "speaker": "SPEAKER_01",
+      "text": "Gheorghe Dănilă."
+    },
+    {
+      "start": 4.78,
+      "end": 5.58,
+      "speaker": "SPEAKER_00",
+      "text": "Și vârsta?"
+    },
+    {
+      "start": 5.7,
+      "end": 6.5,
+      "speaker": "SPEAKER_01",
+      "text": "51."
+    },
+    {
+      "start": 6.62,
+      "end": 9.28,
+      "speaker": "SPEAKER_00",
+      "text": "Cu ce problemă ne vedem, domnule Dănilă?"
+    },
+    {
+      "start": 9.4,
+      "end": 10.54,
+      "speaker": "SPEAKER_01",
+      "text": "Mă doare umărul."
+    },
+    {
+      "start": 10.66,
+      "end": 11.46,
+      "speaker": "SPEAKER_00",
+      "text": "Care umăr?"
+    },
+    {
+      "start": 11.58,
+      "end": 12.38,
+      "speaker": "SPEAKER_01",
+      "text": "Dreptul."
+    },
+    {
+      "start": 12.5,
+      "end": 13.64,
+      "speaker": "SPEAKER_00",
+      "text": "De cât timp?"
+    },
+    {
+      "start": 13.76,
+      "end": 14.9,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo trei săptămâni."
+    },
+    {
+      "start": 15.02,
+      "end": 18.44,
+      "speaker": "SPEAKER_00",
+      "text": "S-a întâmplat ceva anume, o lovitură, un efort?"
+    },
+    {
+      "start": 18.56,
+      "end": 20.08,
+      "speaker": "SPEAKER_01",
+      "text": "Am cărat niște saci."
+    },
+    {
+      "start": 20.2,
+      "end": 21.0,
+      "speaker": "SPEAKER_00",
+      "text": "Saci grei."
+    },
+    {
+      "start": 21.12,
+      "end": 21.92,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 22.04,
+      "end": 24.32,
+      "speaker": "SPEAKER_00",
+      "text": "Și după aia a apărut durerea?"
+    },
+    {
+      "start": 24.44,
+      "end": 25.96,
+      "speaker": "SPEAKER_01",
+      "text": "Da, a doua zi."
+    },
+    {
+      "start": 26.08,
+      "end": 31.02,
+      "speaker": "SPEAKER_00",
+      "text": "Pe o scară de la 0 la 10, cât de tare doare acum?"
+    },
+    {
+      "start": 31.14,
+      "end": 31.94,
+      "speaker": "SPEAKER_01",
+      "text": "Vreo 6."
+    },
+    {
+      "start": 32.06,
+      "end": 35.86,
+      "speaker": "SPEAKER_00",
+      "text": "Și în momentul cel mai rău, când e mai intens?"
+    },
+    {
+      "start": 35.98,
+      "end": 38.26,
+      "speaker": "SPEAKER_01",
+      "text": "Noaptea, când mă întorc pe el."
+    },
+    {
+      "start": 38.38,
+      "end": 42.56,
+      "speaker": "SPEAKER_00",
+      "text": "Noaptea, pe umărul drept. Doare și când ridicați mâna în sus?"
+    },
+    {
+      "start": 42.68,
+      "end": 43.48,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 43.6,
+      "end": 45.5,
+      "speaker": "SPEAKER_00",
+      "text": "Până unde reușiți să ridicați?"
+    },
+    {
+      "start": 45.62,
+      "end": 46.76,
+      "speaker": "SPEAKER_01",
+      "text": "Cam până aici."
+    },
+    {
+      "start": 46.88,
+      "end": 52.58,
+      "speaker": "SPEAKER_00",
+      "text": "Deci cam la 90 de grade. Și pe spate, dacă duceți mâna la spate, doare?"
+    },
+    {
+      "start": 52.7,
+      "end": 54.22,
+      "speaker": "SPEAKER_01",
+      "text": "Da, nu prea merge."
+    },
+    {
+      "start": 54.34,
+      "end": 60.42,
+      "speaker": "SPEAKER_00",
+      "text": "Nu merge. Durerea se lasă și pe braț în jos sau e doar locală la umăr?"
+    },
+    {
+      "start": 60.54,
+      "end": 61.34,
+      "speaker": "SPEAKER_01",
+      "text": "Locală."
+    },
+    {
+      "start": 61.46,
+      "end": 62.98,
+      "speaker": "SPEAKER_00",
+      "text": "Strict locală. Ok. Alergii?"
+    },
+    {
+      "start": 63.1,
+      "end": 63.9,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 64.02,
+      "end": 65.92,
+      "speaker": "SPEAKER_00",
+      "text": "Tensiune, diabet, ceva de genul?"
+    },
+    {
+      "start": 66.04,
+      "end": 66.84,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am."
+    },
+    {
+      "start": 66.96,
+      "end": 68.86,
+      "speaker": "SPEAKER_00",
+      "text": "Tensiune. Luați ceva pentru ea?"
+    },
+    {
+      "start": 68.98,
+      "end": 69.78,
+      "speaker": "SPEAKER_01",
+      "text": "Da. Enalapril."
+    },
+    {
+      "start": 69.9,
+      "end": 70.7,
+      "speaker": "SPEAKER_00",
+      "text": "Ce doză?"
+    },
+    {
+      "start": 70.82,
+      "end": 71.62,
+      "speaker": "SPEAKER_01",
+      "text": "10 miligrame."
+    },
+    {
+      "start": 71.74,
+      "end": 72.54,
+      "speaker": "SPEAKER_00",
+      "text": "Zilnic?"
+    },
+    {
+      "start": 72.66,
+      "end": 73.46,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 73.58,
+      "end": 75.1,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Altceva mai luați?"
+    },
+    {
+      "start": 75.22,
+      "end": 76.02,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 76.14,
+      "end": 77.28,
+      "speaker": "SPEAKER_00",
+      "text": "Alte afecțiuni, operații?"
+    },
+    {
+      "start": 77.4,
+      "end": 78.2,
+      "speaker": "SPEAKER_01",
+      "text": "Nu."
+    },
+    {
+      "start": 78.32,
+      "end": 81.74,
+      "speaker": "SPEAKER_00",
+      "text": "Ați mai făcut vreun tratament pentru umăr până acum?"
+    },
+    {
+      "start": 81.86,
+      "end": 83.76,
+      "speaker": "SPEAKER_01",
+      "text": "Am pus niște gel, atât."
+    },
+    {
+      "start": 83.88,
+      "end": 85.4,
+      "speaker": "SPEAKER_00",
+      "text": "Gel antiinflamator. A ajutat?"
+    },
+    {
+      "start": 85.52,
+      "end": 86.32,
+      "speaker": "SPEAKER_01",
+      "text": "Puțin."
+    },
+    {
+      "start": 86.44,
+      "end": 93.66,
+      "speaker": "SPEAKER_00",
+      "text": "Puțin. Haideți să vedem acum. Stați cu mâna relaxată. O să apăs câteva zone și îmi spuneți dacă doare."
+    },
+    {
+      "start": 93.78,
+      "end": 94.58,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 94.7,
+      "end": 97.36,
+      "speaker": "SPEAKER_00",
+      "text": "Aici, pe capul lung al bicepsului, doare?"
+    },
+    {
+      "start": 97.48,
+      "end": 98.28,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 98.4,
+      "end": 99.2,
+      "speaker": "SPEAKER_00",
+      "text": "Tare?"
+    },
+    {
+      "start": 99.32,
+      "end": 100.12,
+      "speaker": "SPEAKER_01",
+      "text": "Cam da."
+    },
+    {
+      "start": 100.24,
+      "end": 103.66,
+      "speaker": "SPEAKER_00",
+      "text": "Acum ridic ușor brațul și apăs pe supraspinat. Doare?"
+    },
+    {
+      "start": 103.78,
+      "end": 104.58,
+      "speaker": "SPEAKER_01",
+      "text": "Au, da."
+    },
+    {
+      "start": 104.7,
+      "end": 108.5,
+      "speaker": "SPEAKER_00",
+      "text": "Da. Acolo e mai sensibil. Și dacă apăs pe acromion?"
+    },
+    {
+      "start": 108.62,
+      "end": 109.76,
+      "speaker": "SPEAKER_01",
+      "text": "Da, și acolo."
+    },
+    {
+      "start": 109.88,
+      "end": 123.56,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Eu zic că avem o inflamație la nivelul tendoanelor din zona umărului, cel mai probabil supraspinat și capul lung al bicepsului. Obiectivul nostru e să reducem inflamația și să refacem mobilitatea umărului. Începem de astăzi?"
+    },
+    {
+      "start": 123.68,
+      "end": 124.48,
+      "speaker": "SPEAKER_01",
+      "text": "Da."
+    },
+    {
+      "start": 124.6,
+      "end": 126.12,
+      "speaker": "SPEAKER_00",
+      "text": "Bun, haideți pe masă."
+    }
+  ]
+}

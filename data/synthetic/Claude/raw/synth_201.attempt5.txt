@@ -1,0 +1,30 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, vă rog, cu ce problemă veniți.\nSPEAKER_01: Mă doare spatele.\nSPEAKER_00: Zona de jos, de sus?\nSPEAKER_01: De jos.\nSPEAKER_00: Lombar. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: A apărut brusc sau treptat?\nSPEAKER_01: Brusc. Am ridicat ceva.\nSPEAKER_00: Ce ați ridicat?\nSPEAKER_01: Niște saci.\nSPEAKER_00: Înțeles. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât îi dați?\nSPEAKER_01: Vreo 7.\nSPEAKER_00: 7. Durerea rămâne doar în zona lombară sau se lasă și pe picior?\nSPEAKER_01: Rămâne acolo.\nSPEAKER_00: Nu coboară pe fesă, pe coapsă, nimic?\nSPEAKER_01: Nu.\nSPEAKER_00: Doare mai rău când stați jos, când mergeți, când vă ridicați din pat?\nSPEAKER_01: Când mă ridic.\nSPEAKER_00: Dimineața la ridicare?\nSPEAKER_01: Da.\nSPEAKER_00: Și pe parcursul zilei?\nSPEAKER_01: Mai trece un pic.\nSPEAKER_00: Bun. Ați mai avut episoade de genul ăsta înainte?\nSPEAKER_01: O dată, acum vreo doi ani.\nSPEAKER_00: A trecut singur atunci?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Luați vreun medicament acum pentru durere?\nSPEAKER_01: Ibuprofen.\nSPEAKER_00: Cât?\nSPEAKER_01: 400, când nu mai pot.\nSPEAKER_00: Deci la nevoie, nu în mod regulat?\nSPEAKER_01: Da.\nSPEAKER_00: Alte afecțiuni, tensiune, diabet, osteoporoză, hernie de disc confirmată?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio intervenție chirurgicală, nicio fractură?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să vă văd puțin cum stați în picioare. Întoarceți-vă cu spatele la mine.\nSPEAKER_01: Așa?\nSPEAKER_00: Da. Observ o ușoară tensionare a musculaturii paravertebrale, mai mult pe dreapta. Aplecați-vă ușor în față, cât puteți.\nSPEAKER_01: Până aici.\nSPEAKER_00: Doare când vă aplecați?\nSPEAKER_01: Da, trage.\nSPEAKER_00: Înțeles. Stați puțin pe piciorul drept, lăsați greutatea pe el.\nSPEAKER_01: Ok.\nSPEAKER_00: Vă ține?\nSPEAKER_01: Da.\nSPEAKER_00: Bun. Vă întindeți pe masă cu fața în sus. O să apăs câteva zone și îmi spuneți dacă doare. Aici?\nSPEAKER_01: Da.\nSPEAKER_00: Tot zona lombară, paravertebral dreapta. Ridicați piciorul drept pentru mine, țineți-l drept.\nSPEAKER_01: Atât pot.\nSPEAKER_00: Nu doare pe picior, nu?\nSPEAKER_01: Nu, numa-n spate.\nSPEAKER_00: Ok, testul Lasègue negativ. Avem o contractură musculară paravertebrală lombară, mai accentuată pe dreapta, apărută post-efort. Fără iradiere, fără semne de radiculopatie. O să lucrăm să relaxăm musculatura, să reducem inflamația și să recuperăm mobilitatea. Bun?\nSPEAKER_01: Da.",
+  "note": {
+    "motivul_prezentarii": "Durere lombară apărută brusc după ridicare de greutăți (saci), de aproximativ două săptămâni. Durere locală, fără iradiere pe membrul inferior. Accentuată la ridicarea din pat dimineața, ameliorată parțial pe parcursul zilei.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "Ibuprofen",
+        "doza": "400 mg, la nevoie"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nTensionare musculatură paravertebrală lombară, mai accentuată pe dreapta. Limitarea flexiei anterioare a trunchiului cu durere la aplecarea în față. Test Lasègue negativ bilateral.\nDiagnostic:\nContractură musculară paravertebrală lombară post-efort (ridicare greutăți), fără iradiere și fără semne de radiculopatie.\nObiective terapeutice:\nRelaxarea musculaturii paravertebrale lombare, reducerea inflamației, recuperarea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare spatele.", "De jos.", "Brusc. Am ridicat ceva.", "Niște saci.", "Vreo două săptămâni.", "Când mă ridic.", "Mai trece un pic."],
+    "evaluarea_durerii_vas": ["Vreo 7."],
+    "localizarea_durerii": ["De jos.", "Rămâne acolo.", "Nu coboară pe fesă, pe coapsă, nimic?", "Nu."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": ["Ibuprofen.", "400, când nu mai pot."],
+    "evaluare_functionala_initiala": ["Observ o ușoară tensionare a musculaturii paravertebrale, mai mult pe dreapta.", "Doare când vă aplecați?", "Da, trage.", "Nu doare pe picior, nu?", "Nu, numa-n spate.", "Ok, testul Lasègue negativ. Avem o contractură musculară paravertebrală lombară, mai accentuată pe dreapta, apărută post-efort. Fără iradiere, fără semne de radiculopatie. O să lucrăm să relaxăm musculatura, să reducem inflamația și să recuperăm mobilitatea."]
+  }
+}

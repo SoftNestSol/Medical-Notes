@@ -1,0 +1,50 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua. Spuneți-mi, vă rog, cu ce problemă veniți.\nSPEAKER_01: Mă doare spatele jos.\nSPEAKER_00: De jos, zona lombară. De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: Două săptămâni. S-a întâmplat ceva anume când a început? O mișcare, ceva ridicat?\nSPEAKER_01: Am ridicat niște saci.\nSPEAKER_00: Saci cu ce, dacă pot să întreb?\nSPEAKER_01: Cu ciment.\nSPEAKER_00: Înțeleg. Și imediat a apărut durerea sau mai târziu?\nSPEAKER_01: A doua zi dimineață.\nSPEAKER_00: A doua zi. Bun. Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cum estimați acum?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Durerea e mereu prezentă sau apare la anumite mișcări?\nSPEAKER_01: Când mă aplec, când mă ridic din pat.\nSPEAKER_00: Din pat e mai rău dimineața?\nSPEAKER_01: Da.\nSPEAKER_00: Se mai liniștește pe parcursul zilei?\nSPEAKER_01: Un pic.\nSPEAKER_00: Bun. Durerea se lasă și pe picior, fesă, coapsă?\nSPEAKER_01: Nu. Doar jos, în spate.\nSPEAKER_00: Strict în zona lombară, nu coboară. Amorțeli la picioare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Ați mai avut episoade similare înainte?\nSPEAKER_01: Acum vreo doi ani, ceva mai ușor.\nSPEAKER_00: Și a trecut singur atunci?\nSPEAKER_01: Da.\nSPEAKER_00: Ok. Luați ceva medicamente în prezent, pentru asta sau pentru altceva?\nSPEAKER_01: Nu.\nSPEAKER_00: Nicio pastilă, nici antiinflamator?\nSPEAKER_01: Nu, n-am luat nimic.\nSPEAKER_00: Alte afecțiuni — tensiune, diabet, probleme la inimă?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun. Haideți să facem câteva teste. Stați cu spatele la mine, picioarele ușor depărtate. Relaxați umerii.\nSPEAKER_01: Bine.\nSPEAKER_00: Văd o ușoară tensionare pe dreapta, musculatura paravertebrală. Aplecați-vă încet în față, cât puteți.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Limitare la flexie, doare la coborâre?\nSPEAKER_01: Da, aici jos.\nSPEAKER_00: Ok. Îndreptați-vă. Doare la revenire?\nSPEAKER_01: Mai rău.\nSPEAKER_00: La extensie doare mai tare, înțeleg. Puneți mâna pe masă și ridicați piciorul drept întins, ușor. Doare?\nSPEAKER_01: Nu.\nSPEAKER_00: Piciorul stâng. Doare?\nSPEAKER_01: Nu.\nSPEAKER_00: Bun, Lasègue negativ bilateral. Acum pe masă, față în sus. Vă apăs zona lombară, spuneți-mi dacă doare.\nSPEAKER_01: Da, aici doare.\nSPEAKER_00: Contractură paravertebrală lombară bilaterală, mai accentuată pe dreapta. Doare și mai jos, în zona sacrată?\nSPEAKER_01: Și acolo un pic, da.\nSPEAKER_00: Un pic sacral și el. Bun. Deci ce avem: contractură musculară lombară acută, apărută după efort cu greutăți mari, fără semne de iritație radiculară la momentul acesta. Vom lucra pe reducerea contracturii și a inflamației locale, și o să vă arăt și câteva exerciții simple pe care să le faceți acasă ca să nu reapară.\nSPEAKER_01: Ok.\nSPEAKER_00: Aveți o muncă fizică în mod obișnuit sau a fost o situație izolată?\nSPEAKER_01: Fac muncă de birou de obicei.\nSPEAKER_00: A, birou. Deci stați mult jos?\nSPEAKER_01: Da, toată ziua.\nSPEAKER_00: Asta explică și de ce musculatura a cedat la efort, nu era obișnuită. Bun, haideți să începem.",
+  "note": {
+    "motivul_prezentarii": "Pacient cu durere lombară joasă apărută după ridicare de saci cu ciment, debut a doua zi dimineața, prezentă de aproximativ două săptămâni. Durere la flexie și mai ales la extensia trunchiului, redoare matinală, fără iradiere pe membrele inferioare, fără amorțeli. Antecedent de episod similar acum doi ani, rezolvat spontan.",
+    "evaluarea_durerii_vas": 6,
+    "localizarea_durerii": [
+      "lombar",
+      "sacral_coccis"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nTensionare musculară paravertebrală lombară dreaptă vizibilă în ortostatism. Limitare la flexia anterioară a trunchiului cu durere lombară la coborâre și mai accentuat la revenire (extensie). Test Lasègue negativ bilateral. Palpare: contractură paravertebrală lombară bilaterală, mai accentuată pe dreapta; sensibilitate și în zona sacrată.\nDiagnostic:\nContractură musculară lombară acută post-efort (ridicare greutăți), fără semne de iritație radiculară.\nObiective terapeutice:\nReducerea contracturii musculare și a inflamației locale; program de exerciții pentru prevenirea recidivelor."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare spatele jos.",
+      "Am ridicat niște saci.",
+      "A doua zi dimineață.",
+      "Vreo două săptămâni.",
+      "Acum vreo doi ani, ceva mai ușor.",
+      "Când mă aplec, când mă ridic din pat.",
+      "Nu. Doar jos, în spate."
+    ],
+    "evaluarea_durerii_vas": [
+      "Vreo 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare spatele jos.",
+      "Și acolo un pic, da.",
+      "Doare și mai jos, în zona sacrată?"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Nu, n-am luat nimic."
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd o ușoară tensionare pe dreapta, musculatura paravertebrală.",
+      "Limitare la flexie, doare la coborâre?",
+      "La extensie doare mai tare, înțeleg.",
+      "Lasègue negativ bilateral.",
+      "Contractură paravertebrală lombară bilaterală, mai accentuată pe dreapta.",
+      "contractură musculară lombară acută, apărută după efort cu greutăți mari, fără semne de iritație radiculară la momentul acesta",
+      "Vom lucra pe reducerea contracturii și a inflamației locale, și o să vă arăt și câteva exerciții simple pe care să le faceți acasă ca să nu reapară."
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "conversation_id": "synth_064",
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare gâtul.",
+      "M-am trezit dimineața și nu puteam să mișc capul.",
+      "Vreo trei zile.",
+      "Pe umăr, pe dreapta."
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 6."
+    ],
+    "localizarea_durerii": [
+      "Mă doare gâtul.",
+      "Pe umăr, pe dreapta."
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am luat un Nurofen, dar atât."
+    ],
+    "evaluare_functionala_initiala": [
+      "văd că avem limitare pe rotație spre dreapta",
+      "Doare pe partea dreaptă la înclinare.",
+      "acolo e mai rău",
+      "Avem o contractură musculară în zona cervicală cu limitare de mobilitate pe rotație și înclinare spre dreapta. Vom lucra să relaxăm musculatura și să redobândim mobilitatea."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13854,
+    "inference_geo": "global",
+    "input_tokens": 270,
+    "output_tokens": 1717,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "conversation_id": "synth_466",
+  "evidence": {
+    "motivul_prezentarii": [
+      "de vreo trei săptămâni mă doare fix la baza coloanei, chiar acolo unde se termină, știți, jos de tot, în zona aia de coccis",
+      "mai mult vine când stau jos, pe scaun",
+      "dimineața când mă scol din pat e nasol, primii pași sunt... au, chiar mă ține"
+    ],
+    "evaluarea_durerii_vas": [
+      "pe la 6, aș zice"
+    ],
+    "localizarea_durerii": [
+      "mă doare fix la baza coloanei, chiar acolo unde se termină, știți, jos de tot, în zona aia de coccis"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Am dat cu un gel, Voltaren, o dată sau de două ori"
+    ],
+    "evaluare_functionala_initiala": [
+      "Pe zona sacrococcigianǎ avem sensibilitate locală clară. Și mobilitatea lombară e ușor limitată în extensie. Nu vedem iradiere, deci nu pare să fie ceva nervos, mai degrabă o inflamație locală în zona sacro-coccis, agravată de postura sedentară prelungită. O să lucrăm să reducem inflamația și să eliberăm zona."
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14094,
+    "inference_geo": "global",
+    "input_tokens": 360,
+    "output_tokens": 2116,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

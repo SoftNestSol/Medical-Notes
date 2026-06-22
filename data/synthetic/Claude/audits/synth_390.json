@@ -1,0 +1,49 @@
+{
+  "conversation_id": "synth_390",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul, cel drept, de vreo trei săptămâni",
+      "am ridicat niște cutii mai grele, vreo două lăzi una peste alta, și a doua zi dimineața m-am trezit cu umărul",
+      "nu știu, nu se mai duce"
+    ],
+    "evaluarea_durerii_vas": [
+      "Dacă stau liniștit, poate un 3",
+      "Dacă ridic mâna sus sau încerc să ajung la ceva în spate, dă un 7, 7 și ceva",
+      "noaptea mă trezește uneori, că mă întorc pe partea dreaptă și mă ia o durere... nu știu, poate un 6"
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul, cel drept"
+    ],
+    "localizarea_durerii_alta": [
+      "se duce un pic pe braț, pe partea din față, până undeva pe la mijlocul brațului"
+    ],
+    "antecedente": [
+      "Tensiune am, da. Mi-au zis acum vreo doi ani că am tensiune mare."
+    ],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "Perindopril, 5 miligrame, în fiecare dimineață"
+    ],
+    "evaluare_functionala_initiala": [
+      "Aveți o inflamație la nivelul tendonului supraspinos, cel mai probabil. E un tendon din manșonul rotatorilor",
+      "Nu e o ruptură, nu aveți semnele de ruptură completă. Dar trebuie să lucrăm la reducerea inflamației și să recâștigăm mobilitatea",
+      "doare mai tare",
+      "nu pot să rezist bine, cedează un pic",
+      "un fel de... cum să spun, ca un clac uneori"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23237,
+    "inference_geo": "global",
+    "input_tokens": 320,
+    "output_tokens": 3268,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună ziua.\nSPEAKER_00: Spuneți-mi numele, vă rog.\nSPEAKER_01: Radu Ionescu.\nSPEAKER_00: Și vârsta?\nSPEAKER_01: 38.\nSPEAKER_00: Cu ce problemă ne vedem azi, domnule Ionescu?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am mutat niște mobilă.\nSPEAKER_00: Ah, deci a apărut după ce ați mutat mobila.\nSPEAKER_01: Da.\nSPEAKER_00: Și de atunci doare continuu sau numai când mișcați?\nSPEAKER_01: Mai mult când ridic brațul.\nSPEAKER_00: Când ridicați în sus sau și în lateral?\nSPEAKER_01: În sus mai tare.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte rău, cât de tare doare când ridicați brațul?\nSPEAKER_01: Vreo 6.\nSPEAKER_00: 6. Și când stați liniștit, nu mișcați deloc?\nSPEAKER_01: Mai puțin. Poate un 2.\nSPEAKER_00: Deci la repaus un 2, la mișcare un 6. Durerea rămâne la umăr sau se lasă și pe braț în jos?\nSPEAKER_01: Rămâne la umăr.\nSPEAKER_00: Nu amorțește mâna, degetele?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Tensiune, diabet, alte probleme de sănătate?\nSPEAKER_01: Nu.\nSPEAKER_00: Luați vreun medicament în momentul de față?\nSPEAKER_01: Nu.\nSPEAKER_00: Ok. Haideți să vedem puțin. Ridicați brațul stâng pentru mine, încet.\nSPEAKER_01: Până aici pot.\nSPEAKER_00: Da, văd că se oprește cam la 90 de grade. Doare mai tare sus?\nSPEAKER_01: Da, de aici încolo nu mai pot.\nSPEAKER_00: Stați puțin, vă apăs pe zona de deasupra umărului, spuneți-mi dacă doare.\nSPEAKER_01: Da, acolo.\nSPEAKER_00: Exact pe tendonul supraspinosului. Și dacă apăs mai în față, pe biceps?\nSPEAKER_01: Mai puțin.\nSPEAKER_00: Am înțeles. Deci avem o inflamație la nivelul coafei rotatorilor, cel mai probabil tendonul supraspinos afectat. Mobilitatea e limitată, ridicarea activă se oprește la aproximativ 90 de grade. Vom lucra să reducem inflamația și să recuperăm amplitudinea de mișcare.\nSPEAKER_01: Ok.\nSPEAKER_00: Haideți pe masă, vă rog.",
+  "note": {
+    "motivul_prezentarii": "Durere umar stang aparuta dupa mutare mobila, de aproximativ doua saptamani",
+    "evaluarea_durerii_vas": [2, 6],
+    "localizarea_durerii": ["umar_stg"],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: Inflamatie coafa rotatori, tendon supraspinos stang.\nObiective terapeutice: reducerea inflamatiei; recuperarea amplitudinii de miscare.\nObservatii functionale: ridicarea activa a bratului stang limitata la aproximativ 90 de grade; durere la palparea tendonului supraspinosului."
+  },
+  "evidence": {
+    "motivul_prezentarii": ["Mă doare umărul.", "Stângul.", "Am mutat niște mobilă.", "Vreo două săptămâni."],
+    "evaluarea_durerii_vas": ["Poate un 2.", "Vreo 6."],
+    "localizarea_durerii": ["Mă doare umărul.", "Stângul.", "Rămâne la umăr."],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": ["văd că se oprește cam la 90 de grade", "Exact pe tendonul supraspinosului", "avem o inflamație la nivelul coafei rotatorilor, cel mai probabil tendonul supraspinos afectat", "Vom lucra să reducem inflamația și să recuperăm amplitudinea de mișcare."]
+  }
+}

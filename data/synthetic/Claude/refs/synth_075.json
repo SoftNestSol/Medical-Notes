@@ -1,0 +1,22 @@
+{
+  "motivul_prezentarii": "Durere umăr drept apărută după efort fizic (mutat cutii), cu durata de aproximativ 3-4 săptămâni. Durere la ridicarea brațului, la îmbrăcat și noaptea în decubit lateral drept.",
+  "evaluarea_durerii_vas": [
+    7,
+    2
+  ],
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "iradiere pe fața externă a brațului până la cot",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Amlodipină",
+      "doza": "5 mg pe zi"
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic: tendinită de supraspinos, apărută după efort mecanic. Obiective terapeutice: reducerea inflamației și recuperarea mobilității umărului."
+}

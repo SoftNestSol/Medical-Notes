@@ -1,0 +1,39 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua!\nSPEAKER_01: Bună.\nSPEAKER_00: Cu ce problemă veniți?\nSPEAKER_01: Mă doare umărul.\nSPEAKER_00: Care umăr?\nSPEAKER_01: Stângul.\nSPEAKER_00: De cât timp?\nSPEAKER_01: Vreo două săptămâni.\nSPEAKER_00: S-a întâmplat ceva, ați căzut, ați ridicat ceva greu?\nSPEAKER_01: Am carat niște cutii la serviciu.\nSPEAKER_00: Înțeleg. Doare constant sau doar când mișcați?\nSPEAKER_01: Când ridic mâna.\nSPEAKER_00: Și când ridicați mâna, doare sus, jos, în față?\nSPEAKER_01: Sus, mai sus nu pot.\nSPEAKER_00: Până la ce nivel puteți ridica?\nSPEAKER_01: Cam până aici.\nSPEAKER_00: Deci cam până la nivelul umărului, mai sus nu merge. Noaptea vă deranjează?\nSPEAKER_01: Da, nu pot dormi pe partea stângă.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, unde situați durerea?\nSPEAKER_01: Un 7.\nSPEAKER_00: Durerea se lasă și pe braț, pe cot, undeva mai jos?\nSPEAKER_01: Nu.\nSPEAKER_00: Amorțeală în mână sau degete?\nSPEAKER_01: Nu.\nSPEAKER_00: Bine. Aveți tensiune, diabet, osteoporoză, vreo altă afecțiune?\nSPEAKER_01: Nu, nimic.\nSPEAKER_00: Luați vreun medicament în mod curent?\nSPEAKER_01: Nu.\nSPEAKER_00: Ați mai avut probleme la umărul ăsta înainte?\nSPEAKER_01: Nu, prima oară.\nSPEAKER_00: Haideți să facem câteva mișcări, să văd cum stăm. Ridicați ușor brațul în față... până unde puteți.\nSPEAKER_01: Până cam aici, mai mult nu.\nSPEAKER_00: Doare acum?\nSPEAKER_01: Da.\nSPEAKER_00: Acum duc brațul ușor în lateral. Spuneți-mi dacă simțiți ceva.\nSPEAKER_01: Au, da, doare.\nSPEAKER_00: Pe zona asta de deasupra umărului doare, da?\nSPEAKER_01: Da, exact acolo.\nSPEAKER_00: Apăs un pic aici. Doare?\nSPEAKER_01: Uh, da.\nSPEAKER_00: Înțeleg. Pare o inflamație la nivelul tendoanelor rotatorilor, cel mai probabil tendinita coafei rotatorilor pe umărul stâng. O să lucrăm să reducem inflamația și să recâștigăm mobilitatea. Începem chiar azi?\nSPEAKER_01: Da.",
+  "note": {
+    "motivul_prezentarii": "Durere umăr stâng după carat cutii la serviciu, de aproximativ două săptămâni. Limitarea ridicării brațului deasupra nivelului umărului, durere nocturnă.",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umar_stg"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: tendinita coafei rotatorilor umăr stâng. Mobilitate activă redusă în flexie și abducție (limita la nivelul umărului). Durere la palpare supraiacent. Obiective terapeutice: reducerea inflamației, recâștigarea mobilității."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "Mă doare umărul.",
+      "Stângul.",
+      "Vreo două săptămâni.",
+      "Am carat niște cutii la serviciu.",
+      "nu pot dormi pe partea stângă"
+    ],
+    "evaluarea_durerii_vas": [
+      "Un 7."
+    ],
+    "localizarea_durerii": [
+      "Stângul.",
+      "doare sus, mai sus nu pot"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Pare o inflamație la nivelul tendoanelor rotatorilor, cel mai probabil tendinita coafei rotatorilor pe umărul stâng.",
+      "O să lucrăm să reducem inflamația și să recâștigăm mobilitatea."
+    ]
+  }
+}

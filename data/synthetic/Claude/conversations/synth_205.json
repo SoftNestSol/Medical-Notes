@@ -1,0 +1,181 @@
+{
+  "audio_path": null,
+  "language": "ro",
+  "model": "claude-sonnet-4-6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "speaker": "SPEAKER_00",
+      "text": "Bună ziua, spuneți-mi cu ce problemă venim azi."
+    },
+    {
+      "start": 3.54,
+      "end": 19.12,
+      "speaker": "SPEAKER_01",
+      "text": "Bună ziua. Deci, mă doare umărul, umărul stâng, de vreo două săptămâni. Dar, știți, eu am mai avut înainte și probleme cu spatele, acum câțiva ani, și mă tot gândeam că nu cumva vine de acolo, de la spate, nu știu..."
+    },
+    {
+      "start": 19.24,
+      "end": 26.08,
+      "speaker": "SPEAKER_00",
+      "text": "Stați, să ne concentrăm pe umăr. Pe o scară de la 0 la 10, cât de tare doare?"
+    },
+    {
+      "start": 26.2,
+      "end": 38.36,
+      "speaker": "SPEAKER_01",
+      "text": "Cam 7. Da, un 7. Adică noaptea mă trezește, nu pot să dorm pe partea aia. Și ziua, dacă ridic mâna sus, spre exemplu să iau ceva de pe raft, înjunghie tare."
+    },
+    {
+      "start": 38.48,
+      "end": 40.38,
+      "speaker": "SPEAKER_00",
+      "text": "Deci doare la ridicarea brațului."
+    },
+    {
+      "start": 40.5,
+      "end": 64.82,
+      "speaker": "SPEAKER_01",
+      "text": "Da, da, exact. Și mai ales când întind mâna în față așa. Și știți, la muncă eu stau mult la birou, la calculator, am o postură îngrozitoare, soția tot îmi zice. Probabil de aia, nu? Poate de la mouse, pentru că eu folosesc mouse-ul cu stânga, am o problemă la mâna dreaptă de vreo câțiva ani, dar aia nu mă mai doare acum."
+    },
+    {
+      "start": 64.94,
+      "end": 66.46,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Zona gâtului doare?"
+    },
+    {
+      "start": 66.58,
+      "end": 74.18,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, gâtul nu. Adică mai am eu câteodată o tensiune acolo, dimineața, dar nu o consider o durere, trece repede."
+    },
+    {
+      "start": 74.3,
+      "end": 75.44,
+      "speaker": "SPEAKER_00",
+      "text": "Și brațul amorțește?"
+    },
+    {
+      "start": 75.56,
+      "end": 81.26,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nu amorțește. Asta mă liniștea, sincer, că mă gândeam la probleme de nervi și..."
+    },
+    {
+      "start": 81.38,
+      "end": 84.04,
+      "speaker": "SPEAKER_00",
+      "text": "Bun. Aveți boli cunoscute, tensiune, diabet, osteoporoză?"
+    },
+    {
+      "start": 84.16,
+      "end": 95.94,
+      "speaker": "SPEAKER_01",
+      "text": "Tensiune am, da. Iau tratament pentru ea de vreo trei ani încoace. Diabet nu, osteoporoză nu știu, nu mi-am verificat niciodată. Dar am 52 de ani, poate ar trebui, nu?"
+    },
+    {
+      "start": 96.06,
+      "end": 97.96,
+      "speaker": "SPEAKER_00",
+      "text": "Ce medicament luați pentru tensiune?"
+    },
+    {
+      "start": 98.08,
+      "end": 100.36,
+      "speaker": "SPEAKER_01",
+      "text": "Amlodipină, 5 mg pe zi. Atât."
+    },
+    {
+      "start": 100.48,
+      "end": 101.62,
+      "speaker": "SPEAKER_00",
+      "text": "Altceva nu luați?"
+    },
+    {
+      "start": 101.74,
+      "end": 102.88,
+      "speaker": "SPEAKER_01",
+      "text": "Nu, nimic altceva."
+    },
+    {
+      "start": 103.0,
+      "end": 106.8,
+      "speaker": "SPEAKER_00",
+      "text": "Ok. Stați puțin, ridicați brațul stâng în față pentru mine."
+    },
+    {
+      "start": 106.92,
+      "end": 109.96,
+      "speaker": "SPEAKER_01",
+      "text": "Până aici merge, după nu mai pot, doare."
+    },
+    {
+      "start": 110.08,
+      "end": 113.88,
+      "speaker": "SPEAKER_00",
+      "text": "Cam la 90 de grade se oprește. Și în lateral?"
+    },
+    {
+      "start": 114.0,
+      "end": 120.46,
+      "speaker": "SPEAKER_01",
+      "text": "Pe lateral merge un pic mai bine, dar tot doare când ajung pe la... pe la atât."
+    },
+    {
+      "start": 120.58,
+      "end": 123.24,
+      "speaker": "SPEAKER_00",
+      "text": "Mă lăsați să apăs puțin pe umăr?"
+    },
+    {
+      "start": 123.36,
+      "end": 125.26,
+      "speaker": "SPEAKER_01",
+      "text": "Da, atenție că e sensibil."
+    },
+    {
+      "start": 125.38,
+      "end": 126.18,
+      "speaker": "SPEAKER_00",
+      "text": "Aici doare?"
+    },
+    {
+      "start": 126.3,
+      "end": 128.96,
+      "speaker": "SPEAKER_01",
+      "text": "Da, exact acolo, pe vârful umărului, da."
+    },
+    {
+      "start": 129.08,
+      "end": 137.82,
+      "speaker": "SPEAKER_00",
+      "text": "Deci avem o limitare a mobilității și durere la palpare la nivelul tendonului supraspinos. Pare o tendinopatie de supraspinos, posibil cu inflamație subacromială."
+    },
+    {
+      "start": 137.94,
+      "end": 142.5,
+      "speaker": "SPEAKER_01",
+      "text": "Adică e grav? Că mă tot gândeam că poate trebuie operație și..."
+    },
+    {
+      "start": 142.62,
+      "end": 147.94,
+      "speaker": "SPEAKER_00",
+      "text": "Nu vorbim de operație. O să lucrăm să reducem inflamația și să recuperăm mobilitatea."
+    },
+    {
+      "start": 148.06,
+      "end": 158.32,
+      "speaker": "SPEAKER_01",
+      "text": "Bine, bine. Și să știți că mi-e frică să nu rămână așa, am un coleg care și-a operat umărul și a stat luni de zile."
+    },
+    {
+      "start": 158.44,
+      "end": 161.48,
+      "speaker": "SPEAKER_00",
+      "text": "Înțeleg. Deocamdată nu suntem acolo. Haideți să începem."
+    }
+  ]
+}

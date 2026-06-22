@@ -1,0 +1,51 @@
+{
+  "conversation": "SPEAKER_00: Bună ziua.\nSPEAKER_01: Bună ziua, bună ziua.\nSPEAKER_00: Spuneți-mi, vă rog, cu ce problemă ne vedem azi.\nSPEAKER_01: Păi, doamnă, mă doare ceafa de vreo trei săptămâni, dar sincer zic că e de la birou, stau toată ziua la calculator, și mi se pare că s-a agravat în ultimele zile, nu știu, poate e și de la stres, am avut o perioadă mai grea la serviciu.\nSPEAKER_00: Înțeleg. Și durerea e strict în ceafă sau se lasă și în altă parte?\nSPEAKER_01: Se lasă și în cap, adică am și dureri de cap destul de frecvente, mai ales spre seară. Uneori simt și un pic de tensiune pe umeri, dar ceafa și capul mă deranjează cel mai tare. Dimineața mă trezesc și parcă am gâtul înțepenit, mă rog, după vreo oră trece.\nSPEAKER_00: Pe o scară de la 0 la 10, unde 0 nu doare deloc și 10 doare foarte tare, cum estimați durerea?\nSPEAKER_01: Așa, în mod normal ar fi un 5, dar când am durerile de cap mai puternice urcă spre un 7. Depinde și de zi.\nSPEAKER_00: Bun. Și amorțește ceva, mâini, degete?\nSPEAKER_01: Nu, amorțeli nu am, nu. Adică uneori simt că mâna dreaptă e un pic obosită de la mouse, dar nu amorțeală propriu-zisă.\nSPEAKER_00: Ok. Aveți amețeli, greață?\nSPEAKER_01: Greață nu. Amețeală am avut o dată sau de două ori, când mi-am ridicat capul brusc din față calculatorului, dar a trecut repede, nu știu dacă e legat.\nSPEAKER_00: Da, poate fi legat. Spuneți-mi, aveți tensiune arterială, diabet, vreo problemă mai veche?\nSPEAKER_01: Nu, nu am nimic din astea. Sunt destul de sănătos, am 34 de ani, nu iau pastile zilnic sau ceva. Singurul lucru, am luat de câteva ori un ibuprofen când mă durea mai tare capul, dar nu în fiecare zi, rar.\nSPEAKER_00: Cât de des ați luat ibuprofenul?\nSPEAKER_01: Poate de vreo trei ori în toată perioada asta de trei săptămâni. Nu vreau să abuzez, mă tem că strică stomacul.\nSPEAKER_00: Corect, e bine să nu abuzați. Acum o să fac câteva teste rapide. Vă rog să rotiți capul spre dreapta, încet.\nSPEAKER_01: Doare un pic, da, chiar pe lateral.\nSPEAKER_00: Și spre stânga?\nSPEAKER_01: Stânga merge mai bine, dar tot simt o ușoară rezistență.\nSPEAKER_00: Bun. Apăs puțin la baza craniului, îmi spuneți dacă doare.\nSPEAKER_01: Au, da, acolo doare.\nSPEAKER_00: Da, exact. Și mai jos, la nivelul vertebrelor, doare?\nSPEAKER_01: Da, acolo și mai tare, mai ales pe dreapta.\nSPEAKER_00: Am înțeles. Acum stați puțin drept, priviți în față. Văd că aveți capul un pic dus în față față de umeri, o postură de tip computer, cum îi zic eu.\nSPEAKER_01: Da, mi-a mai zis și nevastă-mea că stau cocoșat la birou, dar n-am ce face, monitor e fix acolo.\nSPEAKER_00: Asta e problema principală, de fapt. Musculatura suboccipitală și paravertebrală cervicală e contractată, și de acolo pleacă și durerile de cap. E o cefalee de tensiune, ce se cheamă cefalee cervicogenă.\nSPEAKER_01: Adică deci nu e ceva grav? Mă temeam că e ceva la cap, ceva neurologic.\nSPEAKER_00: Nu, nu e neurologic. E o problemă musculară și posturală. O să lucrăm să relaxăm musculatura cervicală și suboccipitală, să corectăm puțin postura, și durerile de cap ar trebui să scadă semnificativ.\nSPEAKER_01: Bine, mă bucur. Și cât timp durează până simțim ceva?\nSPEAKER_00: De obicei după primele două-trei ședințe se simte ameliorare. Haideți să trecem la masă să începem.",
+  "note": {
+    "motivul_prezentarii": "Durere cervicală și dureri de cap, instalate de aproximativ trei săptămâni, asociate cu postura la calculator. Durere la baza craniului și ceafă, cu iradiere cefalică, mai ales spre seară. Redoare matinală cervicală care cedează după aproximativ o oră.",
+    "evaluarea_durerii_vas": [5, 7],
+    "localizarea_durerii": [
+      "cervical",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [
+      {
+        "denumire": "ibuprofen",
+        "doza": null
+      }
+    ],
+    "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nPostură de tip \"cap în față\" (forward head posture). Limitare la rotația cervicală dreaptă, rotație stângă parțial păstrată. Durere la palpare suboccipitală și paravertebral cervical drept.\nDiagnostic:\nContractură musculară cervicală și suboccipitală cu cefalee cervicogenă (cefalee de tensiune), pe fond postural.\nObiective terapeutice:\nRelaxarea musculaturii cervicale și suboccipitale; ameliorarea durerilor de cap; corectare posturală."
+  },
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare ceafa de vreo trei săptămâni",
+      "stau toată ziua la calculator",
+      "am și dureri de cap destul de frecvente, mai ales spre seară",
+      "Dimineața mă trezesc și parcă am gâtul înțepenit, mă rog, după vreo oră trece"
+    ],
+    "evaluarea_durerii_vas": [
+      "în mod normal ar fi un 5",
+      "când am durerile de cap mai puternice urcă spre un 7"
+    ],
+    "localizarea_durerii": [
+      "mă doare ceafa",
+      "am și dureri de cap destul de frecvente"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [],
+    "antecedente_altele": [],
+    "medicatie_actuala": [
+      "am luat de câteva ori un ibuprofen când mă durea mai tare capul"
+    ],
+    "evaluare_functionala_initiala": [
+      "Văd că aveți capul un pic dus în față față de umeri, o postură de tip computer",
+      "Musculatura suboccipitală și paravertebrală cervicală e contractată, și de acolo pleacă și durerile de cap",
+      "E o cefalee de tensiune, ce se cheamă cefalee cervicogenă",
+      "Doare un pic, da, chiar pe lateral",
+      "Au, da, acolo doare",
+      "da, acolo și mai tare, mai ales pe dreapta"
+    ]
+  }
+}

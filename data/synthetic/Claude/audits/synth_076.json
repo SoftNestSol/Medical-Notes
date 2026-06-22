@@ -1,0 +1,50 @@
+{
+  "conversation_id": "synth_076",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare umărul drept de vreo trei săptămâni",
+      "am zugrăvit în apartament cu vreo lună în urmă, am ținut mâna sus mult timp, și cred că de atunci",
+      "noaptea, dacă mă întorc pe partea dreaptă, mă trezesc"
+    ],
+    "evaluarea_durerii_vas": [
+      "Ziua când nu fac nimic, așa un 3. Dar când ridic mâna, 7 sigur. Noaptea tot cam 7."
+    ],
+    "localizarea_durerii": [
+      "mă doare umărul drept"
+    ],
+    "localizarea_durerii_alta": [
+      "simt ceva și spre cot"
+    ],
+    "antecedente": [
+      "Tensiune am, da."
+    ],
+    "antecedente_altele": [
+      "Mai am și colesterol, dar pentru aia nu iau nimic momentan",
+      "am mai avut o operație la menisc acum mulți ani, la genunchiul stâng, dar nu mai am probleme acolo"
+    ],
+    "medicatie_actuala": [
+      "Iau Enalapril, 10 miligrame, dimineața"
+    ],
+    "evaluare_functionala_initiala": [
+      "Până aici pot, mai sus mă doare",
+      "Da, acolo doare, pe partea din față",
+      "Au, da, și acolo",
+      "e o inflamație la nivelul tendonului, cel mai probabil tendinită la manșeta rotatorilor",
+      "O să lucrăm să reducem inflamația și să redobândiți mobilitatea completă"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22731,
+    "inference_geo": "global",
+    "input_tokens": 265,
+    "output_tokens": 1929,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}

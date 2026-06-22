@@ -1,0 +1,46 @@
+{
+  "conversation_id": "synth_438",
+  "evidence": {
+    "motivul_prezentarii": [
+      "mă doare undeva pe aici, pe zona asta de spate, de mijloc, de sus",
+      "A început cam așa, treptat, nu dintr-o dată",
+      "dimineața mă ridic și parcă mă ține, mă înțepeniște",
+      "stau mult la calculator"
+    ],
+    "evaluarea_durerii_vas": [],
+    "localizarea_durerii": [
+      "mă doare undeva pe aici, pe zona asta de spate, de mijloc, de sus",
+      "și un pic și în jos, da",
+      "Deci și zona lombară simțiți?"
+    ],
+    "localizarea_durerii_alta": [],
+    "antecedente": [
+      "Mi s-a zis cândva că am o ușoară scolioză, demult, când eram mai mic"
+    ],
+    "antecedente_altele": [
+      "Am avut o operație la menisc la genunchiul drept, acum vreo șapte ani",
+      "căzusem la schi și mi-am rupt meniscul"
+    ],
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": [
+      "Aveți o postură aplecată în față, cu umerii înaintați, ceea ce pune presiune pe zona toracală",
+      "Vedem și o rigiditate a mușchilor paravertebrali toracali",
+      "Cel mai probabil avem de-a face cu o disfuncție posturală la nivel toracal",
+      "O să lucrăm la mobilizarea coloanei toracale, la relaxarea musculaturii paravertebrale și o să vă dau și câteva exerciții de postură de făcut acasă"
+    ]
+  },
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13739,
+    "inference_geo": "global",
+    "input_tokens": 325,
+    "output_tokens": 3056,
+    "output_tokens_details": null,
+    "server_tool_use": null,
+    "service_tier": "standard"
+  }
+}
