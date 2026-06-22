@@ -2,3 +2,5 @@
 /src/mts**
 *.zip
 data/.DS_Store
+
+.env
