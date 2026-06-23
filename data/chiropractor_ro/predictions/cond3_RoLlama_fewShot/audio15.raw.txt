@@ -1,0 +1,14 @@
+Iată obiectul JSON extras din transcrierea consultației:
+
+{
+  "motivul_prezentarii": "migrene",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "cap"
+  ],
+  "localizarea_durerii_alta": "gât",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nSpasm muscular paravertebral cervical (C5–C6), cu reactivitate dureroasă la presiune locală; postură antalgică observată seara, după poziționarea în decubit.\nDiagnostic:\nCompresie radiculară C5–C6 cu radiculopatie și alodinie la nivelul membrului superior; sindrom de arteră vertebrală concomitent (secundar spasmului muscular de protecție), cu tinitus, vertij și greață asociate; creșterea mobilității cervicale și prevenirea recidivelor."
+}

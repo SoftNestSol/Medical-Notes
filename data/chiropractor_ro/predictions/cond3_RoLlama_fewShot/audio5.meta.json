@@ -1,0 +1,30 @@
+{
+  "transcript_tokens_before": 5077,
+  "transcript_tokens_after": 1094,
+  "trimmed": true,
+  "head_tokens": 547,
+  "tail_tokens": 547,
+  "prompt_overhead_tokens": 7066,
+  "transcript_budget": 1094,
+  "input_tokens": 8162,
+  "prediction_status": "coerced_for_eval",
+  "parse_or_schema_error": "SchemaError: schema validation failed: antecedente/0: 'hernie de disc' is not one of ['hipertensiune_arteriala', 'diabet_zaharat', 'boli_cardiovasculare', 'osteoporoza', 'artrita_artroza', 'hernia_disc', 'scolioza_cifoza', 'epilepsie', 'cancer_neoplasm', 'boli_autoimune']; antecedente/1: 'disecție a nervului sciatic' is not one of ['hipertensiune_arteriala', 'diabet_zaharat', 'boli_cardiovasculare', 'osteoporoza', 'artrita_artroza', 'hernia_disc', 'scolioza_cifoza', 'epilepsie', 'cancer_neoplasm', 'boli_autoimune']",
+  "coercions": [
+    "antecedente: invalid enum values moved to antecedente_altele: ['hernie de disc', 'disecție a nervului sciatic']"
+  ],
+  "raw_parsed_json": {
+    "motivul_prezentarii": "Durere lombară, amorțeală și slăbiciune în picioare, cu o istorie de hernie de disc și disecție a nervului sciatic",
+    "evaluarea_durerii_vas": null,
+    "localizarea_durerii": [
+      "lombar"
+    ],
+    "localizarea_durerii_alta": "amorțeală și slăbiciune în picioare",
+    "antecedente": [
+      "hernie de disc",
+      "disecție a nervului sciatic"
+    ],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Observații posturale și biomecanice:\n- Postură antalgică, cu flexie limitată a coloanei lombare și extensie; amorțeală și slăbiciune în picioare.\n- Hernie de disc și disecție a nervului sciatic.\nObiective terapeutice:\n- Reducerea durerii și amorțelii lombare; ameliorarea slăbiciunii în picioare; prevenirea recidivei și promovarea recuperării."
+  }
+}

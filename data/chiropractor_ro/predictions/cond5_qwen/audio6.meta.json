@@ -1,0 +1,35 @@
+{
+  "transcript_tokens_before": 5878,
+  "transcript_tokens_after": 3511,
+  "trimmed": true,
+  "head_tokens": 1536,
+  "tail_tokens": 1975,
+  "input_tokens": 4064,
+  "prediction_status": "coerced_for_eval",
+  "parse_or_schema_error": "SchemaError: schema validation failed: antecedente/2: 'prostatita_cronica' is not one of ['hipertensiune_arteriala', 'diabet_zaharat', 'boli_cardiovasculare', 'osteoporoza', 'artrita_artroza', 'hernia_disc', 'scolioza_cifoza', 'epilepsie', 'cancer_neoplasm', 'boli_autoimune']",
+  "coercions": [
+    "antecedente: invalid enum values moved to antecedente_altele: ['prostatita_cronica']"
+  ],
+  "raw_parsed_json": {
+    "motivul_prezentarii": "Pacient cu trinic pe stânga, cervicalgie, posibilă afecțiune la gărteblua, și posibila inflamație a malitipulei sau a retinei (probleme oculare postoperatorii cu laser).",
+    "evaluarea_durerii_vas": null,
+    "localizarea_durerii": [
+      "cervical",
+      "abdomen"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [
+      "artrita_artroza",
+      "boli_cardiovasculare",
+      "prostatita_cronica"
+    ],
+    "antecedente_altele": "inflamation retinii si este posibil vena mea",
+    "medicatie_actuala": [
+      {
+        "denumire": "miorelaxante",
+        "doza": "dupa recomandare"
+      }
+    ],
+    "evaluare_functionala_initiala": "Observatii posturale / biomecanice:\n- curbura columnii cervicale inversa (fanta anapocrita)\n- flexie tranzitiva a coloanei cervicale\n- trezirea prelungirii gâtului anterioare\n- disconfort articulat in zona C3-C4\nObiective terapeutice:\n- refacerea biomecanica cervicala\n- reducerea durerii la nivelul cervicalei\n- dezmostatizarea articulațiilor cervicale\n- corectarea posturii cervicale\n- reeducarea ortostatismului"
+  }
+}

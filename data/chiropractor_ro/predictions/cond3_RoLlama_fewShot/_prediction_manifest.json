@@ -1,0 +1,39 @@
+{
+  "model_preset": "rollama3_8b_icl",
+  "condition_name": "cond3_rollama3_8b_real_icl",
+  "model_id": "OpenLLM-Ro/RoLlama3-8b-Instruct",
+  "use_adapter": false,
+  "adapter_source": null,
+  "adapter_dir": null,
+  "prediction_dir": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl",
+  "test_ids": [
+    "audio5",
+    "audio6",
+    "audio7",
+    "audio15",
+    "audio16",
+    "audio17",
+    "audio20",
+    "audio22",
+    "audio25",
+    "audio27",
+    "audio28",
+    "audio30",
+    "audio31",
+    "audio36",
+    "audio37"
+  ],
+  "max_input_tokens": 8192,
+  "max_new_tokens": 1024,
+  "transcript_head_tokens": 1536,
+  "chat_template_kwargs": {},
+  "prompt_preset": "icl",
+  "prompt_source": "src/ICL/claude_few_shot.py:build_system_prompt(DEFAULT_MANIFEST)",
+  "icl_example_ids": [
+    "audio18",
+    "audio19",
+    "audio1"
+  ],
+  "prediction_save_policy": "Always writes <audio>.json. Schema-invalid JSON is coerced for eval and original output/coercions are kept in .raw.txt/.meta.json.",
+  "note": "Evaluation is intentionally local-only; this notebook exports predictions/raw outputs/meta only."
+}

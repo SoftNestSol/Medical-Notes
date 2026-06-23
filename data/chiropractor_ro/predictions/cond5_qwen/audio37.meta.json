@@ -1,0 +1,26 @@
+{
+  "transcript_tokens_before": 1481,
+  "transcript_tokens_after": 1481,
+  "trimmed": false,
+  "input_tokens": 2034,
+  "prediction_status": "coerced_for_eval",
+  "parse_or_schema_error": "SchemaError: schema validation failed: localizarea_durerii/0: 'tibial_drept' is not one of ['cervical', 'toracal', 'lombar', 'sacral_coccis', 'umar_dr', 'umar_stg', 'cot_dr', 'cot_stg', 'pumn_dr', 'pumn_stg', 'sold_dr', 'sold_stg', 'genunchi_dr', 'genunchi_stg', 'glezna_dr', 'glezna_stg', 'cap_ceafa', 'abdomen', 'torace']",
+  "coercions": [
+    "localizarea_durerii: invalid enum values moved to localizarea_durerii_alta: ['tibial_drept']"
+  ],
+  "raw_parsed_json": {
+    "motivul_prezentarii": "Pacient, Yucutava, prezintă durere musculatură tibială dreaptă, agravată la momentul de mers, de aproximativ 2-3 zile, posibil legată de un regim crescător de alergat din parc. Durerea a apărut de la umărul osului tibii, tibierea dispusă, secție suprasensibilă extenziunea la nivelul flexiei.",
+    "evaluarea_durerii_vas": [
+      8,
+      3
+    ],
+    "localizarea_durerii": [
+      "tibial_drept"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": "fractură tibie dreaptă la vârsta de mic, acuzată prea spulbergat",
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- tendinomielita tibiale dreaptă, agravată de intervenții de alergat la nivelul pieții exterioare peste calcia\n- sensibilitate la vindere profundă\nObservații functoriale:\n- durere localizată de la T11 încoace spre planul părții posterioare direct, sensibilă la presiune la deblocarea culorii pătrunzătoare\n- nu în dreptul tibial coștării posterioare, dificultate de extensie (maia-judj) în mijlocul musculaturii posterioare\nObiective terapie:\n- reducerea inflamației musculare;\n- relaxarea muncii de la mai multe niveluri pe segmentul de durere (anezena)\n- refacerea terminologiei musculare vizuale"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "n_cases": 15,
+  "ids": [
+    "audio5",
+    "audio6",
+    "audio7",
+    "audio15",
+    "audio16",
+    "audio17",
+    "audio20",
+    "audio22",
+    "audio25",
+    "audio27",
+    "audio28",
+    "audio30",
+    "audio31",
+    "audio36",
+    "audio37"
+  ],
+  "fields": {
+    "evaluarea_durerii_vas": {
+      "accuracy": 0.3333333333333333,
+      "correct": 5,
+      "total": 15
+    },
+    "localizarea_durerii": {
+      "micro_f1": 0.14814814814814814,
+      "macro_f1": 0.06857142857142857,
+      "macro_f1_all_labels": 0.5097744360902255,
+      "sample_f1_mean": 0.15555555555555556,
+      "exact_match_accuracy": 0.13333333333333333,
+      "exact_match_correct": 2,
+      "total": 15,
+      "empty_ref_accuracy": 1.0,
+      "empty_ref_correct": 1,
+      "empty_ref_total": 1,
+      "tp": 2,
+      "fp": 4,
+      "fn": 19,
+      "active_labels": [
+        "cervical",
+        "toracal",
+        "lombar",
+        "sacral_coccis",
+        "umar_dr",
+        "umar_stg",
+        "cot_dr",
+        "genunchi_dr",
+        "cap_ceafa",
+        "torace"
+      ],
+      "per_label": {
+        "cervical": {
+          "tp": 1,
+          "fp": 2,
+          "fn": 3,
+          "f1": 0.2857142857142857
+        },
+        "toracal": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 2,
+          "f1": 0.0
+        },
+        "lombar": {
+          "tp": 1,
+          "fp": 2,
+          "fn": 1,
+          "f1": 0.4
+        },
+        "sacral_coccis": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 1,
+          "f1": 0.0
+        },
+        "umar_dr": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 2,
+          "f1": 0.0
+        },
+        "umar_stg": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 2,
+          "f1": 0.0
+        },
+        "cot_dr": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 1,
+          "f1": 0.0
+        },
+        "cot_stg": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "pumn_dr": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "pumn_stg": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "sold_dr": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "sold_stg": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "genunchi_dr": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 1,
+          "f1": 0.0
+        },
+        "genunchi_stg": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "glezna_dr": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "glezna_stg": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "cap_ceafa": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 5,
+          "f1": 0.0
+        },
+        "abdomen": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "torace": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 1,
+          "f1": 0.0
+        }
+      }
+    },
+    "localizarea_durerii_alta": {
+      "accuracy": 0.2,
+      "correct": 3,
+      "total": 15,
+      "empty_ref_accuracy": 0.25,
+      "empty_ref_correct": 3,
+      "empty_ref_total": 12
+    },
+    "antecedente": {
+      "micro_f1": 0.0,
+      "macro_f1": 0.0,
+      "macro_f1_all_labels": 0.5,
+      "sample_f1_mean": 0.8,
+      "exact_match_accuracy": 0.8,
+      "exact_match_correct": 12,
+      "total": 15,
+      "empty_ref_accuracy": 1.0,
+      "empty_ref_correct": 12,
+      "empty_ref_total": 12,
+      "tp": 0,
+      "fp": 0,
+      "fn": 6,
+      "active_labels": [
+        "hipertensiune_arteriala",
+        "diabet_zaharat",
+        "hernia_disc",
+        "scolioza_cifoza",
+        "epilepsie"
+      ],
+      "per_label": {
+        "hipertensiune_arteriala": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 1,
+          "f1": 0.0
+        },
+        "diabet_zaharat": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 2,
+          "f1": 0.0
+        },
+        "boli_cardiovasculare": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "osteoporoza": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "artrita_artroza": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "hernia_disc": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 1,
+          "f1": 0.0
+        },
+        "scolioza_cifoza": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 1,
+          "f1": 0.0
+        },
+        "epilepsie": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 1,
+          "f1": 0.0
+        },
+        "cancer_neoplasm": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "boli_autoimune": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        }
+      }
+    },
+    "antecedente_altele": {
+      "accuracy": 0.6666666666666666,
+      "correct": 10,
+      "total": 15,
+      "empty_ref_accuracy": 0.9090909090909091,
+      "empty_ref_correct": 10,
+      "empty_ref_total": 11
+    },
+    "medicatie_actuala": {
+      "name_micro_f1": 0.0,
+      "name_sample_f1_mean": 0.9333333333333333,
+      "name_exact_match_accuracy": 0.9333333333333333,
+      "name_exact_match_correct": 14,
+      "total": 15,
+      "empty_ref_accuracy": 1.0,
+      "empty_ref_correct": 14,
+      "empty_ref_total": 14,
+      "tp": 0,
+      "fp": 0,
+      "fn": 1,
+      "doza_accuracy_on_matched": null,
+      "doza_correct": 0,
+      "doza_matched": 0
+    },
+    "evaluare_functionala_initiala": {
+      "bertscore_f1_mean": 0.5117199500401814,
+      "scored": 15,
+      "total": 15,
+      "skipped": 0
+    },
+    "motivul_prezentarii": {
+      "automatic_metric": null,
+      "status": "manual_ternary_deferred"
+    }
+  },
+  "prediction_dir": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/predictions/cond3_RoLlama_fewShot",
+  "reference_dir": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/refs",
+  "include_text_metrics": true
+}

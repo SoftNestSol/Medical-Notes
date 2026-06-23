@@ -1,0 +1,27 @@
+{
+  "transcript_tokens_before": 1541,
+  "transcript_tokens_after": 1094,
+  "trimmed": true,
+  "head_tokens": 547,
+  "tail_tokens": 547,
+  "prompt_overhead_tokens": 7066,
+  "transcript_budget": 1094,
+  "input_tokens": 8162,
+  "prediction_status": "coerced_for_eval",
+  "parse_or_schema_error": "SchemaError: schema validation failed: localizarea_durerii/0: 'umăr' is not one of ['cervical', 'toracal', 'lombar', 'sacral_coccis', 'umar_dr', 'umar_stg', 'cot_dr', 'cot_stg', 'pumn_dr', 'pumn_stg', 'sold_dr', 'sold_stg', 'genunchi_dr', 'genunchi_stg', 'glezna_dr', 'glezna_stg', 'cap_ceafa', 'abdomen', 'torace']",
+  "coercions": [
+    "localizarea_durerii: invalid enum values moved to localizarea_durerii_alta: ['umăr']"
+  ],
+  "raw_parsed_json": {
+    "motivul_prezentarii": "Durere de umăr",
+    "evaluarea_durerii_vas": 7,
+    "localizarea_durerii": [
+      "umăr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Durere de umăr cu inflamație în centura scapulohumerală, implicând mușchii infraspinos și rotund. Durerea este mai severă în mușchiul rotund. Obiectivele terapeutice includ reducerea inflamației și durerii, cu scopul de a rezolva problema în 4-5 sesiuni."
+  }
+}

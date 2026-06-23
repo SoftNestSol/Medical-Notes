@@ -1,0 +1,23 @@
+{
+  "transcript_tokens_before": 1084,
+  "transcript_tokens_after": 1084,
+  "trimmed": false,
+  "input_tokens": 1637,
+  "prediction_status": "coerced_for_eval",
+  "parse_or_schema_error": "SchemaError: schema validation failed: antecedente: None is not of type 'array'",
+  "coercions": [],
+  "raw_parsed_json": {
+    "motivul_prezentarii": "Relaxare",
+    "evaluarea_durerii_vas": null,
+    "localizarea_durerii": [
+      "lombar",
+      "toracal",
+      "cervical"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": null,
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic/observații: tensionare musculara lombara, fesă, trapez cervical.\nObiective terapeutice: masaj de relaxare pe zona lombara; troxne/fazieri articulare cervicale, lombare."
+  }
+}

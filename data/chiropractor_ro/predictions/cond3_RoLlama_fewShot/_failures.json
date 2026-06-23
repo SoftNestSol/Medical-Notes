@@ -1,0 +1,68 @@
+[
+  {
+    "id": "audio5",
+    "error": "SchemaError: schema validation failed: antecedente/0: 'hernie de disc' is not one of ['hipertensiune_arteriala', 'diabet_zaharat', 'boli_cardiovasculare', 'osteoporoza', 'artrita_artroza', 'hernia_disc', 'scolioza_cifoza', 'epilepsie', 'cancer_neoplasm', 'boli_autoimune']; antecedente/1: 'disecție a nervului sciatic' is not one of ['hipertensiune_arteriala', 'diabet_zaharat', 'boli_cardiovasculare', 'osteoporoza', 'artrita_artroza', 'hernia_disc', 'scolioza_cifoza', 'epilepsie', 'cancer_neoplasm', 'boli_autoimune']",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio5.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio5.meta.json"
+  },
+  {
+    "id": "audio6",
+    "error": "SchemaError: schema validation failed: antecedente/0: 'inflamație retiniană, inflamație malitipulară, deshidratare' is not one of ['hipertensiune_arteriala', 'diabet_zaharat', 'boli_cardiovasculare', 'osteoporoza', 'artrita_artroza', 'hernia_disc', 'scolioza_cifoza', 'epilepsie', 'cancer_neoplasm', 'boli_autoimune']",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio6.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio6.meta.json"
+  },
+  {
+    "id": "audio15",
+    "error": "SchemaError: schema validation failed: localizarea_durerii/0: 'cap' is not one of ['cervical', 'toracal', 'lombar', 'sacral_coccis', 'umar_dr', 'umar_stg', 'cot_dr', 'cot_stg', 'pumn_dr', 'pumn_stg', 'sold_dr', 'sold_stg', 'genunchi_dr', 'genunchi_stg', 'glezna_dr', 'glezna_stg', 'cap_ceafa', 'abdomen', 'torace']",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio15.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio15.meta.json"
+  },
+  {
+    "id": "audio16",
+    "error": "ParseError: no JSON object braces found in output: 'Iată obiectul JSON extras din transcrierea consultației:\\n\\n{\\n  \"motivul_prezentarii\": \"Durere cervicală intensă (VAS 7/10) cu iradiere pe membrul superior (radiculopatie) și alodinie la nivelul mâinii.'",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio16.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio16.meta.json"
+  },
+  {
+    "id": "audio17",
+    "error": "SchemaError: schema validation failed: localizarea_durerii/0: 'umăr' is not one of ['cervical', 'toracal', 'lombar', 'sacral_coccis', 'umar_dr', 'umar_stg', 'cot_dr', 'cot_stg', 'pumn_dr', 'pumn_stg', 'sold_dr', 'sold_stg', 'genunchi_dr', 'genunchi_stg', 'glezna_dr', 'glezna_stg', 'cap_ceafa', 'abdomen', 'torace']",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio17.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio17.meta.json"
+  },
+  {
+    "id": "audio22",
+    "error": "SchemaError: schema validation failed: localizarea_durerii/0: 'umăr' is not one of ['cervical', 'toracal', 'lombar', 'sacral_coccis', 'umar_dr', 'umar_stg', 'cot_dr', 'cot_stg', 'pumn_dr', 'pumn_stg', 'sold_dr', 'sold_stg', 'genunchi_dr', 'genunchi_stg', 'glezna_dr', 'glezna_stg', 'cap_ceafa', 'abdomen', 'torace']",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio22.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio22.meta.json"
+  },
+  {
+    "id": "audio25",
+    "error": "SchemaError: schema validation failed: localizarea_durerii/0: 'genunchiul drept' is not one of ['cervical', 'toracal', 'lombar', 'sacral_coccis', 'umar_dr', 'umar_stg', 'cot_dr', 'cot_stg', 'pumn_dr', 'pumn_stg', 'sold_dr', 'sold_stg', 'genunchi_dr', 'genunchi_stg', 'glezna_dr', 'glezna_stg', 'cap_ceafa', 'abdomen', 'torace']",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio25.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio25.meta.json"
+  },
+  {
+    "id": "audio27",
+    "error": "ParseError: no JSON object braces found in output: 'Iată obiectul JSON extras din transcrierea consultației:\\n\\n{\\n  \"motivul_prezentarii\": \"tinitus, vertij, gura uscată, gâtul uscat, sinuzita, durerea abdominală superioară\",\\n  \"evaluarea_durerii_vas\": nu'",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio27.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio27.meta.json"
+  },
+  {
+    "id": "audio28",
+    "error": "SchemaError: schema validation failed: localizarea_durerii/0: 'cap' is not one of ['cervical', 'toracal', 'lombar', 'sacral_coccis', 'umar_dr', 'umar_stg', 'cot_dr', 'cot_stg', 'pumn_dr', 'pumn_stg', 'sold_dr', 'sold_stg', 'genunchi_dr', 'genunchi_stg', 'glezna_dr', 'glezna_stg', 'cap_ceafa', 'abdomen', 'torace']",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio28.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio28.meta.json"
+  },
+  {
+    "id": "audio31",
+    "error": "SchemaError: schema validation failed: localizarea_durerii/0: 'braț drept' is not one of ['cervical', 'toracal', 'lombar', 'sacral_coccis', 'umar_dr', 'umar_stg', 'cot_dr', 'cot_stg', 'pumn_dr', 'pumn_stg', 'sold_dr', 'sold_stg', 'genunchi_dr', 'genunchi_stg', 'glezna_dr', 'glezna_stg', 'cap_ceafa', 'abdomen', 'torace']",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio31.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio31.meta.json"
+  },
+  {
+    "id": "audio37",
+    "error": "SchemaError: schema validation failed: antecedente/0: 'fractură la nivelul tibiei drepte din cauza fotbalului' is not one of ['hipertensiune_arteriala', 'diabet_zaharat', 'boli_cardiovasculare', 'osteoporoza', 'artrita_artroza', 'hernia_disc', 'scolioza_cifoza', 'epilepsie', 'cancer_neoplasm', 'boli_autoimune']; localizarea_durerii/0: 'tibial drept' is not one of ['cervical', 'toracal', 'lombar', 'sacral_coccis', 'umar_dr', 'umar_stg', 'cot_dr', 'cot_stg', 'pumn_dr', 'pumn_stg', 'sold_dr', 'sold_stg', 'genunchi_dr', 'genunchi_stg', 'glezna_dr', 'glezna_stg', 'cap_ceafa', 'abdomen', 'torace']",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio37.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond3_rollama3_8b_real_icl/audio37.meta.json"
+  }
+]

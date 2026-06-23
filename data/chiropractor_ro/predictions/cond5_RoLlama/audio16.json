@@ -1,0 +1,13 @@
+{
+  "motivul_prezentarii": "Pacient cu durere cervicală și toracală la rotația capului spre dreapta, cu limitarea rotației capului și iradiere pe toracal stâng, instalată de aproximativ 2 zile, după somn pe burtă cu pernă sub cap.",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "cervical",
+    "toracal"
+  ],
+  "localizarea_durerii_alta": "toracal stâng",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic: Torticolis cu contractură musculară trapez și coafă rotatorie; durere musculară toracală stângă.\nObiective terapeutice: reducerea tensiunii musculare; refacerea mobilității cervicale."
+}

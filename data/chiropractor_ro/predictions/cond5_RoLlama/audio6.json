@@ -1,0 +1,24 @@
+{
+  "motivul_prezentarii": "Pacient cu cervicalgie, posibil cervicalgie la gartebula, inflamație retiniană, fibrilații cardiace, aritmie, prostatită cronică, vertij la antibiotice, postură viciată (cap în față, curbură cervicală anterioară, umeri trași), lucru sedentar prelungit",
+  "evaluarea_durerii_vas": null,
+  "localizarea_durerii": [
+    "cervical",
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": "gartebula, retină",
+  "antecedente": [
+    "hipertensiune_arteriala"
+  ],
+  "antecedente_altele": "prostatită cronică, inflamație retiniană, fibrilații cardiace; aritmie",
+  "medicatie_actuala": [
+    {
+      "denumire": "ibuprofen",
+      "doza": null
+    },
+    {
+      "denumire": "magneziu",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\nPostură viciată: cap în față, curbură cervicală anterioară, umeri trași. Pacientul stă cu gâtul plecat, cu curbura cervicală anterioară accentuată. Cervicalgie la palpare. Amule musculare de vătoracară. Flexie cervicală limitată cu durere. Extensia cervicală păstrată. Rotație cervicală limitată cu durere. Abducție cervicală limitată cu durere. Rotatie laterală cervicală limitată cu durere.\nDiagnostic:\nCervicalgie cu posibilă cervicalgie la gartebula. Inflamație retiniană. Fibrilații cardiace. Aritmie. Prostatită cronică. Postură viciată cu curbură cervicală anterioară accentuată și umeri trași.\nObiective terapeutice:\nReducerea durerii cervicale; corectarea posturii; ameliorarea inflamației retiniene; ameliorarea fibrilațiilor cardiace; ameliorarea prostatitei cronice; corectarea biomecanicii cervicale."
+}

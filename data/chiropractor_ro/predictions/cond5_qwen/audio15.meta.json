@@ -1,0 +1,28 @@
+{
+  "transcript_tokens_before": 2151,
+  "transcript_tokens_after": 2151,
+  "trimmed": false,
+  "input_tokens": 2704,
+  "prediction_status": "coerced_for_eval",
+  "parse_or_schema_error": "SchemaError: schema validation failed: localizarea_durerii/1: 'capsula_limba' is not one of ['cervical', 'toracal', 'lombar', 'sacral_coccis', 'umar_dr', 'umar_stg', 'cot_dr', 'cot_stg', 'pumn_dr', 'pumn_stg', 'sold_dr', 'sold_stg', 'genunchi_dr', 'genunchi_stg', 'glezna_dr', 'glezna_stg', 'cap_ceafa', 'abdomen', 'torace']",
+  "coercions": [
+    "localizarea_durerii: invalid enum values moved to localizarea_durerii_alta: ['capsula_limba']"
+  ],
+  "raw_parsed_json": {
+    "motivul_prezentarii": "Migrene tare ale feței drepte și a unei zone marcat de dureri letale),(migratii ilezive), secare a ochiului pozitive, dureri occipitale, amețeli precum starea de voma are un caracter matinal",
+    "evaluarea_durerii_vas": [
+      5,
+      7
+    ],
+    "localizarea_durerii": [
+      "cervical",
+      "capsula_limba",
+      "cap_ceafa"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- sindrom arteră vertebrală cervică\nObiective terapeutice:\n- reducerea inflamației musculare cervicale (splenț, occipital, sternocleidomastoid, scaleni)\n- analgeze bilaterală pentru problemă posturală primate anterior\nConstricția vasului vertebral cervical în stare de efort, devestire a secării ocularului\nObservații posturale:\nDurere cervicala bilaterală, asociere cu secara oculara matinala; posibilitate a herniei cu patern proiectiv anterioar (pernecatie);\nprincipal depresiv de ansamblu cu fata posterioara si haberit contractural cervical"
+  }
+}

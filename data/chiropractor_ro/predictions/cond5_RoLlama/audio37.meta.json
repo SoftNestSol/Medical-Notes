@@ -1,0 +1,26 @@
+{
+  "transcript_tokens_before": 1388,
+  "transcript_tokens_after": 1388,
+  "trimmed": false,
+  "input_tokens": 2864,
+  "prediction_status": "coerced_for_eval",
+  "parse_or_schema_error": "SchemaError: schema validation failed: localizarea_durerii/0: 'tibie_dr' is not one of ['cervical', 'toracal', 'lombar', 'sacral_coccis', 'umar_dr', 'umar_stg', 'cot_dr', 'cot_stg', 'pumn_dr', 'pumn_stg', 'sold_dr', 'sold_stg', 'genunchi_dr', 'genunchi_stg', 'glezna_dr', 'glezna_stg', 'cap_ceafa', 'abdomen', 'torace']",
+  "coercions": [
+    "localizarea_durerii: invalid enum values moved to localizarea_durerii_alta: ['tibie_dr']"
+  ],
+  "raw_parsed_json": {
+    "motivul_prezentarii": "Durere musculatură tibie dreaptă apărută după alergare, accentuată la mers, de aproximativ 2-3 zile, posibil declanșată de călcăi grei.",
+    "evaluarea_durerii_vas": [
+      8,
+      3
+    ],
+    "localizarea_durerii": [
+      "tibie_dr"
+    ],
+    "localizarea_durerii_alta": null,
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic: sensibilitate musculatură tibie dreaptă, posibil inflamație, pe fond de fractură tibie dreaptă anterioară în copilărie (fotbal). Obiective terapeutice: reducerea inflamației musculare, creșterea mobilității tibiei drepte."
+  }
+}

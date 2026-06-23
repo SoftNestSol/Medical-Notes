@@ -1,0 +1,12 @@
+Iată obiectul JSON extras din transcrierea consultației:
+
+{
+  "motivul_prezentarii": "masaj de relaxare",
+  "evaluarea_durerii_vas": null,
+  "localizarea_durerii": [],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "masaj de relaxare"
+}

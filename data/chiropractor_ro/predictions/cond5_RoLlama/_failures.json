@@ -1,0 +1,14 @@
+[
+  {
+    "id": "audio6",
+    "error": "SchemaError: schema validation failed: antecedente/1: 'aritmie' is not one of ['hipertensiune_arteriala', 'diabet_zaharat', 'boli_cardiovasculare', 'osteoporoza', 'artrita_artroza', 'hernia_disc', 'scolioza_cifoza', 'epilepsie', 'cancer_neoplasm', 'boli_autoimune']",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond5_rollama3_8b_synth_claude_ft/audio6.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond5_rollama3_8b_synth_claude_ft/audio6.meta.json"
+  },
+  {
+    "id": "audio37",
+    "error": "SchemaError: schema validation failed: localizarea_durerii/0: 'tibie_dr' is not one of ['cervical', 'toracal', 'lombar', 'sacral_coccis', 'umar_dr', 'umar_stg', 'cot_dr', 'cot_stg', 'pumn_dr', 'pumn_stg', 'sold_dr', 'sold_stg', 'genunchi_dr', 'genunchi_stg', 'glezna_dr', 'glezna_stg', 'cap_ceafa', 'abdomen', 'torace']",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond5_rollama3_8b_synth_claude_ft/audio37.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond5_rollama3_8b_synth_claude_ft/audio37.meta.json"
+  }
+]

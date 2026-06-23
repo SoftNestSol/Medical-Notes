@@ -1,0 +1,13 @@
+Iată obiectul JSON extras din transcrierea consultației:
+
+{
+  "motivul_prezentarii": "Durere cervicală intensă (VAS 7/10) cu iradiere pe membrul superior (radiculopatie) și alodinie la nivelul mâinii. Frecvență 3-4 zile/săptămână, intensitate fluctuantă (3→7), exacerbată seara, după ce pacientul se întinde în pat.",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "membrul superior",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Observații posturale/biomecanice:\nSpasm muscular paravertebral cervical (C5-C6), cu reactivitate dureroasă la presiune locală; postură antalgică observată seara, după poziționarea în decubit.\nDiagnostic:\nCompresie radiculară C5-C6 cu radiculopatie și alodinie la nivelul membrului superior; sindrom de arteră vertebrală concomitent (secundar spasmului muscular de protecție), cu tinitus, vertij și greață asociate – teste de provocare (extensie cervicală >20 sec, flexie forțată cu tracțiune) pozitive.\nObiective terapeutice:\nReducerea compresiei radiculare C5-C6 și a spasmului muscular asociat; ameliorarea durerii iradiante, a radiculopatiei și a alodiniei; diminuarea sindromului de arteră vertebrală (tinitus, vertij, greață) și prevenirea recidivei."

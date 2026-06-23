@@ -1,0 +1,14 @@
+Iată obiectul JSON extras din transcrierea consultației:
+
+{
+  "motivul_prezentarii": "Durere la genunchiul drept după o cădere, cu inflamație și durere în zona meningei și a ligamentului colateral-lateral",
+  "evaluarea_durerii_vas": null,
+  "localizarea_durerii": [
+    "genunchiul drept"
+  ],
+  "localizarea_durerii_alta": "meninge, ligament colateral-lateral",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Fizioterapie și radiografie pentru a evalua inflamația și deteriorarea mecanică a meningei și a ligamentului colateral-lateral"
+}

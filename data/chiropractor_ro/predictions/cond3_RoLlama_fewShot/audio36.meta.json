@@ -1,0 +1,10 @@
+{
+  "transcript_tokens_before": 1029,
+  "transcript_tokens_after": 1029,
+  "trimmed": false,
+  "prompt_overhead_tokens": 7066,
+  "transcript_budget": 1094,
+  "input_tokens": 8097,
+  "prediction_status": "schema_valid",
+  "coercions": []
+}

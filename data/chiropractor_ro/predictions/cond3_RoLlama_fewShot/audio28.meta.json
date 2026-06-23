@@ -1,0 +1,27 @@
+{
+  "transcript_tokens_before": 2498,
+  "transcript_tokens_after": 1094,
+  "trimmed": true,
+  "head_tokens": 547,
+  "tail_tokens": 547,
+  "prompt_overhead_tokens": 7066,
+  "transcript_budget": 1094,
+  "input_tokens": 8163,
+  "prediction_status": "coerced_for_eval",
+  "parse_or_schema_error": "SchemaError: schema validation failed: localizarea_durerii/0: 'cap' is not one of ['cervical', 'toracal', 'lombar', 'sacral_coccis', 'umar_dr', 'umar_stg', 'cot_dr', 'cot_stg', 'pumn_dr', 'pumn_stg', 'sold_dr', 'sold_stg', 'genunchi_dr', 'genunchi_stg', 'glezna_dr', 'glezna_stg', 'cap_ceafa', 'abdomen', 'torace']",
+  "coercions": [
+    "localizarea_durerii: invalid enum values moved to localizarea_durerii_alta: ['cap']"
+  ],
+  "raw_parsed_json": {
+    "motivul_prezentarii": "migrene ocazionale",
+    "evaluarea_durerii_vas": null,
+    "localizarea_durerii": [
+      "cap"
+    ],
+    "localizarea_durerii_alta": "tensiune oculară",
+    "antecedente": [],
+    "antecedente_altele": null,
+    "medicatie_actuala": [],
+    "evaluare_functionala_initiala": "Diagnostic:\n- Sindrom de arteră vertebrală cu compresie la nivelul coloanei vertebrale; migrenă cu tensiune oculară asociată\nObiective terapeutice:\n- Reducerea compresiei arterei vertebrale și a inflamației; ameliorarea durerii și a tensiunii oculare; hidratarea și mobilitatea coloanei vertebrale"
+  }
+}

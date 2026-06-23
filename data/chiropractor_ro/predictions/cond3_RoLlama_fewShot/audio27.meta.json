@@ -1,0 +1,15 @@
+{
+  "transcript_tokens_before": 3121,
+  "transcript_tokens_after": 1094,
+  "trimmed": true,
+  "head_tokens": 547,
+  "tail_tokens": 547,
+  "prompt_overhead_tokens": 7066,
+  "transcript_budget": 1094,
+  "input_tokens": 8162,
+  "prediction_status": "no_parseable_json_saved_empty_note",
+  "parse_or_schema_error": "ParseError: no JSON object braces found in output: 'Iată obiectul JSON extras din transcrierea consultației:\\n\\n{\\n  \"motivul_prezentarii\": \"tinitus, vertij, gura uscată, gâtul uscat, sinuzita, durerea abdominală superioară\",\\n  \"evaluarea_durerii_vas\": nu'",
+  "coercions": [
+    "no parseable JSON object; saved empty schema-valid note so eval can count misses"
+  ]
+}

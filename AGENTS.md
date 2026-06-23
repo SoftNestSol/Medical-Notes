@@ -85,26 +85,32 @@ See `src/data_split.py` docstring for v2 provenance.
 
 ## Experimental design (locked)
 
-Seven conditions, framed as a **low-resource comparison**: with scarce in-domain RO data, which method extracts the note best? Two API models bracket the range (Gemini Flash floor, Claude Opus ceiling); a single fixed open-source small model carries the prompting-vs-fine-tuning comparison.
+Six conditions (updated 2026-06-23 — drop cond 6, 7, and 4b; split cond 5 into 5a/5b; cond 3 = RoLlama ICL), framed as a **low-resource comparison**: with scarce in-domain RO data, which method extracts the note best? Two API models bracket the range (Gemini Flash floor, Claude Opus ceiling); two open-source small models carry the fine-tuning comparison; one open-source small model carries the ICL comparison.
 
-| # | Condition | Base model | Training data | Research question |
-|---|-----------|-----------|---------------|-------------------|
-| 1 | Zero-shot prompting | Gemini Flash (cheap API) | none | Cheap API floor |
-| 2 | Zero-shot prompting | Claude Opus (big API) | none | Ceiling (NOT a parity claim) |
-| 3 | Few-shot ICL with real examples | Open-source small (fixed) | 3-5 examples in prompt | Does ICL help the small model? |
-| 4 | Few-shot ICL with real examples | Claude Opus (big API) | 3 examples in prompt | ICL ceiling |
-| 4b | Few-shot ICL with real examples | Gemini Flash (cheap API) | 3 examples in prompt | Does ICL help the cheap floor? (added 2026-06-23 — Gemini ZS was unexpectedly strong) |
-| 5 | Fine-tuned on synthetic chiropractor data | Open-source small (fixed) | LLM-generated RO chiropractor pairs | Main deployment candidate |
-| 6 | Fine-tuned on translated MTS | Open-source small (fixed) | ~1700 translated MTS pairs | Does general medical pretraining help? |
-| 7 | Fine-tuned on MTS → then synthetic chiropractor | Open-source small (fixed) | MTS first, then synthetic | Stacked domain adaptation |
+| # | Condition | Base model | Training data | Research question | Pred dir |
+|---|-----------|-----------|---------------|-------------------|----------|
+| 1 | Zero-shot prompting | Gemini Flash (cheap API) | none | Cheap API floor | `cond1_gemini_zeroshot` |
+| 2 | Zero-shot prompting | Claude Opus (big API) | none | Ceiling (NOT a parity claim) | `cond2_claude_zeroshot` |
+| 3 | Few-shot ICL with real examples | RoLlama3-8B-Instruct | 3 examples in prompt (same set as cond 4) | Does ICL help the small RO-native model? | `cond3_*` (TBD) |
+| 4 | Few-shot ICL with real examples | Claude Opus (big API) | 3 examples in prompt | ICL ceiling | `cond4_claude_fewshot` |
+| 5a | Fine-tuned on synthetic chiropractor data | Qwen3-4B-Instruct-2507 | synthetic Claude-generated RO chiropractor pairs | Main deployment candidate (compact) | `cond5_qwen` |
+| 5b | Fine-tuned on synthetic chiropractor data | RoLlama3-8B-Instruct | same synthetic Claude-generated pairs | Same training data, larger RO-native base | `cond5_RoLlama` |
 
-Open-source small candidates under evaluation: Qwen3-4B / RoLlama3-8B / Gemma3-4B (pick not yet locked).
+Conditions 6 (MTS-only fine-tune), 7 (stacked MTS→synthetic), and 4b (Gemini few-shot) were **dropped 2026-06-23**. Reasons: scope cut to ship within timeline; cond 5 split into two base-model variants is the more interesting comparison; cond 4b duplicated effort without changing the low-resource narrative. The original cond 5 became cond 5a/5b. Cond 3 now uses RoLlama3-8B-Instruct (same base as cond 5b), so cond 3 vs cond 5b is a clean ICL-vs-FT ablation on identical base model.
+
+**Qwen 8B caveat (2026-06-23):** do not assume there is a clean 8B sibling of
+`Qwen/Qwen3-4B-Instruct-2507`. Current lookup found `Qwen/Qwen3-4B-Instruct-2507`
+and base `Qwen/Qwen3-8B`, but no official `Qwen/Qwen3-8B-Instruct-2507`.
+Training `Qwen/Qwen3-8B` would therefore mix size and checkpoint/instruction
+tuning differences, so it is not a clean direct comparison against the 4B
+2507 run.
 
 **Cross-condition consistency requirements:**
-- Conditions 3, 5, 6, 7 share the same fixed open-source small base model (cond. 1 is a separate cheap API, Gemini Flash)
+- Cond 3 and cond 5b share the same base model (RoLlama3-8B-Instruct) → clean ICL-vs-FT ablation on the same base.
+- Cond 5a uses Qwen3-4B-Instruct-2507 (compact deployment candidate, different base intentionally).
 - Conditions 2 and 4 share the same big API model (Claude Opus)
-- Conditions 5 and 7 use the same synthetic data (don't regenerate between conditions)
-- ICL conditions (3, 4, 4b) use the same N examples and the same selection strategy
+- Conditions 5a and 5b use the **same** synthetic Claude-generated training data (only the base model differs)
+- ICL conditions (3, 4) use the same N=3 examples and the same selection strategy
 - **ICL example set LOCKED (2026-06-23): N=3, `audio18, audio19, audio1`** (all POOL, never test). Source of truth: `src/ICL/real_examples_manifest.tsv` (rows with `include_default=1` + `status=ready`); `build_real_icl_examples.build_examples()` reads it and asserts no test leakage. To change the set, edit only the `include_default` column. The `fix_before_use` pool pairs (audio4/10/21/24/26/29) have documented-wrong raw refs — do NOT add them as ICL examples.
 
 ---
@@ -121,7 +127,7 @@ Open-source small candidates under evaluation: Qwen3-4B / RoLlama3-8B / Gemma3-4
 
 - **K-SOAP** (Li et al., PAKDD 2025) — keyword-augmented SOAP format guides LLMs to generate more structured notes. Relevant to our strict-format requirement.
 - **NoteChat** (arXiv:2310.15959) — multi-agent synthetic dialogue generation from clinical notes.
-- **SynDial** (arXiv:2408.06285) — iterative LLM with feedback loop for synthetic dialogue generation. Relevant if condition 5/7 synthetic generation needs more rigor.
+- **SynDial** (arXiv:2408.06285) — iterative LLM with feedback loop for synthetic dialogue generation. Relevant if condition 5 synthetic generation needs more rigor.
 
 ### Romanian / low-resource
 
@@ -173,18 +179,18 @@ Per-field metrics, not a single aggregate:
 1. Philosophy: "if not spoken, leave empty" — enforced everywhere
 2. Output format: 6 fields from the Osteopath Concept template (4 structured, 2 free-text)
 3. Data split: 18 test / 0 dev / 17 pool (v2 on 2026-06-04; was 15/0/15 in v1)
-4. 7 experimental conditions as listed above
+4. 6 experimental conditions as listed above (1, 2, 3, 4, 5a, 5b). Conditions 4b, 6, and 7 dropped 2026-06-23 — see decision log.
 5. Low-resource framing: scarce in-domain RO data is the central problem; which method wins under that constraint. Cost is a SECONDARY justification only (reframed 2026-06-21; cost diffs < ~$50/yr at clinic volume, too small to anchor the paper). Gemini Flash = cheap floor, Claude Opus = ceiling (not a parity claim).
 6. Manual quality gate on synthetic data — committed
 7. Paper venue: university course (not for publication) — small N is acceptable
-8. Same small base model across all fine-tuning conditions
+8. Cond 3 + cond 5b share the same small base model (RoLlama3-8B-Instruct). Cond 5a uses Qwen3-4B-Instruct-2507 on the same synthetic training data — base model is the only difference vs 5b.
 9. Same big model across conditions 2 and 4
 10. Test set hard-fenced — no leakage into ICL examples, synthetic seeds, or training data
 
 ## Open decisions (still to close)
 
 1. Compute setup (Colab free vs paid, GPU specs)
-2. Open-source small model pick — narrowed to Qwen3-4B / RoLlama3-8B / Gemma3-4B (research in progress)
+2. Open-source small model pick — narrowed to Qwen3-4B / RoLlama3-8B / Gemma3-4B (research in progress). Caveat: `Qwen/Qwen3-8B` is not confirmed as an 8B `Instruct-2507` sibling of `Qwen/Qwen3-4B-Instruct-2507`, so it should not be treated as a clean same-family size ablation.
 3. API models — DECIDED: Gemini Flash (cond. 1 floor), Claude Opus (cond. 2/4 ceiling)
 4. Exact metrics per field (especially medication normalization)
 5. Number of few-shot examples in ICL conditions — DECIDED 2026-06-23: N=3, locked set `audio18, audio19, audio1` (see condition table notes + `src/ICL/real_examples_manifest.tsv`)
@@ -205,15 +211,14 @@ Per-field metrics, not a single aggregate:
 - Annotation guideline writing ‖ chiropractor annotation (after guideline delivered)
 - Prompt + parser work ‖ eval script work
 - Synthetic data generation ‖ fine-tuning infra setup
-- ICL conditions (1-4) ‖ fine-tuning conditions (5-7), once infra is up
+- API/ICL conditions (1, 2, 3, 4) ‖ fine-tuning conditions (5a, 5b), once infra is up
 - Writing related-work section ‖ running experiments
 - Chiropractor sanity check ‖ paper writing (final phase)
 
 **Strictly sequential:**
 - Template lock → annotation guideline → chiropractor annotation → test set frozen → any evaluation
 - Eval framework decisions → eval script → running any condition
-- Synthetic seeds chosen → synthetic data generated → conditions 5 and 7 trained
-- Condition 6 (MTS fine-tune) → condition 7 (MTS + synthetic) — condition 7 starts from condition 6's checkpoint
+- Synthetic seeds chosen → synthetic data generated → conditions 5a and 5b trained (same data, different base models)
 - All conditions evaluated → paper results section
 
 ---
@@ -225,7 +230,7 @@ Per-field metrics, not a single aggregate:
 | Synthetic data quality | Professional manual review gate (committed) |
 | Fine-tuning silent failure (loss looks fine, outputs garbage) | Sanity check: valid JSON in correct schema before trusting metrics |
 | Test set leakage | Hard-fence test IDs in code; assertion before training/ICL example selection |
-| Schedule slip on fine-tuning | If conditions 5-7 don't produce valid output by end of phase 3, ship with ICL only |
+| Schedule slip on fine-tuning | If conditions 5a/5b don't produce valid output by end of phase 3, ship with ICL only |
 | Chiropractor delays | Daily check-ins on both annotation and additional 20 conversations |
 | Translated MTS produces non-native Romanian phrasing | Disclosed as known limitation; result is data point not just confound |
 | Small N (15 test) gives wide CIs | Acceptable for course paper; report directional findings, not significance claims |
@@ -357,3 +362,45 @@ Pipeline-ul de scoring manual (randomization + rater UI + IRA aggregator)
 se construiește după ce sunt pred-urile produse.
 
 Modificat: EVAL_DECISIONS.md (secțiunea 5 rescrisă, tabel update).
+
+### 2026-06-23 — Conditions reshuffle: drop 4b/6/7, split 5 → 5a/5b, cond3 = RoLlama ICL
+
+Cele 7 condiții originale erau: 1 (Gemini ZS), 2 (Claude ZS), 3 (small ICL,
+base inițial neclar), 4 (Claude ICL), 4b (Gemini ICL, adăugată 2026-06-23),
+5 (synthetic FT pe open-source small), 6 (MTS-only FT), 7 (MTS→synthetic
+stacked FT).
+
+**Drop final:** conditions 4b, 6, 7.
+- 6 și 7: MTS-only e prea departe de domeniul țintă (chiropractor RO);
+  stacked MTS→synthetic e o ablație care nu schimbă concluzia principală
+  low-resource. Resursele se mută pe explorarea base-model-ului pe cond 5.
+- 4b: a duplicat efortul cond 4 fără să schimbe narrative-ul low-resource;
+  comparația cheap-vs-big API e deja captată de cond 1 vs cond 2.
+
+**Split cond 5 → 5a și 5b:** aceleași date sintetice Claude-generated,
+două base modele diferite — Qwen3-4B-Instruct-2507 (5a) și RoLlama3-8B-Instruct
+(5b). Direct relevant pentru întrebarea low-resource: compact multilingv
+vs RO-native mai mare, pe aceleași date.
+
+**Cond 3 = RoLlama3-8B-Instruct + ICL** (același base ca cond 5b). Astfel
+cond 3 vs cond 5b e ablație curată ICL-vs-FT pe base identic. Folosește
+același set de 3 exemple ca cond 4 (`audio18, audio19, audio1`).
+
+**Final 6 conditions:** 1, 2, 3, 4, 5a, 5b.
+
+**Predictions on disk (2026-06-23):**
+- `cond1_gemini_zeroshot/` — 15 preds, eval done.
+- `cond2_claude_zeroshot/` — 15 preds, eval done.
+- `cond4_claude_fewshot/` — 15 preds, eval done.
+- `cond5_qwen/` — cond 5a, 17 preds + 15 meta, eval done.
+- `cond5_RoLlama/` — cond 5b, 17 preds + 15 meta, eval done.
+- cond 3 — pending.
+Toate FT-urile cu `.raw.txt` + `.meta.json` lângă fiecare pred pentru error
+analysis.
+
+Manual scoring se va face pe toate cele 6 condiții finale (6 × 15 = 90 ratings)
+când cond 3 e gata.
+
+Modificat: AGENTS.md (tabel experimental + cross-condition consistency +
+locked decisions item 4 și 8 + parallelism map + risk register),
+MANUAL_SCORING.md (count + comenzi).

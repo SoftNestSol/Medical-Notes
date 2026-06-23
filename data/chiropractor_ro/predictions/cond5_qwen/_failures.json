@@ -1,0 +1,38 @@
+[
+  {
+    "id": "audio6",
+    "error": "SchemaError: schema validation failed: antecedente/2: 'prostatita_cronica' is not one of ['hipertensiune_arteriala', 'diabet_zaharat', 'boli_cardiovasculare', 'osteoporoza', 'artrita_artroza', 'hernia_disc', 'scolioza_cifoza', 'epilepsie', 'cancer_neoplasm', 'boli_autoimune']",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond5_qwen3_4b_synth_claude_ft/audio6.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond5_qwen3_4b_synth_claude_ft/audio6.meta.json"
+  },
+  {
+    "id": "audio15",
+    "error": "SchemaError: schema validation failed: localizarea_durerii/1: 'capsula_limba' is not one of ['cervical', 'toracal', 'lombar', 'sacral_coccis', 'umar_dr', 'umar_stg', 'cot_dr', 'cot_stg', 'pumn_dr', 'pumn_stg', 'sold_dr', 'sold_stg', 'genunchi_dr', 'genunchi_stg', 'glezna_dr', 'glezna_stg', 'cap_ceafa', 'abdomen', 'torace']",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond5_qwen3_4b_synth_claude_ft/audio15.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond5_qwen3_4b_synth_claude_ft/audio15.meta.json"
+  },
+  {
+    "id": "audio25",
+    "error": "ParseError: JSON parse failed after repair attempts: Extra data: line 1 column 1145 (char 1144). Raw (truncated): '{\"motivul_prezentarii\":\"Durere la nivelul genunchiului drept, debut după căzută direct pe genunchi după o excursie de aproximativ 5 metri (împingere verticală). Trosnit la momentul impactului. Secțare a ligamentului colateral-lateral și a menințului.\",\"evaluarea_durerii_vas\":null,\"localizarea_dureri'",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond5_qwen3_4b_synth_claude_ft/audio25.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond5_qwen3_4b_synth_claude_ft/audio25.meta.json"
+  },
+  {
+    "id": "audio31",
+    "error": "SchemaError: schema validation failed: <root>: Additional properties are not allowed ('imagine', 'limitari_c_status' were unexpected)",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond5_qwen3_4b_synth_claude_ft/audio31.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond5_qwen3_4b_synth_claude_ft/audio31.meta.json"
+  },
+  {
+    "id": "audio36",
+    "error": "SchemaError: schema validation failed: antecedente: None is not of type 'array'",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond5_qwen3_4b_synth_claude_ft/audio36.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond5_qwen3_4b_synth_claude_ft/audio36.meta.json"
+  },
+  {
+    "id": "audio37",
+    "error": "SchemaError: schema validation failed: localizarea_durerii/0: 'tibial_drept' is not one of ['cervical', 'toracal', 'lombar', 'sacral_coccis', 'umar_dr', 'umar_stg', 'cot_dr', 'cot_stg', 'pumn_dr', 'pumn_stg', 'sold_dr', 'sold_stg', 'genunchi_dr', 'genunchi_stg', 'glezna_dr', 'glezna_stg', 'cap_ceafa', 'abdomen', 'torace']",
+    "raw_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond5_qwen3_4b_synth_claude_ft/audio37.raw.txt",
+    "meta_path": "/content/Medical-Notes/data/chiropractor_ro/predictions/cond5_qwen3_4b_synth_claude_ft/audio37.meta.json"
+  }
+]

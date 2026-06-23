@@ -1,0 +1,303 @@
+{
+  "n_cases": 15,
+  "ids": [
+    "audio5",
+    "audio6",
+    "audio7",
+    "audio15",
+    "audio16",
+    "audio17",
+    "audio20",
+    "audio22",
+    "audio25",
+    "audio27",
+    "audio28",
+    "audio30",
+    "audio31",
+    "audio36",
+    "audio37"
+  ],
+  "fields": {
+    "evaluarea_durerii_vas": {
+      "accuracy": 0.4666666666666667,
+      "correct": 7,
+      "total": 15
+    },
+    "localizarea_durerii": {
+      "micro_f1": 0.5106382978723404,
+      "macro_f1": 0.2586894586894587,
+      "macro_f1_all_labels": 0.5318038686459738,
+      "sample_f1_mean": 0.4958730158730159,
+      "exact_match_accuracy": 0.26666666666666666,
+      "exact_match_correct": 4,
+      "total": 15,
+      "empty_ref_accuracy": 1.0,
+      "empty_ref_correct": 1,
+      "empty_ref_total": 1,
+      "tp": 12,
+      "fp": 14,
+      "fn": 9,
+      "active_labels": [
+        "cervical",
+        "toracal",
+        "lombar",
+        "sacral_coccis",
+        "umar_dr",
+        "umar_stg",
+        "cot_dr",
+        "cot_stg",
+        "genunchi_dr",
+        "cap_ceafa",
+        "abdomen",
+        "torace"
+      ],
+      "per_label": {
+        "cervical": {
+          "tp": 4,
+          "fp": 5,
+          "fn": 0,
+          "f1": 0.6153846153846154
+        },
+        "toracal": {
+          "tp": 0,
+          "fp": 3,
+          "fn": 2,
+          "f1": 0.0
+        },
+        "lombar": {
+          "tp": 2,
+          "fp": 1,
+          "fn": 0,
+          "f1": 0.8
+        },
+        "sacral_coccis": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 1,
+          "f1": 0.0
+        },
+        "umar_dr": {
+          "tp": 2,
+          "fp": 1,
+          "fn": 0,
+          "f1": 0.8
+        },
+        "umar_stg": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 2,
+          "f1": 0.0
+        },
+        "cot_dr": {
+          "tp": 0,
+          "fp": 2,
+          "fn": 1,
+          "f1": 0.0
+        },
+        "cot_stg": {
+          "tp": 0,
+          "fp": 1,
+          "fn": 0,
+          "f1": 0.0
+        },
+        "pumn_dr": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "pumn_stg": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "sold_dr": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "sold_stg": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "genunchi_dr": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 1,
+          "f1": 0.0
+        },
+        "genunchi_stg": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "glezna_dr": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "glezna_stg": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "cap_ceafa": {
+          "tp": 4,
+          "fp": 0,
+          "fn": 1,
+          "f1": 0.8888888888888888
+        },
+        "abdomen": {
+          "tp": 0,
+          "fp": 1,
+          "fn": 0,
+          "f1": 0.0
+        },
+        "torace": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 1,
+          "f1": 0.0
+        }
+      }
+    },
+    "localizarea_durerii_alta": {
+      "accuracy": 0.4666666666666667,
+      "correct": 7,
+      "total": 15,
+      "empty_ref_accuracy": 0.5833333333333334,
+      "empty_ref_correct": 7,
+      "empty_ref_total": 12
+    },
+    "antecedente": {
+      "micro_f1": 0.625,
+      "macro_f1": 0.5,
+      "macro_f1_all_labels": 0.65,
+      "sample_f1_mean": 0.7644444444444445,
+      "exact_match_accuracy": 0.6666666666666666,
+      "exact_match_correct": 10,
+      "total": 15,
+      "empty_ref_accuracy": 0.75,
+      "empty_ref_correct": 9,
+      "empty_ref_total": 12,
+      "tp": 5,
+      "fp": 5,
+      "fn": 1,
+      "active_labels": [
+        "hipertensiune_arteriala",
+        "diabet_zaharat",
+        "boli_cardiovasculare",
+        "artrita_artroza",
+        "hernia_disc",
+        "scolioza_cifoza",
+        "epilepsie"
+      ],
+      "per_label": {
+        "hipertensiune_arteriala": {
+          "tp": 1,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "diabet_zaharat": {
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "boli_cardiovasculare": {
+          "tp": 0,
+          "fp": 1,
+          "fn": 0,
+          "f1": 0.0
+        },
+        "osteoporoza": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "artrita_artroza": {
+          "tp": 0,
+          "fp": 2,
+          "fn": 0,
+          "f1": 0.0
+        },
+        "hernia_disc": {
+          "tp": 1,
+          "fp": 2,
+          "fn": 0,
+          "f1": 0.5
+        },
+        "scolioza_cifoza": {
+          "tp": 1,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "epilepsie": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 1,
+          "f1": 0.0
+        },
+        "cancer_neoplasm": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        },
+        "boli_autoimune": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "f1": 1.0
+        }
+      }
+    },
+    "antecedente_altele": {
+      "accuracy": 0.4,
+      "correct": 6,
+      "total": 15,
+      "empty_ref_accuracy": 0.5454545454545454,
+      "empty_ref_correct": 6,
+      "empty_ref_total": 11
+    },
+    "medicatie_actuala": {
+      "name_micro_f1": 0.0,
+      "name_sample_f1_mean": 0.7333333333333333,
+      "name_exact_match_accuracy": 0.7333333333333333,
+      "name_exact_match_correct": 11,
+      "total": 15,
+      "empty_ref_accuracy": 0.7857142857142857,
+      "empty_ref_correct": 11,
+      "empty_ref_total": 14,
+      "tp": 0,
+      "fp": 5,
+      "fn": 1,
+      "doza_accuracy_on_matched": null,
+      "doza_correct": 0,
+      "doza_matched": 0
+    },
+    "evaluare_functionala_initiala": {
+      "bertscore_f1_mean": 0.5765223860740661,
+      "scored": 15,
+      "total": 15,
+      "skipped": 0
+    },
+    "motivul_prezentarii": {
+      "automatic_metric": null,
+      "status": "manual_ternary_deferred"
+    }
+  },
+  "prediction_dir": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/predictions/cond5_qwen",
+  "reference_dir": "/home/raduc/Documents/Code/Medical-Notes/data/chiropractor_ro/refs",
+  "include_text_metrics": true
+}

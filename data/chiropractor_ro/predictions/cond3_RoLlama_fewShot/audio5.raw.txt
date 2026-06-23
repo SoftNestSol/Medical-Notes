@@ -1,0 +1,17 @@
+Iată obiectul JSON extras din transcrierea consultației:
+
+{
+  "motivul_prezentarii": "Durere lombară, amorțeală și slăbiciune în picioare, cu o istorie de hernie de disc și disecție a nervului sciatic",
+  "evaluarea_durerii_vas": null,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": "amorțeală și slăbiciune în picioare",
+  "antecedente": [
+    "hernie de disc",
+    "disecție a nervului sciatic"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Observații posturale și biomecanice:\n- Postură antalgică, cu flexie limitată a coloanei lombare și extensie; amorțeală și slăbiciune în picioare.\n- Hernie de disc și disecție a nervului sciatic.\nObiective terapeutice:\n- Reducerea durerii și amorțelii lombare; ameliorarea slăbiciunii în picioare; prevenirea recidivei și promovarea recuperării."
+}

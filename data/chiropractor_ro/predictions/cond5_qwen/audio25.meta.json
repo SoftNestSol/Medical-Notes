@@ -1,0 +1,11 @@
+{
+  "transcript_tokens_before": 1180,
+  "transcript_tokens_after": 1180,
+  "trimmed": false,
+  "input_tokens": 1733,
+  "prediction_status": "no_parseable_json_saved_empty_note",
+  "parse_or_schema_error": "ParseError: JSON parse failed after repair attempts: Extra data: line 1 column 1145 (char 1144). Raw (truncated): '{\"motivul_prezentarii\":\"Durere la nivelul genunchiului drept, debut după căzută direct pe genunchi după o excursie de aproximativ 5 metri (împingere verticală). Trosnit la momentul impactului. Secțare a ligamentului colateral-lateral și a menințului.\",\"evaluarea_durerii_vas\":null,\"localizarea_dureri'",
+  "coercions": [
+    "no parseable JSON object; saved empty schema-valid note so eval can count misses"
+  ]
+}
