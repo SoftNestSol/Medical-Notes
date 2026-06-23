@@ -1,7 +1,7 @@
 conversation_id	include_default	status	rationale
 audio18	1	ready	cot_dr, explicit VAS 6, short diagnostic/objective note; clean enough for ICL.
 audio19	1	ready	lombar + sold_stg, explicit VAS 7, empty antecedents/meds; clean enough for ICL.
-audio1	0	review	VAS and long functional note need manual check before ICL; possible multiple-score edge case.
+audio1	1	ready	3rd default ICL example (2026-06-23): cervical + radiculopathy + upper-limb, explicit VAS 7 (spoken repeatedly), rich functional note; adds diversity vs lumbar/elbow. NB transcript mentions 3->7 evolution, ref keeps single 7.
 audio4	0	fix_before_use	Raw ref has evaluarea_durerii_vas null although transcript states "spre noua"; do not use raw ref.
 audio10	0	fix_before_use	Raw ref has VAS null although transcript states approximate 6; also too long for default prompt.
 audio21	0	fix_before_use	Raw ref VAS 8 is not clearly supported by the visible transcript; spoken pressure scores differ.

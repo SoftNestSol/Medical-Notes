@@ -1,0 +1,15 @@
+{
+  "motivul_prezentarii": "Pacient cu hernie de disc lombară în antecedente, care acuză o jenă/disconfort lombar persistent, accentuat dimineața după repaus și la statul prelungit pe scaun (peste o oră). Episod acut în urmă cu ~3 ani când nu se mai putea ridica din pat. În prezent durerea este surdă, localizată în zona lombară, fără iradiere pe picior.",
+  "evaluarea_durerii_vas": null,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": "inghinal stânga",
+  "antecedente": [
+    "hernia_disc",
+    "scolioza_cifoza"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Observații posturale / biomecanice:\n- rotație de bazin (bazin dus în față pe o parte și înapoi pe cealaltă);\n- ușoară scolioză (prezentă de mic copil);\n- discuri intervertebrale deshidratate la nivel lombar, cu lipsă de mișcare;\n- tensionare musculară lombară la palpare.\nDiagnostic:\n- hernie de disc lombară (dimensiune redusă pe RMN), vertebre tasate, fără afectare radiculară actuală.\nObiective terapeutice:\n- refacerea/hidratarea articulară lombară;\n- masaj, ventuze și miofascial lombar."
+}

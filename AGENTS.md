@@ -92,7 +92,8 @@ Seven conditions, framed as a **low-resource comparison**: with scarce in-domain
 | 1 | Zero-shot prompting | Gemini Flash (cheap API) | none | Cheap API floor |
 | 2 | Zero-shot prompting | Claude Opus (big API) | none | Ceiling (NOT a parity claim) |
 | 3 | Few-shot ICL with real examples | Open-source small (fixed) | 3-5 examples in prompt | Does ICL help the small model? |
-| 4 | Few-shot ICL with real examples | Claude Opus (big API) | 3-5 examples in prompt | ICL ceiling |
+| 4 | Few-shot ICL with real examples | Claude Opus (big API) | 3 examples in prompt | ICL ceiling |
+| 4b | Few-shot ICL with real examples | Gemini Flash (cheap API) | 3 examples in prompt | Does ICL help the cheap floor? (added 2026-06-23 — Gemini ZS was unexpectedly strong) |
 | 5 | Fine-tuned on synthetic chiropractor data | Open-source small (fixed) | LLM-generated RO chiropractor pairs | Main deployment candidate |
 | 6 | Fine-tuned on translated MTS | Open-source small (fixed) | ~1700 translated MTS pairs | Does general medical pretraining help? |
 | 7 | Fine-tuned on MTS → then synthetic chiropractor | Open-source small (fixed) | MTS first, then synthetic | Stacked domain adaptation |
@@ -103,7 +104,8 @@ Open-source small candidates under evaluation: Qwen3-4B / RoLlama3-8B / Gemma3-4
 - Conditions 3, 5, 6, 7 share the same fixed open-source small base model (cond. 1 is a separate cheap API, Gemini Flash)
 - Conditions 2 and 4 share the same big API model (Claude Opus)
 - Conditions 5 and 7 use the same synthetic data (don't regenerate between conditions)
-- ICL conditions (3, 4) use the same N examples and the same selection strategy
+- ICL conditions (3, 4, 4b) use the same N examples and the same selection strategy
+- **ICL example set LOCKED (2026-06-23): N=3, `audio18, audio19, audio1`** (all POOL, never test). Source of truth: `src/ICL/real_examples_manifest.tsv` (rows with `include_default=1` + `status=ready`); `build_real_icl_examples.build_examples()` reads it and asserts no test leakage. To change the set, edit only the `include_default` column. The `fix_before_use` pool pairs (audio4/10/21/24/26/29) have documented-wrong raw refs — do NOT add them as ICL examples.
 
 ---
 
@@ -185,7 +187,7 @@ Per-field metrics, not a single aggregate:
 2. Open-source small model pick — narrowed to Qwen3-4B / RoLlama3-8B / Gemma3-4B (research in progress)
 3. API models — DECIDED: Gemini Flash (cond. 1 floor), Claude Opus (cond. 2/4 ceiling)
 4. Exact metrics per field (especially medication normalization)
-5. Number of few-shot examples in ICL conditions (3, 5, or other — same N across all ICL)
+5. Number of few-shot examples in ICL conditions — DECIDED 2026-06-23: N=3, locked set `audio18, audio19, audio1` (see condition table notes + `src/ICL/real_examples_manifest.tsv`)
 6. Synthetic data volume to generate
 7. Whether `evaluare_functionala_initiala` is mostly verbalized (verify with chiropractors)
 

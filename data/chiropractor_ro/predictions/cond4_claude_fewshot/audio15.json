@@ -1,0 +1,15 @@
+{
+  "motivul_prezentarii": "Pacientul acuză migrene constante, zilnice, localizate pe partea dreaptă a capului (tâmplă și ochi), cu durere occipitală și stări de amețeală, greață și vomă.",
+  "evaluarea_durerii_vas": [
+    5,
+    7
+  ],
+  "localizarea_durerii": [
+    "cap_ceafa"
+  ],
+  "localizarea_durerii_alta": "tâmplă dreapta, zona ochiului drept, occipital",
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Diagnostic:\n- posibil sindrom de arteră vertebrală (test de extensie cervicală menținută 15 sec pozitiv - amețeală și pierdere de echilibru); durere la nivelul subclaviei;\n- inflamație musculatură gât (splenul capului, sternocleidomastoidian, scaleni), posibilă cauză cervicală sau stres\nObiective terapeutice:\n- reducerea inflamației din musculatura gâtului"
+}

@@ -44,6 +44,8 @@ PREDICTIONS = ROOT / "data" / "chiropractor_ro" / "predictions"
 CONDITIONS = {
     "gemini": ("gemini_zero_shot", "cond1_gemini_zeroshot"),
     "claude": ("claude_zero_shot", "cond2_claude_zeroshot"),
+    "claude_icl": ("claude_few_shot", "cond4_claude_fewshot"),
+    "gemini_icl": ("gemini_few_shot", "cond4b_gemini_fewshot"),
 }
 
 

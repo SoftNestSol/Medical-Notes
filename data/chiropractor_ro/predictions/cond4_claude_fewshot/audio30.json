@@ -1,0 +1,25 @@
+{
+  "motivul_prezentarii": "Pacient acuză durere lombară foarte intensă, resimțită pe toată zona lombară (stânga și dreapta), cu iradiere pe picior seara și noaptea. Durerea apare predominant seara, ocazional și în timpul zilei, uneori cu senzație de cădere la ridicare. Și-a luat concediu medical.",
+  "evaluarea_durerii_vas": 10,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": "picior (iradiere)",
+  "antecedente": [
+    "hipertensiune_arteriala",
+    "diabet_zaharat",
+    "hernia_disc"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "clorzoxazona",
+      "doza": null
+    },
+    {
+      "denumire": "diclotard",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- test Lasègue pozitiv la 30 de grade, cu durere la nivelul coloanei lombare;\n- posibilă hernie de disc L4-L5 sau L5-S1\nObiective terapeutice:\n- reducerea procesului inflamator al rădăcinii nervoase;\n- ulterior lucru pe cauză (hernia de disc);\n- recomandare RMN pentru evaluarea canalului medular"
+}

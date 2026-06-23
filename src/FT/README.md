@@ -8,6 +8,13 @@ Training notebook:
 
 https://colab.research.google.com/github/SoftNestSol/Medical-Notes/blob/main/src/FT/synthetic_claude_qlora_train.ipynb
 
+RoLlama exploratory training notebook:
+
+https://colab.research.google.com/github/SoftNestSol/Medical-Notes/blob/main/src/FT/rollama3_synthetic_claude_qlora_train.ipynb
+
+The RoLlama notebook is for model selection / exploratory comparison. The final
+open-source conditions should still use one fixed base model consistently.
+
 First cloud run: set `SMOKE_TEST = True`, run end-to-end, and check that
 `parse/schema sanity` is nonzero. Then switch `SMOKE_TEST = False` for the
 actual condition 5 adapter.

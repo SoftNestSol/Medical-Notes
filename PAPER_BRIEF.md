@@ -52,6 +52,7 @@ E parte din ce face task-ul greu și e și criteriu de evaluare (vezi §6
 | 2 | Zero-shot | Claude Opus (API mare) | ceiling (NU paritate) |
 | 3 | Few-shot ICL | open-source small (fix) | ajută ICL modelul mic? |
 | 4 | Few-shot ICL | Claude Opus | ceiling ICL |
+| 4b | Few-shot ICL | Gemini Flash | ajută ICL floor-ul ieftin? (adăugat 2026-06-23, Gemini ZS surprinzător de bun) |
 | 5 | Fine-tune pe sintetic | open-source small (fix) | candidat principal de deployment |
 | 6 | Fine-tune pe MTS tradus | open-source small (fix) | ajută pretraining medical general? |
 | 7 | Fine-tune MTS → sintetic | open-source small (fix) | adaugă stacking-ul ceva? |
@@ -101,8 +102,9 @@ Astea au dovezi în repo, apucă-te de ele:
   hand-corrected (audio15-23, 25-27). Fișierele din
   `data/chiropractor_ro/notes_by_chatGPT/` sunt **drafturi ChatGPT cu marcaje
   de confidence, NU ground truth.** Nu raporta cifre din ele.
-- ⚠️ **Open decisions:** pick model open-source small, N few-shot, volum
-  sintetic final.
+- ⚠️ **Open decisions:** pick model open-source small, volum sintetic final.
+  (N few-shot DECIS 2026-06-23: N=3, set fix `audio18, audio19, audio1` din
+  POOL — vezi tabelul de condiții + `src/ICL/real_examples_manifest.tsv`.)
 
 **Recomandare:** scrie acum §4. Pentru Results/Discussion fă **schelet cu
 placeholder-e** — tabel cu coloane definite (7 condiții × per-field metrics),

@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Mă doare foarte tare spatele, mă simt încrâncenat, cu mușchii foarte tensionați, de vreo 5 zile, după muncă la câmp.",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "toracal",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "partea de sus a spatelui, între omoplați",
+  "antecedente": [
+    "diabet_zaharat"
+  ],
+  "antecedente_altele": "diabet tip 2; implant dentar",
+  "medicatie_actuala": [
+    {
+      "denumire": "aspirina",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Diagnostic:\n- musculatura romboid tensionată; posibile inflamații la nivelul scalenilor și trapezului;\n- posibilă protruzie discală la nivel toracal (necesită RMN)\nObiective terapeutice:\n- reducerea inflamației în zona toracală și cervicală"
+}

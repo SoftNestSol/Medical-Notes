@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "durere umar drept",
+  "evaluarea_durerii_vas": 8,
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Hepatobil",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Observații funcționale:\n- abductie posibila pana la aproximativ 90 de grade, peste foarte greu;\n- durere la palpare pe tendonul supraspinos, tendonul coracobrahial si alti muschi palpati\nDiagnostic:\n- afectare la nivelul umarului drept (debut 3-4 zile, dupa ridicarea unor greutati)\nObiective terapeutice:\n- proceduri antiinflamatorii (curenti interferentiali / ultrasunet)"
+}
