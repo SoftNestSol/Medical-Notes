@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Mă doare foarte tare spatele, mă simt așa încrâncenat, ca și cum îmi simt mușchii foarte tensionați.",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "toracal",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "diabet_zaharat"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "aspirin",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Partea de romboid tensionată, inflamații la nivelul scalenilor și trapezului. Obiectiv: reducerea inflamației în zona toracală și cervicală."
+}

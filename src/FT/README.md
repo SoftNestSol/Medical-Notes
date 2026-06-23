@@ -4,6 +4,14 @@ Colab entry point:
 
 https://colab.research.google.com/github/SoftNestSol/Medical-Notes/blob/main/src/FT/ft_colab_bootstrap.ipynb
 
+Training notebook:
+
+https://colab.research.google.com/github/SoftNestSol/Medical-Notes/blob/main/src/FT/synthetic_claude_qlora_train.ipynb
+
+First cloud run: set `SMOKE_TEST = True`, run end-to-end, and check that
+`parse/schema sanity` is nonzero. Then switch `SMOKE_TEST = False` for the
+actual condition 5 adapter.
+
 This folder is for conditions 5-7:
 
 - synthetic chiropractor fine-tuning

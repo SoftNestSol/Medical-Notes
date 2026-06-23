@@ -1,0 +1,24 @@
+{
+  "motivul_prezentarii": "Mă doare rău de tot lombarul, nu îl mai suport",
+  "evaluarea_durerii_vas": 10,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala",
+    "diabet_zaharat"
+  ],
+  "antecedente_altele": "alergie la praf; proteză dentară și la cot",
+  "medicatie_actuala": [
+    {
+      "denumire": "clorzoxazona",
+      "doza": null
+    },
+    {
+      "denumire": "diclotard",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Testul Lasègue pozitiv la 30 de grade, cu durere intensă în coloană; cel mai probabil hernie de disc pe L4-L5 sau L5-S1. În primă fază se va lucra antialgic și antiinflamator pentru reducerea inflamației rădăcinii nervoase, ulterior pe cauză (hernia de disc). Se recomandă RMN pentru evaluarea canalului medular."
+}

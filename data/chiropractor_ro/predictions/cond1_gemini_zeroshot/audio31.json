@@ -1,0 +1,15 @@
+{
+  "motivul_prezentarii": "De trei zile mă doare foarte rău tot brațul drept, amorțește și furnică de la umăr până în primele trei degete.",
+  "evaluarea_durerii_vas": 8,
+  "localizarea_durerii": [
+    "cervical",
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": "degete",
+  "antecedente": [
+    "hernia_disc"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [],
+  "evaluare_functionala_initiala": "Problema ar trebui să fie undeva la nivel de C5, C6, unde există o protruzie discală care atinge ligamentul posterior, dar nu este rupt. Este necesară o terapie cu alungiri vertebrale și terapie manuală pentru a reduce protruzia discală."
+}

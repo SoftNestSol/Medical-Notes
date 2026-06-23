@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "mă doare destul de tare umărul",
+  "evaluarea_durerii_vas": 8,
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": "fractură mână dreaptă acum 7 ani",
+  "medicatie_actuala": [
+    {
+      "denumire": "Hepatophil",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "dureros pe orice mișcare, în special în lateral, aproape până la 90 de grade; durere la palpare în tendonul mușchiului supraspinos, tendonul coracobrahial, mușchiul protund și mușchiul infraspinos"
+}

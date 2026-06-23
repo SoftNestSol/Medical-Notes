@@ -1,0 +1,20 @@
+{
+  "motivul_prezentarii": "Durere foarte mare în spate, senzație de mușchi tensionați, de aproximativ 5 zile, apărută după muncă fizică (lucrat pământul)",
+  "evaluarea_durerii_vas": 7,
+  "localizarea_durerii": [
+    "toracal",
+    "cervical"
+  ],
+  "localizarea_durerii_alta": "între omoplați (partea de sus a spatelui)",
+  "antecedente": [
+    "diabet_zaharat"
+  ],
+  "antecedente_altele": "diabet tip 2; implant dentar",
+  "medicatie_actuala": [
+    {
+      "denumire": "aspirina",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Pacient cu partea de romboid tensionată, posibile inflamații la nivelul scalenilor și trapezului. La palpare doare pe mijlocul spatelui și în zona cervicală, fără durere în față; la apăsare amorțește toată mâna până în degete; pe lombar nu doare. Obiectiv: reducerea inflamației în zona toracală și cervicală. Recomandare RMN pentru a exclude protuzii discale sau traumatisme la nivel toracal."
+}

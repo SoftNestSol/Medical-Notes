@@ -1,0 +1,24 @@
+{
+  "motivul_prezentarii": "Mă doare rău de tot lombarul. Nu pot să... nu-l mai suport. Durerea se lasă pe picior, noaptea, seara. Câteodată simt că o să cad când încerc să mă ridic.",
+  "evaluarea_durerii_vas": 10,
+  "localizarea_durerii": [
+    "lombar"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [
+    "hipertensiune_arteriala",
+    "diabet_zaharat"
+  ],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "clorzoxazonă",
+      "doza": null
+    },
+    {
+      "denumire": "diclotard",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Testul Lasegue este afirmativ. Cea mai probabilă cauză este o hernie pe L4L5 sau L5S1. În primă fază trebuie să lucrăm pe anti-algic și anti-inflamator pentru a reduce inflamația rădăcinii nervoase, apoi pe cauza propriu-zisă, hernia de disc. Este necesar un RMN pentru a vedea exact mărimea herniei și cât afectează canalul medular."
+}

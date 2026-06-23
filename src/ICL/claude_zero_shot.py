@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Condition 2: zero-shot extraction cu Claude Opus 4.7 (expensive ceiling).
+Condition 2: zero-shot extraction cu Claude Opus 4.8 (expensive ceiling).
 
 Usage:
     python claude.py <path/to/transcribe.txt>
@@ -24,7 +24,7 @@ from parser import ParseError, SchemaError, parse_note
 
 load_dotenv(ROOT / ".env")
 
-MODEL = "claude-opus-4-7"
+MODEL = "claude-opus-4-8"
 MAX_TOKENS = 2048
 
 SYSTEM_PROMPT = f"""Ești un sistem de extragere de informații clinice din transcrierile consultațiilor unui cabinet de chiropractică din România.

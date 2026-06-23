@@ -1,0 +1,17 @@
+{
+  "motivul_prezentarii": "Durere puternică la umărul drept, apărută după ce a ridicat niște cartoane cu mere",
+  "evaluarea_durerii_vas": 8,
+  "localizarea_durerii": [
+    "umar_dr"
+  ],
+  "localizarea_durerii_alta": null,
+  "antecedente": [],
+  "antecedente_altele": null,
+  "medicatie_actuala": [
+    {
+      "denumire": "Hepatophil",
+      "doza": null
+    }
+  ],
+  "evaluare_functionala_initiala": "Durere la palparea tendonului mușchiului supraspinos (sub trapez), durere mai redusă la tendonul coracobrahial; mobilitate în abducție posibilă până la aproximativ 90 de grade, după care foarte limitată; durere la palparea mușchilor profunzi; cel mai dureros punct la supraspinos. Plan terapeutic: proceduri antiinflamatorii (curenți interferențiali sau ultrasunet)"
+}
